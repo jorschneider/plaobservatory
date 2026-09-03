@@ -805,6 +805,22 @@
       "searchLane": "Theater Army event reports"
     },
     {
+      "id": "POS-TC-E-ARMY-PC",
+      "tier": "theaters",
+      "organization": "Eastern Theater Army",
+      "organizationZh": "东部战区陆军",
+      "position": "Political commissar",
+      "positionZh": "政治委员",
+      "gradeBand": "Theater-deputy grade",
+      "seats": 1,
+      "holderIds": [],
+      "handlerIds": [],
+      "adverseIds": [],
+      "externalHolder": null,
+      "note": "No public record held.",
+      "searchLane": "Theater Army event reports naming 政治委员"
+    },
+    {
       "id": "POS-TC-E-NAVY",
       "tier": "theaters",
       "organization": "Eastern Theater Navy",
@@ -867,11 +883,9 @@
       "seats": 1,
       "holderIds": [],
       "handlerIds": [],
-      "adverseIds": [
-        "PLA-44C5E653B2FE"
-      ],
+      "adverseIds": [],
       "externalHolder": null,
-      "note": "Yin Hongxing lost his NPC seat in June 2026; no successor is publicly named.",
+      "note": "The last known political commissar, Wang Wenquan (王文全), was promoted into the seat on 25 December 2023 but is not yet an officer dossier in this dataset; his 2025 exit is reported only by uncited secondary lists. Yin Hongxing, formerly recorded here, was terminated through the Army military congress and is now mapped to the Southern Theater Army political-commissar seat.",
       "searchLane": "Xinhua promotion ceremony or exact-title event report"
     },
     {
@@ -940,6 +954,24 @@
       "externalHolder": null,
       "note": "No public record held.",
       "searchLane": "Theater Army event reports"
+    },
+    {
+      "id": "POS-TC-S-ARMY-PC",
+      "tier": "theaters",
+      "organization": "Southern Theater Army",
+      "organizationZh": "南部战区陆军",
+      "position": "Political commissar",
+      "positionZh": "政治委员",
+      "gradeBand": "Theater-deputy grade",
+      "seats": 1,
+      "holderIds": [],
+      "handlerIds": [],
+      "adverseIds": [
+        "PLA-44C5E653B2FE"
+      ],
+      "externalHolder": null,
+      "note": "Yin Hongxing lost his NPC seat in June 2026 through the Army military congress; his exact former billet is recorded as theater political commissar in the v7 base but the election unit points to the theater Army.",
+      "searchLane": "Theater Army event reports naming 政治委员"
     },
     {
       "id": "POS-TC-S-NAVY",
@@ -1086,6 +1118,22 @@
       "searchLane": "Theater Army event reports"
     },
     {
+      "id": "POS-TC-W-ARMY-PC",
+      "tier": "theaters",
+      "organization": "Western Theater Army",
+      "organizationZh": "西部战区陆军",
+      "position": "Political commissar",
+      "positionZh": "政治委员",
+      "gradeBand": "Theater-deputy grade",
+      "seats": 1,
+      "holderIds": [],
+      "handlerIds": [],
+      "adverseIds": [],
+      "externalHolder": null,
+      "note": "No public record held.",
+      "searchLane": "Theater Army event reports naming 政治委员"
+    },
+    {
       "id": "POS-TC-W-AF",
       "tier": "theaters",
       "organization": "Western Theater Air Force",
@@ -1213,6 +1261,22 @@
       "externalHolder": null,
       "note": "Acting commander in September 2025; likely commander by June 2026, not formally confirmed.",
       "searchLane": "Theater Army event reports"
+    },
+    {
+      "id": "POS-TC-N-ARMY-PC",
+      "tier": "theaters",
+      "organization": "Northern Theater Army",
+      "organizationZh": "北部战区陆军",
+      "position": "Political commissar",
+      "positionZh": "政治委员",
+      "gradeBand": "Theater-deputy grade",
+      "seats": 1,
+      "holderIds": [],
+      "handlerIds": [],
+      "adverseIds": [],
+      "externalHolder": null,
+      "note": "No public record held.",
+      "searchLane": "Theater Army event reports naming 政治委员"
     },
     {
       "id": "POS-TC-N-NAVY",
@@ -1359,6 +1423,22 @@
       "externalHolder": null,
       "note": "Last officially confirmed March 2025.",
       "searchLane": "Theater Army event reports"
+    },
+    {
+      "id": "POS-TC-C-ARMY-PC",
+      "tier": "theaters",
+      "organization": "Central Theater Army",
+      "organizationZh": "中部战区陆军",
+      "position": "Political commissar",
+      "positionZh": "政治委员",
+      "gradeBand": "Theater-deputy grade",
+      "seats": 1,
+      "holderIds": [],
+      "handlerIds": [],
+      "adverseIds": [],
+      "externalHolder": null,
+      "note": "No public record held.",
+      "searchLane": "Theater Army event reports naming 政治委员"
     },
     {
       "id": "POS-TC-C-AF",

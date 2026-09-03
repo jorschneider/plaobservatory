@@ -168,25 +168,43 @@ if (trackerSrc.cc20Military) {
   trackers.cc20Military = { source: trackerSrc.cc20Military.source, members, laterChanges: trackerSrc.cc20Military.laterChanges ?? [], summary: { total: members.length, full: members.filter((m) => m.membership === "full").length, alternate: members.filter((m) => m.membership === "alternate").length, byStatus: summary }, gaps: trackerSrc.cc20Military.gaps ?? [] };
 }
 if (trackerSrc.eventAttendance) {
-  const events = (trackerSrc.eventAttendance.events ?? []).slice().sort((a, b) => a.date.localeCompare(b.date));
+  const canonicalFamily = (raw) => {
+    const r = String(raw);
+    if (/^A1/.test(r) || /tree-planting|植树/i.test(r)) return "cmc_tree_planting";
+    if (/^A2/.test(r) || /Army Day|八一/i.test(r)) return "august_first_reception";
+    if (/^B1-adjacent/.test(r)) return "npc_military_delegation_other";
+    if (/^B1/.test(r) || /NPC military delegation/i.test(r)) return "npc_military_delegation";
+    if (/^B2/.test(r) || /promotion ceremony/i.test(r)) return "promotion_ceremony";
+    if (/plenum/i.test(r)) return "cc_plenum";
+    return "other_cmc_event";
+  };
+  const events = (trackerSrc.eventAttendance.events ?? []).map((e) => ({ ...e, rawFamily: e.family, family: canonicalFamily(e.family) })).sort((a, b) => a.date.localeCompare(b.date));
   for (const e of events) for (const att of e.namedMilitaryAttendees) att.match = matchZh(att.nameZh);
   const families = [...new Set(events.map((e) => e.family))];
+  // A miss is scored only for recurring families with a stable expected roster. For the two CMC-leader-only families
+  // (tree-planting, Army Day reception) one prior appearance suffices; for the NPC delegation plenary and the promotion
+  // ceremonies, whose reports also name speakers or the officers being promoted, the person must have appeared at the
+  // previous two events of the family. The civilian chairman is never scored.
+  const scoredFamilies = { cmc_tree_planting: 1, august_first_reception: 1, npc_military_delegation: 2, promotion_ceremony: 2 };
   const misses = [];
-  for (const family of families) {
+  for (const family of Object.keys(scoredFamilies)) {
     const fam = events.filter((e) => e.family === family);
-    for (let i = 1; i < fam.length; i++) {
-      const prev = fam[i - 1], cur = fam[i];
+    const need = scoredFamilies[family];
+    for (let i = need; i < fam.length; i++) {
+      const cur = fam[i];
       if (cur.rosterComplete !== "complete_enumeration") continue;
       const present = new Set(cur.namedMilitaryAttendees.map((a) => a.nameZh));
-      for (const att of prev.namedMilitaryAttendees) {
+      const priors = fam.slice(i - need, i);
+      const expected = priors[0].namedMilitaryAttendees.filter((a) => a.nameZh !== "习近平" && priors.every((p) => p.namedMilitaryAttendees.some((x) => x.nameZh === a.nameZh)));
+      for (const att of expected) {
         if (present.has(att.nameZh)) continue;
         const match = matchZh(att.nameZh);
         const adverse = match?.kind === "adverse" ? adverseById.get(match.id) : null;
-        misses.push({ family, nameZh: att.nameZh, nameEn: att.nameEn, expectedFrom: prev.date, missedAt: cur.date, missedEventUrl: cur.url, match, laterResolution: adverse ? { status: adverse.status, formalActionDate: adverse.timeline?.formalAction?.date ?? null, firstSignalDate: adverse.timeline?.firstConcreteSignal?.date ?? null } : null });
+        misses.push({ family, nameZh: att.nameZh, nameEn: att.nameEn, expectedFrom: priors[priors.length - 1].date, missedAt: cur.date, missedEventUrl: cur.url, match, laterResolution: adverse ? { status: adverse.status, formalActionDate: adverse.timeline?.formalAction?.date ?? null, firstSignalDate: adverse.timeline?.firstConcreteSignal?.date ?? null } : null });
       }
     }
   }
-  trackers.eventAttendance = { events, families, misses, summary: { events: events.length, families: families.length, completeRosters: events.filter((e) => e.rosterComplete === "complete_enumeration").length, misses: misses.length, missesLaterConfirmedAdverse: misses.filter((m) => m.laterResolution).length }, gaps: trackerSrc.eventAttendance.gaps ?? [] };
+  trackers.eventAttendance = { events, families, scoredFamilies, misses, summary: { events: events.length, families: families.length, completeRosters: events.filter((e) => e.rosterComplete === "complete_enumeration").length, misses: misses.length, missesLaterConfirmedAdverse: misses.filter((m) => m.laterResolution).length, missesWithNoAdverseRecord: misses.filter((m) => !m.laterResolution).length }, gaps: trackerSrc.eventAttendance.gaps ?? [] };
 }
 if (trackerSrc.seatTurnovers) {
   const posById = new Map(data.positions.map((p) => [p.id, p]));
@@ -199,6 +217,23 @@ if (trackerSrc.seatTurnovers) {
   });
   const open = turnovers.filter((t) => !t.closed), closedT = turnovers.filter((t) => t.closed);
   trackers.seatTurnovers = { turnovers, summary: { turnovers: turnovers.length, closed: closedT.length, open: open.length, medianDaysToFill: median(closedT.map((t) => t.daysOpen)), medianDaysOpenStillVacant: median(open.map((t) => t.daysOpen)), withHandler: turnovers.filter((t) => t.handlerNameZh).length }, gaps: trackerSrc.seatTurnovers.gaps ?? [] };
+}
+// names surfaced by the trackers that are in no dossier and no ledger record: leads for the no-record seats
+{
+  const seen = new Map();
+  const note = (nameZh, nameEn, where, detail, url) => {
+    if (!nameZh || byZh.has(nameZh) || nameZh === "习近平") return;
+    const entry = seen.get(nameZh) ?? { nameZh, nameEn, sightings: [] };
+    if (!entry.sightings.some((x) => x.where === where && x.detail === detail)) entry.sightings.push({ where, detail, url });
+    seen.set(nameZh, entry);
+  };
+  for (const m of trackers.cc20Military?.members ?? []) note(m.nameZh, m.nameEn, "20th Central Committee", `${m.membership} member; ${m.positionAtElectionEn}`, trackers.cc20Military.source.url);
+  for (const r of trackers.promotionCeremonies?.rows ?? []) note(r.nameZh, r.nameEn, "Promotion ceremony", `${r.date}: ${r.billetEn}`, r.url);
+  for (const t of trackers.seatTurnovers?.turnovers ?? []) { if (t.successorNameZh) note(t.successorNameZh, t.successorNameEn, "Seat turnover", `successor at ${t.positionLabel}`, t.successorAppointment?.url ?? t.predecessorExit.url); if (t.handlerNameZh) note(t.handlerNameZh, "", "Seat turnover", `handler at ${t.positionLabel}`, t.handlerFirstSeen?.url ?? t.predecessorExit.url); if (t.predecessorNameZh) note(t.predecessorNameZh, t.predecessorNameEn, "Seat turnover", `predecessor at ${t.positionLabel}`, t.predecessorExit.url); }
+  for (const r of trackers.npcTerminations?.rows ?? []) note(r.nameZh, r.nameEn, "NPC termination", `${r.date}: ${r.electionUnitZh}`, r.url);
+  for (const e of trackers.eventAttendance?.events ?? []) for (const a of e.namedMilitaryAttendees) if (/司令员|政治委员|部长|主任|参谋长|书记|校长|院长|政委/.test(a.titleZh)) note(a.nameZh, a.nameEn, "Event roster", `${e.date}: ${a.titleZh}`, e.url);
+  const leads = [...seen.values()].sort((a, b) => b.sightings.length - a.sightings.length || a.nameZh.localeCompare(b.nameZh));
+  trackers.discoveredNames = { summary: { names: leads.length, fromCentralCommittee: leads.filter((l) => l.sightings.some((x) => x.where === "20th Central Committee")).length, seenTwiceOrMore: leads.filter((l) => l.sightings.length >= 2).length }, leads };
 }
 // title-freshness monitor (no research needed)
 {

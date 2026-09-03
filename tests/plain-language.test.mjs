@@ -59,7 +59,7 @@ const ALLOWED_TOKENS = new Set([
   "principalSeats", "formalOrDated", "vacantOrHandled", "noRecord", "acting", "stale", "conflicting",
   "adverseCount", "confirmedExits", "unresolvedWatches", "adverseVacancy", "turnoverSentence", "handled", "handlerLinks",
   "clockN", "medianSilence", "medianProcess", "minSilence", "maxSilence", "withLastAppearance",
-  "mapped", "officers", "noClaims", "staleHolders", "noRecordByTier", "promoted", "promotedRemoved", "promoCeremonies", "promoMedianDays", "promoMedianYears", "promoSameDay",
+  "mapped", "officers", "noClaims", "staleHolders", "noRecordByTier", "promoted", "promotedRemoved", "promoCeremonies", "promoMedianDays", "promoMedianYears", "promoSameDay", "attendanceEvents", "completeRosters", "scoredMisses", "missesAdverse", "missesUnexplained",
 ]);
 const escapeRegExp = (value) => value.replace(/[.*+?^${}()|[\]\\]/g, "\\$&");
 const wholeWord = (term) => new RegExp(`(?:^|[^\\p{L}\\p{N}_])${escapeRegExp(term)}(?=$|[^\\p{L}\\p{N}_])`, "iu");

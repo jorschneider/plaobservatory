@@ -1,0 +1,1206 @@
+{
+  "turnovers": [
+    {
+      "positionId": "POS-CMC-VC-1",
+      "positionLabel": "CMC vice chairman (seat 1: He Weidong -> Zhang Shengmin)",
+      "predecessorNameZh": "何卫东",
+      "predecessorNameEn": "He Weidong",
+      "predecessorExit": {
+        "date": "2025-10-17",
+        "kind": "expulsion_announced",
+        "url": "https://www.news.cn/20251017/eb11aa8c9e0044f3980bda5cd19037a2/c.html",
+        "verification": "page_fetched_and_confirmed"
+      },
+      "successorNameZh": "张升民",
+      "successorNameEn": "Zhang Shengmin",
+      "successorAppointment": {
+        "date": "2025-10-23",
+        "kind": "party_plenum_decision",
+        "titleZh": "中共中央军事委员会副主席",
+        "url": "http://www.news.cn/politics/20251023/777d21b244c4405c84b544d7cc43e236/c.html",
+        "verification": "page_fetched_and_confirmed"
+      },
+      "handlerNameZh": "",
+      "handlerFirstSeen": null,
+      "note": "Xinhua/MND text 2025-10-17: 中央政治局委员、中央军委副主席何卫东 among 9 expelled from Party and military. First concrete signal: absent from the CMC tree-planting on 2025-04-02 where only 张又侠, 刘振立, 张升民 are listed (https://www.news.cn/20250402/28b125b861c74d2b8b20aff50813f962/c.html, fetched). 4th plenum communiqué (2025-10-23): 全会决定，增补张升民为中共中央军事委员会副主席; it also confirmed the expulsion of 何卫东 et al. State side: NPCSC 18th session 2025-10-28 决定任命张升民为中华人民共和国中央军事委员会副主席，免去何卫东的中华人民共和国中央军事委员会副主席职务 (https://www.news.cn/politics/leaders/20251028/720677a97a7f46b6a9eb1b9e724bbb55/c.html, read via WebFetch). NPC seat terminated 2025-12-27 (公告 第十四号, https://www.news.cn/politics/20251227/c7054b09a1d44338bb0c5f5f275ee033/c.html, fetched)."
+    },
+    {
+      "positionId": "POS-CMC-VC-2",
+      "positionLabel": "CMC vice chairman (seat 2: Zhang Youxia)",
+      "predecessorNameZh": "张又侠",
+      "predecessorNameEn": "Zhang Youxia",
+      "predecessorExit": {
+        "date": "2026-01-24",
+        "kind": "investigation_announced",
+        "url": "https://www.news.cn/legal/20260124/33406074879940878fd3102178790920/c.html",
+        "verification": "page_fetched_and_confirmed"
+      },
+      "successorNameZh": "",
+      "successorNameEn": "",
+      "successorAppointment": null,
+      "handlerNameZh": "",
+      "handlerFirstSeen": null,
+      "note": "Xinhua 2026-01-24: 中央政治局委员、中央军委副主席张又侠，中央军委委员、中央军委联合参谋部参谋长刘振立涉嫌严重违纪违法，经党中央研究，决定对张又侠、刘振立立案审查调查. Last public appearance 2025-12-22 (read the promotion order at the ceremony, https://www.news.cn/politics/leaders/20251222/fb1b217000ac46f8812eeaeb3fd5c261/c.html, fetched). Absence noted 2026-01-21 at the provincial-ministerial study session (CNA, https://www.cna.com.tw/news/acn/202601210238.aspx, fetched, secondary). Formal state removal 2026-08-28: 免去张又侠的中华人民共和国中央军事委员会副主席职务 (https://www.news.cn/politics/20260828/9f7a67c5059e4e7b8a45a8353c5688c8/c.html, fetched); NPC seat terminated same day (公告 第十九号, https://www.news.cn/politics/20260828/880e5ee1563549d99b82c901a20ab62f/c.html, fetched). No successor publicly named through 2026-09-02; the 2026-07-03 ceremony was presided over by 张升民 alone."
+    },
+    {
+      "positionId": "POS-CMC-MEM-1",
+      "positionLabel": "CMC member (Political Work Department director seat)",
+      "predecessorNameZh": "苗华",
+      "predecessorNameEn": "Miao Hua",
+      "predecessorExit": {
+        "date": "2024-11-28",
+        "kind": "suspension_announced",
+        "url": "https://www.chinanews.com.cn/gn/2024/11-28/10327220.shtml",
+        "verification": "page_fetched_and_confirmed"
+      },
+      "successorNameZh": "",
+      "successorNameEn": "",
+      "successorAppointment": null,
+      "handlerNameZh": "",
+      "handlerFirstSeen": null,
+      "note": "Chinanews reprint of 央视新闻 2024-11-28: 中央军委委员、军委政治工作部上将主任苗华，涉嫌严重违纪，经党中央研究，决定对苗华停职检查 (the MND original at mod.gov.cn was unreachable). State CMC seat removed 2025-06-27: 会议经表决，免去苗华的中央军事委员会委员职务 (http://www.news.cn/20250627/167eb086c5f34ddbb9b3aa8d6c563a4f/c.html, fetched). Expelled 2025-10-17 (中央军委委员、军委政治工作部原主任苗华). NPC seat terminated 2025-04-30 per the repo's npc-terminations tracker. No new CMC member named; department-level handler is 陈德民 (see POS-ORG-PWD-DIR)."
+    },
+    {
+      "positionId": "POS-CMC-MEM-2",
+      "positionLabel": "CMC member (Joint Staff chief seat)",
+      "predecessorNameZh": "刘振立",
+      "predecessorNameEn": "Liu Zhenli",
+      "predecessorExit": {
+        "date": "2026-01-24",
+        "kind": "investigation_announced",
+        "url": "https://www.news.cn/legal/20260124/33406074879940878fd3102178790920/c.html",
+        "verification": "page_fetched_and_confirmed"
+      },
+      "successorNameZh": "",
+      "successorNameEn": "",
+      "successorAppointment": null,
+      "handlerNameZh": "",
+      "handlerFirstSeen": null,
+      "note": "Same Xinhua notice as Zhang Youxia. State removal 2026-08-28: 免去刘振立的中华人民共和国中央军事委员会委员职务 (https://www.news.cn/politics/20260828/9f7a67c5059e4e7b8a45a8353c5688c8/c.html, fetched); NPC seat terminated 2026-08-28 (公告 第十九号). Liu's own entry into the seat: first titled 中央军委委员、军委联合参谋部参谋长刘振立 in Xinhua 2023-03-07 (https://www.news.cn/2023-03/07/c_1129417190.htm, fetched), elected state CMC member at the 14th NPC 1st session March 2023."
+    },
+    {
+      "positionId": "POS-CMC-MEM-3",
+      "positionLabel": "CMC member (defense minister seat)",
+      "predecessorNameZh": "李尚福",
+      "predecessorNameEn": "Li Shangfu",
+      "predecessorExit": {
+        "date": "2023-10-24",
+        "kind": "state_cmc_removed",
+        "url": "http://www.npc.gov.cn/npc/c2/c30834/202310/t20231024_432489.html",
+        "verification": "page_fetched_and_confirmed"
+      },
+      "successorNameZh": "",
+      "successorNameEn": "",
+      "successorAppointment": null,
+      "handlerNameZh": "",
+      "handlerFirstSeen": null,
+      "note": "NPC website 2023-10-24 决定免职的名单: 免去李尚福的中华人民共和国中央军事委员会委员职务; same-day 主席令: 免去李尚福的国务委员、国防部部长职务 (http://www.npc.gov.cn/npc/c2/c30834/202310/t20231024_432486.html, fetched). Xinhua 2024-06-27 expulsion notice states the CMC discipline investigation was opened 2023-08-31 (https://www.news.cn/politics/20240627/112b13a716af4c68af5f9af568532d84/c.html, fetched). Successor minister 董军 (2023-12-29) was not made a CMC member; the CMC seat remained empty."
+    },
+    {
+      "positionId": "POS-CMC-MEM-4",
+      "positionLabel": "CMC member (CDIC secretary seat, vacated by Zhang Shengmin's elevation)",
+      "predecessorNameZh": "张升民",
+      "predecessorNameEn": "Zhang Shengmin",
+      "predecessorExit": {
+        "date": "2025-10-23",
+        "kind": "other",
+        "url": "http://www.news.cn/politics/20251023/777d21b244c4405c84b544d7cc43e236/c.html",
+        "verification": "page_fetched_and_confirmed"
+      },
+      "successorNameZh": "",
+      "successorNameEn": "",
+      "successorAppointment": null,
+      "handlerNameZh": "",
+      "handlerFirstSeen": null,
+      "note": "Seat vacated upward, not adversely: 全会决定，增补张升民为中共中央军事委员会副主席 (2025-10-23); state appointment 2025-10-28. Zhang continued as CDIC secretary until 张曙光 was named on 2026-07-03; no new ordinary CMC member has been announced through 2026-09-02 (the 2026-07-03 promotion ceremony names 张曙光 only as 中央军委纪律检查委员会书记兼中央军委监察委员会主任, not as CMC member)."
+    },
+    {
+      "positionId": "POS-MND-MIN",
+      "positionLabel": "Minister of National Defense (Wei Fenghe -> Li Shangfu)",
+      "predecessorNameZh": "魏凤和",
+      "predecessorNameEn": "Wei Fenghe",
+      "predecessorExit": {
+        "date": "2023-03-12",
+        "kind": "replacement_named",
+        "url": "http://www.news.cn/politics/2023lh/2023-03/12/c_1129428794.htm",
+        "verification": "page_fetched_and_confirmed"
+      },
+      "successorNameZh": "李尚福",
+      "successorNameEn": "Li Shangfu",
+      "successorAppointment": {
+        "date": "2023-03-12",
+        "kind": "npc_appointment",
+        "titleZh": "国务委员、国防部部长",
+        "url": "http://www.news.cn/politics/2023lh/2023-03/12/c_1129428794.htm",
+        "verification": "page_fetched_and_confirmed"
+      },
+      "handlerNameZh": "",
+      "handlerFirstSeen": null,
+      "note": "主席令 2023-03-12: 任命李尚福、王小洪、吴政隆、谌贻琴、秦刚为国务委员 ... 任命李尚福（兼）为国防部部长. Wei Fenghe retired at the NPC; Xinhua 2024-06-27 later disclosed his investigation opened 2023-09-21 and his expulsion (http://www.news.cn/politics/20240627/05994521863f4f89979be5f99e445845/c.html, fetched)."
+    },
+    {
+      "positionId": "POS-MND-MIN",
+      "positionLabel": "Minister of National Defense (Li Shangfu -> Dong Jun)",
+      "predecessorNameZh": "李尚福",
+      "predecessorNameEn": "Li Shangfu",
+      "predecessorExit": {
+        "date": "2023-10-24",
+        "kind": "state_office_removed",
+        "url": "http://www.npc.gov.cn/npc/c2/c30834/202310/t20231024_432486.html",
+        "verification": "page_fetched_and_confirmed"
+      },
+      "successorNameZh": "董军",
+      "successorNameEn": "Dong Jun",
+      "successorAppointment": {
+        "date": "2023-12-29",
+        "kind": "npc_appointment",
+        "titleZh": "国防部部长",
+        "url": "http://www.news.cn/politics/20231229/6ef65693269f46a69ae241cbe1a73d00/c.html",
+        "verification": "page_fetched_and_confirmed"
+      },
+      "handlerNameZh": "",
+      "handlerFirstSeen": null,
+      "note": "Xinhua 2023-12-29: 十四届全国人大常委会第七次会议 ... 决定任命董军为国防部部长. Seat was empty 2023-10-24 to 2023-12-29 with no acting minister announced. Dong Jun's Navy commander post passed to 胡中明 on 2023-12-25 (see POS-SVC-NAVY-CDR)."
+    },
+    {
+      "positionId": "POS-ORG-JSD-DIR",
+      "positionLabel": "CMC Joint Staff Department chief",
+      "predecessorNameZh": "刘振立",
+      "predecessorNameEn": "Liu Zhenli",
+      "predecessorExit": {
+        "date": "2026-01-24",
+        "kind": "investigation_announced",
+        "url": "https://www.news.cn/legal/20260124/33406074879940878fd3102178790920/c.html",
+        "verification": "page_fetched_and_confirmed"
+      },
+      "successorNameZh": "",
+      "successorNameEn": "",
+      "successorAppointment": null,
+      "handlerNameZh": "祝传生",
+      "handlerFirstSeen": {
+        "date": "2026-04-08",
+        "url": "https://zh.wikipedia.org/wiki/中央军事委员会联合参谋部",
+        "evidence": "zh.wikipedia JSD leadership list: 祝传生 陆军中将（2026年1月—，主持工作）; his biography (https://zh.wikipedia.org/wiki/祝传生) says 2025年9月调任中央军委联合参谋部副参谋长 and 2026年1月 ... 主持中央军委联合参谋部工作, citing the CCTV 新闻联播 of 2026-04-08 (all-army senior cadre training class). The Xinhua text of that event (https://www.news.cn/politics/leaders/20260408/9fbb1b4fc4cd468ca06f75106932d394/c.html, fetched) names only 张升民 as presiding and does not print Zhu's name; the attribution rests on video/protocol reading.",
+        "verification": "secondary_source_only"
+      },
+      "note": "No appointment act located. Earliest dated official report I could read that places Zhu at the JSD as deputy chief is the CCTV 军事报道 of 2025-11-06 (张又侠会见塞尔维亚国防部长; page fetched, but its text does not print his name)."
+    },
+    {
+      "positionId": "POS-ORG-PWD-DIR",
+      "positionLabel": "CMC Political Work Department director",
+      "predecessorNameZh": "苗华",
+      "predecessorNameEn": "Miao Hua",
+      "predecessorExit": {
+        "date": "2024-11-28",
+        "kind": "suspension_announced",
+        "url": "https://www.chinanews.com.cn/gn/2024/11-28/10327220.shtml",
+        "verification": "page_fetched_and_confirmed"
+      },
+      "successorNameZh": "",
+      "successorNameEn": "",
+      "successorAppointment": null,
+      "handlerNameZh": "陈德民",
+      "handlerFirstSeen": {
+        "date": "2026-02-03",
+        "url": "https://www.zaobao.com.sg/news/china/story20260203-8281356",
+        "evidence": "联合早报 2026-02-03 (fetched): 公开资料显示 ... 中央军委政工部目前由空军中将陈德民主持工作. zh.wikipedia PWD leadership list gives 陈德民 空军中将（2025年12月—，主持工作）without a dated citation; his biography cites a CCTV 军事报道 of 2025-08-26 (all-army WWII-80 symposium, page fetched, text does not name him) for his deputy-director role.",
+        "verification": "secondary_source_only"
+      },
+      "note": "Executive deputy 何宏军 was explicitly titled 中央军委政治工作部常务副主任 at his promotion on 2024-07-09 (http://www.news.cn/politics/leaders/20240709/f1df379c46bb45ccbe98e129524e0830/c.html, fetched) and was expelled 2025-10-17 (军委政治工作部原常务副主任何宏军) with NPC seat terminated 2025-12-27. Miao Hua: state CMC seat removed 2025-06-27, expelled 2025-10-17. No director appointment published through 2026-09-02."
+    },
+    {
+      "positionId": "POS-ORG-LSD-DIR",
+      "positionLabel": "CMC Logistic Support Department director",
+      "predecessorNameZh": "张林",
+      "predecessorNameEn": "Zhang Lin",
+      "predecessorExit": {
+        "date": "2025-09-12",
+        "kind": "npc_seat_revoked",
+        "url": "http://www.xinhuanet.com/politics/20250912/423e6f5d55474eeb9bf5b41410b3aecd/c.html",
+        "verification": "page_fetched_and_confirmed"
+      },
+      "successorNameZh": "",
+      "successorNameEn": "",
+      "successorAppointment": null,
+      "handlerNameZh": "陈炽",
+      "handlerFirstSeen": null,
+      "note": "公告 第十二号 2025-09-12: 中央军委后勤保障部军人代表大会决定罢免张林、高大光的第十四届全国人民代表大会代表职务; zh.wikipedia 张林_(中将) says the unit decision was 2025-07-21. zh.wikipedia LSD page lists 张林 中将（2022年1月—2025年？月）and 陈炽 空军中将（2025年9月—）as director with no dated citation; the repo assesses Chen Chi from about September 2025 on imagery. No dated page naming 陈炽 as 部长 or presiding was found (listed under gaps)."
+    },
+    {
+      "positionId": "POS-ORG-EDD-DIR",
+      "positionLabel": "CMC Equipment Development Department director",
+      "predecessorNameZh": "许学强",
+      "predecessorNameEn": "Xu Xueqiang",
+      "predecessorExit": {
+        "date": "2026-06-26",
+        "kind": "npc_seat_revoked",
+        "url": "https://www.xinhuanet.com/politics/20260626/d5ebd6b6c0834c17b0918475b6402522/c.html",
+        "verification": "page_fetched_and_confirmed"
+      },
+      "successorNameZh": "",
+      "successorNameEn": "",
+      "successorAppointment": null,
+      "handlerNameZh": "",
+      "handlerFirstSeen": null,
+      "note": "公告 第十八号 2026-06-26: 中央军委装备发展部军人代表大会决定罢免许学强的第十四届全国人民代表大会代表职务. zh.wikipedia EDD page dates his tenure 2022年10月—2025年10月 (no citation); repo seeds a 2025-10-18 press report and last appearance 2025-04-24. No successor or handler publicly named. Earlier EDD-related terminations: 张育林, 饶文敏 (deputies) 2023-12-29 (公告 第二号, fetched)."
+    },
+    {
+      "positionId": "POS-ORG-TMD-DIR",
+      "positionLabel": "CMC Training Management Department director",
+      "predecessorNameZh": "王鹏",
+      "predecessorNameEn": "Wang Peng",
+      "predecessorExit": {
+        "date": "2025-12-27",
+        "kind": "npc_seat_revoked",
+        "url": "https://www.news.cn/politics/20251227/c7054b09a1d44338bb0c5f5f275ee033/c.html",
+        "verification": "page_fetched_and_confirmed"
+      },
+      "successorNameZh": "",
+      "successorNameEn": "",
+      "successorAppointment": null,
+      "handlerNameZh": "刘镝",
+      "handlerFirstSeen": null,
+      "note": "公告 第十四号 2025-12-27: 中央军委训练管理部军人代表大会决定罢免王鹏的第十四届全国人民代表大会代表职务; zh.wikipedia 王鹏_(1964年) says the unit decision was 2025-11-10. zh.wikipedia TMD page lists 王鹏 中将（2021年12月—2025年？月）and 刘镝 空军中将（2025年9月—）(no citation); no dated page naming 刘镝 as director was located."
+    },
+    {
+      "positionId": "POS-ORG-PLC-DIR",
+      "positionLabel": "CMC Politics and Law Commission secretary",
+      "predecessorNameZh": "王仁华",
+      "predecessorNameEn": "Wang Renhua",
+      "predecessorExit": {
+        "date": "2025-12-27",
+        "kind": "npc_seat_revoked",
+        "url": "https://www.news.cn/politics/20251227/c7054b09a1d44338bb0c5f5f275ee033/c.html",
+        "verification": "page_fetched_and_confirmed"
+      },
+      "successorNameZh": "",
+      "successorNameEn": "",
+      "successorAppointment": null,
+      "handlerNameZh": "",
+      "handlerFirstSeen": null,
+      "note": "公告 第十四号 2025-12-27: 中央军委政法委员会军人代表大会决定罢免王仁华的第十四届全国人民代表大会代表职务 (this supplies the dated official notice the repo lacked). He had been promoted to general with the exact title 中央军委政法委员会书记 on 2024-03-28 (http://www.news.cn/politics/leaders/20240328/6664137908f446dc8a98fd87ade13dbf/c.html, fetched). zh.wikipedia dates the tenure end to 2025-10 citing a Caixin item on his removal from the central PLC (not reachable). No successor named."
+    },
+    {
+      "positionId": "POS-ORG-CDIC-DIR",
+      "positionLabel": "CMC Discipline Inspection Commission secretary",
+      "predecessorNameZh": "张升民",
+      "predecessorNameEn": "Zhang Shengmin",
+      "predecessorExit": {
+        "date": "2026-07-03",
+        "kind": "replacement_named",
+        "url": "https://www.news.cn/politics/leaders/20260703/e7a831d5766e4c9e89ca8b4c599e0625/c.html",
+        "verification": "page_fetched_and_confirmed"
+      },
+      "successorNameZh": "张曙光",
+      "successorNameEn": "Zhang Shuguang",
+      "successorAppointment": {
+        "date": "2026-07-03",
+        "kind": "promotion_ceremony_title",
+        "titleZh": "中央军委纪律检查委员会书记兼中央军委监察委员会主任",
+        "url": "https://www.news.cn/politics/leaders/20260703/e7a831d5766e4c9e89ca8b4c599e0625/c.html",
+        "verification": "page_fetched_and_confirmed"
+      },
+      "handlerNameZh": "",
+      "handlerFirstSeen": null,
+      "note": "Xinhua 2026-07-03: 习近平向晋升上将军衔的中央军委纪律检查委员会书记兼中央军委监察委员会主任张曙光、空军司令员王刚颁发命令状; 张升民 presided and read the order. Zhang Shengmin had kept the CDIC post concurrently after his October 2025 elevation (zh.wikipedia CDIC page: 2017年1月－2026年7月). zh.wikipedia Army page lists 张曙光 as 陆军中将（2025年7月—2026年6月，负责政治工作）before this appointment (no citation)."
+    },
+    {
+      "positionId": "POS-ORG-AUD-DIR",
+      "positionLabel": "CMC Audit Office auditor general",
+      "predecessorNameZh": "孙斌",
+      "predecessorNameEn": "Sun Bin",
+      "predecessorExit": {
+        "date": "2025-10-28",
+        "kind": "npc_seat_revoked",
+        "url": "http://www.news.cn/politics/20251028/5fdcc325574f48c0b7f7e9f56f76284c/c.html",
+        "verification": "page_fetched_and_confirmed"
+      },
+      "successorNameZh": "",
+      "successorNameEn": "",
+      "successorAppointment": null,
+      "handlerNameZh": "",
+      "handlerFirstSeen": null,
+      "note": "公告 第十三号 2025-10-28: 中央军委办公厅军人代表大会决定罢免孙斌的第十四届全国人民代表大会代表职务 (Audit Office deputies are elected through the General Office unit). zh.wikipedia 审计署 page: 孙斌 少将（2020年12月—2025年10月）. No successor publicly named."
+    },
+    {
+      "positionId": "POS-ORG-GO-DIR",
+      "positionLabel": "CMC General Office director (Zhong Shaojun -> Fang Yongxiang)",
+      "predecessorNameZh": "钟绍军",
+      "predecessorNameEn": "Zhong Shaojun",
+      "predecessorExit": {
+        "date": "2024-03-28",
+        "kind": "replacement_named",
+        "url": "https://zh.wikipedia.org/wiki/方永祥",
+        "verification": "secondary_source_only"
+      },
+      "successorNameZh": "方永祥",
+      "successorNameEn": "Fang Yongxiang",
+      "successorAppointment": {
+        "date": "2024-03-28",
+        "kind": "first_titled_appearance",
+        "titleZh": "中央军委办公厅主任",
+        "url": "https://zh.wikipedia.org/wiki/方永祥",
+        "verification": "secondary_source_only"
+      },
+      "handlerNameZh": "",
+      "handlerFirstSeen": null,
+      "note": "zh.wikipedia 方永祥: 不迟于2024年3月，调任中央军委办公厅主任, citing the CCTV 军事报道 of the 2024-03-28 promotion ceremony and 星岛日报 2024-04-26 (armband observation); 钟绍军 infobox 2013年6月—2024年3月. No official appointment text exists. Zhong's NPC seat was terminated 2026-08-28 (公告 第十九号, fetched; 中央军委办公厅军人代表大会决定罢免张又侠、钟绍军)."
+    },
+    {
+      "positionId": "POS-ORG-GO-DIR",
+      "positionLabel": "CMC General Office director (Fang Yongxiang -> vacant)",
+      "predecessorNameZh": "方永祥",
+      "predecessorNameEn": "Fang Yongxiang",
+      "predecessorExit": {
+        "date": "2025-10-23",
+        "kind": "party_bypass",
+        "url": "http://www.news.cn/politics/20251023/777d21b244c4405c84b544d7cc43e236/c.html",
+        "verification": "page_fetched_and_confirmed"
+      },
+      "successorNameZh": "",
+      "successorNameEn": "",
+      "successorAppointment": null,
+      "handlerNameZh": "邱杨",
+      "handlerFirstSeen": null,
+      "note": "4th plenum communiqué (fetched) promoted eleven alternates to full members (于会文、马汉成、王健、王曦、王永红、王庭凯、王新伟、韦韬、邓亦武、邓修明、卢红); Fang Yongxiang, a higher-ranked alternate, is not among them (bypass inference is the repo's). zh.wikipedia 方永祥: 2025年6月起不再露面; zh.wikipedia General Office page lists 邱杨 少将（2025年3月开始代理—）with no citation; no dated report of Qiu Yang presiding was found."
+    },
+    {
+      "positionId": "POS-ORG-JOCC-EDD",
+      "positionLabel": "CMC Joint Operations Command Center executive deputy director",
+      "predecessorNameZh": "王秀斌",
+      "predecessorNameEn": "Wang Xiubin",
+      "predecessorExit": {
+        "date": "2025-10-17",
+        "kind": "expulsion_announced",
+        "url": "https://www.news.cn/20251017/eb11aa8c9e0044f3980bda5cd19037a2/c.html",
+        "verification": "page_fetched_and_confirmed"
+      },
+      "successorNameZh": "",
+      "successorNameEn": "",
+      "successorAppointment": null,
+      "handlerNameZh": "",
+      "handlerFirstSeen": null,
+      "note": "Expulsion text names 军委联合作战指挥中心原常务副主任王秀斌. zh.wikipedia 王秀斌: JOCC executive deputy 2024年7月—2025年10月, after leaving the Southern Theater command in July 2024 (see POS-TC-S-CDR). No successor publicly named."
+    },
+    {
+      "positionId": "POS-ORG-NDMD-DIR",
+      "positionLabel": "CMC National Defense Mobilization Department director",
+      "predecessorNameZh": "刘发庆",
+      "predecessorNameEn": "Liu Faqing",
+      "predecessorExit": {
+        "date": "2025-10-30",
+        "kind": "replacement_named",
+        "url": "http://www.81.cn/rmjz_203219/zgmb/2025nd11q/bkyw_251904/16420528.html",
+        "verification": "page_fetched_and_confirmed"
+      },
+      "successorNameZh": "张立克",
+      "successorNameEn": "Zhang Like",
+      "successorAppointment": {
+        "date": "2025-10-30",
+        "kind": "first_titled_appearance",
+        "titleZh": "军委国防动员部部长",
+        "url": "http://www.81.cn/rmjz_203219/zgmb/2025nd11q/bkyw_251904/16420528.html",
+        "verification": "page_fetched_and_confirmed"
+      },
+      "handlerNameZh": "",
+      "handlerFirstSeen": null,
+      "note": "81.cn (中国民兵) 2025-11-21: 10月30日，军委国防动员部在北京举行第二届“最美新时代国动人”发布仪式 ... 军委国防动员部张立克部长出席发布仪式并在新闻舆论工作会议上讲话，王献军副部长主持. Repeated 2026-02-10: 张立克部长出席大会并讲话 (http://www.81.cn/rmjz_203219/zgmb/2026nd3q/bkyw_252500/16448837.html, fetched). Liu Faqing's exit date is not published; zh.wikipedia NDMD page: 刘发庆 中将（2021年12月—2025年？月）. Not an adverse exit as far as the record shows."
+    },
+    {
+      "positionId": "POS-ORG-NDMD-PC",
+      "positionLabel": "CMC National Defense Mobilization Department political commissar",
+      "predecessorNameZh": "王东海",
+      "predecessorNameEn": "Wang Donghai",
+      "predecessorExit": {
+        "date": "2026-02-26",
+        "kind": "npc_seat_revoked",
+        "url": "https://www.news.cn/politics/20260226/d679a70cddd945f1908e371b94c93c48/c.html",
+        "verification": "page_fetched_and_confirmed"
+      },
+      "successorNameZh": "",
+      "successorNameEn": "",
+      "successorAppointment": null,
+      "handlerNameZh": "",
+      "handlerFirstSeen": null,
+      "note": "公告 第十六号 2026-02-26: 中央军委国防动员部军人代表大会决定罢免王东海的第十四届全国人民代表大会代表职务. Last titled appearance 2025-05-23: 军委国防动员部王东海政委 ... 作党课辅导 (http://www.81.cn/dy_208579/16392784.html, fetched). No successor named."
+    },
+    {
+      "positionId": "POS-TC-E-CDR",
+      "positionLabel": "Eastern Theater Command commander",
+      "predecessorNameZh": "林向阳",
+      "predecessorNameEn": "Lin Xiangyang",
+      "predecessorExit": {
+        "date": "2025-10-17",
+        "kind": "expulsion_announced",
+        "url": "https://www.news.cn/20251017/eb11aa8c9e0044f3980bda5cd19037a2/c.html",
+        "verification": "page_fetched_and_confirmed"
+      },
+      "successorNameZh": "杨志斌",
+      "successorNameEn": "Yang Zhibin",
+      "successorAppointment": {
+        "date": "2025-12-22",
+        "kind": "promotion_ceremony_title",
+        "titleZh": "东部战区司令员",
+        "url": "https://www.news.cn/politics/leaders/20251222/fb1b217000ac46f8812eeaeb3fd5c261/c.html",
+        "verification": "page_fetched_and_confirmed"
+      },
+      "handlerNameZh": "杨志斌",
+      "handlerFirstSeen": {
+        "date": "2025-09-30",
+        "url": "https://www.nbs.cn/tv/21/2/202509/t20250930_766321.html",
+        "evidence": "Nanjing TV 2025-09-30 (fetched): 江苏省暨南京市各界向雨花台烈士敬献花篮仪式举行 ... 东部战区领导出席仪式 — the theater leader is not named in text; zh.wikipedia 东部战区 attributes this to 杨志斌 (空军上将（2025年9月—至今，2025年9月—12月代理）) and 杨志斌's biography says 2025年9月调任东部战区副司令员，同年12月任东部战区司令员.",
+        "verification": "secondary_source_only"
+      },
+      "note": "Expulsion text: 东部战区原司令员林向阳 (already 原 by 2025-10-17; zh.wikipedia 东部战区 dates his tenure 2022年1月—2025年3月). Ceremony text 2025-12-22: 习近平向晋升上将军衔的东部战区司令员杨志斌、中部战区司令员韩胜延颁发命令状. Gap between Lin's last titled appearance and Yang's formalization is not officially bridged."
+    },
+    {
+      "positionId": "POS-TC-E-PC",
+      "positionLabel": "Eastern Theater Command political commissar",
+      "predecessorNameZh": "刘青松",
+      "predecessorNameEn": "Liu Qingsong",
+      "predecessorExit": {
+        "date": "2025-09-30",
+        "kind": "absence_noted",
+        "url": "https://zh.wikipedia.org/wiki/东部战区",
+        "verification": "secondary_source_only"
+      },
+      "successorNameZh": "",
+      "successorNameEn": "",
+      "successorAppointment": null,
+      "handlerNameZh": "张继春",
+      "handlerFirstSeen": null,
+      "note": "Liu Qingsong moved from Northern Theater PC to Eastern Theater PC in June 2023 (zh.wikipedia 刘青松_(解放军), citing CCTV 2023-07-06 coverage of Xi's inspection of the ETC; official title visible in the 2023-06-28 ceremony report only for his successor 郑璇). zh.wikipedia 东部战区 lists 刘青松 海军上将（2023年6月—2025年9月）and 张继春 火箭军上将（2025年9月开始代理—）without citations; CSIS/CASI classify Liu as missing (repo). No official notice, no NPC termination, and no dated report naming 张继春 presiding were found; the 2025-09-30 date is only the month-level Wikipedia claim anchored to the Nanjing ceremony page."
+    },
+    {
+      "positionId": "POS-TC-S-CDR",
+      "positionLabel": "Southern Theater Command commander (Wang Xiubin -> Wu Yanan)",
+      "predecessorNameZh": "王秀斌",
+      "predecessorNameEn": "Wang Xiubin",
+      "predecessorExit": {
+        "date": "2024-07-31",
+        "kind": "replacement_named",
+        "url": "https://www.guancha.cn/politics/2024_07_31_743388.shtml",
+        "verification": "secondary_source_only"
+      },
+      "successorNameZh": "吴亚男",
+      "successorNameEn": "Wu Yanan",
+      "successorAppointment": {
+        "date": "2024-07-31",
+        "kind": "first_titled_appearance",
+        "titleZh": "南部战区司令员",
+        "url": "https://www.guancha.cn/politics/2024_07_31_743388.shtml",
+        "verification": "secondary_source_only"
+      },
+      "handlerNameZh": "",
+      "handlerFirstSeen": null,
+      "note": "观察者网 2024-07-31 quoting 广东新闻联播: 7月31日下午，广东省委书记黄坤明率团到南部战区机关开展走访慰问 ... 南部战区司令员吴亚男、政治委员王文全等出席会议. Official provincial confirmation of the exact title: 南部战区司令员吴亚男 at the Guangdong tree-planting, sz.gov.cn 2025-03-17 (https://www.sz.gov.cn/cn/xxgk/zfxxgj/zwdt/content/post_12073903.html, read via WebFetch). Wang Xiubin went to the JOCC (see POS-ORG-JOCC-EDD). zh.wikipedia 南部战区 further lists 吴亚男 陆军上将（2024年7月—2025年10月）and 王显峰 海军中将（2025年10月开始代理—）with no citation; the repo still carries Wu as holder (last exact title 2025-03) — see gaps."
+    },
+    {
+      "positionId": "POS-TC-S-PC",
+      "positionLabel": "Southern Theater Command political commissar",
+      "predecessorNameZh": "王建武",
+      "predecessorNameEn": "Wang Jianwu",
+      "predecessorExit": {
+        "date": "2023-12-25",
+        "kind": "replacement_named",
+        "url": "http://www.news.cn/politics/leaders/20231225/9db60f951dc842cba6c8806e3914b9e5/c.html",
+        "verification": "page_fetched_and_confirmed"
+      },
+      "successorNameZh": "王文全",
+      "successorNameEn": "Wang Wenquan",
+      "successorAppointment": {
+        "date": "2023-12-25",
+        "kind": "promotion_ceremony_title",
+        "titleZh": "南部战区政治委员",
+        "url": "http://www.news.cn/politics/leaders/20231225/9db60f951dc842cba6c8806e3914b9e5/c.html",
+        "verification": "page_fetched_and_confirmed"
+      },
+      "handlerNameZh": "",
+      "handlerFirstSeen": null,
+      "note": "Xinhua 2023-12-25: 这次晋升上将军衔的军官是：南部战区政治委员王文全、海军司令员胡中明. zh.wikipedia 南部战区 lists 王文全 陆军上将（2023年12月—2025年10月）with no citation for the end. Note on the repo's adverse mapping: 尹红星 (NPC seat terminated 2026-06-26, elected through 陆军) was 南部战区陆军政委 from 2024-07 per zh.wikipedia 尹红星, not the theater political commissar; his termination does not by itself vacate this seat."
+    },
+    {
+      "positionId": "POS-TC-W-CDR",
+      "positionLabel": "Western Theater Command commander",
+      "predecessorNameZh": "汪海江",
+      "predecessorNameEn": "Wang Haijiang",
+      "predecessorExit": {
+        "date": "2025-09-30",
+        "kind": "absence_noted",
+        "url": "https://zh.wikipedia.org/wiki/西部战区",
+        "verification": "secondary_source_only"
+      },
+      "successorNameZh": "",
+      "successorNameEn": "",
+      "successorAppointment": null,
+      "handlerNameZh": "文俊飞",
+      "handlerFirstSeen": null,
+      "note": "zh.wikipedia 西部战区 lists 汪海江 上将（2021年8月—2025年9月）and 文俊飞 空军中将（2025年9月—）as deputy commander, both without dated citations; the month is not anchored to a readable page (date above is the Wikipedia month, day not established). The repo cites a Sichuan discipline-commission page of 2026-02-13 (https://scjc.gov.cn/scjc/zhyw01/2026/2/13/840aeab3436f4a9f8a4e396eb511f0bf.shtml) for Wen Junfei's exact deputy-commander title; that page returned 503/connection reset in this session. No official notice on Wang Haijiang, no NPC termination."
+    },
+    {
+      "positionId": "POS-TC-W-PC",
+      "positionLabel": "Western Theater Command political commissar",
+      "predecessorNameZh": "李凤彪",
+      "predecessorNameEn": "Li Fengbiao",
+      "predecessorExit": {
+        "date": "2026-06-26",
+        "kind": "npc_seat_revoked",
+        "url": "https://www.xinhuanet.com/politics/20260626/d5ebd6b6c0834c17b0918475b6402522/c.html",
+        "verification": "page_fetched_and_confirmed"
+      },
+      "successorNameZh": "",
+      "successorNameEn": "",
+      "successorAppointment": null,
+      "handlerNameZh": "张韶颖",
+      "handlerFirstSeen": null,
+      "note": "公告 第十八号 2026-06-26: 西部战区军人代表大会决定罢免李凤彪的第十四届全国人民代表大会代表职务. zh.wikipedia 李凤彪 infobox ends the tenure 2025年9月 and 西部战区 lists 张韶颖 火箭军中将（2025年9月—，负责政治工作）as deputy PC/PWD director (no citations). The repo's 2026-02-12 exact-title source for 张韶颖 (scjc.gov.cn 2026-02-13) could not be fetched here."
+    },
+    {
+      "positionId": "POS-TC-N-CDR",
+      "positionLabel": "Northern Theater Command commander",
+      "predecessorNameZh": "王强",
+      "predecessorNameEn": "Wang Qiang",
+      "predecessorExit": {
+        "date": "2024-07-31",
+        "kind": "replacement_named",
+        "url": "https://std.stheadline.com/sc/realtime/article/2014856/",
+        "verification": "secondary_source_only"
+      },
+      "successorNameZh": "黄铭",
+      "successorNameEn": "Huang Ming",
+      "successorAppointment": {
+        "date": "2025-01-25",
+        "kind": "first_titled_appearance_official",
+        "titleZh": "北部战区司令员",
+        "url": "https://www.ln.gov.cn/web/zwgkx/rdxx01_105674/2025012609033371811/index.shtml",
+        "verification": "page_fetched_and_confirmed"
+      },
+      "handlerNameZh": "彭京堂",
+      "handlerFirstSeen": {
+        "date": "2026-04-08",
+        "url": "https://zh.wikipedia.org/wiki/北部战区",
+        "evidence": "zh.wikipedia 北部战区 lists 黄铭 上将（2024年7月—2025年9月）and 彭京堂 中将（2026年4月开始代理—）; the repo's protocol observation is the 2026-04-08 all-army senior cadre training class (Xinhua text https://www.news.cn/politics/leaders/20260408/9fbb1b4fc4cd468ca06f75106932d394/c.html, fetched, names no theater officers).",
+        "verification": "secondary_source_only"
+      },
+      "note": "星岛 2024-08-02 (fetched): 辽宁八一军政座谈会 7月31日 ... 黄铭以北部战区司令员身份出席 (Wang Qiang moved to Central Theater). Liaoning provincial government 2025-01-26 (fetched): 1月25日，迎新春军政座谈会在沈阳举行 ... 北部战区司令员黄铭主持并讲话，北部战区政治委员郑璇出席并讲话. Huang Ming's own exit from the seat is not officially documented; the repo records a scope caveat and a conflict with Peng Jingtang's apparent role."
+    },
+    {
+      "positionId": "POS-TC-N-PC",
+      "positionLabel": "Northern Theater Command political commissar",
+      "predecessorNameZh": "刘青松",
+      "predecessorNameEn": "Liu Qingsong",
+      "predecessorExit": {
+        "date": "2023-06-28",
+        "kind": "replacement_named",
+        "url": "http://www.news.cn/politics/leaders/2023-06/28/c_1129721994.htm",
+        "verification": "page_fetched_and_confirmed"
+      },
+      "successorNameZh": "郑璇",
+      "successorNameEn": "Zheng Xuan",
+      "successorAppointment": {
+        "date": "2023-06-28",
+        "kind": "promotion_ceremony_title",
+        "titleZh": "北部战区政治委员",
+        "url": "http://www.news.cn/politics/leaders/2023-06/28/c_1129721994.htm",
+        "verification": "page_fetched_and_confirmed"
+      },
+      "handlerNameZh": "李东友",
+      "handlerFirstSeen": null,
+      "note": "Xinhua 2023-06-28: 这次晋升上将军衔的军官是：北部战区政治委员郑璇、军事科学院政治委员凌焕新 (Liu Qingsong moved to Eastern Theater PC). Zheng Xuan's title reconfirmed 2025-01-25 by the Liaoning government page (fetched). zh.wikipedia 北部战区 lists 郑璇 陆军上将（2023年6月—2025年9月）and 李东友 中将（2025年9月开始代理—）with no citations; no dated page naming 李东友 presiding was located."
+    },
+    {
+      "positionId": "POS-TC-C-CDR",
+      "positionLabel": "Central Theater Command commander",
+      "predecessorNameZh": "王强",
+      "predecessorNameEn": "Wang Qiang",
+      "predecessorExit": {
+        "date": "2025-09-03",
+        "kind": "absence_noted",
+        "url": "https://www.cna.com.tw/news/acn/202509030047.aspx",
+        "verification": "secondary_source_only"
+      },
+      "successorNameZh": "韩胜延",
+      "successorNameEn": "Han Shengyan",
+      "successorAppointment": {
+        "date": "2025-12-22",
+        "kind": "promotion_ceremony_title",
+        "titleZh": "中部战区司令员",
+        "url": "https://www.news.cn/politics/leaders/20251222/fb1b217000ac46f8812eeaeb3fd5c261/c.html",
+        "verification": "page_fetched_and_confirmed"
+      },
+      "handlerNameZh": "韩胜延",
+      "handlerFirstSeen": {
+        "date": "2025-09-03",
+        "url": "https://www.cna.com.tw/news/acn/202509030047.aspx",
+        "evidence": "CNA 2025-09-03 (fetched): 今年閱兵總指揮由中部戰區空軍司令員韓勝延中將擔任，與往年由首都在地的軍區或戰區司令員擔任總指揮的慣例不同 — the parade commander role customarily held by the Central Theater commander was performed by Han as theater deputy/TCAF commander.",
+        "verification": "secondary_source_only"
+      },
+      "note": "Seat chain since 2023: 黄铭 named 中部战区司令员 at his promotion 2023-01-18 (http://www.news.cn/politics/leaders/2023-01/18/c_1129297808.htm, fetched); 王强 took over in July 2024 when Huang moved to the Northern Theater (星岛 2024-08-02, secondary; zh.wikipedia 王强_(1963年) cites CCTV 2024-07-31 reception footage); zh.wikipedia notes Wang Qiang absent from the 2025-07-31 MND reception, still seen at the 2025-10-23 plenum, absent from the 2025-12-22 ceremony where 韩胜延 was formalized. No adverse notice on Wang Qiang."
+    },
+    {
+      "positionId": "POS-TC-C-PC",
+      "positionLabel": "Central Theater Command political commissar",
+      "predecessorNameZh": "徐德清",
+      "predecessorNameEn": "Xu Deqing",
+      "predecessorExit": {
+        "date": "2025-07-31",
+        "kind": "absence_noted",
+        "url": "https://zh.wikipedia.org/wiki/王强_(1963年)",
+        "verification": "secondary_source_only"
+      },
+      "successorNameZh": "",
+      "successorNameEn": "",
+      "successorAppointment": null,
+      "handlerNameZh": "梁平",
+      "handlerFirstSeen": null,
+      "note": "zh.wikipedia 王强_(1963年): at the 2025-07-31 MND reception 王强和时任中部战区政治委员徐德清作为驻京部队主要领导同志均缺席会议 (citing CCTV footage of the 2025 and 2024 receptions; pages fetched but text prints no names). zh.wikipedia 中部战区 lists 徐德清 上将（2022年1月—2025年10月）and 梁平 中将（2025年10月代理—）without citations. No official notice on Xu Deqing; no NPC termination; no dated page naming 梁平 presiding."
+    },
+    {
+      "positionId": "POS-SVC-ARMY-CDR",
+      "positionLabel": "PLA Army commander",
+      "predecessorNameZh": "李桥铭",
+      "predecessorNameEn": "Li Qiaoming",
+      "predecessorExit": {
+        "date": "2026-02-26",
+        "kind": "npc_seat_revoked",
+        "url": "https://www.news.cn/politics/20260226/d679a70cddd945f1908e371b94c93c48/c.html",
+        "verification": "page_fetched_and_confirmed"
+      },
+      "successorNameZh": "",
+      "successorNameEn": "",
+      "successorAppointment": null,
+      "handlerNameZh": "蔡志军",
+      "handlerFirstSeen": {
+        "date": "2025-07-25",
+        "url": "https://zh.wikipedia.org/wiki/蔡志军",
+        "evidence": "zh.wikipedia 蔡志军: 2025年，任陆军参谋长, citing Pakistan ISPR 2025-07-25 (Munir's China visit) and CCTV 2025-07-25 韩正会见巴基斯坦陆军参谋长 (Xinhua photo page https://www.news.cn/photo/20250725/c8999a53a2e546099d98ea9b7c966cc7/c.html read via WebFetch: captions name no Chinese officer). zh.wikipedia 陆军 lists 蔡志军 陆军中将（2025年7月—，负责军事工作）.",
+        "verification": "secondary_source_only"
+      },
+      "note": "公告 第十六号 2026-02-26: 陆军军人代表大会决定罢免李桥铭、丁来富的第十四届全国人民代表大会代表职务. Li first appeared as 陆军司令员 on 2023-01-03 (界面 quoting 人民陆军 WeChat: 陆军司令员李桥铭作动员讲话，陆军政治委员秦树桐主持仪式; https://www.jiemian.com/article/8681940.html, fetched). zh.wikipedia 陆军 dates his tenure 2022年9月—2024年12月; no replacement act was published."
+    },
+    {
+      "positionId": "POS-SVC-ARMY-PC",
+      "positionLabel": "PLA Army political commissar (Qin Shutong -> Chen Hui)",
+      "predecessorNameZh": "秦树桐",
+      "predecessorNameEn": "Qin Shutong",
+      "predecessorExit": {
+        "date": "2024-12-23",
+        "kind": "replacement_named",
+        "url": "http://www.news.cn/20241223/a539b2e3c30b40ef9ea65f29c0ef31f7/c.html",
+        "verification": "page_fetched_and_confirmed"
+      },
+      "successorNameZh": "陈辉",
+      "successorNameEn": "Chen Hui",
+      "successorAppointment": {
+        "date": "2024-12-23",
+        "kind": "promotion_ceremony_title",
+        "titleZh": "陆军政治委员",
+        "url": "http://www.news.cn/20241223/a539b2e3c30b40ef9ea65f29c0ef31f7/c.html",
+        "verification": "page_fetched_and_confirmed"
+      },
+      "handlerNameZh": "",
+      "handlerFirstSeen": null,
+      "note": "Xinhua 2024-12-23: 习近平向晋升上将军衔的陆军政治委员陈辉颁发命令状. Qin Shutong was expelled 2025-10-17 as 陆军原政委秦树桐 (fetched)."
+    },
+    {
+      "positionId": "POS-SVC-ARMY-PC",
+      "positionLabel": "PLA Army political commissar (Chen Hui -> vacant)",
+      "predecessorNameZh": "陈辉",
+      "predecessorNameEn": "Chen Hui",
+      "predecessorExit": {
+        "date": "2025-12-22",
+        "kind": "absence_noted",
+        "url": "https://www.zaobao.com.sg/realtime/china/story20251224-8008885",
+        "verification": "secondary_source_only"
+      },
+      "successorNameZh": "",
+      "successorNameEn": "",
+      "successorAppointment": null,
+      "handlerNameZh": "郑堰坡",
+      "handlerFirstSeen": null,
+      "note": "联合早报 2025-12-24 (fetched, quoting 明报): 陆军政委陈辉 attended the October 2025 plenum but did not appear at the 2025-12-22 promotion ceremony, where only six generals were present. zh.wikipedia 陆军 lists 陈辉 陆军上将（2024年12月—2025年12月）, 张曙光 陆军中将（2025年7月—2026年6月，负责政治工作）and 郑堰坡 陆军中将（2026年6月—，负责政治工作）; 郑堰坡's biography says 2025年12月任陆军政治工作部主任 citing the CCTV 新闻联播 of 2025-12-31 (page fetched, text prints no names). CSIS classifies Chen Hui as missing (repo). No official notice."
+    },
+    {
+      "positionId": "POS-SVC-NAVY-CDR",
+      "positionLabel": "PLA Navy commander (Dong Jun -> Hu Zhongming)",
+      "predecessorNameZh": "董军",
+      "predecessorNameEn": "Dong Jun",
+      "predecessorExit": {
+        "date": "2023-12-25",
+        "kind": "replacement_named",
+        "url": "http://www.news.cn/politics/leaders/20231225/9db60f951dc842cba6c8806e3914b9e5/c.html",
+        "verification": "page_fetched_and_confirmed"
+      },
+      "successorNameZh": "胡中明",
+      "successorNameEn": "Hu Zhongming",
+      "successorAppointment": {
+        "date": "2023-12-25",
+        "kind": "promotion_ceremony_title",
+        "titleZh": "海军司令员",
+        "url": "http://www.news.cn/politics/leaders/20231225/9db60f951dc842cba6c8806e3914b9e5/c.html",
+        "verification": "page_fetched_and_confirmed"
+      },
+      "handlerNameZh": "",
+      "handlerFirstSeen": null,
+      "note": "Xinhua 2023-12-25: 这次晋升上将军衔的军官是：南部战区政治委员王文全、海军司令员胡中明. Dong Jun was appointed defense minister four days later (2023-12-29)."
+    },
+    {
+      "positionId": "POS-SVC-NAVY-CDR",
+      "positionLabel": "PLA Navy commander (Hu Zhongming -> vacant)",
+      "predecessorNameZh": "胡中明",
+      "predecessorNameEn": "Hu Zhongming",
+      "predecessorExit": {
+        "date": "2025-10-23",
+        "kind": "absence_noted",
+        "url": "https://zh.wikipedia.org/wiki/胡中明",
+        "verification": "secondary_source_only"
+      },
+      "successorNameZh": "",
+      "successorNameEn": "",
+      "successorAppointment": null,
+      "handlerNameZh": "张峥",
+      "handlerFirstSeen": {
+        "date": "2025-12-22",
+        "url": "https://zh.wikipedia.org/wiki/中国人民解放军海军",
+        "evidence": "zh.wikipedia 海军 leadership list: 张峥 海军中将（2025年12月—，负责军事工作）citing the CCTV 军事报道 of the 2025-12-22 promotion ceremony and SCMP 2026-08-05; 张峥's biography: 2025年9月，升任海军参谋长. The CCTV page (https://tv.cctv.com/2025/12/22/VIDENpJ5npwQB1F4ow3KByTR251222.shtml, fetched) carries only the video title.",
+        "verification": "secondary_source_only"
+      },
+      "note": "zh.wikipedia 胡中明: 2025年10月胡中明缺席中共二十屆四中全會 ... 同年11月缺席「福建艦」航母入列授旗儀式 (citing BBC 2025-11-07 and 星岛). CSIS classifies him as missing (repo). No official notice, no NPC termination, no appointment of a successor through 2026-09-02."
+    },
+    {
+      "positionId": "POS-SVC-NAVY-PC",
+      "positionLabel": "PLA Navy political commissar",
+      "predecessorNameZh": "袁华智",
+      "predecessorNameEn": "Yuan Huazhi",
+      "predecessorExit": {
+        "date": "2025-10-17",
+        "kind": "expulsion_announced",
+        "url": "https://www.news.cn/20251017/eb11aa8c9e0044f3980bda5cd19037a2/c.html",
+        "verification": "page_fetched_and_confirmed"
+      },
+      "successorNameZh": "",
+      "successorNameEn": "",
+      "successorAppointment": null,
+      "handlerNameZh": "胡瑜海",
+      "handlerFirstSeen": null,
+      "note": "Expulsion text: 海军原政委袁华智; NPC seat terminated 2025-10-28 (公告 第十三号: 海军军人代表大会决定罢免袁华智, fetched). zh.wikipedia 海军 lists 胡瑜海 海军中将（2025年12月—，政治工作部主任，负责政治工作）without a dated citation; no dated page naming him presiding was located."
+    },
+    {
+      "positionId": "POS-SVC-AF-CDR",
+      "positionLabel": "PLA Air Force commander",
+      "predecessorNameZh": "常丁求",
+      "predecessorNameEn": "Chang Dingqiu",
+      "predecessorExit": {
+        "date": "2025-12-22",
+        "kind": "absence_noted",
+        "url": "https://www.zaobao.com.sg/realtime/china/story20251224-8008885",
+        "verification": "secondary_source_only"
+      },
+      "successorNameZh": "王刚",
+      "successorNameEn": "Wang Gang",
+      "successorAppointment": {
+        "date": "2026-07-03",
+        "kind": "promotion_ceremony_title",
+        "titleZh": "空军司令员",
+        "url": "https://www.news.cn/politics/leaders/20260703/e7a831d5766e4c9e89ca8b4c599e0625/c.html",
+        "verification": "page_fetched_and_confirmed"
+      },
+      "handlerNameZh": "王刚",
+      "handlerFirstSeen": {
+        "date": "2025-12-22",
+        "url": "https://www.zaobao.com.sg/realtime/china/story20251224-8008885",
+        "evidence": "联合早报 2025-12-24 (fetched): 空军司令员常丁求和空军政委郭普校都未出席当天的晋衔仪式 ... 星期一现身晋升上将军衔仪式的空军参谋长王刚中将，空军纪委书记史洪干中将，预料主持空军的军事、政治工作. zh.wikipedia 空军: 王刚 2025年12月-2026年6月以中将副司令员身份代理空军司令员.",
+        "verification": "secondary_source_only"
+      },
+      "note": "Xinhua 2026-07-03: 习近平向晋升上将军衔的 ... 空军司令员王刚颁发命令状. Chang Dingqiu: CSIS classifies as missing (repo); no official notice, no NPC termination; zh.wikipedia 常丁求 tenure 2021年8月—2025年12月."
+    },
+    {
+      "positionId": "POS-SVC-AF-PC",
+      "positionLabel": "PLA Air Force political commissar",
+      "predecessorNameZh": "郭普校",
+      "predecessorNameEn": "Guo Puxiao",
+      "predecessorExit": {
+        "date": "2026-06-26",
+        "kind": "npc_seat_revoked",
+        "url": "https://www.xinhuanet.com/politics/20260626/d5ebd6b6c0834c17b0918475b6402522/c.html",
+        "verification": "page_fetched_and_confirmed"
+      },
+      "successorNameZh": "",
+      "successorNameEn": "",
+      "successorAppointment": null,
+      "handlerNameZh": "史洪干",
+      "handlerFirstSeen": {
+        "date": "2025-12-22",
+        "url": "https://www.zaobao.com.sg/realtime/china/story20251224-8008885",
+        "evidence": "联合早报 2025-12-24 (fetched): 空军纪委书记史洪干中将 attended the 2025-12-22 ceremony in place of the absent 郭普校 and was expected to run the Air Force's political work. zh.wikipedia 空军: 史洪干 空军中将（2025年12月－，负责政治工作）.",
+        "verification": "secondary_source_only"
+      },
+      "note": "公告 第十八号 2026-06-26: 空军军人代表大会决定罢免郭普校的第十四届全国人民代表大会代表职务. Last exact-title appearance 2025-09-19: 空军政治委员郭普校 at the Changchun air show opening, with 空军副政治委员纪多 also listed (Jilin provincial government https://www.jl.gov.cn/yaowen/202509/t20250919_3499861.html, fetched). Ji Duo (deputy PC) is the repo's competing handler reading; no dated page shows either presiding."
+    },
+    {
+      "positionId": "POS-SVC-RF-CDR",
+      "positionLabel": "PLA Rocket Force commander (Li Yuchao -> Wang Houbin)",
+      "predecessorNameZh": "李玉超",
+      "predecessorNameEn": "Li Yuchao",
+      "predecessorExit": {
+        "date": "2023-07-31",
+        "kind": "replacement_named",
+        "url": "http://www.news.cn/politics/leaders/2023-07/31/c_1129778572.htm",
+        "verification": "page_fetched_and_confirmed"
+      },
+      "successorNameZh": "王厚斌",
+      "successorNameEn": "Wang Houbin",
+      "successorAppointment": {
+        "date": "2023-07-31",
+        "kind": "promotion_ceremony_title",
+        "titleZh": "火箭军司令员",
+        "url": "http://www.news.cn/politics/leaders/2023-07/31/c_1129778572.htm",
+        "verification": "page_fetched_and_confirmed"
+      },
+      "handlerNameZh": "",
+      "handlerFirstSeen": null,
+      "note": "Xinhua 2023-07-31: 这次晋升上将军衔的军官是：火箭军司令员王厚斌、火箭军政治委员徐西盛. Li Yuchao: SCMP report of detention 2023-07-28 (zh.wikipedia 李玉超, citing 联合早报); NPC seat terminated 2023-12-29 (公告 第二号: 火箭军军人代表大会决定罢免吕宏、李玉超、李传广、周亚宁, fetched; unit decision 2023-09-26 per Wikipedia); expulsion confirmed by the 3rd plenum 2024-07-18 (zh.wikipedia 2023年中国火箭军腐败案 citing the communiqué; communiqué page fetched, name not verified in the extracted lines)."
+    },
+    {
+      "positionId": "POS-SVC-RF-CDR",
+      "positionLabel": "PLA Rocket Force commander (Wang Houbin -> vacant)",
+      "predecessorNameZh": "王厚斌",
+      "predecessorNameEn": "Wang Houbin",
+      "predecessorExit": {
+        "date": "2025-10-17",
+        "kind": "expulsion_announced",
+        "url": "https://www.news.cn/20251017/eb11aa8c9e0044f3980bda5cd19037a2/c.html",
+        "verification": "page_fetched_and_confirmed"
+      },
+      "successorNameZh": "",
+      "successorNameEn": "",
+      "successorAppointment": null,
+      "handlerNameZh": "雷凯",
+      "handlerFirstSeen": null,
+      "note": "Expulsion text: 火箭军原司令员王厚斌. zh.wikipedia 火箭军 lists 王厚斌 火箭军上将（2023年7月—2025年10月）and 雷凯 火箭军中将（2025年12月开始代理—）with no citation; the repo notes Lei Kai's identity chain is conditional. No dated page naming 雷凯 presiding was located."
+    },
+    {
+      "positionId": "POS-SVC-RF-PC",
+      "positionLabel": "PLA Rocket Force political commissar (Xu Zhongbo -> Xu Xisheng)",
+      "predecessorNameZh": "徐忠波",
+      "predecessorNameEn": "Xu Zhongbo",
+      "predecessorExit": {
+        "date": "2023-07-31",
+        "kind": "replacement_named",
+        "url": "http://www.news.cn/politics/leaders/2023-07/31/c_1129778572.htm",
+        "verification": "page_fetched_and_confirmed"
+      },
+      "successorNameZh": "徐西盛",
+      "successorNameEn": "Xu Xisheng",
+      "successorAppointment": {
+        "date": "2023-07-31",
+        "kind": "promotion_ceremony_title",
+        "titleZh": "火箭军政治委员",
+        "url": "http://www.news.cn/politics/leaders/2023-07/31/c_1129778572.htm",
+        "verification": "page_fetched_and_confirmed"
+      },
+      "handlerNameZh": "",
+      "handlerFirstSeen": null,
+      "note": "Xu Zhongbo (火箭军政委 2020年7月—2023年7月, zh.wikipedia) was replaced in the same ceremony as Li Yuchao; no adverse notice on Xu Zhongbo located."
+    },
+    {
+      "positionId": "POS-SVC-RF-PC",
+      "positionLabel": "PLA Rocket Force political commissar (Xu Xisheng -> vacant)",
+      "predecessorNameZh": "徐西盛",
+      "predecessorNameEn": "Xu Xisheng",
+      "predecessorExit": {
+        "date": "2025-12-22",
+        "kind": "absence_noted",
+        "url": "https://zh.wikipedia.org/wiki/中国人民解放军火箭军",
+        "verification": "secondary_source_only"
+      },
+      "successorNameZh": "",
+      "successorNameEn": "",
+      "successorAppointment": null,
+      "handlerNameZh": "周晶炯",
+      "handlerFirstSeen": null,
+      "note": "zh.wikipedia 火箭军 lists 徐西盛 火箭军上将（2023年7月—2025年10月）and 周晶炯 火箭军中将（2025年12月开始代理—）with no citations; CSIS classifies Xu Xisheng as missing (repo). The 2025-12-22 date is the Wikipedia month for the acting arrangement, anchored to the ceremony that only six generals attended (联合早报 2025-12-24, fetched); no official notice, no NPC termination, no dated page naming 周晶炯 presiding."
+    },
+    {
+      "positionId": "POS-ARM-CSF-CDR",
+      "positionLabel": "Cyberspace Force commander",
+      "predecessorNameZh": "张明华",
+      "predecessorNameEn": "Zhang Minghua",
+      "predecessorExit": {
+        "date": "2026-06-26",
+        "kind": "npc_seat_revoked",
+        "url": "https://www.xinhuanet.com/politics/20260626/d5ebd6b6c0834c17b0918475b6402522/c.html",
+        "verification": "page_fetched_and_confirmed"
+      },
+      "successorNameZh": "",
+      "successorNameEn": "",
+      "successorAppointment": null,
+      "handlerNameZh": "",
+      "handlerFirstSeen": null,
+      "note": "公告 第十八号 2026-06-26: 网络空间部队军人代表大会决定罢免张明华的第十四届全国人民代表大会代表职务. The 2024-04-19 Xinhua founding report names only the ISF leaders (毕毅, 李伟); zh.wikipedia 网络空间部队 lists 张明华 中将（2024年4月—）citing CCTV 2024-06-19 footage. No successor named; the repo's Zhang Liang lead is not title-confirmed."
+    },
+    {
+      "positionId": "POS-ARM-ISF-CDR",
+      "positionLabel": "Information Support Force commander (SSF commander Ju Qiansheng -> Bi Yi)",
+      "predecessorNameZh": "巨乾生",
+      "predecessorNameEn": "Ju Qiansheng",
+      "predecessorExit": {
+        "date": "2024-04-19",
+        "kind": "other",
+        "url": "http://www.news.cn/politics/leaders/20240419/49989c4326f04ab6ac63d93a2073c8f6/c.html",
+        "verification": "page_fetched_and_confirmed"
+      },
+      "successorNameZh": "毕毅",
+      "successorNameEn": "Bi Yi",
+      "successorAppointment": {
+        "date": "2024-04-19",
+        "kind": "founding_ceremony_title",
+        "titleZh": "信息支援部队司令员",
+        "url": "http://www.news.cn/politics/leaders/20240419/49989c4326f04ab6ac63d93a2073c8f6/c.html",
+        "verification": "page_fetched_and_confirmed"
+      },
+      "handlerNameZh": "",
+      "handlerFirstSeen": null,
+      "note": "Xinhua 2024-04-19: 习近平将军旗授予信息支援部队司令员毕毅、政治委员李伟 (Strategic Support Force abolished the same day). Ju Qiansheng (SSF commander 2021-06—2024-04 per zh.wikipedia) last appeared 2024-01-29 at an NPC inspection in Guizhou (星岛 2024-02-01, https://std.stheadline.com/daily/article/2567686/, fetched); his NPC seat was terminated 2026-08-28 through the ISF unit (公告 第十九号, fetched). Bi Yi's continuity into 2026 is contested in the repo (Wang Jianwu lead)."
+    },
+    {
+      "positionId": "POS-ARM-ISF-PC",
+      "positionLabel": "Information Support Force political commissar",
+      "predecessorNameZh": "李伟",
+      "predecessorNameEn": "Li Wei",
+      "predecessorExit": {
+        "date": "2026-02-26",
+        "kind": "npc_seat_revoked",
+        "url": "https://www.news.cn/politics/20260226/d679a70cddd945f1908e371b94c93c48/c.html",
+        "verification": "page_fetched_and_confirmed"
+      },
+      "successorNameZh": "",
+      "successorNameEn": "",
+      "successorAppointment": null,
+      "handlerNameZh": "",
+      "handlerFirstSeen": null,
+      "note": "Founding PC named by Xinhua 2024-04-19 (信息支援部队 ... 政治委员李伟). 公告 第十六号 2026-02-26: 信息支援部队军人代表大会决定罢免李伟的第十四届全国人民代表大会代表职务. No successor named."
+    },
+    {
+      "positionId": "POS-ARM-JLSF-CDR",
+      "positionLabel": "Joint Logistic Support Force commander",
+      "predecessorNameZh": "王抗平",
+      "predecessorNameEn": "Wang Kangping",
+      "predecessorExit": {
+        "date": "2026-06-26",
+        "kind": "npc_seat_revoked",
+        "url": "https://www.xinhuanet.com/politics/20260626/d5ebd6b6c0834c17b0918475b6402522/c.html",
+        "verification": "page_fetched_and_confirmed"
+      },
+      "successorNameZh": "",
+      "successorNameEn": "",
+      "successorAppointment": null,
+      "handlerNameZh": "",
+      "handlerFirstSeen": null,
+      "note": "公告 第十八号 2026-06-26: 东部战区军人代表大会决定罢免王抗平 (he kept his Eastern Theater NPC seat). zh.wikipedia 王抗平 / 联勤保障部队: 2024年10月调任联勤保障部队司令员 replacing 王立岩 (citing CCTV 军事报道 2024-10-22, archived); repo last appearance 2024-10-22. No successor named."
+    },
+    {
+      "positionId": "POS-ARM-JLSF-PC",
+      "positionLabel": "Joint Logistic Support Force political commissar",
+      "predecessorNameZh": "高大光",
+      "predecessorNameEn": "Gao Daguang",
+      "predecessorExit": {
+        "date": "2025-09-12",
+        "kind": "npc_seat_revoked",
+        "url": "http://www.xinhuanet.com/politics/20250912/423e6f5d55474eeb9bf5b41410b3aecd/c.html",
+        "verification": "page_fetched_and_confirmed"
+      },
+      "successorNameZh": "",
+      "successorNameEn": "",
+      "successorAppointment": null,
+      "handlerNameZh": "",
+      "handlerFirstSeen": null,
+      "note": "公告 第十二号 2025-09-12: 中央军委后勤保障部军人代表大会决定罢免张林、高大光 (unit decision 2025-07-21 per zh.wikipedia 高大光). Gao succeeded 王文全 (JLSF PC 2020-09—2023-12, moved to Southern Theater PC 2023-12-25): zh.wikipedia says 不晚于2024年9月任联勤保障部队政委 citing a Hubei government page of 2024-10-01 (unreachable here). No successor named."
+    },
+    {
+      "positionId": "POS-PAP-CDR",
+      "positionLabel": "People's Armed Police commander",
+      "predecessorNameZh": "王春宁",
+      "predecessorNameEn": "Wang Chunning",
+      "predecessorExit": {
+        "date": "2025-09-12",
+        "kind": "npc_seat_revoked",
+        "url": "http://www.xinhuanet.com/politics/20250912/423e6f5d55474eeb9bf5b41410b3aecd/c.html",
+        "verification": "page_fetched_and_confirmed"
+      },
+      "successorNameZh": "",
+      "successorNameEn": "",
+      "successorAppointment": null,
+      "handlerNameZh": "曹均章",
+      "handlerFirstSeen": {
+        "date": "2025-07-21",
+        "url": "https://china.caixin.com/m/2025-07-24/102344730.html",
+        "evidence": "财新 2025-07-24 (fetched), quoting 检察日报: 7月21日，第十五届全国见义勇为英雄模范表彰大会在京召开，武警部队代理司令员曹均章等出席会议。这是曹均章首次以新身份亮相，此前他担任武警部队副司令员.",
+        "verification": "secondary_source_only"
+      },
+      "note": "公告 第十二号 2025-09-12: 武警部队军人代表大会决定罢免王春宁 (unit decision 2025-07-25 per zh.wikipedia); expelled 2025-10-17 as 武警部队原司令员王春宁 (fetched). Later handlers per zh.wikipedia 武警部队 (no dated citations): 曹均章 (2025年7月－2025年12月，代理), 彭京堂 (2025年12月—2026年4月，主持工作), 赵东方 (2026年4月—，主持工作); the repo dates Zhao Dongfang's handling signal to April 2026. No commander appointment published."
+    },
+    {
+      "positionId": "POS-PAP-PC",
+      "positionLabel": "People's Armed Police political commissar",
+      "predecessorNameZh": "张红兵",
+      "predecessorNameEn": "Zhang Hongbing",
+      "predecessorExit": {
+        "date": "2025-12-27",
+        "kind": "npc_seat_revoked",
+        "url": "https://www.news.cn/politics/20251227/c7054b09a1d44338bb0c5f5f275ee033/c.html",
+        "verification": "page_fetched_and_confirmed"
+      },
+      "successorNameZh": "",
+      "successorNameEn": "",
+      "successorAppointment": null,
+      "handlerNameZh": "王洪斌",
+      "handlerFirstSeen": null,
+      "note": "公告 第十四号 2025-12-27: 武警部队军人代表大会决定罢免张红兵的第十四届全国人民代表大会代表职务. zh.wikipedia 张红兵 ends the tenure 2025年5月 and 武警部队 lists 王洪斌 武警中将（2025年12月—，主持工作）, both without dated citations; no dated page naming 王洪斌 presiding was located."
+    },
+    {
+      "positionId": "POS-RFB-64-CDR",
+      "positionLabel": "Rocket Force Base 64 commander",
+      "predecessorNameZh": "杨光",
+      "predecessorNameEn": "Yang Guang",
+      "predecessorExit": {
+        "date": "2026-02-26",
+        "kind": "npc_seat_revoked",
+        "url": "https://www.news.cn/politics/20260226/d679a70cddd945f1908e371b94c93c48/c.html",
+        "verification": "page_fetched_and_confirmed"
+      },
+      "successorNameZh": "",
+      "successorNameEn": "",
+      "successorAppointment": null,
+      "handlerNameZh": "",
+      "handlerFirstSeen": null,
+      "note": "公告 第十六号 2026-02-26: 火箭军军人代表大会决定罢免杨光的第十四届全国人民代表大会代表职务. zh.wikipedia 火箭军第六十四基地 lists 杨光 少将（？—2026年）only. No successor named."
+    },
+    {
+      "positionId": "POS-GA-73-CDR",
+      "positionLabel": "73rd Group Army commander",
+      "predecessorNameZh": "丁来富",
+      "predecessorNameEn": "Ding Laifu",
+      "predecessorExit": {
+        "date": "2026-02-26",
+        "kind": "npc_seat_revoked",
+        "url": "https://www.news.cn/politics/20260226/d679a70cddd945f1908e371b94c93c48/c.html",
+        "verification": "page_fetched_and_confirmed"
+      },
+      "successorNameZh": "",
+      "successorNameEn": "",
+      "successorAppointment": null,
+      "handlerNameZh": "",
+      "handlerFirstSeen": null,
+      "note": "公告 第十六号 2026-02-26: 陆军军人代表大会决定罢免李桥铭、丁来富. zh.wikipedia 第七十三集团军 lists 丁来富 少将（2022年4月—）. No successor named."
+    },
+    {
+      "positionId": "POS-TC-S-NAVY",
+      "positionLabel": "Southern Theater Navy commander (Wang Hai -> Ju Xinchun)",
+      "predecessorNameZh": "王海",
+      "predecessorNameEn": "Wang Hai",
+      "predecessorExit": {
+        "date": "2023-02-01",
+        "kind": "replacement_named",
+        "url": "https://zh.wikipedia.org/wiki/南部战区海军",
+        "verification": "secondary_source_only"
+      },
+      "successorNameZh": "鞠新春",
+      "successorNameEn": "Ju Xinchun",
+      "successorAppointment": {
+        "date": "2023-02-01",
+        "kind": "first_titled_appearance",
+        "titleZh": "南部战区海军司令员",
+        "url": "https://zh.wikipedia.org/wiki/南部战区海军",
+        "verification": "secondary_source_only"
+      },
+      "handlerNameZh": "",
+      "handlerFirstSeen": null,
+      "note": "zh.wikipedia 南部战区海军 / 南部战区: 王海 海军中将（2017年1月—2023年2月）, 鞠新春 海军中将（2023年2月—2024年3月，兼南部战区海军司令员）; dates are month-level (day not established). Ju Xinchun's NPC seat was terminated 2023-12-29 (公告 第二号: 海军军人代表大会决定罢免鞠新春, fetched; unit decision 2023-11-27 per zh.wikipedia 鞠新春)."
+    },
+    {
+      "positionId": "POS-TC-S-NAVY",
+      "positionLabel": "Southern Theater Navy commander (Ju Xinchun -> Li Pengcheng -> vacant)",
+      "predecessorNameZh": "李鹏程",
+      "predecessorNameEn": "Li Pengcheng",
+      "predecessorExit": {
+        "date": "2024-12-25",
+        "kind": "npc_seat_revoked",
+        "url": "http://www.npc.gov.cn/npc/c2/c30834/202412/t20241225_442025.html",
+        "verification": "page_fetched_and_confirmed"
+      },
+      "successorNameZh": "",
+      "successorNameEn": "",
+      "successorAppointment": null,
+      "handlerNameZh": "",
+      "handlerFirstSeen": null,
+      "note": "公告 第八号 2024-12-25: 海军军人代表大会决定罢免李鹏程的第十四届全国人民代表大会代表职务. zh.wikipedia 南部战区: 李鹏程 海军中将（2024年3月—2024年11月，兼南部战区海军司令员）, i.e. he replaced Ju Xinchun in March 2024 and lasted about eight months. No successor identified; the repo notes former deputy 戴明盟 moved to an undisclosed billet."
+    },
+    {
+      "positionId": "POS-CCG-DIR",
+      "positionLabel": "China Coast Guard director",
+      "predecessorNameZh": "郁忠",
+      "predecessorNameEn": "Yu Zhong",
+      "predecessorExit": {
+        "date": "2026-01-30",
+        "kind": "replacement_named",
+        "url": "https://zh.wikipedia.org/wiki/中国海警局",
+        "verification": "secondary_source_only"
+      },
+      "successorNameZh": "张建明",
+      "successorNameEn": "Zhang Jianming",
+      "successorAppointment": {
+        "date": "2026-01-30",
+        "kind": "first_titled_appearance",
+        "titleZh": "中国海警局局长",
+        "url": "https://zh.wikipedia.org/wiki/中国海警局",
+        "verification": "secondary_source_only"
+      },
+      "handlerNameZh": "",
+      "handlerFirstSeen": null,
+      "note": "zh.wikipedia 中国海警局: 郁忠 武警少将（2022年12月—2026年1月）, 张建明 武警少将（2026年1月—）(previously CCG 政治工作部主任 2023—2026年1月). The repo's official title observation is the CCG press-conference page of 2026-01-30 (https://www.ccg.gov.cn/xwfbh/202601/t20260130_2985.html); ccg.gov.cn refused every fetch in this session (connection reset / HTTP 418), so the day is taken from the repo claim and remains secondary here. Not an adverse exit."
+    },
+    {
+      "positionId": "POS-CCG-PC",
+      "positionLabel": "China Coast Guard political commissar",
+      "predecessorNameZh": "李宋德",
+      "predecessorNameEn": "Li Songde",
+      "predecessorExit": {
+        "date": "2026-04-10",
+        "kind": "replacement_named",
+        "url": "https://zh.wikipedia.org/wiki/中国海警局",
+        "verification": "secondary_source_only"
+      },
+      "successorNameZh": "刘厚杰",
+      "successorNameEn": "Liu Houjie",
+      "successorAppointment": {
+        "date": "2026-04-10",
+        "kind": "first_titled_appearance",
+        "titleZh": "中国海警局政治委员",
+        "url": "https://zh.wikipedia.org/wiki/中国海警局",
+        "verification": "secondary_source_only"
+      },
+      "handlerNameZh": "",
+      "handlerFirstSeen": null,
+      "note": "zh.wikipedia 中国海警局: 李宋德 武警少将（2023年—2025年）, 刘厚杰 武警少将（2026年—）citing the CCG report of the 2026 maritime law-enforcement work conference in Hangzhou (https://www.ccg.gov.cn/hjyw/202604/t20260410_3040.html), which is also the repo's 2026-04-10 title source; unreachable in this session. Li Songde's exit is undated in public sources."
+    }
+  ],
+  "gaps": [
+    "Southern Theater commander after Wu Yanan: zh.wikipedia 南部战区 lists 吴亚男 陆军上将（2024年7月—2025年10月）and 王显峰 海军中将（2025年10月开始代理—）with no citation; no page naming 王显峰 was found (zh.wikipedia has no article), and the repo still carries Wu Yanan as holder with last exact title 2025-03. Not entered as a turnover; needs an official or dated report.",
+    "Southern Theater PC after Wang Wenquan: zh.wikipedia dates his tenure to 2025-10 without citation; no notice, no NPC termination, no successor or handler located. The repo's adverse mapping of 尹红星 to this seat appears wrong (he was 南部战区陆军政委 per zh.wikipedia 尹红星 and was terminated through the 陆军 unit).",
+    "Handler first-seen dates could not be anchored to any readable dated page for: 陈炽 (LSD, Wikipedia '2025年9月'), 刘镝 (TMD, '2025年9月'), 邱杨 (General Office, '2025年3月'), 张继春 (ETC PC, '2025年9月'), 文俊飞 and 张韶颖 (WTC; repo cites scjc.gov.cn 2026-02-13 which returned 503/connection reset), 李东友 (NTC PC, '2025年9月'), 梁平 (CTC PC, '2025年10月'), 郑堰坡 (Army PC, '2026年6月'), 胡瑜海 (Navy PC, '2025年12月'), 雷凯 and 周晶炯 (Rocket Force, '2025年12月'), 王洪斌 (PAP PC, '2025年12月'), 彭京堂 and 赵东方 (PAP, '2025年12月' / '2026年4月'). All rest on zh.wikipedia leadership lists without citations; handlerFirstSeen left null rather than guessed.",
+    "Exit dates for officers with no official notice and no NPC termination (刘青松, 汪海江, 徐德清, 王强, 常丁求, 胡中明, 陈辉, 徐西盛) rest on zh.wikipedia month-level tenure ends and media absence reports (联合早报 2025-12-24, CNA 2025-09-03); the CSIS ChinaPower purge database page is JavaScript-rendered and returned no officer data through the proxy, so its classifications could not be re-read.",
+    "Official pages that could not be fetched: mod.gov.cn (all URLs: SSL name mismatch / reset), ccg.gov.cn (reset / HTTP 418), scjc.gov.cn (reset / 503), hubei.gov.cn 2024-10-01 (404 / reset), jl.gov.cn 2025-09-30 Tan Hailin page (reset / 404), sz.gov.cn (curl SSL error; read via WebFetch only), jiangsu.gov.cn 2023-08-01 (403), the 2023-10-24 news.cn NPCSC item cited in the repo (404; replaced by npc.gov.cn originals), the Xinhua 2025-07-25 photo page (read via WebFetch; names no Chinese officer). Video-only evidence (CCTV 军事报道 / 新闻联播 pages) carries no names in page text; attributions from those broadcasts are recorded as secondary.",
+    "Party-side removals: Zhang Youxia's removal as Politburo member / Party CMC vice chairman on 2026-08-28 and Liu Zhenli's Party CMC removal are asserted by zh.wikipedia citing the Xinhua leaders index; only the NPCSC state removals were confirmed on page. Li Yuchao's expulsion confirmation at the 3rd plenum (2024-07-18) was not verified in the extracted communiqué text.",
+    "Wang Renhua: zh.wikipedia dates the PLC tenure end to 2025-10 citing a Caixin item (2025-12-27) that returned 404; only the 2025-12-27 NPC termination is confirmed.",
+    "Xu Xueqiang's 2025-10-18 press report (epochtimes) and last appearance 2025-04-24 (people.com.cn finance page fetched but its text was a water-conservancy item, not the Xu Xueqiang event) were not re-verified; the repo's seeded dates are used only in notes.",
+    "Cyberspace Force PC (韩晓东), Northern Theater Army (谭海林 acting: Shandong release 2025-09-30 fetched, 北部战区陆军代司令员谭海林) and other non-principal seats were not entered as turnovers because the lane's positions list carries no adverse exit for them."
+  ],
+  "searchLog": [
+    "Read research/positions.json (all non-bench positions with adverseIds or 2023-26 appointees), research/adverse-timeline.json, research/trackers/npc-terminations.json, research/trackers/promotion-ceremonies.json, and the officer id->name map plus claims/sources in research/base/observatory-v7.json.",
+    "Batch-fetched (curl through the proxy) ~110 zh.wikipedia articles: biographies of every predecessor, successor and handler; organ pages (联合参谋部, 政治工作部, 后勤保障部, 装备发展部, 训练管理部, 政法委员会, 审计署, 国防动员部, 办公厅, 联合作战指挥中心, 纪律检查委员会, 国防部); the five theater pages; 陆军/海军/空军/火箭军; 网络空间部队/信息支援部队/联勤保障部队/武警部队; 南部战区海军, 第七十三集团军, 火箭军第六十四基地, 中国海警局; 中华人民共和国现役正战区级以上将领列表; 2023年中国火箭军腐败案; 第十四届全国人民代表大会常务委员会; 中国共产党中央军事委员会 / 中华人民共和国中央军事委员会; 第二十届中央委员会. Extracted their reference lists (cite_note hrefs) to locate original Xinhua/NPC/81.cn/CCTV/provincial pages.",
+    "Fetched and read the official originals: Xinhua expulsion notice 2025-10-17; 4th plenum communiqué 2025-10-23 (news.cn and gov.cn); NPCSC closings 2023-12-29, 2025-06-27, 2025-10-28 (WebFetch), 2026-08-28; NPCSC 免职名单 2026-08-28; npc.gov.cn 2023-10-24 免职名单 and 主席令; Xinhua 主席令 2023-03-12; Xinhua Zhang Youxia/Liu Zhenli investigation 2026-01-24; Xinhua Li Shangfu and Wei Fenghe expulsions 2024-06-27; 3rd plenum communiqué 2024-07-18; NPC 公告 第二、八、十一、十二、十三、十四、十六、十八、十九号; NPCSC 批准任命 2025-12-27; all Xinhua promotion-ceremony reports 2023-01-18, 2023-06-28, 2023-07-31, 2023-12-25, 2024-03-28, 2024-07-09, 2024-12-23, 2025-12-22, 2026-07-03 (plus gov.cn reprint); Xinhua ISF founding 2024-04-19; Xinhua tree-planting 2025-04-02; Xinhua 2023-03-07 NPC delegation report; Xinhua 2026-04-08 senior cadre class; 81.cn 2025-11-21 and 2026-02/03 (张立克部长), 81.cn 2025-05-23 (王东海政委); Liaoning gov 2025-01-26 (黄铭/郑璇); Jilin gov 2025-09-19 (郭普校/纪多); Shenzhen gov 2025-03-17 via WebFetch (吴亚男); Changchun DRC 2025-09-22; Nanjing TV 2025-09-30.",
+    "Fetched and read secondary/media originals cited by Wikipedia: chinanews 2024-11-28 (Miao Hua suspension, MND original unreachable); 观察者网 2024-07-31 and 星岛 2024-08-02 (吴亚男/黄铭 July 2024 moves); 星岛 2024-02-01 (巨乾生 last appearance); 界面 2023-01-03 (李桥铭); 新浪 2023-03-07 / 2023-12-25 (刘振立, 曹青锋); 联合早报 2025-06-27, 2025-12-24, 2026-02-03; 财新 2025-07-24 (曹均章代理司令员); CNA 2025-09-03 and 2026-01-21; SCMP 2026-08-05 (paywalled beyond lede); CCTV video pages 2024-07-31, 2024-10-22, 2025-07-25, 2025-07-31, 2025-08-26, 2025-11-06, 2025-12-22, 2025-12-31, 2026-02-14 (titles only, no names in text); CSIS purge tracker (JS-rendered, no data).",
+    "Failed fetches (recorded under gaps): mod.gov.cn, ccg.gov.cn, scjc.gov.cn, hubei.gov.cn, jl.gov.cn 2025-09-30, jiangsu.gov.cn, lanzhou.cn, caixin 2025-12-27, people.com.cn 2025-10-29 reprint, several news.cn directory URLs (403) and the repo's 2023-10-24 news.cn item (404). WebSearch was not used (unavailable); zh.wikipedia's own search page was used to resolve disambiguated titles (刘青松_(解放军), 张林_(中将), 王鹏_(1964年), 孙斌_(1968年))."
+  ]
+}

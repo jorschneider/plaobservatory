@@ -104,6 +104,18 @@ export const judgments: Judgment[] = [
     whatWouldChangeIt: "Nothing already counted can change; the share can only rise or, if promotions resume without further removals, fall over time.",
     requires: "trackers.promotionCeremonies",
   },
+  {
+    id: "J7",
+    title: "A scored absence from a fixed-roster event has almost always meant a removal.",
+    plain: "Across {attendanceEvents} recurring events since 2023, the absence rule scored {scoredMisses} misses: an officer named at the previous event of a fixed-roster family who was not named at the next. {missesAdverse} of those officers later entered the adverse ledger. The one exception is a change of report format, not a reappearance.",
+    precise: "Event-attendance tracker: events = {attendanceEvents}, complete rosters = {completeRosters}; scored misses = {scoredMisses} (rule: one prior appearance for the CMC tree-planting and 1 August reception, two for the NPC delegation plenary and promotion ceremonies; chairman excluded); misses later confirmed adverse = {missesAdverse}; unexplained = {missesUnexplained}.",
+    example: { text: "He Weidong and Miao Hua were both named at the 2024 CMC tree-planting and both absent from the complete roster on 2 April 2025; both were expelled on 17 October 2025.", url: "https://www.news.cn/20250402/28b125b861c74d2b8b20aff50813f962/c.html", adverseId: "PLA-D9CCFD781A73" },
+    basis: "counted",
+    confidence: "Moderate",
+    premiseIds: ["P-ABSENCE", "P-CLOCKS"],
+    whatWouldChangeIt: "A scored miss followed by a titled reappearance with no adverse action; every such case will be recorded against the rule.",
+    requires: "trackers.eventAttendance",
+  },
 ];
 
 export type Premise = {
