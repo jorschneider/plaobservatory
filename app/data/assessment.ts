@@ -92,6 +92,18 @@ export const judgments: Judgment[] = [
     premiseIds: ["P-ARCHETYPE", "P-SILENCE"],
     whatWouldChangeIt: "A systematic sweep of provincial and municipal civil-military coverage, which is the search lane for these seats.",
   },
+  {
+    id: "J6",
+    title: "Promotion to full general has not protected anyone.",
+    plain: "Since December 2019 the commission has promoted {promoted} officers to full general or admiral in {promoCeremonies} ceremonies. {promotedRemoved} of them have since been removed, gone missing or been passed over, on average about {promoMedianYears} years after the ceremony.",
+    precise: "Promotion ledger joined to the adverse ledger: promoted = {promoted}; laterRemoved = {promotedRemoved}; ceremonies = {promoCeremonies}; median days from promotion to first concrete signal among those removed = {promoMedianDays} (n = those with a dated first signal); same-day billet change = {promoSameDay}.",
+    example: { text: "The 21 January 2022 ceremony promoted seven officers, among them Li Yuchao as Rocket Force commander, Qin Shutong as Army political commissar and Yuan Huazhi as Navy political commissar. All three were later expelled.", url: "https://www.news.cn/20251017/eb11aa8c9e0044f3980bda5cd19037a2/c.html", adverseId: "PLA-39B0CD13EDD7" },
+    basis: "counted",
+    confidence: "High",
+    premiseIds: ["P-SYNC", "P-CLOCKS"],
+    whatWouldChangeIt: "Nothing already counted can change; the share can only rise or, if promotions resume without further removals, fall over time.",
+    requires: "trackers.promotionCeremonies",
+  },
 ];
 
 export type Premise = {

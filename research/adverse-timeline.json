@@ -718,7 +718,17 @@
       "controlledState": "confirmed_exit",
       "ledgerDate": "2026-02-26",
       "formerRole": "Political commissar, CMC National Defense Mobilization Department",
-      "lastPublicAppearance": null,
+      "lastPublicAppearance": {
+        "date": "2025-05-23",
+        "datePrecision": "day",
+        "event": "Delivered a Party lecture (党课辅导) to the CMC National Defense Mobilization Department training class on Xi Jinping Thought held in Harbin, 19-24 May 2025; the report (China Militia magazine, republished on 81.cn on 2025-06-23) states '5月23日，军委国防动员部王东海政委……为大家作党课辅导'.",
+        "titleZh": "军委国防动员部王东海政委",
+        "url": "http://www.81.cn/dy_208579/16392784.html",
+        "publisher": "中国军网 (81.cn), reprinting 中国民兵杂志 (China Militia), author 刘德超",
+        "sourceClass": "A2",
+        "verification": "page_fetched_and_confirmed",
+        "note": "Page fetched via curl: title '让队伍在淬火锻造中变得更加坚强——军委国防动员部学习贯彻习近平新时代中国特色社会主义思想培训班侧记', 来源：中国民兵杂志, published 2025-06-23 09:15; the title is printed after the name in the form '军委国防动员部王东海政委'. This is the latest 81.cn item naming the NDMD political commissar Wang Donghai (81.cn full-text search returns 25 hits for 王东海, none later than this for the officer; later 2025 hits are a different Wang Donghai, a naval academy instructor). Earlier 2025 titled appearance: NDMD Party committee expanded meeting early Jan 2025 ('刘发庆部长、王东海政委分别……作出部署', 81.cn 2025-02-13, http://www.81.cn/dy_208579/16369343.html). It does NOT establish that no later appearance exists: general web search engines were unavailable in this session (WebSearch budget exhausted; Bing/Google/Baidu/DDG blocked), so provincial-government or Xinhua items from Jun-Dec 2025 could not be checked. Note that at the NDMD 'Most Beautiful NDM Person' ceremony on 2025-10-30 only 张立克部长 and 王献军副部长 were named (81.cn 2025-11-07), and at the 2025 year-end summary meeting on 2026-02-10 only 张立克部长 was named; no political commissar was named in either, but no media explicitly noted his absence."
+      },
       "firstConcreteSignal": null,
       "formalAction": {
         "date": "2026-02-26",
@@ -729,8 +739,28 @@
       },
       "intermediateActions": [],
       "searchLane": "Xinhua / 81.cn / unit channels naming the officer with exact title, 2025; CASI July 2026 table",
-      "researchNotes": null,
-      "collectionState": "not_yet_collected"
+      "researchNotes": "Last titled appearance located: 23 May 2025 Party lecture at the NDMD Xi Jinping Thought training class in Harbin, reported by China Militia magazine and republished on 81.cn on 2025-06-23 with the printed form '军委国防动员部王东海政委' (titleZh copied exactly; the department name precedes and the post follows the name). The seeded Xinhua NPC-revocation URL is confirmed and names him. No earlier public signal was found: no investigation announcement, no named replacement as NDMD political commissar through Feb 2026 (81.cn articles on NDMD events in Oct 2025, Jan 2026 and Feb 2026 name only 部长 张立克 and 副部长 王献军, with no political commissar named, but no outlet explicitly remarked on his absence, so this is not recorded as a signal). The asiae.co.kr (Korean) report of 2026-02-27, citing Xinhua and Ming Pao, describes him as '中共中央军事委员会国防动员部政治委员王东海（中将）' at the time of revocation. Confidence is medium rather than high because general web search engines were unavailable in this session and provincial-government/Xinhua items between June and December 2025 could not be systematically checked; a later appearance in those channels cannot be excluded. Source class A2 assigned to 81.cn/China Militia as official PLA media (adjust if the project's scheme treats 81.cn as A1).",
+      "collectionState": "not_yet_collected",
+      "researchConfidence": "medium",
+      "seededUrlChecks": [
+        {
+          "url": "https://www.news.cn/politics/20260226/d679a70cddd945f1908e371b94c93c48/c.html",
+          "status": "confirmed",
+          "note": "Fetched via curl. Xinhua 2026-02-26 20:29 '全国人民代表大会常务委员会公告〔十四届〕第十六号': '中央军委国防动员部军人代表大会决定罢免王东海的第十四届全国人民代表大会代表职务'. Matches the seeded note (NPC seat revoked 26 Feb 2026 by the NDMD military congress)."
+        }
+      ],
+      "searchLog": [
+        "WebSearch: 6 queries attempted (王东海 国防动员部 政委 出席; 王东海 国防动员部政治委员 2025; English queries) — session WebSearch budget exhausted, no results",
+        "zh.wikipedia 王东海 (disambiguation) -> 王东海_(1964年) fetched: NDMD political commissar Dec 2021–2025?; NPC seat revoked 2026-02-26; no 2025 citation",
+        "zh.wikipedia 中央军事委员会国防动员部 raw: lists 王东海 (2021年12月—2025年？月); 张立克 部长 from 2025-10; cites 81.cn 2025-11-07 article naming only 张立克/王献军",
+        "curl Bing / cn.bing / Bing RSS / DuckDuckGo html+lite / Google / Baidu (desktop+mobile) / Sogou / 360 / Yandex / Brave / Mojeek / Startpage / Qwant / Yahoo / Ecosia / SearXNG instances — all blocked, captcha, or junk results",
+        "Naver web search (working): '王东海 国防动员部 政委', '军委国防动员部政委王东海', '王东海 中将 国防动员部', site:81.cn / site:news.cn / site:gov.cn variants — only mod.gov.cn index pages (unreachable), 2022 shandong.gov.cn, asiae.co.kr 2026-02-27 report on the NPC revocations",
+        "CCTV site search (search.cctv.com) '王东海', '王东海 政委', '国防动员部 王东海', '国防动员部政治委员': only 2018 and the 2026-02-26 NPC notice",
+        "people.cn search API (search.people.cn/search-platform/front/search) '王东海', '政委王东海', '王东海代表', '国防动员部政委', '军委国防动员部党委': latest titled hits 2023-09-23 (jx.people.com.cn, 政委王东海 at Jiangxi training) and 2023-04-24; nothing 2024-2025",
+        "81.cn search API (mil-search.81.cn/api-surface/es/docSearchEasy) '王东海' fuzzy (25 hits, both pages read), '王东海政委' (4 hits), '国防动员部政委', '军委国防动员部党委扩大会议', '张立克部长', title search '国防动员部' (62 hits)",
+        "Fetched and read: 81.cn 16392784 (2025-06-23, May 23 lecture), 81.cn 16369343 (2025-02-13), 81.cn 16420528 (2025-11-07 event, no commissar named), 81.cn 16448837 (2026-03-14, 2025 year-end meeting, only 张立克 named), 81.cn 16443778 (2026-02-18 Jan 6-7 2026 party committee meeting), jx.people.com.cn 2023-09-23 article, tv.cctv.com 2025-10-30 video page, asiae.co.kr 2026-02-27, epochtimes 2024-04-02 (no relevant mention)",
+        "CASI July 2026 PDF (airuniversity.af.edu) returned HTTP 403; not readable"
+      ]
     },
     {
       "id": "PLA-A57496C1F34C",
@@ -740,7 +770,17 @@
       "controlledState": "confirmed_exit",
       "ledgerDate": "2026-02-26",
       "formerRole": "Assistant/deputy director, CMC Political Work Department",
-      "lastPublicAppearance": null,
+      "lastPublicAppearance": {
+        "date": "2024-12-03",
+        "datePrecision": "day",
+        "event": "Spoke on behalf of the CMC organs at the meeting celebrating the 25th anniversary of the PLA's entry into Macao, held at the Macao Garrison's Taipa barracks on the morning of 3 December 2024, alongside CPPCC vice-chairman Ho Hau-wah, Southern Theater commander Wu Yanan and Macao CE Ho Iat-seng.",
+        "titleZh": "中央军委政治工作部主任助理边瑞峰",
+        "url": "http://cpc.people.com.cn/n1/2024/1204/c64387-40374881.html",
+        "publisher": "人民网－人民日报 (People's Daily, 2024-12-04, p.5)",
+        "sourceClass": "A1",
+        "verification": "page_fetched_and_confirmed",
+        "note": "Page fetched via curl: '本报澳门12月3日电……中央军委政治工作部主任助理边瑞峰代表中央军委机关讲话'. Same text confirmed on CCTV (Xinhua wire, 2024-12-03 15:43, https://news.cctv.com/2024/12/03/ARTIzhN8HDfQe7oJTxgqT3wN241203.shtml) and on 81.cn (2024-12-03 15:33, http://www.81.cn/syjdt/16355809.html, source 驻澳门部队微信公众号); the MOD copy (http://www.mod.gov.cn/gfbw/qwfb/16355813.html) cited by zh.wikipedia is unreachable from this container. This source establishes his title as 主任助理 (assistant director), not 副主任 (deputy director) as the record's formerRole alternatively suggests. It does not establish that no later appearance exists, but no 2025 item naming 边瑞峰 was found on 81.cn (fuzzy search: 3 hits total), people.cn (10 hits, latest Dec 2024) or CCTV; general web search engines were unavailable, so provincial or Xinhua-only items in 2025 could not be excluded."
+      },
       "firstConcreteSignal": null,
       "formalAction": {
         "date": "2026-02-26",
@@ -751,8 +791,27 @@
       },
       "intermediateActions": [],
       "searchLane": "Xinhua / 81.cn / unit channels naming the officer with exact title, 2025; CASI July 2026 table",
-      "researchNotes": null,
-      "collectionState": "not_yet_collected"
+      "researchNotes": "Last titled appearance located: 3 December 2024, speaking for the CMC organs at the Macao Garrison 25th-anniversary meeting as 中央军委政治工作部主任助理 (People's Daily/Xinhua/CCTV/81.cn all carry the same wording). Seeded Xinhua NPC-revocation URL confirmed and names him. No public signal earlier than the 2026-02-26 revocation was found (no investigation notice, no reported replacement, no media-noted absence); the Korean outlet asiae.co.kr (2026-02-27) simply lists him among the nine PLA delegates removed. Record's formerRole 'Assistant/deputy director' should read assistant director (主任助理) per every official source found. Confidence medium: 81.cn, people.cn and CCTV site searches show no 2025 appearance, but general web search engines were blocked in this session, so a 2025 appearance reported only by Xinhua or provincial outlets cannot be fully excluded.",
+      "collectionState": "not_yet_collected",
+      "researchConfidence": "medium",
+      "seededUrlChecks": [
+        {
+          "url": "https://www.news.cn/politics/20260226/d679a70cddd945f1908e371b94c93c48/c.html",
+          "status": "confirmed",
+          "note": "Fetched via curl. Xinhua 2026-02-26 '全国人民代表大会常务委员会公告〔十四届〕第十六号': '中央军委政治工作部军人代表大会决定罢免边瑞峰的第十四届全国人民代表大会代表职务'. Matches the seeded note (NPC seat revoked 26 Feb 2026 by the CMC Political Work Department military congress)."
+        }
+      ],
+      "searchLog": [
+        "WebSearch: queries attempted (边瑞峰 政治工作部 2025; 边瑞峰 军委政治工作部 副主任 出席; Bian Ruifeng CMC Political Work Department NPC removed) — session WebSearch budget exhausted, no results",
+        "zh.wikipedia 边瑞峰 (page + raw wikitext) fetched: 主任助理 not later than Dec 2024 citing mod.gov.cn 2024-12-03 Macao article; NPC seat revoked Feb 2026; 中央军事委员会政治工作部 article lists him as 主任助理 (2022年6月—？)",
+        "en.wikipedia search 'Bian Ruifeng': only the PLA NPC delegation list",
+        "curl Bing / DuckDuckGo / Google / Baidu / Sogou / Yandex / Brave / Mojeek / Startpage / Qwant / Yahoo / Ecosia / SearXNG — blocked or captcha",
+        "Naver web search '边瑞峰 军委政治工作部主任助理', '边瑞峰 2025 主任助理', '邊瑞峰 政治工作部 罷免 人大代表', site:81.cn / site:news.cn 边瑞峰 — nothing beyond the 2023 NPC delegate list",
+        "CCTV site search '边瑞峰', '军委政治工作部主任助理': hits 2016 (师政委边瑞峰), 2024-12-03 Macao meeting, 2026-02-26 NPC notice",
+        "people.cn search API '边瑞峰' (10 hits, all read): 2023 NPC delegate list, 2024-12-03/04 Macao articles, 2026-02-26/27 NPC notice; '军委政治工作部主任助理' (9 hits, none for Bian after Dec 2024)",
+        "81.cn search API '边瑞峰' fuzzy (3 hits: 2020 unrelated namesake, 2024-12-03 Macao, 2026-02-26 NPC notice); '军委政治工作部主任助理' fuzzy (17 hits, only Dec 2024 for Bian)",
+        "Fetched and read: cpc.people.com.cn 2024-12-04 article, news.cctv.com 2024-12-03 article, 81.cn syjdt/16355809 article, chinanews 2026-02-26 NPC notice, asiae.co.kr 2026-02-27 report ('中央军委少将边瑞峰')"
+      ]
     },
     {
       "id": "PLA-CBFF926CEF39",

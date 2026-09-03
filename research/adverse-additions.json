@@ -1,0 +1,31 @@
+{
+  "description": "Adverse-ledger records discovered by a tracker (not present in the v7 base). Each carries the official notice that established the removal.",
+  "records": [
+    {
+      "id": "PLA-FB8950F6A739",
+      "nameEn": "Sun Bin",
+      "nameZh": "孙斌",
+      "formerBranch": "CMC / central joint",
+      "formerRole": "Former auditor general, CMC Audit Office",
+      "status": "confirmed removed",
+      "controlledState": "confirmed_exit",
+      "date": "2025-10-28",
+      "summary": "The NPC Standing Committee credentials report of 28 October 2025 recorded that the CMC General Office military congress had removed him as an NPC deputy on 16 September 2025 for suspected serious discipline and law violations, identifying him as the former auditor general of the CMC Audit Office. Discovered by the NPC-termination tracker; he was not in the earlier ledger.",
+      "evidenceConfidence": "high on removal; undetermined on final disposition",
+      "sources": [
+        "https://cpc.people.com.cn/n1/2025/1029/c64387-40591859.html"
+      ],
+      "discoveredBy": "tracker:npcTerminations",
+      "formalAction": {
+        "date": "2025-10-28",
+        "kind": "npc_seat_revoked",
+        "url": "https://cpc.people.com.cn/n1/2025/1029/c64387-40591859.html",
+        "publisher": "People's Daily (reprint of the NPC Standing Committee announcement)",
+        "sourceClass": "A1",
+        "verification": "page_fetched_and_confirmed",
+        "note": "Credentials report names him as 中央军委审计署原审计长; the unit military congress acted on 16 September 2025."
+      },
+      "searchLane": "Xinhua and 81.cn naming 军委审计署审计长孙斌 in 2024–2025; audit-conference reports"
+    }
+  ]
+}

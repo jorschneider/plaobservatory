@@ -2,7 +2,7 @@
   "metadata": {
     "title": "PLA Leadership Observatory",
     "asOf": "2026-09-02",
-    "buildId": "PLA26-V8-CA80AE71DDB1",
+    "buildId": "PLA26-V8-14E18B4FCE64",
     "officerCount": 150,
     "canonicalOfficerCount": 156,
     "identityHeldCount": 3,
@@ -33,7 +33,7 @@
       }
     ],
     "gapCount": 18,
-    "adverseCount": 62,
+    "adverseCount": 63,
     "birthYearKnownCount": 59,
     "mappedPersonCount": 61,
     "currentRoleMappedCount": 59,
@@ -132,7 +132,7 @@
     "positionCoverageCounts": [
       {
         "state": "no_record",
-        "count": 56
+        "count": 55
       },
       {
         "state": "acting_or_inferred",
@@ -144,7 +144,7 @@
       },
       {
         "state": "adverse_vacancy",
-        "count": 18
+        "count": 19
       },
       {
         "state": "handled_without_title",
@@ -202,10 +202,10 @@
           "stale": 2,
           "conflicting": 0,
           "handled_without_title": 2,
-          "adverse_vacancy": 5,
+          "adverse_vacancy": 6,
           "held_in_adverse_watch": 0,
           "external": 0,
-          "no_record": 9
+          "no_record": 8
         }
       },
       {
@@ -339,10 +339,10 @@
       "cutoff": "2026-09-02",
       "counts": {
         "complete": 8,
-        "partial": 4,
-        "not_yet_collected": 50
+        "partial": 45,
+        "not_yet_collected": 10
       },
-      "withLastAppearance": 8,
+      "withLastAppearance": 10,
       "silence": {
         "n": 8,
         "medianDays": 86,
@@ -19706,7 +19706,7 @@
         "silenceDays": null,
         "processDays": null,
         "totalDays": null,
-        "collectionState": "not_yet_collected",
+        "collectionState": "partial",
         "searchLane": "Xinhua / 81.cn / theater or service channels naming the officer with exact title, late 2025–early 2026; CASI Feb 2026 'potential' listing",
         "researchNotes": null
       }
@@ -19748,7 +19748,7 @@
         "silenceDays": null,
         "processDays": null,
         "totalDays": null,
-        "collectionState": "not_yet_collected",
+        "collectionState": "partial",
         "searchLane": "Xinhua / 81.cn / theater or service channels naming the officer with exact title, late 2025–early 2026; CASI Feb 2026 'potential' listing",
         "researchNotes": null
       }
@@ -19769,7 +19769,17 @@
         "https://www.airuniversity.af.edu/Portals/10/CASI/documents/Research/Other-Topics/2026-07-13%20PLA%20Corruption.pdf?ver=3FCdY-htIjQJMdbipAVSgg%3D%3D"
       ],
       "timeline": {
-        "lastPublicAppearance": null,
+        "lastPublicAppearance": {
+          "date": "2025-05-23",
+          "datePrecision": "day",
+          "event": "Delivered a Party lecture (党课辅导) to the CMC National Defense Mobilization Department training class on Xi Jinping Thought held in Harbin, 19-24 May 2025; the report (China Militia magazine, republished on 81.cn on 2025-06-23) states '5月23日，军委国防动员部王东海政委……为大家作党课辅导'.",
+          "titleZh": "军委国防动员部王东海政委",
+          "url": "http://www.81.cn/dy_208579/16392784.html",
+          "publisher": "中国军网 (81.cn), reprinting 中国民兵杂志 (China Militia), author 刘德超",
+          "sourceClass": "A2",
+          "verification": "page_fetched_and_confirmed",
+          "note": "Page fetched via curl: title '让队伍在淬火锻造中变得更加坚强——军委国防动员部学习贯彻习近平新时代中国特色社会主义思想培训班侧记', 来源：中国民兵杂志, published 2025-06-23 09:15; the title is printed after the name in the form '军委国防动员部王东海政委'. This is the latest 81.cn item naming the NDMD political commissar Wang Donghai (81.cn full-text search returns 25 hits for 王东海, none later than this for the officer; later 2025 hits are a different Wang Donghai, a naval academy instructor). Earlier 2025 titled appearance: NDMD Party committee expanded meeting early Jan 2025 ('刘发庆部长、王东海政委分别……作出部署', 81.cn 2025-02-13, http://www.81.cn/dy_208579/16369343.html). It does NOT establish that no later appearance exists: general web search engines were unavailable in this session (WebSearch budget exhausted; Bing/Google/Baidu/DDG blocked), so provincial-government or Xinhua items from Jun-Dec 2025 could not be checked. Note that at the NDMD 'Most Beautiful NDM Person' ceremony on 2025-10-30 only 张立克部长 and 王献军副部长 were named (81.cn 2025-11-07), and at the 2025 year-end summary meeting on 2026-02-10 only 张立克部长 was named; no political commissar was named in either, but no media explicitly noted his absence."
+        },
         "firstConcreteSignal": null,
         "formalAction": {
           "date": "2026-02-26",
@@ -19781,10 +19791,10 @@
         "intermediateActions": [],
         "silenceDays": null,
         "processDays": null,
-        "totalDays": null,
-        "collectionState": "not_yet_collected",
+        "totalDays": 279,
+        "collectionState": "partial",
         "searchLane": "Xinhua / 81.cn / unit channels naming the officer with exact title, 2025; CASI July 2026 table",
-        "researchNotes": null
+        "researchNotes": "Last titled appearance located: 23 May 2025 Party lecture at the NDMD Xi Jinping Thought training class in Harbin, reported by China Militia magazine and republished on 81.cn on 2025-06-23 with the printed form '军委国防动员部王东海政委' (titleZh copied exactly; the department name precedes and the post follows the name). The seeded Xinhua NPC-revocation URL is confirmed and names him. No earlier public signal was found: no investigation announcement, no named replacement as NDMD political commissar through Feb 2026 (81.cn articles on NDMD events in Oct 2025, Jan 2026 and Feb 2026 name only 部长 张立克 and 副部长 王献军, with no political commissar named, but no outlet explicitly remarked on his absence, so this is not recorded as a signal). The asiae.co.kr (Korean) report of 2026-02-27, citing Xinhua and Ming Pao, describes him as '中共中央军事委员会国防动员部政治委员王东海（中将）' at the time of revocation. Confidence is medium rather than high because general web search engines were unavailable in this session and provincial-government/Xinhua items between June and December 2025 could not be systematically checked; a later appearance in those channels cannot be excluded. Source class A2 assigned to 81.cn/China Militia as official PLA media (adjust if the project's scheme treats 81.cn as A1)."
       }
     },
     {
@@ -19803,7 +19813,17 @@
         "https://www.airuniversity.af.edu/Portals/10/CASI/documents/Research/Other-Topics/2026-07-13%20PLA%20Corruption.pdf?ver=3FCdY-htIjQJMdbipAVSgg%3D%3D"
       ],
       "timeline": {
-        "lastPublicAppearance": null,
+        "lastPublicAppearance": {
+          "date": "2024-12-03",
+          "datePrecision": "day",
+          "event": "Spoke on behalf of the CMC organs at the meeting celebrating the 25th anniversary of the PLA's entry into Macao, held at the Macao Garrison's Taipa barracks on the morning of 3 December 2024, alongside CPPCC vice-chairman Ho Hau-wah, Southern Theater commander Wu Yanan and Macao CE Ho Iat-seng.",
+          "titleZh": "中央军委政治工作部主任助理边瑞峰",
+          "url": "http://cpc.people.com.cn/n1/2024/1204/c64387-40374881.html",
+          "publisher": "人民网－人民日报 (People's Daily, 2024-12-04, p.5)",
+          "sourceClass": "A1",
+          "verification": "page_fetched_and_confirmed",
+          "note": "Page fetched via curl: '本报澳门12月3日电……中央军委政治工作部主任助理边瑞峰代表中央军委机关讲话'. Same text confirmed on CCTV (Xinhua wire, 2024-12-03 15:43, https://news.cctv.com/2024/12/03/ARTIzhN8HDfQe7oJTxgqT3wN241203.shtml) and on 81.cn (2024-12-03 15:33, http://www.81.cn/syjdt/16355809.html, source 驻澳门部队微信公众号); the MOD copy (http://www.mod.gov.cn/gfbw/qwfb/16355813.html) cited by zh.wikipedia is unreachable from this container. This source establishes his title as 主任助理 (assistant director), not 副主任 (deputy director) as the record's formerRole alternatively suggests. It does not establish that no later appearance exists, but no 2025 item naming 边瑞峰 was found on 81.cn (fuzzy search: 3 hits total), people.cn (10 hits, latest Dec 2024) or CCTV; general web search engines were unavailable, so provincial or Xinhua-only items in 2025 could not be excluded."
+        },
         "firstConcreteSignal": null,
         "formalAction": {
           "date": "2026-02-26",
@@ -19815,10 +19835,10 @@
         "intermediateActions": [],
         "silenceDays": null,
         "processDays": null,
-        "totalDays": null,
-        "collectionState": "not_yet_collected",
+        "totalDays": 450,
+        "collectionState": "partial",
         "searchLane": "Xinhua / 81.cn / unit channels naming the officer with exact title, 2025; CASI July 2026 table",
-        "researchNotes": null
+        "researchNotes": "Last titled appearance located: 3 December 2024, speaking for the CMC organs at the Macao Garrison 25th-anniversary meeting as 中央军委政治工作部主任助理 (People's Daily/Xinhua/CCTV/81.cn all carry the same wording). Seeded Xinhua NPC-revocation URL confirmed and names him. No public signal earlier than the 2026-02-26 revocation was found (no investigation notice, no reported replacement, no media-noted absence); the Korean outlet asiae.co.kr (2026-02-27) simply lists him among the nine PLA delegates removed. Record's formerRole 'Assistant/deputy director' should read assistant director (主任助理) per every official source found. Confidence medium: 81.cn, people.cn and CCTV site searches show no 2025 appearance, but general web search engines were blocked in this session, so a 2025 appearance reported only by Xinhua or provincial outlets cannot be fully excluded."
       }
     },
     {
@@ -19850,7 +19870,7 @@
         "silenceDays": null,
         "processDays": null,
         "totalDays": null,
-        "collectionState": "not_yet_collected",
+        "collectionState": "partial",
         "searchLane": "Xinhua / 81.cn / unit channels naming the officer with exact title, 2025; CASI July 2026 table",
         "researchNotes": null
       }
@@ -19884,7 +19904,7 @@
         "silenceDays": null,
         "processDays": null,
         "totalDays": null,
-        "collectionState": "not_yet_collected",
+        "collectionState": "partial",
         "searchLane": "Xinhua / 81.cn / unit channels naming the officer with exact title, 2025; CASI July 2026 table",
         "researchNotes": null
       }
@@ -19918,7 +19938,7 @@
         "silenceDays": null,
         "processDays": null,
         "totalDays": null,
-        "collectionState": "not_yet_collected",
+        "collectionState": "partial",
         "searchLane": "Xinhua / 81.cn / unit channels naming the officer with exact title, 2025; CASI July 2026 table",
         "researchNotes": null
       }
@@ -19952,7 +19972,7 @@
         "silenceDays": null,
         "processDays": null,
         "totalDays": null,
-        "collectionState": "not_yet_collected",
+        "collectionState": "partial",
         "searchLane": "Xinhua / 81.cn / unit channels naming the officer with exact title, 2025; CASI July 2026 table",
         "researchNotes": null
       }
@@ -19986,7 +20006,7 @@
         "silenceDays": null,
         "processDays": null,
         "totalDays": null,
-        "collectionState": "not_yet_collected",
+        "collectionState": "partial",
         "searchLane": "Xinhua / 81.cn / unit channels naming the officer with exact title, 2025; CASI July 2026 table",
         "researchNotes": null
       }
@@ -20020,7 +20040,7 @@
         "silenceDays": null,
         "processDays": null,
         "totalDays": null,
-        "collectionState": "not_yet_collected",
+        "collectionState": "partial",
         "searchLane": "Xinhua / 81.cn / unit channels naming the officer with exact title, 2025; CASI July 2026 table",
         "researchNotes": null
       }
@@ -20054,7 +20074,7 @@
         "silenceDays": null,
         "processDays": null,
         "totalDays": null,
-        "collectionState": "not_yet_collected",
+        "collectionState": "partial",
         "searchLane": "Xinhua / 81.cn / unit channels naming the officer with exact title, 2025; CASI July 2026 table",
         "researchNotes": null
       }
@@ -20090,7 +20110,17 @@
           "sourceClass": "A1",
           "note": "Expelled from the Party and the military; suspected criminal matters transferred to military prosecutors, announced 17 October 2025"
         },
-        "intermediateActions": [],
+        "intermediateActions": [
+          {
+            "date": "2025-12-27",
+            "kind": "npc_seat_revoked",
+            "url": "https://cpc.people.com.cn/n1/2025/1228/c64387-40633790.html",
+            "publisher": "人民日报/人民网 (新华社 text)",
+            "sourceClass": "A1",
+            "verification": "page_fetched_and_confirmed",
+            "note": "NPC deputy status terminated by the 中央军委办公厅 military congress (罢免); recorded in the NPC Standing Committee credentials report of 2025-12-27."
+          }
+        ],
         "silenceDays": null,
         "processDays": 198,
         "totalDays": null,
@@ -20137,6 +20167,15 @@
             "url": "https://www.mod.gov.cn/gfbw/qwfb/16354907.html",
             "sourceClass": "A1",
             "note": "Removed from the state CMC by the NPC Standing Committee on 27 June 2025 (211 days after suspension)"
+          },
+          {
+            "date": "2025-04-30",
+            "kind": "npc_seat_revoked",
+            "url": "https://app.xinhuanet.com/news/article.html?articleId=612a96489cb5ee8448e4df3e110e0c3b",
+            "publisher": "新华社/新华网客户端",
+            "sourceClass": "A1",
+            "verification": "page_fetched_and_confirmed",
+            "note": "NPC deputy status terminated by the 中央军委政治工作部 military congress (罢免); recorded in the NPC Standing Committee credentials report of 2025-04-30."
           }
         ],
         "silenceDays": null,
@@ -20172,11 +20211,21 @@
           "sourceClass": "A1",
           "note": "Expelled from the Party and the military; suspected criminal matters transferred to military prosecutors, announced 17 October 2025"
         },
-        "intermediateActions": [],
+        "intermediateActions": [
+          {
+            "date": "2025-12-27",
+            "kind": "npc_seat_revoked",
+            "url": "https://cpc.people.com.cn/n1/2025/1228/c64387-40633790.html",
+            "publisher": "人民日报/人民网 (新华社 text)",
+            "sourceClass": "A1",
+            "verification": "page_fetched_and_confirmed",
+            "note": "NPC deputy status terminated by the 中央军委政治工作部 military congress (罢免); recorded in the NPC Standing Committee credentials report of 2025-12-27."
+          }
+        ],
         "silenceDays": null,
         "processDays": null,
         "totalDays": null,
-        "collectionState": "not_yet_collected",
+        "collectionState": "partial",
         "searchLane": "Xinhua / 81.cn / CCTV naming the officer with exact title in 2024–2025; Xinhua leadership event rosters",
         "researchNotes": null
       }
@@ -20210,7 +20259,7 @@
         "silenceDays": null,
         "processDays": null,
         "totalDays": null,
-        "collectionState": "not_yet_collected",
+        "collectionState": "partial",
         "searchLane": "Xinhua / 81.cn / CCTV naming the officer with exact title in 2024–2025; Xinhua leadership event rosters",
         "researchNotes": null
       }
@@ -20244,7 +20293,7 @@
         "silenceDays": null,
         "processDays": null,
         "totalDays": null,
-        "collectionState": "not_yet_collected",
+        "collectionState": "partial",
         "searchLane": "Xinhua / 81.cn / CCTV naming the officer with exact title in 2024–2025; Xinhua leadership event rosters",
         "researchNotes": null
       }
@@ -20274,11 +20323,21 @@
           "sourceClass": "A1",
           "note": "Expelled from the Party and the military; suspected criminal matters transferred to military prosecutors, announced 17 October 2025"
         },
-        "intermediateActions": [],
+        "intermediateActions": [
+          {
+            "date": "2025-10-28",
+            "kind": "npc_seat_revoked",
+            "url": "https://cpc.people.com.cn/n1/2025/1029/c64387-40591859.html",
+            "publisher": "人民日报/人民网 (新华社 text)",
+            "sourceClass": "A1",
+            "verification": "page_fetched_and_confirmed",
+            "note": "NPC deputy status terminated by the 海军 military congress (罢免); recorded in the NPC Standing Committee credentials report of 2025-10-28."
+          }
+        ],
         "silenceDays": null,
         "processDays": null,
         "totalDays": null,
-        "collectionState": "not_yet_collected",
+        "collectionState": "partial",
         "searchLane": "Xinhua / 81.cn / CCTV naming the officer with exact title in 2024–2025; Xinhua leadership event rosters",
         "researchNotes": null
       }
@@ -20312,7 +20371,7 @@
         "silenceDays": null,
         "processDays": null,
         "totalDays": null,
-        "collectionState": "not_yet_collected",
+        "collectionState": "partial",
         "searchLane": "Xinhua / 81.cn / CCTV naming the officer with exact title in 2024–2025; Xinhua leadership event rosters",
         "researchNotes": null
       }
@@ -20346,7 +20405,7 @@
         "silenceDays": null,
         "processDays": null,
         "totalDays": null,
-        "collectionState": "not_yet_collected",
+        "collectionState": "partial",
         "searchLane": "Xinhua / 81.cn / CCTV naming the officer with exact title in 2024–2025; Xinhua leadership event rosters",
         "researchNotes": null
       }
@@ -20376,11 +20435,21 @@
           "sourceClass": "A1",
           "note": "Expelled from the Party and the military; suspected criminal matters transferred to military prosecutors, announced 17 October 2025"
         },
-        "intermediateActions": [],
+        "intermediateActions": [
+          {
+            "date": "2025-09-12",
+            "kind": "npc_seat_revoked",
+            "url": "http://www.xinhuanet.com/politics/20250912/423e6f5d55474eeb9bf5b41410b3aecd/c.html",
+            "publisher": "新华社/新华网",
+            "sourceClass": "A1",
+            "verification": "page_fetched_and_confirmed",
+            "note": "NPC deputy status terminated by the 武警部队 military congress (罢免); recorded in the NPC Standing Committee credentials report of 2025-09-12."
+          }
+        ],
         "silenceDays": null,
         "processDays": null,
         "totalDays": null,
-        "collectionState": "not_yet_collected",
+        "collectionState": "partial",
         "searchLane": "Xinhua / 81.cn / CCTV naming the officer with exact title in 2024–2025; Xinhua leadership event rosters",
         "researchNotes": null
       }
@@ -20393,7 +20462,7 @@
       "formerRole": "Director, CMC Political and Legal Affairs Committee",
       "status": "confirmed removed",
       "controlledState": "confirmed_exit",
-      "date": "2025",
+      "date": "2025-12-27",
       "summary": "CASI records him among CMC functional-department flag officers officially investigated or removed; he should not be carried forward from older rosters.",
       "evidenceConfidence": "high",
       "sources": [
@@ -20404,17 +20473,19 @@
         "lastPublicAppearance": null,
         "firstConcreteSignal": null,
         "formalAction": {
-          "date": "2025",
-          "kind": "secondary_classification",
-          "url": "https://www.airuniversity.af.edu/Portals/10/CASI/documents/Research/Other-Topics/2026-07-13%20PLA%20Corruption.pdf?ver=3FCdY-htIjQJMdbipAVSgg%3D%3D",
-          "sourceClass": "B1",
-          "note": "CASI's July 2026 table records the officer as officially investigated or removed; no dated official notice is held in this repository"
+          "date": "2025-12-27",
+          "kind": "npc_seat_revoked",
+          "url": "https://cpc.people.com.cn/n1/2025/1228/c64387-40633790.html",
+          "publisher": "人民日报/人民网 (新华社 text)",
+          "sourceClass": "A1",
+          "verification": "page_fetched_and_confirmed",
+          "note": "NPC deputy status terminated by the 中央军委政法委员会 military congress (罢免); recorded in the NPC Standing Committee credentials report of 2025-12-27."
         },
         "intermediateActions": [],
         "silenceDays": null,
         "processDays": null,
         "totalDays": null,
-        "collectionState": "not_yet_collected",
+        "collectionState": "partial",
         "searchLane": "Locate the official notice (NPC revocation, discipline announcement or replacement report) and the last titled appearance",
         "researchNotes": null
       }
@@ -20427,7 +20498,7 @@
       "formerRole": "Director, CMC Logistic Support Department",
       "status": "confirmed removed",
       "controlledState": "confirmed_exit",
-      "date": "2025",
+      "date": "2025-09-12",
       "summary": "CASI records him among CMC functional-department flag officers officially investigated or removed; the former incumbent is not a succession candidate.",
       "evidenceConfidence": "high",
       "sources": [
@@ -20438,17 +20509,19 @@
         "lastPublicAppearance": null,
         "firstConcreteSignal": null,
         "formalAction": {
-          "date": "2025",
-          "kind": "secondary_classification",
-          "url": "https://www.airuniversity.af.edu/Portals/10/CASI/documents/Research/Other-Topics/2026-07-13%20PLA%20Corruption.pdf?ver=3FCdY-htIjQJMdbipAVSgg%3D%3D",
-          "sourceClass": "B1",
-          "note": "CASI's July 2026 table records the officer as officially investigated or removed; no dated official notice is held in this repository"
+          "date": "2025-09-12",
+          "kind": "npc_seat_revoked",
+          "url": "http://www.xinhuanet.com/politics/20250912/423e6f5d55474eeb9bf5b41410b3aecd/c.html",
+          "publisher": "新华社/新华网",
+          "sourceClass": "A1",
+          "verification": "page_fetched_and_confirmed",
+          "note": "NPC deputy status terminated by the 中央军委后勤保障部 military congress (罢免); recorded in the NPC Standing Committee credentials report of 2025-09-12."
         },
         "intermediateActions": [],
         "silenceDays": null,
         "processDays": null,
         "totalDays": null,
-        "collectionState": "not_yet_collected",
+        "collectionState": "partial",
         "searchLane": "Locate the official notice (NPC revocation, discipline announcement or replacement report) and the last titled appearance",
         "researchNotes": null
       }
@@ -20461,7 +20534,7 @@
       "formerRole": "Director, CMC Training Management Department",
       "status": "confirmed removed",
       "controlledState": "confirmed_exit",
-      "date": "2025",
+      "date": "2025-12-27",
       "summary": "CASI records him among CMC functional-department flag officers officially investigated or removed; his old billet should not be mistaken for current incumbency.",
       "evidenceConfidence": "high",
       "sources": [
@@ -20472,17 +20545,19 @@
         "lastPublicAppearance": null,
         "firstConcreteSignal": null,
         "formalAction": {
-          "date": "2025",
-          "kind": "secondary_classification",
-          "url": "https://www.airuniversity.af.edu/Portals/10/CASI/documents/Research/Other-Topics/2026-07-13%20PLA%20Corruption.pdf?ver=3FCdY-htIjQJMdbipAVSgg%3D%3D",
-          "sourceClass": "B1",
-          "note": "CASI's July 2026 table records the officer as officially investigated or removed; no dated official notice is held in this repository"
+          "date": "2025-12-27",
+          "kind": "npc_seat_revoked",
+          "url": "https://cpc.people.com.cn/n1/2025/1228/c64387-40633790.html",
+          "publisher": "人民日报/人民网 (新华社 text)",
+          "sourceClass": "A1",
+          "verification": "page_fetched_and_confirmed",
+          "note": "NPC deputy status terminated by the 中央军委训练管理部 military congress (罢免); recorded in the NPC Standing Committee credentials report of 2025-12-27."
         },
         "intermediateActions": [],
         "silenceDays": null,
         "processDays": null,
         "totalDays": null,
-        "collectionState": "not_yet_collected",
+        "collectionState": "partial",
         "searchLane": "Locate the official notice (NPC revocation, discipline announcement or replacement report) and the last titled appearance",
         "researchNotes": null
       }
@@ -20495,7 +20570,7 @@
       "formerRole": "Chief of staff, PLA Navy",
       "status": "confirmed removed",
       "controlledState": "confirmed_exit",
-      "date": "2025",
+      "date": "2025-06-27",
       "summary": "CASI records him among Navy flag officers officially investigated or removed; he was replaced and should not be retained in future-leadership rosters.",
       "evidenceConfidence": "high",
       "sources": [
@@ -20506,17 +20581,19 @@
         "lastPublicAppearance": null,
         "firstConcreteSignal": null,
         "formalAction": {
-          "date": "2025",
-          "kind": "secondary_classification",
-          "url": "https://www.airuniversity.af.edu/Portals/10/CASI/documents/Research/Other-Topics/2026-07-13%20PLA%20Corruption.pdf?ver=3FCdY-htIjQJMdbipAVSgg%3D%3D",
-          "sourceClass": "B1",
-          "note": "CASI's July 2026 table records the officer as officially investigated or removed; no dated official notice is held in this repository"
+          "date": "2025-06-27",
+          "kind": "npc_seat_revoked",
+          "url": "http://politics.people.com.cn/n1/2025/0627/c1001-40510459.html",
+          "publisher": "新华社 (人民网 reprint)",
+          "sourceClass": "A1",
+          "verification": "page_fetched_and_confirmed",
+          "note": "NPC deputy status terminated by the 海军 military congress (罢免); recorded in the NPC Standing Committee credentials report of 2025-06-27."
         },
         "intermediateActions": [],
         "silenceDays": null,
         "processDays": null,
         "totalDays": null,
-        "collectionState": "not_yet_collected",
+        "collectionState": "partial",
         "searchLane": "Locate the official notice (NPC revocation, discipline announcement or replacement report) and the last titled appearance",
         "researchNotes": null
       }
@@ -20563,7 +20640,7 @@
       "formerRole": "Secretary, Rocket Force Discipline Inspection Commission",
       "status": "confirmed removed",
       "controlledState": "confirmed_exit",
-      "date": "2025",
+      "date": "2025-09-12",
       "summary": "CASI records him among Rocket Force flag officers officially investigated or removed; his anti-corruption portfolio did not insulate him from the purge.",
       "evidenceConfidence": "high",
       "sources": [
@@ -20574,17 +20651,19 @@
         "lastPublicAppearance": null,
         "firstConcreteSignal": null,
         "formalAction": {
-          "date": "2025",
-          "kind": "secondary_classification",
-          "url": "https://www.airuniversity.af.edu/Portals/10/CASI/documents/Research/Other-Topics/2026-07-13%20PLA%20Corruption.pdf?ver=3FCdY-htIjQJMdbipAVSgg%3D%3D",
-          "sourceClass": "B1",
-          "note": "CASI's July 2026 table records the officer as officially investigated or removed; no dated official notice is held in this repository"
+          "date": "2025-09-12",
+          "kind": "npc_seat_revoked",
+          "url": "http://www.xinhuanet.com/politics/20250912/423e6f5d55474eeb9bf5b41410b3aecd/c.html",
+          "publisher": "新华社/新华网",
+          "sourceClass": "A1",
+          "verification": "page_fetched_and_confirmed",
+          "note": "NPC deputy status terminated by the 陆军 military congress (罢免); recorded in the NPC Standing Committee credentials report of 2025-09-12."
         },
         "intermediateActions": [],
         "silenceDays": null,
         "processDays": null,
         "totalDays": null,
-        "collectionState": "not_yet_collected",
+        "collectionState": "partial",
         "searchLane": "Locate the official notice (NPC revocation, discipline announcement or replacement report) and the last titled appearance",
         "researchNotes": null
       }
@@ -20597,7 +20676,7 @@
       "formerRole": "Political commissar, Joint Logistic Support Force",
       "status": "confirmed removed",
       "controlledState": "confirmed_exit",
-      "date": "2025",
+      "date": "2025-09-12",
       "summary": "CASI records him among support-force flag officers officially investigated or removed; he is excluded from the surviving logistics leadership pool.",
       "evidenceConfidence": "high",
       "sources": [
@@ -20608,17 +20687,19 @@
         "lastPublicAppearance": null,
         "firstConcreteSignal": null,
         "formalAction": {
-          "date": "2025",
-          "kind": "secondary_classification",
-          "url": "https://www.airuniversity.af.edu/Portals/10/CASI/documents/Research/Other-Topics/2026-07-13%20PLA%20Corruption.pdf?ver=3FCdY-htIjQJMdbipAVSgg%3D%3D",
-          "sourceClass": "B1",
-          "note": "CASI's July 2026 table records the officer as officially investigated or removed; no dated official notice is held in this repository"
+          "date": "2025-09-12",
+          "kind": "npc_seat_revoked",
+          "url": "http://www.xinhuanet.com/politics/20250912/423e6f5d55474eeb9bf5b41410b3aecd/c.html",
+          "publisher": "新华社/新华网",
+          "sourceClass": "A1",
+          "verification": "page_fetched_and_confirmed",
+          "note": "NPC deputy status terminated by the 中央军委后勤保障部 military congress (罢免); recorded in the NPC Standing Committee credentials report of 2025-09-12."
         },
         "intermediateActions": [],
         "silenceDays": null,
         "processDays": null,
         "totalDays": null,
-        "collectionState": "not_yet_collected",
+        "collectionState": "partial",
         "searchLane": "Locate the official notice (NPC revocation, discipline announcement or replacement report) and the last titled appearance",
         "researchNotes": null
       }
@@ -20631,7 +20712,7 @@
       "formerRole": "Political commissar, People's Armed Police",
       "status": "confirmed removed",
       "controlledState": "confirmed_exit",
-      "date": "2025",
+      "date": "2025-12-27",
       "summary": "CASI records him among PAP flag officers officially investigated or removed; he was replaced and is not a future leadership prospect.",
       "evidenceConfidence": "high",
       "sources": [
@@ -20642,17 +20723,19 @@
         "lastPublicAppearance": null,
         "firstConcreteSignal": null,
         "formalAction": {
-          "date": "2025",
-          "kind": "secondary_classification",
-          "url": "https://www.airuniversity.af.edu/Portals/10/CASI/documents/Research/Other-Topics/2026-07-13%20PLA%20Corruption.pdf?ver=3FCdY-htIjQJMdbipAVSgg%3D%3D",
-          "sourceClass": "B1",
-          "note": "CASI's July 2026 table records the officer as officially investigated or removed; no dated official notice is held in this repository"
+          "date": "2025-12-27",
+          "kind": "npc_seat_revoked",
+          "url": "https://cpc.people.com.cn/n1/2025/1228/c64387-40633790.html",
+          "publisher": "人民日报/人民网 (新华社 text)",
+          "sourceClass": "A1",
+          "verification": "page_fetched_and_confirmed",
+          "note": "NPC deputy status terminated by the 武警部队 military congress (罢免); recorded in the NPC Standing Committee credentials report of 2025-12-27."
         },
         "intermediateActions": [],
         "silenceDays": null,
         "processDays": null,
         "totalDays": null,
-        "collectionState": "not_yet_collected",
+        "collectionState": "partial",
         "searchLane": "Locate the official notice (NPC revocation, discipline announcement or replacement report) and the last titled appearance",
         "researchNotes": null
       }
@@ -20934,7 +21017,17 @@
           "sourceClass": "A1",
           "note": "Expelled from the Party and the military, stripped of general rank, and referred for prosecution, announced 27 June 2024"
         },
-        "intermediateActions": [],
+        "intermediateActions": [
+          {
+            "date": "2024-09-13",
+            "kind": "npc_seat_revoked",
+            "url": "https://m.12371.gov.cn/content/2024-09/13/content_472927.html",
+            "publisher": "新华社 (七一网 reprint)",
+            "sourceClass": "A1",
+            "verification": "page_fetched_and_confirmed",
+            "note": "NPC deputy status terminated by the 中央军委办公厅 military congress (罢免); recorded in the NPC Standing Committee credentials report of 2024-09-13."
+          }
+        ],
         "silenceDays": null,
         "processDays": 247,
         "totalDays": null,
@@ -20972,7 +21065,7 @@
         "silenceDays": null,
         "processDays": null,
         "totalDays": null,
-        "collectionState": "not_yet_collected",
+        "collectionState": "partial",
         "searchLane": "Xinhua naming 魏凤和 after retirement (March 2023 NPC) and before June 2024",
         "researchNotes": null
       }
@@ -20985,7 +21078,7 @@
       "formerRole": "Deputy commander, PLA Army",
       "status": "confirmed removed",
       "controlledState": "confirmed_exit",
-      "date": "2024",
+      "date": "2024-09-13",
       "summary": "CASI records him among Army flag officers officially investigated or removed; he should be excluded from forward promotion lists.",
       "evidenceConfidence": "high",
       "sources": [
@@ -20996,17 +21089,19 @@
         "lastPublicAppearance": null,
         "firstConcreteSignal": null,
         "formalAction": {
-          "date": "2024",
-          "kind": "secondary_classification",
-          "url": "https://www.airuniversity.af.edu/Portals/10/CASI/documents/Research/Other-Topics/2026-07-13%20PLA%20Corruption.pdf?ver=3FCdY-htIjQJMdbipAVSgg%3D%3D",
-          "sourceClass": "B1",
-          "note": "CASI's July 2026 table records the officer as officially investigated or removed; no dated official notice is held in this repository"
+          "date": "2024-09-13",
+          "kind": "npc_seat_revoked",
+          "url": "https://m.12371.gov.cn/content/2024-09/13/content_472927.html",
+          "publisher": "新华社 (七一网 reprint)",
+          "sourceClass": "A1",
+          "verification": "page_fetched_and_confirmed",
+          "note": "NPC deputy status terminated by the 陆军 military congress (罢免); recorded in the NPC Standing Committee credentials report of 2024-09-13."
         },
         "intermediateActions": [],
         "silenceDays": null,
         "processDays": null,
         "totalDays": null,
-        "collectionState": "not_yet_collected",
+        "collectionState": "partial",
         "searchLane": "Locate the official notice and the last titled appearance",
         "researchNotes": null
       }
@@ -21019,7 +21114,7 @@
       "formerRole": "Former deputy commander, PLA Army",
       "status": "confirmed removed",
       "controlledState": "confirmed_exit",
-      "date": "2024",
+      "date": "2024-12-25",
       "summary": "CASI records the retired lieutenant general among Army flag officers officially investigated or removed; retirement independently precludes future promotion.",
       "evidenceConfidence": "high",
       "sources": [
@@ -21030,17 +21125,19 @@
         "lastPublicAppearance": null,
         "firstConcreteSignal": null,
         "formalAction": {
-          "date": "2024",
-          "kind": "secondary_classification",
-          "url": "https://www.airuniversity.af.edu/Portals/10/CASI/documents/Research/Other-Topics/2026-07-13%20PLA%20Corruption.pdf?ver=3FCdY-htIjQJMdbipAVSgg%3D%3D",
-          "sourceClass": "B1",
-          "note": "CASI's July 2026 table records the officer as officially investigated or removed; no dated official notice is held in this repository"
+          "date": "2024-12-25",
+          "kind": "npc_seat_revoked",
+          "url": "http://www.npc.gov.cn/npc/c2/c30834/202412/t20241225_442025.html",
+          "publisher": "中国人大网 (also people.com.cn reprint of 新华社)",
+          "sourceClass": "A1",
+          "verification": "page_fetched_and_confirmed",
+          "note": "NPC deputy status terminated by the 陆军 military congress (罢免); recorded in the NPC Standing Committee credentials report of 2024-12-25."
         },
         "intermediateActions": [],
         "silenceDays": null,
         "processDays": null,
         "totalDays": null,
-        "collectionState": "not_yet_collected",
+        "collectionState": "partial",
         "searchLane": "Locate the official notice and the last titled appearance",
         "researchNotes": null
       }
@@ -21087,7 +21184,7 @@
       "formerRole": "Commander, Southern Theater Command Navy",
       "status": "confirmed removed",
       "controlledState": "confirmed_exit",
-      "date": "2024",
+      "date": "2024-12-25",
       "summary": "CASI records him among theater-command flag officers officially investigated or removed; he should not be treated as an available naval promotion candidate.",
       "evidenceConfidence": "high",
       "sources": [
@@ -21098,17 +21195,19 @@
         "lastPublicAppearance": null,
         "firstConcreteSignal": null,
         "formalAction": {
-          "date": "2024",
-          "kind": "secondary_classification",
-          "url": "https://www.airuniversity.af.edu/Portals/10/CASI/documents/Research/Other-Topics/2026-07-13%20PLA%20Corruption.pdf?ver=3FCdY-htIjQJMdbipAVSgg%3D%3D",
-          "sourceClass": "B1",
-          "note": "CASI's July 2026 table records the officer as officially investigated or removed; no dated official notice is held in this repository"
+          "date": "2024-12-25",
+          "kind": "npc_seat_revoked",
+          "url": "http://www.npc.gov.cn/npc/c2/c30834/202412/t20241225_442025.html",
+          "publisher": "中国人大网 (also people.com.cn reprint of 新华社)",
+          "sourceClass": "A1",
+          "verification": "page_fetched_and_confirmed",
+          "note": "NPC deputy status terminated by the 海军 military congress (罢免); recorded in the NPC Standing Committee credentials report of 2024-12-25."
         },
         "intermediateActions": [],
         "silenceDays": null,
         "processDays": null,
         "totalDays": null,
-        "collectionState": "not_yet_collected",
+        "collectionState": "partial",
         "searchLane": "Locate the official notice and the last titled appearance",
         "researchNotes": null
       }
@@ -21121,7 +21220,7 @@
       "formerRole": "Deputy commander, Central Theater Command",
       "status": "confirmed removed",
       "controlledState": "confirmed_exit",
-      "date": "2024",
+      "date": "2024-02-27",
       "summary": "CASI records him among theater-command flag officers officially investigated or removed; he should be excluded from the active joint-command bench.",
       "evidenceConfidence": "high",
       "sources": [
@@ -21132,17 +21231,19 @@
         "lastPublicAppearance": null,
         "firstConcreteSignal": null,
         "formalAction": {
-          "date": "2024",
-          "kind": "secondary_classification",
-          "url": "https://www.airuniversity.af.edu/Portals/10/CASI/documents/Research/Other-Topics/2026-07-13%20PLA%20Corruption.pdf?ver=3FCdY-htIjQJMdbipAVSgg%3D%3D",
-          "sourceClass": "B1",
-          "note": "CASI's July 2026 table records the officer as officially investigated or removed; no dated official notice is held in this repository"
+          "date": "2024-02-27",
+          "kind": "npc_seat_revoked",
+          "url": "https://www.news.cn/politics/20240227/03feb31c9ac54eaf92e4a5544933dae6/c.html",
+          "publisher": "新华社/新华网",
+          "sourceClass": "A1",
+          "verification": "page_fetched_and_confirmed",
+          "note": "NPC deputy status terminated by the 陆军 military congress (罢免); recorded in the NPC Standing Committee credentials report of 2024-02-27."
         },
         "intermediateActions": [],
         "silenceDays": null,
         "processDays": null,
         "totalDays": null,
-        "collectionState": "not_yet_collected",
+        "collectionState": "partial",
         "searchLane": "Locate the official notice and the last titled appearance",
         "researchNotes": null
       }
@@ -21176,7 +21277,7 @@
         "silenceDays": null,
         "processDays": null,
         "totalDays": null,
-        "collectionState": "not_yet_collected",
+        "collectionState": "partial",
         "searchLane": "Xinhua / 81.cn / CCTV naming the officer with exact title in 2022–2023; Rocket Force leadership change 31 July 2023",
         "researchNotes": null
       }
@@ -21210,7 +21311,7 @@
         "silenceDays": null,
         "processDays": null,
         "totalDays": null,
-        "collectionState": "not_yet_collected",
+        "collectionState": "partial",
         "searchLane": "Xinhua / 81.cn / CCTV naming the officer with exact title in 2022–2023; Rocket Force leadership change 31 July 2023",
         "researchNotes": null
       }
@@ -21244,7 +21345,7 @@
         "silenceDays": null,
         "processDays": null,
         "totalDays": null,
-        "collectionState": "not_yet_collected",
+        "collectionState": "partial",
         "searchLane": "Xinhua / 81.cn / CCTV naming the officer with exact title in 2022–2023; Rocket Force leadership change 31 July 2023",
         "researchNotes": null
       }
@@ -21278,7 +21379,7 @@
         "silenceDays": null,
         "processDays": null,
         "totalDays": null,
-        "collectionState": "not_yet_collected",
+        "collectionState": "partial",
         "searchLane": "Xinhua / 81.cn / CCTV naming the officer with exact title in 2022–2023; Rocket Force leadership change 31 July 2023",
         "researchNotes": null
       }
@@ -21352,7 +21453,7 @@
         "silenceDays": null,
         "processDays": null,
         "totalDays": null,
-        "collectionState": "not_yet_collected",
+        "collectionState": "partial",
         "searchLane": "Xinhua / 81.cn / CCTV naming the officer with exact title in 2022–2023; Rocket Force leadership change 31 July 2023",
         "researchNotes": null
       }
@@ -21386,7 +21487,7 @@
         "silenceDays": null,
         "processDays": null,
         "totalDays": null,
-        "collectionState": "not_yet_collected",
+        "collectionState": "partial",
         "searchLane": "Xinhua / 81.cn / CCTV naming the officer with exact title in 2022–2023; Rocket Force leadership change 31 July 2023",
         "researchNotes": null
       }
@@ -21420,7 +21521,7 @@
         "silenceDays": null,
         "processDays": null,
         "totalDays": null,
-        "collectionState": "not_yet_collected",
+        "collectionState": "partial",
         "searchLane": "Xinhua / 81.cn / CCTV naming the officer with exact title in 2022–2023; Rocket Force leadership change 31 July 2023",
         "researchNotes": null
       }
@@ -21454,7 +21555,7 @@
         "silenceDays": null,
         "processDays": null,
         "totalDays": null,
-        "collectionState": "not_yet_collected",
+        "collectionState": "partial",
         "searchLane": "Xinhua / 81.cn / CCTV naming the officer with exact title in 2022–2023; Rocket Force leadership change 31 July 2023",
         "researchNotes": null
       }
@@ -21524,7 +21625,7 @@
         "silenceDays": null,
         "processDays": null,
         "totalDays": null,
-        "collectionState": "not_yet_collected",
+        "collectionState": "partial",
         "searchLane": "Not researched in this pass; a formal appointment or 21st Congress elevation resolves the case",
         "researchNotes": null
       }
@@ -21559,8 +21660,44 @@
         "silenceDays": null,
         "processDays": null,
         "totalDays": null,
-        "collectionState": "not_yet_collected",
+        "collectionState": "partial",
         "searchLane": "Not researched in this pass; a formal appointment or 21st Congress elevation resolves the case",
+        "researchNotes": null
+      }
+    },
+    {
+      "id": "PLA-FB8950F6A739",
+      "nameEn": "Sun Bin",
+      "nameZh": "孙斌",
+      "formerBranch": "CMC / central joint",
+      "formerRole": "Former auditor general, CMC Audit Office",
+      "status": "confirmed removed",
+      "controlledState": "confirmed_exit",
+      "date": "2025-10-28",
+      "summary": "The NPC Standing Committee credentials report of 28 October 2025 recorded that the CMC General Office military congress had removed him as an NPC deputy on 16 September 2025 for suspected serious discipline and law violations, identifying him as the former auditor general of the CMC Audit Office. Discovered by the NPC-termination tracker; he was not in the earlier ledger.",
+      "evidenceConfidence": "high on removal; undetermined on final disposition",
+      "sources": [
+        "https://cpc.people.com.cn/n1/2025/1029/c64387-40591859.html"
+      ],
+      "discoveredBy": "tracker:npcTerminations",
+      "timeline": {
+        "lastPublicAppearance": null,
+        "firstConcreteSignal": null,
+        "formalAction": {
+          "date": "2025-10-28",
+          "kind": "npc_seat_revoked",
+          "url": "https://cpc.people.com.cn/n1/2025/1029/c64387-40591859.html",
+          "publisher": "People's Daily (reprint of the NPC Standing Committee announcement)",
+          "sourceClass": "A1",
+          "verification": "page_fetched_and_confirmed",
+          "note": "Credentials report names him as 中央军委审计署原审计长; the unit military congress acted on 16 September 2025."
+        },
+        "intermediateActions": [],
+        "silenceDays": null,
+        "processDays": null,
+        "totalDays": null,
+        "collectionState": "partial",
+        "searchLane": "Xinhua and 81.cn naming 军委审计署审计长孙斌 in 2024–2025; audit-conference reports",
         "researchNotes": null
       }
     }
@@ -30070,12 +30207,21 @@
       "isBench": false,
       "holders": [],
       "handlers": [],
-      "adverse": [],
+      "adverse": [
+        {
+          "adverseId": "PLA-FB8950F6A739",
+          "nameEn": "Sun Bin",
+          "nameZh": "孙斌",
+          "status": "confirmed removed",
+          "controlledState": "confirmed_exit",
+          "date": "2025-10-28"
+        }
+      ],
       "externalHolder": null,
-      "note": "No public record held.",
+      "note": "The former auditor general, Sun Bin, was removed in 2025 (NPC seat terminated 28 October 2025); no successor is publicly named. Discovered by the NPC-termination tracker.",
       "searchLane": "Audit Office event reports",
       "lastChecked": "2026-09-02",
-      "coverage": "no_record",
+      "coverage": "adverse_vacancy",
       "freshestTitleDays": null
     },
     {
@@ -34884,10 +35030,10 @@
     "cutoff": "2026-09-02",
     "counts": {
       "complete": 8,
-      "partial": 4,
-      "not_yet_collected": 50
+      "partial": 45,
+      "not_yet_collected": 10
     },
-    "withLastAppearance": 8,
+    "withLastAppearance": 10,
     "silence": {
       "n": 8,
       "medianDays": 86,
@@ -35772,7 +35918,11 @@
           "url": "https://cpc.people.com.cn/n1/2025/1029/c64387-40591859.html",
           "publisher": "人民日报/人民网 (新华社 text)",
           "verification": "page_fetched_and_confirmed",
-          "match": null
+          "match": {
+            "kind": "adverse",
+            "id": "PLA-FB8950F6A739",
+            "nameEn": "Sun Bin"
+          }
         },
         {
           "nameZh": "袁华智",
@@ -36203,9 +36353,9 @@
       "summary": {
         "sessions": 19,
         "terminated": 46,
-        "matchedToLedger": 45,
+        "matchedToLedger": 46,
         "matchedToActive": 0,
-        "unmatched": 1,
+        "unmatched": 0,
         "byYear": {
           "2023": 9,
           "2024": 5,
@@ -37324,7 +37474,7 @@
           },
           "laterRemoved": true,
           "daysToFirstSignal": null,
-          "daysToFormalAction": 1440
+          "daysToFormalAction": 1436
         },
         {
           "nameZh": "王强",
@@ -37501,7 +37651,7 @@
           },
           "laterRemoved": true,
           "daysToFirstSignal": null,
-          "daysToFormalAction": 643
+          "daysToFormalAction": 639
         },
         {
           "nameZh": "肖天亮",

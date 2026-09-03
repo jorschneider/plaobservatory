@@ -24,6 +24,7 @@ const readOptional = async (p) => { try { await access(p); return readJson(p); }
 const base = await readJson(rp("research/base/observatory-v7.json"));
 const positionsSrc = await readJson(rp("research/positions.json"));
 const timelineSrc = await readJson(rp("research/adverse-timeline.json"));
+const adverseAdditions = (await readOptional(rp("research/adverse-additions.json"))) ?? { records: [] };
 const reviewLog = (await readOptional(rp("research/review-log.json"))) ?? { entries: [] };
 const trackerFiles = {
   npcTerminations: "npc-terminations.json",
@@ -49,9 +50,18 @@ for (const dup of duplicates) {
   data.identityHeldRecords.push({ id: officer.id, nameEn: officer.nameEn, nameZh: officer.nameZh, note: dup.note, gapIds: officer.gapIds ?? [], heldReason: "duplicate_record" });
 }
 
+const adverseById = new Map(data.adverse.map((a) => [a.id, a]));
+// ---------- adverse additions (tracker-discovered removals) ----------
+for (const add of adverseAdditions.records) {
+  if (data.adverse.some((a) => a.id === add.id)) continue;
+  if (data.officers.some((o) => o.id === add.id || o.nameZh === add.nameZh)) throw new Error(`adverse addition ${add.nameEn} collides with an active officer`);
+  data.adverse.push({ id: add.id, nameEn: add.nameEn, nameZh: add.nameZh, formerBranch: add.formerBranch, formerRole: add.formerRole, status: add.status, controlledState: add.controlledState, date: add.date, summary: add.summary, evidenceConfidence: add.evidenceConfidence, sources: add.sources, discoveredBy: add.discoveredBy });
+  if (!timelineSrc.records.some((r) => r.id === add.id)) timelineSrc.records.push({ id: add.id, nameEn: add.nameEn, nameZh: add.nameZh, lastPublicAppearance: null, firstConcreteSignal: null, formalAction: add.formalAction ?? null, intermediateActions: [], searchLane: add.searchLane ?? null, researchNotes: null });
+}
+adverseById.clear(); for (const a of data.adverse) adverseById.set(a.id, a);
+
 // ---------- positions ----------
 const officerById = new Map(data.officers.map((o) => [o.id, o]));
-const adverseById = new Map(data.adverse.map((a) => [a.id, a]));
 const holderView = (id) => { const o = officerById.get(id); if (!o) throw new Error(`position references unknown officer ${id}`); const pd = parseDate(o.lastReliableTitleDate); return { officerId: o.id, nameEn: o.nameEn, nameZh: o.nameZh, billet: o.billet, roleState: o.roleState, lastReliableTitleDate: o.lastReliableTitleDate, daysSinceTitle: pd ? daysBetween(pd.latest, cutoff) : null, titleDatePrecision: pd?.precision ?? null }; };
 const adverseView = (id) => { const a = adverseById.get(id); if (!a) throw new Error(`position references unknown adverse record ${id}`); return { adverseId: a.id, nameEn: a.nameEn, nameZh: a.nameZh, status: a.status, controlledState: a.controlledState, date: a.date }; };
 data.positions = positionsSrc.positions.map((p) => {
@@ -83,8 +93,23 @@ for (const officer of data.officers) {
 }
 data.unmappedReasons = positionsSrc.unmappedReasons;
 
-// ---------- adverse timeline ----------
+// ---------- official NPC terminations join (before day counts) ----------
 const tlById = new Map(timelineSrc.records.map((r) => [r.id, r]));
+if (trackerSrc.npcTerminations) {
+  const zhToAdverse = new Map(data.adverse.map((a) => [a.nameZh, a]));
+  for (const session of trackerSrc.npcTerminations.sessions ?? []) {
+    for (const term of session.terminated) {
+      const adverse = zhToAdverse.get(term.nameZh);
+      if (!adverse) continue;
+      const rec = tlById.get(adverse.id);
+      if (!rec) continue;
+      const ev = { date: session.date, kind: "npc_seat_revoked", url: session.url, publisher: session.publisher, sourceClass: "A1", verification: session.verification, note: `NPC deputy status terminated by the ${term.electionUnitZh} military congress (${term.actionZh}); recorded in the NPC Standing Committee credentials report of ${session.date}.` };
+      if (!rec.formalAction || rec.formalAction.kind === "secondary_classification") rec.formalAction = ev;
+      else if (rec.formalAction.date !== session.date && !(rec.intermediateActions ?? []).some((x) => x.kind === "npc_seat_revoked" && x.date === session.date)) rec.intermediateActions = [...(rec.intermediateActions ?? []), ev];
+      if (adverse.date && !/^\d{4}-\d{2}-\d{2}$/.test(String(adverse.date))) adverse.date = session.date;
+    }
+  }
+}
 for (const record of data.adverse) {
   const t = tlById.get(record.id);
   if (!t) throw new Error(`adverse record ${record.id} has no timeline entry`);
@@ -93,7 +118,7 @@ for (const record of data.adverse) {
   const silenceDays = t.lastPublicAppearance && officialFirst ? daysBetween(t.lastPublicAppearance.date, t.firstConcreteSignal.date) : null;
   const processDays = officialFirst && officialFormal ? daysBetween(t.firstConcreteSignal.date, t.formalAction.date) : null;
   const totalDays = t.lastPublicAppearance && officialFormal ? daysBetween(t.lastPublicAppearance.date, t.formalAction.date) : null;
-  const collectionState = t.lastPublicAppearance && officialFirst && officialFormal ? "complete" : (t.lastPublicAppearance || (officialFirst && officialFormal) ? "partial" : "not_yet_collected");
+  const collectionState = t.lastPublicAppearance && officialFirst && officialFormal ? "complete" : (t.lastPublicAppearance || officialFirst || officialFormal ? "partial" : "not_yet_collected");
   record.timeline = { lastPublicAppearance: t.lastPublicAppearance, firstConcreteSignal: t.firstConcreteSignal, formalAction: t.formalAction, intermediateActions: t.intermediateActions ?? [], silenceDays, processDays, totalDays, collectionState, searchLane: t.searchLane, researchNotes: t.researchNotes ?? null };
 }
 data.signalKinds = timelineSrc.signalKinds;

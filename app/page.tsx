@@ -185,6 +185,7 @@ const judgmentVars = (() => {
     turnoverSentence: st ? `Of the ${st.summary.turnovers} senior seats that turned over since 2023, ${st.summary.closed} have a formally named successor${st.summary.medianDaysToFill !== null ? ` (median ${st.summary.medianDaysToFill} days to fill)` : ""}, and ${st.summary.open} are still open.` : "The seat-turnover tracker is still being collected.",
     handled: coverageCount("handled_without_title"), handlerLinks: data.positions.reduce((n, p) => n + p.handlers.length, 0),
     clockN: lc.counts.complete, medianSilence: lc.silence.medianDays, medianProcess: lc.process.medianDays, minSilence: lc.silence.minDays, maxSilence: lc.silence.maxDays, withLastAppearance: lc.withLastAppearance,
+    promoted: data.trackers.promotionCeremonies?.summary.promoted ?? null, promotedRemoved: data.trackers.promotionCeremonies?.summary.laterRemoved ?? null, promoCeremonies: data.trackers.promotionCeremonies?.summary.ceremonies ?? null, promoMedianDays: data.trackers.promotionCeremonies?.summary.medianDaysToFirstSignal ?? null, promoMedianYears: data.trackers.promotionCeremonies?.summary.medianDaysToFirstSignal != null ? (data.trackers.promotionCeremonies.summary.medianDaysToFirstSignal / 365).toFixed(1) : null, promoSameDay: data.trackers.promotionCeremonies?.summary.sameDayBillet ?? null,
     mapped: m.mappedOfficerCount, officers: m.officerCount, noClaims: data.officers.filter((o) => o.claims.length === 0).length, staleHolders: mappedOfficers.filter((o) => o.signals.titleFreshness === "pre_2025").length, noRecordByTier,
   };
 })();

@@ -655,9 +655,11 @@
       "seats": 1,
       "holderIds": [],
       "handlerIds": [],
-      "adverseIds": [],
+      "adverseIds": [
+        "PLA-FB8950F6A739"
+      ],
       "externalHolder": null,
-      "note": "No public record held.",
+      "note": "The former auditor general, Sun Bin, was removed in 2025 (NPC seat terminated 28 October 2025); no successor is publicly named. Discovered by the NPC-termination tracker.",
       "searchLane": "Audit Office event reports"
     },
     {
