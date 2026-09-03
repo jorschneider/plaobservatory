@@ -1,6 +1,6 @@
 "use client";
 
-import { useEffect, useMemo, useState } from "react";
+import { useMemo, useState, useSyncExternalStore } from "react";
 import {
   AlertTriangle,
   ArrowUpRight,
@@ -202,6 +202,10 @@ const questionProgress: Record<string, string> = (() => {
 })();
 function getPath(obj: unknown, path: string): unknown { return path.split(".").reduce<unknown>((acc, key) => (acc && typeof acc === "object" ? (acc as Record<string, unknown>)[key] : undefined), obj); }
 
+const TAB_IDS = ["overview", "positions", "directory", "ledger", "trackers", "routes", "evidence", "method"];
+function subscribeToUrl(callback: () => void) { window.addEventListener("popstate", callback); return () => window.removeEventListener("popstate", callback); }
+function readUrlTab() { return new URLSearchParams(window.location.search).get("tab") ?? ""; }
+
 // ---------- dossier ----------
 function OfficerSheet({ officer, onClose, onOpenPosition }: { officer: Officer | null; onClose: () => void; onOpenPosition: (id: string) => void }) {
   const relatedGaps = officer ? data.gaps.filter((gap) => officer.gapIds.includes(gap.id)) : [];
@@ -250,7 +254,9 @@ function OfficerSheet({ officer, onClose, onOpenPosition }: { officer: Officer |
 
 // ---------- page ----------
 export default function Home() {
-  const [activeTab, setActiveTab] = useState("overview");
+  const [chosenTab, setActiveTab] = useState<string | null>(null);
+  const urlTab = useSyncExternalStore(subscribeToUrl, readUrlTab, () => "");
+  const activeTab = chosenTab ?? (TAB_IDS.includes(urlTab) ? urlTab : "overview");
   const [query, setQuery] = useState("");
   const [branch, setBranch] = useState("all");
   const [archetypeFilter, setArchetypeFilter] = useState("all");
@@ -264,10 +270,6 @@ export default function Home() {
   const [ledgerMode, setLedgerMode] = useState("all");
   const [highlightPosition, setHighlightPosition] = useState<string | null>(null);
 
-  useEffect(() => {
-    const wanted = new URLSearchParams(window.location.search).get("tab");
-    if (wanted && ["overview", "positions", "directory", "ledger", "trackers", "routes", "evidence", "method"].includes(wanted)) setActiveTab(wanted);
-  }, []);
   const branches = useMemo(() => [...new Set(data.officers.map((o) => o.branch))].sort(), []);
   const filteredOfficers = useMemo(() => {
     const needle = query.trim().toLowerCase();
