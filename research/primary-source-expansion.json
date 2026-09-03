@@ -1,0 +1,470 @@
+{
+  "newOfficers": [
+    {
+      "id": "PLA-50422BD09957",
+      "nameEn": "Zhang Shaoying",
+      "nameZh": "张韶颖",
+      "branch": "Joint theater command",
+      "institution": "Western Theater Command",
+      "billet": "Deputy political commissar, Western Theater Command; director, Political Work Department",
+      "rank": "Lieutenant general",
+      "roleState": "official_title_with_scope_caveat",
+      "lastReliableTitleDate": "2026-02-12",
+      "identityNote": "Identity-bound to a Western Theater Command political-work title in a Sichuan CCDI release.",
+      "sources": [
+        {"id":"PSX-ZHANG-SY-20260213","url":"https://scjc.gov.cn/scjc/zhyw01/2026/2/13/840aeab3436f4a9f8a4e396eb511f0bf.shtml","class":"A3","date":"2026-02-13","publisher":"Sichuan Commission for Discipline Inspection","scope":"direct title observation in an official provincial release","mode":"text-title"}
+      ]
+    },
+    {
+      "id": "PLA-70EC7D874314",
+      "nameEn": "Lei Yongjun",
+      "nameZh": "雷永军",
+      "branch": "Military education / research",
+      "institution": "National University of Defense Technology",
+      "billet": "President, National University of Defense Technology",
+      "rank": null,
+      "roleState": "official_title_with_scope_caveat",
+      "lastReliableTitleDate": "2026-08-30",
+      "identityNote": "Title observed in a university-owned 2026 report; no separate appointment decision was located.",
+      "sources": [
+        {"id":"PSX-NUDT-ROSTER-20260830","url":"https://www.nudt.edu.cn/xwgg/kdyw/e651e9c8906e457d91ecb00b6fb5272a.htm","class":"A3","date":"2026-08-30","publisher":"National University of Defense Technology","scope":"institution-owned current-title observation","mode":"text-title"}
+      ]
+    },
+    {
+      "id": "PLA-7951D8B25756",
+      "nameEn": "Zhang Zhan",
+      "nameZh": "张战",
+      "branch": "Military education / research",
+      "institution": "National University of Defense Technology",
+      "billet": "Political commissar, National University of Defense Technology",
+      "rank": null,
+      "roleState": "official_title_with_scope_caveat",
+      "lastReliableTitleDate": "2026-08-30",
+      "identityNote": "Title observed in a university-owned 2026 report; no separate appointment decision was located.",
+      "sources": [
+        {"id":"PSX-NUDT-ROSTER-20260830","url":"https://www.nudt.edu.cn/xwgg/kdyw/e651e9c8906e457d91ecb00b6fb5272a.htm","class":"A3","date":"2026-08-30","publisher":"National University of Defense Technology","scope":"institution-owned current-title observation","mode":"text-title"}
+      ]
+    },
+    {
+      "id": "PLA-01A7096C3063",
+      "nameEn": "Yong Chenggang",
+      "nameZh": "雍成纲",
+      "branch": "Military education / research",
+      "institution": "National University of Defense Technology",
+      "billet": "Director, Education and Training Department, National University of Defense Technology",
+      "rank": null,
+      "roleState": "official_title_with_scope_caveat",
+      "lastReliableTitleDate": "2026-08-30",
+      "identityNote": "Name is scoped to the NUDT education-and-training title in the cited university notice.",
+      "sources": [
+        {"id":"PSX-NUDT-ROSTER-20260830","url":"https://www.nudt.edu.cn/xwgg/kdyw/e651e9c8906e457d91ecb00b6fb5272a.htm","class":"A3","date":"2026-08-30","publisher":"National University of Defense Technology","scope":"direct institution title observation","mode":"text-title"}
+      ]
+    },
+    {
+      "id": "PLA-50148812E57F",
+      "nameEn": "Wu Jianjun",
+      "nameZh": "吴建军",
+      "branch": "Military education / research",
+      "institution": "National University of Defense Technology",
+      "billet": "Vice president and education dean, National University of Defense Technology",
+      "rank": null,
+      "roleState": "official_title_with_scope_caveat",
+      "lastReliableTitleDate": "2026-08-30",
+      "identityNote": "Name is scoped to the NUDT title in the cited university notice.",
+      "sources": [
+        {"id":"PSX-NUDT-ROSTER-20260830","url":"https://www.nudt.edu.cn/xwgg/kdyw/e651e9c8906e457d91ecb00b6fb5272a.htm","class":"A3","date":"2026-08-30","publisher":"National University of Defense Technology","scope":"direct institution title observation","mode":"text-title"}
+      ]
+    },
+    {
+      "id": "PLA-B28F217E1D85",
+      "nameEn": "Chen Jinbao",
+      "nameZh": "陈金宝",
+      "branch": "Military education / research",
+      "institution": "National University of Defense Technology",
+      "billet": "Vice president, National University of Defense Technology",
+      "rank": null,
+      "roleState": "official_title_with_scope_caveat",
+      "lastReliableTitleDate": "2026-08-30",
+      "identityNote": "Name is scoped to the NUDT title in the cited university notice.",
+      "sources": [
+        {"id":"PSX-NUDT-ROSTER-20260830","url":"https://www.nudt.edu.cn/xwgg/kdyw/e651e9c8906e457d91ecb00b6fb5272a.htm","class":"A3","date":"2026-08-30","publisher":"National University of Defense Technology","scope":"direct institution title observation","mode":"text-title"}
+      ]
+    },
+    {
+      "id": "PLA-F6A320D79E69",
+      "nameEn": "Tian Yuefeng",
+      "nameZh": "田跃峰",
+      "branch": "Military education / research",
+      "institution": "National University of Defense Technology",
+      "billet": "Deputy political commissar and discipline-inspection secretary, National University of Defense Technology",
+      "rank": null,
+      "roleState": "official_title_with_scope_caveat",
+      "lastReliableTitleDate": "2026-08-30",
+      "identityNote": "Title observed in a university report; it is not a formal appointment decision.",
+      "sources": [
+        {"id":"PSX-NUDT-TIAN-20260830","url":"https://www.nudt.edu.cn/xwgg/kdyw/e651e9c8906e457d91ecb00b6fb5272a.htm","class":"A3","date":"2026-08-30","publisher":"National University of Defense Technology","scope":"direct institution title observation","mode":"text-title"}
+      ]
+    },
+    {
+      "id": "PLA-DD80CA09CB95",
+      "nameEn": "Li Yongxi",
+      "nameZh": "李勇熙",
+      "branch": "Military education / research",
+      "institution": "Air Force Engineering University",
+      "billet": "President, Air Force Engineering University",
+      "rank": "Major general",
+      "roleState": "official_title_with_scope_caveat",
+      "lastReliableTitleDate": "2026-07-09",
+      "identityNote": "Title and rank observed in an institution-owned report; no appointment decision located.",
+      "sources": [
+        {"id":"PSX-AFEU-LI-20260709","url":"https://www.afeu.edu.cn/info/1671/14083.htm","class":"A3","date":"2026-07-09","publisher":"Air Force Engineering University","scope":"direct title and rank observation","mode":"text-title"}
+      ]
+    },
+    {
+      "id": "PLA-79BEBDEED3E5",
+      "nameEn": "Cai Weibin",
+      "nameZh": "蔡渭滨",
+      "branch": "Military education / research",
+      "institution": "Air Force Engineering University",
+      "billet": "Party secretary and political commissar, Air Force Engineering University",
+      "rank": "Major general",
+      "roleState": "official_title_with_scope_caveat",
+      "lastReliableTitleDate": "2026-08-28",
+      "identityNote": "Title and rank observed in an institution-owned report; no appointment decision located.",
+      "sources": [
+        {"id":"PSX-AFEU-CAI-20260828","url":"https://www.afeu.edu.cn/info/1671/14443.htm","class":"A3","date":"2026-08-28","publisher":"Air Force Engineering University","scope":"direct title and rank observation","mode":"text-title"}
+      ]
+    },
+    {
+      "id": "PLA-2DE79A357BC0",
+      "nameEn": "Li Li",
+      "nameZh": "李立",
+      "branch": "Military education / research",
+      "institution": "Air Force Aviation University",
+      "billet": "President, Air Force Aviation University",
+      "rank": "Major general",
+      "roleState": "official_title_with_scope_caveat",
+      "lastReliableTitleDate": "2026-01-19",
+      "identityNote": "Common-name safeguard: this dossier is limited to the cited Air Force Aviation University title and must not be merged with other Li Li identities.",
+      "sources": [
+        {"id":"PSX-AFAU-LILI-20260119","url":"https://news.buaa.edu.cn/info/1002/68038.htm","class":"A3","date":"2026-01-19","publisher":"Beihang University","scope":"direct institution title and rank observation","mode":"text-title"}
+      ]
+    },
+    {
+      "id": "PLA-636E08C2A4F1",
+      "nameEn": "Zhu Xiaoqian",
+      "nameZh": "朱小谦",
+      "branch": "Military education / research",
+      "institution": "Army Engineering University",
+      "billet": "President, Army Engineering University",
+      "rank": "Major general",
+      "roleState": "official_title_with_scope_caveat",
+      "lastReliableTitleDate": "2026-06-15",
+      "identityNote": "Title and rank observed in a university release; no appointment decision located.",
+      "sources": [
+        {"id":"PSX-AEU-ZHU-20260615","url":"https://news.jlu.edu.cn/info/1306/61423.htm","class":"A3","date":"2026-06-15","publisher":"Jilin University","scope":"direct institution title and rank observation","mode":"text-title"}
+      ]
+    },
+    {
+      "id": "PLA-58F6C845E87A",
+      "nameEn": "Zhang Jianming",
+      "nameZh": "张建明",
+      "branch": "People's Armed Police",
+      "institution": "China Coast Guard",
+      "billet": "Director, China Coast Guard",
+      "rank": null,
+      "roleState": "official_title_with_scope_caveat",
+      "lastReliableTitleDate": "2026-01-30",
+      "identityNote": "Identity is limited to the China Coast Guard director title in the cited Ministry of National Defense release.",
+      "sources": [
+        {"id":"PSX-CCG-ZHANG-JM-20260130","url":"https://www.ccg.gov.cn/xwfbh/202601/t20260130_2985.html","class":"A3","date":"2026-01-30","publisher":"China Coast Guard","scope":"direct current-title observation in official press conference release","mode":"text-title"}
+      ]
+    },
+    {
+      "id": "PLA-01224D4FB1E1",
+      "nameEn": "Liu Houjie",
+      "nameZh": "刘厚杰",
+      "branch": "People's Armed Police",
+      "institution": "China Coast Guard",
+      "billet": "Political commissar, China Coast Guard",
+      "rank": null,
+      "roleState": "official_title_with_scope_caveat",
+      "lastReliableTitleDate": "2026-04-10",
+      "identityNote": "Identity is limited to the China Coast Guard political-commissar title in the cited Coast Guard release.",
+      "sources": [
+        {"id":"PSX-CCG-LIU-HJ-20260410","url":"https://www.ccg.gov.cn/hjyw/202604/t20260410_3040.html","class":"A3","date":"2026-04-10","publisher":"China Coast Guard","scope":"direct current-title observation","mode":"text-title"}
+      ]
+    },
+    {
+      "id": "PLA-0F131060085B",
+      "nameEn": "Liu Dejun",
+      "nameZh": "刘德军",
+      "branch": "People's Armed Police",
+      "institution": "China Coast Guard",
+      "billet": "China Coast Guard spokesperson",
+      "rank": null,
+      "roleState": "official_title_with_scope_caveat",
+      "lastReliableTitleDate": "2026-03-26",
+      "identityNote": "Identity is limited to the China Coast Guard spokesperson title in the cited attributed release; the older Enforcement Department deputy-director title is not presented as current.",
+      "sources": [
+        {"id":"PSX-CCG-LIU-DJ-20260326","url":"https://cn.chinadiplomacy.org.cn/2026-03/26/content_118402553.shtml","class":"A3","date":"2026-03-26","publisher":"China Diplomacy","scope":"attributed China Coast Guard spokesperson observation","mode":"text-title"}
+      ]
+    },
+    {
+      "id": "PLA-7F73980DBACF",
+      "nameEn": "Chen Guoqing",
+      "nameZh": "陈国庆",
+      "branch": "People's Armed Police",
+      "institution": "China Coast Guard",
+      "billet": "Deputy director, Political Work Department, China Coast Guard",
+      "rank": null,
+      "roleState": "official_title_with_scope_caveat",
+      "lastReliableTitleDate": "2026-01-30",
+      "identityNote": "Common-name safeguard: this dossier is limited to the cited China Coast Guard political-work title.",
+      "sources": [
+        {"id":"PSX-CCG-CHEN-GQ-20260130","url":"https://www.ccg.gov.cn/xwfbh/202601/t20260130_2985.html","class":"A3","date":"2026-01-30","publisher":"China Coast Guard","scope":"direct title observation in official press conference release","mode":"text-title"}
+      ]
+    },
+    {
+      "id": "PLA-5A2B963D8884",
+      "nameEn": "Zhang Jianzhong",
+      "nameZh": "张建中",
+      "branch": "People's Armed Police",
+      "institution": "China Coast Guard",
+      "billet": "Director, Enforcement Department, China Coast Guard",
+      "rank": null,
+      "roleState": "official_title_with_scope_caveat",
+      "lastReliableTitleDate": "2026-05-22",
+      "identityNote": "Common-name safeguard: this dossier is limited to the Coast Guard Enforcement Department title in the cited state-media report.",
+      "sources": [
+        {"id":"PSX-CCG-ZHANG-JZ-20260522","url":"https://cn.chinadaily.com.cn/a/202605/22/WS6a0fbaf6a310942cc49ada1d.html","class":"A3","date":"2026-05-22","publisher":"China Daily","scope":"direct title observation; state-media report, not a formal appointment notice","mode":"text-title"}
+      ]
+    },
+    {
+      "id": "PLA-96F1DAAB6BA9",
+      "nameEn": "Jiang Meng",
+      "nameZh": "蒋猛",
+      "branch": "Military education / research",
+      "institution": "Cyberspace Force Information Engineering University",
+      "billet": "President, Cyberspace Force Information Engineering University",
+      "rank": null,
+      "roleState": "official_title_with_scope_caveat",
+      "lastReliableTitleDate": "2026-05-27",
+      "identityNote": "Title is limited to the cited university-event record; no date-of-birth, rank, or command-track inference is made.",
+      "sources": [
+        {"id":"PSX-JIANG-MENG-20260527","url":"https://dawww.nju.edu.cn/info/1061/73531.htm","class":"A3","date":"2026-05-27","publisher":"Nanjing University","scope":"direct institution-title observation","mode":"text-title"}
+      ]
+    },
+    {
+      "id": "PLA-9C94FDD2DBB2",
+      "nameEn": "Zuo Jun",
+      "nameZh": "左军",
+      "branch": "Military education / research",
+      "institution": "Information Support Force Engineering University",
+      "billet": "President, Information Support Force Engineering University",
+      "rank": null,
+      "roleState": "official_title_with_scope_caveat",
+      "lastReliableTitleDate": "2025-09-20",
+      "identityNote": "Common-name safeguard: this dossier is limited to the cited Information Support Force Engineering University title.",
+      "sources": [
+        {"id":"PSX-ZUO-JUN-20250920","url":"https://jjckb.xinhuanet.com/20250923/7da7d74b87934e0ca3103c3d1e7561e9/c.html","class":"A2","date":"2025-09-23","publisher":"Economic Information Daily / Xinhua","scope":"direct institution-title observation at 20 September event","mode":"text-title"}
+      ]
+    },
+    {
+      "id": "PLA-3C604F7A4F94",
+      "nameEn": "Cao Bing",
+      "nameZh": "曹兵",
+      "branch": "Military education / research",
+      "institution": "Joint Logistic Support Force Engineering University",
+      "billet": "President, Joint Logistic Support Force Engineering University",
+      "rank": null,
+      "roleState": "official_title_with_scope_caveat",
+      "lastReliableTitleDate": "2026-07-20",
+      "identityNote": "Title is limited to the cited official district-government record; rank and broader logistics-command authority are not established.",
+      "sources": [
+        {"id":"PSX-CAO-BING-20260720","url":"https://www.cqspb.gov.cn/bm/qtyjrswj_63831/sy_63832/bmdt_63834/202607/t20260720_15835074.html","class":"A3","date":"2026-07-20","publisher":"Shapingba District People's Government, Chongqing","scope":"direct institution-title observation","mode":"text-title"}
+      ]
+    },
+    {
+      "id": "PLA-65BFA55FDC8F",
+      "nameEn": "Li Huowei",
+      "nameZh": "李火伟",
+      "branch": "Military education / research",
+      "institution": "Information Support Force Engineering University Communications NCO School",
+      "billet": "President, Information Support Force Engineering University Communications NCO School",
+      "rank": null,
+      "roleState": "official_title_with_scope_caveat",
+      "lastReliableTitleDate": "2026-07-20",
+      "identityNote": "Narrow-scope school title only; this record must not be read as the presidency of the full university or a service-headquarters billet.",
+      "sources": [
+        {"id":"PSX-LI-HUOWEI-20260720","url":"https://www.cqspb.gov.cn/bm/qtyjrswj_63831/sy_63832/bmdt_63834/202607/t20260720_15835074.html","class":"A3","date":"2026-07-20","publisher":"Shapingba District People's Government, Chongqing","scope":"direct narrow-scope institution-title observation","mode":"text-title"}
+      ]
+    },
+    {
+      "id": "PLA-376509CB4FF4",
+      "nameEn": "Huang Ming",
+      "nameZh": "黄铭",
+      "branch": "Joint theater command",
+      "institution": "Northern Theater Command",
+      "billet": "Commander, Northern Theater Command",
+      "rank": null,
+      "roleState": "official_title_with_scope_caveat",
+      "lastReliableTitleDate": "2025-01-25",
+      "identityNote": "Direct official title observation at a Liaoning event; no later absence is treated as evidence of removal.",
+      "sources": [
+        {"id":"PSX-HUANG-MING-20250125","url":"https://www.ln.gov.cn/web/zwgkx/rdxx01_105674/2025012609033371811/index.shtml","class":"A3","date":"2025-01-26","publisher":"People's Government of Liaoning Province","scope":"direct theater-principal title observation at 25 January event","mode":"text-title"}
+      ]
+    },
+    {
+      "id": "PLA-FAC19C8B4368",
+      "nameEn": "Zheng Xuan",
+      "nameZh": "郑璇",
+      "branch": "Joint theater command",
+      "institution": "Northern Theater Command",
+      "billet": "Political commissar, Northern Theater Command",
+      "rank": null,
+      "roleState": "official_title_with_scope_caveat",
+      "lastReliableTitleDate": "2025-01-25",
+      "identityNote": "Direct official title observation at a Liaoning event; no later absence is treated as evidence of removal.",
+      "sources": [
+        {"id":"PSX-ZHENG-XUAN-20250125","url":"https://www.ln.gov.cn/web/zwgkx/rdxx01_105674/2025012609033371811/index.shtml","class":"A3","date":"2025-01-26","publisher":"People's Government of Liaoning Province","scope":"direct theater-principal title observation at 25 January event","mode":"text-title"}
+      ]
+    },
+    {
+      "id": "PLA-1761A00DE0C9",
+      "nameEn": "Wu Yanan",
+      "nameZh": "吴亚男",
+      "branch": "Joint theater command",
+      "institution": "Southern Theater Command",
+      "billet": "Commander, Southern Theater Command",
+      "rank": null,
+      "roleState": "official_title_with_scope_caveat",
+      "lastReliableTitleDate": "2025-03-14",
+      "identityNote": "Direct official title observation in a Shenzhen government reprint; this does not establish later continuity.",
+      "sources": [
+        {"id":"PSX-WU-YANAN-20250314","url":"https://www.sz.gov.cn/cn/xxgk/zfxxgj/zwdt/content/post_12073903.html","class":"A3","date":"2025-03-14","publisher":"People's Government of Shenzhen Municipality","scope":"direct theater-principal title observation","mode":"text-title"}
+      ]
+    },
+    {
+      "id": "PLA-9B6F1B05017B",
+      "nameEn": "Luo Zhengxue",
+      "nameZh": "罗正学",
+      "branch": "Military education / research",
+      "institution": "Air Force Medical University",
+      "billet": "President, Air Force Medical University",
+      "rank": null,
+      "roleState": "official_title_with_scope_caveat",
+      "lastReliableTitleDate": "2026-06-22",
+      "identityNote": "Institution title observation in a Xi'an municipal-government release; it supersedes older identified presidents only at the cited observation date.",
+      "sources": [
+        {"id":"PSX-LUO-ZX-20260622","url":"https://www.xa.gov.cn/xw/xayw/2069231388885798913.html","class":"A3","date":"2026-06-22","publisher":"People's Government of Xi'an Municipality","scope":"direct institution-title observation","mode":"text-title"}
+      ]
+    },
+    {
+      "id": "PLA-C058BD080EC1",
+      "nameEn": "Zhou Yijian",
+      "nameZh": "周义建",
+      "branch": "Military education / research",
+      "institution": "Air Force Engineering University",
+      "billet": "Vice president, Air Force Engineering University",
+      "rank": null,
+      "roleState": "official_title_with_scope_caveat",
+      "lastReliableTitleDate": "2026-08-28",
+      "identityNote": "Institution title observation only; no rank is added because the cited source does not state one.",
+      "sources": [
+        {"id":"PSX-AFEU-ZHOU-20260828","url":"https://www.afeu.edu.cn/info/1671/14443.htm","class":"A3","date":"2026-08-28","publisher":"Air Force Engineering University","scope":"direct institution-title observation","mode":"text-title"}
+      ]
+    },
+    {
+      "id": "PLA-643A158DC96B",
+      "nameEn": "Wei Chengkai",
+      "nameZh": "魏成凯",
+      "branch": "Military education / research",
+      "institution": "Air Force Engineering University",
+      "billet": "Vice president and education director, Air Force Engineering University",
+      "rank": "Colonel",
+      "roleState": "official_title_with_scope_caveat",
+      "lastReliableTitleDate": "2026-01-08",
+      "identityNote": "Title and rank are bounded to the cited institution report; no promotion or seniority inference is made.",
+      "sources": [
+        {"id":"PSX-AFEU-WEI-20260108","url":"https://www.afeu.edu.cn/info/1671/11183.htm","class":"A3","date":"2026-01-08","publisher":"Air Force Engineering University","scope":"direct title and rank observation","mode":"text-title"}
+      ]
+    },
+    {
+      "id": "PLA-499607B891BC",
+      "nameEn": "Ji Duo",
+      "nameZh": "纪多",
+      "branch": "PLA Air Force",
+      "institution": "PLA Air Force",
+      "billet": "Deputy political commissar, PLA Air Force",
+      "rank": null,
+      "roleState": "official_title_with_scope_caveat",
+      "lastReliableTitleDate": "2025-09-19",
+      "identityNote": "Direct official provincial title observation; no rank or later appointment is inferred.",
+      "sources": [
+        {"id":"PSX-JI-DUO-20250919","url":"https://www.jl.gov.cn/yaowen/202509/t20250919_3499861.html","class":"A3","date":"2025-09-19","publisher":"People's Government of Jilin Province","scope":"direct Air Force title observation","mode":"text-title"}
+      ]
+    },
+    {
+      "id": "PLA-0AB6D51D0B8D",
+      "nameEn": "Wang Zhilong",
+      "nameZh": "王志龙",
+      "branch": "PLA Air Force",
+      "institution": "PLA Air Force Equipment Department",
+      "billet": "Director, PLA Air Force Equipment Department",
+      "rank": null,
+      "roleState": "official_title_with_scope_caveat",
+      "lastReliableTitleDate": "2025-09-19",
+      "identityNote": "Common-name safeguard: this dossier is limited to the cited Air Force Equipment Department title.",
+      "sources": [
+        {"id":"PSX-WANG-ZL-20250919","url":"https://www.jl.gov.cn/yaowen/202509/t20250919_3499861.html","class":"A3","date":"2025-09-19","publisher":"People's Government of Jilin Province","scope":"direct Air Force title observation","mode":"text-title"}
+      ]
+    },
+    {
+      "id": "PLA-BC6028E241ED",
+      "nameEn": "Shao Shan",
+      "nameZh": "邵山",
+      "branch": "Military education / research",
+      "institution": "Air Force Aviation University",
+      "billet": "Political commissar, Air Force Aviation University",
+      "rank": null,
+      "roleState": "official_title_with_scope_caveat",
+      "lastReliableTitleDate": "2025-09-19",
+      "identityNote": "Direct official provincial title observation; a separate older rank record is not used to claim a current rank here.",
+      "sources": [
+        {"id":"PSX-SHAO-SHAN-20250919","url":"https://www.jl.gov.cn/yaowen/202509/t20250919_3499861.html","class":"A3","date":"2025-09-19","publisher":"People's Government of Jilin Province","scope":"direct institution title observation","mode":"text-title"}
+      ]
+    }
+  ],
+  "supplementalClaims": [
+    {"id":"PSX-CLM-ZHANG-SG-20260703","personId":"PLA-ABCF66988C96","field":"current_billet","value":"Secretary, CMC Discipline Inspection Commission; director, CMC Supervisory Commission","observedAt":"2026-07-03","source":{"id":"PSX-XH-PROMOTE-20260703","url":"https://www.news.cn/politics/leaders/20260703/e7a831d5766e4c9e89ca8b4c599e0625/c.html","class":"A2","date":"2026-07-03","publisher":"Xinhua","scope":"direct title and rank observation at CMC promotion ceremony","mode":"text-title"},"temporalScope":"Direct title observation on 3 July 2026.","doesNotSupport":"Party-CMC or state-CMC membership."},
+    {"id":"PSX-CLM-WANG-GANG-20260703","personId":"PLA-094E667C71A0","field":"current_billet","value":"Commander, PLA Air Force","observedAt":"2026-07-03","source":{"id":"PSX-XH-PROMOTE-20260703","url":"https://www.news.cn/politics/leaders/20260703/e7a831d5766e4c9e89ca8b4c599e0625/c.html","class":"A2","date":"2026-07-03","publisher":"Xinhua","scope":"direct title and rank observation at CMC promotion ceremony","mode":"text-title"},"temporalScope":"Direct title observation on 3 July 2026.","doesNotSupport":"Party-CMC or state-CMC membership."},
+    {"id":"PSX-CLM-YANG-ZB-20251222","personId":"PLA-CFFD836085FB","field":"current_billet","value":"Commander, Eastern Theater Command","observedAt":"2025-12-22","source":{"id":"PSX-XH-PROMOTE-20251222","url":"https://www.news.cn/politics/leaders/20251222/fb1b217000ac46f8812eeaeb3fd5c261/c.html","class":"A2","date":"2025-12-22","publisher":"Xinhua","scope":"direct title and rank observation at CMC promotion ceremony","mode":"text-title"},"temporalScope":"Direct title observation on 22 December 2025.","doesNotSupport":"Any later appointment or Party-CMC status."},
+    {"id":"PSX-CLM-HAN-SY-20251222","personId":"PLA-E0992169C8FF","field":"current_billet","value":"Commander, Central Theater Command","observedAt":"2025-12-22","source":{"id":"PSX-XH-PROMOTE-20251222","url":"https://www.news.cn/politics/leaders/20251222/fb1b217000ac46f8812eeaeb3fd5c261/c.html","class":"A2","date":"2025-12-22","publisher":"Xinhua","scope":"direct title and rank observation at CMC promotion ceremony","mode":"text-title"},"temporalScope":"Direct title observation on 22 December 2025.","doesNotSupport":"Any later appointment or Party-CMC status."},
+    {"id":"PSX-CLM-WU-QIAN-20250725","personId":"PLA-AA9B8203C09D","field":"current_billet","value":"Defense attaché, Embassy of the People's Republic of China in Egypt","observedAt":"2025-07-25","source":{"id":"PSX-EMB-WUQIAN-20250725","url":"https://eg.china-embassy.gov.cn/sgxw/202507/t20250725_11676820.htm","class":"A3","date":"2025-07-25","publisher":"Embassy of the People's Republic of China in Egypt","scope":"direct title observation in embassy announcement","mode":"text-title"},"temporalScope":"Direct title observation on 25 July 2025.","doesNotSupport":"Any continued MND spokesperson role."},
+    {"id":"PSX-CLM-WEN-JF-20260213","personId":"PLA-0F27B343F6BD","field":"current_billet","value":"Deputy commander, Western Theater Command","observedAt":"2026-02-13","source":{"id":"PSX-WEN-JF-20260213","url":"https://scjc.gov.cn/scjc/zhyw01/2026/2/13/840aeab3436f4a9f8a4e396eb511f0bf.shtml","class":"A3","date":"2026-02-13","publisher":"Sichuan Commission for Discipline Inspection","scope":"direct title and rank observation in official provincial release","mode":"text-title"},"temporalScope":"Direct title observation on 13 February 2026.","doesNotSupport":"A formal commander appointment."},
+    {"id":"PSX-CLM-XIA-ZH-20251026","personId":"PLA-2B8F9CF122FA","field":"current_billet","value":"Political commissar, National Defense University","observedAt":"2025-10-26","source":{"id":"PSX-PD-XIA-ZH-20251026","url":"https://world.people.com.cn/n1/2025/1026/c1002-40589642-13.html","class":"A2","date":"2025-10-26","publisher":"People's Daily","scope":"direct title observation in central Party press","mode":"text-title"},"temporalScope":"Direct title observation on 26 October 2025.","doesNotSupport":"A later appointment or Party-CMC position."},
+    {"id":"PSX-CLM-CHEN-DONG-20250423","personId":"PLA-6001E00E8D37","field":"current_billet","value":"Commander, PLA Astronaut Corps","observedAt":"2025-04-23","source":{"id":"PSX-XH-CHEN-DONG-20250423","url":"https://www.news.cn/politics/20250423/e93ebc7d65204d269513dfef500812a1/c.html","class":"A2","date":"2025-04-23","publisher":"Xinhua","scope":"direct title and astronaut-class observation","mode":"text-title"},"temporalScope":"Direct title observation on 23 April 2025.","doesNotSupport":"A general-officer rank or a broader space-force command billet."},
+    {"id":"PSX-CLM-BI-YI-20240419","personId":"PLA-7FCDE2ABF6CF","field":"historical_billet","value":"Founding commander, Information Support Force","observedAt":"2024-04-19","source":{"id":"PSX-XH-BI-YI-20240419","url":"https://www.news.cn/politics/leaders/20240419/49989c4326f04ab6ac63d93a2073c8f6/c.html","class":"A2","date":"2024-04-19","publisher":"Xinhua","scope":"founding-force ceremony title","mode":"text-title"},"temporalScope":"Historical title at the April 2024 founding ceremony.","doesNotSupport":"Continuity in the role after the observation date."},
+    {"id":"PSX-CLM-HE-YZ-20260209","personId":"PLA-52A639E3B03C","field":"honor","value":"Academician, Chinese Academy of Sciences","observedAt":"2026-02-09","source":{"id":"PSX-CAS-HE-YZ-20260209","url":"https://casad.cas.cn/ysxx2022/ysmd/xxjs/202602/t20260209_5100167.html","class":"A3","date":"2026-02-09","publisher":"Chinese Academy of Sciences","scope":"biographical honor and birth-month record","mode":"biography"},"temporalScope":"CAS biographical record, accessed in February 2026.","doesNotSupport":"A current military billet."},
+    {"id":"PSX-CLM-YIN-WEI-20250919","personId":"PLA-FB5F52B1F8C4","field":"current_billet","value":"Deputy chief of staff, PLA Air Force","observedAt":"2025-09-19","source":{"id":"PSX-YIN-WEI-20250919","url":"https://www.jl.gov.cn/yaowen/202509/t20250919_3499861.html","class":"A3","date":"2025-09-19","publisher":"Jilin Provincial People's Government","scope":"direct title observation in official provincial release","mode":"text-title"},"temporalScope":"Direct title observation on 19 September 2025.","doesNotSupport":"Chief-of-staff status."},
+    {"id":"PSX-CLM-LIU-WQ-20250922","personId":"PLA-95942D3CF61A","field":"current_billet","value":"Deputy commander, Northern Theater Command; commander, Northern Theater Air Force","observedAt":"2025-09-22","source":{"id":"PSX-LIU-WQ-20250922","url":"https://drc.changchun.gov.cn/sygzdt/202509/t20250922_3428937.html","class":"A3","date":"2025-09-22","publisher":"Changchun Development and Reform Commission","scope":"direct dual-title observation in official municipal release","mode":"text-title"},"temporalScope":"Direct title observation on 22 September 2025.","doesNotSupport":"A separate theater-command principal role."},
+    {"id":"PSX-CLM-JING-JF-20250903","personId":"PLA-7C0FF2F452F9","field":"current_billet","value":"Deputy chief, CMC Joint Staff Department","observedAt":"2025-09-03","source":{"id":"PSX-JING-JF-20250903","url":"https://tyjrswt.fujian.gov.cn/xwzx/gfxx/202509/t20250903_7000717.htm","class":"A3","date":"2025-09-03","publisher":"Fujian Veterans Affairs Department","scope":"direct title observation in official provincial release","mode":"text-title"},"temporalScope":"Direct title observation on 3 September 2025.","doesNotSupport":"Joint Staff Department chief status."},
+    {"id":"PSX-CLM-WEI-WH-20260702","personId":"PLA-E3B1477CCE9D","field":"current_billet","value":"Deputy commander, Southern Theater Command","observedAt":"2026-07-02","source":{"id":"PSX-XH-WEI-WH-20260702","url":"https://www.news.cn/gangao/20260702/dc1a6374ab9f4af2a069a5b66d22762c/c.html","class":"A2","date":"2026-07-02","publisher":"Xinhua","scope":"direct title and rank observation","mode":"text-title"},"temporalScope":"Direct title observation on 2 July 2026.","doesNotSupport":"Theater command principal status."},
+    {"id":"PSX-CLM-WEI-WH-PARTY-20221022","personId":"PLA-E3B1477CCE9D","field":"party_status","value":"Alternate member, 20th CCP Central Committee","observedAt":"2022-10-22","source":{"id":"PSX-XH-20CC-ALT-20221022","url":"https://www.news.cn/2022-10/22/c_1129075009.htm","class":"A1","date":"2022-10-22","publisher":"Xinhua","scope":"authorized alternate-member list","mode":"formal-list"},"temporalScope":"Initial 20th Central Committee alternate-member roster published 22 October 2022.","doesNotSupport":"Current billet, future 21st Central Committee status, or promotion."},
+    {"id":"PSX-CLM-PENG-TAO-20260225","personId":"PLA-473FB74C16B7","field":"current_billet","value":"President, PLA Navy Engineering University","observedAt":"2026-02-25","source":{"id":"PSX-PENG-TAO-20260225","url":"https://kjj.wuhan.gov.cn/xwzx_8/kjspxw/202602/t20260225_2731646.html","class":"A3","date":"2026-02-25","publisher":"Wuhan Municipal Science and Technology Bureau","scope":"direct institution-title observation","mode":"text-title"},"temporalScope":"Direct title observation on 25 February 2026.","doesNotSupport":"A service-headquarters role."},
+    {"id":"PSX-CLM-CHEN-ZG-20251224","personId":"PLA-055386334E63","field":"current_billet","value":"Captain, aircraft carrier Fujian","observedAt":"2025-12-24","source":{"id":"PSX-CCTV-CHEN-ZG-20251224","url":"https://tv.cctv.com/2025/12/24/VIDErMx1N1jPt1LEOoZm7mPA251224.shtml","class":"A2","date":"2025-12-24","publisher":"CCTV","scope":"direct platform-command title observation","mode":"text-title"},"temporalScope":"Direct title observation on 24 December 2025.","doesNotSupport":"Formation, fleet, or service command."},
+    {"id":"PSX-CLM-CHEN-XX-20250320","personId":"PLA-735C442E8248","field":"current_billet","value":"President, PLA Navy Submarine Academy","observedAt":"2025-03-20","source":{"id":"PSX-CHEN-XX-20250320","url":"https://kyc.qd.sdu.edu.cn/info/1024/2285.htm","class":"A3","date":"2025-03-20","publisher":"Shandong University","scope":"direct institution-title observation","mode":"text-title"},"temporalScope":"Direct title observation on 20 March 2025.","doesNotSupport":"Submarine force command."},
+    {"id":"PSX-CLM-WANG-ZS-20250703","personId":"PLA-CC5B1A9F9877","field":"reported_assignment","value":"Carrier-formation leadership appearance","observedAt":"2025-07-03","source":{"id":"PSX-WANG-ZS-20250703","url":"https://www.ceo.gov.hk/tc/multimedia-content.html?date=20250703&id=1&type=2025","class":"A3","date":"2025-07-03","publisher":"Office of the Chief Executive, Hong Kong","scope":"official-event appearance linked to carrier formation","mode":"imagery/protocol"},"temporalScope":"Protocol/appearance evidence at a 3 July 2025 event.","doesNotSupport":"A formally announced appointment, rank, or command conversion."},
+    {"id":"PSX-CLM-SHAO-SG-20250127","personId":"PLA-7464689B2559","field":"title_correction","value":"Last direct title source in this corpus is dated 27 January 2025","observedAt":"2025-01-27","source":{"id":"PSX-SHAO-SG-20250127","url":"https://www.dlwhcyjt.com/news_detail?id=3336&txt_type=1","class":"A3","date":"2025-01-27","publisher":"Dalian Cultural Industry Group","scope":"date correction for a previously misdated mirror","mode":"text-title"},"temporalScope":"Source-date correction only.","doesNotSupport":"A September 2025 observation or a new appointment."},
+    {"id":"PSX-CLM-PENG-JT-20250730","personId":"PLA-2E29CEAE3804","field":"current_billet","value":"Commander, PLA Garrison in Hong Kong","observedAt":"2025-07-30","source":{"id":"PSX-PENG-JT-20250730","url":"https://www.mod.gov.cn/gfbw/qwfb/16396595.html","class":"A2","date":"2025-07-30","publisher":"PRC Ministry of National Defense","scope":"direct garrison-command title observation","mode":"text-title"},"temporalScope":"Direct title observation on 30 July 2025.","doesNotSupport":"A later Northern Theater Command transfer."},
+    {"id":"PSX-CLM-YUAN-HG-20250117","personId":"PLA-DDB32C6C4199","field":"current_billet","value":"Political commissar and Party secretary, Tibet Military District","observedAt":"2025-01-17","source":{"id":"PSX-YUAN-HG-20250117","url":"https://www.xizang.gov.cn/zwgk/ldhd/202501/t20250117_454814.html","class":"A3","date":"2025-01-17","publisher":"People's Government of Tibet Autonomous Region","scope":"direct title observation in official regional release","mode":"text-title"},"temporalScope":"Direct title observation on 17 January 2025.","doesNotSupport":"A later Xinjiang appointment."},
+    {"id":"PSX-CLM-TAN-HL-20250930","personId":"PLA-24F9B94B44D2","field":"reported_assignment","value":"Acting commander, Northern Theater Army","observedAt":"2025-09-30","source":{"id":"PSX-TAN-HL-20250930","url":"https://www.jl.gov.cn/yaowen/202509/t20250930_3502614.html","class":"A3","date":"2025-09-30","publisher":"Jilin Provincial People's Government","scope":"official provincial reprint naming acting work","mode":"text-title"},"temporalScope":"Date-bounded acting-title observation.","doesNotSupport":"A formal commander appointment."},
+    {"id":"PSX-CLM-CHEN-YUAN-20260610","personId":"PLA-D4BC2E123302","field":"appearance","value":"Listed first among Beijing Garrison officers at an official municipal event","observedAt":"2026-06-10","source":{"id":"PSX-CHEN-YUAN-20260610","url":"https://www.beijing.gov.cn/gongkai/ldhd/202606/t20260610_4177135.html","class":"A3","date":"2026-06-10","publisher":"People's Government of Beijing Municipality","scope":"protocol ordering at municipal event","mode":"imagery/protocol"},"temporalScope":"Official event appearance only.","doesNotSupport":"An exact Beijing Garrison title or appointment."},
+    {"id":"PSX-CLM-HE-YUANZHI-20250721","personId":"PLA-52A639E3B03C","field":"research_profile","value":"Researcher at an Information Support Force research institute; long-term communications researcher and 20th Party Congress delegate","observedAt":"2025-07-21","source":{"id":"PSX-MND-HE-YUANZHI-20250721","url":"https://www.news.cn/milpro/20250721/78f4c9204f654e5b9191f4c7ddcbcc9b/c.html","class":"A2","date":"2025-07-21","publisher":"Xinhua / Ministry of National Defense","scope":"direct technical-biography observation","mode":"biography"},"temporalScope":"Technical biography, date-bounded to the cited publication.","doesNotSupport":"A public military rank, administrative grade, or command authority."},
+    {"id":"PSX-CLM-WANG-TAO-20260804","personId":"PLA-7A183A7A3CB9","field":"current_billet","value":"Deputy captain, aircraft carrier Fujian","observedAt":"2026-08-04","source":{"id":"PSX-PDM-WANG-TAO-20260804","url":"https://military.people.com.cn/n1/2026/0804/c1011-40773601.html","class":"A2","date":"2026-08-04","publisher":"People's Daily Military","scope":"direct platform-command title observation","mode":"text-title"},"temporalScope":"Direct title observation on 4 August 2026.","doesNotSupport":"A formation, fleet, or service command appointment."},
+    {"id":"PSX-CLM-CUI-YZ-20251025","personId":"PLA-EFCC78E6E08B","field":"current_billet","value":"Deputy commander, PLA Navy","observedAt":"2025-10-25","source":{"id":"PSX-PD-CUI-YZ-20251025","url":"https://www.nopss.gov.cn/n1/2025/1025/c219544-40589355.html","class":"A2","date":"2025-10-25","publisher":"People's Daily","scope":"direct Navy deputy-commander title observation","mode":"text-title"},"temporalScope":"Direct title observation on 25 October 2025.","doesNotSupport":"A date later than the source or a formal appointment decree."},
+    {"id":"PSX-CLM-MA-LX-20241120","personId":"PLA-A22EBD37845D","field":"current_billet","value":"Deputy commander, PLA Navy","observedAt":"2024-11-20","source":{"id":"PSX-MOD-MA-LX-20241120","url":"https://www.mod.gov.cn/gfbw/jswj/rdtj_214073/16353150.html","class":"A2","date":"2024-11-20","publisher":"PRC Ministry of National Defense","scope":"direct Navy deputy-commander and rank observation","mode":"text-title"},"temporalScope":"Historical/current-title observation on 20 November 2024; freshness is intentionally downgraded.","doesNotSupport":"Continuity through the 2026 cutoff."},
+    {"id":"V6-CLM-TIAN-TRANSFER-20260114","personId":"PLA-716E32CF49E2","field":"billet_departure","value":"Transferred out of the Sichuan Military District","observedAt":"2026-01-09","source":{"id":"V6-SC-TIAN-TRANSFER-20260114","url":"https://epaper.scdaily.cn/shtml/scrb/20260114/1068624.html","class":"A3","date":"2026-01-14","publisher":"Sichuan Daily","scope":"official provincial decision records transfer out of Sichuan; destination not stated","mode":"formal-list"},"temporalScope":"Provincial decision dated 9 January 2026 and published 14 January.","doesNotSupport":"Tian Xiaowei's destination, a JLSF title, or lieutenant-general rank."}
+  ]
+}

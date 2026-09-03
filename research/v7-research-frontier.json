@@ -1,0 +1,235 @@
+{
+  "cutoff": "2026-09-02",
+  "adverseMoves": [
+    {
+      "nameEn": "Ding Xingnong",
+      "nameZh": "丁兴农",
+      "date": "2025-10-23",
+      "status": "promotion-bypass-unresolved",
+      "summary": "Second-ranked 20th Central Committee alternate was bypassed at both the July 2024 Third Plenum and October 2025 Fourth Plenum. Later appearance evidence weakens detention or removal hypotheses but does not erase the Party-selection anomaly. Retain outside the positive forecast until a formal senior appointment, 21st Congress elevation, or authoritative explanation resolves the bypass.",
+      "sources": [
+        "https://www.news.cn/2022-10/22/c_1129075009.htm",
+        "https://www.news.cn/politics/leaders/20240718/a41ada3016874e358d5064bba05eba98/c.html",
+        "https://www.news.cn/politics/leaders/20251023/d2e8ed117ef3475b8a45a8353c5688c8/c.html",
+        "https://www.12371.cn/special/zggcdzc/zggcdzcqw/?jump=true"
+      ]
+    },
+    {
+      "nameEn": "Fang Yongxiang",
+      "nameZh": "方永祥",
+      "date": "2025-10-23",
+      "status": "promotion-bypass-unresolved",
+      "summary": "20th Central Committee alternate was bypassed during vacancy filling at the 2025 Fourth Plenum. The event is a discrete Party-selection warning, not proof of investigation or removal. Retain outside the positive forecast until a formal appointment, 21st Congress elevation, or authoritative explanation resolves the bypass.",
+      "sources": [
+        "https://www.news.cn/2022-10/22/c_1129075009.htm",
+        "https://www.news.cn/politics/leaders/20251023/d2e8ed117ef3475b8a45a8353c5688c8/c.html",
+        "https://www.12371.cn/special/zggcdzc/zggcdzcqw/?jump=true"
+      ]
+    }
+  ],
+  "systemSources": [
+    {
+      "id": "SYS-F17",
+      "title": "中央军委政治工作部领导就现役军官管理暂行条例及配套法规答记者问",
+      "publisher": "PRC Ministry of National Defense",
+      "url": "https://www.mod.gov.cn/gfbw/qwfb/jwzzgzb/4876776.html?big=fan",
+      "date": "2021-01-09",
+      "class": "A2",
+      "textLevel": "full_text",
+      "supports": [
+        "Promotion qualifications were hardened around political standards and warfighting ability",
+        "Regular, early, exceptional, and out-of-sequence appointment conditions are distinct",
+        "Selection discipline and full-process supervision are formal parts of the system"
+      ],
+      "doesNotSupport": [
+        "Any candidate's internal vetting result or probability of selection"
+      ]
+    },
+    {
+      "id": "SYS-F18",
+      "title": "关于加强军队高级干部教育管理监督的若干措施",
+      "publisher": "Xinhua / Central Military Commission",
+      "url": "https://www.news.cn/20260527/8ad6ef5d542c4d6fb4c6ddacfabb9c0d/c.html",
+      "date": "2026-05-27",
+      "class": "A1",
+      "textLevel": "official_summary",
+      "supports": [
+        "Seven areas and 26 measures intensify education, management, and supervision of senior cadres",
+        "The measures emphasize collective Party committee leadership, Party control of personnel, supervision of principals, and whole-of-life oversight"
+      ],
+      "doesNotSupport": [
+        "Which individual officers passed review or how the measures are weighted in a specific appointment"
+      ]
+    },
+    {
+      "id": "SYS-F19",
+      "title": "第一期全军高级干部培训班侧记",
+      "publisher": "PLA Daily / China Military Network",
+      "url": "https://www.81.cn/yw_208727/16469172.html",
+      "date": "2026-06-16",
+      "class": "A2",
+      "textLevel": "official_report",
+      "supports": [
+        "The first all-military senior-cadre training course ran from 8 April through 16 June 2026",
+        "Sixteen student representatives reported at closing"
+      ],
+      "doesNotSupport": [
+        "A complete student roster, individual evaluations, or promotion outcomes"
+      ]
+    },
+    {
+      "id": "SYS-F20",
+      "title": "新修订军队审计条例",
+      "publisher": "Xinhua / Central Military Commission",
+      "url": "https://www.news.cn/politics/leaders/20240611/6dcd11b2afaf4f7c81cb43a91f0c7480/c.html",
+      "date": "2024-06-11",
+      "class": "A1",
+      "textLevel": "official_summary",
+      "supports": [
+        "Military audit covers operations, information systems, state resources, and leadership economic responsibility",
+        "Audit findings can feed accountability and other supervisory systems"
+      ],
+      "doesNotSupport": [
+        "That any candidate passed an audit or is free of undisclosed exposure"
+      ]
+    },
+    {
+      "id": "SYS-F21",
+      "title": "2026年军队纪检监察工作部署",
+      "publisher": "PRC Ministry of National Defense",
+      "url": "https://www.mod.gov.cn/gfbw/qwfb/16440754.html",
+      "date": "2026-02-03",
+      "class": "A2",
+      "textLevel": "official_report",
+      "supports": [
+        "Inspection, audit, investigation, Party committee evaluation, and officer assessment are to be linked",
+        "Integrity vetting is part of selection and supervision rather than only post-hoc punishment"
+      ],
+      "doesNotSupport": [
+        "Individual clearance decisions or a public cleanliness score"
+      ]
+    },
+    {
+      "id": "SYS-C06",
+      "title": "军队政治工作条例制度说明",
+      "publisher": "PRC Ministry of National Defense",
+      "url": "https://www.mod.gov.cn/gfbw/qwfb/16083200.html",
+      "date": "2021-01-05",
+      "class": "A2",
+      "textLevel": "official_explanation",
+      "supports": [
+        "Military and political principals are co-leaders within Party committee governance",
+        "Major matters are decided through Party committee processes and divided responsibility"
+      ],
+      "doesNotSupport": [
+        "That a political commissar is automatically the Party committee secretary in every observed organization"
+      ]
+    }
+  ],
+  "contextSources": [
+    {
+      "id": "CTX-SENIOR-CADRE-COURSE-20260616",
+      "title": "First all-military senior-cadre training course closes",
+      "publisher": "PLA Daily / China Military Network",
+      "date": "2026-06-16",
+      "url": "https://www.81.cn/yw_208727/16469172.html",
+      "note": "A ten-week political re-certification event whose student roster and individual outcomes were not publicly released."
+    },
+    {
+      "id": "CTX-SENIOR-CADRE-MEASURES-20260527",
+      "title": "CMC issues 26 senior-cadre supervision measures",
+      "publisher": "Xinhua",
+      "date": "2026-05-27",
+      "url": "https://www.news.cn/20260527/8ad6ef5d542c4d6fb4c6ddacfabb9c0d/c.html",
+      "note": "Official evidence that political, personnel, committee, work, and personal-life supervision now forms a tighter selection environment."
+    },
+    {
+      "id": "CTX-STC-PATROL-20260902",
+      "title": "Southern Theater conducts naval-air readiness patrol",
+      "publisher": "Xinhua / Southern Theater Command",
+      "date": "2026-09-02",
+      "url": "https://www.news.cn/politics/20260902/2cee82c5c39342ec8de53145bcc2b62d/c.html",
+      "note": "Institutional output continued under public principal ambiguity; the report names no individual commander and cannot be credited to one."
+    }
+  ],
+  "gaps": [
+    {
+      "id": "G13",
+      "title": "2026 senior-cadre course roster, evaluations, and exits",
+      "status": "open",
+      "whyItMatters": "May reveal the hidden political-clearance pool for the 2027 Party slate",
+      "evidenceNeeded": "Student roster, branch-site attendance, sixteen closing speakers, early exits, remediation, post-course assignments",
+      "searchLane": "NDU and branch sites, PLA Daily local editions, video links, post-course appointment reports",
+      "doNotAssume": "public prominence, attendance by a role model, or post-course silence proves student status or clearance",
+      "lastChecked": "2026-09-02",
+      "people": [],
+      "billetPools": ["21st Party Congress military delegation", "Party CMC and senior principal pool"],
+      "horizons": [2031]
+    },
+    {
+      "id": "G14",
+      "title": "Eligible-loser denominator for each Party cycle",
+      "status": "open",
+      "whyItMatters": "Without the risk set, winner-route prevalence cannot become selection odds or route lift",
+      "evidenceNeeded": "Frozen full-general, principal, deputy-principal, Party-member, new three-star, lateral, retirement, purge, and unresolved cohorts",
+      "searchLane": "Official rosters and promotions, Jost/Mattingly legacy data, annual personnel directories, manual 2017-26 continuation",
+      "doNotAssume": "P(route | winner) equals P(winner | route), or that pre-purge and post-purge selection regimes are stable",
+      "lastChecked": "2026-09-02",
+      "people": [],
+      "billetPools": ["Party CMC", "service, theater, central, and political principals"],
+      "horizons": [2031, 2036]
+    },
+    {
+      "id": "G15",
+      "title": "Candidate-specific command behavior and output attribution",
+      "status": "open",
+      "whyItMatters": "Unit output cannot be converted into an officer performance grade without a documented causal link",
+      "evidenceNeeded": "Exercise-director titles, signed after-action lessons, award citations, implementation records, repeated cross-role behavior",
+      "searchLane": "PLA Daily bylines, exercise reporting, unit histories, military journals, award and training records",
+      "doNotAssume": "attendance, command incumbency, or a unit press release proves personal design, execution, learning, or success",
+      "lastChecked": "2026-09-02",
+      "people": ["PLA-1493DE64544D", "PLA-E3B1477CCE9D", "PLA-12DCE6623128", "PLA-6185A59D31D0", "PLA-B526BB58D0B3"],
+      "billetPools": ["theater and Joint Staff command", "service principals", "2041 feeder pool"],
+      "horizons": [2031, 2036, 2041]
+    },
+    {
+      "id": "G16",
+      "title": "Dated co-service networks and patronage denominator",
+      "status": "open",
+      "whyItMatters": "Broad region, academy, and hometown labels produce faction folklore rather than causal promotion evidence",
+      "evidenceNeeded": "Exact overlap dates, hierarchy, shared scarce program, pre-promotion direction, independent sources, eligible-peer baseline",
+      "searchLane": "Official biographies, unit rosters, course lists, promotion chronology, serious personnel scholarship",
+      "doNotAssume": "co-service, a shared ceremony, or a link to a purged officer establishes sponsorship, alliance, guilt, or protection",
+      "lastChecked": "2026-09-02",
+      "people": [],
+      "billetPools": ["discipline succession", "Air Force selection ecosystem", "carrier cohort", "strategic-force builder and technical lanes"],
+      "horizons": [2031, 2036]
+    },
+    {
+      "id": "G17",
+      "title": "Mutable-source snapshots and event-expectancy baselines",
+      "status": "open",
+      "whyItMatters": "Live pages change, reprints are correlated, and absences only matter when event coverage and attendance expectations are known",
+      "evidenceNeeded": "Retrieved-at time, snapshot hash, origin ID, supersession link, event-family attendance rates, peer controls, explanations",
+      "searchLane": "Weekly Xinhua/MOD/81.cn archiving and recurring-event historical reconstruction",
+      "doNotAssume": "multiple URLs are independent, a current mutable page proves a historical state, or one roster omission proves removal",
+      "lastChecked": "2026-09-02",
+      "people": [],
+      "billetPools": ["Party and state CMC", "all current principal roles"],
+      "horizons": [2031]
+    },
+    {
+      "id": "G18",
+      "title": "Service/theater Party committees and staff-system continuity",
+      "status": "open",
+      "whyItMatters": "The PLA is dual-command and committee-led; a named commander is not the whole decision system",
+      "evidenceNeeded": "Military principal, political principal, Party secretary/deputy secretary, standing committee, staff chief, delegated authority",
+      "searchLane": "Party committee meetings, political-work regulations, exact title-bearing reports, recurring command events",
+      "doNotAssume": "the political commissar is automatically Party secretary, a vacant public title means an absent internal order, or one person controls every task",
+      "lastChecked": "2026-09-02",
+      "people": [],
+      "billetPools": ["five theaters", "four services", "three strategic arms", "JLSF", "PAP"],
+      "horizons": [2031, 2036]
+    }
+  ]
+}
