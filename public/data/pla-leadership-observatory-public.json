@@ -35024,7 +35024,8 @@
     "expulsion_announced": "Expelled from the Party and the military",
     "party_bypass": "Passed over in ordered Central Committee vacancy filling",
     "npc_gazette_reported": "NPC gazette text reported by secondary press",
-    "secondary_classification": "Specialist research classification without a dated official notice in this repository"
+    "secondary_classification": "Specialist research classification without a dated official notice in this repository",
+    "other": "A dated public signal that fits none of the other kinds; the event text says what it was"
   },
   "ledgerClock": {
     "cutoff": "2026-09-02",

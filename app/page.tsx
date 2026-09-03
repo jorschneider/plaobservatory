@@ -1,6 +1,6 @@
 "use client";
 
-import { useMemo, useState } from "react";
+import { useEffect, useMemo, useState } from "react";
 import {
   AlertTriangle,
   ArrowUpRight,
@@ -264,6 +264,10 @@ export default function Home() {
   const [ledgerMode, setLedgerMode] = useState("all");
   const [highlightPosition, setHighlightPosition] = useState<string | null>(null);
 
+  useEffect(() => {
+    const wanted = new URLSearchParams(window.location.search).get("tab");
+    if (wanted && ["overview", "positions", "directory", "ledger", "trackers", "routes", "evidence", "method"].includes(wanted)) setActiveTab(wanted);
+  }, []);
   const branches = useMemo(() => [...new Set(data.officers.map((o) => o.branch))].sort(), []);
   const filteredOfficers = useMemo(() => {
     const needle = query.trim().toLowerCase();
@@ -498,6 +502,10 @@ export default function Home() {
             <section className="route-backtest"><div className="section-heading-row"><div><p className="section-kicker">Route prevalence among winners</p><h3>Common routes, stated as shares of winners</h3></div></div><div>{routeEvidence.routes.map((r) => <article key={`${r.target}-${r.route}`}><div className="route-stat"><strong className="mono">{r.numerator}/{r.denominator}</strong><span>{r.target}</span></div><div><h4>{r.route}</h4><p>{r.plain}</p></div></article>)}</div></section>
             <section className="party-sync-section"><div className="section-heading-row"><div><p className="section-kicker">Party status</p><h3>Party membership arrives with the job, not before it</h3></div></div><div>{routeEvidence.partySynchronization.map((p) => <article key={`${p.group}-${p.value}`}><strong className="mono">{p.value}</strong><span>{p.share}</span><h4>{p.group}</h4><p>{p.plain}</p></article>)}</div></section>
             <section className="model-verdicts"><div className="section-heading-row"><div><p className="section-kicker">Verdicts</p><h3>Which common beliefs the evidence supports</h3></div></div><div>{routeEvidence.verdicts.map((v) => <article key={v.factor}><header><strong>{v.factor}</strong><Badge variant={v.verdict === "Survives" ? "secondary" : "outline"}>{v.verdict}</Badge></header><p>{v.plain}</p></article>)}</div></section>
+            <section className="succession-watch">
+              <div className="section-heading-row"><div><p className="section-kicker">Succession watch</p><h3>Seats that are vacant, acting or run without the title</h3><p>Derived from the position board. For each seat: who is seen doing the work, and what would settle it. No ranking and no probability.</p></div><Badge variant="outline">{data.positions.filter((p) => !p.isBench && ["adverse_vacancy", "held_in_adverse_watch", "handled_without_title", "acting_or_inferred", "conflicting"].includes(p.coverage)).length} seats</Badge></div>
+              <div className="architecture-table"><Table><TableHeader><TableRow><TableHead>Seat</TableHead><TableHead>State</TableHead><TableHead>Seen doing the work</TableHead><TableHead>Removed holder</TableHead><TableHead>What would settle it</TableHead></TableRow></TableHeader><TableBody>{data.positions.filter((p) => !p.isBench && ["adverse_vacancy", "held_in_adverse_watch", "handled_without_title", "acting_or_inferred", "conflicting"].includes(p.coverage)).map((p) => <TableRow key={p.id}><TableCell><button className="position-link" onClick={() => openPosition(p.id)}>{p.organization} · {p.position}</button></TableCell><TableCell><span className={`status-pill ${coverageTone(p.coverage)}`}>{coverageLabel[p.coverage]}</span></TableCell><TableCell>{[...p.handlers, ...p.holders].length ? [...p.handlers.map((h) => ({ ...h, how: "handler" })), ...p.holders.map((h) => ({ ...h, how: roleStateLabel[h.roleState] || h.roleState }))].map((h) => <button key={`${p.id}-${h.officerId}`} className="position-link" onClick={() => openOfficer(h.officerId)}>{h.nameEn} <span lang="zh-Hans">{h.nameZh}</span> <small className="muted">({h.how})</small></button>) : <span className="muted">nobody named</span>}</TableCell><TableCell>{p.adverse.length ? p.adverse.map((a) => `${a.nameEn} (${a.status}, ${humanDate(a.date)})`).join("; ") : "—"}</TableCell><TableCell>An appointment notice or promotion ceremony naming the exact title{p.coverage === "conflicting" ? ", or a source that resolves which record is current" : ""}.</TableCell></TableRow>)}</TableBody></Table></div>
+            </section>
             <section className="forecast-ledger"><div className="section-heading-row"><div><p className="section-kicker">Dated forecasts</p><h3>Claims written down so they can be scored later</h3><p>Each says what would confirm or break it. “Open” means not yet decided.</p></div><Badge variant="outline">{forecastLedger.length} open</Badge></div><div className="forecast-list">{forecastLedger.map((f) => <article key={f.id}><header><span className="mono">{f.id}</span><Badge variant="outline">{f.status}</Badge></header><small>{f.window} · {f.confidence} confidence</small><h4>{f.plain}</h4><dl><div><dt>Confirms</dt><dd>{f.confirms}</dd></div><div><dt>Breaks</dt><dd>{f.disconfirms}</dd></div></dl>{"officerId" in f && f.officerId ? <button className="person-link" onClick={() => openOfficer(f.officerId as string)}>Open dossier <ChevronRight /></button> : null}</article>)}</div></section>
             <section className="backtest-sources"><div><p className="section-kicker">Sources for the route evidence</p><h3>Independent of roster aggregators</h3></div>{routeEvidence.sources.map((s) => <a key={s.url} href={s.url} target="_blank" rel="noreferrer"><span>{s.publisher}</span><strong>{s.title}</strong><ArrowUpRight /></a>)}</section>
           </TabsContent>

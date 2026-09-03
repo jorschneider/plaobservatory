@@ -4473,8 +4473,11 @@ footer {
 .position-link { border: 0; background: none; padding: 0; color: var(--navy, #1f2f4a); font: inherit; font-size: 0.86rem; text-align: left; text-decoration: underline; text-underline-offset: 3px; cursor: pointer; display: block; }
 
 .clock-table { margin: 18px 0 26px; overflow-x: auto; }
-.clock-table table { min-width: 1080px; }
-.clock-name { display: grid; gap: 4px; }
+.clock-table table { min-width: 900px; width: 100%; table-layout: fixed; font-size: 0.84rem; }
+.clock-table th:first-child, .clock-table td:first-child { width: 22%; }
+.clock-table th:nth-child(2), .clock-table td:nth-child(2), .clock-table th:nth-child(3), .clock-table td:nth-child(3), .clock-table th:nth-child(4), .clock-table td:nth-child(4) { width: 19%; }
+.clock-table td { vertical-align: top; white-space: normal; overflow-wrap: anywhere; }
+.clock-name { display: grid; gap: 4px; overflow-wrap: anywhere; }
 .clock-name small { color: var(--ink-muted, #5b6472); font-size: 0.76rem; }
 .clock-event { display: grid; gap: 2px; font-size: 0.84rem; }
 .clock-event small { color: var(--ink-muted, #5b6472); font-size: 0.76rem; line-height: 1.4; }
@@ -4513,3 +4516,4 @@ tr.clock-not_yet_collected td { opacity: 0.85; }
 .limits-card ul { margin: 6px 0 0; padding-left: 18px; font-size: 0.92rem; line-height: 1.55; }
 .downloads { display: flex; flex-wrap: wrap; align-items: center; gap: 12px; margin: 26px 0 10px; }
 @media (max-width: 900px) { .position-row { grid-template-columns: 1fr; } }
+.succession-watch { margin: 30px 0; }
