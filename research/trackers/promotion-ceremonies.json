@@ -1,0 +1,566 @@
+{
+  "ceremonies": [
+    {
+      "date": "2019-12-12",
+      "url": "http://www.xinhuanet.com/politics/leaders/2019-12/12/c_1125340398.htm",
+      "publisher": "新华网 (新华社北京12月12日电, 记者李宣良)",
+      "verification": "page_fetched_and_confirmed",
+      "promoted": [
+        {
+          "nameZh": "何卫东",
+          "nameEn": "He Weidong",
+          "rankZh": "上将",
+          "billetZh": "东部战区司令员",
+          "billetEn": "Commander, Eastern Theater Command",
+          "billetNewSameDay": "yes",
+          "note": "zh.wikipedia 何卫东: '2019年12月，何卫东晋升上将军衔，提任东部战区司令员，接替将退役的刘粤军' (infobox tenure 2019年12月—2022年1月). Billet first shown at promotion. Secondary source."
+        },
+        {
+          "nameZh": "何平",
+          "nameEn": "He Ping",
+          "rankZh": "上将",
+          "billetZh": "东部战区政治委员",
+          "billetEn": "Political Commissar, Eastern Theater Command",
+          "billetNewSameDay": "no",
+          "note": "zh.wikipedia 何平 (上将): '2017年8月任东部战区政委'; held the billet ~2 years before promotion. Secondary source."
+        },
+        {
+          "nameZh": "王建武",
+          "nameEn": "Wang Jianwu",
+          "rankZh": "上将",
+          "billetZh": "南部战区政治委员",
+          "billetEn": "Political Commissar, Southern Theater Command",
+          "billetNewSameDay": "no",
+          "note": "zh.wikipedia 王建武: '2018年12月，升任南部战区政治委员，晋升正战区级'; billet held ~1 year before promotion. Secondary source."
+        },
+        {
+          "nameZh": "李桥铭",
+          "nameEn": "Li Qiaoming",
+          "rankZh": "上将",
+          "billetZh": "北部战区司令员",
+          "billetEn": "Commander, Northern Theater Command",
+          "billetNewSameDay": "no",
+          "note": "zh.wikipedia 李桥铭: infobox 北部战区司令员 2017年8月—2022年9月; '2017年8月，接替宋普选升任北部战区司令员'. Secondary source."
+        },
+        {
+          "nameZh": "周亚宁",
+          "nameEn": "Zhou Yaning",
+          "rankZh": "上将",
+          "billetZh": "火箭军司令员",
+          "billetEn": "Commander, PLA Rocket Force",
+          "billetNewSameDay": "no",
+          "note": "zh.wikipedia 周亚宁: infobox 火箭军第2任司令员 任期 2017年8月—2022年1月; '2019年12月，晋升上将军衔'. Secondary source."
+        },
+        {
+          "nameZh": "李凤彪",
+          "nameEn": "Li Fengbiao",
+          "rankZh": "上将",
+          "billetZh": "战略支援部队司令员",
+          "billetEn": "Commander, Strategic Support Force",
+          "billetNewSameDay": "no",
+          "note": "zh.wikipedia 李凤彪: '2019年4月，升任战略支援部队司令员'; infobox 2019年4月-2021年6月. Billet held 8 months before promotion. Secondary source."
+        },
+        {
+          "nameZh": "杨学军",
+          "nameEn": "Yang Xuejun",
+          "rankZh": "上将",
+          "billetZh": "军事科学院院长",
+          "billetEn": "President, Academy of Military Science",
+          "billetNewSameDay": "no",
+          "note": "zh.wikipedia 杨学军: infobox 军事科学院院长 2017年7月—2025年11月; '2019年12月明确为正战区级，晋升上将军衔' (grade, not billet, changed at promotion). Secondary source."
+        }
+      ],
+      "note": "Ceremony 下午4时50分许; 许其亮宣读命令, 张又侠主持. Article lists 7 officers in this order. Attendees 魏凤和、李作成、苗华、张升民."
+    },
+    {
+      "date": "2020-07-29",
+      "url": "http://www.xinhuanet.com/politics/leaders/2020-07/29/c_1126300876.htm",
+      "publisher": "新华网 (新华社北京7月29日电, 记者梅世雄)",
+      "verification": "page_fetched_and_confirmed",
+      "promoted": [
+        {
+          "nameZh": "徐忠波",
+          "nameEn": "Xu Zhongbo",
+          "rankZh": "上将",
+          "billetZh": "火箭军政治委员",
+          "billetEn": "Political Commissar, PLA Rocket Force",
+          "billetNewSameDay": "yes",
+          "note": "zh.wikipedia 徐忠波: '2020年7月，任火箭军政治委员'; infobox 火箭军第2任政治委员 任期 2020年7月—2023年7月. Billet first appeared in the promotion report. Secondary source."
+        }
+      ],
+      "note": "Single promotion. 下午4时30分许; 许其亮宣读, 张又侠主持. Report phrasing: '向晋升上将军衔的火箭军政治委员徐忠波同志颁发命令状'."
+    },
+    {
+      "date": "2020-12-18",
+      "url": "http://www.xinhuanet.com/politics/leaders/2020-12/18/c_1126879375.htm",
+      "publisher": "新华网 (来源: 新华社“新华视点”微博; 记者李宣良)",
+      "verification": "page_fetched_and_confirmed",
+      "promoted": [
+        {
+          "nameZh": "郭普校",
+          "nameEn": "Guo Puxiao",
+          "rankZh": "上将",
+          "billetZh": "军委后勤保障部政治委员",
+          "billetEn": "Political Commissar, CMC Logistic Support Department",
+          "billetNewSameDay": "no",
+          "note": "zh.wikipedia 郭普校: '2019年12月，调任中央军事委员会后勤保障部政治委员'; held ~1 year before promotion. Secondary source."
+        },
+        {
+          "nameZh": "张旭东",
+          "nameEn": "Zhang Xudong",
+          "rankZh": "上将",
+          "billetZh": "西部战区司令员",
+          "billetEn": "Commander, Western Theater Command",
+          "billetNewSameDay": "yes",
+          "note": "zh.wikipedia 张旭东 (上将): '2020年12月，任西部战区司令员。2020年12月晋升上将军衔'. Billet first shown at promotion. Secondary source."
+        },
+        {
+          "nameZh": "李伟",
+          "nameEn": "Li Wei",
+          "rankZh": "上将",
+          "billetZh": "战略支援部队政治委员",
+          "billetEn": "Political Commissar, Strategic Support Force",
+          "billetNewSameDay": "yes",
+          "note": "zh.wikipedia 李伟 (将军): infobox 战略支援部队第三任政治委员 任期 2020年12月—2024年4月19日; '2020年12月，任战略支援部队政治委员'. Secondary source."
+        },
+        {
+          "nameZh": "王春宁",
+          "nameEn": "Wang Chunning",
+          "rankZh": "上将警衔",
+          "billetZh": "武警部队司令员",
+          "billetEn": "Commander, People's Armed Police",
+          "billetNewSameDay": "yes",
+          "note": "zh.wikipedia 王春宁: '2020年4月，调任武警部队参谋长' — he was PAP chief of staff 8 months earlier, so 司令员 billet first shown at promotion; Wikipedia page does not give an explicit appointment month. Secondary source."
+        }
+      ],
+      "note": "Titled 晋升上将军衔警衔仪式 (includes a PAP officer). 下午5时15分许; 许其亮宣读, 张又侠主持. 4 officers."
+    },
+    {
+      "date": "2021-07-05",
+      "url": "http://www.xinhuanet.com/politics/2021-07/05/c_1127625114.htm",
+      "publisher": "新华网 (新华社北京7月5日电, 记者梅常伟)",
+      "verification": "page_fetched_and_confirmed",
+      "promoted": [
+        {
+          "nameZh": "王秀斌",
+          "nameEn": "Wang Xiubin",
+          "rankZh": "上将",
+          "billetZh": "南部战区司令员",
+          "billetEn": "Commander, Southern Theater Command",
+          "billetNewSameDay": "yes",
+          "note": "zh.wikipedia 王秀斌: '2019年4月，升任东部战区副司令员兼参谋长'; '2021年6月任南部战区司令员'; '2021年7月，晋升上将军衔'. Billet first publicly shown at promotion. Secondary source."
+        },
+        {
+          "nameZh": "徐起零",
+          "nameEn": "Xu Qiling",
+          "rankZh": "上将",
+          "billetZh": "西部战区司令员",
+          "billetEn": "Commander, Western Theater Command",
+          "billetNewSameDay": "yes",
+          "note": "zh.wikipedia 徐起零: infobox 西部战区第3任司令员 任期 2021年6月—2021年8月 (previously 西部战区陆军司令员 from 2020年4月); moved to 军委联合参谋部副参谋长 in Aug 2021, weeks after promotion. Secondary source."
+        },
+        {
+          "nameZh": "刘振立",
+          "nameEn": "Liu Zhenli",
+          "rankZh": "上将",
+          "billetZh": "陆军司令员",
+          "billetEn": "Commander, PLA Army",
+          "billetNewSameDay": "yes",
+          "note": "zh.wikipedia 刘振立: '2021年6月，升任陆军司令员，次月晋升陆军上将军衔'; infobox 陆军司令员 2021年6月－2022年9月, previously 陆军参谋长. Secondary source."
+        },
+        {
+          "nameZh": "巨乾生",
+          "nameEn": "Ju Qiansheng",
+          "rankZh": "上将",
+          "billetZh": "战略支援部队司令员",
+          "billetEn": "Commander, Strategic Support Force",
+          "billetNewSameDay": "yes",
+          "note": "zh.wikipedia 巨乾生: '2021年6月升任战略支援部队司令员'; infobox 第3任司令员 2021年6月至2024年4月. Secondary source."
+        }
+      ],
+      "note": "下午5时15分许; 许其亮宣读, 张又侠主持. 4 officers listed in this order."
+    },
+    {
+      "date": "2021-09-06",
+      "url": "http://www.xinhuanet.com/politics/leaders/2021-09/06/c_1127833663.htm",
+      "publisher": "新华网 (photo page); full text of 新华社北京9月6日电 (记者梅常伟) read at People's Daily reprint http://politics.people.com.cn/n1/2021/0907/c1024-32219362.html",
+      "verification": "page_fetched_and_confirmed",
+      "promoted": [
+        {
+          "nameZh": "汪海江",
+          "nameEn": "Wang Haijiang",
+          "rankZh": "上将",
+          "billetZh": "西部战区司令员",
+          "billetEn": "Commander, Western Theater Command",
+          "billetNewSameDay": "yes",
+          "note": "Same-day 新京报 (https://m.bjnews.com.cn/detail/163093330914481.html, 2021-09-06): '这5名新晋上将的军职也是首次公开对社会披露… 至今日汪海江晋升上将，他的新职务——西部战区司令员也正式向社会披露'; was 新疆军区司令员 as of 2021-08-02. zh.wikipedia: 2021年8月升任西部战区司令员."
+        },
+        {
+          "nameZh": "林向阳",
+          "nameEn": "Lin Xiangyang",
+          "rankZh": "上将",
+          "billetZh": "中部战区司令员",
+          "billetEn": "Commander, Central Theater Command",
+          "billetNewSameDay": "yes",
+          "note": "Same-day 新京报: '今日，林向阳的中部战区司令员职务也首次公开'; previously 东部战区陆军司令员 (since 2020年7月). zh.wikipedia infobox 中部战区司令员 2021年8月—2022年1月."
+        },
+        {
+          "nameZh": "董军",
+          "nameEn": "Dong Jun",
+          "rankZh": "上将",
+          "billetZh": "海军司令员",
+          "billetEn": "Commander, PLA Navy",
+          "billetNewSameDay": "yes",
+          "note": "Same-day 新京报: all five billets 首次公开对社会披露; 董军's previous post 南部战区副司令员 (2017), 海军副司令员 2021年3月. zh.wikipedia infobox 海军司令员 2021年9月6日—2023年12月25日."
+        },
+        {
+          "nameZh": "常丁求",
+          "nameEn": "Chang Dingqiu",
+          "rankZh": "上将",
+          "billetZh": "空军司令员",
+          "billetEn": "Commander, PLA Air Force",
+          "billetNewSameDay": "yes",
+          "note": "Same-day 新京报: '空军新司令员常丁求'; previously 中央军委联合参谋部副参谋长. zh.wikipedia: '2021年8月，任空军司令员'; infobox 2021年8月—2025年12月."
+        },
+        {
+          "nameZh": "许学强",
+          "nameEn": "Xu Xueqiang",
+          "rankZh": "上将",
+          "billetZh": "国防大学校长",
+          "billetEn": "President, PLA National Defense University",
+          "billetNewSameDay": "yes",
+          "note": "Same-day 新京报 states all five officers' billets were first disclosed at this ceremony. zh.wikipedia 许学强 is a disambiguation page; no independent appointment date obtained."
+        }
+      ],
+      "note": "The Xinhua URL is the photo item (caption only, names not listed); the full Xinhua dispatch with the five names was read on the People's Daily reprint (GBK-encoded page decoded). 下午5时20分许; 许其亮宣读, 张又侠主持."
+    },
+    {
+      "date": "2022-01-21",
+      "url": "http://www.news.cn/politics/leaders/2022-01/21/c_1128288122.htm",
+      "publisher": "新华网 (新华社北京1月21日电, 记者梅常伟)",
+      "verification": "page_fetched_and_confirmed",
+      "promoted": [
+        {
+          "nameZh": "刘青松",
+          "nameEn": "Liu Qingsong",
+          "rankZh": "上将",
+          "billetZh": "北部战区政治委员",
+          "billetEn": "Political Commissar, Northern Theater Command",
+          "billetNewSameDay": "yes",
+          "note": "Next-day 南方都市报 (https://m.mp.oeeee.com/oe/BAAFRD000020220121646342.html): '这7名上将均以新身份亮相… 直至此次晋升上将仪式披露，他(刘青松)已从东部战区原有岗位卸任，到北部战区担任政委'. zh.wikipedia: 2022年1月升任北部战区政治委员."
+        },
+        {
+          "nameZh": "吴亚男",
+          "nameEn": "Wu Ya'nan",
+          "rankZh": "上将",
+          "billetZh": "中部战区司令员",
+          "billetEn": "Commander, Central Theater Command",
+          "billetNewSameDay": "yes",
+          "note": "南方都市报 2022-01-22: '由此前担任军委联合参谋部副参谋长的吴亚男担任(中部战区司令员)… 官方再次披露吴亚男新职务'. zh.wikipedia: 2020年12月 军委联合参谋部副参谋长; 2022年1月升任中部战区司令员."
+        },
+        {
+          "nameZh": "徐德清",
+          "nameEn": "Xu Deqing",
+          "rankZh": "上将",
+          "billetZh": "中部战区政治委员",
+          "billetEn": "Political Commissar, Central Theater Command",
+          "billetNewSameDay": "yes",
+          "note": "南方都市报 2022-01-22: all 7 以新身份亮相. zh.wikipedia: 2018年4月 西部战区陆军政治委员; 2022年1月升任中部战区政治委员."
+        },
+        {
+          "nameZh": "秦树桐",
+          "nameEn": "Qin Shutong",
+          "rankZh": "上将",
+          "billetZh": "陆军政治委员",
+          "billetEn": "Political Commissar, PLA Army",
+          "billetNewSameDay": "yes",
+          "note": "南方都市报 2022-01-22: all 7 以新身份亮相. zh.wikipedia: 2018年4月 陆军政治工作部主任; 2022年1月升任陆军政治委员."
+        },
+        {
+          "nameZh": "袁华智",
+          "nameEn": "Yuan Huazhi",
+          "rankZh": "上将",
+          "billetZh": "海军政治委员",
+          "billetEn": "Political Commissar, PLA Navy",
+          "billetNewSameDay": "yes",
+          "note": "南方都市报 2022-01-22: all 7 以新身份亮相. zh.wikipedia: 2019年3月 海军副政委; 2022年1月升任海军政委."
+        },
+        {
+          "nameZh": "李玉超",
+          "nameEn": "Li Yuchao",
+          "rankZh": "上将",
+          "billetZh": "火箭军司令员",
+          "billetEn": "Commander, PLA Rocket Force",
+          "billetNewSameDay": "yes",
+          "note": "南方都市报 2022-01-22: all 7 以新身份亮相. zh.wikipedia: 2020年4月 火箭军参谋长; '2022年1月升任火箭军司令员，晋升上将军衔'."
+        },
+        {
+          "nameZh": "张红兵",
+          "nameEn": "Zhang Hongbing",
+          "rankZh": "上将警衔",
+          "billetZh": "武警部队政治委员",
+          "billetEn": "Political Commissar, People's Armed Police",
+          "billetNewSameDay": "yes",
+          "note": "南方都市报 2022-01-22: '此次晋升的上将中，有1人跨军种任职，他是武警部队政委张红兵，此前他曾任东部战区副政委、战区陆军政委'. zh.wikipedia: 2019年12月 东部战区陆军政治委员; 2022年1月升任武警部队政治委员."
+        }
+      ],
+      "note": "Titled 晋升上将军衔警衔仪式. 下午5时许; 许其亮宣读, 张又侠主持. 7 officers listed in this order."
+    },
+    {
+      "date": "2022-09-08",
+      "url": "http://www.news.cn/politics/leaders/2022-09/08/c_1128987497.htm",
+      "publisher": "新华网 (photo/caption page, 新华社记者李刚摄)",
+      "verification": "page_fetched_and_confirmed",
+      "promoted": [
+        {
+          "nameZh": "王强",
+          "nameEn": "Wang Qiang",
+          "rankZh": "上将",
+          "billetZh": "北部战区司令员",
+          "billetEn": "Commander, Northern Theater Command",
+          "billetNewSameDay": "yes",
+          "note": "zh.wikipedia 王强 (解放军): '2020年4月，兼任西部战区空军司令员(西部战区副司令员)… 2022年9月，升任北部战区司令员'; zh.wikipedia 李桥铭: '2022年9月，不再担任北部战区司令员'. Billet first shown at promotion. Secondary source."
+        }
+      ],
+      "note": "Not in the caller's known list. The Xinhua page read contains only the photo caption '中央军委主席习近平向晋升上将军衔的北部战区司令员王强颁发命令状'; the fuller dispatch (上午11时许; 许其亮宣读, 张又侠主持) was seen only in a search snippet of the Xinhua Daily Telegraph reprint (news.cn/mrdx/2022-09/09/c_1310660867.htm now redirects to mrdx.cn front page; People's Daily e-paper returned 403)."
+    },
+    {
+      "date": "2023-01-18",
+      "url": "http://www.news.cn/politics/leaders/2023-01/18/c_1129297808.htm",
+      "publisher": "新华网 (新华社北京1月18日电, 记者梅常伟)",
+      "verification": "page_fetched_and_confirmed",
+      "promoted": [
+        {
+          "nameZh": "黄铭",
+          "nameEn": "Huang Ming",
+          "rankZh": "上将",
+          "billetZh": "中部战区司令员",
+          "billetEn": "Commander, Central Theater Command",
+          "billetNewSameDay": "yes",
+          "note": "zh.wikipedia 黄铭: '2021年9月，转任陆军参谋长'; '2023年1月升任中部战区司令员'; '2023年1月晋升上将军衔'. Billet first shown at promotion. Secondary source."
+        }
+      ],
+      "note": "Not in the caller's known list. 下午4时许; 张又侠宣读, 何卫东主持. Attendees 李尚福、刘振立、苗华、张升民."
+    },
+    {
+      "date": "2023-06-28",
+      "url": "http://www.news.cn/politics/leaders/2023-06/28/c_1129721994.htm",
+      "publisher": "新华网 (新华社北京6月28日电, 记者梅常伟)",
+      "verification": "page_fetched_and_confirmed",
+      "promoted": [
+        {
+          "nameZh": "郑璇",
+          "nameEn": "Zheng Xuan",
+          "rankZh": "上将",
+          "billetZh": "北部战区政治委员",
+          "billetEn": "Political Commissar, Northern Theater Command",
+          "billetNewSameDay": "yes",
+          "note": "Next-day 政知见/腾讯 (https://news.qq.com/rain/a/20230628A0AD0J00): '两位新晋上将此次均是以新职务亮相'. zh.wikipedia: 2020年12月 北部战区副政委兼战区陆军政委; 2023年6月任北部战区政委."
+        },
+        {
+          "nameZh": "凌焕新",
+          "nameEn": "Ling Huanxin",
+          "rankZh": "上将",
+          "billetZh": "军事科学院政治委员",
+          "billetEn": "Political Commissar, Academy of Military Science",
+          "billetNewSameDay": "yes",
+          "note": "政知见 2023-06-29: 均以新职务亮相; '此前担任军事科学院政委是白吕将军'. zh.wikipedia: 2018年12月 中央军委纪委副书记; 2023年6月任军事科学院政治委员."
+        }
+      ],
+      "note": "Not in the caller's known list. 下午4时30分许; 张又侠宣读, 何卫东主持."
+    },
+    {
+      "date": "2023-07-31",
+      "url": "http://www.news.cn/politics/leaders/2023-07/31/c_1129778572.htm",
+      "publisher": "新华网 (新华社北京7月31日电, 记者梅常伟)",
+      "verification": "page_fetched_and_confirmed",
+      "promoted": [
+        {
+          "nameZh": "王厚斌",
+          "nameEn": "Wang Houbin",
+          "rankZh": "上将",
+          "billetZh": "火箭军司令员",
+          "billetEn": "Commander, PLA Rocket Force",
+          "billetNewSameDay": "yes",
+          "note": "zh.wikipedia 王厚斌: '2018年12月，升任海军副司令员'; '2023年7月，晋升上将军衔，任火箭军司令员'; infobox 第4任火箭军司令员 2023年7月—. Replaced 李玉超 (火箭军司令员 2022年1月至2023年7月). Secondary source."
+        },
+        {
+          "nameZh": "徐西盛",
+          "nameEn": "Xu Xisheng",
+          "rankZh": "上将",
+          "billetZh": "火箭军政治委员",
+          "billetEn": "Political Commissar, PLA Rocket Force",
+          "billetNewSameDay": "yes",
+          "note": "zh.wikipedia 徐西盛: '2023年7月，晋升上将军衔，任火箭军政治委员'; previously 南部战区副政治委员 (空军中将). Replaced 徐忠波 (火箭军政委 2020年7月—2023年7月). Secondary source."
+        }
+      ],
+      "note": "上午10时许; 张又侠宣读, 何卫东主持. Attendees 李尚福、刘振立、苗华、张升民."
+    },
+    {
+      "date": "2023-12-25",
+      "url": "http://www.news.cn/politics/leaders/20231225/9db60f951dc842cba6c8806e3914b9e5/c.html",
+      "publisher": "新华网 (新华社北京12月25日电, 记者梅常伟)",
+      "verification": "page_fetched_and_confirmed",
+      "promoted": [
+        {
+          "nameZh": "王文全",
+          "nameEn": "Wang Wenquan",
+          "rankZh": "上将",
+          "billetZh": "南部战区政治委员",
+          "billetEn": "Political Commissar, Southern Theater Command",
+          "billetNewSameDay": "yes",
+          "note": "Next-day 政知见 via 青岛新闻网 (https://news.qingdaonews.com/wap/2023-12/26/content_23524154.htm): '王文全、胡中明两位将军，其新任职务均为首次披露… 今年7月，王文全以联勤保障部队政委身份出席…'. zh.wikipedia: 2023年12月，任南部战区政治委员."
+        },
+        {
+          "nameZh": "胡中明",
+          "nameEn": "Hu Zhongming",
+          "rankZh": "上将",
+          "billetZh": "海军司令员",
+          "billetEn": "Commander, PLA Navy",
+          "billetNewSameDay": "yes",
+          "note": "政知见 2023-12-26: new billets 首次披露; '今年夏天，胡中明仍以海军中将参谋长身份出席…'. zh.wikipedia: 2021年12月 海军参谋长; 2023年12月升任海军司令员 (董军 tenure ended 2023-12-25)."
+        }
+      ],
+      "note": "上午11时许; 张又侠宣读, 何卫东主持. 政知见 counts this as the 4th ceremony of 2023 (Jan 18, Jun 28, Jul 31, Dec 25)."
+    },
+    {
+      "date": "2024-03-28",
+      "url": "http://www.news.cn/politics/leaders/20240328/6664137908f446dc8a98fd87ade13dbf/c.html",
+      "publisher": "新华网 (新华社北京3月28日电, 记者梅常伟)",
+      "verification": "page_fetched_and_confirmed",
+      "promoted": [
+        {
+          "nameZh": "王仁华",
+          "nameEn": "Wang Renhua",
+          "rankZh": "上将",
+          "billetZh": "中央军委政法委员会书记",
+          "billetEn": "Secretary, CMC Political and Legal Affairs Commission",
+          "billetNewSameDay": "no",
+          "note": "zh.wikipedia 王仁华: '2019年12月，升任中央军事委员会政法委员会书记'; held >4 years before promotion. Secondary source."
+        },
+        {
+          "nameZh": "肖天亮",
+          "nameEn": "Xiao Tianliang",
+          "rankZh": "上将",
+          "billetZh": "国防大学校长",
+          "billetEn": "President, PLA National Defense University",
+          "billetNewSameDay": "no",
+          "note": "zh.wikipedia 肖天亮: '2023年2月，任国防大学校长'; held ~13 months before promotion. Secondary source."
+        }
+      ],
+      "note": "下午5时许; 张又侠宣读, 何卫东主持. Attendees 刘振立、苗华、张升民."
+    },
+    {
+      "date": "2024-07-09",
+      "url": "http://www.news.cn/politics/leaders/20240709/f1df379c46bb45ccbe98e129524e0830/c.html",
+      "publisher": "新华网 (新华社北京7月9日电, 记者梅常伟)",
+      "verification": "page_fetched_and_confirmed",
+      "promoted": [
+        {
+          "nameZh": "何宏军",
+          "nameEn": "He Hongjun",
+          "rankZh": "上将",
+          "billetZh": "中央军委政治工作部常务副主任",
+          "billetEn": "Executive Deputy Director, CMC Political Work Department",
+          "billetNewSameDay": "yes",
+          "note": "zh.wikipedia 何宏军: '2019年4月升任中央军委政治工作部副主任'; '2024年7月明确为中央军委政治工作部常务副主任（正战区职）'. The 常务 (executive, theater-grade) designation first appeared in the promotion report; he had been a deputy director since 2019. Secondary source. (Also cross-checked People's Daily 2024-07-10 p.1 reprint.)"
+        }
+      ],
+      "note": "Resolves the caller's '2024-07?' item. 下午4时许; 张又侠宣读, 何卫东主持. Attendees 刘振立、苗华、张升民."
+    },
+    {
+      "date": "2024-12-23",
+      "url": "http://www.news.cn/20241223/a539b2e3c30b40ef9ea65f29c0ef31f7/c.html",
+      "publisher": "新华网 (新华社北京12月23日电, 记者梅常伟)",
+      "verification": "page_fetched_and_confirmed",
+      "promoted": [
+        {
+          "nameZh": "陈辉",
+          "nameEn": "Chen Hui",
+          "rankZh": "上将",
+          "billetZh": "陆军政治委员",
+          "billetEn": "Political Commissar, PLA Army",
+          "billetNewSameDay": "yes",
+          "note": "zh.wikipedia 陈辉 (上将): '2024年4月，任军事航天部队首任政委'; '2024年12月23日，晋升陆军上将军衔'. zh.wikipedia 秦树桐: '至迟于2024年12月，不再担任陆军政治委员，由陈辉接任'. Billet first shown at promotion. Secondary source."
+        }
+      ],
+      "note": "上午10时许; 张又侠宣读, 何卫东主持. Attendees 刘振立、张升民(苗华absent)."
+    },
+    {
+      "date": "2025-12-22",
+      "url": "https://www.news.cn/politics/leaders/20251222/fb1b217000ac46f8812eeaeb3fd5c261/c.html",
+      "publisher": "新华网 (新华社北京12月22日电, 记者梅常伟)",
+      "verification": "page_fetched_and_confirmed",
+      "promoted": [
+        {
+          "nameZh": "杨志斌",
+          "nameEn": "Yang Zhibin",
+          "rankZh": "上将",
+          "billetZh": "东部战区司令员",
+          "billetEn": "Commander, Eastern Theater Command",
+          "billetNewSameDay": "yes",
+          "note": "zh.wikipedia 杨志斌: '2025年9月，调任东部战区副司令员，同年12月任东部战区司令员'; infobox 东部战区司令员 2025年12月—. Billet first shown at promotion. Secondary source."
+        },
+        {
+          "nameZh": "韩胜延",
+          "nameEn": "Han Shengyan",
+          "rankZh": "上将",
+          "billetZh": "中部战区司令员",
+          "billetEn": "Commander, Central Theater Command",
+          "billetNewSameDay": "yes",
+          "note": "zh.wikipedia 韩胜延: '2025年12月，任中部战区司令员'; zh.wikipedia 王强: on 2025-09-03 韩胜延 as 中部战区副司令员兼战区空军司令员 served as parade commander-in-chief. Billet first shown at promotion. Secondary source."
+        }
+      ],
+      "note": "上午10时30分许; 张又侠宣读, 张升民主持. Only CMC member listed attending: 刘振立."
+    },
+    {
+      "date": "2026-07-03",
+      "url": "https://www.news.cn/politics/leaders/20260703/e7a831d5766e4c9e89ca8b4c599e0625/c.html",
+      "publisher": "新华网 (新华社北京7月3日电, 记者梅常伟)",
+      "verification": "page_fetched_and_confirmed",
+      "promoted": [
+        {
+          "nameZh": "张曙光",
+          "nameEn": "Zhang Shuguang",
+          "rankZh": "上将",
+          "billetZh": "中央军委纪律检查委员会书记兼中央军委监察委员会主任",
+          "billetEn": "Secretary, CMC Discipline Inspection Commission and Director, CMC Supervision Commission",
+          "billetNewSameDay": "yes",
+          "note": "zh.wikipedia 张曙光 (解放军): '2021年12月升任陆军纪委书记，晋升中将军衔'; '2026年7月3日，晋升上将军衔，并任中央军事委员会纪律检查委员会书记、中央军事委员会监察委员会主任'. Caixin 2026-07-03 (https://china.caixin.com/2026-07-03/102460532.html): '新任军委纪委书记、监委主任张曙光… 此后曾任陆军纪委书记等'. Billet first shown at promotion."
+        },
+        {
+          "nameZh": "王刚",
+          "nameEn": "Wang Gang",
+          "rankZh": "上将",
+          "billetZh": "空军司令员",
+          "billetEn": "Commander, PLA Air Force",
+          "billetNewSameDay": "no",
+          "note": "zh.wikipedia 王刚 (空军): infobox 第14任空军司令员 任期 2025年12月—; '2025年12月，主持空军军事工作'; '2026年7月3日，晋升空军上将军衔，并已经担任空军司令员'. 常丁求's tenure ended 2025年12月. Wikipedia flags the page as thinly sourced; no official same-day source confirming the December 2025 appointment was obtained, so treat as secondary/uncertain."
+        }
+      ],
+      "note": "上午10时30分许; 张升民 both 主持 and 宣读 (no 张又侠). No CMC members named as attending. Caixin: '时隔半年，中央军委再次晋升上将'."
+    }
+  ],
+  "gaps": [
+    "2022-09-08 (王强): the Xinhua politics/leaders page is a photo item whose caption names 北部战区司令员王强; the full dispatch text (上午11时许, 许其亮宣读, 张又侠主持) was only seen in a search snippet of the Xinhua Daily Telegraph reprint. news.cn/mrdx/2022-09/09/c_1310660867.htm now redirects to mrdx.cn; paper.people.com.cn 2022-09-09 returned 403; stcn.com reprint failed via proxy (502).",
+    "2021-09-06: the Xinhua URL found (c_1127833663) is the photo page; the five names were confirmed from the People's Daily reprint of the same 新华社 dispatch (politics.people.com.cn/n1/2021/0907/c1024-32219362.html). A text-version Xinhua URL was not located before the WebSearch budget ran out.",
+    "Billet-newness judgments rely on zh.wikipedia career chronologies (secondary) plus same-day/next-day commentary (新京报 2021-09-06, 南方都市报 2022-01-22, 政知见 2023-06-29 and 2023-12-26, 财新 2026-07-03). No official '由...调任' language exists in the Xinhua ceremony reports themselves. Officers flagged as most uncertain: 王春宁 (Wikipedia gives no explicit PAP commander appointment month), 许学强 (Wikipedia disambiguation page; relies on 新京报 statement that all five billets were first disclosed), 何宏军 (常务副主任 designation new, but deputy director since 2019), 王刚 (Wikipedia says 空军司令员 from 2025-12 but page is marked thinly sourced).",
+    "No ceremony found for calendar 2025 before 2025-12-22, and none in 2026 other than 2026-07-03 through the 2026-09-02 cutoff. The china-cdt.com item filed under '2025/4' is a reprint of the 2023-12-25 report (王文全/胡中明); the site returned 504 so this rests on the search snippet.",
+    "No ceremonies found in 2022 other than 2022-01-21 and 2022-09-08, in 2020 other than 2020-07-29 and 2020-12-18, and in 2021 other than 2021-07-05 and 2021-09-06; 2023 had four (Jan 18, Jun 28, Jul 31, Dec 25) per 政知见's own count, and 2024 three (Mar 28, Jul 9, Dec 23). Exhaustiveness beyond these rests on year-by-year searches; the session's WebSearch quota (200) was exhausted at the end, so no further sweep was possible.",
+    "2020-12-18 Xinhua page cites 来源 新华社'新华视点'微博 rather than a dated 新华社北京电 line; content otherwise standard."
+  ],
+  "searchLog": [
+    "Read research/positions.json structure (keys: tiers, positions[179], unmappedOfficers) — no promotion-ceremony data in repo; grep for 晋升上将 in positions.json/adverse-timeline.json returned nothing.",
+    "WebSearch '中央军委举行晋升上将军衔仪式 2019年12月12日 新华社' -> 7 officers; then site-restricted search found Xinhua URL c_1125340398 (fetched).",
+    "WebSearch 2020 -> 2020-07-29 徐忠波 (xinhuanet c_1126300876 fetched) and 2020-12-18 军衔警衔仪式 (xinhuanet c_1126879375 fetched).",
+    "WebSearch 2021 -> 2021-07-05 (xinhuanet politics/2021-07/05/c_1127625114 fetched, 4 names) and 2021-09-06 (xinhuanet c_1127833663 photo-only; People's Daily reprint fetched and GBK-decoded for the 5 names).",
+    "WebSearch 2022 -> 2022-01-21 (news.cn c_1128288122 fetched, 7 names); WebSearch '2022年 下半年' surfaced 2022-09-08 王强 (news.cn c_1128987497 fetched, caption only).",
+    "WebSearch 2023 -> 2023-07-31 (news.cn c_1129778572 fetched) and 2023-12-25 (news.cn 9db60f95… fetched); follow-ups found 2023-01-18 黄铭 (news.cn c_1129297808 fetched) and 2023-06-28 郑璇/凌焕新 (news.cn c_1129721994 fetched).",
+    "WebSearch 2024 -> 2024-03-28 王仁华/肖天亮 (news.cn 6664137908… fetched) and 2024-12-23 陈辉 (news.cn a539b2e3… fetched); Xinhua flash dated 20240709 led to 2024-07-09 何宏军 (news.cn f1df379c… fetched; also People's Daily 2024-07-10 p.1).",
+    "WebSearch 2025-12-22 -> news.cn fb1b2170… fetched (杨志斌/韩胜延). WebSearch 2026-07 -> news.cn e7a831d5… fetched (张曙光/王刚).",
+    "WebSearch for other 2025 dates (Jan/Mar/Apr/Jun/Jul/Sep) and 2026 (Jan/Mar/Apr/May/Aug): nothing beyond 2025-12-22 and 2026-07-03; china-cdt '2025/4' page = 2023-12-25 reprint (site 504).",
+    "zh.wikipedia: fetched 43 officer pages via direct /zh-cn/ URLs (API route rate-limited on first attempt) and extracted 2017–2026 career lines for prior-post/appointment dates.",
+    "Fetched commentary pieces for billet-newness: 新京报 2021-09-06 (m.bjnews.com.cn/detail/163093330914481.html), 南方都市报 2022-01-22 (m.mp.oeeee.com/oe/BAAFRD000020220121646342.html), 政知见 2023-06-29 (news.qq.com/rain/a/20230628A0AD0J00), 政知见 2023-12-26 (news.qingdaonews.com/wap/2023-12/26/content_23524154.htm), 财新 2026-07-03 (china.caixin.com/2026-07-03/102460532.html); Tencent 2025-12-22 page returned no readable text.",
+    "WebSearch quota (200/session) exhausted after the final 2021-09-06 text-URL query; remaining work done with curl/WebFetch only."
+  ]
+}

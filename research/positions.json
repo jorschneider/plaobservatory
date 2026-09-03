@@ -1,0 +1,3428 @@
+{
+  "archetypeVersion": "v8.0",
+  "cutoff": "2026-09-02",
+  "tiers": [
+    {
+      "id": "cmc",
+      "label": "Central Military Commission and Ministry of National Defense",
+      "labelZh": "中央军委 / 国防部",
+      "plain": "The top of the system: the chairman, vice chairmen and ordinary members of the Party's military commission, plus the defense minister, who is a state official rather than a commander."
+    },
+    {
+      "id": "cmc_organs",
+      "label": "CMC organs",
+      "labelZh": "军委机关部门",
+      "plain": "The fifteen departments, commissions and offices that work directly for the commission, plus the joint operations command centre and the central guard bureau."
+    },
+    {
+      "id": "theaters",
+      "label": "Theater commands",
+      "labelZh": "战区",
+      "plain": "The five joint theater commands. Each has a commander, a political commissar, a chief of staff and a political-work director, and a service component for the Army, Navy and Air Force where one exists."
+    },
+    {
+      "id": "services",
+      "label": "Services",
+      "labelZh": "军种",
+      "plain": "The Army, Navy, Air Force and Rocket Force headquarters: commander, political commissar, chief of staff, political-work director, discipline secretary, and the deputies bench."
+    },
+    {
+      "id": "rocket_bases",
+      "label": "Rocket Force bases",
+      "labelZh": "火箭军基地",
+      "plain": "The nine numbered Rocket Force bases (61 to 69). These are the missile force's operational and support formations and are almost entirely invisible in public sources after the purge."
+    },
+    {
+      "id": "arms",
+      "label": "Arms",
+      "labelZh": "兵种",
+      "plain": "The four arms created or reorganized in 2024: Aerospace Force, Cyberspace Force, Information Support Force and Joint Logistic Support Force."
+    },
+    {
+      "id": "pap",
+      "label": "People's Armed Police, Coast Guard and key garrisons",
+      "labelZh": "武警 / 海警 / 重点军区",
+      "plain": "The paramilitary police and coast guard headquarters, and the three ground-force districts that matter most for the capital and the western frontier."
+    },
+    {
+      "id": "group_armies",
+      "label": "Group armies",
+      "labelZh": "集团军",
+      "plain": "The thirteen numbered group armies (71st to 83rd), the corps-level commands that feed theater and Army leadership."
+    },
+    {
+      "id": "academies",
+      "label": "Academies and research",
+      "labelZh": "院校 / 科研",
+      "plain": "The three central academies and the service universities. Leadership here is well documented on institution websites but is a training ecosystem, not a command ladder."
+    }
+  ],
+  "positions": [
+    {
+      "id": "POS-CMC-CHAIR",
+      "tier": "cmc",
+      "organization": "Central Military Commission",
+      "organizationZh": "中央军事委员会",
+      "position": "Chairman",
+      "positionZh": "主席",
+      "gradeBand": "CMC chairman",
+      "seats": 1,
+      "holderIds": [],
+      "handlerIds": [],
+      "adverseIds": [],
+      "externalHolder": {
+        "name": "Xi Jinping",
+        "nameZh": "习近平",
+        "note": "Party and state CMC chairman; a civilian Party leader, not an officer dossier.",
+        "url": "https://www.news.cn/politics/leaders/"
+      },
+      "note": "Not modeled as an officer dossier.",
+      "searchLane": ""
+    },
+    {
+      "id": "POS-CMC-VC-1",
+      "tier": "cmc",
+      "organization": "Central Military Commission",
+      "organizationZh": "中央军事委员会",
+      "position": "Vice chairman (seat 1)",
+      "positionZh": "副主席",
+      "gradeBand": "CMC vice chairman",
+      "seats": 1,
+      "holderIds": [
+        "PLA-C486000672BB"
+      ],
+      "handlerIds": [],
+      "adverseIds": [],
+      "externalHolder": null,
+      "note": "Zhang Shengmin was elevated to vice chairman in October 2025 (Party) and 28 October 2025 (state).",
+      "searchLane": ""
+    },
+    {
+      "id": "POS-CMC-VC-2",
+      "tier": "cmc",
+      "organization": "Central Military Commission",
+      "organizationZh": "中央军事委员会",
+      "position": "Vice chairman (seat 2)",
+      "positionZh": "副主席",
+      "gradeBand": "CMC vice chairman",
+      "seats": 1,
+      "holderIds": [],
+      "handlerIds": [],
+      "adverseIds": [
+        "PLA-66692D7E85C2",
+        "PLA-D9CCFD781A73"
+      ],
+      "externalHolder": null,
+      "note": "Both post-2022 vice chairmen have been removed; no successor is publicly named.",
+      "searchLane": "21st Party Congress (2027) First Plenum communiqué; interim Central Committee plenum decisions"
+    },
+    {
+      "id": "POS-CMC-MEM-1",
+      "tier": "cmc",
+      "organization": "Central Military Commission",
+      "organizationZh": "中央军事委员会",
+      "position": "Ordinary member (seat 1)",
+      "positionZh": "委员",
+      "gradeBand": "CMC member",
+      "seats": 1,
+      "holderIds": [],
+      "handlerIds": [],
+      "adverseIds": [
+        "PLA-E1856D0FF790"
+      ],
+      "externalHolder": null,
+      "note": "Held by the Political Work Department director until his suspension in November 2024 and expulsion in October 2025.",
+      "searchLane": "Plenum communiqués; Xinhua leadership roster"
+    },
+    {
+      "id": "POS-CMC-MEM-2",
+      "tier": "cmc",
+      "organization": "Central Military Commission",
+      "organizationZh": "中央军事委员会",
+      "position": "Ordinary member (seat 2)",
+      "positionZh": "委员",
+      "gradeBand": "CMC member",
+      "seats": 1,
+      "holderIds": [],
+      "handlerIds": [],
+      "adverseIds": [
+        "PLA-C469DFD848FA"
+      ],
+      "externalHolder": null,
+      "note": "Held by the Joint Staff chief until the January 2026 investigation and August 2026 state removal.",
+      "searchLane": "Plenum communiqués; Xinhua leadership roster"
+    },
+    {
+      "id": "POS-CMC-MEM-3",
+      "tier": "cmc",
+      "organization": "Central Military Commission",
+      "organizationZh": "中央军事委员会",
+      "position": "Ordinary member (seat 3)",
+      "positionZh": "委员",
+      "gradeBand": "CMC member",
+      "seats": 1,
+      "holderIds": [],
+      "handlerIds": [],
+      "adverseIds": [
+        "PLA-93B67C31752E"
+      ],
+      "externalHolder": null,
+      "note": "Held by the defense minister until his October 2023 removal and June 2024 expulsion.",
+      "searchLane": "Plenum communiqués; Xinhua leadership roster"
+    },
+    {
+      "id": "POS-CMC-MEM-4",
+      "tier": "cmc",
+      "organization": "Central Military Commission",
+      "organizationZh": "中央军事委员会",
+      "position": "Ordinary member (seat 4)",
+      "positionZh": "委员",
+      "gradeBand": "CMC member",
+      "seats": 1,
+      "holderIds": [],
+      "handlerIds": [],
+      "adverseIds": [],
+      "externalHolder": null,
+      "note": "Vacated when Zhang Shengmin was elevated to vice chairman in October 2025; no replacement publicly named.",
+      "searchLane": "Plenum communiqués; Xinhua leadership roster"
+    },
+    {
+      "id": "POS-MND-MIN",
+      "tier": "cmc",
+      "organization": "Ministry of National Defense",
+      "organizationZh": "国防部",
+      "position": "Minister of National Defense",
+      "positionZh": "国防部长",
+      "gradeBand": "State councillor / minister",
+      "seats": 1,
+      "holderIds": [
+        "PLA-101D2479A53D"
+      ],
+      "handlerIds": [],
+      "adverseIds": [
+        "PLA-93B67C31752E",
+        "PLA-67C49940F609"
+      ],
+      "externalHolder": null,
+      "note": "A state office; the minister is not automatically a CMC member. Dong Jun is not on the Party CMC.",
+      "searchLane": ""
+    },
+    {
+      "id": "POS-ORG-GO-DIR",
+      "tier": "cmc_organs",
+      "organization": "CMC General Office",
+      "organizationZh": "军委办公厅",
+      "position": "Director",
+      "positionZh": "主任",
+      "gradeBand": "CMC organ principal (theater-leader grade or deputy)",
+      "seats": 1,
+      "holderIds": [],
+      "handlerIds": [],
+      "adverseIds": [
+        "PLA-2D95381606C9",
+        "PLA-154C24F8B2BC"
+      ],
+      "externalHolder": null,
+      "note": "Zhong Shaojun (former director) lost his NPC seat in August 2026; Fang Yongxiang, the reported current director, sits in the unresolved promotion-bypass watch, so no holder is published.",
+      "searchLane": "Xinhua coverage naming 军委办公厅主任 with an exact title"
+    },
+    {
+      "id": "POS-ORG-JSD-DIR",
+      "tier": "cmc_organs",
+      "organization": "CMC Joint Staff Department",
+      "organizationZh": "军委联合参谋部",
+      "position": "Chief of the Joint Staff",
+      "positionZh": "参谋长",
+      "gradeBand": "CMC organ principal (theater-leader grade or deputy)",
+      "seats": 1,
+      "holderIds": [],
+      "handlerIds": [
+        "PLA-1493DE64544D"
+      ],
+      "adverseIds": [
+        "PLA-C469DFD848FA"
+      ],
+      "externalHolder": null,
+      "note": "Liu Zhenli was investigated in January 2026 and removed from the state CMC in August 2026. Zhu Chuansheng, a deputy chief, appears to preside; no appointment act has been published.",
+      "searchLane": "Xinhua promotion decision or MOD exact-title text"
+    },
+    {
+      "id": "POS-ORG-JSD-PC",
+      "tier": "cmc_organs",
+      "organization": "CMC Joint Staff Department",
+      "organizationZh": "军委联合参谋部",
+      "position": "Political commissar",
+      "positionZh": "政治委员",
+      "gradeBand": "CMC organ political principal",
+      "seats": 1,
+      "holderIds": [],
+      "handlerIds": [],
+      "adverseIds": [],
+      "externalHolder": null,
+      "note": "No public record of the current Joint Staff political commissar.",
+      "searchLane": "CMC/JSD event reports naming 联合参谋部政治委员"
+    },
+    {
+      "id": "POS-ORG-JSD-DEP",
+      "tier": "cmc_organs",
+      "organization": "CMC Joint Staff Department",
+      "organizationZh": "军委联合参谋部",
+      "position": "Deputy chiefs (bench)",
+      "positionZh": "副参谋长",
+      "gradeBand": "CMC organ deputy",
+      "seats": 0,
+      "holderIds": [
+        "PLA-7C0FF2F452F9"
+      ],
+      "handlerIds": [],
+      "adverseIds": [
+        "PLA-9C06180A6FA8"
+      ],
+      "externalHolder": null,
+      "note": "Jing Jianfeng's deputy-chief title was not cleanly refreshed after June 2025.",
+      "searchLane": ""
+    },
+    {
+      "id": "POS-ORG-JOCC-EDD",
+      "tier": "cmc_organs",
+      "organization": "CMC Joint Operations Command Center",
+      "organizationZh": "军委联合作战指挥中心",
+      "position": "Executive deputy director",
+      "positionZh": "常务副主任",
+      "gradeBand": "Theater-leader grade",
+      "seats": 1,
+      "holderIds": [],
+      "handlerIds": [],
+      "adverseIds": [
+        "PLA-94FBCE52D8FE"
+      ],
+      "externalHolder": null,
+      "note": "Wang Xiubin was expelled in October 2025; no successor is publicly named.",
+      "searchLane": "CMC/JOCC event reports"
+    },
+    {
+      "id": "POS-ORG-JOCC-DEP",
+      "tier": "cmc_organs",
+      "organization": "CMC Joint Operations Command Center",
+      "organizationZh": "军委联合作战指挥中心",
+      "position": "Deputy directors (bench)",
+      "positionZh": "副主任",
+      "gradeBand": "Theater-deputy grade",
+      "seats": 0,
+      "holderIds": [
+        "PLA-1FECA6DACC01",
+        "PLA-3CFE356771E3",
+        "PLA-A86699444A61"
+      ],
+      "handlerIds": [],
+      "adverseIds": [],
+      "externalHolder": null,
+      "note": "Affiliations exceed exact titles; only Liu Zhe has 2025–26 imagery with insignia.",
+      "searchLane": ""
+    },
+    {
+      "id": "POS-ORG-PWD-DIR",
+      "tier": "cmc_organs",
+      "organization": "CMC Political Work Department",
+      "organizationZh": "军委政治工作部",
+      "position": "Director",
+      "positionZh": "主任",
+      "gradeBand": "CMC organ principal (theater-leader grade or deputy)",
+      "seats": 1,
+      "holderIds": [],
+      "handlerIds": [
+        "PLA-2FAA2DB87543"
+      ],
+      "adverseIds": [
+        "PLA-E1856D0FF790",
+        "PLA-B4CD00688DE0",
+        "PLA-A57496C1F34C"
+      ],
+      "externalHolder": null,
+      "note": "Miao Hua (director) was suspended in November 2024 and expelled in October 2025; the executive deputy and an assistant director were also removed. Chen Demin, a deputy director, appears to preside.",
+      "searchLane": "Xinhua/81.cn naming 政治工作部主任"
+    },
+    {
+      "id": "POS-ORG-PWD-DEP",
+      "tier": "cmc_organs",
+      "organization": "CMC Political Work Department",
+      "organizationZh": "军委政治工作部",
+      "position": "Deputy directors (bench)",
+      "positionZh": "副主任",
+      "gradeBand": "CMC organ deputy",
+      "seats": 0,
+      "holderIds": [
+        "PLA-2FAA2DB87543",
+        "PLA-88AE0B1E2261",
+        "PLA-114EAACF97FC"
+      ],
+      "handlerIds": [],
+      "adverseIds": [],
+      "externalHolder": null,
+      "note": "Xiong Zhaoyuan and Zhang Yutang are legacy records that have not been refreshed.",
+      "searchLane": ""
+    },
+    {
+      "id": "POS-ORG-LSD-DIR",
+      "tier": "cmc_organs",
+      "organization": "CMC Logistic Support Department",
+      "organizationZh": "军委后勤保障部",
+      "position": "Director",
+      "positionZh": "部长",
+      "gradeBand": "CMC organ principal (theater-leader grade or deputy)",
+      "seats": 1,
+      "holderIds": [
+        "PLA-92141D678925"
+      ],
+      "handlerIds": [],
+      "adverseIds": [
+        "PLA-B1C2BCDCF015"
+      ],
+      "externalHolder": null,
+      "note": "Chen Chi is assessed as director since about September 2025 from imagery and protocol order; the appointment has not been published.",
+      "searchLane": "Xinhua/81.cn exact-title text; MOD press conference"
+    },
+    {
+      "id": "POS-ORG-LSD-PC",
+      "tier": "cmc_organs",
+      "organization": "CMC Logistic Support Department",
+      "organizationZh": "军委后勤保障部",
+      "position": "Political commissar",
+      "positionZh": "政治委员",
+      "gradeBand": "CMC organ political principal",
+      "seats": 1,
+      "holderIds": [],
+      "handlerIds": [],
+      "adverseIds": [],
+      "externalHolder": null,
+      "note": "No public record of the current political commissar.",
+      "searchLane": "Logistic Support Department event reports"
+    },
+    {
+      "id": "POS-ORG-EDD-DIR",
+      "tier": "cmc_organs",
+      "organization": "CMC Equipment Development Department",
+      "organizationZh": "军委装备发展部",
+      "position": "Director",
+      "positionZh": "部长",
+      "gradeBand": "CMC organ principal (theater-leader grade or deputy)",
+      "seats": 1,
+      "holderIds": [],
+      "handlerIds": [],
+      "adverseIds": [
+        "PLA-E806B33C0530"
+      ],
+      "externalHolder": null,
+      "note": "Xu Xueqiang lost his NPC seat in June 2026; no successor is publicly named. Two former deputy directors were removed in 2023.",
+      "searchLane": "Xinhua/81.cn naming 装备发展部部长"
+    },
+    {
+      "id": "POS-ORG-EDD-PC",
+      "tier": "cmc_organs",
+      "organization": "CMC Equipment Development Department",
+      "organizationZh": "军委装备发展部",
+      "position": "Political commissar",
+      "positionZh": "政治委员",
+      "gradeBand": "CMC organ political principal",
+      "seats": 1,
+      "holderIds": [],
+      "handlerIds": [],
+      "adverseIds": [],
+      "externalHolder": null,
+      "note": "No public record of the current political commissar.",
+      "searchLane": "Equipment Development Department event reports"
+    },
+    {
+      "id": "POS-ORG-EDD-DEP",
+      "tier": "cmc_organs",
+      "organization": "CMC Equipment Development Department",
+      "organizationZh": "军委装备发展部",
+      "position": "Deputy directors (bench)",
+      "positionZh": "副部长",
+      "gradeBand": "CMC organ deputy",
+      "seats": 0,
+      "holderIds": [],
+      "handlerIds": [],
+      "adverseIds": [
+        "PLA-A0A95B431235",
+        "PLA-6D73FF981F3F"
+      ],
+      "externalHolder": null,
+      "note": "Both named deputies lost NPC seats in December 2023; no current deputy is publicly documented.",
+      "searchLane": ""
+    },
+    {
+      "id": "POS-ORG-TMD-DIR",
+      "tier": "cmc_organs",
+      "organization": "CMC Training Management Department",
+      "organizationZh": "军委训练管理部",
+      "position": "Director",
+      "positionZh": "部长",
+      "gradeBand": "CMC organ principal (theater-leader grade or deputy)",
+      "seats": 1,
+      "holderIds": [
+        "PLA-97E7C14E3D3C"
+      ],
+      "handlerIds": [],
+      "adverseIds": [
+        "PLA-799497705C0E"
+      ],
+      "externalHolder": null,
+      "note": "Liu Di is an assessed director; Zhu Yuansai's reported transfer to the department is a hypothesis, not a title.",
+      "searchLane": "Xinhua/81.cn naming 训练管理部部长"
+    },
+    {
+      "id": "POS-ORG-TMD-PC",
+      "tier": "cmc_organs",
+      "organization": "CMC Training Management Department",
+      "organizationZh": "军委训练管理部",
+      "position": "Political commissar",
+      "positionZh": "政治委员",
+      "gradeBand": "CMC organ political principal",
+      "seats": 1,
+      "holderIds": [],
+      "handlerIds": [],
+      "adverseIds": [],
+      "externalHolder": null,
+      "note": "No public record of the current political commissar.",
+      "searchLane": "Training Management Department event reports"
+    },
+    {
+      "id": "POS-ORG-NDMD-DIR",
+      "tier": "cmc_organs",
+      "organization": "CMC National Defense Mobilization Department",
+      "organizationZh": "军委国防动员部",
+      "position": "Director",
+      "positionZh": "部长",
+      "gradeBand": "CMC organ principal (theater-leader grade or deputy)",
+      "seats": 1,
+      "holderIds": [
+        "PLA-6B65EA9536D1"
+      ],
+      "handlerIds": [],
+      "adverseIds": [],
+      "externalHolder": null,
+      "note": "Formally documented director and Party committee secretary.",
+      "searchLane": ""
+    },
+    {
+      "id": "POS-ORG-NDMD-PC",
+      "tier": "cmc_organs",
+      "organization": "CMC National Defense Mobilization Department",
+      "organizationZh": "军委国防动员部",
+      "position": "Political commissar",
+      "positionZh": "政治委员",
+      "gradeBand": "CMC organ political principal",
+      "seats": 1,
+      "holderIds": [],
+      "handlerIds": [],
+      "adverseIds": [
+        "PLA-0AA424B72BC4"
+      ],
+      "externalHolder": null,
+      "note": "Wang Donghai lost his NPC seat in February 2026; no successor is publicly named.",
+      "searchLane": "Mobilization Department event reports"
+    },
+    {
+      "id": "POS-ORG-CDIC-DIR",
+      "tier": "cmc_organs",
+      "organization": "CMC Discipline Inspection Commission",
+      "organizationZh": "军委纪律检查委员会",
+      "position": "Secretary",
+      "positionZh": "书记",
+      "gradeBand": "CMC organ principal (theater-leader grade or deputy)",
+      "seats": 1,
+      "holderIds": [
+        "PLA-ABCF66988C96"
+      ],
+      "handlerIds": [],
+      "adverseIds": [],
+      "externalHolder": null,
+      "note": "Zhang Shuguang succeeded Zhang Shengmin in July 2026 and was promoted to general the same day.",
+      "searchLane": ""
+    },
+    {
+      "id": "POS-ORG-CDIC-DEP",
+      "tier": "cmc_organs",
+      "organization": "CMC Discipline Inspection Commission",
+      "organizationZh": "军委纪律检查委员会",
+      "position": "Deputy secretaries (bench)",
+      "positionZh": "副书记",
+      "gradeBand": "CMC organ deputy",
+      "seats": 0,
+      "holderIds": [
+        "PLA-3B5AB5758D3E",
+        "PLA-28D839C43711"
+      ],
+      "handlerIds": [],
+      "adverseIds": [],
+      "externalHolder": null,
+      "note": "Both are legacy records.",
+      "searchLane": ""
+    },
+    {
+      "id": "POS-ORG-PLC-DIR",
+      "tier": "cmc_organs",
+      "organization": "CMC Politics and Law Commission",
+      "organizationZh": "军委政法委员会",
+      "position": "Secretary",
+      "positionZh": "书记",
+      "gradeBand": "CMC organ principal (theater-leader grade or deputy)",
+      "seats": 1,
+      "holderIds": [],
+      "handlerIds": [],
+      "adverseIds": [
+        "PLA-4B5081FB181E"
+      ],
+      "externalHolder": null,
+      "note": "Wang Renhua is recorded by CASI as removed; no dated official notice and no successor is held.",
+      "searchLane": "Locate the official notice; Xinhua/81.cn naming 政法委员会书记"
+    },
+    {
+      "id": "POS-ORG-STC-DIR",
+      "tier": "cmc_organs",
+      "organization": "CMC Science and Technology Commission",
+      "organizationZh": "军委科学技术委员会",
+      "position": "Director",
+      "positionZh": "主任",
+      "gradeBand": "CMC organ principal (theater-leader grade or deputy)",
+      "seats": 1,
+      "holderIds": [
+        "PLA-40B5F5867940"
+      ],
+      "handlerIds": [],
+      "adverseIds": [],
+      "externalHolder": null,
+      "note": "Legacy record; not refreshed. Zhou Zhixin's deputy title was last exact in 2021.",
+      "searchLane": "Xinhua/81.cn naming 科学技术委员会主任"
+    },
+    {
+      "id": "POS-ORG-SPO-DIR",
+      "tier": "cmc_organs",
+      "organization": "CMC Strategic Planning Office",
+      "organizationZh": "军委战略规划办公室",
+      "position": "Director",
+      "positionZh": "主任",
+      "gradeBand": "CMC organ principal (theater-leader grade or deputy)",
+      "seats": 1,
+      "holderIds": [],
+      "handlerIds": [],
+      "adverseIds": [],
+      "externalHolder": null,
+      "note": "No public record held.",
+      "searchLane": "CMC organ event reports"
+    },
+    {
+      "id": "POS-ORG-ROO-DIR",
+      "tier": "cmc_organs",
+      "organization": "CMC Reform and Organization Office",
+      "organizationZh": "军委改革和编制办公室",
+      "position": "Director",
+      "positionZh": "主任",
+      "gradeBand": "CMC organ principal (theater-leader grade or deputy)",
+      "seats": 1,
+      "holderIds": [],
+      "handlerIds": [],
+      "adverseIds": [],
+      "externalHolder": null,
+      "note": "No public record held.",
+      "searchLane": "CMC organ event reports"
+    },
+    {
+      "id": "POS-ORG-IMCO-DIR",
+      "tier": "cmc_organs",
+      "organization": "CMC International Military Cooperation Office",
+      "organizationZh": "军委国际军事合作办公室",
+      "position": "Director",
+      "positionZh": "主任",
+      "gradeBand": "CMC organ principal (theater-leader grade or deputy)",
+      "seats": 1,
+      "holderIds": [],
+      "handlerIds": [],
+      "adverseIds": [],
+      "externalHolder": null,
+      "note": "No public record held for the director; Guo Hongtao was titled deputy director by a foreign counterpart in February 2026.",
+      "searchLane": "MOD international-cooperation reports; counterpart ministries"
+    },
+    {
+      "id": "POS-ORG-AUD-DIR",
+      "tier": "cmc_organs",
+      "organization": "CMC Audit Office",
+      "organizationZh": "军委审计署",
+      "position": "Auditor general",
+      "positionZh": "审计长",
+      "gradeBand": "CMC organ principal (theater-leader grade or deputy)",
+      "seats": 1,
+      "holderIds": [],
+      "handlerIds": [],
+      "adverseIds": [],
+      "externalHolder": null,
+      "note": "No public record held.",
+      "searchLane": "Audit Office event reports"
+    },
+    {
+      "id": "POS-ORG-AOA-DIR",
+      "tier": "cmc_organs",
+      "organization": "CMC Agency for Offices Administration",
+      "organizationZh": "军委机关事务管理总局",
+      "position": "Director",
+      "positionZh": "局长",
+      "gradeBand": "CMC organ principal (theater-leader grade or deputy)",
+      "seats": 1,
+      "holderIds": [],
+      "handlerIds": [],
+      "adverseIds": [],
+      "externalHolder": null,
+      "note": "No public record held.",
+      "searchLane": "CMC organ event reports"
+    },
+    {
+      "id": "POS-ORG-CGB-DIR",
+      "tier": "cmc_organs",
+      "organization": "Central Guard Bureau",
+      "organizationZh": "中央警卫局",
+      "position": "Director",
+      "positionZh": "局长",
+      "gradeBand": "Central security principal",
+      "seats": 1,
+      "holderIds": [
+        "PLA-6003BD2B6DAE"
+      ],
+      "handlerIds": [],
+      "adverseIds": [],
+      "externalHolder": null,
+      "note": "Legacy record; not refreshed.",
+      "searchLane": ""
+    },
+    {
+      "id": "POS-TC-E-CDR",
+      "tier": "theaters",
+      "organization": "Eastern Theater Command",
+      "organizationZh": "东部战区",
+      "position": "Commander",
+      "positionZh": "司令员",
+      "gradeBand": "Theater-leader grade",
+      "seats": 1,
+      "holderIds": [
+        "PLA-CFFD836085FB"
+      ],
+      "handlerIds": [],
+      "adverseIds": [
+        "PLA-855587501926"
+      ],
+      "externalHolder": null,
+      "note": "Yang Zhibin was formalized on 22 December 2025, 66 days after Lin Xiangyang's expulsion was announced.",
+      "searchLane": "Xinhua promotion ceremony or exact-title event report"
+    },
+    {
+      "id": "POS-TC-E-PC",
+      "tier": "theaters",
+      "organization": "Eastern Theater Command",
+      "organizationZh": "东部战区",
+      "position": "Political commissar",
+      "positionZh": "政治委员",
+      "gradeBand": "Theater-leader grade",
+      "seats": 1,
+      "holderIds": [],
+      "handlerIds": [],
+      "adverseIds": [
+        "PLA-CD15E18BAED2"
+      ],
+      "externalHolder": null,
+      "note": "Liu Qingsong is classified as missing by CASI and CSIS; no successor is publicly named.",
+      "searchLane": "Xinhua promotion ceremony or exact-title event report"
+    },
+    {
+      "id": "POS-TC-E-COS",
+      "tier": "theaters",
+      "organization": "Eastern Theater Command",
+      "organizationZh": "东部战区",
+      "position": "Chief of staff",
+      "positionZh": "参谋长",
+      "gradeBand": "Theater-deputy grade",
+      "seats": 1,
+      "holderIds": [],
+      "handlerIds": [],
+      "adverseIds": [],
+      "externalHolder": null,
+      "note": "No public record held; Chen Yueqi's deputy-commander title is stale.",
+      "searchLane": "Theater event reports naming 参谋长"
+    },
+    {
+      "id": "POS-TC-E-PWD",
+      "tier": "theaters",
+      "organization": "Eastern Theater Command",
+      "organizationZh": "东部战区",
+      "position": "Political Work Department director",
+      "positionZh": "政治工作部主任",
+      "gradeBand": "Theater-deputy grade",
+      "seats": 1,
+      "holderIds": [
+        "PLA-18C73C7EDA2D"
+      ],
+      "handlerIds": [],
+      "adverseIds": [],
+      "externalHolder": null,
+      "note": "Legacy record (deputy PC and PWD director); not refreshed.",
+      "searchLane": "Theater event reports naming 政治工作部主任"
+    },
+    {
+      "id": "POS-TC-E-DEP",
+      "tier": "theaters",
+      "organization": "Eastern Theater Command",
+      "organizationZh": "东部战区",
+      "position": "Deputy commanders (bench)",
+      "positionZh": "副司令员",
+      "gradeBand": "Theater-deputy grade",
+      "seats": 0,
+      "holderIds": [
+        "PLA-BD6D5F709CFE",
+        "PLA-BBC362FCD1CC",
+        "PLA-0960CA9BCA12"
+      ],
+      "handlerIds": [],
+      "adverseIds": [],
+      "externalHolder": null,
+      "note": "Wu Junbao is also the theater Air Force commander.",
+      "searchLane": ""
+    },
+    {
+      "id": "POS-TC-E-ARMY",
+      "tier": "theaters",
+      "organization": "Eastern Theater Army",
+      "organizationZh": "东部战区陆军",
+      "position": "Commander",
+      "positionZh": "司令员",
+      "gradeBand": "Theater-deputy grade",
+      "seats": 1,
+      "holderIds": [],
+      "handlerIds": [],
+      "adverseIds": [],
+      "externalHolder": null,
+      "note": "No public record held.",
+      "searchLane": "Theater Army event reports"
+    },
+    {
+      "id": "POS-TC-E-NAVY",
+      "tier": "theaters",
+      "organization": "Eastern Theater Navy",
+      "organizationZh": "东部战区海军",
+      "position": "Commander",
+      "positionZh": "司令员",
+      "gradeBand": "Theater-deputy grade",
+      "seats": 1,
+      "holderIds": [],
+      "handlerIds": [],
+      "adverseIds": [],
+      "externalHolder": null,
+      "note": "No public record held.",
+      "searchLane": "Fleet event reports"
+    },
+    {
+      "id": "POS-TC-E-AF",
+      "tier": "theaters",
+      "organization": "Eastern Theater Air Force",
+      "organizationZh": "东部战区空军",
+      "position": "Commander",
+      "positionZh": "司令员",
+      "gradeBand": "Theater-deputy grade",
+      "seats": 1,
+      "holderIds": [
+        "PLA-0960CA9BCA12"
+      ],
+      "handlerIds": [],
+      "adverseIds": [],
+      "externalHolder": null,
+      "note": "",
+      "searchLane": "Theater Air Force event reports"
+    },
+    {
+      "id": "POS-TC-S-CDR",
+      "tier": "theaters",
+      "organization": "Southern Theater Command",
+      "organizationZh": "南部战区",
+      "position": "Commander",
+      "positionZh": "司令员",
+      "gradeBand": "Theater-leader grade",
+      "seats": 1,
+      "holderIds": [
+        "PLA-1761A00DE0C9"
+      ],
+      "handlerIds": [],
+      "adverseIds": [],
+      "externalHolder": null,
+      "note": "Last exact principal title March 2025; later senior-role reporting is not title-bearing.",
+      "searchLane": "Xinhua promotion ceremony or exact-title event report"
+    },
+    {
+      "id": "POS-TC-S-PC",
+      "tier": "theaters",
+      "organization": "Southern Theater Command",
+      "organizationZh": "南部战区",
+      "position": "Political commissar",
+      "positionZh": "政治委员",
+      "gradeBand": "Theater-leader grade",
+      "seats": 1,
+      "holderIds": [],
+      "handlerIds": [],
+      "adverseIds": [
+        "PLA-44C5E653B2FE"
+      ],
+      "externalHolder": null,
+      "note": "Yin Hongxing lost his NPC seat in June 2026; no successor is publicly named.",
+      "searchLane": "Xinhua promotion ceremony or exact-title event report"
+    },
+    {
+      "id": "POS-TC-S-COS",
+      "tier": "theaters",
+      "organization": "Southern Theater Command",
+      "organizationZh": "南部战区",
+      "position": "Chief of staff",
+      "positionZh": "参谋长",
+      "gradeBand": "Theater-deputy grade",
+      "seats": 1,
+      "holderIds": [],
+      "handlerIds": [],
+      "adverseIds": [],
+      "externalHolder": null,
+      "note": "No public record held.",
+      "searchLane": "Theater event reports naming 参谋长"
+    },
+    {
+      "id": "POS-TC-S-PWD",
+      "tier": "theaters",
+      "organization": "Southern Theater Command",
+      "organizationZh": "南部战区",
+      "position": "Political Work Department director",
+      "positionZh": "政治工作部主任",
+      "gradeBand": "Theater-deputy grade",
+      "seats": 1,
+      "holderIds": [],
+      "handlerIds": [],
+      "adverseIds": [],
+      "externalHolder": null,
+      "note": "No public record held.",
+      "searchLane": "Theater event reports naming 政治工作部主任"
+    },
+    {
+      "id": "POS-TC-S-DEP",
+      "tier": "theaters",
+      "organization": "Southern Theater Command",
+      "organizationZh": "南部战区",
+      "position": "Deputy commanders (bench)",
+      "positionZh": "副司令员",
+      "gradeBand": "Theater-deputy grade",
+      "seats": 0,
+      "holderIds": [
+        "PLA-E3B1477CCE9D",
+        "PLA-4E4CF2DE3AA5"
+      ],
+      "handlerIds": [],
+      "adverseIds": [],
+      "externalHolder": null,
+      "note": "Wei Wenhui holds a formal deputy title and 20th Central Committee alternate status.",
+      "searchLane": ""
+    },
+    {
+      "id": "POS-TC-S-ARMY",
+      "tier": "theaters",
+      "organization": "Southern Theater Army",
+      "organizationZh": "南部战区陆军",
+      "position": "Commander",
+      "positionZh": "司令员",
+      "gradeBand": "Theater-deputy grade",
+      "seats": 1,
+      "holderIds": [],
+      "handlerIds": [],
+      "adverseIds": [],
+      "externalHolder": null,
+      "note": "No public record held.",
+      "searchLane": "Theater Army event reports"
+    },
+    {
+      "id": "POS-TC-S-NAVY",
+      "tier": "theaters",
+      "organization": "Southern Theater Navy",
+      "organizationZh": "南部战区海军",
+      "position": "Commander",
+      "positionZh": "司令员",
+      "gradeBand": "Theater-deputy grade",
+      "seats": 1,
+      "holderIds": [],
+      "handlerIds": [],
+      "adverseIds": [
+        "PLA-BE7FA2B57746",
+        "PLA-B93D70E9B8F0"
+      ],
+      "externalHolder": null,
+      "note": "Two successive Southern Theater Navy commanders were removed (2023, 2024); Dai Mingmeng, the former deputy, moved to an undisclosed billet.",
+      "searchLane": "Fleet event reports"
+    },
+    {
+      "id": "POS-TC-S-AF",
+      "tier": "theaters",
+      "organization": "Southern Theater Air Force",
+      "organizationZh": "南部战区空军",
+      "position": "Commander",
+      "positionZh": "司令员",
+      "gradeBand": "Theater-deputy grade",
+      "seats": 1,
+      "holderIds": [
+        "PLA-4E4CF2DE3AA5"
+      ],
+      "handlerIds": [],
+      "adverseIds": [],
+      "externalHolder": null,
+      "note": "Stale record.",
+      "searchLane": "Theater Air Force event reports"
+    },
+    {
+      "id": "POS-TC-W-CDR",
+      "tier": "theaters",
+      "organization": "Western Theater Command",
+      "organizationZh": "西部战区",
+      "position": "Commander",
+      "positionZh": "司令员",
+      "gradeBand": "Theater-leader grade",
+      "seats": 1,
+      "holderIds": [],
+      "handlerIds": [
+        "PLA-0F27B343F6BD"
+      ],
+      "adverseIds": [],
+      "externalHolder": null,
+      "note": "No principal is publicly established; Wen Junfei holds an exact deputy-commander title and is the visible senior officer.",
+      "searchLane": "Xinhua promotion ceremony or exact-title event report"
+    },
+    {
+      "id": "POS-TC-W-PC",
+      "tier": "theaters",
+      "organization": "Western Theater Command",
+      "organizationZh": "西部战区",
+      "position": "Political commissar",
+      "positionZh": "政治委员",
+      "gradeBand": "Theater-leader grade",
+      "seats": 1,
+      "holderIds": [],
+      "handlerIds": [
+        "PLA-50422BD09957"
+      ],
+      "adverseIds": [
+        "PLA-A76D66EE6251"
+      ],
+      "externalHolder": null,
+      "note": "Li Fengbiao lost his NPC seat in June 2026; Zhang Shaoying (deputy PC and PWD director) is the visible political officer.",
+      "searchLane": "Xinhua promotion ceremony or exact-title event report"
+    },
+    {
+      "id": "POS-TC-W-COS",
+      "tier": "theaters",
+      "organization": "Western Theater Command",
+      "organizationZh": "西部战区",
+      "position": "Chief of staff",
+      "positionZh": "参谋长",
+      "gradeBand": "Theater-deputy grade",
+      "seats": 1,
+      "holderIds": [],
+      "handlerIds": [],
+      "adverseIds": [],
+      "externalHolder": null,
+      "note": "No public record held.",
+      "searchLane": "Theater event reports naming 参谋长"
+    },
+    {
+      "id": "POS-TC-W-PWD",
+      "tier": "theaters",
+      "organization": "Western Theater Command",
+      "organizationZh": "西部战区",
+      "position": "Political Work Department director",
+      "positionZh": "政治工作部主任",
+      "gradeBand": "Theater-deputy grade",
+      "seats": 1,
+      "holderIds": [
+        "PLA-50422BD09957"
+      ],
+      "handlerIds": [],
+      "adverseIds": [],
+      "externalHolder": null,
+      "note": "",
+      "searchLane": "Theater event reports naming 政治工作部主任"
+    },
+    {
+      "id": "POS-TC-W-DEP",
+      "tier": "theaters",
+      "organization": "Western Theater Command",
+      "organizationZh": "西部战区",
+      "position": "Deputy commanders (bench)",
+      "positionZh": "副司令员",
+      "gradeBand": "Theater-deputy grade",
+      "seats": 0,
+      "holderIds": [
+        "PLA-0F27B343F6BD",
+        "PLA-DB5D9F07FB26"
+      ],
+      "handlerIds": [],
+      "adverseIds": [],
+      "externalHolder": null,
+      "note": "",
+      "searchLane": ""
+    },
+    {
+      "id": "POS-TC-W-ARMY",
+      "tier": "theaters",
+      "organization": "Western Theater Army",
+      "organizationZh": "西部战区陆军",
+      "position": "Commander",
+      "positionZh": "司令员",
+      "gradeBand": "Theater-deputy grade",
+      "seats": 1,
+      "holderIds": [],
+      "handlerIds": [],
+      "adverseIds": [],
+      "externalHolder": null,
+      "note": "No public record held; the ground-force node for a continental crisis is publicly unresolved.",
+      "searchLane": "Theater Army event reports"
+    },
+    {
+      "id": "POS-TC-W-AF",
+      "tier": "theaters",
+      "organization": "Western Theater Air Force",
+      "organizationZh": "西部战区空军",
+      "position": "Commander",
+      "positionZh": "司令员",
+      "gradeBand": "Theater-deputy grade",
+      "seats": 1,
+      "holderIds": [
+        "PLA-DB5D9F07FB26"
+      ],
+      "handlerIds": [],
+      "adverseIds": [],
+      "externalHolder": null,
+      "note": "",
+      "searchLane": "Theater Air Force event reports"
+    },
+    {
+      "id": "POS-TC-N-CDR",
+      "tier": "theaters",
+      "organization": "Northern Theater Command",
+      "organizationZh": "北部战区",
+      "position": "Commander",
+      "positionZh": "司令员",
+      "gradeBand": "Theater-leader grade",
+      "seats": 1,
+      "holderIds": [
+        "PLA-376509CB4FF4"
+      ],
+      "handlerIds": [
+        "PLA-2E29CEAE3804"
+      ],
+      "adverseIds": [],
+      "externalHolder": null,
+      "note": "Huang Ming carries an official commander title with a scope caveat, while transfer and protocol evidence points to Peng Jingtang acting as military lead; the public record conflicts.",
+      "searchLane": "Xinhua promotion ceremony or exact-title event report"
+    },
+    {
+      "id": "POS-TC-N-PC",
+      "tier": "theaters",
+      "organization": "Northern Theater Command",
+      "organizationZh": "北部战区",
+      "position": "Political commissar",
+      "positionZh": "政治委员",
+      "gradeBand": "Theater-leader grade",
+      "seats": 1,
+      "holderIds": [
+        "PLA-FAC19C8B4368"
+      ],
+      "handlerIds": [
+        "PLA-B022A3C3E1FE"
+      ],
+      "adverseIds": [],
+      "externalHolder": null,
+      "note": "Zheng Xuan holds an official title with a scope caveat; Li Dongyou appears to act as political lead.",
+      "searchLane": "Xinhua promotion ceremony or exact-title event report"
+    },
+    {
+      "id": "POS-TC-N-COS",
+      "tier": "theaters",
+      "organization": "Northern Theater Command",
+      "organizationZh": "北部战区",
+      "position": "Chief of staff",
+      "positionZh": "参谋长",
+      "gradeBand": "Theater-deputy grade",
+      "seats": 1,
+      "holderIds": [],
+      "handlerIds": [],
+      "adverseIds": [],
+      "externalHolder": null,
+      "note": "No public record held.",
+      "searchLane": "Theater event reports naming 参谋长"
+    },
+    {
+      "id": "POS-TC-N-PWD",
+      "tier": "theaters",
+      "organization": "Northern Theater Command",
+      "organizationZh": "北部战区",
+      "position": "Political Work Department director",
+      "positionZh": "政治工作部主任",
+      "gradeBand": "Theater-deputy grade",
+      "seats": 1,
+      "holderIds": [
+        "PLA-B022A3C3E1FE"
+      ],
+      "handlerIds": [],
+      "adverseIds": [],
+      "externalHolder": null,
+      "note": "",
+      "searchLane": "Theater event reports naming 政治工作部主任"
+    },
+    {
+      "id": "POS-TC-N-DEP",
+      "tier": "theaters",
+      "organization": "Northern Theater Command",
+      "organizationZh": "北部战区",
+      "position": "Deputy commanders (bench)",
+      "positionZh": "副司令员",
+      "gradeBand": "Theater-deputy grade",
+      "seats": 0,
+      "holderIds": [
+        "PLA-95942D3CF61A",
+        "PLA-2E29CEAE3804"
+      ],
+      "handlerIds": [],
+      "adverseIds": [],
+      "externalHolder": null,
+      "note": "",
+      "searchLane": ""
+    },
+    {
+      "id": "POS-TC-N-ARMY",
+      "tier": "theaters",
+      "organization": "Northern Theater Army",
+      "organizationZh": "北部战区陆军",
+      "position": "Commander",
+      "positionZh": "司令员",
+      "gradeBand": "Theater-deputy grade",
+      "seats": 1,
+      "holderIds": [
+        "PLA-24F9B94B44D2"
+      ],
+      "handlerIds": [],
+      "adverseIds": [],
+      "externalHolder": null,
+      "note": "Acting commander in September 2025; likely commander by June 2026, not formally confirmed.",
+      "searchLane": "Theater Army event reports"
+    },
+    {
+      "id": "POS-TC-N-NAVY",
+      "tier": "theaters",
+      "organization": "Northern Theater Navy",
+      "organizationZh": "北部战区海军",
+      "position": "Commander",
+      "positionZh": "司令员",
+      "gradeBand": "Theater-deputy grade",
+      "seats": 1,
+      "holderIds": [],
+      "handlerIds": [],
+      "adverseIds": [],
+      "externalHolder": null,
+      "note": "No public record held.",
+      "searchLane": "Fleet event reports"
+    },
+    {
+      "id": "POS-TC-N-AF",
+      "tier": "theaters",
+      "organization": "Northern Theater Air Force",
+      "organizationZh": "北部战区空军",
+      "position": "Commander",
+      "positionZh": "司令员",
+      "gradeBand": "Theater-deputy grade",
+      "seats": 1,
+      "holderIds": [
+        "PLA-95942D3CF61A"
+      ],
+      "handlerIds": [],
+      "adverseIds": [],
+      "externalHolder": null,
+      "note": "Legacy record.",
+      "searchLane": "Theater Air Force event reports"
+    },
+    {
+      "id": "POS-TC-C-CDR",
+      "tier": "theaters",
+      "organization": "Central Theater Command",
+      "organizationZh": "中部战区",
+      "position": "Commander",
+      "positionZh": "司令员",
+      "gradeBand": "Theater-leader grade",
+      "seats": 1,
+      "holderIds": [
+        "PLA-E0992169C8FF"
+      ],
+      "handlerIds": [],
+      "adverseIds": [],
+      "externalHolder": null,
+      "note": "Formalized 22 December 2025.",
+      "searchLane": "Xinhua promotion ceremony or exact-title event report"
+    },
+    {
+      "id": "POS-TC-C-PC",
+      "tier": "theaters",
+      "organization": "Central Theater Command",
+      "organizationZh": "中部战区",
+      "position": "Political commissar",
+      "positionZh": "政治委员",
+      "gradeBand": "Theater-leader grade",
+      "seats": 1,
+      "holderIds": [],
+      "handlerIds": [
+        "PLA-14958C283AD5"
+      ],
+      "adverseIds": [],
+      "externalHolder": null,
+      "note": "No public record of the political commissar; Liang Ping is a reconstructed senior political-work figure.",
+      "searchLane": "Xinhua promotion ceremony or exact-title event report"
+    },
+    {
+      "id": "POS-TC-C-COS",
+      "tier": "theaters",
+      "organization": "Central Theater Command",
+      "organizationZh": "中部战区",
+      "position": "Chief of staff",
+      "positionZh": "参谋长",
+      "gradeBand": "Theater-deputy grade",
+      "seats": 1,
+      "holderIds": [
+        "PLA-0B594CAC6360"
+      ],
+      "handlerIds": [],
+      "adverseIds": [],
+      "externalHolder": null,
+      "note": "Last text-confirmed as deputy commander and chief of staff in August 2024.",
+      "searchLane": "Theater event reports naming 参谋长"
+    },
+    {
+      "id": "POS-TC-C-PWD",
+      "tier": "theaters",
+      "organization": "Central Theater Command",
+      "organizationZh": "中部战区",
+      "position": "Political Work Department director",
+      "positionZh": "政治工作部主任",
+      "gradeBand": "Theater-deputy grade",
+      "seats": 1,
+      "holderIds": [
+        "PLA-14958C283AD5"
+      ],
+      "handlerIds": [],
+      "adverseIds": [],
+      "externalHolder": null,
+      "note": "Legacy record.",
+      "searchLane": "Theater event reports naming 政治工作部主任"
+    },
+    {
+      "id": "POS-TC-C-DEP",
+      "tier": "theaters",
+      "organization": "Central Theater Command",
+      "organizationZh": "中部战区",
+      "position": "Deputy commanders (bench)",
+      "positionZh": "副司令员",
+      "gradeBand": "Theater-deputy grade",
+      "seats": 0,
+      "holderIds": [
+        "PLA-DB1EB254F56A",
+        "PLA-32F6DA4E7BFA",
+        "PLA-7ABD610F0ACD"
+      ],
+      "handlerIds": [],
+      "adverseIds": [
+        "PLA-8A56915D1270"
+      ],
+      "externalHolder": null,
+      "note": "Zhu Xiaosong is reported to have moved to the Rocket Force.",
+      "searchLane": ""
+    },
+    {
+      "id": "POS-TC-C-ARMY",
+      "tier": "theaters",
+      "organization": "Central Theater Army",
+      "organizationZh": "中部战区陆军",
+      "position": "Commander",
+      "positionZh": "司令员",
+      "gradeBand": "Theater-deputy grade",
+      "seats": 1,
+      "holderIds": [
+        "PLA-21A4F018A689"
+      ],
+      "handlerIds": [],
+      "adverseIds": [],
+      "externalHolder": null,
+      "note": "Last officially confirmed March 2025.",
+      "searchLane": "Theater Army event reports"
+    },
+    {
+      "id": "POS-TC-C-AF",
+      "tier": "theaters",
+      "organization": "Central Theater Air Force",
+      "organizationZh": "中部战区空军",
+      "position": "Commander",
+      "positionZh": "司令员",
+      "gradeBand": "Theater-deputy grade",
+      "seats": 1,
+      "holderIds": [],
+      "handlerIds": [],
+      "adverseIds": [],
+      "externalHolder": null,
+      "note": "No public record held for the current Air Force component commander.",
+      "searchLane": "Theater Air Force event reports"
+    },
+    {
+      "id": "POS-SVC-ARMY-CDR",
+      "tier": "services",
+      "organization": "PLA Army",
+      "organizationZh": "陆军",
+      "position": "Commander",
+      "positionZh": "司令员",
+      "gradeBand": "Theater-leader grade",
+      "seats": 1,
+      "holderIds": [],
+      "handlerIds": [
+        "PLA-1D6A99D9F70C"
+      ],
+      "adverseIds": [
+        "PLA-CBFF926CEF39"
+      ],
+      "externalHolder": null,
+      "note": "Li Qiaoming was replaced, absent, and lost his NPC seat in February 2026. Cai Zhijun, reported chief of staff, appears to preside; no appointment act is published.",
+      "searchLane": "Xinhua promotion ceremony or exact-title event report"
+    },
+    {
+      "id": "POS-SVC-ARMY-PC",
+      "tier": "services",
+      "organization": "PLA Army",
+      "organizationZh": "陆军",
+      "position": "Political commissar",
+      "positionZh": "政治委员",
+      "gradeBand": "Theater-leader grade",
+      "seats": 1,
+      "holderIds": [],
+      "handlerIds": [
+        "PLA-6DADF88DFC1E"
+      ],
+      "adverseIds": [
+        "PLA-FA66830A270E",
+        "PLA-741A5C9F0648"
+      ],
+      "externalHolder": null,
+      "note": "Qin Shutong was expelled in October 2025 and Chen Hui is classified as missing; Zheng Yanpo (PWD director) appears to preside.",
+      "searchLane": "Xinhua promotion ceremony or exact-title event report"
+    },
+    {
+      "id": "POS-SVC-ARMY-COS",
+      "tier": "services",
+      "organization": "PLA Army",
+      "organizationZh": "陆军",
+      "position": "Chief of staff",
+      "positionZh": "参谋长",
+      "gradeBand": "Theater-deputy grade",
+      "seats": 1,
+      "holderIds": [
+        "PLA-1D6A99D9F70C"
+      ],
+      "handlerIds": [],
+      "adverseIds": [
+        "PLA-021307F7DEEA"
+      ],
+      "externalHolder": null,
+      "note": "Cai Zhijun's chief-of-staff title is reported, not formally documented.",
+      "searchLane": "Service event reports naming 参谋长"
+    },
+    {
+      "id": "POS-SVC-ARMY-PWD",
+      "tier": "services",
+      "organization": "PLA Army",
+      "organizationZh": "陆军",
+      "position": "Political Work Department director",
+      "positionZh": "政治工作部主任",
+      "gradeBand": "Theater-deputy grade",
+      "seats": 1,
+      "holderIds": [
+        "PLA-6DADF88DFC1E"
+      ],
+      "handlerIds": [],
+      "adverseIds": [],
+      "externalHolder": null,
+      "note": "",
+      "searchLane": "Service event reports naming 政治工作部主任"
+    },
+    {
+      "id": "POS-SVC-ARMY-DIC",
+      "tier": "services",
+      "organization": "PLA Army",
+      "organizationZh": "陆军",
+      "position": "Discipline inspection secretary",
+      "positionZh": "纪委书记",
+      "gradeBand": "Theater-deputy grade",
+      "seats": 1,
+      "holderIds": [],
+      "handlerIds": [],
+      "adverseIds": [],
+      "externalHolder": null,
+      "note": "No public record held.",
+      "searchLane": "Service discipline reports"
+    },
+    {
+      "id": "POS-SVC-ARMY-DEP",
+      "tier": "services",
+      "organization": "PLA Army",
+      "organizationZh": "陆军",
+      "position": "Deputy commanders and department directors (bench)",
+      "positionZh": "副司令员 / 部长",
+      "gradeBand": "Theater-deputy grade",
+      "seats": 0,
+      "holderIds": [
+        "PLA-B49E6D58E6F6",
+        "PLA-3BACEFB23DD5"
+      ],
+      "handlerIds": [],
+      "adverseIds": [
+        "PLA-18BC642ED866",
+        "PLA-C370FAB63E5C"
+      ],
+      "externalHolder": null,
+      "note": "Fu Wenhua is reported as a deputy commander since October 2025.",
+      "searchLane": ""
+    },
+    {
+      "id": "POS-SVC-NAVY-CDR",
+      "tier": "services",
+      "organization": "PLA Navy",
+      "organizationZh": "海军",
+      "position": "Commander",
+      "positionZh": "司令员",
+      "gradeBand": "Theater-leader grade",
+      "seats": 1,
+      "holderIds": [],
+      "handlerIds": [
+        "PLA-0CE77875A7F3"
+      ],
+      "adverseIds": [
+        "PLA-C8C7933C4FF8"
+      ],
+      "externalHolder": null,
+      "note": "Hu Zhongming is classified as missing amid a leadership handover; Zhang Zheng, the chief of staff, appears to perform the senior military work.",
+      "searchLane": "Xinhua promotion ceremony or exact-title event report"
+    },
+    {
+      "id": "POS-SVC-NAVY-PC",
+      "tier": "services",
+      "organization": "PLA Navy",
+      "organizationZh": "海军",
+      "position": "Political commissar",
+      "positionZh": "政治委员",
+      "gradeBand": "Theater-leader grade",
+      "seats": 1,
+      "holderIds": [],
+      "handlerIds": [
+        "PLA-3CC5E7908CB4"
+      ],
+      "adverseIds": [
+        "PLA-E1BB89E58D66"
+      ],
+      "externalHolder": null,
+      "note": "Yuan Huazhi was expelled in October 2025; Hu Yuhai (PWD director / deputy PC) is the visible political officer.",
+      "searchLane": "Xinhua promotion ceremony or exact-title event report"
+    },
+    {
+      "id": "POS-SVC-NAVY-COS",
+      "tier": "services",
+      "organization": "PLA Navy",
+      "organizationZh": "海军",
+      "position": "Chief of staff",
+      "positionZh": "参谋长",
+      "gradeBand": "Theater-deputy grade",
+      "seats": 1,
+      "holderIds": [
+        "PLA-0CE77875A7F3"
+      ],
+      "handlerIds": [],
+      "adverseIds": [
+        "PLA-4B5C301DF923"
+      ],
+      "externalHolder": null,
+      "note": "",
+      "searchLane": "Service event reports naming 参谋长"
+    },
+    {
+      "id": "POS-SVC-NAVY-PWD",
+      "tier": "services",
+      "organization": "PLA Navy",
+      "organizationZh": "海军",
+      "position": "Political Work Department director",
+      "positionZh": "政治工作部主任",
+      "gradeBand": "Theater-deputy grade",
+      "seats": 1,
+      "holderIds": [
+        "PLA-3CC5E7908CB4"
+      ],
+      "handlerIds": [],
+      "adverseIds": [],
+      "externalHolder": null,
+      "note": "",
+      "searchLane": "Service event reports naming 政治工作部主任"
+    },
+    {
+      "id": "POS-SVC-NAVY-DIC",
+      "tier": "services",
+      "organization": "PLA Navy",
+      "organizationZh": "海军",
+      "position": "Discipline inspection secretary",
+      "positionZh": "纪委书记",
+      "gradeBand": "Theater-deputy grade",
+      "seats": 1,
+      "holderIds": [
+        "PLA-6D1FDD09598E"
+      ],
+      "handlerIds": [],
+      "adverseIds": [],
+      "externalHolder": null,
+      "note": "Legacy record.",
+      "searchLane": "Service discipline reports"
+    },
+    {
+      "id": "POS-SVC-NAVY-DEP",
+      "tier": "services",
+      "organization": "PLA Navy",
+      "organizationZh": "海军",
+      "position": "Deputy commanders and department directors (bench)",
+      "positionZh": "副司令员 / 部长",
+      "gradeBand": "Theater-deputy grade",
+      "seats": 0,
+      "holderIds": [
+        "PLA-EFCC78E6E08B",
+        "PLA-A22EBD37845D",
+        "PLA-7C64F74AD9D5",
+        "PLA-5D25CB59AA51",
+        "PLA-1995B0F6E070"
+      ],
+      "handlerIds": [],
+      "adverseIds": [
+        "PLA-9F3EF62E3055",
+        "PLA-FBFC3E3B721A"
+      ],
+      "externalHolder": null,
+      "note": "Cui Yuzhong and Ma Lixin hold formal deputy-commander titles; Wang Hongli and Wang Tianlin direct the Equipment and Logistics departments; Dai Mingmeng is in an undisclosed new billet. Shen Jinlong and Qin Shengxiang were retired principals removed in 2026.",
+      "searchLane": ""
+    },
+    {
+      "id": "POS-SVC-AF-CDR",
+      "tier": "services",
+      "organization": "PLA Air Force",
+      "organizationZh": "空军",
+      "position": "Commander",
+      "positionZh": "司令员",
+      "gradeBand": "Theater-leader grade",
+      "seats": 1,
+      "holderIds": [
+        "PLA-094E667C71A0"
+      ],
+      "handlerIds": [],
+      "adverseIds": [
+        "PLA-332C6F2F3E2E",
+        "PLA-09646680E034"
+      ],
+      "externalHolder": null,
+      "note": "Wang Gang was promoted and named commander on 3 July 2026, replacing Chang Dingqiu, who is classified as missing.",
+      "searchLane": "Xinhua promotion ceremony or exact-title event report"
+    },
+    {
+      "id": "POS-SVC-AF-PC",
+      "tier": "services",
+      "organization": "PLA Air Force",
+      "organizationZh": "空军",
+      "position": "Political commissar",
+      "positionZh": "政治委员",
+      "gradeBand": "Theater-leader grade",
+      "seats": 1,
+      "holderIds": [],
+      "handlerIds": [
+        "PLA-499607B891BC",
+        "PLA-9B3D5B74D35C"
+      ],
+      "adverseIds": [
+        "PLA-0049A4D971AB",
+        "PLA-C6A08672D103"
+      ],
+      "externalHolder": null,
+      "note": "Guo Puxiao lost his NPC seat in June 2026; Ji Duo (deputy PC) and Shi Honggan (assessed discipline secretary) are competing readings for who performs the political work.",
+      "searchLane": "Xinhua promotion ceremony or exact-title event report"
+    },
+    {
+      "id": "POS-SVC-AF-COS",
+      "tier": "services",
+      "organization": "PLA Air Force",
+      "organizationZh": "空军",
+      "position": "Chief of staff",
+      "positionZh": "参谋长",
+      "gradeBand": "Theater-deputy grade",
+      "seats": 1,
+      "holderIds": [
+        "PLA-FB5F52B1F8C4"
+      ],
+      "handlerIds": [],
+      "adverseIds": [],
+      "externalHolder": null,
+      "note": "Officially deputy chief of staff in September 2025; assessed chief.",
+      "searchLane": "Service event reports naming 参谋长"
+    },
+    {
+      "id": "POS-SVC-AF-PWD",
+      "tier": "services",
+      "organization": "PLA Air Force",
+      "organizationZh": "空军",
+      "position": "Political Work Department director",
+      "positionZh": "政治工作部主任",
+      "gradeBand": "Theater-deputy grade",
+      "seats": 1,
+      "holderIds": [],
+      "handlerIds": [],
+      "adverseIds": [],
+      "externalHolder": null,
+      "note": "No public record held.",
+      "searchLane": "Service event reports naming 政治工作部主任"
+    },
+    {
+      "id": "POS-SVC-AF-DIC",
+      "tier": "services",
+      "organization": "PLA Air Force",
+      "organizationZh": "空军",
+      "position": "Discipline inspection secretary",
+      "positionZh": "纪委书记",
+      "gradeBand": "Theater-deputy grade",
+      "seats": 1,
+      "holderIds": [
+        "PLA-9B3D5B74D35C"
+      ],
+      "handlerIds": [],
+      "adverseIds": [],
+      "externalHolder": null,
+      "note": "Assessed, not formally documented.",
+      "searchLane": "Service discipline reports"
+    },
+    {
+      "id": "POS-SVC-AF-DEP",
+      "tier": "services",
+      "organization": "PLA Air Force",
+      "organizationZh": "空军",
+      "position": "Deputy commanders and department directors (bench)",
+      "positionZh": "副司令员 / 部长",
+      "gradeBand": "Theater-deputy grade",
+      "seats": 0,
+      "holderIds": [
+        "PLA-0AB6D51D0B8D"
+      ],
+      "handlerIds": [],
+      "adverseIds": [
+        "PLA-1B6B1529193A"
+      ],
+      "externalHolder": null,
+      "note": "Wang Zhilong directs the Equipment Department; Yu Qingjiang (deputy commander) is classified as missing.",
+      "searchLane": ""
+    },
+    {
+      "id": "POS-SVC-RF-CDR",
+      "tier": "services",
+      "organization": "PLA Rocket Force",
+      "organizationZh": "火箭军",
+      "position": "Commander",
+      "positionZh": "司令员",
+      "gradeBand": "Theater-leader grade",
+      "seats": 1,
+      "holderIds": [],
+      "handlerIds": [
+        "PLA-B526BB58D0B3"
+      ],
+      "adverseIds": [
+        "PLA-BA8175B14B18",
+        "PLA-39B0CD13EDD7",
+        "PLA-8DEEF6607138"
+      ],
+      "externalHolder": null,
+      "note": "Three successive commanders have been removed (2023, 2023 retired, 2025). Lei Kai, deputy commander and chief of staff, appears to handle military work; no appointment is published and his identity chain is conditional.",
+      "searchLane": "Xinhua promotion ceremony or exact-title event report"
+    },
+    {
+      "id": "POS-SVC-RF-PC",
+      "tier": "services",
+      "organization": "PLA Rocket Force",
+      "organizationZh": "火箭军",
+      "position": "Political commissar",
+      "positionZh": "政治委员",
+      "gradeBand": "Theater-leader grade",
+      "seats": 1,
+      "holderIds": [],
+      "handlerIds": [
+        "PLA-0EC1B8872EAF"
+      ],
+      "adverseIds": [
+        "PLA-3AF321FF627C",
+        "PLA-D29AD7B17587"
+      ],
+      "externalHolder": null,
+      "note": "Xu Xisheng is classified as missing; Zhou Jingjiong (PWD director, likely deputy PC) appears to handle political work. Ding Xingnong, a deputy PC, sits in the promotion-bypass watch.",
+      "searchLane": "Xinhua promotion ceremony or exact-title event report"
+    },
+    {
+      "id": "POS-SVC-RF-COS",
+      "tier": "services",
+      "organization": "PLA Rocket Force",
+      "organizationZh": "火箭军",
+      "position": "Chief of staff",
+      "positionZh": "参谋长",
+      "gradeBand": "Theater-deputy grade",
+      "seats": 1,
+      "holderIds": [
+        "PLA-B526BB58D0B3"
+      ],
+      "handlerIds": [],
+      "adverseIds": [
+        "PLA-F5FF0EFCF54E"
+      ],
+      "externalHolder": null,
+      "note": "",
+      "searchLane": "Service event reports naming 参谋长"
+    },
+    {
+      "id": "POS-SVC-RF-PWD",
+      "tier": "services",
+      "organization": "PLA Rocket Force",
+      "organizationZh": "火箭军",
+      "position": "Political Work Department director",
+      "positionZh": "政治工作部主任",
+      "gradeBand": "Theater-deputy grade",
+      "seats": 1,
+      "holderIds": [
+        "PLA-0EC1B8872EAF"
+      ],
+      "handlerIds": [],
+      "adverseIds": [
+        "PLA-D0E82E6A5F57"
+      ],
+      "externalHolder": null,
+      "note": "",
+      "searchLane": "Service event reports naming 政治工作部主任"
+    },
+    {
+      "id": "POS-SVC-RF-DIC",
+      "tier": "services",
+      "organization": "PLA Rocket Force",
+      "organizationZh": "火箭军",
+      "position": "Discipline inspection secretary",
+      "positionZh": "纪委书记",
+      "gradeBand": "Theater-deputy grade",
+      "seats": 1,
+      "holderIds": [],
+      "handlerIds": [],
+      "adverseIds": [
+        "PLA-A4B9D9633C55"
+      ],
+      "externalHolder": null,
+      "note": "The discipline secretary was himself removed; no successor is publicly named.",
+      "searchLane": "Service discipline reports"
+    },
+    {
+      "id": "POS-SVC-RF-DEP",
+      "tier": "services",
+      "organization": "PLA Rocket Force",
+      "organizationZh": "火箭军",
+      "position": "Deputy commanders and department directors (bench)",
+      "positionZh": "副司令员 / 部长",
+      "gradeBand": "Theater-deputy grade",
+      "seats": 0,
+      "holderIds": [
+        "PLA-313F2F7A8577",
+        "PLA-7ABD610F0ACD"
+      ],
+      "handlerIds": [],
+      "adverseIds": [
+        "PLA-DC27BAE6D6EB",
+        "PLA-9C06180A6FA8",
+        "PLA-58431FE2456A",
+        "PLA-F328A25C5611"
+      ],
+      "externalHolder": null,
+      "note": "Chen Guangjun and Zhu Xiaosong are reported deputies; four former deputies or equipment officials were removed.",
+      "searchLane": ""
+    },
+    {
+      "id": "POS-RFB-61-CDR",
+      "tier": "rocket_bases",
+      "organization": "Rocket Force Base 61",
+      "organizationZh": "火箭军第61基地",
+      "position": "Commander",
+      "positionZh": "司令员",
+      "gradeBand": "Corps-leader grade (operational base)",
+      "seats": 1,
+      "holderIds": [],
+      "handlerIds": [],
+      "adverseIds": [],
+      "externalHolder": null,
+      "note": "No public record held.",
+      "searchLane": "Provincial and municipal government sites naming base leaders at civil-military events; 81.cn"
+    },
+    {
+      "id": "POS-RFB-61-PC",
+      "tier": "rocket_bases",
+      "organization": "Rocket Force Base 61",
+      "organizationZh": "火箭军第61基地",
+      "position": "Political commissar",
+      "positionZh": "政治委员",
+      "gradeBand": "Corps-leader grade (operational base)",
+      "seats": 1,
+      "holderIds": [],
+      "handlerIds": [],
+      "adverseIds": [],
+      "externalHolder": null,
+      "note": "No public record held.",
+      "searchLane": "Provincial and municipal government sites; 81.cn"
+    },
+    {
+      "id": "POS-RFB-62-CDR",
+      "tier": "rocket_bases",
+      "organization": "Rocket Force Base 62",
+      "organizationZh": "火箭军第62基地",
+      "position": "Commander",
+      "positionZh": "司令员",
+      "gradeBand": "Corps-leader grade (operational base)",
+      "seats": 1,
+      "holderIds": [],
+      "handlerIds": [],
+      "adverseIds": [],
+      "externalHolder": null,
+      "note": "No public record held.",
+      "searchLane": "Provincial and municipal government sites naming base leaders at civil-military events; 81.cn"
+    },
+    {
+      "id": "POS-RFB-62-PC",
+      "tier": "rocket_bases",
+      "organization": "Rocket Force Base 62",
+      "organizationZh": "火箭军第62基地",
+      "position": "Political commissar",
+      "positionZh": "政治委员",
+      "gradeBand": "Corps-leader grade (operational base)",
+      "seats": 1,
+      "holderIds": [],
+      "handlerIds": [],
+      "adverseIds": [],
+      "externalHolder": null,
+      "note": "No public record held.",
+      "searchLane": "Provincial and municipal government sites; 81.cn"
+    },
+    {
+      "id": "POS-RFB-63-CDR",
+      "tier": "rocket_bases",
+      "organization": "Rocket Force Base 63",
+      "organizationZh": "火箭军第63基地",
+      "position": "Commander",
+      "positionZh": "司令员",
+      "gradeBand": "Corps-leader grade (operational base)",
+      "seats": 1,
+      "holderIds": [],
+      "handlerIds": [],
+      "adverseIds": [],
+      "externalHolder": null,
+      "note": "No public record held.",
+      "searchLane": "Provincial and municipal government sites naming base leaders at civil-military events; 81.cn"
+    },
+    {
+      "id": "POS-RFB-63-PC",
+      "tier": "rocket_bases",
+      "organization": "Rocket Force Base 63",
+      "organizationZh": "火箭军第63基地",
+      "position": "Political commissar",
+      "positionZh": "政治委员",
+      "gradeBand": "Corps-leader grade (operational base)",
+      "seats": 1,
+      "holderIds": [],
+      "handlerIds": [],
+      "adverseIds": [],
+      "externalHolder": null,
+      "note": "No public record held.",
+      "searchLane": "Provincial and municipal government sites; 81.cn"
+    },
+    {
+      "id": "POS-RFB-64-CDR",
+      "tier": "rocket_bases",
+      "organization": "Rocket Force Base 64",
+      "organizationZh": "火箭军第64基地",
+      "position": "Commander",
+      "positionZh": "司令员",
+      "gradeBand": "Corps-leader grade (operational base)",
+      "seats": 1,
+      "holderIds": [],
+      "handlerIds": [],
+      "adverseIds": [
+        "PLA-7DD509445EAC"
+      ],
+      "externalHolder": null,
+      "note": "Yang Guang lost his NPC seat in February 2026; no successor is publicly named.",
+      "searchLane": "Provincial and municipal government sites naming base leaders at civil-military events; 81.cn"
+    },
+    {
+      "id": "POS-RFB-64-PC",
+      "tier": "rocket_bases",
+      "organization": "Rocket Force Base 64",
+      "organizationZh": "火箭军第64基地",
+      "position": "Political commissar",
+      "positionZh": "政治委员",
+      "gradeBand": "Corps-leader grade (operational base)",
+      "seats": 1,
+      "holderIds": [],
+      "handlerIds": [],
+      "adverseIds": [],
+      "externalHolder": null,
+      "note": "No public record held.",
+      "searchLane": "Provincial and municipal government sites; 81.cn"
+    },
+    {
+      "id": "POS-RFB-65-CDR",
+      "tier": "rocket_bases",
+      "organization": "Rocket Force Base 65",
+      "organizationZh": "火箭军第65基地",
+      "position": "Commander",
+      "positionZh": "司令员",
+      "gradeBand": "Corps-leader grade (operational base)",
+      "seats": 1,
+      "holderIds": [],
+      "handlerIds": [],
+      "adverseIds": [],
+      "externalHolder": null,
+      "note": "No public record held.",
+      "searchLane": "Provincial and municipal government sites naming base leaders at civil-military events; 81.cn"
+    },
+    {
+      "id": "POS-RFB-65-PC",
+      "tier": "rocket_bases",
+      "organization": "Rocket Force Base 65",
+      "organizationZh": "火箭军第65基地",
+      "position": "Political commissar",
+      "positionZh": "政治委员",
+      "gradeBand": "Corps-leader grade (operational base)",
+      "seats": 1,
+      "holderIds": [],
+      "handlerIds": [],
+      "adverseIds": [],
+      "externalHolder": null,
+      "note": "No public record held.",
+      "searchLane": "Provincial and municipal government sites; 81.cn"
+    },
+    {
+      "id": "POS-RFB-66-CDR",
+      "tier": "rocket_bases",
+      "organization": "Rocket Force Base 66",
+      "organizationZh": "火箭军第66基地",
+      "position": "Commander",
+      "positionZh": "司令员",
+      "gradeBand": "Corps-leader grade (operational base)",
+      "seats": 1,
+      "holderIds": [],
+      "handlerIds": [],
+      "adverseIds": [],
+      "externalHolder": null,
+      "note": "No public record held.",
+      "searchLane": "Provincial and municipal government sites naming base leaders at civil-military events; 81.cn"
+    },
+    {
+      "id": "POS-RFB-66-PC",
+      "tier": "rocket_bases",
+      "organization": "Rocket Force Base 66",
+      "organizationZh": "火箭军第66基地",
+      "position": "Political commissar",
+      "positionZh": "政治委员",
+      "gradeBand": "Corps-leader grade (operational base)",
+      "seats": 1,
+      "holderIds": [],
+      "handlerIds": [],
+      "adverseIds": [],
+      "externalHolder": null,
+      "note": "No public record held.",
+      "searchLane": "Provincial and municipal government sites; 81.cn"
+    },
+    {
+      "id": "POS-RFB-67-CDR",
+      "tier": "rocket_bases",
+      "organization": "Rocket Force Base 67",
+      "organizationZh": "火箭军第67基地",
+      "position": "Commander",
+      "positionZh": "司令员",
+      "gradeBand": "Corps-leader grade (support base)",
+      "seats": 1,
+      "holderIds": [],
+      "handlerIds": [],
+      "adverseIds": [],
+      "externalHolder": null,
+      "note": "No public record held.",
+      "searchLane": "Provincial and municipal government sites naming base leaders at civil-military events; 81.cn"
+    },
+    {
+      "id": "POS-RFB-67-PC",
+      "tier": "rocket_bases",
+      "organization": "Rocket Force Base 67",
+      "organizationZh": "火箭军第67基地",
+      "position": "Political commissar",
+      "positionZh": "政治委员",
+      "gradeBand": "Corps-leader grade (support base)",
+      "seats": 1,
+      "holderIds": [],
+      "handlerIds": [],
+      "adverseIds": [],
+      "externalHolder": null,
+      "note": "No public record held.",
+      "searchLane": "Provincial and municipal government sites; 81.cn"
+    },
+    {
+      "id": "POS-RFB-68-CDR",
+      "tier": "rocket_bases",
+      "organization": "Rocket Force Base 68",
+      "organizationZh": "火箭军第68基地",
+      "position": "Commander",
+      "positionZh": "司令员",
+      "gradeBand": "Corps-leader grade (support base)",
+      "seats": 1,
+      "holderIds": [],
+      "handlerIds": [],
+      "adverseIds": [],
+      "externalHolder": null,
+      "note": "No public record held.",
+      "searchLane": "Provincial and municipal government sites naming base leaders at civil-military events; 81.cn"
+    },
+    {
+      "id": "POS-RFB-68-PC",
+      "tier": "rocket_bases",
+      "organization": "Rocket Force Base 68",
+      "organizationZh": "火箭军第68基地",
+      "position": "Political commissar",
+      "positionZh": "政治委员",
+      "gradeBand": "Corps-leader grade (support base)",
+      "seats": 1,
+      "holderIds": [],
+      "handlerIds": [],
+      "adverseIds": [],
+      "externalHolder": null,
+      "note": "No public record held.",
+      "searchLane": "Provincial and municipal government sites; 81.cn"
+    },
+    {
+      "id": "POS-RFB-69-CDR",
+      "tier": "rocket_bases",
+      "organization": "Rocket Force Base 69",
+      "organizationZh": "火箭军第69基地",
+      "position": "Commander",
+      "positionZh": "司令员",
+      "gradeBand": "Corps-leader grade (support base)",
+      "seats": 1,
+      "holderIds": [],
+      "handlerIds": [],
+      "adverseIds": [],
+      "externalHolder": null,
+      "note": "No public record held.",
+      "searchLane": "Provincial and municipal government sites naming base leaders at civil-military events; 81.cn"
+    },
+    {
+      "id": "POS-RFB-69-PC",
+      "tier": "rocket_bases",
+      "organization": "Rocket Force Base 69",
+      "organizationZh": "火箭军第69基地",
+      "position": "Political commissar",
+      "positionZh": "政治委员",
+      "gradeBand": "Corps-leader grade (support base)",
+      "seats": 1,
+      "holderIds": [],
+      "handlerIds": [],
+      "adverseIds": [],
+      "externalHolder": null,
+      "note": "No public record held.",
+      "searchLane": "Provincial and municipal government sites; 81.cn"
+    },
+    {
+      "id": "POS-ARM-ASF-CDR",
+      "tier": "arms",
+      "organization": "Aerospace Force",
+      "organizationZh": "军事航天部队",
+      "position": "Commander",
+      "positionZh": "司令员",
+      "gradeBand": "Theater-deputy grade",
+      "seats": 1,
+      "holderIds": [
+        "PLA-8F617F4716E0",
+        "PLA-6976B3023495"
+      ],
+      "handlerIds": [],
+      "adverseIds": [],
+      "externalHolder": null,
+      "note": "The open record inverts roles between Hao Weizhong and Li Jiancheng; neither clears the publication threshold as principal.",
+      "searchLane": "Arm-owned reports; Xinhua exact-title text"
+    },
+    {
+      "id": "POS-ARM-ASF-PC",
+      "tier": "arms",
+      "organization": "Aerospace Force",
+      "organizationZh": "军事航天部队",
+      "position": "Political commissar",
+      "positionZh": "政治委员",
+      "gradeBand": "Theater-deputy grade",
+      "seats": 1,
+      "holderIds": [
+        "PLA-AAEDAB9AF4DF"
+      ],
+      "handlerIds": [],
+      "adverseIds": [],
+      "externalHolder": null,
+      "note": "Most likely political commissar; role attribution varies across sources.",
+      "searchLane": "Arm-owned reports"
+    },
+    {
+      "id": "POS-ARM-ASF-AST",
+      "tier": "arms",
+      "organization": "PLA Astronaut Corps",
+      "organizationZh": "航天员大队",
+      "position": "Commander",
+      "positionZh": "大队长",
+      "gradeBand": "Specialist corps command",
+      "seats": 1,
+      "holderIds": [
+        "PLA-6001E00E8D37"
+      ],
+      "handlerIds": [],
+      "adverseIds": [],
+      "externalHolder": null,
+      "note": "Organizational authority inside a specialist corps; not an Aerospace Force staff or base command.",
+      "searchLane": ""
+    },
+    {
+      "id": "POS-ARM-CSF-CDR",
+      "tier": "arms",
+      "organization": "Cyberspace Force",
+      "organizationZh": "网络空间部队",
+      "position": "Commander",
+      "positionZh": "司令员",
+      "gradeBand": "Theater-deputy grade",
+      "seats": 1,
+      "holderIds": [],
+      "handlerIds": [],
+      "adverseIds": [
+        "PLA-71EADFD13358"
+      ],
+      "externalHolder": null,
+      "note": "The founding commander lost his NPC seat in June 2026; a reported successor lead (Zhang Liang) is not title-confirmed and is not entered.",
+      "searchLane": "Arm-owned reports; Xinhua exact-title text"
+    },
+    {
+      "id": "POS-ARM-CSF-PC",
+      "tier": "arms",
+      "organization": "Cyberspace Force",
+      "organizationZh": "网络空间部队",
+      "position": "Political commissar",
+      "positionZh": "政治委员",
+      "gradeBand": "Theater-deputy grade",
+      "seats": 1,
+      "holderIds": [
+        "PLA-FE5D307ACF67"
+      ],
+      "handlerIds": [],
+      "adverseIds": [],
+      "externalHolder": null,
+      "note": "Assessed from repeated reporting; a competing reading (Su Yinsheng) exists.",
+      "searchLane": "Arm-owned reports"
+    },
+    {
+      "id": "POS-ARM-ISF-CDR",
+      "tier": "arms",
+      "organization": "Information Support Force",
+      "organizationZh": "信息支援部队",
+      "position": "Commander",
+      "positionZh": "司令员",
+      "gradeBand": "Theater-deputy grade",
+      "seats": 1,
+      "holderIds": [
+        "PLA-7FCDE2ABF6CF",
+        "PLA-DE6AB2DC08C6"
+      ],
+      "handlerIds": [],
+      "adverseIds": [
+        "PLA-18F366AE6988"
+      ],
+      "externalHolder": null,
+      "note": "Bi Yi's founding title (April 2024) is stale and a later senior-role lead names Wang Jianwu; the record conflicts. Ju Qiansheng commanded the predecessor Strategic Support Force and was removed in August 2026.",
+      "searchLane": "Arm-owned reports; Xinhua exact-title text"
+    },
+    {
+      "id": "POS-ARM-ISF-PC",
+      "tier": "arms",
+      "organization": "Information Support Force",
+      "organizationZh": "信息支援部队",
+      "position": "Political commissar",
+      "positionZh": "政治委员",
+      "gradeBand": "Theater-deputy grade",
+      "seats": 1,
+      "holderIds": [],
+      "handlerIds": [],
+      "adverseIds": [
+        "PLA-08335EADEB20"
+      ],
+      "externalHolder": null,
+      "note": "The founding political commissar lost his NPC seat in February 2026; no successor is publicly named.",
+      "searchLane": "Arm-owned reports"
+    },
+    {
+      "id": "POS-ARM-JLSF-CDR",
+      "tier": "arms",
+      "organization": "Joint Logistic Support Force",
+      "organizationZh": "联勤保障部队",
+      "position": "Commander",
+      "positionZh": "司令员",
+      "gradeBand": "Theater-deputy grade",
+      "seats": 1,
+      "holderIds": [],
+      "handlerIds": [],
+      "adverseIds": [
+        "PLA-EFD737796BF4"
+      ],
+      "externalHolder": null,
+      "note": "Wang Kangping lost his NPC seat in June 2026; no successor is publicly named.",
+      "searchLane": "JLSF and Wuhan base event reports"
+    },
+    {
+      "id": "POS-ARM-JLSF-PC",
+      "tier": "arms",
+      "organization": "Joint Logistic Support Force",
+      "organizationZh": "联勤保障部队",
+      "position": "Political commissar",
+      "positionZh": "政治委员",
+      "gradeBand": "Theater-deputy grade",
+      "seats": 1,
+      "holderIds": [],
+      "handlerIds": [],
+      "adverseIds": [
+        "PLA-A9A0C8C53955"
+      ],
+      "externalHolder": null,
+      "note": "Gao Daguang is recorded as removed. Tian Xiaowei's transfer from the Sichuan Military District has an undisclosed destination; a JLSF destination is a hypothesis and is not entered.",
+      "searchLane": "JLSF event reports naming 政治委员"
+    },
+    {
+      "id": "POS-ARM-JLSF-BASES",
+      "tier": "arms",
+      "organization": "JLSF Wuhan base and five joint logistic support centres",
+      "organizationZh": "联勤保障部队武汉基地 / 联勤保障中心",
+      "position": "Base and centre principals (bench)",
+      "positionZh": "司令员 / 政治委员",
+      "gradeBand": "Corps grade",
+      "seats": 0,
+      "holderIds": [],
+      "handlerIds": [],
+      "adverseIds": [],
+      "externalHolder": null,
+      "note": "No public record held for any of the twelve principal seats.",
+      "searchLane": "Support-centre event reports; provincial civil-military coverage"
+    },
+    {
+      "id": "POS-PAP-CDR",
+      "tier": "pap",
+      "organization": "People's Armed Police",
+      "organizationZh": "武警部队",
+      "position": "Commander",
+      "positionZh": "司令员",
+      "gradeBand": "Theater-leader grade",
+      "seats": 1,
+      "holderIds": [],
+      "handlerIds": [
+        "PLA-AF37872B1F0C"
+      ],
+      "adverseIds": [
+        "PLA-F5E779D79CEA"
+      ],
+      "externalHolder": null,
+      "note": "Wang Chunning was expelled in October 2025; successive deputies (Peng Jingtang, then Zhao Dongfang) have handled the work without a published appointment.",
+      "searchLane": "Xinhua promotion ceremony; PAP exact-title reports"
+    },
+    {
+      "id": "POS-PAP-PC",
+      "tier": "pap",
+      "organization": "People's Armed Police",
+      "organizationZh": "武警部队",
+      "position": "Political commissar",
+      "positionZh": "政治委员",
+      "gradeBand": "Theater-leader grade",
+      "seats": 1,
+      "holderIds": [],
+      "handlerIds": [
+        "PLA-F323DE5E34EB"
+      ],
+      "adverseIds": [
+        "PLA-FEE1B1F55821"
+      ],
+      "externalHolder": null,
+      "note": "Zhang Hongbing is recorded as removed; Wang Hongbin (deputy PC and PWD director) appears to handle political work.",
+      "searchLane": "PAP exact-title reports"
+    },
+    {
+      "id": "POS-PAP-COS",
+      "tier": "pap",
+      "organization": "People's Armed Police",
+      "organizationZh": "武警部队",
+      "position": "Chief of staff",
+      "positionZh": "参谋长",
+      "gradeBand": "Theater-deputy grade",
+      "seats": 1,
+      "holderIds": [
+        "PLA-AF37872B1F0C"
+      ],
+      "handlerIds": [],
+      "adverseIds": [],
+      "externalHolder": null,
+      "note": "Reported from March 2026; April protocol suggests he also handles command work.",
+      "searchLane": ""
+    },
+    {
+      "id": "POS-PAP-PWD",
+      "tier": "pap",
+      "organization": "People's Armed Police",
+      "organizationZh": "武警部队",
+      "position": "Political Work Department director",
+      "positionZh": "政治工作部主任",
+      "gradeBand": "Theater-deputy grade",
+      "seats": 1,
+      "holderIds": [
+        "PLA-F323DE5E34EB"
+      ],
+      "handlerIds": [],
+      "adverseIds": [],
+      "externalHolder": null,
+      "note": "",
+      "searchLane": ""
+    },
+    {
+      "id": "POS-PAP-DEP",
+      "tier": "pap",
+      "organization": "People's Armed Police",
+      "organizationZh": "武警部队",
+      "position": "Deputy commanders and deputy political commissars (bench)",
+      "positionZh": "副司令员 / 副政治委员",
+      "gradeBand": "Theater-deputy grade",
+      "seats": 0,
+      "holderIds": [
+        "PLA-F61F51661B8F",
+        "PLA-5ADF0E280901",
+        "PLA-C02CA4FF752C"
+      ],
+      "handlerIds": [],
+      "adverseIds": [],
+      "externalHolder": null,
+      "note": "Specialist rosters carry these titles; recent exact-title uses are sparse.",
+      "searchLane": ""
+    },
+    {
+      "id": "POS-CCG-DIR",
+      "tier": "pap",
+      "organization": "China Coast Guard",
+      "organizationZh": "中国海警局",
+      "position": "Director",
+      "positionZh": "局长",
+      "gradeBand": "Theater-deputy grade",
+      "seats": 1,
+      "holderIds": [
+        "PLA-58F6C845E87A"
+      ],
+      "handlerIds": [],
+      "adverseIds": [],
+      "externalHolder": null,
+      "note": "Official press-conference title observation, January 2026.",
+      "searchLane": ""
+    },
+    {
+      "id": "POS-CCG-PC",
+      "tier": "pap",
+      "organization": "China Coast Guard",
+      "organizationZh": "中国海警局",
+      "position": "Political commissar",
+      "positionZh": "政治委员",
+      "gradeBand": "Theater-deputy grade",
+      "seats": 1,
+      "holderIds": [
+        "PLA-01224D4FB1E1"
+      ],
+      "handlerIds": [],
+      "adverseIds": [],
+      "externalHolder": null,
+      "note": "",
+      "searchLane": ""
+    },
+    {
+      "id": "POS-CCG-DEP",
+      "tier": "pap",
+      "organization": "China Coast Guard",
+      "organizationZh": "中国海警局",
+      "position": "Department leaders and spokesperson (bench)",
+      "positionZh": "部门领导",
+      "gradeBand": "Corps grade",
+      "seats": 0,
+      "holderIds": [
+        "PLA-7F73980DBACF",
+        "PLA-0F131060085B",
+        "PLA-5A2B963D8884"
+      ],
+      "handlerIds": [],
+      "adverseIds": [],
+      "externalHolder": null,
+      "note": "",
+      "searchLane": ""
+    },
+    {
+      "id": "POS-MD-BJ-CDR",
+      "tier": "pap",
+      "organization": "Beijing Garrison",
+      "organizationZh": "北京卫戍区",
+      "position": "Commander",
+      "positionZh": "司令员",
+      "gradeBand": "Corps-leader grade",
+      "seats": 1,
+      "holderIds": [
+        "PLA-D4BC2E123302"
+      ],
+      "handlerIds": [],
+      "adverseIds": [],
+      "externalHolder": null,
+      "note": "Plausibly commander after PAP Guangxi and Shanghai commands; the exact title is not confirmed.",
+      "searchLane": "Beijing municipal reports naming 卫戍区司令员"
+    },
+    {
+      "id": "POS-MD-BJ-PC",
+      "tier": "pap",
+      "organization": "Beijing Garrison",
+      "organizationZh": "北京卫戍区",
+      "position": "Political commissar",
+      "positionZh": "政治委员",
+      "gradeBand": "Corps-leader grade",
+      "seats": 1,
+      "holderIds": [],
+      "handlerIds": [],
+      "adverseIds": [],
+      "externalHolder": null,
+      "note": "No public record held.",
+      "searchLane": "Beijing municipal reports"
+    },
+    {
+      "id": "POS-MD-XJ-CDR",
+      "tier": "pap",
+      "organization": "Xinjiang Military District",
+      "organizationZh": "新疆军区",
+      "position": "Commander",
+      "positionZh": "司令员",
+      "gradeBand": "Theater-deputy grade",
+      "seats": 1,
+      "holderIds": [
+        "PLA-CE347B98F04E"
+      ],
+      "handlerIds": [],
+      "adverseIds": [],
+      "externalHolder": null,
+      "note": "Likely commander, replacing Liu Lin; official reports signal the role without an exact title.",
+      "searchLane": "Xinjiang regional reports naming 新疆军区司令员"
+    },
+    {
+      "id": "POS-MD-XJ-PC",
+      "tier": "pap",
+      "organization": "Xinjiang Military District",
+      "organizationZh": "新疆军区",
+      "position": "Political commissar",
+      "positionZh": "政治委员",
+      "gradeBand": "Theater-deputy grade",
+      "seats": 1,
+      "holderIds": [
+        "PLA-DDB32C6C4199"
+      ],
+      "handlerIds": [],
+      "adverseIds": [],
+      "externalHolder": null,
+      "note": "Reported transfer from the Tibet Military District.",
+      "searchLane": "Xinjiang regional reports"
+    },
+    {
+      "id": "POS-MD-XZ-CDR",
+      "tier": "pap",
+      "organization": "Tibet Military District",
+      "organizationZh": "西藏军区",
+      "position": "Commander",
+      "positionZh": "司令员",
+      "gradeBand": "Theater-deputy grade",
+      "seats": 1,
+      "holderIds": [],
+      "handlerIds": [],
+      "adverseIds": [],
+      "externalHolder": null,
+      "note": "No public record held.",
+      "searchLane": "Tibet regional reports naming 西藏军区司令员"
+    },
+    {
+      "id": "POS-MD-XZ-PC",
+      "tier": "pap",
+      "organization": "Tibet Military District",
+      "organizationZh": "西藏军区",
+      "position": "Political commissar",
+      "positionZh": "政治委员",
+      "gradeBand": "Theater-deputy grade",
+      "seats": 1,
+      "holderIds": [],
+      "handlerIds": [],
+      "adverseIds": [],
+      "externalHolder": null,
+      "note": "No public record held; Yuan Honggang's reported move leaves the seat unaccounted for.",
+      "searchLane": "Tibet regional reports"
+    },
+    {
+      "id": "POS-GA-71-CDR",
+      "tier": "group_armies",
+      "organization": "71st Group Army",
+      "organizationZh": "第71集团军",
+      "position": "Commander",
+      "positionZh": "军长",
+      "gradeBand": "Corps-leader grade",
+      "seats": 1,
+      "holderIds": [
+        "PLA-5C33C18539CB"
+      ],
+      "handlerIds": [],
+      "adverseIds": [],
+      "externalHolder": null,
+      "note": "",
+      "searchLane": "Provincial and municipal civil-military reports; 81.cn unit coverage"
+    },
+    {
+      "id": "POS-GA-71-PC",
+      "tier": "group_armies",
+      "organization": "71st Group Army",
+      "organizationZh": "第71集团军",
+      "position": "Political commissar",
+      "positionZh": "政治委员",
+      "gradeBand": "Corps-leader grade",
+      "seats": 1,
+      "holderIds": [
+        "PLA-0060CCF3E33B"
+      ],
+      "handlerIds": [],
+      "adverseIds": [],
+      "externalHolder": null,
+      "note": "",
+      "searchLane": "Provincial and municipal civil-military reports; 81.cn unit coverage"
+    },
+    {
+      "id": "POS-GA-72-CDR",
+      "tier": "group_armies",
+      "organization": "72nd Group Army",
+      "organizationZh": "第72集团军",
+      "position": "Commander",
+      "positionZh": "军长",
+      "gradeBand": "Corps-leader grade",
+      "seats": 1,
+      "holderIds": [
+        "PLA-D189194FAA85"
+      ],
+      "handlerIds": [],
+      "adverseIds": [],
+      "externalHolder": null,
+      "note": "",
+      "searchLane": "Provincial and municipal civil-military reports; 81.cn unit coverage"
+    },
+    {
+      "id": "POS-GA-72-PC",
+      "tier": "group_armies",
+      "organization": "72nd Group Army",
+      "organizationZh": "第72集团军",
+      "position": "Political commissar",
+      "positionZh": "政治委员",
+      "gradeBand": "Corps-leader grade",
+      "seats": 1,
+      "holderIds": [
+        "PLA-817969772F69"
+      ],
+      "handlerIds": [],
+      "adverseIds": [],
+      "externalHolder": null,
+      "note": "",
+      "searchLane": "Provincial and municipal civil-military reports; 81.cn unit coverage"
+    },
+    {
+      "id": "POS-GA-73-CDR",
+      "tier": "group_armies",
+      "organization": "73rd Group Army",
+      "organizationZh": "第73集团军",
+      "position": "Commander",
+      "positionZh": "军长",
+      "gradeBand": "Corps-leader grade",
+      "seats": 1,
+      "holderIds": [],
+      "handlerIds": [],
+      "adverseIds": [
+        "PLA-3920DF37F9FA"
+      ],
+      "externalHolder": null,
+      "note": "Ding Laifu lost his NPC seat in February 2026; no successor is publicly named.",
+      "searchLane": "Provincial and municipal civil-military reports; 81.cn unit coverage"
+    },
+    {
+      "id": "POS-GA-73-PC",
+      "tier": "group_armies",
+      "organization": "73rd Group Army",
+      "organizationZh": "第73集团军",
+      "position": "Political commissar",
+      "positionZh": "政治委员",
+      "gradeBand": "Corps-leader grade",
+      "seats": 1,
+      "holderIds": [
+        "PLA-27C19C4F0939"
+      ],
+      "handlerIds": [],
+      "adverseIds": [],
+      "externalHolder": null,
+      "note": "",
+      "searchLane": "Provincial and municipal civil-military reports; 81.cn unit coverage"
+    },
+    {
+      "id": "POS-GA-74-CDR",
+      "tier": "group_armies",
+      "organization": "74th Group Army",
+      "organizationZh": "第74集团军",
+      "position": "Commander",
+      "positionZh": "军长",
+      "gradeBand": "Corps-leader grade",
+      "seats": 1,
+      "holderIds": [],
+      "handlerIds": [],
+      "adverseIds": [],
+      "externalHolder": null,
+      "note": "No public record held.",
+      "searchLane": "Provincial and municipal civil-military reports; 81.cn unit coverage"
+    },
+    {
+      "id": "POS-GA-74-PC",
+      "tier": "group_armies",
+      "organization": "74th Group Army",
+      "organizationZh": "第74集团军",
+      "position": "Political commissar",
+      "positionZh": "政治委员",
+      "gradeBand": "Corps-leader grade",
+      "seats": 1,
+      "holderIds": [
+        "PLA-EDDAAE1CF458"
+      ],
+      "handlerIds": [],
+      "adverseIds": [],
+      "externalHolder": null,
+      "note": "",
+      "searchLane": "Provincial and municipal civil-military reports; 81.cn unit coverage"
+    },
+    {
+      "id": "POS-GA-75-CDR",
+      "tier": "group_armies",
+      "organization": "75th Group Army",
+      "organizationZh": "第75集团军",
+      "position": "Commander",
+      "positionZh": "军长",
+      "gradeBand": "Corps-leader grade",
+      "seats": 1,
+      "holderIds": [
+        "PLA-C05526A74AAA"
+      ],
+      "handlerIds": [],
+      "adverseIds": [],
+      "externalHolder": null,
+      "note": "",
+      "searchLane": "Provincial and municipal civil-military reports; 81.cn unit coverage"
+    },
+    {
+      "id": "POS-GA-75-PC",
+      "tier": "group_armies",
+      "organization": "75th Group Army",
+      "organizationZh": "第75集团军",
+      "position": "Political commissar",
+      "positionZh": "政治委员",
+      "gradeBand": "Corps-leader grade",
+      "seats": 1,
+      "holderIds": [
+        "PLA-91F6B428FCB0"
+      ],
+      "handlerIds": [],
+      "adverseIds": [],
+      "externalHolder": null,
+      "note": "",
+      "searchLane": "Provincial and municipal civil-military reports; 81.cn unit coverage"
+    },
+    {
+      "id": "POS-GA-76-CDR",
+      "tier": "group_armies",
+      "organization": "76th Group Army",
+      "organizationZh": "第76集团军",
+      "position": "Commander",
+      "positionZh": "军长",
+      "gradeBand": "Corps-leader grade",
+      "seats": 1,
+      "holderIds": [
+        "PLA-88F388E2BA87"
+      ],
+      "handlerIds": [],
+      "adverseIds": [],
+      "externalHolder": null,
+      "note": "",
+      "searchLane": "Provincial and municipal civil-military reports; 81.cn unit coverage"
+    },
+    {
+      "id": "POS-GA-76-PC",
+      "tier": "group_armies",
+      "organization": "76th Group Army",
+      "organizationZh": "第76集团军",
+      "position": "Political commissar",
+      "positionZh": "政治委员",
+      "gradeBand": "Corps-leader grade",
+      "seats": 1,
+      "holderIds": [
+        "PLA-0989332DD971"
+      ],
+      "handlerIds": [],
+      "adverseIds": [],
+      "externalHolder": null,
+      "note": "",
+      "searchLane": "Provincial and municipal civil-military reports; 81.cn unit coverage"
+    },
+    {
+      "id": "POS-GA-77-CDR",
+      "tier": "group_armies",
+      "organization": "77th Group Army",
+      "organizationZh": "第77集团军",
+      "position": "Commander",
+      "positionZh": "军长",
+      "gradeBand": "Corps-leader grade",
+      "seats": 1,
+      "holderIds": [
+        "PLA-DB8D9ACAA4D1"
+      ],
+      "handlerIds": [],
+      "adverseIds": [],
+      "externalHolder": null,
+      "note": "",
+      "searchLane": "Provincial and municipal civil-military reports; 81.cn unit coverage"
+    },
+    {
+      "id": "POS-GA-77-PC",
+      "tier": "group_armies",
+      "organization": "77th Group Army",
+      "organizationZh": "第77集团军",
+      "position": "Political commissar",
+      "positionZh": "政治委员",
+      "gradeBand": "Corps-leader grade",
+      "seats": 1,
+      "holderIds": [
+        "PLA-2E4E3545C703"
+      ],
+      "handlerIds": [],
+      "adverseIds": [],
+      "externalHolder": null,
+      "note": "",
+      "searchLane": "Provincial and municipal civil-military reports; 81.cn unit coverage"
+    },
+    {
+      "id": "POS-GA-78-CDR",
+      "tier": "group_armies",
+      "organization": "78th Group Army",
+      "organizationZh": "第78集团军",
+      "position": "Commander",
+      "positionZh": "军长",
+      "gradeBand": "Corps-leader grade",
+      "seats": 1,
+      "holderIds": [],
+      "handlerIds": [],
+      "adverseIds": [],
+      "externalHolder": null,
+      "note": "No public record held.",
+      "searchLane": "Provincial and municipal civil-military reports; 81.cn unit coverage"
+    },
+    {
+      "id": "POS-GA-78-PC",
+      "tier": "group_armies",
+      "organization": "78th Group Army",
+      "organizationZh": "第78集团军",
+      "position": "Political commissar",
+      "positionZh": "政治委员",
+      "gradeBand": "Corps-leader grade",
+      "seats": 1,
+      "holderIds": [],
+      "handlerIds": [],
+      "adverseIds": [],
+      "externalHolder": null,
+      "note": "No public record held.",
+      "searchLane": "Provincial and municipal civil-military reports; 81.cn unit coverage"
+    },
+    {
+      "id": "POS-GA-79-CDR",
+      "tier": "group_armies",
+      "organization": "79th Group Army",
+      "organizationZh": "第79集团军",
+      "position": "Commander",
+      "positionZh": "军长",
+      "gradeBand": "Corps-leader grade",
+      "seats": 1,
+      "holderIds": [],
+      "handlerIds": [],
+      "adverseIds": [],
+      "externalHolder": null,
+      "note": "No public record held.",
+      "searchLane": "Provincial and municipal civil-military reports; 81.cn unit coverage"
+    },
+    {
+      "id": "POS-GA-79-PC",
+      "tier": "group_armies",
+      "organization": "79th Group Army",
+      "organizationZh": "第79集团军",
+      "position": "Political commissar",
+      "positionZh": "政治委员",
+      "gradeBand": "Corps-leader grade",
+      "seats": 1,
+      "holderIds": [],
+      "handlerIds": [],
+      "adverseIds": [],
+      "externalHolder": null,
+      "note": "No public record held.",
+      "searchLane": "Provincial and municipal civil-military reports; 81.cn unit coverage"
+    },
+    {
+      "id": "POS-GA-80-CDR",
+      "tier": "group_armies",
+      "organization": "80th Group Army",
+      "organizationZh": "第80集团军",
+      "position": "Commander",
+      "positionZh": "军长",
+      "gradeBand": "Corps-leader grade",
+      "seats": 1,
+      "holderIds": [
+        "PLA-277EF6200E1F"
+      ],
+      "handlerIds": [],
+      "adverseIds": [],
+      "externalHolder": null,
+      "note": "",
+      "searchLane": "Provincial and municipal civil-military reports; 81.cn unit coverage"
+    },
+    {
+      "id": "POS-GA-80-PC",
+      "tier": "group_armies",
+      "organization": "80th Group Army",
+      "organizationZh": "第80集团军",
+      "position": "Political commissar",
+      "positionZh": "政治委员",
+      "gradeBand": "Corps-leader grade",
+      "seats": 1,
+      "holderIds": [],
+      "handlerIds": [],
+      "adverseIds": [],
+      "externalHolder": null,
+      "note": "No public record held.",
+      "searchLane": "Provincial and municipal civil-military reports; 81.cn unit coverage"
+    },
+    {
+      "id": "POS-GA-81-CDR",
+      "tier": "group_armies",
+      "organization": "81th Group Army",
+      "organizationZh": "第81集团军",
+      "position": "Commander",
+      "positionZh": "军长",
+      "gradeBand": "Corps-leader grade",
+      "seats": 1,
+      "holderIds": [],
+      "handlerIds": [],
+      "adverseIds": [],
+      "externalHolder": null,
+      "note": "No public record held.",
+      "searchLane": "Provincial and municipal civil-military reports; 81.cn unit coverage"
+    },
+    {
+      "id": "POS-GA-81-PC",
+      "tier": "group_armies",
+      "organization": "81th Group Army",
+      "organizationZh": "第81集团军",
+      "position": "Political commissar",
+      "positionZh": "政治委员",
+      "gradeBand": "Corps-leader grade",
+      "seats": 1,
+      "holderIds": [
+        "PLA-8A245F186FFD"
+      ],
+      "handlerIds": [],
+      "adverseIds": [],
+      "externalHolder": null,
+      "note": "",
+      "searchLane": "Provincial and municipal civil-military reports; 81.cn unit coverage"
+    },
+    {
+      "id": "POS-GA-82-CDR",
+      "tier": "group_armies",
+      "organization": "82th Group Army",
+      "organizationZh": "第82集团军",
+      "position": "Commander",
+      "positionZh": "军长",
+      "gradeBand": "Corps-leader grade",
+      "seats": 1,
+      "holderIds": [
+        "PLA-0126A32C400C"
+      ],
+      "handlerIds": [],
+      "adverseIds": [],
+      "externalHolder": null,
+      "note": "",
+      "searchLane": "Provincial and municipal civil-military reports; 81.cn unit coverage"
+    },
+    {
+      "id": "POS-GA-82-PC",
+      "tier": "group_armies",
+      "organization": "82th Group Army",
+      "organizationZh": "第82集团军",
+      "position": "Political commissar",
+      "positionZh": "政治委员",
+      "gradeBand": "Corps-leader grade",
+      "seats": 1,
+      "holderIds": [
+        "PLA-23D72D94C1D2"
+      ],
+      "handlerIds": [],
+      "adverseIds": [],
+      "externalHolder": null,
+      "note": "",
+      "searchLane": "Provincial and municipal civil-military reports; 81.cn unit coverage"
+    },
+    {
+      "id": "POS-GA-83-CDR",
+      "tier": "group_armies",
+      "organization": "83th Group Army",
+      "organizationZh": "第83集团军",
+      "position": "Commander",
+      "positionZh": "军长",
+      "gradeBand": "Corps-leader grade",
+      "seats": 1,
+      "holderIds": [],
+      "handlerIds": [],
+      "adverseIds": [],
+      "externalHolder": null,
+      "note": "No public record held.",
+      "searchLane": "Provincial and municipal civil-military reports; 81.cn unit coverage"
+    },
+    {
+      "id": "POS-GA-83-PC",
+      "tier": "group_armies",
+      "organization": "83th Group Army",
+      "organizationZh": "第83集团军",
+      "position": "Political commissar",
+      "positionZh": "政治委员",
+      "gradeBand": "Corps-leader grade",
+      "seats": 1,
+      "holderIds": [
+        "PLA-C7B3B065888C"
+      ],
+      "handlerIds": [],
+      "adverseIds": [],
+      "externalHolder": null,
+      "note": "",
+      "searchLane": "Provincial and municipal civil-military reports; 81.cn unit coverage"
+    },
+    {
+      "id": "POS-AC-NDU-PRES",
+      "tier": "academies",
+      "organization": "National Defense University",
+      "organizationZh": "国防大学",
+      "position": "President",
+      "positionZh": "校长",
+      "gradeBand": "Theater-deputy grade",
+      "seats": 1,
+      "holderIds": [],
+      "handlerIds": [],
+      "adverseIds": [],
+      "externalHolder": null,
+      "note": "No public record held.",
+      "searchLane": "NDU website; Xinhua"
+    },
+    {
+      "id": "POS-AC-NDU-PC",
+      "tier": "academies",
+      "organization": "National Defense University",
+      "organizationZh": "国防大学",
+      "position": "Political commissar",
+      "positionZh": "政治委员",
+      "gradeBand": "Theater-deputy grade",
+      "seats": 1,
+      "holderIds": [
+        "PLA-2B8F9CF122FA"
+      ],
+      "handlerIds": [],
+      "adverseIds": [],
+      "externalHolder": null,
+      "note": "",
+      "searchLane": ""
+    },
+    {
+      "id": "POS-AC-AMS-PRES",
+      "tier": "academies",
+      "organization": "Academy of Military Science",
+      "organizationZh": "军事科学院",
+      "position": "President",
+      "positionZh": "院长",
+      "gradeBand": "Theater-deputy grade",
+      "seats": 1,
+      "holderIds": [],
+      "handlerIds": [],
+      "adverseIds": [],
+      "externalHolder": null,
+      "note": "No public record held.",
+      "searchLane": "AMS website; Xinhua"
+    },
+    {
+      "id": "POS-AC-AMS-PC",
+      "tier": "academies",
+      "organization": "Academy of Military Science",
+      "organizationZh": "军事科学院",
+      "position": "Political commissar",
+      "positionZh": "政治委员",
+      "gradeBand": "Theater-deputy grade",
+      "seats": 1,
+      "holderIds": [],
+      "handlerIds": [],
+      "adverseIds": [],
+      "externalHolder": null,
+      "note": "No public record held; Zhang Tianbao was observed as deputy PC in November 2025.",
+      "searchLane": "AMS website; Xinhua"
+    },
+    {
+      "id": "POS-AC-NUDT-PRES",
+      "tier": "academies",
+      "organization": "National University of Defense Technology",
+      "organizationZh": "国防科技大学",
+      "position": "President",
+      "positionZh": "校长",
+      "gradeBand": "Theater-deputy grade",
+      "seats": 1,
+      "holderIds": [
+        "PLA-70EC7D874314"
+      ],
+      "handlerIds": [],
+      "adverseIds": [],
+      "externalHolder": null,
+      "note": "",
+      "searchLane": ""
+    },
+    {
+      "id": "POS-AC-NUDT-PC",
+      "tier": "academies",
+      "organization": "National University of Defense Technology",
+      "organizationZh": "国防科技大学",
+      "position": "Political commissar",
+      "positionZh": "政治委员",
+      "gradeBand": "Theater-deputy grade",
+      "seats": 1,
+      "holderIds": [
+        "PLA-7951D8B25756"
+      ],
+      "handlerIds": [],
+      "adverseIds": [],
+      "externalHolder": null,
+      "note": "",
+      "searchLane": ""
+    },
+    {
+      "id": "POS-AC-NUDT-DEP",
+      "tier": "academies",
+      "organization": "National University of Defense Technology",
+      "organizationZh": "国防科技大学",
+      "position": "Vice presidents and department directors (bench)",
+      "positionZh": "副校长 / 部长",
+      "gradeBand": "Corps grade",
+      "seats": 0,
+      "holderIds": [
+        "PLA-B28F217E1D85",
+        "PLA-50148812E57F",
+        "PLA-01A7096C3063",
+        "PLA-F6A320D79E69"
+      ],
+      "handlerIds": [],
+      "adverseIds": [],
+      "externalHolder": null,
+      "note": "",
+      "searchLane": ""
+    },
+    {
+      "id": "POS-AC-SERVICE",
+      "tier": "academies",
+      "organization": "Service universities and academies",
+      "organizationZh": "军种院校",
+      "position": "Presidents and political commissars (bench)",
+      "positionZh": "校长 / 政治委员",
+      "gradeBand": "Corps grade",
+      "seats": 0,
+      "holderIds": [
+        "PLA-2DE79A357BC0",
+        "PLA-BC6028E241ED",
+        "PLA-79BEBDEED3E5",
+        "PLA-DD80CA09CB95",
+        "PLA-643A158DC96B",
+        "PLA-C058BD080EC1",
+        "PLA-9B6F1B05017B",
+        "PLA-636E08C2A4F1",
+        "PLA-96F1DAAB6BA9",
+        "PLA-9C94FDD2DBB2",
+        "PLA-65BFA55FDC8F",
+        "PLA-3C604F7A4F94",
+        "PLA-473FB74C16B7",
+        "PLA-7464689B2559",
+        "PLA-735C442E8248"
+      ],
+      "handlerIds": [],
+      "adverseIds": [],
+      "externalHolder": null,
+      "note": "Institution-owned title observations for the Air Force, Army, Navy, Cyberspace, Information Support and Joint Logistic universities.",
+      "searchLane": ""
+    },
+    {
+      "id": "POS-SVC-NAVY-MC-CDR",
+      "tier": "services",
+      "organization": "PLA Navy Marine Corps",
+      "organizationZh": "海军陆战队",
+      "position": "Commander",
+      "positionZh": "司令员",
+      "gradeBand": "Corps-leader grade",
+      "seats": 1,
+      "holderIds": [],
+      "handlerIds": [],
+      "adverseIds": [],
+      "externalHolder": null,
+      "note": "No public record held.",
+      "searchLane": "Navy and Marine Corps event reports naming 海军陆战队司令员"
+    },
+    {
+      "id": "POS-SVC-NAVY-MC-PC",
+      "tier": "services",
+      "organization": "PLA Navy Marine Corps",
+      "organizationZh": "海军陆战队",
+      "position": "Political commissar",
+      "positionZh": "政治委员",
+      "gradeBand": "Corps-leader grade",
+      "seats": 1,
+      "holderIds": [],
+      "handlerIds": [],
+      "adverseIds": [],
+      "externalHolder": null,
+      "note": "No public record held.",
+      "searchLane": "Navy and Marine Corps event reports naming 海军陆战队政治委员"
+    },
+    {
+      "id": "POS-SVC-NAVY-MC-DEP",
+      "tier": "services",
+      "organization": "PLA Navy Marine Corps",
+      "organizationZh": "海军陆战队",
+      "position": "Political-work and discipline leaders (bench)",
+      "positionZh": "政治工作部主任 / 副政治委员",
+      "gradeBand": "Corps-deputy grade",
+      "seats": 0,
+      "holderIds": [
+        "PLA-BCCA1B1E75AF",
+        "PLA-1DA7C83DA6C0"
+      ],
+      "handlerIds": [],
+      "adverseIds": [],
+      "externalHolder": null,
+      "note": "Both are legacy records.",
+      "searchLane": ""
+    },
+    {
+      "id": "POS-SVC-NAVY-CARRIER",
+      "tier": "services",
+      "organization": "PLA Navy carrier formations and carriers",
+      "organizationZh": "海军航母编队 / 航空母舰",
+      "position": "Formation and ship principals (bench)",
+      "positionZh": "编队指挥员 / 舰长 / 政治委员",
+      "gradeBand": "Formation and ship level",
+      "seats": 0,
+      "holderIds": [
+        "PLA-1DFB35D3AC3A",
+        "PLA-CC5B1A9F9877",
+        "PLA-055386334E63",
+        "PLA-ADEF1197CAC0",
+        "PLA-7A183A7A3CB9"
+      ],
+      "handlerIds": [],
+      "adverseIds": [],
+      "externalHolder": null,
+      "note": "Formation and ship command; below the principal ladder but the most visible naval feeder lane.",
+      "searchLane": ""
+    },
+    {
+      "id": "POS-MND-INFO",
+      "tier": "cmc",
+      "organization": "Ministry of National Defense Information Bureau",
+      "organizationZh": "国防部新闻局",
+      "position": "Deputy directors and spokesmen (bench)",
+      "positionZh": "副局长 / 新闻发言人",
+      "gradeBand": "Bureau level",
+      "seats": 0,
+      "holderIds": [
+        "PLA-46E2FDCB5DF6",
+        "PLA-3A0FA31C3106"
+      ],
+      "handlerIds": [],
+      "adverseIds": [],
+      "externalHolder": null,
+      "note": "Spokesmen are visible but are not on a command ladder.",
+      "searchLane": ""
+    },
+    {
+      "id": "POS-MND-ATTACHE",
+      "tier": "cmc",
+      "organization": "Defense attaché posts",
+      "organizationZh": "驻外武官",
+      "position": "Attachés (bench)",
+      "positionZh": "武官",
+      "gradeBand": "Bureau level",
+      "seats": 0,
+      "holderIds": [
+        "PLA-AA9B8203C09D"
+      ],
+      "handlerIds": [],
+      "adverseIds": [],
+      "externalHolder": null,
+      "note": "Reported posting; not a command position.",
+      "searchLane": ""
+    }
+  ],
+  "unmappedOfficers": [
+    {
+      "officerId": "PLA-557579BCD9C3",
+      "nameEn": "Fu Dalin",
+      "reason": "academic_or_research",
+      "note": "Professor at an NDU college; not a leadership position."
+    },
+    {
+      "officerId": "PLA-717FD80C1D58",
+      "nameEn": "Hao Jingwen",
+      "reason": "billet_unknown",
+      "note": "No defensible current billet."
+    },
+    {
+      "officerId": "PLA-52A639E3B03C",
+      "nameEn": "He Yuanzhi",
+      "reason": "academic_or_research",
+      "note": "Chief expert and academician inside an ISF institute; technical authority, not a command position."
+    },
+    {
+      "officerId": "PLA-39C6BE655AAA",
+      "nameEn": "Jiang Jiaji",
+      "reason": "billet_unknown",
+      "note": "Stale air-base staff title; no current billet."
+    },
+    {
+      "officerId": "PLA-945D0FA949BF",
+      "nameEn": "Li Jinwei",
+      "reason": "platform_or_unit_level",
+      "note": "Destroyer captain; below the archetype."
+    },
+    {
+      "officerId": "PLA-D3859037869B",
+      "nameEn": "Liu Rongfu",
+      "reason": "billet_unknown",
+      "note": "Former academy commandant; current role unknown."
+    },
+    {
+      "officerId": "PLA-0796FAA899E7",
+      "nameEn": "Liu Rui",
+      "reason": "billet_unknown",
+      "note": "No defensible current billet."
+    },
+    {
+      "officerId": "PLA-55BFF067A2AA",
+      "nameEn": "Man Guangzhi",
+      "reason": "billet_unknown",
+      "note": "Historical official profile only."
+    },
+    {
+      "officerId": "PLA-52BB3E27B830",
+      "nameEn": "Sun Baosong",
+      "reason": "platform_or_unit_level",
+      "note": "Carrier flight test/training base; last confirmed title is stale."
+    },
+    {
+      "officerId": "PLA-716E32CF49E2",
+      "nameEn": "Tian Xiaowei",
+      "reason": "transfer_destination_undisclosed",
+      "note": "Transferred out of the Sichuan Military District by January 2026; destination not disclosed, so no position can be assigned without inventing one."
+    },
+    {
+      "officerId": "PLA-0EB13F055076",
+      "nameEn": "Wang Chao",
+      "reason": "academic_or_research",
+      "note": "Senior engineer in a theater unit."
+    },
+    {
+      "officerId": "PLA-7E5E97D795FB",
+      "nameEn": "Wei Huixiao",
+      "reason": "billet_unknown",
+      "note": "Decorated surface officer; current billet unreported."
+    },
+    {
+      "officerId": "PLA-CA76826DFAAD",
+      "nameEn": "Xiao Fei",
+      "reason": "academic_or_research",
+      "note": "Research leader; exact office and grade not public."
+    },
+    {
+      "officerId": "PLA-205D1652F5ED",
+      "nameEn": "Xu Ying",
+      "reason": "billet_unknown",
+      "note": "Carrier aviation and ship-command track; current billet undisclosed."
+    },
+    {
+      "officerId": "PLA-37897660E919",
+      "nameEn": "Yao Haizhong",
+      "reason": "academic_or_research",
+      "note": "Test-flight establishment technical leader; exact billet unverified."
+    },
+    {
+      "officerId": "PLA-6185A59D31D0",
+      "nameEn": "Zhang Meiyu",
+      "reason": "platform_or_unit_level",
+      "note": "Destroyer commanding officer; below the archetype."
+    },
+    {
+      "officerId": "PLA-BF43DD3084DC",
+      "nameEn": "Zhang Pingyi",
+      "reason": "platform_or_unit_level",
+      "note": "Destroyer captain; stale."
+    },
+    {
+      "officerId": "PLA-46E9078B4DAD",
+      "nameEn": "Zhou Hongchao",
+      "reason": "academic_or_research",
+      "note": "Rocket Force researcher."
+    },
+    {
+      "officerId": "PLA-877762113D8E",
+      "nameEn": "Zhou Yongkun",
+      "reason": "billet_unknown",
+      "note": "Last firmly confirmed as a brigade commander in 2021."
+    },
+    {
+      "officerId": "PLA-C5F8B032573F",
+      "nameEn": "Zhu Xiaoqian",
+      "reason": "duplicate_record",
+      "note": "Duplicate of PLA-636E08C2A4F1 (Zhu Xiaoqian, president of Army Engineering University); merged into an identity hold at build."
+    }
+  ],
+  "unmappedReasons": {
+    "platform_or_unit_level": "Ship, formation or base level; below the senior-position archetype",
+    "academic_or_research": "Technical, research or teaching post; not a command or political-work ladder",
+    "billet_unknown": "No defensible current billet in public sources",
+    "transfer_destination_undisclosed": "Known to have moved; destination not published",
+    "duplicate_record": "Two stable IDs for one person; merged at build"
+  }
+}

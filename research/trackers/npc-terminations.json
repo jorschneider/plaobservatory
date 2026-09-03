@@ -1,0 +1,527 @@
+{
+  "sessions": [
+    {
+      "date": "2023-09-01",
+      "sessionZh": "第十四届全国人民代表大会常务委员会第五次会议（全国人民代表大会常务委员会公告〔十四届〕第一号）",
+      "url": "http://www.mod.gov.cn/gfbw/qwfb/yw_214049/16249543.html",
+      "publisher": "新华社 (国防部网 reprint)",
+      "verification": "page_fetched_and_confirmed",
+      "terminated": [],
+      "note": "First 公告 of the 14th NPC. Terminations were civilian only (董云虎 上海, 钟阳 贵州; 姜凯丽, 张鸿星 deceased). 实有代表 2974. No military deputy terminated. No 公告 was issued at the 2nd, 3rd, 4th or 6th sessions (Apr, Jun, Aug, Oct 2023): the 公告 series is contiguous 第一号–第十九号 and the deputy count runs 2977→2974 here, so no military seat ended before 2023-12-29."
+    },
+    {
+      "date": "2023-12-29",
+      "sessionZh": "第十四届全国人民代表大会常务委员会第七次会议（全国人民代表大会常务委员会公告〔十四届〕第二号）",
+      "url": "https://www.news.cn/politics/20231229/008dddc4119c42c48e7046cf1ca191bc/c.html",
+      "publisher": "新华社/新华网",
+      "verification": "page_fetched_and_confirmed",
+      "terminated": [
+        {
+          "nameZh": "张振中",
+          "nameEn": "Zhang Zhenzhong",
+          "electionUnitZh": "中央军委联合参谋部",
+          "actionZh": "罢免",
+          "statedReasonZh": "因涉嫌严重违纪违法"
+        },
+        {
+          "nameZh": "张育林",
+          "nameEn": "Zhang Yulin",
+          "electionUnitZh": "中央军委装备发展部",
+          "actionZh": "罢免",
+          "statedReasonZh": "因涉嫌严重违纪违法"
+        },
+        {
+          "nameZh": "饶文敏",
+          "nameEn": "Rao Wenmin",
+          "electionUnitZh": "中央军委装备发展部",
+          "actionZh": "罢免",
+          "statedReasonZh": "因涉嫌严重违纪违法"
+        },
+        {
+          "nameZh": "鞠新春",
+          "nameEn": "Ju Xinchun",
+          "electionUnitZh": "海军",
+          "actionZh": "罢免",
+          "statedReasonZh": "因涉嫌严重违纪违法"
+        },
+        {
+          "nameZh": "丁来杭",
+          "nameEn": "Ding Laihang",
+          "electionUnitZh": "空军",
+          "actionZh": "罢免",
+          "statedReasonZh": "因涉嫌严重违纪违法"
+        },
+        {
+          "nameZh": "吕宏",
+          "nameEn": "Lu Hong",
+          "electionUnitZh": "火箭军",
+          "actionZh": "罢免",
+          "statedReasonZh": "因涉嫌严重违纪违法"
+        },
+        {
+          "nameZh": "李玉超",
+          "nameEn": "Li Yuchao",
+          "electionUnitZh": "火箭军",
+          "actionZh": "罢免",
+          "statedReasonZh": "因涉嫌严重违纪违法"
+        },
+        {
+          "nameZh": "李传广",
+          "nameEn": "Li Chuanguang",
+          "electionUnitZh": "火箭军",
+          "actionZh": "罢免",
+          "statedReasonZh": "因涉嫌严重违纪违法"
+        },
+        {
+          "nameZh": "周亚宁",
+          "nameEn": "Zhou Yaning",
+          "electionUnitZh": "火箭军",
+          "actionZh": "罢免",
+          "statedReasonZh": "因涉嫌严重违纪违法"
+        }
+      ],
+      "note": "公告 also cancels 张育林 财政经济委员会委员; 丁来杭 常委会委员、华侨委员会副主任委员; 周亚宁 常委会委员、外事委员会副主任委员. 实有代表 2966. Reason text and titles come from the 代表资格审查委员会报告 (2023-12-29 第七次会议通过), read via Wikisource transcription https://zh.wikisource.org/zh-hans/第十四届全国人民代表大会常务委员会代表资格审查委员会关于个别代表的代表资格的报告 : 张振中 中央军委联合参谋部原副参谋长 (联合参谋部军人代表大会 2023-07-07); 张育林 全国人大财政经济委员会委员、中央军委装备发展部原副部长 and 饶文敏 装备发展部原副部长 (2023-11-28); 鞠新春 南部战区原副司令员兼南部战区海军司令员 (海军 2023-11-27); 丁来杭 空军原司令员 (空军 2023-12-04); 吕宏 火箭军装备部原部长, 李玉超 火箭军原司令员, 周亚宁 火箭军原司令员 (火箭军 2023-09-26); 李传广 火箭军原副司令员 (火箭军 2023-12-05). Same 公告 text also confirmed at http://www.npc.gov.cn/npc/c2/kgfb/202312/t20231229_433992.html and https://www.12371.cn/2023/12/29/ARTI1703854773728266.shtml."
+    },
+    {
+      "date": "2024-02-27",
+      "sessionZh": "第十四届全国人民代表大会常务委员会第八次会议（全国人民代表大会常务委员会公告〔十四届〕第三号）",
+      "url": "https://www.news.cn/politics/20240227/03feb31c9ac54eaf92e4a5544933dae6/c.html",
+      "publisher": "新华社/新华网",
+      "verification": "page_fetched_and_confirmed",
+      "terminated": [
+        {
+          "nameZh": "李志忠",
+          "nameEn": "Li Zhizhong",
+          "electionUnitZh": "陆军",
+          "actionZh": "罢免",
+          "statedReasonZh": "因涉嫌严重违纪违法"
+        }
+      ],
+      "note": "11 deputies terminated in total (civilian 罢免: 王一新, 孙飚, 胡建文, 雷冬竹, 朱宏, 安九熊; 辞职 accepted: 黄家武, 秦刚, 冯杰鸿, 陆伟伟). 实有代表 2956. 报告 (Wikisource transcription): 中部战区原副司令员李志忠, 陆军军人代表大会 2024-01-22. Full 公告 text also read at https://m.mp.oeeee.com/a/BAAFRD000020240227914706.html."
+    },
+    {
+      "date": "2024-04-26",
+      "sessionZh": "第十四届全国人民代表大会常务委员会第九次会议（全国人民代表大会常务委员会公告〔十四届〕第四号）",
+      "url": "https://m.gmw.cn/2024-04/27/content_1303723650.htm",
+      "publisher": "新华社 (光明网/上观 reprint)",
+      "verification": "page_fetched_and_confirmed",
+      "terminated": [],
+      "note": "Civilian only: 韩树旺 河北, 徐诺金 河南, 古正举 四川, 杨晓明 西藏 罢免; 郝旭 deceased. 实有代表 2951. No military deputy."
+    },
+    {
+      "date": "2024-06-28",
+      "sessionZh": "第十四届全国人民代表大会常务委员会第十次会议（全国人民代表大会常务委员会公告〔十四届〕第五号）",
+      "url": "https://labor.pkulaw.cn/docbook/chl/5195910.html",
+      "publisher": "全国人大常委会 (北大法宝 reprint, with 报告)",
+      "verification": "page_fetched_and_confirmed",
+      "terminated": [],
+      "note": "Civilian only: 李钺锋 福建, 王善平 四川. 实有代表 2949. No military deputy. (The 2024-06-27 Politburo expulsions of 李尚福 and 魏凤和 are Party actions, not NPC seat terminations: https://www.news.cn/politics/20240627/112b13a716af4c68af5f9af568532d84/c.html and .../05994521863f4f89979be5f99e445845/c.html.)"
+    },
+    {
+      "date": "2024-09-13",
+      "sessionZh": "第十四届全国人民代表大会常务委员会第十一次会议（全国人民代表大会常务委员会公告〔十四届〕第六号）",
+      "url": "https://m.12371.gov.cn/content/2024-09/13/content_472927.html",
+      "publisher": "新华社 (七一网 reprint)",
+      "verification": "page_fetched_and_confirmed",
+      "terminated": [
+        {
+          "nameZh": "李尚福",
+          "nameEn": "Li Shangfu",
+          "electionUnitZh": "中央军委办公厅",
+          "actionZh": "罢免",
+          "statedReasonZh": "因涉嫌严重违纪违法"
+        },
+        {
+          "nameZh": "邓志平",
+          "nameEn": "Deng Zhiping",
+          "electionUnitZh": "陆军",
+          "actionZh": "罢免",
+          "statedReasonZh": "因涉嫌严重违纪违法"
+        }
+      ],
+      "note": "实有代表 2944. Civilian: 徐佐 河北, 田成 贵州 罢免; 徐鸿 江西 辞职. 报告 (2024-09-13 第十一次会议通过, 中国人大网 text via https://hqtime.huanqiu.com/article/4JQtTwTH3VZ, page fetched): 李尚福 — 中央军委办公厅召开军人代表大会 2024-07-11; 陆军原副司令员邓志平 — 陆军军人代表大会 2024-06-06; both 因涉嫌严重违纪违法."
+    },
+    {
+      "date": "2024-11-08",
+      "sessionZh": "第十四届全国人民代表大会常务委员会第十二次会议（全国人民代表大会常务委员会公告〔十四届〕第七号）",
+      "url": "https://labor.pkulaw.com/docbook/chl/5234290.html",
+      "publisher": "全国人大常委会 (北大法宝 reprint, with 报告)",
+      "verification": "page_fetched_and_confirmed",
+      "terminated": [],
+      "note": "Civilian only: 车照启 安徽, 王天宇, 裴春亮 河南; 严立淼, 刘文杰 deceased. 实有代表 2939. No military deputy."
+    },
+    {
+      "date": "2024-12-25",
+      "sessionZh": "第十四届全国人民代表大会常务委员会第十三次会议（全国人民代表大会常务委员会公告〔十四届〕第八号）",
+      "url": "http://www.npc.gov.cn/npc/c2/c30834/202412/t20241225_442025.html",
+      "publisher": "中国人大网 (also people.com.cn reprint of 新华社)",
+      "verification": "page_fetched_and_confirmed",
+      "terminated": [
+        {
+          "nameZh": "尤海涛",
+          "nameEn": "You Haitao",
+          "electionUnitZh": "陆军",
+          "actionZh": "罢免",
+          "statedReasonZh": "因涉嫌严重违纪违法"
+        },
+        {
+          "nameZh": "李鹏程",
+          "nameEn": "Li Pengcheng",
+          "electionUnitZh": "海军",
+          "actionZh": "罢免",
+          "statedReasonZh": "因涉嫌严重违纪违法"
+        }
+      ],
+      "note": "实有代表 2931; 尤海涛 农业与农村委员会委员职务撤销. Civilian: 魏新刚, 吉建军, 庞国明, 盛文军, 李楚源, 马宁宇. 报告 (2024-12-25 第十三次会议通过, 中国人大网 text via https://china.huanqiu.com/article/4Knt5SN0cV7, page fetched): 全国人大农业与农村委员会委员、陆军原副司令员尤海涛 — 陆军军人代表大会 2024-11-29; 南部战区原副司令员兼南部战区海军司令员李鹏程 — 海军军人代表大会 2024-11-25. Same 公告 also read at http://politics.people.com.cn/n1/2024/1225/c1001-40389464.html."
+    },
+    {
+      "date": "2025-02-25",
+      "sessionZh": "第十四届全国人民代表大会常务委员会第十四次会议（全国人民代表大会常务委员会公告〔十四届〕第九号）",
+      "url": "https://app.xinhuanet.com/news/article.html?articleId=5305a77786a42d4a1521269277b4ce16",
+      "publisher": "新华社/新华网客户端",
+      "verification": "page_fetched_and_confirmed",
+      "terminated": [],
+      "note": "Civilian only: 赵亮 天津, 周志红 湖北, 邹联克 贵州 罢免; 刘继国, 张志祥 辞职. 实有代表 2929. No military deputy."
+    },
+    {
+      "date": "2025-04-30",
+      "sessionZh": "第十四届全国人民代表大会常务委员会第十五次会议（全国人民代表大会常务委员会公告〔十四届〕第十号）",
+      "url": "https://app.xinhuanet.com/news/article.html?articleId=612a96489cb5ee8448e4df3e110e0c3b",
+      "publisher": "新华社/新华网客户端",
+      "verification": "page_fetched_and_confirmed",
+      "terminated": [
+        {
+          "nameZh": "苗华",
+          "nameEn": "Miao Hua",
+          "electionUnitZh": "中央军委政治工作部",
+          "actionZh": "罢免",
+          "statedReasonZh": "因涉嫌严重违纪违法"
+        }
+      ],
+      "note": "实有代表 2925. Civilian: 蒋超良 湖北, 丁雄军 贵州 罢免; 刘化文 吉林 辞职. 报告 (2025-04-30 第十五次会议通过, Wikisource transcription): 苗华 — 中央军委政治工作部召开军人代表大会 2025-03-14, 因涉嫌严重违纪违法. Note: his NPC seat ended here, two months before his state-CMC removal on 2025-06-27."
+    },
+    {
+      "date": "2025-06-27",
+      "sessionZh": "第十四届全国人民代表大会常务委员会第十六次会议（全国人民代表大会常务委员会公告〔十四届〕第十一号）",
+      "url": "http://politics.people.com.cn/n1/2025/0627/c1001-40510459.html",
+      "publisher": "新华社 (人民网 reprint)",
+      "verification": "page_fetched_and_confirmed",
+      "terminated": [
+        {
+          "nameZh": "李汉军",
+          "nameEn": "Li Hanjun",
+          "electionUnitZh": "海军",
+          "actionZh": "罢免",
+          "statedReasonZh": "因涉嫌严重违纪违法"
+        }
+      ],
+      "note": "实有代表 2917. Civilian: 金湘军, 陆文俊, 龙翔, 王雄昌, 蓝天立, 刘佳晨, 刘士鹏. 报告 (Wikisource transcription): 海军原参谋长李汉军 — 海军军人代表大会 2025-05-06. Same session also removed 苗华 from the state CMC (repo cites https://www.mod.gov.cn/gfbw/qwfb/16354907.html; not re-fetched in this lane)."
+    },
+    {
+      "date": "2025-09-12",
+      "sessionZh": "第十四届全国人民代表大会常务委员会第十七次会议（全国人民代表大会常务委员会公告〔十四届〕第十二号）",
+      "url": "http://www.xinhuanet.com/politics/20250912/423e6f5d55474eeb9bf5b41410b3aecd/c.html",
+      "publisher": "新华社/新华网",
+      "verification": "page_fetched_and_confirmed",
+      "terminated": [
+        {
+          "nameZh": "张林",
+          "nameEn": "Zhang Lin",
+          "electionUnitZh": "中央军委后勤保障部",
+          "actionZh": "罢免",
+          "statedReasonZh": "因涉嫌严重违纪违法"
+        },
+        {
+          "nameZh": "高大光",
+          "nameEn": "Gao Daguang",
+          "electionUnitZh": "中央军委后勤保障部",
+          "actionZh": "罢免",
+          "statedReasonZh": "因涉嫌严重违纪违法"
+        },
+        {
+          "nameZh": "汪志斌",
+          "nameEn": "Wang Zhibin",
+          "electionUnitZh": "陆军",
+          "actionZh": "罢免",
+          "statedReasonZh": "因涉嫌严重违纪违法"
+        },
+        {
+          "nameZh": "王春宁",
+          "nameEn": "Wang Chunning",
+          "electionUnitZh": "武警部队",
+          "actionZh": "罢免",
+          "statedReasonZh": "因涉嫌严重违纪违法"
+        }
+      ],
+      "note": "实有代表 2910. Civilian: 王莉霞, 王斌, 王启荣, 牛超, 倪强. 报告 (Wikisource transcription): 中央军委后勤保障部原部长张林, 联勤保障部队原政治委员高大光 — 后勤保障部军人代表大会 2025-07-21; 火箭军纪律检查委员会原书记、监察委员会原主任汪志斌 — 陆军军人代表大会 2025-07-18; 武警部队原司令员王春宁 — 武警部队军人代表大会 2025-07-25. Same 公告 also read at http://www.npc.gov.cn/npc/c2/c30834/202509/t20250912_447741.html."
+    },
+    {
+      "date": "2025-10-28",
+      "sessionZh": "第十四届全国人民代表大会常务委员会第十八次会议（全国人民代表大会常务委员会公告〔十四届〕第十三号）",
+      "url": "https://cpc.people.com.cn/n1/2025/1029/c64387-40591859.html",
+      "publisher": "人民日报/人民网 (新华社 text)",
+      "verification": "page_fetched_and_confirmed",
+      "terminated": [
+        {
+          "nameZh": "孙斌",
+          "nameEn": "Sun Bin",
+          "electionUnitZh": "中央军委办公厅",
+          "actionZh": "罢免",
+          "statedReasonZh": "因涉嫌严重违纪违法"
+        },
+        {
+          "nameZh": "袁华智",
+          "nameEn": "Yuan Huazhi",
+          "electionUnitZh": "海军",
+          "actionZh": "罢免",
+          "statedReasonZh": "因涉嫌严重违纪违法"
+        }
+      ],
+      "note": "实有代表 2904. Civilian: 许达哲, 何琼妹, 杨三可 罢免; 王希勤, 王心宇 辞职. 报告 (Wikisource transcription): 中央军委审计署原审计长孙斌 — 中央军委办公厅军人代表大会 2025-09-16; 海军原政治委员袁华智 — 海军军人代表大会 2025-09-15. Same 公告 also read at https://www.rmzxw.com.cn/c/2025-10-28/3808704.shtml."
+    },
+    {
+      "date": "2025-12-27",
+      "sessionZh": "第十四届全国人民代表大会常务委员会第十九次会议（全国人民代表大会常务委员会公告〔十四届〕第十四号）",
+      "url": "https://cpc.people.com.cn/n1/2025/1228/c64387-40633790.html",
+      "publisher": "人民日报/人民网 (新华社 text)",
+      "verification": "page_fetched_and_confirmed",
+      "terminated": [
+        {
+          "nameZh": "何卫东",
+          "nameEn": "He Weidong",
+          "electionUnitZh": "中央军委办公厅",
+          "actionZh": "罢免",
+          "statedReasonZh": "因涉嫌严重违纪违法"
+        },
+        {
+          "nameZh": "何宏军",
+          "nameEn": "He Hongjun",
+          "electionUnitZh": "中央军委政治工作部",
+          "actionZh": "罢免",
+          "statedReasonZh": "因涉嫌严重违纪违法"
+        },
+        {
+          "nameZh": "王鹏",
+          "nameEn": "Wang Peng",
+          "electionUnitZh": "中央军委训练管理部",
+          "actionZh": "罢免",
+          "statedReasonZh": "因涉嫌严重违纪违法"
+        },
+        {
+          "nameZh": "王仁华",
+          "nameEn": "Wang Renhua",
+          "electionUnitZh": "中央军委政法委员会",
+          "actionZh": "罢免",
+          "statedReasonZh": "因涉嫌严重违纪违法"
+        },
+        {
+          "nameZh": "张红兵",
+          "nameEn": "Zhang Hongbing",
+          "electionUnitZh": "武警部队",
+          "actionZh": "罢免",
+          "statedReasonZh": "因涉嫌严重违纪违法"
+        }
+      ],
+      "note": "实有代表 2900. Civilian: 谢正义 江苏, 乌兰 湖南, 金之镇 新疆. 报告 (Wikisource transcription): 中央军事委员会原副主席何卫东 — 中央军委办公厅军人代表大会 2025-11-10; 中央军委政治工作部原常务副主任何宏军 — 政治工作部军人代表大会 2025-11-13; 中央军委训练管理部原部长王鹏 — 训练管理部军人代表大会 2025-11-10; 中央军委政法委员会原书记王仁华 — 政法委军人代表大会 2025-11-10; 武警部队原政治委员张红兵 — 武警部队军人代表大会 2025-10-30. Same 公告 also read at https://www.bjnews.com.cn/detail/1766830341129529.html and https://www.guancha.cn/politics/2025_12_27_801880.shtml."
+    },
+    {
+      "date": "2026-02-04",
+      "sessionZh": "第十四届全国人民代表大会常务委员会第二十次会议（全国人民代表大会常务委员会公告〔十四届〕第十五号）",
+      "url": "https://www.news.cn/politics/20260204/e083fdd249354da8b33aae0c4ae1e567/c.html",
+      "publisher": "新华社/新华网",
+      "verification": "page_fetched_and_confirmed",
+      "terminated": [],
+      "note": "Civilian only: 周新民 上海, 罗琦 山东, 刘仓理 四川 (defence-industry figures but elected by provinces, not by the PLA/PAP unit). 实有代表 2897. No military deputy."
+    },
+    {
+      "date": "2026-02-26",
+      "sessionZh": "第十四届全国人民代表大会常务委员会第二十一次会议（全国人民代表大会常务委员会公告〔十四届〕第十六号）",
+      "url": "https://www.news.cn/20260226/822524cab582431f8208c1842bf49a66/c.html",
+      "publisher": "新华社/新华网",
+      "verification": "page_fetched_and_confirmed",
+      "terminated": [
+        {
+          "nameZh": "边瑞峰",
+          "nameEn": "Bian Ruifeng",
+          "electionUnitZh": "中央军委政治工作部",
+          "actionZh": "罢免",
+          "statedReasonZh": "涉嫌严重违纪违法"
+        },
+        {
+          "nameZh": "王东海",
+          "nameEn": "Wang Donghai",
+          "electionUnitZh": "中央军委国防动员部",
+          "actionZh": "罢免",
+          "statedReasonZh": "涉嫌严重违纪违法"
+        },
+        {
+          "nameZh": "李桥铭",
+          "nameEn": "Li Qiaoming",
+          "electionUnitZh": "陆军",
+          "actionZh": "罢免",
+          "statedReasonZh": "涉嫌严重违纪违法"
+        },
+        {
+          "nameZh": "丁来富",
+          "nameEn": "Ding Laifu",
+          "electionUnitZh": "陆军",
+          "actionZh": "罢免",
+          "statedReasonZh": "涉嫌严重违纪违法"
+        },
+        {
+          "nameZh": "沈金龙",
+          "nameEn": "Shen Jinlong",
+          "electionUnitZh": "海军",
+          "actionZh": "罢免",
+          "statedReasonZh": "涉嫌严重违纪违法"
+        },
+        {
+          "nameZh": "秦生祥",
+          "nameEn": "Qin Shengxiang",
+          "electionUnitZh": "海军",
+          "actionZh": "罢免",
+          "statedReasonZh": "涉嫌严重违纪违法"
+        },
+        {
+          "nameZh": "于忠福",
+          "nameEn": "Yu Zhongfu",
+          "electionUnitZh": "空军",
+          "actionZh": "罢免",
+          "statedReasonZh": "涉嫌严重违纪违法"
+        },
+        {
+          "nameZh": "杨光",
+          "nameEn": "Yang Guang",
+          "electionUnitZh": "火箭军",
+          "actionZh": "罢免",
+          "statedReasonZh": "涉嫌严重违纪违法"
+        },
+        {
+          "nameZh": "李伟",
+          "nameEn": "Li Wei",
+          "electionUnitZh": "信息支援部队",
+          "actionZh": "罢免",
+          "statedReasonZh": "涉嫌严重违纪违法"
+        }
+      ],
+      "note": "实有代表 2878. Also cancels 沈金龙 常委会委员、财政经济委员会副主任委员; 秦生祥 常委会委员、社会建设委员会副主任委员; 于忠福 常委会委员、环境与资源保护委员会副主任委员. Ten civilians also terminated (孙绍骋 et al.). 报告 (Wikisource transcription): 中央军委政治工作部原主任助理边瑞峰 (政治工作部 2026-01-23); 中央军委国防动员部原政治委员王东海 (国防动员部 2026-01-26); 陆军原司令员李桥铭, 73集团军原军长丁来富 (陆军 2026-01-19); 中央军委战略规划委员会原专职委员沈金龙, 海军原政治委员秦生祥 (海军 2026-01-13); 空军原政治委员于忠福 (空军 2025-12-22); 湖北省军区原正职副司令员杨光 (火箭军 2026-01-19); 信息支援部队原政治委员李伟 (信息支援部队 2026-01-09). Duplicate Xinhua URL with identical text: https://www.news.cn/politics/20260226/d679a70cddd945f1908e371b94c93c48/c.html; also 人民日报 2026-02-27 p.2."
+    },
+    {
+      "date": "2026-04-30",
+      "sessionZh": "第十四届全国人民代表大会常务委员会第二十二次会议（全国人民代表大会常务委员会公告〔十四届〕第十七号）",
+      "url": "https://www.news.cn/politics/20260430/46d9547d44444529a6943e84af621d2f/c.html",
+      "publisher": "新华社/新华网",
+      "verification": "page_fetched_and_confirmed",
+      "terminated": [],
+      "note": "Civilian only: 易炼红 浙江, 曾从钦, 戴学斌 四川, 卫岗 云南, 雷思维 甘肃. 实有代表 2873. No military deputy."
+    },
+    {
+      "date": "2026-06-26",
+      "sessionZh": "第十四届全国人民代表大会常务委员会第二十三次会议（全国人民代表大会常务委员会公告〔十四届〕第十八号）",
+      "url": "https://www.xinhuanet.com/politics/20260626/d5ebd6b6c0834c17b0918475b6402522/c.html",
+      "publisher": "新华社/新华网",
+      "verification": "page_fetched_and_confirmed",
+      "terminated": [
+        {
+          "nameZh": "许学强",
+          "nameEn": "Xu Xueqiang",
+          "electionUnitZh": "中央军委装备发展部",
+          "actionZh": "罢免",
+          "statedReasonZh": "涉嫌严重违纪违法"
+        },
+        {
+          "nameZh": "王抗平",
+          "nameEn": "Wang Kangping",
+          "electionUnitZh": "东部战区",
+          "actionZh": "罢免",
+          "statedReasonZh": "涉嫌严重违纪违法"
+        },
+        {
+          "nameZh": "李凤彪",
+          "nameEn": "Li Fengbiao",
+          "electionUnitZh": "西部战区",
+          "actionZh": "罢免",
+          "statedReasonZh": "涉嫌严重违纪违法"
+        },
+        {
+          "nameZh": "尹红星",
+          "nameEn": "Yin Hongxing",
+          "electionUnitZh": "陆军",
+          "actionZh": "罢免",
+          "statedReasonZh": "涉嫌严重违纪违法"
+        },
+        {
+          "nameZh": "郭普校",
+          "nameEn": "Guo Puxiao",
+          "electionUnitZh": "空军",
+          "actionZh": "罢免",
+          "statedReasonZh": "涉嫌严重违纪违法"
+        },
+        {
+          "nameZh": "张明华",
+          "nameEn": "Zhang Minghua",
+          "electionUnitZh": "网络空间部队",
+          "actionZh": "罢免",
+          "statedReasonZh": "涉嫌严重违纪违法"
+        }
+      ],
+      "note": "实有代表 2858. Civilian: 费高云, 郭永航, 胡衡华, 李云泽, 侯建国, 黄伟, 马兴瑞 罢免; 李兰祥 辞职; 张安疆 deceased. 报告 (2026-06-26 第二十三次会议通过, Wikisource transcription; the report prints no former titles for the six officers): 许学强 (中央军委装备发展部军人代表大会 2026-05-26); 王抗平 (东部战区 2026-05-29); 李凤彪 (西部战区 2026-05-27); 尹红星 (陆军 2026-05-31); 郭普校 (空军 2026-05-25); 张明华 (网络空间部队 2026-05-22)."
+    },
+    {
+      "date": "2026-08-28",
+      "sessionZh": "第十四届全国人民代表大会常务委员会第二十四次会议（全国人民代表大会常务委员会公告〔十四届〕第十九号）",
+      "url": "https://www.news.cn/politics/20260828/880e5ee1563549d99b82c901a20ab62f/c.html",
+      "publisher": "新华社/新华网",
+      "verification": "page_fetched_and_confirmed",
+      "terminated": [
+        {
+          "nameZh": "张又侠",
+          "nameEn": "Zhang Youxia",
+          "electionUnitZh": "中央军委办公厅",
+          "actionZh": "罢免",
+          "statedReasonZh": ""
+        },
+        {
+          "nameZh": "钟绍军",
+          "nameEn": "Zhong Shaojun",
+          "electionUnitZh": "中央军委办公厅",
+          "actionZh": "罢免",
+          "statedReasonZh": ""
+        },
+        {
+          "nameZh": "刘振立",
+          "nameEn": "Liu Zhenli",
+          "electionUnitZh": "中央军委联合参谋部",
+          "actionZh": "罢免",
+          "statedReasonZh": ""
+        },
+        {
+          "nameZh": "巨乾生",
+          "nameEn": "Ju Qiansheng",
+          "electionUnitZh": "信息支援部队",
+          "actionZh": "罢免",
+          "statedReasonZh": ""
+        }
+      ],
+      "note": "实有代表 2847. Civilian: 王旺盛, 鲁海威, 钟军, 徐延彬, 高世文, 郭浩, 洪维智, 苏跃华. Same session's 决定免职的名单 (https://www.news.cn/politics/20260828/9f7a67c5059e4e7b8a45a8353c5688c8/c.html, page fetched): 免去张又侠的中华人民共和国中央军事委员会副主席职务; 免去刘振立的中华人民共和国中央军事委员会委员职务. The 代表资格审查委员会报告 for this session (which would carry stated reasons and military-congress dates) was not found: not yet on the Wikisource collection page and not locatable after the search budget ran out, so statedReasonZh is left empty."
+    }
+  ],
+  "gaps": [
+    "Credentials-committee 报告 for the 24th session (2026-08-28; 张又侠, 钟绍军, 刘振立, 巨乾生): not found. Wikisource's reports collection ends at the 23rd session; npc.gov.cn's 代表资格审查委员会 index (http://www.npc.gov.cn/c2597/c5888/) stops listing reports after 2025-02-25; WebSearch budget was exhausted and DuckDuckGo attempts were reset. Stated reasons and unit-congress dates for these four remain blank.",
+    "Stated reasons, former titles and military-congress dates for the 7th (2023-12-29), 8th (2024-02-27), 15th–19th (2025), 21st (2026-02-26) and 23rd (2026-06-26) sessions were read from the Wikisource transcription of the 报告 series (https://zh.wikisource.org/zh-hans/第十四届全国人民代表大会常务委员会代表资格审查委员会关于个别代表的代表资格的报告), a secondary transcription; only the 10th, 11th, 12th and 13th session reports were confirmed on official/state-media reprints (pkulaw, huanqiu carrying 中国人大网 text). The 公告 name lists themselves were all confirmed on official or state-media pages.",
+    "Xinhua-origin (news.cn/xinhuanet.com) URLs were not obtained for 公告 第一、四、五、六、七、八、十一、十三、十四号; official (npc.gov.cn, mod.gov.cn) or state-media (people.com.cn, 12371) reprints of the same Xinhua text were read and cited instead. WebSearch budget hit 200/200 before those lookups could be completed.",
+    "2023 sessions 2, 3, 4 and 6 (Apr, Jun, Aug, Oct 2023) issued no 公告; inferred from the contiguous numbering (第一号 2023-09-01 = first of the 14th NPC) and the deputy-count chain 2977→2974→2966, not from a page stating 'no terminations'. 李尚福's 2023-10-24 removal as 国防部长 is a state-office action outside this lane; the repo's Xinhua URL for it (https://www.news.cn/politics/20231024/c0f18d5d11d84c8ebac7f6b5f14f2b74/c.html) now returns 404.",
+    "苗华's 2025-06-27 state-CMC removal (repo cites https://www.mod.gov.cn/gfbw/qwfb/16354907.html) was not re-fetched in this lane.",
+    "Total military deputies terminated 2023-01-01 to 2026-09-02: 46 across 12 sessions (9+1+2+2+1+1+4+2+5+9+6+4), consistent with the count reported by secondary press on 2026-09-02."
+  ],
+  "searchLog": [
+    "Read research/adverse-timeline.json and research/positions.json; extracted existing npc_seat_revoked/state_cmc_removed records and all news.cn URLs (found 2023-12-29, 2026-02-26, 2026-06-26, 2026-08-28 公告 pages).",
+    "WebSearch: 全国人大常委会 军人代表大会 罢免 全国人大代表职务 2024 / 2025; 全国人民代表大会常务委员会代表资格审查委员会关于个别代表的代表资格的报告 2023 军人代表大会 罢免; 十四届全国人大常委会 代表资格审查委员会 报告 军人代表大会 罢免 2026 → located 公告 第六号 (12371.gov.cn), 第十六号, 第十九号, 第十二号 (npc.gov.cn).",
+    "WebSearch for 受权发布 公告〔十四届〕第一/三/四/五/七/八/九/十/十一/十二/十三/十四/十五/十七/十八号 → located news.cn pages for 第十五、十七号; app.xinhuanet.com for 第九、十号; rmzxw for 第十三号; people.com.cn for 第八、十一号; bjnews for 第十四号; mod.gov.cn for 第一号; gmw.cn for 第四号; pkulaw for 第五、七号; oeeee for 第三号.",
+    "curl fetched and read in full: news.cn 20231229 (第二号), 12371.cn 第二号, npc.gov.cn kgfb 202312 第二号, paper.people.com.cn 2023-12-30 第二号; news.cn 20240227 第三号 + oeeee 第三号; gmw.cn 第四号; pkulaw 第五号 (with 报告); 12371.gov.cn 第六号; pkulaw 第七号 (with 报告); npc.gov.cn 202412 + people.com.cn 第八号; app.xinhuanet 第九、十号; people.com.cn 第十一号; xinhuanet.com + npc.gov.cn 202509 第十二号; rmzxw + cpc.people.com.cn 第十三号; bjnews + cpc.people.com.cn + guancha 第十四号; news.cn 20260204 第十五号; news.cn 20260226 x2 + paper.people.com.cn 第十六号; news.cn 20260430 第十七号; xinhuanet.com 20260626 第十八号; news.cn 20260828 第十九号 + 决定免职的名单; mod.gov.cn 第一号.",
+    "Cross-check: zh.wikisource.org 全国人民代表大会常务委员会公告/第十四届 (all 19 公告 texts, deputy-count chain verified 2977→2847 with no gap).",
+    "Reports with stated reasons: huanqiu reprint of 中国人大网 报告 for 2024-09-13 (hqtime.huanqiu.com/article/4JQtTwTH3VZ) and 2024-12-25 (china.huanqiu.com/article/4Knt5SN0cV7); pkulaw 报告 for 2024-06-28 and 2024-11-08; zh.wikisource.org collection page of 第十四届 代表资格审查委员会 报告 (sessions 5–23) for the rest; npc.gov.cn/c2597/c5888/ index pages 0–2 (official report URLs listed only through 2025-02-25).",
+    "WebSearch budget exhausted (200/200) while searching for Xinhua-origin URLs of 第十三/十四号 and the 报告 texts; fell back to DuckDuckGo HTML endpoint via curl (intermittent connection resets) which located news.cn 第三号 and the Wikisource reports page; the 2026-08-28 报告 could not be located.",
+    "Attempted npc.gov.cn list pages (/npc/c2/c30834/ index) — anti-bot shell only; individual npc.gov.cn article pages were reachable."
+  ]
+}
