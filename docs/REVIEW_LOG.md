@@ -79,7 +79,7 @@ Each entry records who raised a concern, what the concern was, what the project 
 
 - Records without a verified date stay null; nothing is inferred to fill a cell
 
-Note on the state of this build. At build `PLA26-V8-14E18B4FCE64` the clock has 8 complete, 45 partial and 10 not-yet-collected records, and three trackers are present: NPC terminations, promotion ceremonies and the title-freshness monitor (app/data/observatory.json, `metadata.ledgerClock.counts` and `metadata.trackerKeys`). The 20th Central Committee, event-attendance and seat-turnover trackers are not yet in the repository. See docs/COLLECTION_METHOD.md, section 5.
+Note on the state of this build. At build `PLA26-V8-0715C59FF314` the clock has 8 complete, 45 partial and 10 not-yet-collected records, and three trackers are present: NPC terminations, promotion ceremonies and the title-freshness monitor (app/data/observatory.json, `metadata.ledgerClock.counts` and `metadata.trackerKeys`). The 20th Central Committee, event-attendance and seat-turnover trackers are not yet in the repository. See docs/COLLECTION_METHOD.md, section 5.
 
 ## REV-2026-09-E (3 September 2026)
 

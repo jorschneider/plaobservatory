@@ -4,7 +4,7 @@ The canonical dataset is `app/data/observatory.json`. The public JSON download i
 
 All three files come from one run of `node scripts/build-v8-data.mjs` and share one build ID. The inputs are the files under `research/`. Do not edit the generated files by hand.
 
-This release: schema version 8, data cutoff 2 September 2026, build `PLA26-V8-14E18B4FCE64` (app/data/observatory.json, `metadata`). Counts quoted below are from that build and name the field they come from.
+This release: schema version 8, data cutoff 2 September 2026, build `PLA26-V8-0715C59FF314` (app/data/observatory.json, `metadata`). Counts quoted below are from that build and name the field they come from.
 
 ## Reading rules
 

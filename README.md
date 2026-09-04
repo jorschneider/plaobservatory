@@ -11,11 +11,11 @@ All values are from `metadata` in app/data/observatory.json.
 | Field | Value |
 |---|---|
 | Data cutoff | 2 September 2026 |
-| Build ID | `PLA26-V8-14E18B4FCE64` |
+| Build ID | `PLA26-V8-0715C59FF314` |
 | Active officer dossiers | 150 (131 mapped to a position, 19 outside the archetype with a reason) |
 | Positions | 179 in nine tiers: 156 principal seats and 23 bench slots |
 | Adverse-ledger records | 63 |
-| Ledger clock | 8 complete, 45 partial, 10 not yet collected |
+| Ledger clock | 18 complete, 36 partial, 9 not yet collected |
 | Trackers included | `npcTerminations`, `promotionCeremonies`, `titleFreshness` |
 | Review-log entries | 5 |
 
@@ -88,7 +88,7 @@ Personnel data goes stale quickly, and Chinese official pages can move or change
 
 Include the project title, the build ID, the data cutoff, and either the relevant stable ID (officer, position, claim or adverse record) or the download URL.
 
-> PLA Leadership Observatory, build PLA26-V8-14E18B4FCE64, data cutoff 2 September 2026, [stable ID or dataset URL].
+> PLA Leadership Observatory, build PLA26-V8-0715C59FF314, data cutoff 2 September 2026, [stable ID or dataset URL].
 
 ## License
 
