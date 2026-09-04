@@ -41,6 +41,8 @@ The refocus narrows the question to robotics: production robotics (the CSSC robo
 
 ## Next steps
 
+The [4 September 2026 analyst review](analyst-review-2026-09-04.md) audits this package and the robotics interface, verifies several original sources, and proposes a relationship-based research extension. It distinguishes implemented features from proposed changes and preserves the v1.2 import.
+
 1. Fill the six empty nodes: one evidence row per node from listed-company filings, procurement notices or export-control records, or a dated note that the sweep found nothing.
 2. Resolve the identity queue: unified social-credit code, parent and production site for each provisional watchlist entity.
 3. Chase final awards for the unmanned-platform and autonomy integrators; a completed contract with a military end user is what moves a provisional scorecard into the ranking.
