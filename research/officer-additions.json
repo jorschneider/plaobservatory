@@ -1,0 +1,717 @@
+{
+  "description": "Officers who exist in official sources used by the trackers but had no dossier in the v7 base. Each carries the source that surfaced it; a billet taken from a Central Committee list annotation is marked as such.",
+  "records": [
+    {
+      "id": "PLA-E51315008617",
+      "nameEn": "Wang Qiang",
+      "nameZh": "王强",
+      "branch": "Joint theater command",
+      "institution": "Central Theater Command",
+      "billet": "Last titled as Northern Theater commander (8 September 2022 promotion); reported Central Theater commander July 2024 to September 2025 by secondary lists; not named since",
+      "rank": "General",
+      "roleState": "stale_or_unknown",
+      "lastReliableTitleDate": "2022-09-08",
+      "partyStatus": "Full member, 20th CCP Central Committee",
+      "identityNote": "Surfaced by the 20th CC and promotion trackers; no v7 dossier. Han Shengyan was formalized as Central Theater commander on 22 December 2025.",
+      "sources": [
+        {
+          "url": "http://www.news.cn/politics/leaders/2022-09/08/c_1128987497.htm",
+          "class": "A2",
+          "date": "2022-09-08",
+          "publisher": "Xinhua",
+          "scope": "promotion ceremony report naming the officer as 北部战区司令员",
+          "mode": "text-title"
+        },
+        {
+          "url": "http://www.gov.cn/xinwen/2022-10/22/content_5720882.htm",
+          "class": "A1",
+          "date": "2022-10-22",
+          "publisher": "Xinhua via gov.cn",
+          "scope": "20th Central Committee membership list; the billet at election is a secondary annotation, not part of the list",
+          "mode": "formal-list"
+        }
+      ],
+      "discoveredBy": "trackers"
+    },
+    {
+      "id": "PLA-08517ECD555A",
+      "nameEn": "Wang Wenquan",
+      "nameZh": "王文全",
+      "branch": "Joint theater command",
+      "institution": "Southern Theater Command",
+      "billet": "Political commissar, Southern Theater Command (promoted into the seat 25 December 2023)",
+      "rank": "General",
+      "roleState": "legacy_unverified",
+      "lastReliableTitleDate": "2023-12-25",
+      "partyStatus": "Full member, 20th CCP Central Committee",
+      "identityNote": "Surfaced by the promotion tracker; an uncited secondary list dates his exit to October 2025; no official action or successor is published.",
+      "sources": [
+        {
+          "url": "http://www.news.cn/politics/leaders/20231225/9db60f951dc842cba6c8806e3914b9e5/c.html",
+          "class": "A2",
+          "date": "2023-12-25",
+          "publisher": "Xinhua",
+          "scope": "promotion ceremony report naming the officer as 南部战区政治委员",
+          "mode": "text-title"
+        },
+        {
+          "url": "http://www.gov.cn/xinwen/2022-10/22/content_5720882.htm",
+          "class": "A1",
+          "date": "2022-10-22",
+          "publisher": "Xinhua via gov.cn",
+          "scope": "20th Central Committee membership list; the billet at election is a secondary annotation, not part of the list",
+          "mode": "formal-list"
+        }
+      ],
+      "discoveredBy": "trackers"
+    },
+    {
+      "id": "PLA-B578F6C0DA4B",
+      "nameEn": "Ling Huanxin",
+      "nameZh": "凌焕新",
+      "branch": "Military education / research",
+      "institution": "Academy of Military Science",
+      "billet": "Political commissar, Academy of Military Science (promoted 28 June 2023)",
+      "rank": "General",
+      "roleState": "legacy_unverified",
+      "lastReliableTitleDate": "2023-06-28",
+      "partyStatus": "Alternate member, 20th CCP Central Committee (#121)",
+      "identityNote": "Surfaced by the promotion tracker; not refreshed since 2023.",
+      "sources": [
+        {
+          "url": "http://www.news.cn/politics/leaders/2023-06/28/c_1129721994.htm",
+          "class": "A2",
+          "date": "2023-06-28",
+          "publisher": "Xinhua",
+          "scope": "promotion ceremony report naming the officer as 军事科学院政治委员",
+          "mode": "text-title"
+        },
+        {
+          "url": "https://www.news.cn/2022-10/22/c_1129075009.htm",
+          "class": "A1",
+          "date": "2022-10-22",
+          "publisher": "Xinhua",
+          "scope": "20th Central Committee membership list; the billet at election is a secondary annotation, not part of the list",
+          "mode": "formal-list"
+        }
+      ],
+      "discoveredBy": "trackers"
+    },
+    {
+      "id": "PLA-ECBB8109720E",
+      "nameEn": "Xu Deqing",
+      "nameZh": "徐德清",
+      "branch": "Joint theater command",
+      "institution": "Central Theater Command",
+      "billet": "Political commissar, Central Theater Command (promoted 21 January 2022)",
+      "rank": "General",
+      "roleState": "legacy_unverified",
+      "lastReliableTitleDate": "2022-01-21",
+      "partyStatus": "Full member, 20th CCP Central Committee",
+      "identityNote": "Surfaced by the 20th CC and promotion trackers; a secondary source notes his absence from expected activity after July 2025; no official action or successor is published.",
+      "sources": [
+        {
+          "url": "http://www.news.cn/politics/leaders/2022-01/21/c_1128288122.htm",
+          "class": "A2",
+          "date": "2022-01-21",
+          "publisher": "Xinhua",
+          "scope": "promotion ceremony report naming the officer as 中部战区政治委员",
+          "mode": "text-title"
+        },
+        {
+          "url": "http://www.gov.cn/xinwen/2022-10/22/content_5720882.htm",
+          "class": "A1",
+          "date": "2022-10-22",
+          "publisher": "Xinhua via gov.cn",
+          "scope": "20th Central Committee membership list; the billet at election is a secondary annotation, not part of the list",
+          "mode": "formal-list"
+        }
+      ],
+      "discoveredBy": "trackers"
+    },
+    {
+      "id": "PLA-33B9A8E34047",
+      "nameEn": "Xu Zhongbo",
+      "nameZh": "徐忠波",
+      "branch": "PLA Rocket Force",
+      "institution": "PLA Rocket Force",
+      "billet": "Former political commissar, PLA Rocket Force (promoted 29 July 2020; replaced 31 July 2023)",
+      "rank": "General",
+      "roleState": "stale_or_unknown",
+      "lastReliableTitleDate": "2020-07-29",
+      "partyStatus": "Full member, 20th CCP Central Committee",
+      "identityNote": "Surfaced by the 20th CC and promotion trackers; current status unknown.",
+      "sources": [
+        {
+          "url": "http://www.xinhuanet.com/politics/leaders/2020-07/29/c_1126300876.htm",
+          "class": "A2",
+          "date": "2020-07-29",
+          "publisher": "Xinhua",
+          "scope": "promotion ceremony report naming the officer as 火箭军政治委员",
+          "mode": "text-title"
+        },
+        {
+          "url": "http://www.gov.cn/xinwen/2022-10/22/content_5720882.htm",
+          "class": "A1",
+          "date": "2022-10-22",
+          "publisher": "Xinhua via gov.cn",
+          "scope": "20th Central Committee membership list; the billet at election is a secondary annotation, not part of the list",
+          "mode": "formal-list"
+        }
+      ],
+      "discoveredBy": "trackers"
+    },
+    {
+      "id": "PLA-8111603A9BD8",
+      "nameEn": "Wang Haijiang",
+      "nameZh": "汪海江",
+      "branch": "Joint theater command",
+      "institution": "Western Theater Command",
+      "billet": "Commander, Western Theater Command (promoted 6 September 2021)",
+      "rank": "General",
+      "roleState": "legacy_unverified",
+      "lastReliableTitleDate": "2021-09-06",
+      "partyStatus": "Full member, 20th CCP Central Committee",
+      "identityNote": "Surfaced by the 20th CC and promotion trackers; not named since September 2025 according to secondary lists; no official action or successor is published.",
+      "sources": [
+        {
+          "url": "http://www.xinhuanet.com/politics/leaders/2021-09/06/c_1127833663.htm",
+          "class": "A2",
+          "date": "2021-09-06",
+          "publisher": "Xinhua",
+          "scope": "promotion ceremony report naming the officer as 西部战区司令员",
+          "mode": "text-title"
+        },
+        {
+          "url": "http://www.gov.cn/xinwen/2022-10/22/content_5720882.htm",
+          "class": "A1",
+          "date": "2022-10-22",
+          "publisher": "Xinhua via gov.cn",
+          "scope": "20th Central Committee membership list; the billet at election is a secondary annotation, not part of the list",
+          "mode": "formal-list"
+        }
+      ],
+      "discoveredBy": "trackers"
+    },
+    {
+      "id": "PLA-3B2E5637C9DD",
+      "nameEn": "Liu Faqing",
+      "nameZh": "刘发庆",
+      "branch": "CMC / central joint",
+      "institution": "CMC / central joint",
+      "billet": "Former director, CMC National Defense Mobilization Department (2022 list annotation); replaced by Zhang Like on 30 October 2025",
+      "rank": null,
+      "roleState": "stale_or_unknown",
+      "lastReliableTitleDate": "2022-10-22",
+      "partyStatus": "Full member, 20th CCP Central Committee",
+      "identityNote": "Surfaced by the 20th CC tracker; billet at election rests on a secondary annotation.",
+      "sources": [
+        {
+          "url": "http://www.gov.cn/xinwen/2022-10/22/content_5720882.htm",
+          "class": "A1",
+          "date": "2022-10-22",
+          "publisher": "Xinhua via gov.cn",
+          "scope": "20th Central Committee membership list; the billet at election is a secondary annotation, not part of the list",
+          "mode": "formal-list"
+        }
+      ],
+      "discoveredBy": "trackers"
+    },
+    {
+      "id": "PLA-D86895BCFEE0",
+      "nameEn": "Xu Qiling",
+      "nameZh": "徐起零",
+      "branch": "CMC / central joint",
+      "institution": "CMC Joint Staff Department",
+      "billet": "Deputy chief, CMC Joint Staff Department (theater-leader grade, per 2022 list annotation); last official title Western Theater commander (5 July 2021)",
+      "rank": "General",
+      "roleState": "legacy_unverified",
+      "lastReliableTitleDate": "2021-07-05",
+      "partyStatus": "Full member, 20th CCP Central Committee",
+      "identityNote": "Surfaced by the 20th CC and promotion trackers.",
+      "sources": [
+        {
+          "url": "http://www.xinhuanet.com/politics/2021-07/05/c_1127625114.htm",
+          "class": "A2",
+          "date": "2021-07-05",
+          "publisher": "Xinhua",
+          "scope": "promotion ceremony report naming the officer as 西部战区司令员",
+          "mode": "text-title"
+        },
+        {
+          "url": "http://www.gov.cn/xinwen/2022-10/22/content_5720882.htm",
+          "class": "A1",
+          "date": "2022-10-22",
+          "publisher": "Xinhua via gov.cn",
+          "scope": "20th Central Committee membership list; the billet at election is a secondary annotation, not part of the list",
+          "mode": "formal-list"
+        }
+      ],
+      "discoveredBy": "trackers"
+    },
+    {
+      "id": "PLA-B733DF27E3CD",
+      "nameEn": "Yang Xuejun",
+      "nameZh": "杨学军",
+      "branch": "Military education / research",
+      "institution": "Academy of Military Science",
+      "billet": "President, Academy of Military Science (promoted 12 December 2019); a secondary list reports a move to the CMC Strategic Planning Committee in 2025",
+      "rank": "General",
+      "roleState": "legacy_unverified",
+      "lastReliableTitleDate": "2019-12-12",
+      "partyStatus": "Full member, 20th CCP Central Committee",
+      "identityNote": "Surfaced by the 20th CC and promotion trackers.",
+      "sources": [
+        {
+          "url": "http://www.xinhuanet.com/politics/leaders/2019-12/12/c_1125340398.htm",
+          "class": "A2",
+          "date": "2019-12-12",
+          "publisher": "Xinhua",
+          "scope": "promotion ceremony report naming the officer as 军事科学院院长",
+          "mode": "text-title"
+        },
+        {
+          "url": "http://www.gov.cn/xinwen/2022-10/22/content_5720882.htm",
+          "class": "A1",
+          "date": "2022-10-22",
+          "publisher": "Xinhua via gov.cn",
+          "scope": "20th Central Committee membership list; the billet at election is a secondary annotation, not part of the list",
+          "mode": "formal-list"
+        }
+      ],
+      "discoveredBy": "trackers"
+    },
+    {
+      "id": "PLA-AA1C1EF73440",
+      "nameEn": "Xiao Tianliang",
+      "nameZh": "肖天亮",
+      "branch": "Military education / research",
+      "institution": "National Defense University",
+      "billet": "President, National Defense University (promoted 28 March 2024)",
+      "rank": "General",
+      "roleState": "official_title_with_scope_caveat",
+      "lastReliableTitleDate": "2024-03-28",
+      "partyStatus": null,
+      "identityNote": "Surfaced by the promotion tracker.",
+      "sources": [
+        {
+          "url": "http://www.news.cn/politics/leaders/20240328/6664137908f446dc8a98fd87ade13dbf/c.html",
+          "class": "A2",
+          "date": "2024-03-28",
+          "publisher": "Xinhua",
+          "scope": "promotion ceremony report naming the officer as 国防大学校长",
+          "mode": "text-title"
+        }
+      ],
+      "discoveredBy": "trackers"
+    },
+    {
+      "id": "PLA-94A7F4C1A156",
+      "nameEn": "He Ping",
+      "nameZh": "何平",
+      "branch": "Joint theater command",
+      "institution": "Eastern Theater Command",
+      "billet": "Former political commissar, Eastern Theater Command (promoted 12 December 2019); succeeded by Liu Qingsong in June 2023",
+      "rank": "General",
+      "roleState": "stale_or_unknown",
+      "lastReliableTitleDate": "2019-12-12",
+      "partyStatus": null,
+      "identityNote": "Surfaced by the promotion tracker; current status unknown.",
+      "sources": [
+        {
+          "url": "http://www.xinhuanet.com/politics/leaders/2019-12/12/c_1125340398.htm",
+          "class": "A2",
+          "date": "2019-12-12",
+          "publisher": "Xinhua",
+          "scope": "promotion ceremony report naming the officer as 东部战区政治委员",
+          "mode": "text-title"
+        }
+      ],
+      "discoveredBy": "trackers"
+    },
+    {
+      "id": "PLA-EF985F4802B3",
+      "nameEn": "Fu Aiguo",
+      "nameZh": "傅爱国",
+      "branch": "Military education / research",
+      "institution": "National University of Defense Technology",
+      "billet": "Former political commissar, National University of Defense Technology (2022 list annotation); Zhang Zhan holds the title in 2026",
+      "rank": null,
+      "roleState": "stale_or_unknown",
+      "lastReliableTitleDate": "2022-10-22",
+      "partyStatus": "Alternate member, 20th CCP Central Committee (#144)",
+      "identityNote": "Surfaced by the 20th CC tracker.",
+      "sources": [
+        {
+          "url": "https://www.news.cn/2022-10/22/c_1129075009.htm",
+          "class": "A1",
+          "date": "2022-10-22",
+          "publisher": "Xinhua",
+          "scope": "20th Central Committee membership list; the billet at election is a secondary annotation, not part of the list",
+          "mode": "formal-list"
+        }
+      ],
+      "discoveredBy": "trackers"
+    },
+    {
+      "id": "PLA-7ECB64D2F1CF",
+      "nameEn": "Zhou Jianguo",
+      "nameZh": "周建国",
+      "branch": "People's Armed Police",
+      "institution": "People's Armed Police",
+      "billet": "Deputy commander, People's Armed Police (reported from September 2025 by a secondary list); earlier PAP chief of staff and Xinjiang Corps commander",
+      "rank": null,
+      "roleState": "inferred_current",
+      "lastReliableTitleDate": "2022-10-22",
+      "partyStatus": "Alternate member, 20th CCP Central Committee (#105)",
+      "identityNote": "Surfaced by the 20th CC tracker; the deputy-commander title is reported, not officially observed.",
+      "sources": [
+        {
+          "url": "https://www.news.cn/2022-10/22/c_1129075009.htm",
+          "class": "A1",
+          "date": "2022-10-22",
+          "publisher": "Xinhua",
+          "scope": "20th Central Committee membership list; the billet at election is a secondary annotation, not part of the list",
+          "mode": "formal-list"
+        }
+      ],
+      "discoveredBy": "trackers"
+    },
+    {
+      "id": "PLA-483FD72B0D18",
+      "nameEn": "Zhou Zhixin",
+      "nameZh": "周志鑫",
+      "branch": "CMC / central joint",
+      "institution": "CMC Science and Technology Commission",
+      "billet": "Deputy director, CMC Science and Technology Commission (2022 list annotation)",
+      "rank": null,
+      "roleState": "legacy_unverified",
+      "lastReliableTitleDate": "2022-10-22",
+      "partyStatus": "Alternate member, 20th CCP Central Committee (#104)",
+      "identityNote": "Surfaced by the 20th CC tracker; CAS academician.",
+      "sources": [
+        {
+          "url": "https://www.news.cn/2022-10/22/c_1129075009.htm",
+          "class": "A1",
+          "date": "2022-10-22",
+          "publisher": "Xinhua",
+          "scope": "20th Central Committee membership list; the billet at election is a secondary annotation, not part of the list",
+          "mode": "formal-list"
+        }
+      ],
+      "discoveredBy": "trackers"
+    },
+    {
+      "id": "PLA-9E9C65A0F372",
+      "nameEn": "Jiang Guoping",
+      "nameZh": "姜国平",
+      "branch": "Joint theater command",
+      "institution": "Northern Theater Command",
+      "billet": "Deputy commander and chief of staff, Northern Theater Command (2022 list annotation)",
+      "rank": null,
+      "roleState": "legacy_unverified",
+      "lastReliableTitleDate": "2022-10-22",
+      "partyStatus": "Alternate member, 20th CCP Central Committee (#111)",
+      "identityNote": "Surfaced by the 20th CC tracker.",
+      "sources": [
+        {
+          "url": "https://www.news.cn/2022-10/22/c_1129075009.htm",
+          "class": "A1",
+          "date": "2022-10-22",
+          "publisher": "Xinhua",
+          "scope": "20th Central Committee membership list; the billet at election is a secondary annotation, not part of the list",
+          "mode": "formal-list"
+        }
+      ],
+      "discoveredBy": "trackers"
+    },
+    {
+      "id": "PLA-12D7BD728B4F",
+      "nameEn": "Zhang Xudong",
+      "nameZh": "张旭东",
+      "branch": "Joint theater command",
+      "institution": "Western Theater Command",
+      "billet": "Former commander, Western Theater Command (promoted 18 December 2020); succeeded by Wang Haijiang in September 2021",
+      "rank": "General",
+      "roleState": "stale_or_unknown",
+      "lastReliableTitleDate": "2020-12-18",
+      "partyStatus": null,
+      "identityNote": "Surfaced by the promotion tracker; no record after 2021.",
+      "sources": [
+        {
+          "url": "http://www.xinhuanet.com/politics/leaders/2020-12/18/c_1126879375.htm",
+          "class": "A2",
+          "date": "2020-12-18",
+          "publisher": "Xinhua",
+          "scope": "promotion ceremony report naming the officer as 西部战区司令员",
+          "mode": "text-title"
+        }
+      ],
+      "discoveredBy": "trackers"
+    },
+    {
+      "id": "PLA-C0ECF970BA51",
+      "nameEn": "Cao Junzhang",
+      "nameZh": "曹均章",
+      "branch": "People's Armed Police",
+      "institution": "People's Armed Police",
+      "billet": "Reported to be handling People's Armed Police command work (July 2025 press report); exact title not published",
+      "rank": null,
+      "roleState": "inferred_current",
+      "lastReliableTitleDate": "2025-07-24",
+      "partyStatus": null,
+      "identityNote": "Surfaced by the seat-turnover tracker.",
+      "sources": [
+        {
+          "url": "https://china.caixin.com/m/2025-07-24/102344730.html",
+          "class": "B2",
+          "date": "2025-07-24",
+          "publisher": "Caixin",
+          "scope": "press report of PAP command handling",
+          "mode": "secondary-reconstruction"
+        }
+      ],
+      "discoveredBy": "trackers"
+    },
+    {
+      "id": "PLA-B82F0E3408B8",
+      "nameEn": "Li Songde",
+      "nameZh": "李宋德",
+      "branch": "People's Armed Police",
+      "institution": "China Coast Guard",
+      "billet": "Former political commissar, China Coast Guard; succeeded by Liu Houjie on 10 April 2026",
+      "rank": null,
+      "roleState": "stale_or_unknown",
+      "lastReliableTitleDate": "2026-04-10",
+      "partyStatus": null,
+      "identityNote": "Surfaced by the seat-turnover tracker; predecessor record only.",
+      "sources": [
+        {
+          "url": "https://zh.wikipedia.org/wiki/中国海警局",
+          "class": "C",
+          "date": "2026-04-10",
+          "publisher": "Chinese Wikipedia",
+          "scope": "secondary leadership list",
+          "mode": "secondary-reconstruction"
+        }
+      ],
+      "discoveredBy": "trackers"
+    },
+    {
+      "id": "PLA-E24A65F8F668",
+      "nameEn": "Li Xianyu",
+      "nameZh": "李贤玉",
+      "branch": "PLA Rocket Force",
+      "institution": "PLA Rocket Force Research Academy",
+      "billet": "Chief engineer, PLA Rocket Force Research Academy (2022 list annotation)",
+      "rank": null,
+      "roleState": "legacy_unverified",
+      "lastReliableTitleDate": "2022-10-22",
+      "partyStatus": "Alternate member, 20th CCP Central Committee (#58)",
+      "identityNote": "Surfaced by the 20th CC tracker; specialist-technical major general.",
+      "sources": [
+        {
+          "url": "https://www.news.cn/2022-10/22/c_1129075009.htm",
+          "class": "A1",
+          "date": "2022-10-22",
+          "publisher": "Xinhua",
+          "scope": "20th Central Committee membership list; the billet at election is a secondary annotation, not part of the list",
+          "mode": "formal-list"
+        }
+      ],
+      "discoveredBy": "trackers"
+    },
+    {
+      "id": "PLA-2E4A263353D7",
+      "nameEn": "Yang Zhiliang",
+      "nameZh": "杨志亮",
+      "branch": "PLA Navy / Marines",
+      "institution": "Southern Theater Navy",
+      "billet": "Political commissar, Southern Theater Navy (2022 list annotation); a secondary list marks him retired",
+      "rank": null,
+      "roleState": "stale_or_unknown",
+      "lastReliableTitleDate": "2022-10-22",
+      "partyStatus": "Full member, 20th CCP Central Committee",
+      "identityNote": "Surfaced by the 20th CC tracker.",
+      "sources": [
+        {
+          "url": "http://www.gov.cn/xinwen/2022-10/22/content_5720882.htm",
+          "class": "A1",
+          "date": "2022-10-22",
+          "publisher": "Xinhua via gov.cn",
+          "scope": "20th Central Committee membership list; the billet at election is a secondary annotation, not part of the list",
+          "mode": "formal-list"
+        }
+      ],
+      "discoveredBy": "trackers"
+    },
+    {
+      "id": "PLA-3A51E500D083",
+      "nameEn": "Yang Cheng",
+      "nameZh": "杨诚",
+      "branch": "PLA Army / military district",
+      "institution": "Xinjiang Military District",
+      "billet": "Former political commissar, Xinjiang Military District (2022 list annotation; secondary list ends the billet in July 2025)",
+      "rank": null,
+      "roleState": "stale_or_unknown",
+      "lastReliableTitleDate": "2022-10-22",
+      "partyStatus": "Full member, 20th CCP Central Committee",
+      "identityNote": "Surfaced by the 20th CC tracker; Yuan Honggang is reported to have taken the seat.",
+      "sources": [
+        {
+          "url": "http://www.gov.cn/xinwen/2022-10/22/content_5720882.htm",
+          "class": "A1",
+          "date": "2022-10-22",
+          "publisher": "Xinhua via gov.cn",
+          "scope": "20th Central Committee membership list; the billet at election is a secondary annotation, not part of the list",
+          "mode": "formal-list"
+        }
+      ],
+      "discoveredBy": "trackers"
+    },
+    {
+      "id": "PLA-F4C3E599850F",
+      "nameEn": "Wang Kai",
+      "nameZh": "王凯",
+      "branch": "PLA Army / military district",
+      "institution": "Tibet Military District",
+      "billet": "Commander, Tibet Military District (2022 list annotation; secondary list ends the billet in September 2025)",
+      "rank": null,
+      "roleState": "legacy_unverified",
+      "lastReliableTitleDate": "2022-10-22",
+      "partyStatus": "Full member, 20th CCP Central Committee",
+      "identityNote": "Surfaced by the 20th CC tracker; listed as 王凯（解放军） in the Xinhua list.",
+      "sources": [
+        {
+          "url": "http://www.gov.cn/xinwen/2022-10/22/content_5720882.htm",
+          "class": "A1",
+          "date": "2022-10-22",
+          "publisher": "Xinhua via gov.cn",
+          "scope": "20th Central Committee membership list; the billet at election is a secondary annotation, not part of the list",
+          "mode": "formal-list"
+        }
+      ],
+      "discoveredBy": "trackers"
+    },
+    {
+      "id": "PLA-5942EC3082F1",
+      "nameEn": "Wang Hai",
+      "nameZh": "王海",
+      "branch": "PLA Navy / Marines",
+      "institution": "Southern Theater Navy",
+      "billet": "Former commander, Southern Theater Navy; succeeded by Ju Xinchun on 1 February 2023",
+      "rank": null,
+      "roleState": "stale_or_unknown",
+      "lastReliableTitleDate": "2023-02-01",
+      "partyStatus": null,
+      "identityNote": "Surfaced by the seat-turnover tracker; predecessor record only.",
+      "sources": [
+        {
+          "url": "https://zh.wikipedia.org/wiki/南部战区海军",
+          "class": "C",
+          "date": "2023-02-01",
+          "publisher": "Chinese Wikipedia",
+          "scope": "secondary leadership list",
+          "mode": "secondary-reconstruction"
+        }
+      ],
+      "discoveredBy": "trackers"
+    },
+    {
+      "id": "PLA-156B0FD4A63E",
+      "nameEn": "Zhao Xiaozhe",
+      "nameZh": "赵晓哲",
+      "branch": "CMC / central joint",
+      "institution": "CMC Science and Technology Commission",
+      "billet": "Director, CMC Science and Technology Commission (2022 list annotation)",
+      "rank": null,
+      "roleState": "legacy_unverified",
+      "lastReliableTitleDate": "2022-10-22",
+      "partyStatus": "Full member, 20th CCP Central Committee",
+      "identityNote": "Surfaced by the 20th CC tracker; conflicts with the v7 legacy record naming Xu Weijin as assessed director.",
+      "sources": [
+        {
+          "url": "http://www.gov.cn/xinwen/2022-10/22/content_5720882.htm",
+          "class": "A1",
+          "date": "2022-10-22",
+          "publisher": "Xinhua via gov.cn",
+          "scope": "20th Central Committee membership list; the billet at election is a secondary annotation, not part of the list",
+          "mode": "formal-list"
+        }
+      ],
+      "discoveredBy": "trackers"
+    },
+    {
+      "id": "PLA-1F62929EA429",
+      "nameEn": "Qiu Yang",
+      "nameZh": "邱杨",
+      "branch": "CMC / central joint",
+      "institution": "CMC General Office",
+      "billet": "Reported to be handling CMC General Office work (named in Fourth Plenum coverage, 23 October 2025); exact title not published",
+      "rank": null,
+      "roleState": "inferred_current",
+      "lastReliableTitleDate": "2025-10-23",
+      "partyStatus": null,
+      "identityNote": "Surfaced by the seat-turnover tracker.",
+      "sources": [
+        {
+          "url": "http://www.news.cn/politics/20251023/777d21b244c4405c84b544d7cc43e236/c.html",
+          "class": "A2",
+          "date": "2025-10-23",
+          "publisher": "Xinhua",
+          "scope": "plenum coverage naming the officer",
+          "mode": "text-title"
+        }
+      ],
+      "discoveredBy": "trackers"
+    },
+    {
+      "id": "PLA-889A2C9B4293",
+      "nameEn": "Yu Zhong",
+      "nameZh": "郁忠",
+      "branch": "People's Armed Police",
+      "institution": "China Coast Guard",
+      "billet": "Former director, China Coast Guard; succeeded by Zhang Jianming on 30 January 2026",
+      "rank": null,
+      "roleState": "stale_or_unknown",
+      "lastReliableTitleDate": "2026-01-30",
+      "partyStatus": null,
+      "identityNote": "Surfaced by the seat-turnover tracker; predecessor record only.",
+      "sources": [
+        {
+          "url": "https://zh.wikipedia.org/wiki/中国海警局",
+          "class": "C",
+          "date": "2026-01-30",
+          "publisher": "Chinese Wikipedia",
+          "scope": "secondary leadership list",
+          "mode": "secondary-reconstruction"
+        }
+      ],
+      "discoveredBy": "trackers"
+    },
+    {
+      "id": "PLA-39F37FDF2502",
+      "nameEn": "Li Xiang",
+      "nameZh": "黎湘",
+      "branch": "Military education / research",
+      "institution": "National University of Defense Technology",
+      "billet": "Former president, National University of Defense Technology (2022 list annotation); Lei Yongjun holds the title in 2026",
+      "rank": null,
+      "roleState": "stale_or_unknown",
+      "lastReliableTitleDate": "2022-10-22",
+      "partyStatus": "Alternate member, 20th CCP Central Committee (#158)",
+      "identityNote": "Surfaced by the 20th CC tracker; CAS academician.",
+      "sources": [
+        {
+          "url": "https://www.news.cn/2022-10/22/c_1129075009.htm",
+          "class": "A1",
+          "date": "2022-10-22",
+          "publisher": "Xinhua",
+          "scope": "20th Central Committee membership list; the billet at election is a secondary annotation, not part of the list",
+          "mode": "formal-list"
+        }
+      ],
+      "discoveredBy": "trackers"
+    }
+  ]
+}

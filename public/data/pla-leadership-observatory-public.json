@@ -2,13 +2,13 @@
   "metadata": {
     "title": "PLA Leadership Observatory",
     "asOf": "2026-09-02",
-    "buildId": "PLA26-V8-0715C59FF314",
-    "officerCount": 150,
-    "canonicalOfficerCount": 156,
+    "buildId": "PLA26-V8-6015FA820F83",
+    "officerCount": 177,
+    "canonicalOfficerCount": 185,
     "identityHeldCount": 3,
     "adverseHeldCount": 1,
     "confirmedClaimCount": 104,
-    "sourceCount": 301,
+    "sourceCount": 316,
     "primaryOfficialSourceCount": 179,
     "supplementalClaimCount": 62,
     "supplementalPersonCount": 55,
@@ -33,12 +33,12 @@
       }
     ],
     "gapCount": 18,
-    "adverseCount": 63,
+    "adverseCount": 65,
     "birthYearKnownCount": 59,
     "mappedPersonCount": 61,
     "currentRoleMappedCount": 59,
     "undatedTitleCount": 58,
-    "olderTitleCount": 18,
+    "olderTitleCount": 41,
     "discoveryOnlySourceCount": 168,
     "unscopedSourceCount": 123,
     "roleStateCounts": [
@@ -48,7 +48,7 @@
       },
       {
         "state": "official_title_with_scope_caveat",
-        "count": 33
+        "count": 34
       },
       {
         "state": "acting_role_mixture",
@@ -56,7 +56,7 @@
       },
       {
         "state": "inferred_current",
-        "count": 28
+        "count": 31
       },
       {
         "state": "formal_current",
@@ -64,37 +64,37 @@
       },
       {
         "state": "legacy_unverified",
-        "count": 38
+        "count": 49
       },
       {
         "state": "stale_or_unknown",
-        "count": 13
+        "count": 25
       }
     ],
     "branchCounts": [
       {
-        "branch": "PLA Army / military district",
-        "count": 27
+        "branch": "Joint theater command",
+        "count": 30
       },
       {
-        "branch": "Joint theater command",
-        "count": 23
+        "branch": "PLA Army / military district",
+        "count": 29
       },
       {
         "branch": "CMC / central joint",
-        "count": 21
-      },
-      {
-        "branch": "PLA Navy / Marines",
-        "count": 21
+        "count": 26
       },
       {
         "branch": "Military education / research",
-        "count": 18
+        "count": 23
+      },
+      {
+        "branch": "PLA Navy / Marines",
+        "count": 23
       },
       {
         "branch": "People's Armed Police",
-        "count": 11
+        "count": 15
       },
       {
         "branch": "PLA Air Force",
@@ -110,7 +110,7 @@
       },
       {
         "branch": "PLA Rocket Force",
-        "count": 5
+        "count": 7
       },
       {
         "branch": "Joint Logistics",
@@ -123,32 +123,32 @@
       "unit": "position",
       "archetypeVersion": "v8.0",
       "tierCount": 9,
-      "positionCount": 184,
-      "principalSeatCount": 161,
-      "benchSlotCount": 23
+      "positionCount": 188,
+      "principalSeatCount": 164,
+      "benchSlotCount": 24
     },
-    "mappedOfficerCount": 131,
-    "unmappedOfficerCount": 19,
+    "mappedOfficerCount": 146,
+    "unmappedOfficerCount": 31,
     "positionCoverageCounts": [
       {
         "state": "no_record",
-        "count": 60
+        "count": 56
+      },
+      {
+        "state": "stale",
+        "count": 29
       },
       {
         "state": "acting_or_inferred",
         "count": 22
       },
       {
-        "state": "stale",
-        "count": 22
-      },
-      {
         "state": "adverse_vacancy",
-        "count": 19
+        "count": 18
       },
       {
         "state": "handled_without_title",
-        "count": 14
+        "count": 13
       },
       {
         "state": "formal_current",
@@ -156,11 +156,11 @@
       },
       {
         "state": "dated_official",
-        "count": 9
+        "count": 10
       },
       {
         "state": "conflicting",
-        "count": 3
+        "count": 4
       },
       {
         "state": "external",
@@ -193,16 +193,16 @@
       {
         "tier": "cmc_organs",
         "label": "CMC organs",
-        "positions": 27,
+        "positions": 28,
         "principalSeats": 22,
         "coverage": {
           "formal_current": 2,
           "dated_official": 0,
           "acting_or_inferred": 2,
-          "stale": 2,
-          "conflicting": 0,
-          "handled_without_title": 2,
-          "adverse_vacancy": 6,
+          "stale": 1,
+          "conflicting": 1,
+          "handled_without_title": 3,
+          "adverse_vacancy": 5,
           "held_in_adverse_watch": 0,
           "external": 0,
           "no_record": 8
@@ -211,15 +211,15 @@
       {
         "tier": "theaters",
         "label": "Theater commands",
-        "positions": 43,
-        "principalSeats": 38,
+        "positions": 46,
+        "principalSeats": 41,
         "coverage": {
           "formal_current": 3,
           "dated_official": 4,
           "acting_or_inferred": 4,
-          "stale": 5,
+          "stale": 10,
           "conflicting": 0,
-          "handled_without_title": 3,
+          "handled_without_title": 1,
           "adverse_vacancy": 2,
           "held_in_adverse_watch": 1,
           "external": 0,
@@ -289,13 +289,13 @@
           "formal_current": 0,
           "dated_official": 2,
           "acting_or_inferred": 5,
-          "stale": 0,
+          "stale": 1,
           "conflicting": 0,
           "handled_without_title": 2,
           "adverse_vacancy": 0,
           "held_in_adverse_watch": 0,
           "external": 0,
-          "no_record": 3
+          "no_record": 2
         }
       },
       {
@@ -323,15 +323,15 @@
         "principalSeats": 6,
         "coverage": {
           "formal_current": 1,
-          "dated_official": 2,
+          "dated_official": 3,
           "acting_or_inferred": 0,
-          "stale": 0,
+          "stale": 2,
           "conflicting": 0,
           "handled_without_title": 0,
           "adverse_vacancy": 0,
           "held_in_adverse_watch": 0,
           "external": 0,
-          "no_record": 3
+          "no_record": 0
         }
       }
     ],
@@ -339,7 +339,7 @@
       "cutoff": "2026-09-02",
       "counts": {
         "complete": 18,
-        "partial": 36,
+        "partial": 38,
         "not_yet_collected": 9
       },
       "withLastAppearance": 21,
@@ -16429,6 +16429,2353 @@
       "unmappedReason": null,
       "unmappedNote": null,
       "daysSinceTitle": 347
+    },
+    {
+      "id": "PLA-E51315008617",
+      "nameEn": "Wang Qiang",
+      "nameZh": "王强",
+      "identityNote": "Surfaced by the 20th CC and promotion trackers; no v7 dossier. Han Shengyan was formalized as Central Theater commander on 22 December 2025.",
+      "branch": "Joint theater command",
+      "institution": "Central Theater Command",
+      "serviceOrigin": null,
+      "serviceOriginDetail": null,
+      "billet": "Last titled as Northern Theater commander (8 September 2022 promotion); reported Central Theater commander July 2024 to September 2025 by secondary lists; not named since",
+      "rank": "General",
+      "roleState": "stale_or_unknown",
+      "roleStateDetail": "Entered from tracker evidence; see identity note.",
+      "lastReliableTitleDate": "2022-09-08",
+      "assessmentAsOf": "2026-09-02",
+      "birthYear": null,
+      "birthPrecision": null,
+      "birthEvidence": null,
+      "partyStatus": "Full member, 20th CCP Central Committee",
+      "stateCmcStatus": null,
+      "npcStatus": null,
+      "disciplineState": null,
+      "disciplineNote": null,
+      "evidence": {
+        "grade": "E3",
+        "label": "Partial claim mapping",
+        "caveat": "Record created from a tracker source; no claim-scoped dossier entry beyond the sources listed.",
+        "mappedClaims": 0,
+        "primaryMappedClaims": 0,
+        "currentRoleMapped": false
+      },
+      "signals": {
+        "appointmentRecord": "stale_or_unknown",
+        "titleFreshness": "pre_2025",
+        "currentRoleSource": "not_mapped",
+        "rankRecord": "recorded",
+        "partyRecord": "recorded",
+        "stateCmcRecord": "not_public",
+        "npcRecord": "not_public",
+        "birthRecord": "not_public",
+        "primaryMappedClaims": 0,
+        "openGapCount": 0
+      },
+      "sourceCount": 2,
+      "sources": [
+        {
+          "id": "ADD-SRC-PLA-E51315008617-1",
+          "url": "http://www.news.cn/politics/leaders/2022-09/08/c_1128987497.htm",
+          "class": "A2",
+          "family": "official_primary",
+          "date": "2022-09-08",
+          "publisher": "Xinhua",
+          "scopes": [
+            "promotion ceremony report naming the officer as 北部战区司令员"
+          ],
+          "people": [
+            {
+              "id": "PLA-E51315008617",
+              "nameEn": "Wang Qiang",
+              "nameZh": "王强"
+            }
+          ],
+          "mode": "text-title"
+        },
+        {
+          "id": "ADD-SRC-PLA-E51315008617-2",
+          "url": "http://www.gov.cn/xinwen/2022-10/22/content_5720882.htm",
+          "class": "A1",
+          "family": "formal_decision",
+          "date": "2022-10-22",
+          "publisher": "Xinhua via gov.cn",
+          "scopes": [
+            "20th Central Committee membership list; the billet at election is a secondary annotation, not part of the list"
+          ],
+          "people": [
+            {
+              "id": "PLA-E51315008617",
+              "nameEn": "Wang Qiang",
+              "nameZh": "王强"
+            },
+            {
+              "id": "PLA-08517ECD555A",
+              "nameEn": "Wang Wenquan",
+              "nameZh": "王文全"
+            },
+            {
+              "id": "PLA-ECBB8109720E",
+              "nameEn": "Xu Deqing",
+              "nameZh": "徐德清"
+            },
+            {
+              "id": "PLA-33B9A8E34047",
+              "nameEn": "Xu Zhongbo",
+              "nameZh": "徐忠波"
+            },
+            {
+              "id": "PLA-8111603A9BD8",
+              "nameEn": "Wang Haijiang",
+              "nameZh": "汪海江"
+            },
+            {
+              "id": "PLA-3B2E5637C9DD",
+              "nameEn": "Liu Faqing",
+              "nameZh": "刘发庆"
+            },
+            {
+              "id": "PLA-D86895BCFEE0",
+              "nameEn": "Xu Qiling",
+              "nameZh": "徐起零"
+            },
+            {
+              "id": "PLA-B733DF27E3CD",
+              "nameEn": "Yang Xuejun",
+              "nameZh": "杨学军"
+            },
+            {
+              "id": "PLA-2E4A263353D7",
+              "nameEn": "Yang Zhiliang",
+              "nameZh": "杨志亮"
+            },
+            {
+              "id": "PLA-3A51E500D083",
+              "nameEn": "Yang Cheng",
+              "nameZh": "杨诚"
+            },
+            {
+              "id": "PLA-F4C3E599850F",
+              "nameEn": "Wang Kai",
+              "nameZh": "王凯"
+            },
+            {
+              "id": "PLA-156B0FD4A63E",
+              "nameEn": "Zhao Xiaozhe",
+              "nameZh": "赵晓哲"
+            }
+          ],
+          "mode": "formal-list"
+        }
+      ],
+      "claims": [],
+      "gapIds": [],
+      "discoveredBy": "trackers",
+      "positionIds": [],
+      "positionRoles": [],
+      "archetypeStatus": "unmapped",
+      "unmappedReason": "billet_unknown",
+      "unmappedNote": "Last titled 2022; reported Central Theater commander to September 2025; not named since.",
+      "daysSinceTitle": 1455
+    },
+    {
+      "id": "PLA-08517ECD555A",
+      "nameEn": "Wang Wenquan",
+      "nameZh": "王文全",
+      "identityNote": "Surfaced by the promotion tracker; an uncited secondary list dates his exit to October 2025; no official action or successor is published.",
+      "branch": "Joint theater command",
+      "institution": "Southern Theater Command",
+      "serviceOrigin": null,
+      "serviceOriginDetail": null,
+      "billet": "Political commissar, Southern Theater Command (promoted into the seat 25 December 2023)",
+      "rank": "General",
+      "roleState": "legacy_unverified",
+      "roleStateDetail": "Entered from tracker evidence; see identity note.",
+      "lastReliableTitleDate": "2023-12-25",
+      "assessmentAsOf": "2026-09-02",
+      "birthYear": null,
+      "birthPrecision": null,
+      "birthEvidence": null,
+      "partyStatus": "Full member, 20th CCP Central Committee",
+      "stateCmcStatus": null,
+      "npcStatus": null,
+      "disciplineState": null,
+      "disciplineNote": null,
+      "evidence": {
+        "grade": "E3",
+        "label": "Partial claim mapping",
+        "caveat": "Record created from a tracker source; no claim-scoped dossier entry beyond the sources listed.",
+        "mappedClaims": 0,
+        "primaryMappedClaims": 0,
+        "currentRoleMapped": false
+      },
+      "signals": {
+        "appointmentRecord": "legacy_unverified",
+        "titleFreshness": "pre_2025",
+        "currentRoleSource": "not_mapped",
+        "rankRecord": "recorded",
+        "partyRecord": "recorded",
+        "stateCmcRecord": "not_public",
+        "npcRecord": "not_public",
+        "birthRecord": "not_public",
+        "primaryMappedClaims": 0,
+        "openGapCount": 0
+      },
+      "sourceCount": 2,
+      "sources": [
+        {
+          "id": "ADD-SRC-PLA-08517ECD555A-1",
+          "url": "http://www.news.cn/politics/leaders/20231225/9db60f951dc842cba6c8806e3914b9e5/c.html",
+          "class": "A2",
+          "family": "official_primary",
+          "date": "2023-12-25",
+          "publisher": "Xinhua",
+          "scopes": [
+            "promotion ceremony report naming the officer as 南部战区政治委员"
+          ],
+          "people": [
+            {
+              "id": "PLA-08517ECD555A",
+              "nameEn": "Wang Wenquan",
+              "nameZh": "王文全"
+            }
+          ],
+          "mode": "text-title"
+        },
+        {
+          "id": "ADD-SRC-PLA-08517ECD555A-2",
+          "url": "http://www.gov.cn/xinwen/2022-10/22/content_5720882.htm",
+          "class": "A1",
+          "family": "formal_decision",
+          "date": "2022-10-22",
+          "publisher": "Xinhua via gov.cn",
+          "scopes": [
+            "20th Central Committee membership list; the billet at election is a secondary annotation, not part of the list"
+          ],
+          "people": [
+            {
+              "id": "PLA-08517ECD555A",
+              "nameEn": "Wang Wenquan",
+              "nameZh": "王文全"
+            }
+          ],
+          "mode": "formal-list"
+        }
+      ],
+      "claims": [],
+      "gapIds": [],
+      "discoveredBy": "trackers",
+      "positionIds": [
+        "POS-TC-S-PC"
+      ],
+      "positionRoles": [
+        {
+          "positionId": "POS-TC-S-PC",
+          "role": "holder"
+        }
+      ],
+      "archetypeStatus": "mapped",
+      "unmappedReason": null,
+      "unmappedNote": null,
+      "daysSinceTitle": 982
+    },
+    {
+      "id": "PLA-B578F6C0DA4B",
+      "nameEn": "Ling Huanxin",
+      "nameZh": "凌焕新",
+      "identityNote": "Surfaced by the promotion tracker; not refreshed since 2023.",
+      "branch": "Military education / research",
+      "institution": "Academy of Military Science",
+      "serviceOrigin": null,
+      "serviceOriginDetail": null,
+      "billet": "Political commissar, Academy of Military Science (promoted 28 June 2023)",
+      "rank": "General",
+      "roleState": "legacy_unverified",
+      "roleStateDetail": "Entered from tracker evidence; see identity note.",
+      "lastReliableTitleDate": "2023-06-28",
+      "assessmentAsOf": "2026-09-02",
+      "birthYear": null,
+      "birthPrecision": null,
+      "birthEvidence": null,
+      "partyStatus": "Alternate member, 20th CCP Central Committee (#121)",
+      "stateCmcStatus": null,
+      "npcStatus": null,
+      "disciplineState": null,
+      "disciplineNote": null,
+      "evidence": {
+        "grade": "E3",
+        "label": "Partial claim mapping",
+        "caveat": "Record created from a tracker source; no claim-scoped dossier entry beyond the sources listed.",
+        "mappedClaims": 0,
+        "primaryMappedClaims": 0,
+        "currentRoleMapped": false
+      },
+      "signals": {
+        "appointmentRecord": "legacy_unverified",
+        "titleFreshness": "pre_2025",
+        "currentRoleSource": "not_mapped",
+        "rankRecord": "recorded",
+        "partyRecord": "recorded",
+        "stateCmcRecord": "not_public",
+        "npcRecord": "not_public",
+        "birthRecord": "not_public",
+        "primaryMappedClaims": 0,
+        "openGapCount": 0
+      },
+      "sourceCount": 2,
+      "sources": [
+        {
+          "id": "ADD-SRC-PLA-B578F6C0DA4B-1",
+          "url": "http://www.news.cn/politics/leaders/2023-06/28/c_1129721994.htm",
+          "class": "A2",
+          "family": "official_primary",
+          "date": "2023-06-28",
+          "publisher": "Xinhua",
+          "scopes": [
+            "promotion ceremony report naming the officer as 军事科学院政治委员"
+          ],
+          "people": [
+            {
+              "id": "PLA-B578F6C0DA4B",
+              "nameEn": "Ling Huanxin",
+              "nameZh": "凌焕新"
+            }
+          ],
+          "mode": "text-title"
+        },
+        {
+          "id": "ADD-SRC-PLA-B578F6C0DA4B-2",
+          "url": "https://www.news.cn/2022-10/22/c_1129075009.htm",
+          "class": "A1",
+          "family": "formal_decision",
+          "date": "2022-10-22",
+          "publisher": "Xinhua",
+          "scopes": [
+            "20th Central Committee membership list; the billet at election is a secondary annotation, not part of the list"
+          ],
+          "people": [
+            {
+              "id": "PLA-B578F6C0DA4B",
+              "nameEn": "Ling Huanxin",
+              "nameZh": "凌焕新"
+            }
+          ],
+          "mode": "formal-list"
+        }
+      ],
+      "claims": [],
+      "gapIds": [],
+      "discoveredBy": "trackers",
+      "positionIds": [
+        "POS-AC-AMS-PC"
+      ],
+      "positionRoles": [
+        {
+          "positionId": "POS-AC-AMS-PC",
+          "role": "holder"
+        }
+      ],
+      "archetypeStatus": "mapped",
+      "unmappedReason": null,
+      "unmappedNote": null,
+      "daysSinceTitle": 1162
+    },
+    {
+      "id": "PLA-ECBB8109720E",
+      "nameEn": "Xu Deqing",
+      "nameZh": "徐德清",
+      "identityNote": "Surfaced by the 20th CC and promotion trackers; a secondary source notes his absence from expected activity after July 2025; no official action or successor is published.",
+      "branch": "Joint theater command",
+      "institution": "Central Theater Command",
+      "serviceOrigin": null,
+      "serviceOriginDetail": null,
+      "billet": "Political commissar, Central Theater Command (promoted 21 January 2022)",
+      "rank": "General",
+      "roleState": "legacy_unverified",
+      "roleStateDetail": "Entered from tracker evidence; see identity note.",
+      "lastReliableTitleDate": "2022-01-21",
+      "assessmentAsOf": "2026-09-02",
+      "birthYear": null,
+      "birthPrecision": null,
+      "birthEvidence": null,
+      "partyStatus": "Full member, 20th CCP Central Committee",
+      "stateCmcStatus": null,
+      "npcStatus": null,
+      "disciplineState": null,
+      "disciplineNote": null,
+      "evidence": {
+        "grade": "E3",
+        "label": "Partial claim mapping",
+        "caveat": "Record created from a tracker source; no claim-scoped dossier entry beyond the sources listed.",
+        "mappedClaims": 0,
+        "primaryMappedClaims": 0,
+        "currentRoleMapped": false
+      },
+      "signals": {
+        "appointmentRecord": "legacy_unverified",
+        "titleFreshness": "pre_2025",
+        "currentRoleSource": "not_mapped",
+        "rankRecord": "recorded",
+        "partyRecord": "recorded",
+        "stateCmcRecord": "not_public",
+        "npcRecord": "not_public",
+        "birthRecord": "not_public",
+        "primaryMappedClaims": 0,
+        "openGapCount": 0
+      },
+      "sourceCount": 2,
+      "sources": [
+        {
+          "id": "ADD-SRC-PLA-ECBB8109720E-1",
+          "url": "http://www.news.cn/politics/leaders/2022-01/21/c_1128288122.htm",
+          "class": "A2",
+          "family": "official_primary",
+          "date": "2022-01-21",
+          "publisher": "Xinhua",
+          "scopes": [
+            "promotion ceremony report naming the officer as 中部战区政治委员"
+          ],
+          "people": [
+            {
+              "id": "PLA-ECBB8109720E",
+              "nameEn": "Xu Deqing",
+              "nameZh": "徐德清"
+            }
+          ],
+          "mode": "text-title"
+        },
+        {
+          "id": "ADD-SRC-PLA-ECBB8109720E-2",
+          "url": "http://www.gov.cn/xinwen/2022-10/22/content_5720882.htm",
+          "class": "A1",
+          "family": "formal_decision",
+          "date": "2022-10-22",
+          "publisher": "Xinhua via gov.cn",
+          "scopes": [
+            "20th Central Committee membership list; the billet at election is a secondary annotation, not part of the list"
+          ],
+          "people": [
+            {
+              "id": "PLA-ECBB8109720E",
+              "nameEn": "Xu Deqing",
+              "nameZh": "徐德清"
+            }
+          ],
+          "mode": "formal-list"
+        }
+      ],
+      "claims": [],
+      "gapIds": [],
+      "discoveredBy": "trackers",
+      "positionIds": [
+        "POS-TC-C-PC"
+      ],
+      "positionRoles": [
+        {
+          "positionId": "POS-TC-C-PC",
+          "role": "holder"
+        }
+      ],
+      "archetypeStatus": "mapped",
+      "unmappedReason": null,
+      "unmappedNote": null,
+      "daysSinceTitle": 1685
+    },
+    {
+      "id": "PLA-33B9A8E34047",
+      "nameEn": "Xu Zhongbo",
+      "nameZh": "徐忠波",
+      "identityNote": "Surfaced by the 20th CC and promotion trackers; current status unknown.",
+      "branch": "PLA Rocket Force",
+      "institution": "PLA Rocket Force",
+      "serviceOrigin": null,
+      "serviceOriginDetail": null,
+      "billet": "Former political commissar, PLA Rocket Force (promoted 29 July 2020; replaced 31 July 2023)",
+      "rank": "General",
+      "roleState": "stale_or_unknown",
+      "roleStateDetail": "Entered from tracker evidence; see identity note.",
+      "lastReliableTitleDate": "2020-07-29",
+      "assessmentAsOf": "2026-09-02",
+      "birthYear": null,
+      "birthPrecision": null,
+      "birthEvidence": null,
+      "partyStatus": "Full member, 20th CCP Central Committee",
+      "stateCmcStatus": null,
+      "npcStatus": null,
+      "disciplineState": null,
+      "disciplineNote": null,
+      "evidence": {
+        "grade": "E3",
+        "label": "Partial claim mapping",
+        "caveat": "Record created from a tracker source; no claim-scoped dossier entry beyond the sources listed.",
+        "mappedClaims": 0,
+        "primaryMappedClaims": 0,
+        "currentRoleMapped": false
+      },
+      "signals": {
+        "appointmentRecord": "stale_or_unknown",
+        "titleFreshness": "pre_2025",
+        "currentRoleSource": "not_mapped",
+        "rankRecord": "recorded",
+        "partyRecord": "recorded",
+        "stateCmcRecord": "not_public",
+        "npcRecord": "not_public",
+        "birthRecord": "not_public",
+        "primaryMappedClaims": 0,
+        "openGapCount": 0
+      },
+      "sourceCount": 2,
+      "sources": [
+        {
+          "id": "ADD-SRC-PLA-33B9A8E34047-1",
+          "url": "http://www.xinhuanet.com/politics/leaders/2020-07/29/c_1126300876.htm",
+          "class": "A2",
+          "family": "official_primary",
+          "date": "2020-07-29",
+          "publisher": "Xinhua",
+          "scopes": [
+            "promotion ceremony report naming the officer as 火箭军政治委员"
+          ],
+          "people": [
+            {
+              "id": "PLA-33B9A8E34047",
+              "nameEn": "Xu Zhongbo",
+              "nameZh": "徐忠波"
+            }
+          ],
+          "mode": "text-title"
+        },
+        {
+          "id": "ADD-SRC-PLA-33B9A8E34047-2",
+          "url": "http://www.gov.cn/xinwen/2022-10/22/content_5720882.htm",
+          "class": "A1",
+          "family": "formal_decision",
+          "date": "2022-10-22",
+          "publisher": "Xinhua via gov.cn",
+          "scopes": [
+            "20th Central Committee membership list; the billet at election is a secondary annotation, not part of the list"
+          ],
+          "people": [
+            {
+              "id": "PLA-33B9A8E34047",
+              "nameEn": "Xu Zhongbo",
+              "nameZh": "徐忠波"
+            }
+          ],
+          "mode": "formal-list"
+        }
+      ],
+      "claims": [],
+      "gapIds": [],
+      "discoveredBy": "trackers",
+      "positionIds": [],
+      "positionRoles": [],
+      "archetypeStatus": "unmapped",
+      "unmappedReason": "billet_unknown",
+      "unmappedNote": "Replaced as Rocket Force political commissar in July 2023; no later record.",
+      "daysSinceTitle": 2226
+    },
+    {
+      "id": "PLA-8111603A9BD8",
+      "nameEn": "Wang Haijiang",
+      "nameZh": "汪海江",
+      "identityNote": "Surfaced by the 20th CC and promotion trackers; not named since September 2025 according to secondary lists; no official action or successor is published.",
+      "branch": "Joint theater command",
+      "institution": "Western Theater Command",
+      "serviceOrigin": null,
+      "serviceOriginDetail": null,
+      "billet": "Commander, Western Theater Command (promoted 6 September 2021)",
+      "rank": "General",
+      "roleState": "legacy_unverified",
+      "roleStateDetail": "Entered from tracker evidence; see identity note.",
+      "lastReliableTitleDate": "2021-09-06",
+      "assessmentAsOf": "2026-09-02",
+      "birthYear": null,
+      "birthPrecision": null,
+      "birthEvidence": null,
+      "partyStatus": "Full member, 20th CCP Central Committee",
+      "stateCmcStatus": null,
+      "npcStatus": null,
+      "disciplineState": null,
+      "disciplineNote": null,
+      "evidence": {
+        "grade": "E3",
+        "label": "Partial claim mapping",
+        "caveat": "Record created from a tracker source; no claim-scoped dossier entry beyond the sources listed.",
+        "mappedClaims": 0,
+        "primaryMappedClaims": 0,
+        "currentRoleMapped": false
+      },
+      "signals": {
+        "appointmentRecord": "legacy_unverified",
+        "titleFreshness": "pre_2025",
+        "currentRoleSource": "not_mapped",
+        "rankRecord": "recorded",
+        "partyRecord": "recorded",
+        "stateCmcRecord": "not_public",
+        "npcRecord": "not_public",
+        "birthRecord": "not_public",
+        "primaryMappedClaims": 0,
+        "openGapCount": 0
+      },
+      "sourceCount": 2,
+      "sources": [
+        {
+          "id": "ADD-SRC-PLA-8111603A9BD8-1",
+          "url": "http://www.xinhuanet.com/politics/leaders/2021-09/06/c_1127833663.htm",
+          "class": "A2",
+          "family": "official_primary",
+          "date": "2021-09-06",
+          "publisher": "Xinhua",
+          "scopes": [
+            "promotion ceremony report naming the officer as 西部战区司令员"
+          ],
+          "people": [
+            {
+              "id": "PLA-8111603A9BD8",
+              "nameEn": "Wang Haijiang",
+              "nameZh": "汪海江"
+            }
+          ],
+          "mode": "text-title"
+        },
+        {
+          "id": "ADD-SRC-PLA-8111603A9BD8-2",
+          "url": "http://www.gov.cn/xinwen/2022-10/22/content_5720882.htm",
+          "class": "A1",
+          "family": "formal_decision",
+          "date": "2022-10-22",
+          "publisher": "Xinhua via gov.cn",
+          "scopes": [
+            "20th Central Committee membership list; the billet at election is a secondary annotation, not part of the list"
+          ],
+          "people": [
+            {
+              "id": "PLA-8111603A9BD8",
+              "nameEn": "Wang Haijiang",
+              "nameZh": "汪海江"
+            }
+          ],
+          "mode": "formal-list"
+        }
+      ],
+      "claims": [],
+      "gapIds": [],
+      "discoveredBy": "trackers",
+      "positionIds": [
+        "POS-TC-W-CDR"
+      ],
+      "positionRoles": [
+        {
+          "positionId": "POS-TC-W-CDR",
+          "role": "holder"
+        }
+      ],
+      "archetypeStatus": "mapped",
+      "unmappedReason": null,
+      "unmappedNote": null,
+      "daysSinceTitle": 1822
+    },
+    {
+      "id": "PLA-3B2E5637C9DD",
+      "nameEn": "Liu Faqing",
+      "nameZh": "刘发庆",
+      "identityNote": "Surfaced by the 20th CC tracker; billet at election rests on a secondary annotation.",
+      "branch": "CMC / central joint",
+      "institution": "CMC / central joint",
+      "serviceOrigin": null,
+      "serviceOriginDetail": null,
+      "billet": "Former director, CMC National Defense Mobilization Department (2022 list annotation); replaced by Zhang Like on 30 October 2025",
+      "rank": null,
+      "roleState": "stale_or_unknown",
+      "roleStateDetail": "Entered from tracker evidence; see identity note.",
+      "lastReliableTitleDate": "2022-10-22",
+      "assessmentAsOf": "2026-09-02",
+      "birthYear": null,
+      "birthPrecision": null,
+      "birthEvidence": null,
+      "partyStatus": "Full member, 20th CCP Central Committee",
+      "stateCmcStatus": null,
+      "npcStatus": null,
+      "disciplineState": null,
+      "disciplineNote": null,
+      "evidence": {
+        "grade": "E3",
+        "label": "Partial claim mapping",
+        "caveat": "Record created from a tracker source; no claim-scoped dossier entry beyond the sources listed.",
+        "mappedClaims": 0,
+        "primaryMappedClaims": 0,
+        "currentRoleMapped": false
+      },
+      "signals": {
+        "appointmentRecord": "stale_or_unknown",
+        "titleFreshness": "pre_2025",
+        "currentRoleSource": "not_mapped",
+        "rankRecord": "not_public",
+        "partyRecord": "recorded",
+        "stateCmcRecord": "not_public",
+        "npcRecord": "not_public",
+        "birthRecord": "not_public",
+        "primaryMappedClaims": 0,
+        "openGapCount": 0
+      },
+      "sourceCount": 1,
+      "sources": [
+        {
+          "id": "ADD-SRC-PLA-3B2E5637C9DD-1",
+          "url": "http://www.gov.cn/xinwen/2022-10/22/content_5720882.htm",
+          "class": "A1",
+          "family": "formal_decision",
+          "date": "2022-10-22",
+          "publisher": "Xinhua via gov.cn",
+          "scopes": [
+            "20th Central Committee membership list; the billet at election is a secondary annotation, not part of the list"
+          ],
+          "people": [
+            {
+              "id": "PLA-3B2E5637C9DD",
+              "nameEn": "Liu Faqing",
+              "nameZh": "刘发庆"
+            }
+          ],
+          "mode": "formal-list"
+        }
+      ],
+      "claims": [],
+      "gapIds": [],
+      "discoveredBy": "trackers",
+      "positionIds": [],
+      "positionRoles": [],
+      "archetypeStatus": "unmapped",
+      "unmappedReason": "billet_unknown",
+      "unmappedNote": "Replaced as mobilization department director in October 2025; no later record.",
+      "daysSinceTitle": 1411
+    },
+    {
+      "id": "PLA-D86895BCFEE0",
+      "nameEn": "Xu Qiling",
+      "nameZh": "徐起零",
+      "identityNote": "Surfaced by the 20th CC and promotion trackers.",
+      "branch": "CMC / central joint",
+      "institution": "CMC Joint Staff Department",
+      "serviceOrigin": null,
+      "serviceOriginDetail": null,
+      "billet": "Deputy chief, CMC Joint Staff Department (theater-leader grade, per 2022 list annotation); last official title Western Theater commander (5 July 2021)",
+      "rank": "General",
+      "roleState": "legacy_unverified",
+      "roleStateDetail": "Entered from tracker evidence; see identity note.",
+      "lastReliableTitleDate": "2021-07-05",
+      "assessmentAsOf": "2026-09-02",
+      "birthYear": null,
+      "birthPrecision": null,
+      "birthEvidence": null,
+      "partyStatus": "Full member, 20th CCP Central Committee",
+      "stateCmcStatus": null,
+      "npcStatus": null,
+      "disciplineState": null,
+      "disciplineNote": null,
+      "evidence": {
+        "grade": "E3",
+        "label": "Partial claim mapping",
+        "caveat": "Record created from a tracker source; no claim-scoped dossier entry beyond the sources listed.",
+        "mappedClaims": 0,
+        "primaryMappedClaims": 0,
+        "currentRoleMapped": false
+      },
+      "signals": {
+        "appointmentRecord": "legacy_unverified",
+        "titleFreshness": "pre_2025",
+        "currentRoleSource": "not_mapped",
+        "rankRecord": "recorded",
+        "partyRecord": "recorded",
+        "stateCmcRecord": "not_public",
+        "npcRecord": "not_public",
+        "birthRecord": "not_public",
+        "primaryMappedClaims": 0,
+        "openGapCount": 0
+      },
+      "sourceCount": 2,
+      "sources": [
+        {
+          "id": "ADD-SRC-PLA-D86895BCFEE0-1",
+          "url": "http://www.xinhuanet.com/politics/2021-07/05/c_1127625114.htm",
+          "class": "A2",
+          "family": "official_primary",
+          "date": "2021-07-05",
+          "publisher": "Xinhua",
+          "scopes": [
+            "promotion ceremony report naming the officer as 西部战区司令员"
+          ],
+          "people": [
+            {
+              "id": "PLA-D86895BCFEE0",
+              "nameEn": "Xu Qiling",
+              "nameZh": "徐起零"
+            }
+          ],
+          "mode": "text-title"
+        },
+        {
+          "id": "ADD-SRC-PLA-D86895BCFEE0-2",
+          "url": "http://www.gov.cn/xinwen/2022-10/22/content_5720882.htm",
+          "class": "A1",
+          "family": "formal_decision",
+          "date": "2022-10-22",
+          "publisher": "Xinhua via gov.cn",
+          "scopes": [
+            "20th Central Committee membership list; the billet at election is a secondary annotation, not part of the list"
+          ],
+          "people": [
+            {
+              "id": "PLA-D86895BCFEE0",
+              "nameEn": "Xu Qiling",
+              "nameZh": "徐起零"
+            }
+          ],
+          "mode": "formal-list"
+        }
+      ],
+      "claims": [],
+      "gapIds": [],
+      "discoveredBy": "trackers",
+      "positionIds": [
+        "POS-ORG-JSD-DEP"
+      ],
+      "positionRoles": [
+        {
+          "positionId": "POS-ORG-JSD-DEP",
+          "role": "holder"
+        }
+      ],
+      "archetypeStatus": "mapped",
+      "unmappedReason": null,
+      "unmappedNote": null,
+      "daysSinceTitle": 1885
+    },
+    {
+      "id": "PLA-B733DF27E3CD",
+      "nameEn": "Yang Xuejun",
+      "nameZh": "杨学军",
+      "identityNote": "Surfaced by the 20th CC and promotion trackers.",
+      "branch": "Military education / research",
+      "institution": "Academy of Military Science",
+      "serviceOrigin": null,
+      "serviceOriginDetail": null,
+      "billet": "President, Academy of Military Science (promoted 12 December 2019); a secondary list reports a move to the CMC Strategic Planning Committee in 2025",
+      "rank": "General",
+      "roleState": "legacy_unverified",
+      "roleStateDetail": "Entered from tracker evidence; see identity note.",
+      "lastReliableTitleDate": "2019-12-12",
+      "assessmentAsOf": "2026-09-02",
+      "birthYear": null,
+      "birthPrecision": null,
+      "birthEvidence": null,
+      "partyStatus": "Full member, 20th CCP Central Committee",
+      "stateCmcStatus": null,
+      "npcStatus": null,
+      "disciplineState": null,
+      "disciplineNote": null,
+      "evidence": {
+        "grade": "E3",
+        "label": "Partial claim mapping",
+        "caveat": "Record created from a tracker source; no claim-scoped dossier entry beyond the sources listed.",
+        "mappedClaims": 0,
+        "primaryMappedClaims": 0,
+        "currentRoleMapped": false
+      },
+      "signals": {
+        "appointmentRecord": "legacy_unverified",
+        "titleFreshness": "pre_2025",
+        "currentRoleSource": "not_mapped",
+        "rankRecord": "recorded",
+        "partyRecord": "recorded",
+        "stateCmcRecord": "not_public",
+        "npcRecord": "not_public",
+        "birthRecord": "not_public",
+        "primaryMappedClaims": 0,
+        "openGapCount": 0
+      },
+      "sourceCount": 2,
+      "sources": [
+        {
+          "id": "ADD-SRC-PLA-B733DF27E3CD-1",
+          "url": "http://www.xinhuanet.com/politics/leaders/2019-12/12/c_1125340398.htm",
+          "class": "A2",
+          "family": "official_primary",
+          "date": "2019-12-12",
+          "publisher": "Xinhua",
+          "scopes": [
+            "promotion ceremony report naming the officer as 军事科学院院长"
+          ],
+          "people": [
+            {
+              "id": "PLA-B733DF27E3CD",
+              "nameEn": "Yang Xuejun",
+              "nameZh": "杨学军"
+            },
+            {
+              "id": "PLA-94A7F4C1A156",
+              "nameEn": "He Ping",
+              "nameZh": "何平"
+            }
+          ],
+          "mode": "text-title"
+        },
+        {
+          "id": "ADD-SRC-PLA-B733DF27E3CD-2",
+          "url": "http://www.gov.cn/xinwen/2022-10/22/content_5720882.htm",
+          "class": "A1",
+          "family": "formal_decision",
+          "date": "2022-10-22",
+          "publisher": "Xinhua via gov.cn",
+          "scopes": [
+            "20th Central Committee membership list; the billet at election is a secondary annotation, not part of the list"
+          ],
+          "people": [
+            {
+              "id": "PLA-B733DF27E3CD",
+              "nameEn": "Yang Xuejun",
+              "nameZh": "杨学军"
+            }
+          ],
+          "mode": "formal-list"
+        }
+      ],
+      "claims": [],
+      "gapIds": [],
+      "discoveredBy": "trackers",
+      "positionIds": [
+        "POS-AC-AMS-PRES"
+      ],
+      "positionRoles": [
+        {
+          "positionId": "POS-AC-AMS-PRES",
+          "role": "holder"
+        }
+      ],
+      "archetypeStatus": "mapped",
+      "unmappedReason": null,
+      "unmappedNote": null,
+      "daysSinceTitle": 2456
+    },
+    {
+      "id": "PLA-AA1C1EF73440",
+      "nameEn": "Xiao Tianliang",
+      "nameZh": "肖天亮",
+      "identityNote": "Surfaced by the promotion tracker.",
+      "branch": "Military education / research",
+      "institution": "National Defense University",
+      "serviceOrigin": null,
+      "serviceOriginDetail": null,
+      "billet": "President, National Defense University (promoted 28 March 2024)",
+      "rank": "General",
+      "roleState": "official_title_with_scope_caveat",
+      "roleStateDetail": "Entered from tracker evidence; see identity note.",
+      "lastReliableTitleDate": "2024-03-28",
+      "assessmentAsOf": "2026-09-02",
+      "birthYear": null,
+      "birthPrecision": null,
+      "birthEvidence": null,
+      "partyStatus": null,
+      "stateCmcStatus": null,
+      "npcStatus": null,
+      "disciplineState": null,
+      "disciplineNote": null,
+      "evidence": {
+        "grade": "E3",
+        "label": "Partial claim mapping",
+        "caveat": "Record created from a tracker source; no claim-scoped dossier entry beyond the sources listed.",
+        "mappedClaims": 0,
+        "primaryMappedClaims": 0,
+        "currentRoleMapped": false
+      },
+      "signals": {
+        "appointmentRecord": "official_title_with_scope_caveat",
+        "titleFreshness": "pre_2025",
+        "currentRoleSource": "not_mapped",
+        "rankRecord": "recorded",
+        "partyRecord": "not_public",
+        "stateCmcRecord": "not_public",
+        "npcRecord": "not_public",
+        "birthRecord": "not_public",
+        "primaryMappedClaims": 0,
+        "openGapCount": 0
+      },
+      "sourceCount": 1,
+      "sources": [
+        {
+          "id": "ADD-SRC-PLA-AA1C1EF73440-1",
+          "url": "http://www.news.cn/politics/leaders/20240328/6664137908f446dc8a98fd87ade13dbf/c.html",
+          "class": "A2",
+          "family": "official_primary",
+          "date": "2024-03-28",
+          "publisher": "Xinhua",
+          "scopes": [
+            "promotion ceremony report naming the officer as 国防大学校长"
+          ],
+          "people": [
+            {
+              "id": "PLA-AA1C1EF73440",
+              "nameEn": "Xiao Tianliang",
+              "nameZh": "肖天亮"
+            }
+          ],
+          "mode": "text-title"
+        }
+      ],
+      "claims": [],
+      "gapIds": [],
+      "discoveredBy": "trackers",
+      "positionIds": [
+        "POS-AC-NDU-PRES"
+      ],
+      "positionRoles": [
+        {
+          "positionId": "POS-AC-NDU-PRES",
+          "role": "holder"
+        }
+      ],
+      "archetypeStatus": "mapped",
+      "unmappedReason": null,
+      "unmappedNote": null,
+      "daysSinceTitle": 888
+    },
+    {
+      "id": "PLA-94A7F4C1A156",
+      "nameEn": "He Ping",
+      "nameZh": "何平",
+      "identityNote": "Surfaced by the promotion tracker; current status unknown.",
+      "branch": "Joint theater command",
+      "institution": "Eastern Theater Command",
+      "serviceOrigin": null,
+      "serviceOriginDetail": null,
+      "billet": "Former political commissar, Eastern Theater Command (promoted 12 December 2019); succeeded by Liu Qingsong in June 2023",
+      "rank": "General",
+      "roleState": "stale_or_unknown",
+      "roleStateDetail": "Entered from tracker evidence; see identity note.",
+      "lastReliableTitleDate": "2019-12-12",
+      "assessmentAsOf": "2026-09-02",
+      "birthYear": null,
+      "birthPrecision": null,
+      "birthEvidence": null,
+      "partyStatus": null,
+      "stateCmcStatus": null,
+      "npcStatus": null,
+      "disciplineState": null,
+      "disciplineNote": null,
+      "evidence": {
+        "grade": "E3",
+        "label": "Partial claim mapping",
+        "caveat": "Record created from a tracker source; no claim-scoped dossier entry beyond the sources listed.",
+        "mappedClaims": 0,
+        "primaryMappedClaims": 0,
+        "currentRoleMapped": false
+      },
+      "signals": {
+        "appointmentRecord": "stale_or_unknown",
+        "titleFreshness": "pre_2025",
+        "currentRoleSource": "not_mapped",
+        "rankRecord": "recorded",
+        "partyRecord": "not_public",
+        "stateCmcRecord": "not_public",
+        "npcRecord": "not_public",
+        "birthRecord": "not_public",
+        "primaryMappedClaims": 0,
+        "openGapCount": 0
+      },
+      "sourceCount": 1,
+      "sources": [
+        {
+          "id": "ADD-SRC-PLA-94A7F4C1A156-1",
+          "url": "http://www.xinhuanet.com/politics/leaders/2019-12/12/c_1125340398.htm",
+          "class": "A2",
+          "family": "official_primary",
+          "date": "2019-12-12",
+          "publisher": "Xinhua",
+          "scopes": [
+            "promotion ceremony report naming the officer as 东部战区政治委员"
+          ],
+          "people": [
+            {
+              "id": "PLA-94A7F4C1A156",
+              "nameEn": "He Ping",
+              "nameZh": "何平"
+            }
+          ],
+          "mode": "text-title"
+        }
+      ],
+      "claims": [],
+      "gapIds": [],
+      "discoveredBy": "trackers",
+      "positionIds": [],
+      "positionRoles": [],
+      "archetypeStatus": "unmapped",
+      "unmappedReason": "billet_unknown",
+      "unmappedNote": "Succeeded as Eastern Theater political commissar in 2023; no later record.",
+      "daysSinceTitle": 2456
+    },
+    {
+      "id": "PLA-EF985F4802B3",
+      "nameEn": "Fu Aiguo",
+      "nameZh": "傅爱国",
+      "identityNote": "Surfaced by the 20th CC tracker.",
+      "branch": "Military education / research",
+      "institution": "National University of Defense Technology",
+      "serviceOrigin": null,
+      "serviceOriginDetail": null,
+      "billet": "Former political commissar, National University of Defense Technology (2022 list annotation); Zhang Zhan holds the title in 2026",
+      "rank": null,
+      "roleState": "stale_or_unknown",
+      "roleStateDetail": "Entered from tracker evidence; see identity note.",
+      "lastReliableTitleDate": "2022-10-22",
+      "assessmentAsOf": "2026-09-02",
+      "birthYear": null,
+      "birthPrecision": null,
+      "birthEvidence": null,
+      "partyStatus": "Alternate member, 20th CCP Central Committee (#144)",
+      "stateCmcStatus": null,
+      "npcStatus": null,
+      "disciplineState": null,
+      "disciplineNote": null,
+      "evidence": {
+        "grade": "E3",
+        "label": "Partial claim mapping",
+        "caveat": "Record created from a tracker source; no claim-scoped dossier entry beyond the sources listed.",
+        "mappedClaims": 0,
+        "primaryMappedClaims": 0,
+        "currentRoleMapped": false
+      },
+      "signals": {
+        "appointmentRecord": "stale_or_unknown",
+        "titleFreshness": "pre_2025",
+        "currentRoleSource": "not_mapped",
+        "rankRecord": "not_public",
+        "partyRecord": "recorded",
+        "stateCmcRecord": "not_public",
+        "npcRecord": "not_public",
+        "birthRecord": "not_public",
+        "primaryMappedClaims": 0,
+        "openGapCount": 0
+      },
+      "sourceCount": 1,
+      "sources": [
+        {
+          "id": "ADD-SRC-PLA-EF985F4802B3-1",
+          "url": "https://www.news.cn/2022-10/22/c_1129075009.htm",
+          "class": "A1",
+          "family": "formal_decision",
+          "date": "2022-10-22",
+          "publisher": "Xinhua",
+          "scopes": [
+            "20th Central Committee membership list; the billet at election is a secondary annotation, not part of the list"
+          ],
+          "people": [
+            {
+              "id": "PLA-EF985F4802B3",
+              "nameEn": "Fu Aiguo",
+              "nameZh": "傅爱国"
+            }
+          ],
+          "mode": "formal-list"
+        }
+      ],
+      "claims": [],
+      "gapIds": [],
+      "discoveredBy": "trackers",
+      "positionIds": [],
+      "positionRoles": [],
+      "archetypeStatus": "unmapped",
+      "unmappedReason": "billet_unknown",
+      "unmappedNote": "Succeeded as NUDT political commissar; no later record.",
+      "daysSinceTitle": 1411
+    },
+    {
+      "id": "PLA-7ECB64D2F1CF",
+      "nameEn": "Zhou Jianguo",
+      "nameZh": "周建国",
+      "identityNote": "Surfaced by the 20th CC tracker; the deputy-commander title is reported, not officially observed.",
+      "branch": "People's Armed Police",
+      "institution": "People's Armed Police",
+      "serviceOrigin": null,
+      "serviceOriginDetail": null,
+      "billet": "Deputy commander, People's Armed Police (reported from September 2025 by a secondary list); earlier PAP chief of staff and Xinjiang Corps commander",
+      "rank": null,
+      "roleState": "inferred_current",
+      "roleStateDetail": "Entered from tracker evidence; see identity note.",
+      "lastReliableTitleDate": "2022-10-22",
+      "assessmentAsOf": "2026-09-02",
+      "birthYear": null,
+      "birthPrecision": null,
+      "birthEvidence": null,
+      "partyStatus": "Alternate member, 20th CCP Central Committee (#105)",
+      "stateCmcStatus": null,
+      "npcStatus": null,
+      "disciplineState": null,
+      "disciplineNote": null,
+      "evidence": {
+        "grade": "E3",
+        "label": "Partial claim mapping",
+        "caveat": "Record created from a tracker source; no claim-scoped dossier entry beyond the sources listed.",
+        "mappedClaims": 0,
+        "primaryMappedClaims": 0,
+        "currentRoleMapped": false
+      },
+      "signals": {
+        "appointmentRecord": "inferred_current",
+        "titleFreshness": "pre_2025",
+        "currentRoleSource": "not_mapped",
+        "rankRecord": "not_public",
+        "partyRecord": "recorded",
+        "stateCmcRecord": "not_public",
+        "npcRecord": "not_public",
+        "birthRecord": "not_public",
+        "primaryMappedClaims": 0,
+        "openGapCount": 0
+      },
+      "sourceCount": 1,
+      "sources": [
+        {
+          "id": "ADD-SRC-PLA-7ECB64D2F1CF-1",
+          "url": "https://www.news.cn/2022-10/22/c_1129075009.htm",
+          "class": "A1",
+          "family": "formal_decision",
+          "date": "2022-10-22",
+          "publisher": "Xinhua",
+          "scopes": [
+            "20th Central Committee membership list; the billet at election is a secondary annotation, not part of the list"
+          ],
+          "people": [
+            {
+              "id": "PLA-7ECB64D2F1CF",
+              "nameEn": "Zhou Jianguo",
+              "nameZh": "周建国"
+            }
+          ],
+          "mode": "formal-list"
+        }
+      ],
+      "claims": [],
+      "gapIds": [],
+      "discoveredBy": "trackers",
+      "positionIds": [
+        "POS-PAP-DEP"
+      ],
+      "positionRoles": [
+        {
+          "positionId": "POS-PAP-DEP",
+          "role": "holder"
+        }
+      ],
+      "archetypeStatus": "mapped",
+      "unmappedReason": null,
+      "unmappedNote": null,
+      "daysSinceTitle": 1411
+    },
+    {
+      "id": "PLA-483FD72B0D18",
+      "nameEn": "Zhou Zhixin",
+      "nameZh": "周志鑫",
+      "identityNote": "Surfaced by the 20th CC tracker; CAS academician.",
+      "branch": "CMC / central joint",
+      "institution": "CMC Science and Technology Commission",
+      "serviceOrigin": null,
+      "serviceOriginDetail": null,
+      "billet": "Deputy director, CMC Science and Technology Commission (2022 list annotation)",
+      "rank": null,
+      "roleState": "legacy_unverified",
+      "roleStateDetail": "Entered from tracker evidence; see identity note.",
+      "lastReliableTitleDate": "2022-10-22",
+      "assessmentAsOf": "2026-09-02",
+      "birthYear": null,
+      "birthPrecision": null,
+      "birthEvidence": null,
+      "partyStatus": "Alternate member, 20th CCP Central Committee (#104)",
+      "stateCmcStatus": null,
+      "npcStatus": null,
+      "disciplineState": null,
+      "disciplineNote": null,
+      "evidence": {
+        "grade": "E3",
+        "label": "Partial claim mapping",
+        "caveat": "Record created from a tracker source; no claim-scoped dossier entry beyond the sources listed.",
+        "mappedClaims": 0,
+        "primaryMappedClaims": 0,
+        "currentRoleMapped": false
+      },
+      "signals": {
+        "appointmentRecord": "legacy_unverified",
+        "titleFreshness": "pre_2025",
+        "currentRoleSource": "not_mapped",
+        "rankRecord": "not_public",
+        "partyRecord": "recorded",
+        "stateCmcRecord": "not_public",
+        "npcRecord": "not_public",
+        "birthRecord": "not_public",
+        "primaryMappedClaims": 0,
+        "openGapCount": 0
+      },
+      "sourceCount": 1,
+      "sources": [
+        {
+          "id": "ADD-SRC-PLA-483FD72B0D18-1",
+          "url": "https://www.news.cn/2022-10/22/c_1129075009.htm",
+          "class": "A1",
+          "family": "formal_decision",
+          "date": "2022-10-22",
+          "publisher": "Xinhua",
+          "scopes": [
+            "20th Central Committee membership list; the billet at election is a secondary annotation, not part of the list"
+          ],
+          "people": [
+            {
+              "id": "PLA-483FD72B0D18",
+              "nameEn": "Zhou Zhixin",
+              "nameZh": "周志鑫"
+            }
+          ],
+          "mode": "formal-list"
+        }
+      ],
+      "claims": [],
+      "gapIds": [],
+      "discoveredBy": "trackers",
+      "positionIds": [
+        "POS-ORG-STC-DEP"
+      ],
+      "positionRoles": [
+        {
+          "positionId": "POS-ORG-STC-DEP",
+          "role": "holder"
+        }
+      ],
+      "archetypeStatus": "mapped",
+      "unmappedReason": null,
+      "unmappedNote": null,
+      "daysSinceTitle": 1411
+    },
+    {
+      "id": "PLA-9E9C65A0F372",
+      "nameEn": "Jiang Guoping",
+      "nameZh": "姜国平",
+      "identityNote": "Surfaced by the 20th CC tracker.",
+      "branch": "Joint theater command",
+      "institution": "Northern Theater Command",
+      "serviceOrigin": null,
+      "serviceOriginDetail": null,
+      "billet": "Deputy commander and chief of staff, Northern Theater Command (2022 list annotation)",
+      "rank": null,
+      "roleState": "legacy_unverified",
+      "roleStateDetail": "Entered from tracker evidence; see identity note.",
+      "lastReliableTitleDate": "2022-10-22",
+      "assessmentAsOf": "2026-09-02",
+      "birthYear": null,
+      "birthPrecision": null,
+      "birthEvidence": null,
+      "partyStatus": "Alternate member, 20th CCP Central Committee (#111)",
+      "stateCmcStatus": null,
+      "npcStatus": null,
+      "disciplineState": null,
+      "disciplineNote": null,
+      "evidence": {
+        "grade": "E3",
+        "label": "Partial claim mapping",
+        "caveat": "Record created from a tracker source; no claim-scoped dossier entry beyond the sources listed.",
+        "mappedClaims": 0,
+        "primaryMappedClaims": 0,
+        "currentRoleMapped": false
+      },
+      "signals": {
+        "appointmentRecord": "legacy_unverified",
+        "titleFreshness": "pre_2025",
+        "currentRoleSource": "not_mapped",
+        "rankRecord": "not_public",
+        "partyRecord": "recorded",
+        "stateCmcRecord": "not_public",
+        "npcRecord": "not_public",
+        "birthRecord": "not_public",
+        "primaryMappedClaims": 0,
+        "openGapCount": 0
+      },
+      "sourceCount": 1,
+      "sources": [
+        {
+          "id": "ADD-SRC-PLA-9E9C65A0F372-1",
+          "url": "https://www.news.cn/2022-10/22/c_1129075009.htm",
+          "class": "A1",
+          "family": "formal_decision",
+          "date": "2022-10-22",
+          "publisher": "Xinhua",
+          "scopes": [
+            "20th Central Committee membership list; the billet at election is a secondary annotation, not part of the list"
+          ],
+          "people": [
+            {
+              "id": "PLA-9E9C65A0F372",
+              "nameEn": "Jiang Guoping",
+              "nameZh": "姜国平"
+            }
+          ],
+          "mode": "formal-list"
+        }
+      ],
+      "claims": [],
+      "gapIds": [],
+      "discoveredBy": "trackers",
+      "positionIds": [
+        "POS-TC-N-COS"
+      ],
+      "positionRoles": [
+        {
+          "positionId": "POS-TC-N-COS",
+          "role": "holder"
+        }
+      ],
+      "archetypeStatus": "mapped",
+      "unmappedReason": null,
+      "unmappedNote": null,
+      "daysSinceTitle": 1411
+    },
+    {
+      "id": "PLA-12D7BD728B4F",
+      "nameEn": "Zhang Xudong",
+      "nameZh": "张旭东",
+      "identityNote": "Surfaced by the promotion tracker; no record after 2021.",
+      "branch": "Joint theater command",
+      "institution": "Western Theater Command",
+      "serviceOrigin": null,
+      "serviceOriginDetail": null,
+      "billet": "Former commander, Western Theater Command (promoted 18 December 2020); succeeded by Wang Haijiang in September 2021",
+      "rank": "General",
+      "roleState": "stale_or_unknown",
+      "roleStateDetail": "Entered from tracker evidence; see identity note.",
+      "lastReliableTitleDate": "2020-12-18",
+      "assessmentAsOf": "2026-09-02",
+      "birthYear": null,
+      "birthPrecision": null,
+      "birthEvidence": null,
+      "partyStatus": null,
+      "stateCmcStatus": null,
+      "npcStatus": null,
+      "disciplineState": null,
+      "disciplineNote": null,
+      "evidence": {
+        "grade": "E3",
+        "label": "Partial claim mapping",
+        "caveat": "Record created from a tracker source; no claim-scoped dossier entry beyond the sources listed.",
+        "mappedClaims": 0,
+        "primaryMappedClaims": 0,
+        "currentRoleMapped": false
+      },
+      "signals": {
+        "appointmentRecord": "stale_or_unknown",
+        "titleFreshness": "pre_2025",
+        "currentRoleSource": "not_mapped",
+        "rankRecord": "recorded",
+        "partyRecord": "not_public",
+        "stateCmcRecord": "not_public",
+        "npcRecord": "not_public",
+        "birthRecord": "not_public",
+        "primaryMappedClaims": 0,
+        "openGapCount": 0
+      },
+      "sourceCount": 1,
+      "sources": [
+        {
+          "id": "ADD-SRC-PLA-12D7BD728B4F-1",
+          "url": "http://www.xinhuanet.com/politics/leaders/2020-12/18/c_1126879375.htm",
+          "class": "A2",
+          "family": "official_primary",
+          "date": "2020-12-18",
+          "publisher": "Xinhua",
+          "scopes": [
+            "promotion ceremony report naming the officer as 西部战区司令员"
+          ],
+          "people": [
+            {
+              "id": "PLA-12D7BD728B4F",
+              "nameEn": "Zhang Xudong",
+              "nameZh": "张旭东"
+            }
+          ],
+          "mode": "text-title"
+        }
+      ],
+      "claims": [],
+      "gapIds": [],
+      "discoveredBy": "trackers",
+      "positionIds": [],
+      "positionRoles": [],
+      "archetypeStatus": "unmapped",
+      "unmappedReason": "billet_unknown",
+      "unmappedNote": "Succeeded as Western Theater commander in 2021; no later record.",
+      "daysSinceTitle": 2084
+    },
+    {
+      "id": "PLA-C0ECF970BA51",
+      "nameEn": "Cao Junzhang",
+      "nameZh": "曹均章",
+      "identityNote": "Surfaced by the seat-turnover tracker.",
+      "branch": "People's Armed Police",
+      "institution": "People's Armed Police",
+      "serviceOrigin": null,
+      "serviceOriginDetail": null,
+      "billet": "Reported to be handling People's Armed Police command work (July 2025 press report); exact title not published",
+      "rank": null,
+      "roleState": "inferred_current",
+      "roleStateDetail": "Entered from tracker evidence; see identity note.",
+      "lastReliableTitleDate": "2025-07-24",
+      "assessmentAsOf": "2026-09-02",
+      "birthYear": null,
+      "birthPrecision": null,
+      "birthEvidence": null,
+      "partyStatus": null,
+      "stateCmcStatus": null,
+      "npcStatus": null,
+      "disciplineState": null,
+      "disciplineNote": null,
+      "evidence": {
+        "grade": "E3",
+        "label": "Partial claim mapping",
+        "caveat": "Record created from a tracker source; no claim-scoped dossier entry beyond the sources listed.",
+        "mappedClaims": 0,
+        "primaryMappedClaims": 0,
+        "currentRoleMapped": false
+      },
+      "signals": {
+        "appointmentRecord": "inferred_current",
+        "titleFreshness": "observed_2025",
+        "currentRoleSource": "not_mapped",
+        "rankRecord": "not_public",
+        "partyRecord": "not_public",
+        "stateCmcRecord": "not_public",
+        "npcRecord": "not_public",
+        "birthRecord": "not_public",
+        "primaryMappedClaims": 0,
+        "openGapCount": 0
+      },
+      "sourceCount": 1,
+      "sources": [
+        {
+          "id": "ADD-SRC-PLA-C0ECF970BA51-1",
+          "url": "https://china.caixin.com/m/2025-07-24/102344730.html",
+          "class": "B2",
+          "family": "specialist_research",
+          "date": "2025-07-24",
+          "publisher": "Caixin",
+          "scopes": [
+            "press report of PAP command handling"
+          ],
+          "people": [
+            {
+              "id": "PLA-C0ECF970BA51",
+              "nameEn": "Cao Junzhang",
+              "nameZh": "曹均章"
+            }
+          ],
+          "mode": "secondary-reconstruction"
+        }
+      ],
+      "claims": [],
+      "gapIds": [],
+      "discoveredBy": "trackers",
+      "positionIds": [
+        "POS-PAP-CDR"
+      ],
+      "positionRoles": [
+        {
+          "positionId": "POS-PAP-CDR",
+          "role": "handler"
+        }
+      ],
+      "archetypeStatus": "mapped",
+      "unmappedReason": null,
+      "unmappedNote": null,
+      "daysSinceTitle": 405
+    },
+    {
+      "id": "PLA-B82F0E3408B8",
+      "nameEn": "Li Songde",
+      "nameZh": "李宋德",
+      "identityNote": "Surfaced by the seat-turnover tracker; predecessor record only.",
+      "branch": "People's Armed Police",
+      "institution": "China Coast Guard",
+      "serviceOrigin": null,
+      "serviceOriginDetail": null,
+      "billet": "Former political commissar, China Coast Guard; succeeded by Liu Houjie on 10 April 2026",
+      "rank": null,
+      "roleState": "stale_or_unknown",
+      "roleStateDetail": "Entered from tracker evidence; see identity note.",
+      "lastReliableTitleDate": "2026-04-10",
+      "assessmentAsOf": "2026-09-02",
+      "birthYear": null,
+      "birthPrecision": null,
+      "birthEvidence": null,
+      "partyStatus": null,
+      "stateCmcStatus": null,
+      "npcStatus": null,
+      "disciplineState": null,
+      "disciplineNote": null,
+      "evidence": {
+        "grade": "E3",
+        "label": "Partial claim mapping",
+        "caveat": "Record created from a tracker source; no claim-scoped dossier entry beyond the sources listed.",
+        "mappedClaims": 0,
+        "primaryMappedClaims": 0,
+        "currentRoleMapped": false
+      },
+      "signals": {
+        "appointmentRecord": "stale_or_unknown",
+        "titleFreshness": "observed_2026",
+        "currentRoleSource": "not_mapped",
+        "rankRecord": "not_public",
+        "partyRecord": "not_public",
+        "stateCmcRecord": "not_public",
+        "npcRecord": "not_public",
+        "birthRecord": "not_public",
+        "primaryMappedClaims": 0,
+        "openGapCount": 0
+      },
+      "sourceCount": 1,
+      "sources": [
+        {
+          "id": "ADD-SRC-PLA-B82F0E3408B8-1",
+          "url": "https://zh.wikipedia.org/wiki/中国海警局",
+          "class": "C",
+          "family": "discovery_or_other",
+          "date": "2026-04-10",
+          "publisher": "Chinese Wikipedia",
+          "scopes": [
+            "secondary leadership list"
+          ],
+          "people": [
+            {
+              "id": "PLA-B82F0E3408B8",
+              "nameEn": "Li Songde",
+              "nameZh": "李宋德"
+            },
+            {
+              "id": "PLA-889A2C9B4293",
+              "nameEn": "Yu Zhong",
+              "nameZh": "郁忠"
+            }
+          ],
+          "mode": "secondary-reconstruction"
+        }
+      ],
+      "claims": [],
+      "gapIds": [],
+      "discoveredBy": "trackers",
+      "positionIds": [],
+      "positionRoles": [],
+      "archetypeStatus": "unmapped",
+      "unmappedReason": "billet_unknown",
+      "unmappedNote": "Succeeded as Coast Guard political commissar in April 2026.",
+      "daysSinceTitle": 145
+    },
+    {
+      "id": "PLA-E24A65F8F668",
+      "nameEn": "Li Xianyu",
+      "nameZh": "李贤玉",
+      "identityNote": "Surfaced by the 20th CC tracker; specialist-technical major general.",
+      "branch": "PLA Rocket Force",
+      "institution": "PLA Rocket Force Research Academy",
+      "serviceOrigin": null,
+      "serviceOriginDetail": null,
+      "billet": "Chief engineer, PLA Rocket Force Research Academy (2022 list annotation)",
+      "rank": null,
+      "roleState": "legacy_unverified",
+      "roleStateDetail": "Entered from tracker evidence; see identity note.",
+      "lastReliableTitleDate": "2022-10-22",
+      "assessmentAsOf": "2026-09-02",
+      "birthYear": null,
+      "birthPrecision": null,
+      "birthEvidence": null,
+      "partyStatus": "Alternate member, 20th CCP Central Committee (#58)",
+      "stateCmcStatus": null,
+      "npcStatus": null,
+      "disciplineState": null,
+      "disciplineNote": null,
+      "evidence": {
+        "grade": "E3",
+        "label": "Partial claim mapping",
+        "caveat": "Record created from a tracker source; no claim-scoped dossier entry beyond the sources listed.",
+        "mappedClaims": 0,
+        "primaryMappedClaims": 0,
+        "currentRoleMapped": false
+      },
+      "signals": {
+        "appointmentRecord": "legacy_unverified",
+        "titleFreshness": "pre_2025",
+        "currentRoleSource": "not_mapped",
+        "rankRecord": "not_public",
+        "partyRecord": "recorded",
+        "stateCmcRecord": "not_public",
+        "npcRecord": "not_public",
+        "birthRecord": "not_public",
+        "primaryMappedClaims": 0,
+        "openGapCount": 0
+      },
+      "sourceCount": 1,
+      "sources": [
+        {
+          "id": "ADD-SRC-PLA-E24A65F8F668-1",
+          "url": "https://www.news.cn/2022-10/22/c_1129075009.htm",
+          "class": "A1",
+          "family": "formal_decision",
+          "date": "2022-10-22",
+          "publisher": "Xinhua",
+          "scopes": [
+            "20th Central Committee membership list; the billet at election is a secondary annotation, not part of the list"
+          ],
+          "people": [
+            {
+              "id": "PLA-E24A65F8F668",
+              "nameEn": "Li Xianyu",
+              "nameZh": "李贤玉"
+            }
+          ],
+          "mode": "formal-list"
+        }
+      ],
+      "claims": [],
+      "gapIds": [],
+      "discoveredBy": "trackers",
+      "positionIds": [],
+      "positionRoles": [],
+      "archetypeStatus": "unmapped",
+      "unmappedReason": "academic_or_research",
+      "unmappedNote": "Research academy chief engineer.",
+      "daysSinceTitle": 1411
+    },
+    {
+      "id": "PLA-2E4A263353D7",
+      "nameEn": "Yang Zhiliang",
+      "nameZh": "杨志亮",
+      "identityNote": "Surfaced by the 20th CC tracker.",
+      "branch": "PLA Navy / Marines",
+      "institution": "Southern Theater Navy",
+      "serviceOrigin": null,
+      "serviceOriginDetail": null,
+      "billet": "Political commissar, Southern Theater Navy (2022 list annotation); a secondary list marks him retired",
+      "rank": null,
+      "roleState": "stale_or_unknown",
+      "roleStateDetail": "Entered from tracker evidence; see identity note.",
+      "lastReliableTitleDate": "2022-10-22",
+      "assessmentAsOf": "2026-09-02",
+      "birthYear": null,
+      "birthPrecision": null,
+      "birthEvidence": null,
+      "partyStatus": "Full member, 20th CCP Central Committee",
+      "stateCmcStatus": null,
+      "npcStatus": null,
+      "disciplineState": null,
+      "disciplineNote": null,
+      "evidence": {
+        "grade": "E3",
+        "label": "Partial claim mapping",
+        "caveat": "Record created from a tracker source; no claim-scoped dossier entry beyond the sources listed.",
+        "mappedClaims": 0,
+        "primaryMappedClaims": 0,
+        "currentRoleMapped": false
+      },
+      "signals": {
+        "appointmentRecord": "stale_or_unknown",
+        "titleFreshness": "pre_2025",
+        "currentRoleSource": "not_mapped",
+        "rankRecord": "not_public",
+        "partyRecord": "recorded",
+        "stateCmcRecord": "not_public",
+        "npcRecord": "not_public",
+        "birthRecord": "not_public",
+        "primaryMappedClaims": 0,
+        "openGapCount": 0
+      },
+      "sourceCount": 1,
+      "sources": [
+        {
+          "id": "ADD-SRC-PLA-2E4A263353D7-1",
+          "url": "http://www.gov.cn/xinwen/2022-10/22/content_5720882.htm",
+          "class": "A1",
+          "family": "formal_decision",
+          "date": "2022-10-22",
+          "publisher": "Xinhua via gov.cn",
+          "scopes": [
+            "20th Central Committee membership list; the billet at election is a secondary annotation, not part of the list"
+          ],
+          "people": [
+            {
+              "id": "PLA-2E4A263353D7",
+              "nameEn": "Yang Zhiliang",
+              "nameZh": "杨志亮"
+            }
+          ],
+          "mode": "formal-list"
+        }
+      ],
+      "claims": [],
+      "gapIds": [],
+      "discoveredBy": "trackers",
+      "positionIds": [
+        "POS-TC-S-NAVY-PC"
+      ],
+      "positionRoles": [
+        {
+          "positionId": "POS-TC-S-NAVY-PC",
+          "role": "holder"
+        }
+      ],
+      "archetypeStatus": "mapped",
+      "unmappedReason": null,
+      "unmappedNote": null,
+      "daysSinceTitle": 1411
+    },
+    {
+      "id": "PLA-3A51E500D083",
+      "nameEn": "Yang Cheng",
+      "nameZh": "杨诚",
+      "identityNote": "Surfaced by the 20th CC tracker; Yuan Honggang is reported to have taken the seat.",
+      "branch": "PLA Army / military district",
+      "institution": "Xinjiang Military District",
+      "serviceOrigin": null,
+      "serviceOriginDetail": null,
+      "billet": "Former political commissar, Xinjiang Military District (2022 list annotation; secondary list ends the billet in July 2025)",
+      "rank": null,
+      "roleState": "stale_or_unknown",
+      "roleStateDetail": "Entered from tracker evidence; see identity note.",
+      "lastReliableTitleDate": "2022-10-22",
+      "assessmentAsOf": "2026-09-02",
+      "birthYear": null,
+      "birthPrecision": null,
+      "birthEvidence": null,
+      "partyStatus": "Full member, 20th CCP Central Committee",
+      "stateCmcStatus": null,
+      "npcStatus": null,
+      "disciplineState": null,
+      "disciplineNote": null,
+      "evidence": {
+        "grade": "E3",
+        "label": "Partial claim mapping",
+        "caveat": "Record created from a tracker source; no claim-scoped dossier entry beyond the sources listed.",
+        "mappedClaims": 0,
+        "primaryMappedClaims": 0,
+        "currentRoleMapped": false
+      },
+      "signals": {
+        "appointmentRecord": "stale_or_unknown",
+        "titleFreshness": "pre_2025",
+        "currentRoleSource": "not_mapped",
+        "rankRecord": "not_public",
+        "partyRecord": "recorded",
+        "stateCmcRecord": "not_public",
+        "npcRecord": "not_public",
+        "birthRecord": "not_public",
+        "primaryMappedClaims": 0,
+        "openGapCount": 0
+      },
+      "sourceCount": 1,
+      "sources": [
+        {
+          "id": "ADD-SRC-PLA-3A51E500D083-1",
+          "url": "http://www.gov.cn/xinwen/2022-10/22/content_5720882.htm",
+          "class": "A1",
+          "family": "formal_decision",
+          "date": "2022-10-22",
+          "publisher": "Xinhua via gov.cn",
+          "scopes": [
+            "20th Central Committee membership list; the billet at election is a secondary annotation, not part of the list"
+          ],
+          "people": [
+            {
+              "id": "PLA-3A51E500D083",
+              "nameEn": "Yang Cheng",
+              "nameZh": "杨诚"
+            }
+          ],
+          "mode": "formal-list"
+        }
+      ],
+      "claims": [],
+      "gapIds": [],
+      "discoveredBy": "trackers",
+      "positionIds": [],
+      "positionRoles": [],
+      "archetypeStatus": "unmapped",
+      "unmappedReason": "billet_unknown",
+      "unmappedNote": "Secondary list ends his Xinjiang tenure in July 2025.",
+      "daysSinceTitle": 1411
+    },
+    {
+      "id": "PLA-F4C3E599850F",
+      "nameEn": "Wang Kai",
+      "nameZh": "王凯",
+      "identityNote": "Surfaced by the 20th CC tracker; listed as 王凯（解放军） in the Xinhua list.",
+      "branch": "PLA Army / military district",
+      "institution": "Tibet Military District",
+      "serviceOrigin": null,
+      "serviceOriginDetail": null,
+      "billet": "Commander, Tibet Military District (2022 list annotation; secondary list ends the billet in September 2025)",
+      "rank": null,
+      "roleState": "legacy_unverified",
+      "roleStateDetail": "Entered from tracker evidence; see identity note.",
+      "lastReliableTitleDate": "2022-10-22",
+      "assessmentAsOf": "2026-09-02",
+      "birthYear": null,
+      "birthPrecision": null,
+      "birthEvidence": null,
+      "partyStatus": "Full member, 20th CCP Central Committee",
+      "stateCmcStatus": null,
+      "npcStatus": null,
+      "disciplineState": null,
+      "disciplineNote": null,
+      "evidence": {
+        "grade": "E3",
+        "label": "Partial claim mapping",
+        "caveat": "Record created from a tracker source; no claim-scoped dossier entry beyond the sources listed.",
+        "mappedClaims": 0,
+        "primaryMappedClaims": 0,
+        "currentRoleMapped": false
+      },
+      "signals": {
+        "appointmentRecord": "legacy_unverified",
+        "titleFreshness": "pre_2025",
+        "currentRoleSource": "not_mapped",
+        "rankRecord": "not_public",
+        "partyRecord": "recorded",
+        "stateCmcRecord": "not_public",
+        "npcRecord": "not_public",
+        "birthRecord": "not_public",
+        "primaryMappedClaims": 0,
+        "openGapCount": 0
+      },
+      "sourceCount": 1,
+      "sources": [
+        {
+          "id": "ADD-SRC-PLA-F4C3E599850F-1",
+          "url": "http://www.gov.cn/xinwen/2022-10/22/content_5720882.htm",
+          "class": "A1",
+          "family": "formal_decision",
+          "date": "2022-10-22",
+          "publisher": "Xinhua via gov.cn",
+          "scopes": [
+            "20th Central Committee membership list; the billet at election is a secondary annotation, not part of the list"
+          ],
+          "people": [
+            {
+              "id": "PLA-F4C3E599850F",
+              "nameEn": "Wang Kai",
+              "nameZh": "王凯"
+            }
+          ],
+          "mode": "formal-list"
+        }
+      ],
+      "claims": [],
+      "gapIds": [],
+      "discoveredBy": "trackers",
+      "positionIds": [
+        "POS-MD-XZ-CDR"
+      ],
+      "positionRoles": [
+        {
+          "positionId": "POS-MD-XZ-CDR",
+          "role": "holder"
+        }
+      ],
+      "archetypeStatus": "mapped",
+      "unmappedReason": null,
+      "unmappedNote": null,
+      "daysSinceTitle": 1411
+    },
+    {
+      "id": "PLA-5942EC3082F1",
+      "nameEn": "Wang Hai",
+      "nameZh": "王海",
+      "identityNote": "Surfaced by the seat-turnover tracker; predecessor record only.",
+      "branch": "PLA Navy / Marines",
+      "institution": "Southern Theater Navy",
+      "serviceOrigin": null,
+      "serviceOriginDetail": null,
+      "billet": "Former commander, Southern Theater Navy; succeeded by Ju Xinchun on 1 February 2023",
+      "rank": null,
+      "roleState": "stale_or_unknown",
+      "roleStateDetail": "Entered from tracker evidence; see identity note.",
+      "lastReliableTitleDate": "2023-02-01",
+      "assessmentAsOf": "2026-09-02",
+      "birthYear": null,
+      "birthPrecision": null,
+      "birthEvidence": null,
+      "partyStatus": null,
+      "stateCmcStatus": null,
+      "npcStatus": null,
+      "disciplineState": null,
+      "disciplineNote": null,
+      "evidence": {
+        "grade": "E3",
+        "label": "Partial claim mapping",
+        "caveat": "Record created from a tracker source; no claim-scoped dossier entry beyond the sources listed.",
+        "mappedClaims": 0,
+        "primaryMappedClaims": 0,
+        "currentRoleMapped": false
+      },
+      "signals": {
+        "appointmentRecord": "stale_or_unknown",
+        "titleFreshness": "pre_2025",
+        "currentRoleSource": "not_mapped",
+        "rankRecord": "not_public",
+        "partyRecord": "not_public",
+        "stateCmcRecord": "not_public",
+        "npcRecord": "not_public",
+        "birthRecord": "not_public",
+        "primaryMappedClaims": 0,
+        "openGapCount": 0
+      },
+      "sourceCount": 1,
+      "sources": [
+        {
+          "id": "ADD-SRC-PLA-5942EC3082F1-1",
+          "url": "https://zh.wikipedia.org/wiki/南部战区海军",
+          "class": "C",
+          "family": "discovery_or_other",
+          "date": "2023-02-01",
+          "publisher": "Chinese Wikipedia",
+          "scopes": [
+            "secondary leadership list"
+          ],
+          "people": [
+            {
+              "id": "PLA-5942EC3082F1",
+              "nameEn": "Wang Hai",
+              "nameZh": "王海"
+            }
+          ],
+          "mode": "secondary-reconstruction"
+        }
+      ],
+      "claims": [],
+      "gapIds": [],
+      "discoveredBy": "trackers",
+      "positionIds": [],
+      "positionRoles": [],
+      "archetypeStatus": "unmapped",
+      "unmappedReason": "billet_unknown",
+      "unmappedNote": "Succeeded as Southern Theater Navy commander in 2023.",
+      "daysSinceTitle": 1309
+    },
+    {
+      "id": "PLA-156B0FD4A63E",
+      "nameEn": "Zhao Xiaozhe",
+      "nameZh": "赵晓哲",
+      "identityNote": "Surfaced by the 20th CC tracker; conflicts with the v7 legacy record naming Xu Weijin as assessed director.",
+      "branch": "CMC / central joint",
+      "institution": "CMC Science and Technology Commission",
+      "serviceOrigin": null,
+      "serviceOriginDetail": null,
+      "billet": "Director, CMC Science and Technology Commission (2022 list annotation)",
+      "rank": null,
+      "roleState": "legacy_unverified",
+      "roleStateDetail": "Entered from tracker evidence; see identity note.",
+      "lastReliableTitleDate": "2022-10-22",
+      "assessmentAsOf": "2026-09-02",
+      "birthYear": null,
+      "birthPrecision": null,
+      "birthEvidence": null,
+      "partyStatus": "Full member, 20th CCP Central Committee",
+      "stateCmcStatus": null,
+      "npcStatus": null,
+      "disciplineState": null,
+      "disciplineNote": null,
+      "evidence": {
+        "grade": "E3",
+        "label": "Partial claim mapping",
+        "caveat": "Record created from a tracker source; no claim-scoped dossier entry beyond the sources listed.",
+        "mappedClaims": 0,
+        "primaryMappedClaims": 0,
+        "currentRoleMapped": false
+      },
+      "signals": {
+        "appointmentRecord": "legacy_unverified",
+        "titleFreshness": "pre_2025",
+        "currentRoleSource": "not_mapped",
+        "rankRecord": "not_public",
+        "partyRecord": "recorded",
+        "stateCmcRecord": "not_public",
+        "npcRecord": "not_public",
+        "birthRecord": "not_public",
+        "primaryMappedClaims": 0,
+        "openGapCount": 0
+      },
+      "sourceCount": 1,
+      "sources": [
+        {
+          "id": "ADD-SRC-PLA-156B0FD4A63E-1",
+          "url": "http://www.gov.cn/xinwen/2022-10/22/content_5720882.htm",
+          "class": "A1",
+          "family": "formal_decision",
+          "date": "2022-10-22",
+          "publisher": "Xinhua via gov.cn",
+          "scopes": [
+            "20th Central Committee membership list; the billet at election is a secondary annotation, not part of the list"
+          ],
+          "people": [
+            {
+              "id": "PLA-156B0FD4A63E",
+              "nameEn": "Zhao Xiaozhe",
+              "nameZh": "赵晓哲"
+            }
+          ],
+          "mode": "formal-list"
+        }
+      ],
+      "claims": [],
+      "gapIds": [],
+      "discoveredBy": "trackers",
+      "positionIds": [
+        "POS-ORG-STC-DIR"
+      ],
+      "positionRoles": [
+        {
+          "positionId": "POS-ORG-STC-DIR",
+          "role": "holder"
+        }
+      ],
+      "archetypeStatus": "mapped",
+      "unmappedReason": null,
+      "unmappedNote": null,
+      "daysSinceTitle": 1411
+    },
+    {
+      "id": "PLA-1F62929EA429",
+      "nameEn": "Qiu Yang",
+      "nameZh": "邱杨",
+      "identityNote": "Surfaced by the seat-turnover tracker.",
+      "branch": "CMC / central joint",
+      "institution": "CMC General Office",
+      "serviceOrigin": null,
+      "serviceOriginDetail": null,
+      "billet": "Reported to be handling CMC General Office work (named in Fourth Plenum coverage, 23 October 2025); exact title not published",
+      "rank": null,
+      "roleState": "inferred_current",
+      "roleStateDetail": "Entered from tracker evidence; see identity note.",
+      "lastReliableTitleDate": "2025-10-23",
+      "assessmentAsOf": "2026-09-02",
+      "birthYear": null,
+      "birthPrecision": null,
+      "birthEvidence": null,
+      "partyStatus": null,
+      "stateCmcStatus": null,
+      "npcStatus": null,
+      "disciplineState": null,
+      "disciplineNote": null,
+      "evidence": {
+        "grade": "E3",
+        "label": "Partial claim mapping",
+        "caveat": "Record created from a tracker source; no claim-scoped dossier entry beyond the sources listed.",
+        "mappedClaims": 0,
+        "primaryMappedClaims": 0,
+        "currentRoleMapped": false
+      },
+      "signals": {
+        "appointmentRecord": "inferred_current",
+        "titleFreshness": "observed_2025",
+        "currentRoleSource": "not_mapped",
+        "rankRecord": "not_public",
+        "partyRecord": "not_public",
+        "stateCmcRecord": "not_public",
+        "npcRecord": "not_public",
+        "birthRecord": "not_public",
+        "primaryMappedClaims": 0,
+        "openGapCount": 0
+      },
+      "sourceCount": 1,
+      "sources": [
+        {
+          "id": "ADD-SRC-PLA-1F62929EA429-1",
+          "url": "http://www.news.cn/politics/20251023/777d21b244c4405c84b544d7cc43e236/c.html",
+          "class": "A2",
+          "family": "official_primary",
+          "date": "2025-10-23",
+          "publisher": "Xinhua",
+          "scopes": [
+            "plenum coverage naming the officer"
+          ],
+          "people": [
+            {
+              "id": "PLA-1F62929EA429",
+              "nameEn": "Qiu Yang",
+              "nameZh": "邱杨"
+            }
+          ],
+          "mode": "text-title"
+        }
+      ],
+      "claims": [],
+      "gapIds": [],
+      "discoveredBy": "trackers",
+      "positionIds": [
+        "POS-ORG-GO-DIR"
+      ],
+      "positionRoles": [
+        {
+          "positionId": "POS-ORG-GO-DIR",
+          "role": "handler"
+        }
+      ],
+      "archetypeStatus": "mapped",
+      "unmappedReason": null,
+      "unmappedNote": null,
+      "daysSinceTitle": 314
+    },
+    {
+      "id": "PLA-889A2C9B4293",
+      "nameEn": "Yu Zhong",
+      "nameZh": "郁忠",
+      "identityNote": "Surfaced by the seat-turnover tracker; predecessor record only.",
+      "branch": "People's Armed Police",
+      "institution": "China Coast Guard",
+      "serviceOrigin": null,
+      "serviceOriginDetail": null,
+      "billet": "Former director, China Coast Guard; succeeded by Zhang Jianming on 30 January 2026",
+      "rank": null,
+      "roleState": "stale_or_unknown",
+      "roleStateDetail": "Entered from tracker evidence; see identity note.",
+      "lastReliableTitleDate": "2026-01-30",
+      "assessmentAsOf": "2026-09-02",
+      "birthYear": null,
+      "birthPrecision": null,
+      "birthEvidence": null,
+      "partyStatus": null,
+      "stateCmcStatus": null,
+      "npcStatus": null,
+      "disciplineState": null,
+      "disciplineNote": null,
+      "evidence": {
+        "grade": "E3",
+        "label": "Partial claim mapping",
+        "caveat": "Record created from a tracker source; no claim-scoped dossier entry beyond the sources listed.",
+        "mappedClaims": 0,
+        "primaryMappedClaims": 0,
+        "currentRoleMapped": false
+      },
+      "signals": {
+        "appointmentRecord": "stale_or_unknown",
+        "titleFreshness": "observed_2026",
+        "currentRoleSource": "not_mapped",
+        "rankRecord": "not_public",
+        "partyRecord": "not_public",
+        "stateCmcRecord": "not_public",
+        "npcRecord": "not_public",
+        "birthRecord": "not_public",
+        "primaryMappedClaims": 0,
+        "openGapCount": 0
+      },
+      "sourceCount": 1,
+      "sources": [
+        {
+          "id": "ADD-SRC-PLA-889A2C9B4293-1",
+          "url": "https://zh.wikipedia.org/wiki/中国海警局",
+          "class": "C",
+          "family": "discovery_or_other",
+          "date": "2026-01-30",
+          "publisher": "Chinese Wikipedia",
+          "scopes": [
+            "secondary leadership list"
+          ],
+          "people": [
+            {
+              "id": "PLA-889A2C9B4293",
+              "nameEn": "Yu Zhong",
+              "nameZh": "郁忠"
+            }
+          ],
+          "mode": "secondary-reconstruction"
+        }
+      ],
+      "claims": [],
+      "gapIds": [],
+      "discoveredBy": "trackers",
+      "positionIds": [],
+      "positionRoles": [],
+      "archetypeStatus": "unmapped",
+      "unmappedReason": "billet_unknown",
+      "unmappedNote": "Succeeded as Coast Guard director in January 2026.",
+      "daysSinceTitle": 215
+    },
+    {
+      "id": "PLA-39F37FDF2502",
+      "nameEn": "Li Xiang",
+      "nameZh": "黎湘",
+      "identityNote": "Surfaced by the 20th CC tracker; CAS academician.",
+      "branch": "Military education / research",
+      "institution": "National University of Defense Technology",
+      "serviceOrigin": null,
+      "serviceOriginDetail": null,
+      "billet": "Former president, National University of Defense Technology (2022 list annotation); Lei Yongjun holds the title in 2026",
+      "rank": null,
+      "roleState": "stale_or_unknown",
+      "roleStateDetail": "Entered from tracker evidence; see identity note.",
+      "lastReliableTitleDate": "2022-10-22",
+      "assessmentAsOf": "2026-09-02",
+      "birthYear": null,
+      "birthPrecision": null,
+      "birthEvidence": null,
+      "partyStatus": "Alternate member, 20th CCP Central Committee (#158)",
+      "stateCmcStatus": null,
+      "npcStatus": null,
+      "disciplineState": null,
+      "disciplineNote": null,
+      "evidence": {
+        "grade": "E3",
+        "label": "Partial claim mapping",
+        "caveat": "Record created from a tracker source; no claim-scoped dossier entry beyond the sources listed.",
+        "mappedClaims": 0,
+        "primaryMappedClaims": 0,
+        "currentRoleMapped": false
+      },
+      "signals": {
+        "appointmentRecord": "stale_or_unknown",
+        "titleFreshness": "pre_2025",
+        "currentRoleSource": "not_mapped",
+        "rankRecord": "not_public",
+        "partyRecord": "recorded",
+        "stateCmcRecord": "not_public",
+        "npcRecord": "not_public",
+        "birthRecord": "not_public",
+        "primaryMappedClaims": 0,
+        "openGapCount": 0
+      },
+      "sourceCount": 1,
+      "sources": [
+        {
+          "id": "ADD-SRC-PLA-39F37FDF2502-1",
+          "url": "https://www.news.cn/2022-10/22/c_1129075009.htm",
+          "class": "A1",
+          "family": "formal_decision",
+          "date": "2022-10-22",
+          "publisher": "Xinhua",
+          "scopes": [
+            "20th Central Committee membership list; the billet at election is a secondary annotation, not part of the list"
+          ],
+          "people": [
+            {
+              "id": "PLA-39F37FDF2502",
+              "nameEn": "Li Xiang",
+              "nameZh": "黎湘"
+            }
+          ],
+          "mode": "formal-list"
+        }
+      ],
+      "claims": [],
+      "gapIds": [],
+      "discoveredBy": "trackers",
+      "positionIds": [],
+      "positionRoles": [],
+      "archetypeStatus": "unmapped",
+      "unmappedReason": "billet_unknown",
+      "unmappedNote": "Succeeded as NUDT president; no later record.",
+      "daysSinceTitle": 1411
     }
   ],
   "identityHeldRecords": [
@@ -18935,7 +21282,7 @@
     },
     {
       "id": "G06",
-      "title": "Birth evidence lacks a usable numeric year for 91 of 150 active dossiers",
+      "title": "Birth evidence lacks a usable numeric year for 118 of 177 active dossiers",
       "status": "open",
       "whyItMatters": "Unknown or approximate ages widen long-run bands and can reverse runway comparisons",
       "evidenceNeeded": "official biography, NPC/CPPCC roster, or two strong independent sources",
@@ -21921,6 +24268,76 @@
         "totalDays": null,
         "collectionState": "partial",
         "searchLane": "Xinhua and 81.cn naming 军委审计署审计长孙斌 in 2024–2025; audit-conference reports",
+        "researchNotes": null
+      }
+    },
+    {
+      "id": "PLA-1468E0AB3EBC",
+      "nameEn": "Wang Liyan",
+      "nameZh": "王立岩",
+      "formerBranch": "PLA Rocket Force",
+      "formerRole": "Reported PLA Rocket Force deputy commander and chief of staff (from June 2024, secondary list); Joint Logistic Support Force commander at the 2022 election",
+      "status": "promotion-bypass-unresolved",
+      "controlledState": "unresolved_adverse_watch",
+      "date": "2025-10-23",
+      "summary": "20th Central Committee alternate (#9) bypassed when the Fourth Plenum filled vacancies on 23 October 2025 (a lower-ranked alternate was promoted). The bypass is a Party-selection anomaly, not proof of investigation or removal. Kept outside the positive universe until a formal appointment, 21st Congress elevation, or authoritative explanation resolves it.",
+      "evidenceConfidence": "high for the Party-selection bypass; unresolved for cause",
+      "sources": [
+        "http://www.news.cn/politics/20251023/777d21b244c4405c84b544d7cc43e236/c.html",
+        "https://www.news.cn/2022-10/22/c_1129075009.htm"
+      ],
+      "discoveredBy": "cc20Military tracker",
+      "timeline": {
+        "lastPublicAppearance": null,
+        "firstConcreteSignal": {
+          "date": "2025-10-23",
+          "kind": "party_bypass",
+          "url": "http://www.news.cn/politics/20251023/777d21b244c4405c84b544d7cc43e236/c.html",
+          "sourceClass": "A1",
+          "note": "Bypassed in ordered vacancy filling at the Fourth Plenum"
+        },
+        "formalAction": null,
+        "intermediateActions": [],
+        "silenceDays": null,
+        "processDays": null,
+        "totalDays": null,
+        "collectionState": "partial",
+        "searchLane": "Not researched; a formal appointment or 21st Congress elevation resolves the case",
+        "researchNotes": null
+      }
+    },
+    {
+      "id": "PLA-32A056DB78D0",
+      "nameEn": "Shi Zhenglu",
+      "nameZh": "石正露",
+      "formerBranch": "Joint theater command",
+      "formerRole": "Northern Theater deputy commander and Northern Theater Army commander at the 2022 election; a secondary list marks him retired after August 2025",
+      "status": "promotion-bypass-unresolved",
+      "controlledState": "unresolved_adverse_watch",
+      "date": "2025-10-23",
+      "summary": "20th Central Committee alternate (#21) bypassed when the Fourth Plenum filled vacancies on 23 October 2025 (a lower-ranked alternate was promoted). The bypass is a Party-selection anomaly, not proof of investigation or removal. Kept outside the positive universe until a formal appointment, 21st Congress elevation, or authoritative explanation resolves it.",
+      "evidenceConfidence": "high for the Party-selection bypass; unresolved for cause",
+      "sources": [
+        "http://www.news.cn/politics/20251023/777d21b244c4405c84b544d7cc43e236/c.html",
+        "https://www.news.cn/2022-10/22/c_1129075009.htm"
+      ],
+      "discoveredBy": "cc20Military tracker",
+      "timeline": {
+        "lastPublicAppearance": null,
+        "firstConcreteSignal": {
+          "date": "2025-10-23",
+          "kind": "party_bypass",
+          "url": "http://www.news.cn/politics/20251023/777d21b244c4405c84b544d7cc43e236/c.html",
+          "sourceClass": "A1",
+          "note": "Bypassed in ordered vacancy filling at the Fourth Plenum"
+        },
+        "formalAction": null,
+        "intermediateActions": [],
+        "silenceDays": null,
+        "processDays": null,
+        "totalDays": null,
+        "collectionState": "partial",
+        "searchLane": "Not researched; a formal appointment or 21st Congress elevation resolves the case",
         "researchNotes": null
       }
     }
@@ -28494,6 +30911,41 @@
           "id": "PLA-E3B1477CCE9D",
           "nameEn": "Wei Wenhui",
           "nameZh": "魏文徽"
+        },
+        {
+          "id": "PLA-B578F6C0DA4B",
+          "nameEn": "Ling Huanxin",
+          "nameZh": "凌焕新"
+        },
+        {
+          "id": "PLA-EF985F4802B3",
+          "nameEn": "Fu Aiguo",
+          "nameZh": "傅爱国"
+        },
+        {
+          "id": "PLA-7ECB64D2F1CF",
+          "nameEn": "Zhou Jianguo",
+          "nameZh": "周建国"
+        },
+        {
+          "id": "PLA-483FD72B0D18",
+          "nameEn": "Zhou Zhixin",
+          "nameZh": "周志鑫"
+        },
+        {
+          "id": "PLA-9E9C65A0F372",
+          "nameEn": "Jiang Guoping",
+          "nameZh": "姜国平"
+        },
+        {
+          "id": "PLA-E24A65F8F668",
+          "nameEn": "Li Xianyu",
+          "nameZh": "李贤玉"
+        },
+        {
+          "id": "PLA-39F37FDF2502",
+          "nameEn": "Li Xiang",
+          "nameZh": "黎湘"
         }
       ],
       "mode": "formal-list"
@@ -28516,6 +30968,356 @@
         }
       ],
       "mode": "formal-list"
+    },
+    {
+      "id": "ADD-SRC-PLA-E51315008617-1",
+      "url": "http://www.news.cn/politics/leaders/2022-09/08/c_1128987497.htm",
+      "class": "A2",
+      "family": "official_primary",
+      "date": "2022-09-08",
+      "publisher": "Xinhua",
+      "scopes": [
+        "promotion ceremony report naming the officer as 北部战区司令员"
+      ],
+      "people": [
+        {
+          "id": "PLA-E51315008617",
+          "nameEn": "Wang Qiang",
+          "nameZh": "王强"
+        }
+      ],
+      "mode": "text-title"
+    },
+    {
+      "id": "ADD-SRC-PLA-E51315008617-2",
+      "url": "http://www.gov.cn/xinwen/2022-10/22/content_5720882.htm",
+      "class": "A1",
+      "family": "formal_decision",
+      "date": "2022-10-22",
+      "publisher": "Xinhua via gov.cn",
+      "scopes": [
+        "20th Central Committee membership list; the billet at election is a secondary annotation, not part of the list"
+      ],
+      "people": [
+        {
+          "id": "PLA-E51315008617",
+          "nameEn": "Wang Qiang",
+          "nameZh": "王强"
+        },
+        {
+          "id": "PLA-08517ECD555A",
+          "nameEn": "Wang Wenquan",
+          "nameZh": "王文全"
+        },
+        {
+          "id": "PLA-ECBB8109720E",
+          "nameEn": "Xu Deqing",
+          "nameZh": "徐德清"
+        },
+        {
+          "id": "PLA-33B9A8E34047",
+          "nameEn": "Xu Zhongbo",
+          "nameZh": "徐忠波"
+        },
+        {
+          "id": "PLA-8111603A9BD8",
+          "nameEn": "Wang Haijiang",
+          "nameZh": "汪海江"
+        },
+        {
+          "id": "PLA-3B2E5637C9DD",
+          "nameEn": "Liu Faqing",
+          "nameZh": "刘发庆"
+        },
+        {
+          "id": "PLA-D86895BCFEE0",
+          "nameEn": "Xu Qiling",
+          "nameZh": "徐起零"
+        },
+        {
+          "id": "PLA-B733DF27E3CD",
+          "nameEn": "Yang Xuejun",
+          "nameZh": "杨学军"
+        },
+        {
+          "id": "PLA-2E4A263353D7",
+          "nameEn": "Yang Zhiliang",
+          "nameZh": "杨志亮"
+        },
+        {
+          "id": "PLA-3A51E500D083",
+          "nameEn": "Yang Cheng",
+          "nameZh": "杨诚"
+        },
+        {
+          "id": "PLA-F4C3E599850F",
+          "nameEn": "Wang Kai",
+          "nameZh": "王凯"
+        },
+        {
+          "id": "PLA-156B0FD4A63E",
+          "nameEn": "Zhao Xiaozhe",
+          "nameZh": "赵晓哲"
+        }
+      ],
+      "mode": "formal-list"
+    },
+    {
+      "id": "ADD-SRC-PLA-08517ECD555A-1",
+      "url": "http://www.news.cn/politics/leaders/20231225/9db60f951dc842cba6c8806e3914b9e5/c.html",
+      "class": "A2",
+      "family": "official_primary",
+      "date": "2023-12-25",
+      "publisher": "Xinhua",
+      "scopes": [
+        "promotion ceremony report naming the officer as 南部战区政治委员"
+      ],
+      "people": [
+        {
+          "id": "PLA-08517ECD555A",
+          "nameEn": "Wang Wenquan",
+          "nameZh": "王文全"
+        }
+      ],
+      "mode": "text-title"
+    },
+    {
+      "id": "ADD-SRC-PLA-B578F6C0DA4B-1",
+      "url": "http://www.news.cn/politics/leaders/2023-06/28/c_1129721994.htm",
+      "class": "A2",
+      "family": "official_primary",
+      "date": "2023-06-28",
+      "publisher": "Xinhua",
+      "scopes": [
+        "promotion ceremony report naming the officer as 军事科学院政治委员"
+      ],
+      "people": [
+        {
+          "id": "PLA-B578F6C0DA4B",
+          "nameEn": "Ling Huanxin",
+          "nameZh": "凌焕新"
+        }
+      ],
+      "mode": "text-title"
+    },
+    {
+      "id": "ADD-SRC-PLA-ECBB8109720E-1",
+      "url": "http://www.news.cn/politics/leaders/2022-01/21/c_1128288122.htm",
+      "class": "A2",
+      "family": "official_primary",
+      "date": "2022-01-21",
+      "publisher": "Xinhua",
+      "scopes": [
+        "promotion ceremony report naming the officer as 中部战区政治委员"
+      ],
+      "people": [
+        {
+          "id": "PLA-ECBB8109720E",
+          "nameEn": "Xu Deqing",
+          "nameZh": "徐德清"
+        }
+      ],
+      "mode": "text-title"
+    },
+    {
+      "id": "ADD-SRC-PLA-33B9A8E34047-1",
+      "url": "http://www.xinhuanet.com/politics/leaders/2020-07/29/c_1126300876.htm",
+      "class": "A2",
+      "family": "official_primary",
+      "date": "2020-07-29",
+      "publisher": "Xinhua",
+      "scopes": [
+        "promotion ceremony report naming the officer as 火箭军政治委员"
+      ],
+      "people": [
+        {
+          "id": "PLA-33B9A8E34047",
+          "nameEn": "Xu Zhongbo",
+          "nameZh": "徐忠波"
+        }
+      ],
+      "mode": "text-title"
+    },
+    {
+      "id": "ADD-SRC-PLA-8111603A9BD8-1",
+      "url": "http://www.xinhuanet.com/politics/leaders/2021-09/06/c_1127833663.htm",
+      "class": "A2",
+      "family": "official_primary",
+      "date": "2021-09-06",
+      "publisher": "Xinhua",
+      "scopes": [
+        "promotion ceremony report naming the officer as 西部战区司令员"
+      ],
+      "people": [
+        {
+          "id": "PLA-8111603A9BD8",
+          "nameEn": "Wang Haijiang",
+          "nameZh": "汪海江"
+        }
+      ],
+      "mode": "text-title"
+    },
+    {
+      "id": "ADD-SRC-PLA-D86895BCFEE0-1",
+      "url": "http://www.xinhuanet.com/politics/2021-07/05/c_1127625114.htm",
+      "class": "A2",
+      "family": "official_primary",
+      "date": "2021-07-05",
+      "publisher": "Xinhua",
+      "scopes": [
+        "promotion ceremony report naming the officer as 西部战区司令员"
+      ],
+      "people": [
+        {
+          "id": "PLA-D86895BCFEE0",
+          "nameEn": "Xu Qiling",
+          "nameZh": "徐起零"
+        }
+      ],
+      "mode": "text-title"
+    },
+    {
+      "id": "ADD-SRC-PLA-B733DF27E3CD-1",
+      "url": "http://www.xinhuanet.com/politics/leaders/2019-12/12/c_1125340398.htm",
+      "class": "A2",
+      "family": "official_primary",
+      "date": "2019-12-12",
+      "publisher": "Xinhua",
+      "scopes": [
+        "promotion ceremony report naming the officer as 军事科学院院长"
+      ],
+      "people": [
+        {
+          "id": "PLA-B733DF27E3CD",
+          "nameEn": "Yang Xuejun",
+          "nameZh": "杨学军"
+        },
+        {
+          "id": "PLA-94A7F4C1A156",
+          "nameEn": "He Ping",
+          "nameZh": "何平"
+        }
+      ],
+      "mode": "text-title"
+    },
+    {
+      "id": "ADD-SRC-PLA-AA1C1EF73440-1",
+      "url": "http://www.news.cn/politics/leaders/20240328/6664137908f446dc8a98fd87ade13dbf/c.html",
+      "class": "A2",
+      "family": "official_primary",
+      "date": "2024-03-28",
+      "publisher": "Xinhua",
+      "scopes": [
+        "promotion ceremony report naming the officer as 国防大学校长"
+      ],
+      "people": [
+        {
+          "id": "PLA-AA1C1EF73440",
+          "nameEn": "Xiao Tianliang",
+          "nameZh": "肖天亮"
+        }
+      ],
+      "mode": "text-title"
+    },
+    {
+      "id": "ADD-SRC-PLA-12D7BD728B4F-1",
+      "url": "http://www.xinhuanet.com/politics/leaders/2020-12/18/c_1126879375.htm",
+      "class": "A2",
+      "family": "official_primary",
+      "date": "2020-12-18",
+      "publisher": "Xinhua",
+      "scopes": [
+        "promotion ceremony report naming the officer as 西部战区司令员"
+      ],
+      "people": [
+        {
+          "id": "PLA-12D7BD728B4F",
+          "nameEn": "Zhang Xudong",
+          "nameZh": "张旭东"
+        }
+      ],
+      "mode": "text-title"
+    },
+    {
+      "id": "ADD-SRC-PLA-C0ECF970BA51-1",
+      "url": "https://china.caixin.com/m/2025-07-24/102344730.html",
+      "class": "B2",
+      "family": "specialist_research",
+      "date": "2025-07-24",
+      "publisher": "Caixin",
+      "scopes": [
+        "press report of PAP command handling"
+      ],
+      "people": [
+        {
+          "id": "PLA-C0ECF970BA51",
+          "nameEn": "Cao Junzhang",
+          "nameZh": "曹均章"
+        }
+      ],
+      "mode": "secondary-reconstruction"
+    },
+    {
+      "id": "ADD-SRC-PLA-B82F0E3408B8-1",
+      "url": "https://zh.wikipedia.org/wiki/中国海警局",
+      "class": "C",
+      "family": "discovery_or_other",
+      "date": "2026-04-10",
+      "publisher": "Chinese Wikipedia",
+      "scopes": [
+        "secondary leadership list"
+      ],
+      "people": [
+        {
+          "id": "PLA-B82F0E3408B8",
+          "nameEn": "Li Songde",
+          "nameZh": "李宋德"
+        },
+        {
+          "id": "PLA-889A2C9B4293",
+          "nameEn": "Yu Zhong",
+          "nameZh": "郁忠"
+        }
+      ],
+      "mode": "secondary-reconstruction"
+    },
+    {
+      "id": "ADD-SRC-PLA-5942EC3082F1-1",
+      "url": "https://zh.wikipedia.org/wiki/南部战区海军",
+      "class": "C",
+      "family": "discovery_or_other",
+      "date": "2023-02-01",
+      "publisher": "Chinese Wikipedia",
+      "scopes": [
+        "secondary leadership list"
+      ],
+      "people": [
+        {
+          "id": "PLA-5942EC3082F1",
+          "nameEn": "Wang Hai",
+          "nameZh": "王海"
+        }
+      ],
+      "mode": "secondary-reconstruction"
+    },
+    {
+      "id": "ADD-SRC-PLA-1F62929EA429-1",
+      "url": "http://www.news.cn/politics/20251023/777d21b244c4405c84b544d7cc43e236/c.html",
+      "class": "A2",
+      "family": "official_primary",
+      "date": "2025-10-23",
+      "publisher": "Xinhua",
+      "scopes": [
+        "plenum coverage naming the officer"
+      ],
+      "people": [
+        {
+          "id": "PLA-1F62929EA429",
+          "nameEn": "Qiu Yang",
+          "nameZh": "邱杨"
+        }
+      ],
+      "mode": "text-title"
     }
   ],
   "systemSources": [
@@ -29647,7 +32449,18 @@
       "seats": 1,
       "isBench": false,
       "holders": [],
-      "handlers": [],
+      "handlers": [
+        {
+          "officerId": "PLA-1F62929EA429",
+          "nameEn": "Qiu Yang",
+          "nameZh": "邱杨",
+          "billet": "Reported to be handling CMC General Office work (named in Fourth Plenum coverage, 23 October 2025); exact title not published",
+          "roleState": "inferred_current",
+          "lastReliableTitleDate": "2025-10-23",
+          "daysSinceTitle": 314,
+          "titleDatePrecision": "day"
+        }
+      ],
       "adverse": [
         {
           "adverseId": "PLA-2D95381606C9",
@@ -29670,7 +32483,7 @@
       "note": "Zhong Shaojun (former director) lost his NPC seat in August 2026; Fang Yongxiang, the reported current director, sits in the unresolved promotion-bypass watch, so no holder is published.",
       "searchLane": "Xinhua coverage naming 军委办公厅主任 with an exact title",
       "lastChecked": "2026-09-02",
-      "coverage": "adverse_vacancy",
+      "coverage": "handled_without_title",
       "freshestTitleDays": null
     },
     {
@@ -29752,6 +32565,16 @@
           "roleState": "formal_current",
           "lastReliableTitleDate": "2025-06-11 event; 2025-09-03 publication",
           "daysSinceTitle": 448,
+          "titleDatePrecision": "day"
+        },
+        {
+          "officerId": "PLA-D86895BCFEE0",
+          "nameEn": "Xu Qiling",
+          "nameZh": "徐起零",
+          "billet": "Deputy chief, CMC Joint Staff Department (theater-leader grade, per 2022 list annotation); last official title Western Theater commander (5 July 2021)",
+          "roleState": "legacy_unverified",
+          "lastReliableTitleDate": "2021-07-05",
+          "daysSinceTitle": 1885,
           "titleDatePrecision": "day"
         }
       ],
@@ -30347,16 +33170,57 @@
           "lastReliableTitleDate": "unknown",
           "daysSinceTitle": null,
           "titleDatePrecision": null
+        },
+        {
+          "officerId": "PLA-156B0FD4A63E",
+          "nameEn": "Zhao Xiaozhe",
+          "nameZh": "赵晓哲",
+          "billet": "Director, CMC Science and Technology Commission (2022 list annotation)",
+          "roleState": "legacy_unverified",
+          "lastReliableTitleDate": "2022-10-22",
+          "daysSinceTitle": 1411,
+          "titleDatePrecision": "day"
         }
       ],
       "handlers": [],
       "adverse": [],
       "externalHolder": null,
-      "note": "Legacy record; not refreshed. Zhou Zhixin's deputy title was last exact in 2021.",
+      "note": "Two legacy records conflict: the v7 base assessed Xu Weijin as director, while the 2022 Central Committee list annotation names Zhao Xiaozhe. Neither is refreshed.",
       "searchLane": "Xinhua/81.cn naming 科学技术委员会主任",
       "lastChecked": "2026-09-02",
+      "coverage": "conflicting",
+      "freshestTitleDays": 1411
+    },
+    {
+      "id": "POS-ORG-STC-DEP",
+      "tier": "cmc_organs",
+      "organization": "CMC Science and Technology Commission",
+      "organizationZh": "军委科学技术委员会",
+      "position": "Deputy directors (bench)",
+      "positionZh": "副主任",
+      "gradeBand": "CMC organ deputy",
+      "seats": 0,
+      "isBench": true,
+      "holders": [
+        {
+          "officerId": "PLA-483FD72B0D18",
+          "nameEn": "Zhou Zhixin",
+          "nameZh": "周志鑫",
+          "billet": "Deputy director, CMC Science and Technology Commission (2022 list annotation)",
+          "roleState": "legacy_unverified",
+          "lastReliableTitleDate": "2022-10-22",
+          "daysSinceTitle": 1411,
+          "titleDatePrecision": "day"
+        }
+      ],
+      "handlers": [],
+      "adverse": [],
+      "externalHolder": null,
+      "note": "2022 list annotation; not refreshed.",
+      "searchLane": "",
+      "lastChecked": "2026-09-02",
       "coverage": "stale",
-      "freshestTitleDays": null
+      "freshestTitleDays": 1411
     },
     {
       "id": "POS-ORG-SPO-DIR",
@@ -30730,6 +33594,26 @@
       "freshestTitleDays": null
     },
     {
+      "id": "POS-TC-E-NAVY-PC",
+      "tier": "theaters",
+      "organization": "Eastern Theater Navy",
+      "organizationZh": "东部战区海军",
+      "position": "Political commissar",
+      "positionZh": "政治委员",
+      "gradeBand": "Theater-deputy grade",
+      "seats": 1,
+      "isBench": false,
+      "holders": [],
+      "handlers": [],
+      "adverse": [],
+      "externalHolder": null,
+      "note": "No public record held.",
+      "searchLane": "Fleet event reports naming 政治委员",
+      "lastChecked": "2026-09-02",
+      "coverage": "no_record",
+      "freshestTitleDays": null
+    },
+    {
       "id": "POS-TC-E-AF",
       "tier": "theaters",
       "organization": "Eastern Theater Air Force",
@@ -30801,15 +33685,26 @@
       "gradeBand": "Theater-leader grade",
       "seats": 1,
       "isBench": false,
-      "holders": [],
+      "holders": [
+        {
+          "officerId": "PLA-08517ECD555A",
+          "nameEn": "Wang Wenquan",
+          "nameZh": "王文全",
+          "billet": "Political commissar, Southern Theater Command (promoted into the seat 25 December 2023)",
+          "roleState": "legacy_unverified",
+          "lastReliableTitleDate": "2023-12-25",
+          "daysSinceTitle": 982,
+          "titleDatePrecision": "day"
+        }
+      ],
       "handlers": [],
       "adverse": [],
       "externalHolder": null,
-      "note": "The last known political commissar, Wang Wenquan (王文全), was promoted into the seat on 25 December 2023 but is not yet an officer dossier in this dataset; his 2025 exit is reported only by uncited secondary lists. Yin Hongxing, formerly recorded here, was terminated through the Army military congress and is now mapped to the Southern Theater Army political-commissar seat.",
+      "note": "Wang Wenquan (王文全) was promoted into the seat on 25 December 2023; an uncited secondary list dates his exit to October 2025 and no official action or successor is published; his 2025 exit is reported only by uncited secondary lists. Yin Hongxing, formerly recorded here, was terminated through the Army military congress and is now mapped to the Southern Theater Army political-commissar seat.",
       "searchLane": "Xinhua promotion ceremony or exact-title event report",
       "lastChecked": "2026-09-02",
-      "coverage": "no_record",
-      "freshestTitleDays": null
+      "coverage": "stale",
+      "freshestTitleDays": 982
     },
     {
       "id": "POS-TC-S-COS",
@@ -30979,6 +33874,37 @@
       "freshestTitleDays": null
     },
     {
+      "id": "POS-TC-S-NAVY-PC",
+      "tier": "theaters",
+      "organization": "Southern Theater Navy",
+      "organizationZh": "南部战区海军",
+      "position": "Political commissar",
+      "positionZh": "政治委员",
+      "gradeBand": "Theater-deputy grade",
+      "seats": 1,
+      "isBench": false,
+      "holders": [
+        {
+          "officerId": "PLA-2E4A263353D7",
+          "nameEn": "Yang Zhiliang",
+          "nameZh": "杨志亮",
+          "billet": "Political commissar, Southern Theater Navy (2022 list annotation); a secondary list marks him retired",
+          "roleState": "stale_or_unknown",
+          "lastReliableTitleDate": "2022-10-22",
+          "daysSinceTitle": 1411,
+          "titleDatePrecision": "day"
+        }
+      ],
+      "handlers": [],
+      "adverse": [],
+      "externalHolder": null,
+      "note": "2022 Central Committee list annotation; a secondary list marks him retired.",
+      "searchLane": "Fleet event reports naming 政治委员",
+      "lastChecked": "2026-09-02",
+      "coverage": "stale",
+      "freshestTitleDays": 1411
+    },
+    {
       "id": "POS-TC-S-AF",
       "tier": "theaters",
       "organization": "Southern Theater Air Force",
@@ -31019,7 +33945,18 @@
       "gradeBand": "Theater-leader grade",
       "seats": 1,
       "isBench": false,
-      "holders": [],
+      "holders": [
+        {
+          "officerId": "PLA-8111603A9BD8",
+          "nameEn": "Wang Haijiang",
+          "nameZh": "汪海江",
+          "billet": "Commander, Western Theater Command (promoted 6 September 2021)",
+          "roleState": "legacy_unverified",
+          "lastReliableTitleDate": "2021-09-06",
+          "daysSinceTitle": 1822,
+          "titleDatePrecision": "day"
+        }
+      ],
       "handlers": [
         {
           "officerId": "PLA-0F27B343F6BD",
@@ -31034,11 +33971,11 @@
       ],
       "adverse": [],
       "externalHolder": null,
-      "note": "The last known commander, Wang Haijiang (汪海江), promoted into the seat in September 2021, has not been named since September 2025; no official action is published and he is not yet a dossier in this dataset. Wen Junfei holds an exact deputy-commander title and is the visible senior officer.",
+      "note": "Wang Haijiang (汪海江), promoted into the seat in September 2021, has not been named since September 2025 according to secondary lists; no official action is published. Wen Junfei holds an exact deputy-commander title and is the visible senior officer.",
       "searchLane": "Xinhua promotion ceremony or exact-title event report",
       "lastChecked": "2026-09-02",
-      "coverage": "handled_without_title",
-      "freshestTitleDays": null
+      "coverage": "stale",
+      "freshestTitleDays": 1822
     },
     {
       "id": "POS-TC-W-PC",
@@ -31337,15 +34274,26 @@
       "gradeBand": "Theater-deputy grade",
       "seats": 1,
       "isBench": false,
-      "holders": [],
+      "holders": [
+        {
+          "officerId": "PLA-9E9C65A0F372",
+          "nameEn": "Jiang Guoping",
+          "nameZh": "姜国平",
+          "billet": "Deputy commander and chief of staff, Northern Theater Command (2022 list annotation)",
+          "roleState": "legacy_unverified",
+          "lastReliableTitleDate": "2022-10-22",
+          "daysSinceTitle": 1411,
+          "titleDatePrecision": "day"
+        }
+      ],
       "handlers": [],
       "adverse": [],
       "externalHolder": null,
-      "note": "No public record held.",
+      "note": "2022 Central Committee list annotation (deputy commander and chief of staff); not refreshed.",
       "searchLane": "Theater event reports naming 参谋长",
       "lastChecked": "2026-09-02",
-      "coverage": "no_record",
-      "freshestTitleDays": null
+      "coverage": "stale",
+      "freshestTitleDays": 1411
     },
     {
       "id": "POS-TC-N-PWD",
@@ -31444,7 +34392,7 @@
       "handlers": [],
       "adverse": [],
       "externalHolder": null,
-      "note": "Acting commander in September 2025; likely commander by June 2026, not formally confirmed.",
+      "note": "Acting commander in September 2025; likely commander by June 2026, not formally confirmed. His predecessor Shi Zhenglu was passed over at the Fourth Plenum and sits in the adverse watch.",
       "searchLane": "Theater Army event reports",
       "lastChecked": "2026-09-02",
       "coverage": "acting_or_inferred",
@@ -31486,6 +34434,26 @@
       "externalHolder": null,
       "note": "No public record held.",
       "searchLane": "Fleet event reports",
+      "lastChecked": "2026-09-02",
+      "coverage": "no_record",
+      "freshestTitleDays": null
+    },
+    {
+      "id": "POS-TC-N-NAVY-PC",
+      "tier": "theaters",
+      "organization": "Northern Theater Navy",
+      "organizationZh": "北部战区海军",
+      "position": "Political commissar",
+      "positionZh": "政治委员",
+      "gradeBand": "Theater-deputy grade",
+      "seats": 1,
+      "isBench": false,
+      "holders": [],
+      "handlers": [],
+      "adverse": [],
+      "externalHolder": null,
+      "note": "No public record held.",
+      "searchLane": "Fleet event reports naming 政治委员",
       "lastChecked": "2026-09-02",
       "coverage": "no_record",
       "freshestTitleDays": null
@@ -31546,7 +34514,7 @@
       "handlers": [],
       "adverse": [],
       "externalHolder": null,
-      "note": "Formalized 22 December 2025.",
+      "note": "Formalized 22 December 2025; his predecessor Wang Qiang was not named after September 2025.",
       "searchLane": "Xinhua promotion ceremony or exact-title event report",
       "lastChecked": "2026-09-02",
       "coverage": "formal_current",
@@ -31562,7 +34530,18 @@
       "gradeBand": "Theater-leader grade",
       "seats": 1,
       "isBench": false,
-      "holders": [],
+      "holders": [
+        {
+          "officerId": "PLA-ECBB8109720E",
+          "nameEn": "Xu Deqing",
+          "nameZh": "徐德清",
+          "billet": "Political commissar, Central Theater Command (promoted 21 January 2022)",
+          "roleState": "legacy_unverified",
+          "lastReliableTitleDate": "2022-01-21",
+          "daysSinceTitle": 1685,
+          "titleDatePrecision": "day"
+        }
+      ],
       "handlers": [
         {
           "officerId": "PLA-14958C283AD5",
@@ -31577,11 +34556,11 @@
       ],
       "adverse": [],
       "externalHolder": null,
-      "note": "The last known political commissar, Xu Deqing (徐德清), promoted into the seat in January 2022, has not been named since July 2025; no official action is published and he is not yet a dossier. Liang Ping is a reconstructed senior political-work figure who appears to handle the work.",
+      "note": "Xu Deqing (徐德清), promoted into the seat in January 2022, has not been named since July 2025 according to a secondary source; no official action is published. Liang Ping is a reconstructed senior political-work figure who appears to handle the work.",
       "searchLane": "Xinhua promotion ceremony or exact-title event report",
       "lastChecked": "2026-09-02",
-      "coverage": "handled_without_title",
-      "freshestTitleDays": null
+      "coverage": "stale",
+      "freshestTitleDays": 1685
     },
     {
       "id": "POS-TC-C-COS",
@@ -32789,6 +35768,14 @@
           "status": "confirmed removed",
           "controlledState": "confirmed_exit",
           "date": "2023"
+        },
+        {
+          "adverseId": "PLA-1468E0AB3EBC",
+          "nameEn": "Wang Liyan",
+          "nameZh": "王立岩",
+          "status": "promotion-bypass-unresolved",
+          "controlledState": "unresolved_adverse_watch",
+          "date": "2025-10-23"
         }
       ],
       "externalHolder": null,
@@ -33508,6 +36495,16 @@
           "lastReliableTitleDate": "2026-03; handling-work signal 2026-04",
           "daysSinceTitle": -120,
           "titleDatePrecision": "year"
+        },
+        {
+          "officerId": "PLA-C0ECF970BA51",
+          "nameEn": "Cao Junzhang",
+          "nameZh": "曹均章",
+          "billet": "Reported to be handling People's Armed Police command work (July 2025 press report); exact title not published",
+          "roleState": "inferred_current",
+          "lastReliableTitleDate": "2025-07-24",
+          "daysSinceTitle": 405,
+          "titleDatePrecision": "day"
         }
       ],
       "adverse": [
@@ -33668,6 +36665,16 @@
           "roleState": "inferred_current",
           "lastReliableTitleDate": "2024-04-28 to 2024-04-30",
           "daysSinceTitle": 857,
+          "titleDatePrecision": "day"
+        },
+        {
+          "officerId": "PLA-7ECB64D2F1CF",
+          "nameEn": "Zhou Jianguo",
+          "nameZh": "周建国",
+          "billet": "Deputy commander, People's Armed Police (reported from September 2025 by a secondary list); earlier PAP chief of staff and Xinjiang Corps commander",
+          "roleState": "inferred_current",
+          "lastReliableTitleDate": "2022-10-22",
+          "daysSinceTitle": 1411,
           "titleDatePrecision": "day"
         }
       ],
@@ -33900,7 +36907,7 @@
       "handlers": [],
       "adverse": [],
       "externalHolder": null,
-      "note": "Reported transfer from the Tibet Military District.",
+      "note": "Reported transfer from the Tibet Military District; Yang Cheng held the seat at the 2022 election and a secondary list ends his tenure in July 2025.",
       "searchLane": "Xinjiang regional reports",
       "lastChecked": "2026-09-02",
       "coverage": "acting_or_inferred",
@@ -33916,15 +36923,26 @@
       "gradeBand": "Theater-deputy grade",
       "seats": 1,
       "isBench": false,
-      "holders": [],
+      "holders": [
+        {
+          "officerId": "PLA-F4C3E599850F",
+          "nameEn": "Wang Kai",
+          "nameZh": "王凯",
+          "billet": "Commander, Tibet Military District (2022 list annotation; secondary list ends the billet in September 2025)",
+          "roleState": "legacy_unverified",
+          "lastReliableTitleDate": "2022-10-22",
+          "daysSinceTitle": 1411,
+          "titleDatePrecision": "day"
+        }
+      ],
       "handlers": [],
       "adverse": [],
       "externalHolder": null,
-      "note": "No public record held.",
-      "searchLane": "Tibet regional reports naming 西藏军区司令员",
+      "note": "2022 Central Committee list annotation; a secondary list ends the billet in September 2025.",
+      "searchLane": "",
       "lastChecked": "2026-09-02",
-      "coverage": "no_record",
-      "freshestTitleDays": null
+      "coverage": "stale",
+      "freshestTitleDays": 1411
     },
     {
       "id": "POS-MD-XZ-PC",
@@ -34672,15 +37690,26 @@
       "gradeBand": "Theater-deputy grade",
       "seats": 1,
       "isBench": false,
-      "holders": [],
+      "holders": [
+        {
+          "officerId": "PLA-AA1C1EF73440",
+          "nameEn": "Xiao Tianliang",
+          "nameZh": "肖天亮",
+          "billet": "President, National Defense University (promoted 28 March 2024)",
+          "roleState": "official_title_with_scope_caveat",
+          "lastReliableTitleDate": "2024-03-28",
+          "daysSinceTitle": 888,
+          "titleDatePrecision": "day"
+        }
+      ],
       "handlers": [],
       "adverse": [],
       "externalHolder": null,
-      "note": "No public record held.",
-      "searchLane": "NDU website; Xinhua",
+      "note": "Promoted into the seat 28 March 2024.",
+      "searchLane": "",
       "lastChecked": "2026-09-02",
-      "coverage": "no_record",
-      "freshestTitleDays": null
+      "coverage": "dated_official",
+      "freshestTitleDays": 888
     },
     {
       "id": "POS-AC-NDU-PC",
@@ -34723,15 +37752,26 @@
       "gradeBand": "Theater-deputy grade",
       "seats": 1,
       "isBench": false,
-      "holders": [],
+      "holders": [
+        {
+          "officerId": "PLA-B733DF27E3CD",
+          "nameEn": "Yang Xuejun",
+          "nameZh": "杨学军",
+          "billet": "President, Academy of Military Science (promoted 12 December 2019); a secondary list reports a move to the CMC Strategic Planning Committee in 2025",
+          "roleState": "legacy_unverified",
+          "lastReliableTitleDate": "2019-12-12",
+          "daysSinceTitle": 2456,
+          "titleDatePrecision": "day"
+        }
+      ],
       "handlers": [],
       "adverse": [],
       "externalHolder": null,
-      "note": "No public record held.",
-      "searchLane": "AMS website; Xinhua",
+      "note": "Promoted into the seat 12 December 2019; a secondary list reports a 2025 move to the Strategic Planning Committee.",
+      "searchLane": "",
       "lastChecked": "2026-09-02",
-      "coverage": "no_record",
-      "freshestTitleDays": null
+      "coverage": "stale",
+      "freshestTitleDays": 2456
     },
     {
       "id": "POS-AC-AMS-PC",
@@ -34743,15 +37783,26 @@
       "gradeBand": "Theater-deputy grade",
       "seats": 1,
       "isBench": false,
-      "holders": [],
+      "holders": [
+        {
+          "officerId": "PLA-B578F6C0DA4B",
+          "nameEn": "Ling Huanxin",
+          "nameZh": "凌焕新",
+          "billet": "Political commissar, Academy of Military Science (promoted 28 June 2023)",
+          "roleState": "legacy_unverified",
+          "lastReliableTitleDate": "2023-06-28",
+          "daysSinceTitle": 1162,
+          "titleDatePrecision": "day"
+        }
+      ],
       "handlers": [],
       "adverse": [],
       "externalHolder": null,
-      "note": "No public record held; Zhang Tianbao was observed as deputy PC in November 2025.",
-      "searchLane": "AMS website; Xinhua",
+      "note": "Promoted into the seat 28 June 2023; Zhang Tianbao was observed as deputy PC in November 2025.",
+      "searchLane": "",
       "lastChecked": "2026-09-02",
-      "coverage": "no_record",
-      "freshestTitleDays": null
+      "coverage": "stale",
+      "freshestTitleDays": 1162
     },
     {
       "id": "POS-AC-NUDT-PRES",
@@ -35354,7 +38405,7 @@
     "cutoff": "2026-09-02",
     "counts": {
       "complete": 18,
-      "partial": 36,
+      "partial": 38,
       "not_yet_collected": 9
     },
     "withLastAppearance": 21,
@@ -37283,7 +40334,11 @@
           "url": "http://www.xinhuanet.com/politics/leaders/2019-12/12/c_1125340398.htm",
           "publisher": "新华网 (新华社北京12月12日电, 记者李宣良)",
           "verification": "page_fetched_and_confirmed",
-          "match": null,
+          "match": {
+            "kind": "officer",
+            "id": "PLA-94A7F4C1A156",
+            "nameEn": "He Ping"
+          },
           "laterRemoved": false,
           "daysToFirstSignal": null,
           "daysToFormalAction": null
@@ -37384,7 +40439,11 @@
           "url": "http://www.xinhuanet.com/politics/leaders/2019-12/12/c_1125340398.htm",
           "publisher": "新华网 (新华社北京12月12日电, 记者李宣良)",
           "verification": "page_fetched_and_confirmed",
-          "match": null,
+          "match": {
+            "kind": "officer",
+            "id": "PLA-B733DF27E3CD",
+            "nameEn": "Yang Xuejun"
+          },
           "laterRemoved": false,
           "daysToFirstSignal": null,
           "daysToFormalAction": null
@@ -37401,7 +40460,11 @@
           "url": "http://www.xinhuanet.com/politics/leaders/2020-07/29/c_1126300876.htm",
           "publisher": "新华网 (新华社北京7月29日电, 记者梅世雄)",
           "verification": "page_fetched_and_confirmed",
-          "match": null,
+          "match": {
+            "kind": "officer",
+            "id": "PLA-33B9A8E34047",
+            "nameEn": "Xu Zhongbo"
+          },
           "laterRemoved": false,
           "daysToFirstSignal": null,
           "daysToFormalAction": null
@@ -37439,7 +40502,11 @@
           "url": "http://www.xinhuanet.com/politics/leaders/2020-12/18/c_1126879375.htm",
           "publisher": "新华网 (来源: 新华社“新华视点”微博; 记者李宣良)",
           "verification": "page_fetched_and_confirmed",
-          "match": null,
+          "match": {
+            "kind": "officer",
+            "id": "PLA-12D7BD728B4F",
+            "nameEn": "Zhang Xudong"
+          },
           "laterRemoved": false,
           "daysToFirstSignal": null,
           "daysToFormalAction": null
@@ -37519,7 +40586,11 @@
           "url": "http://www.xinhuanet.com/politics/2021-07/05/c_1127625114.htm",
           "publisher": "新华网 (新华社北京7月5日电, 记者梅常伟)",
           "verification": "page_fetched_and_confirmed",
-          "match": null,
+          "match": {
+            "kind": "officer",
+            "id": "PLA-D86895BCFEE0",
+            "nameEn": "Xu Qiling"
+          },
           "laterRemoved": false,
           "daysToFirstSignal": null,
           "daysToFormalAction": null
@@ -37578,7 +40649,11 @@
           "url": "http://www.xinhuanet.com/politics/leaders/2021-09/06/c_1127833663.htm",
           "publisher": "新华网 (photo page); full text of 新华社北京9月6日电 (记者梅常伟) read at People's Daily reprint http://politics.people.com.cn/n1/2021/0907/c1024-32219362.html",
           "verification": "page_fetched_and_confirmed",
-          "match": null,
+          "match": {
+            "kind": "officer",
+            "id": "PLA-8111603A9BD8",
+            "nameEn": "Wang Haijiang"
+          },
           "laterRemoved": false,
           "daysToFirstSignal": null,
           "daysToFormalAction": null
@@ -37721,7 +40796,11 @@
           "url": "http://www.news.cn/politics/leaders/2022-01/21/c_1128288122.htm",
           "publisher": "新华网 (新华社北京1月21日电, 记者梅常伟)",
           "verification": "page_fetched_and_confirmed",
-          "match": null,
+          "match": {
+            "kind": "officer",
+            "id": "PLA-ECBB8109720E",
+            "nameEn": "Xu Deqing"
+          },
           "laterRemoved": false,
           "daysToFirstSignal": null,
           "daysToFormalAction": null
@@ -37822,7 +40901,11 @@
           "url": "http://www.news.cn/politics/leaders/2022-09/08/c_1128987497.htm",
           "publisher": "新华网 (photo/caption page, 新华社记者李刚摄)",
           "verification": "page_fetched_and_confirmed",
-          "match": null,
+          "match": {
+            "kind": "officer",
+            "id": "PLA-E51315008617",
+            "nameEn": "Wang Qiang"
+          },
           "laterRemoved": false,
           "daysToFirstSignal": null,
           "daysToFormalAction": null
@@ -37881,7 +40964,11 @@
           "url": "http://www.news.cn/politics/leaders/2023-06/28/c_1129721994.htm",
           "publisher": "新华网 (新华社北京6月28日电, 记者梅常伟)",
           "verification": "page_fetched_and_confirmed",
-          "match": null,
+          "match": {
+            "kind": "officer",
+            "id": "PLA-B578F6C0DA4B",
+            "nameEn": "Ling Huanxin"
+          },
           "laterRemoved": false,
           "daysToFirstSignal": null,
           "daysToFormalAction": null
@@ -37940,7 +41027,11 @@
           "url": "http://www.news.cn/politics/leaders/20231225/9db60f951dc842cba6c8806e3914b9e5/c.html",
           "publisher": "新华网 (新华社北京12月25日电, 记者梅常伟)",
           "verification": "page_fetched_and_confirmed",
-          "match": null,
+          "match": {
+            "kind": "officer",
+            "id": "PLA-08517ECD555A",
+            "nameEn": "Wang Wenquan"
+          },
           "laterRemoved": false,
           "daysToFirstSignal": null,
           "daysToFormalAction": null
@@ -37999,7 +41090,11 @@
           "url": "http://www.news.cn/politics/leaders/20240328/6664137908f446dc8a98fd87ade13dbf/c.html",
           "publisher": "新华网 (新华社北京3月28日电, 记者梅常伟)",
           "verification": "page_fetched_and_confirmed",
-          "match": null,
+          "match": {
+            "kind": "officer",
+            "id": "PLA-AA1C1EF73440",
+            "nameEn": "Xiao Tianliang"
+          },
           "laterRemoved": false,
           "daysToFirstSignal": null,
           "daysToFormalAction": null
@@ -38174,8 +41269,12 @@
           "positionAtElectionEn": "Commander, Tibet Military District",
           "identificationBasis": "Xinhua list entry '王凯（解放军）'; zh.wikipedia list row '王凯 陆军中将'; article 王凯 (1963年): '2021年3月，任西藏军区司令员，晋升中将军衔'",
           "note": "Listed as 王凯（解放军） to distinguish from 王凯（河南）. Wikipedia row: 西藏军区司令员 until 2025.9.",
-          "match": null,
-          "statusToday": "not_in_dataset"
+          "match": {
+            "kind": "officer",
+            "id": "PLA-F4C3E599850F",
+            "nameEn": "Wang Kai"
+          },
+          "statusToday": "active_mapped"
         },
         {
           "nameZh": "王强",
@@ -38186,8 +41285,12 @@
           "positionAtElectionEn": "Commander, Northern Theater Command",
           "identificationBasis": "zh.wikipedia list row '王强 空军上将'; promotion-ceremonies.json 2022-09-08 (news.cn c_1128987497: 北部战区司令员王强 promoted to 上将); article 王强 (空军): '2022年9月，升任北部战区司令员'",
           "note": "Later 中部战区司令员 2024.7–2025.9 per Wikipedia row.",
-          "match": null,
-          "statusToday": "not_in_dataset"
+          "match": {
+            "kind": "officer",
+            "id": "PLA-E51315008617",
+            "nameEn": "Wang Qiang"
+          },
+          "statusToday": "active_unmapped"
         },
         {
           "nameZh": "王鹏",
@@ -38230,8 +41333,12 @@
           "positionAtElectionEn": "Political Commissar, Joint Logistic Support Force",
           "identificationBasis": "zh.wikipedia list row '王文全 陆军上将'; article 王文全: '2020年…9月，调任中央军委联勤保障部队政治委员'; promotion-ceremonies.json 2023-12-25 (上将 as 南部战区政治委员)",
           "note": "陆军中将 at election; 南部战区政治委员 from 2023-12.",
-          "match": null,
-          "statusToday": "not_in_dataset"
+          "match": {
+            "kind": "officer",
+            "id": "PLA-08517ECD555A",
+            "nameEn": "Wang Wenquan"
+          },
+          "statusToday": "active_mapped"
         },
         {
           "nameZh": "王秀斌",
@@ -38290,8 +41397,12 @@
           "positionAtElectionEn": "Director, CMC National Defense Mobilization Department",
           "identificationBasis": "zh.wikipedia list row '刘发庆 陆军中将'; article: '2021年12月任中央军委国防动员部部长，不迟于2025年11月卸任'",
           "note": "Wikipedia row shows the billet ending 2025.10.",
-          "match": null,
-          "statusToday": "not_in_dataset"
+          "match": {
+            "kind": "officer",
+            "id": "PLA-3B2E5637C9DD",
+            "nameEn": "Liu Faqing"
+          },
+          "statusToday": "active_unmapped"
         },
         {
           "nameZh": "刘青松",
@@ -38430,8 +41541,12 @@
           "positionAtElectionEn": "Political Commissar, Xinjiang Military District (and Xinjiang Party Standing Committee member)",
           "identificationBasis": "zh.wikipedia list row '杨诚 陆军中将'; article 杨诚 (1964年): '2020年12月，改任新疆军区政治委员。2021年6月任中共新疆党委常委'",
           "note": "Wikipedia row shows the billet ending 2025.7.",
-          "match": null,
-          "statusToday": "not_in_dataset"
+          "match": {
+            "kind": "officer",
+            "id": "PLA-3A51E500D083",
+            "nameEn": "Yang Cheng"
+          },
+          "statusToday": "active_unmapped"
         },
         {
           "nameZh": "杨志亮",
@@ -38442,8 +41557,12 @@
           "positionAtElectionEn": "Political Commissar, Southern Theater Command Navy",
           "identificationBasis": "zh.wikipedia list row '杨志亮 海军中将 … —2025 南部战区副政治委员兼南部战区海军政治委员'; article: '2019年12月，杨志亮升任南部战区海军政治委员…并晋升海军中将军衔'; '2022年10月…当选中共中央委员'",
           "note": "Wikipedia row renders the billet as 南部战区副政治委员兼南部战区海军政治委员 and marks him 退役; the article gives no date for the 副政治委员 designation.",
-          "match": null,
-          "statusToday": "not_in_dataset"
+          "match": {
+            "kind": "officer",
+            "id": "PLA-2E4A263353D7",
+            "nameEn": "Yang Zhiliang"
+          },
+          "statusToday": "active_mapped"
         },
         {
           "nameZh": "杨学军",
@@ -38454,8 +41573,12 @@
           "positionAtElectionEn": "President, Academy of Military Science",
           "identificationBasis": "zh.wikipedia list row '杨学军 院士 陆军上将'; article infobox: 军事科学院院长 任期 2017年7月—2025年11月; promotion-ceremonies.json 2019-12-12",
           "note": "Wikipedia row: 中央军委战略规划委员会专职委员 2025–2026.",
-          "match": null,
-          "statusToday": "not_in_dataset"
+          "match": {
+            "kind": "officer",
+            "id": "PLA-B733DF27E3CD",
+            "nameEn": "Yang Xuejun"
+          },
+          "statusToday": "active_mapped"
         },
         {
           "nameZh": "吴亚男",
@@ -38514,8 +41637,12 @@
           "positionAtElectionEn": "Commander, Western Theater Command",
           "identificationBasis": "zh.wikipedia list row '汪海江 陆军上将'; article: '2021年8月，升任西部战区司令员'; promotion-ceremonies.json 2021-09-06",
           "note": "",
-          "match": null,
-          "statusToday": "not_in_dataset"
+          "match": {
+            "kind": "officer",
+            "id": "PLA-8111603A9BD8",
+            "nameEn": "Wang Haijiang"
+          },
+          "statusToday": "active_mapped"
         },
         {
           "nameZh": "张林",
@@ -38622,8 +41749,12 @@
           "positionAtElectionEn": "Director, CMC Science and Technology Commission",
           "identificationBasis": "zh.wikipedia list row '赵晓哲 海军中将 … —2026.3 中央军委科学技术委员会 主任'; article: '中央军事委员会科学技术委员会原主任…2018年6月，任军委科技委副主任'",
           "note": "Date of promotion from 副主任 to 主任 not given in the article; billet at election rests on the Wikipedia list row. Listed as 被查; 中国工程院 removed him from its academician list 2026-08 (article).",
-          "match": null,
-          "statusToday": "not_in_dataset"
+          "match": {
+            "kind": "officer",
+            "id": "PLA-156B0FD4A63E",
+            "nameEn": "Zhao Xiaozhe"
+          },
+          "statusToday": "active_mapped"
         },
         {
           "nameZh": "胡中明",
@@ -38730,8 +41861,12 @@
           "positionAtElectionEn": "Political Commissar, PLA Rocket Force",
           "identificationBasis": "zh.wikipedia list row '徐忠波 火箭军上将'; article infobox 任期 2020年7月—2023年7月; promotion-ceremonies.json 2020-07-29",
           "note": "Replaced by 徐西盛 2023-07.",
-          "match": null,
-          "statusToday": "not_in_dataset"
+          "match": {
+            "kind": "officer",
+            "id": "PLA-33B9A8E34047",
+            "nameEn": "Xu Zhongbo"
+          },
+          "statusToday": "active_unmapped"
         },
         {
           "nameZh": "徐起零",
@@ -38742,8 +41877,12 @@
           "positionAtElectionEn": "Deputy Chief, CMC Joint Staff Department (theater-leader grade)",
           "identificationBasis": "zh.wikipedia list row '徐起零 陆军上将'; article: '2021年6月升任西部战区司令员，8月调任中央军委联合参谋部副参谋长（正战区职）'; promotion-ceremonies.json 2021-07-05",
           "note": "",
-          "match": null,
-          "statusToday": "not_in_dataset"
+          "match": {
+            "kind": "officer",
+            "id": "PLA-D86895BCFEE0",
+            "nameEn": "Xu Qiling"
+          },
+          "statusToday": "active_mapped"
         },
         {
           "nameZh": "徐德清",
@@ -38754,8 +41893,12 @@
           "positionAtElectionEn": "Political Commissar, Central Theater Command",
           "identificationBasis": "zh.wikipedia list row '徐德清 陆军上将'; article: '2022年1月，升任中部战区政治委员'; promotion-ceremonies.json 2022-01-21",
           "note": "",
-          "match": null,
-          "statusToday": "not_in_dataset"
+          "match": {
+            "kind": "officer",
+            "id": "PLA-ECBB8109720E",
+            "nameEn": "Xu Deqing"
+          },
+          "statusToday": "active_mapped"
         },
         {
           "nameZh": "郭普校",
@@ -38846,8 +41989,12 @@
           "positionAtElectionEn": "Commander, Joint Logistic Support Force",
           "identificationBasis": "news.cn alternate list position 9; zh.wikipedia alternate row '王立岩 火箭军中将'; article: '2021年8月，任中央军委联勤保障部队司令员'; '2022年10月…当选候补中央委员'",
           "note": "火箭军副司令员兼参谋长 from 2024-06 (Wikipedia row). Passed over at the Fourth Plenum 2025-10-23.",
-          "match": null,
-          "statusToday": "not_in_dataset"
+          "match": {
+            "kind": "adverse",
+            "id": "PLA-1468E0AB3EBC",
+            "nameEn": "Wang Liyan"
+          },
+          "statusToday": "bypassed"
         },
         {
           "nameZh": "王抗平",
@@ -38890,8 +42037,12 @@
           "positionAtElectionEn": "Deputy Commander, Northern Theater Command, and Commander, Northern Theater Command Army",
           "identificationBasis": "news.cn alternate list position 21; zh.wikipedia alternate row '石正露 陆军中将 … 退役 … —2025.8 北部战区副司令员兼北部战区陆军司令员'; article: '2017年1月，升任北部战区副司令员兼参谋长…2020年12月，转任北部战区陆军司令员'",
           "note": "Passed over at the Fourth Plenum 2025-10-23 (卢红 #22 promoted). Wikipedia row marks him 退役 after 2025.8.",
-          "match": null,
-          "statusToday": "not_in_dataset"
+          "match": {
+            "kind": "adverse",
+            "id": "PLA-32A056DB78D0",
+            "nameEn": "Shi Zhenglu"
+          },
+          "statusToday": "bypassed"
         },
         {
           "nameZh": "付文化",
@@ -38966,8 +42117,12 @@
           "positionAtElectionEn": "Chief Engineer, PLA Rocket Force Research Academy",
           "identificationBasis": "news.cn alternate list entry '李贤玉（女，朝鲜族）' position 58; zh.wikipedia alternate row '李贤玉 火箭军少将（女，朝鲜族）… 学者'; article: 火箭军研究院总工程师，少将军衔，中国工程院院士",
           "note": "Specialist-technical major general and academician.",
-          "match": null,
-          "statusToday": "not_in_dataset"
+          "match": {
+            "kind": "officer",
+            "id": "PLA-E24A65F8F668",
+            "nameEn": "Li Xianyu"
+          },
+          "statusToday": "active_unmapped"
         },
         {
           "nameZh": "吴俊宝",
@@ -39010,8 +42165,12 @@
           "positionAtElectionEn": "Deputy Director, CMC Science and Technology Commission",
           "identificationBasis": "news.cn alternate list position 104; zh.wikipedia alternate row '周志鑫 陆军少将 … 学者 … 中央军委科学技术委员会副主任'; article: 空间遥感应用专家，少将，中国科学院院士",
           "note": "Appointment date for 军委科技委副主任 not given in the article; billet rests on the Wikipedia alternate-list row.",
-          "match": null,
-          "statusToday": "not_in_dataset"
+          "match": {
+            "kind": "officer",
+            "id": "PLA-483FD72B0D18",
+            "nameEn": "Zhou Zhixin"
+          },
+          "statusToday": "active_mapped"
         },
         {
           "nameZh": "周建国",
@@ -39022,8 +42181,12 @@
           "positionAtElectionEn": "Commander, PAP Xinjiang Corps",
           "identificationBasis": "news.cn alternate list position 105; zh.wikipedia alternate row '周建国 武警中将 … —2022.12 武警新疆总队 司令员'; article 周建国 (武警): '后任武警新疆总队司令员…2023年1月，任武警部队参谋长'",
           "note": "PAP. 武警部队参谋长 2023.1–2025.9, 副司令员 from 2025.9 (Wikipedia row).",
-          "match": null,
-          "statusToday": "not_in_dataset"
+          "match": {
+            "kind": "officer",
+            "id": "PLA-7ECB64D2F1CF",
+            "nameEn": "Zhou Jianguo"
+          },
+          "statusToday": "active_mapped"
         },
         {
           "nameZh": "姜国平",
@@ -39034,8 +42197,12 @@
           "positionAtElectionEn": "Deputy Commander and Chief of Staff, Northern Theater Command",
           "identificationBasis": "news.cn alternate list position 111; zh.wikipedia alternate row '姜国平 海军中将'; article: '2019年6月，升任北部战区副司令员，2021年兼任北部战区参谋长'",
           "note": "",
-          "match": null,
-          "statusToday": "not_in_dataset"
+          "match": {
+            "kind": "officer",
+            "id": "PLA-9E9C65A0F372",
+            "nameEn": "Jiang Guoping"
+          },
+          "statusToday": "active_mapped"
         },
         {
           "nameZh": "凌焕新",
@@ -39046,8 +42213,12 @@
           "positionAtElectionEn": "Deputy Secretary, CMC Discipline Inspection Commission",
           "identificationBasis": "news.cn alternate list position 121; zh.wikipedia alternate row '凌焕新 陆军上将 … —2023.6 中央军委纪委 副书记'; article: '2018年12月，升任中央军委纪委副书记…2023年6月，任军事科学院政治委员'; promotion-ceremonies.json 2023-06-28",
           "note": "陆军中将 at election; 上将 and 军事科学院政治委员 from 2023-06-28. Only alternate later promoted to full general.",
-          "match": null,
-          "statusToday": "not_in_dataset"
+          "match": {
+            "kind": "officer",
+            "id": "PLA-B578F6C0DA4B",
+            "nameEn": "Ling Huanxin"
+          },
+          "statusToday": "active_mapped"
         },
         {
           "nameZh": "黄旭聪",
@@ -39106,8 +42277,12 @@
           "positionAtElectionEn": "Political Commissar, National University of Defense Technology",
           "identificationBasis": "news.cn alternate list position 144; zh.wikipedia alternate row '傅爱国 空军少将 … —2024.9 国防科技大学 政委'; article (stub): 曾任国防科技大学政治委员",
           "note": "Article is a stub; appointment date not given.",
-          "match": null,
-          "statusToday": "not_in_dataset"
+          "match": {
+            "kind": "officer",
+            "id": "PLA-EF985F4802B3",
+            "nameEn": "Fu Aiguo"
+          },
+          "statusToday": "active_unmapped"
         },
         {
           "nameZh": "黎湘",
@@ -39118,8 +42293,12 @@
           "positionAtElectionEn": "President, National University of Defense Technology",
           "identificationBasis": "news.cn alternate list position 158; zh.wikipedia alternate row '黎湘 陆军少将'; article infobox 国防科技大学校长 任期 2019年12月—2025年",
           "note": "中国科学院院士.",
-          "match": null,
-          "statusToday": "not_in_dataset"
+          "match": {
+            "kind": "officer",
+            "id": "PLA-39F37FDF2502",
+            "nameEn": "Li Xiang"
+          },
+          "statusToday": "active_unmapped"
         },
         {
           "nameZh": "魏文徽",
@@ -39239,11 +42418,11 @@
         "full": 44,
         "alternate": 22,
         "byStatus": {
-          "not_in_dataset": 21,
+          "active_mapped": 24,
+          "active_unmapped": 7,
           "removed": 26,
           "missing": 5,
-          "active_mapped": 12,
-          "bypassed": 2
+          "bypassed": 4
         }
       },
       "gaps": [
@@ -39656,7 +42835,11 @@
               "nameEn": "Ling Huanxin",
               "titleZh": "军事科学院政治委员 (promoted)",
               "orderInText": 5,
-              "match": null
+              "match": {
+                "kind": "officer",
+                "id": "PLA-B578F6C0DA4B",
+                "nameEn": "Ling Huanxin"
+              }
             },
             {
               "nameZh": "李尚福",
@@ -39978,7 +43161,11 @@
               "nameEn": "Wang Wenquan",
               "titleZh": "南部战区政治委员 (promoted)",
               "orderInText": 4,
-              "match": null
+              "match": {
+                "kind": "officer",
+                "id": "PLA-08517ECD555A",
+                "nameEn": "Wang Wenquan"
+              }
             },
             {
               "nameZh": "胡中明",
@@ -40263,7 +43450,11 @@
               "nameEn": "Xiao Tianliang",
               "titleZh": "国防大学校长 (promoted)",
               "orderInText": 5,
-              "match": null
+              "match": {
+                "kind": "officer",
+                "id": "PLA-AA1C1EF73440",
+                "nameEn": "Xiao Tianliang"
+              }
             },
             {
               "nameZh": "刘振立",
@@ -42628,7 +45819,7 @@
           "note": "zh.wikipedia 方永祥: 不迟于2024年3月，调任中央军委办公厅主任, citing the CCTV 军事报道 of the 2024-03-28 promotion ceremony and 星岛日报 2024-04-26 (armband observation); 钟绍军 infobox 2013年6月—2024年3月. No official appointment text exists. Zhong's NPC seat was terminated 2026-08-28 (公告 第十九号, fetched; 中央军委办公厅军人代表大会决定罢免张又侠、钟绍军).",
           "positionKnown": true,
           "tier": "cmc_organs",
-          "coverageNow": "adverse_vacancy",
+          "coverageNow": "handled_without_title",
           "closed": true,
           "daysOpen": 0,
           "handlerDays": null
@@ -42652,7 +45843,7 @@
           "note": "4th plenum communiqué (fetched) promoted eleven alternates to full members (于会文、马汉成、王健、王曦、王永红、王庭凯、王新伟、韦韬、邓亦武、邓修明、卢红); Fang Yongxiang, a higher-ranked alternate, is not among them (bypass inference is the repo's). zh.wikipedia 方永祥: 2025年6月起不再露面; zh.wikipedia General Office page lists 邱杨 少将（2025年3月开始代理—）with no citation; no dated report of Qiu Yang presiding was found.",
           "positionKnown": true,
           "tier": "cmc_organs",
-          "coverageNow": "adverse_vacancy",
+          "coverageNow": "handled_without_title",
           "closed": false,
           "daysOpen": 314,
           "handlerDays": null
@@ -42849,7 +46040,7 @@
           "note": "Xinhua 2023-12-25: 这次晋升上将军衔的军官是：南部战区政治委员王文全、海军司令员胡中明. zh.wikipedia 南部战区 lists 王文全 陆军上将（2023年12月—2025年10月）with no citation for the end. Note on the repo's adverse mapping: 尹红星 (NPC seat terminated 2026-06-26, elected through 陆军) was 南部战区陆军政委 from 2024-07 per zh.wikipedia 尹红星, not the theater political commissar; his termination does not by itself vacate this seat.",
           "positionKnown": true,
           "tier": "theaters",
-          "coverageNow": "no_record",
+          "coverageNow": "stale",
           "closed": true,
           "daysOpen": 0,
           "handlerDays": null
@@ -42873,7 +46064,7 @@
           "note": "zh.wikipedia 西部战区 lists 汪海江 上将（2021年8月—2025年9月）and 文俊飞 空军中将（2025年9月—）as deputy commander, both without dated citations; the month is not anchored to a readable page (date above is the Wikipedia month, day not established). The repo cites a Sichuan discipline-commission page of 2026-02-13 (https://scjc.gov.cn/scjc/zhyw01/2026/2/13/840aeab3436f4a9f8a4e396eb511f0bf.shtml) for Wen Junfei's exact deputy-commander title; that page returned 503/connection reset in this session. No official notice on Wang Haijiang, no NPC termination.",
           "positionKnown": true,
           "tier": "theaters",
-          "coverageNow": "handled_without_title",
+          "coverageNow": "stale",
           "closed": false,
           "daysOpen": 337,
           "handlerDays": null
@@ -43021,7 +46212,7 @@
           "note": "zh.wikipedia 王强_(1963年): at the 2025-07-31 MND reception 王强和时任中部战区政治委员徐德清作为驻京部队主要领导同志均缺席会议 (citing CCTV footage of the 2025 and 2024 receptions; pages fetched but text prints no names). zh.wikipedia 中部战区 lists 徐德清 上将（2022年1月—2025年10月）and 梁平 中将（2025年10月代理—）without citations. No official notice on Xu Deqing; no NPC termination; no dated page naming 梁平 presiding.",
           "positionKnown": true,
           "tier": "theaters",
-          "coverageNow": "handled_without_title",
+          "coverageNow": "stale",
           "closed": false,
           "daysOpen": 398,
           "handlerDays": null
@@ -43728,431 +46919,21 @@
     },
     "discoveredNames": {
       "summary": {
-        "names": 29,
-        "fromCentralCommittee": 21,
-        "seenTwiceOrMore": 10
+        "names": 0,
+        "fromCentralCommittee": 0,
+        "seenTwiceOrMore": 0
       },
-      "leads": [
-        {
-          "nameZh": "王强",
-          "nameEn": "Wang Qiang",
-          "sightings": [
-            {
-              "where": "20th Central Committee",
-              "detail": "full member; Commander, Northern Theater Command",
-              "url": "http://www.gov.cn/xinwen/2022-10/22/content_5720882.htm"
-            },
-            {
-              "where": "Promotion ceremony",
-              "detail": "2022-09-08: Commander, Northern Theater Command",
-              "url": "http://www.news.cn/politics/leaders/2022-09/08/c_1128987497.htm"
-            },
-            {
-              "where": "Seat turnover",
-              "detail": "predecessor at Northern Theater Command commander",
-              "url": "https://std.stheadline.com/sc/realtime/article/2014856/"
-            },
-            {
-              "where": "Seat turnover",
-              "detail": "predecessor at Central Theater Command commander",
-              "url": "https://www.cna.com.tw/news/acn/202509030047.aspx"
-            }
-          ]
-        },
-        {
-          "nameZh": "王文全",
-          "nameEn": "Wang Wenquan",
-          "sightings": [
-            {
-              "where": "20th Central Committee",
-              "detail": "full member; Political Commissar, Joint Logistic Support Force",
-              "url": "http://www.gov.cn/xinwen/2022-10/22/content_5720882.htm"
-            },
-            {
-              "where": "Promotion ceremony",
-              "detail": "2023-12-25: Political Commissar, Southern Theater Command",
-              "url": "http://www.news.cn/politics/leaders/20231225/9db60f951dc842cba6c8806e3914b9e5/c.html"
-            },
-            {
-              "where": "Seat turnover",
-              "detail": "successor at Southern Theater Command political commissar",
-              "url": "http://www.news.cn/politics/leaders/20231225/9db60f951dc842cba6c8806e3914b9e5/c.html"
-            },
-            {
-              "where": "Event roster",
-              "detail": "2023-12-25: 南部战区政治委员 (promoted)",
-              "url": "http://www.news.cn/politics/leaders/20231225/9db60f951dc842cba6c8806e3914b9e5/c.html"
-            }
-          ]
-        },
-        {
-          "nameZh": "凌焕新",
-          "nameEn": "Ling Huanxin",
-          "sightings": [
-            {
-              "where": "20th Central Committee",
-              "detail": "alternate member; Deputy Secretary, CMC Discipline Inspection Commission",
-              "url": "http://www.gov.cn/xinwen/2022-10/22/content_5720882.htm"
-            },
-            {
-              "where": "Promotion ceremony",
-              "detail": "2023-06-28: Political Commissar, Academy of Military Science",
-              "url": "http://www.news.cn/politics/leaders/2023-06/28/c_1129721994.htm"
-            },
-            {
-              "where": "Event roster",
-              "detail": "2023-06-28: 军事科学院政治委员 (promoted)",
-              "url": "http://www.news.cn/politics/leaders/2023-06/28/c_1129721994.htm"
-            }
-          ]
-        },
-        {
-          "nameZh": "徐德清",
-          "nameEn": "Xu Deqing",
-          "sightings": [
-            {
-              "where": "20th Central Committee",
-              "detail": "full member; Political Commissar, Central Theater Command",
-              "url": "http://www.gov.cn/xinwen/2022-10/22/content_5720882.htm"
-            },
-            {
-              "where": "Promotion ceremony",
-              "detail": "2022-01-21: Political Commissar, Central Theater Command",
-              "url": "http://www.news.cn/politics/leaders/2022-01/21/c_1128288122.htm"
-            },
-            {
-              "where": "Seat turnover",
-              "detail": "predecessor at Central Theater Command political commissar",
-              "url": "https://zh.wikipedia.org/wiki/王强_(1963年)"
-            }
-          ]
-        },
-        {
-          "nameZh": "徐忠波",
-          "nameEn": "Xu Zhongbo",
-          "sightings": [
-            {
-              "where": "20th Central Committee",
-              "detail": "full member; Political Commissar, PLA Rocket Force",
-              "url": "http://www.gov.cn/xinwen/2022-10/22/content_5720882.htm"
-            },
-            {
-              "where": "Promotion ceremony",
-              "detail": "2020-07-29: Political Commissar, PLA Rocket Force",
-              "url": "http://www.xinhuanet.com/politics/leaders/2020-07/29/c_1126300876.htm"
-            },
-            {
-              "where": "Seat turnover",
-              "detail": "predecessor at PLA Rocket Force political commissar (Xu Zhongbo -> Xu Xisheng)",
-              "url": "http://www.news.cn/politics/leaders/2023-07/31/c_1129778572.htm"
-            }
-          ]
-        },
-        {
-          "nameZh": "汪海江",
-          "nameEn": "Wang Haijiang",
-          "sightings": [
-            {
-              "where": "20th Central Committee",
-              "detail": "full member; Commander, Western Theater Command",
-              "url": "http://www.gov.cn/xinwen/2022-10/22/content_5720882.htm"
-            },
-            {
-              "where": "Promotion ceremony",
-              "detail": "2021-09-06: Commander, Western Theater Command",
-              "url": "http://www.xinhuanet.com/politics/leaders/2021-09/06/c_1127833663.htm"
-            },
-            {
-              "where": "Seat turnover",
-              "detail": "predecessor at Western Theater Command commander",
-              "url": "https://zh.wikipedia.org/wiki/西部战区"
-            }
-          ]
-        },
-        {
-          "nameZh": "刘发庆",
-          "nameEn": "Liu Faqing",
-          "sightings": [
-            {
-              "where": "20th Central Committee",
-              "detail": "full member; Director, CMC National Defense Mobilization Department",
-              "url": "http://www.gov.cn/xinwen/2022-10/22/content_5720882.htm"
-            },
-            {
-              "where": "Seat turnover",
-              "detail": "predecessor at CMC National Defense Mobilization Department director",
-              "url": "http://www.81.cn/rmjz_203219/zgmb/2025nd11q/bkyw_251904/16420528.html"
-            }
-          ]
-        },
-        {
-          "nameZh": "徐起零",
-          "nameEn": "Xu Qiling",
-          "sightings": [
-            {
-              "where": "20th Central Committee",
-              "detail": "full member; Deputy Chief, CMC Joint Staff Department (theater-leader grade)",
-              "url": "http://www.gov.cn/xinwen/2022-10/22/content_5720882.htm"
-            },
-            {
-              "where": "Promotion ceremony",
-              "detail": "2021-07-05: Commander, Western Theater Command",
-              "url": "http://www.xinhuanet.com/politics/2021-07/05/c_1127625114.htm"
-            }
-          ]
-        },
-        {
-          "nameZh": "杨学军",
-          "nameEn": "Yang Xuejun",
-          "sightings": [
-            {
-              "where": "20th Central Committee",
-              "detail": "full member; President, Academy of Military Science",
-              "url": "http://www.gov.cn/xinwen/2022-10/22/content_5720882.htm"
-            },
-            {
-              "where": "Promotion ceremony",
-              "detail": "2019-12-12: President, Academy of Military Science",
-              "url": "http://www.xinhuanet.com/politics/leaders/2019-12/12/c_1125340398.htm"
-            }
-          ]
-        },
-        {
-          "nameZh": "肖天亮",
-          "nameEn": "Xiao Tianliang",
-          "sightings": [
-            {
-              "where": "Promotion ceremony",
-              "detail": "2024-03-28: President, PLA National Defense University",
-              "url": "http://www.news.cn/politics/leaders/20240328/6664137908f446dc8a98fd87ade13dbf/c.html"
-            },
-            {
-              "where": "Event roster",
-              "detail": "2024-03-28: 国防大学校长 (promoted)",
-              "url": "http://www.news.cn/politics/leaders/20240328/6664137908f446dc8a98fd87ade13dbf/c.html"
-            }
-          ]
-        },
-        {
-          "nameZh": "何平",
-          "nameEn": "He Ping",
-          "sightings": [
-            {
-              "where": "Promotion ceremony",
-              "detail": "2019-12-12: Political Commissar, Eastern Theater Command",
-              "url": "http://www.xinhuanet.com/politics/leaders/2019-12/12/c_1125340398.htm"
-            }
-          ]
-        },
-        {
-          "nameZh": "傅爱国",
-          "nameEn": "Fu Aiguo",
-          "sightings": [
-            {
-              "where": "20th Central Committee",
-              "detail": "alternate member; Political Commissar, National University of Defense Technology",
-              "url": "http://www.gov.cn/xinwen/2022-10/22/content_5720882.htm"
-            }
-          ]
-        },
-        {
-          "nameZh": "周建国",
-          "nameEn": "Zhou Jianguo",
-          "sightings": [
-            {
-              "where": "20th Central Committee",
-              "detail": "alternate member; Commander, PAP Xinjiang Corps",
-              "url": "http://www.gov.cn/xinwen/2022-10/22/content_5720882.htm"
-            }
-          ]
-        },
-        {
-          "nameZh": "周志鑫",
-          "nameEn": "Zhou Zhixin",
-          "sightings": [
-            {
-              "where": "20th Central Committee",
-              "detail": "alternate member; Deputy Director, CMC Science and Technology Commission",
-              "url": "http://www.gov.cn/xinwen/2022-10/22/content_5720882.htm"
-            }
-          ]
-        },
-        {
-          "nameZh": "姜国平",
-          "nameEn": "Jiang Guoping",
-          "sightings": [
-            {
-              "where": "20th Central Committee",
-              "detail": "alternate member; Deputy Commander and Chief of Staff, Northern Theater Command",
-              "url": "http://www.gov.cn/xinwen/2022-10/22/content_5720882.htm"
-            }
-          ]
-        },
-        {
-          "nameZh": "张旭东",
-          "nameEn": "Zhang Xudong",
-          "sightings": [
-            {
-              "where": "Promotion ceremony",
-              "detail": "2020-12-18: Commander, Western Theater Command",
-              "url": "http://www.xinhuanet.com/politics/leaders/2020-12/18/c_1126879375.htm"
-            }
-          ]
-        },
-        {
-          "nameZh": "曹均章",
-          "nameEn": "",
-          "sightings": [
-            {
-              "where": "Seat turnover",
-              "detail": "handler at People's Armed Police commander",
-              "url": "https://china.caixin.com/m/2025-07-24/102344730.html"
-            }
-          ]
-        },
-        {
-          "nameZh": "李宋德",
-          "nameEn": "Li Songde",
-          "sightings": [
-            {
-              "where": "Seat turnover",
-              "detail": "predecessor at China Coast Guard political commissar",
-              "url": "https://zh.wikipedia.org/wiki/中国海警局"
-            }
-          ]
-        },
-        {
-          "nameZh": "李贤玉",
-          "nameEn": "Li Xianyu",
-          "sightings": [
-            {
-              "where": "20th Central Committee",
-              "detail": "alternate member; Chief Engineer, PLA Rocket Force Research Academy",
-              "url": "http://www.gov.cn/xinwen/2022-10/22/content_5720882.htm"
-            }
-          ]
-        },
-        {
-          "nameZh": "杨志亮",
-          "nameEn": "Yang Zhiliang",
-          "sightings": [
-            {
-              "where": "20th Central Committee",
-              "detail": "full member; Political Commissar, Southern Theater Command Navy",
-              "url": "http://www.gov.cn/xinwen/2022-10/22/content_5720882.htm"
-            }
-          ]
-        },
-        {
-          "nameZh": "杨诚",
-          "nameEn": "Yang Cheng",
-          "sightings": [
-            {
-              "where": "20th Central Committee",
-              "detail": "full member; Political Commissar, Xinjiang Military District (and Xinjiang Party Standing Committee member)",
-              "url": "http://www.gov.cn/xinwen/2022-10/22/content_5720882.htm"
-            }
-          ]
-        },
-        {
-          "nameZh": "王凯",
-          "nameEn": "Wang Kai",
-          "sightings": [
-            {
-              "where": "20th Central Committee",
-              "detail": "full member; Commander, Tibet Military District",
-              "url": "http://www.gov.cn/xinwen/2022-10/22/content_5720882.htm"
-            }
-          ]
-        },
-        {
-          "nameZh": "王海",
-          "nameEn": "Wang Hai",
-          "sightings": [
-            {
-              "where": "Seat turnover",
-              "detail": "predecessor at Southern Theater Navy commander (Wang Hai -> Ju Xinchun)",
-              "url": "https://zh.wikipedia.org/wiki/南部战区海军"
-            }
-          ]
-        },
-        {
-          "nameZh": "王立岩",
-          "nameEn": "Wang Liyan",
-          "sightings": [
-            {
-              "where": "20th Central Committee",
-              "detail": "alternate member; Commander, Joint Logistic Support Force",
-              "url": "http://www.gov.cn/xinwen/2022-10/22/content_5720882.htm"
-            }
-          ]
-        },
-        {
-          "nameZh": "石正露",
-          "nameEn": "Shi Zhenglu",
-          "sightings": [
-            {
-              "where": "20th Central Committee",
-              "detail": "alternate member; Deputy Commander, Northern Theater Command, and Commander, Northern Theater Command Army",
-              "url": "http://www.gov.cn/xinwen/2022-10/22/content_5720882.htm"
-            }
-          ]
-        },
-        {
-          "nameZh": "赵晓哲",
-          "nameEn": "Zhao Xiaozhe",
-          "sightings": [
-            {
-              "where": "20th Central Committee",
-              "detail": "full member; Director, CMC Science and Technology Commission",
-              "url": "http://www.gov.cn/xinwen/2022-10/22/content_5720882.htm"
-            }
-          ]
-        },
-        {
-          "nameZh": "邱杨",
-          "nameEn": "",
-          "sightings": [
-            {
-              "where": "Seat turnover",
-              "detail": "handler at CMC General Office director (Fang Yongxiang -> vacant)",
-              "url": "http://www.news.cn/politics/20251023/777d21b244c4405c84b544d7cc43e236/c.html"
-            }
-          ]
-        },
-        {
-          "nameZh": "郁忠",
-          "nameEn": "Yu Zhong",
-          "sightings": [
-            {
-              "where": "Seat turnover",
-              "detail": "predecessor at China Coast Guard director",
-              "url": "https://zh.wikipedia.org/wiki/中国海警局"
-            }
-          ]
-        },
-        {
-          "nameZh": "黎湘",
-          "nameEn": "Li Xiang",
-          "sightings": [
-            {
-              "where": "20th Central Committee",
-              "detail": "alternate member; President, National University of Defense Technology",
-              "url": "http://www.gov.cn/xinwen/2022-10/22/content_5720882.htm"
-            }
-          ]
-        }
-      ]
+      "leads": []
     },
     "titleFreshness": {
       "cutoff": "2026-09-02",
       "summary": {
-        "principalSeats": 161,
-        "principalSeatsWithHolder": 66,
+        "principalSeats": 164,
+        "principalSeatsWithHolder": 75,
         "byBand": {
           "undated": 47,
-          "over_365_days": 25,
-          "within_365_days": 26,
+          "over_365_days": 39,
+          "within_365_days": 27,
           "within_180_days": 6,
           "within_90_days": 27
         },
@@ -44744,6 +47525,42 @@
           "band": "over_365_days"
         },
         {
+          "officerId": "PLA-B733DF27E3CD",
+          "nameEn": "Yang Xuejun",
+          "nameZh": "杨学军",
+          "positionIds": [
+            "POS-AC-AMS-PRES"
+          ],
+          "roleState": "legacy_unverified",
+          "lastReliableTitleDate": "2019-12-12",
+          "daysSinceTitle": 2456,
+          "band": "over_365_days"
+        },
+        {
+          "officerId": "PLA-D86895BCFEE0",
+          "nameEn": "Xu Qiling",
+          "nameZh": "徐起零",
+          "positionIds": [
+            "POS-ORG-JSD-DEP"
+          ],
+          "roleState": "legacy_unverified",
+          "lastReliableTitleDate": "2021-07-05",
+          "daysSinceTitle": 1885,
+          "band": "over_365_days"
+        },
+        {
+          "officerId": "PLA-8111603A9BD8",
+          "nameEn": "Wang Haijiang",
+          "nameZh": "汪海江",
+          "positionIds": [
+            "POS-TC-W-CDR"
+          ],
+          "roleState": "legacy_unverified",
+          "lastReliableTitleDate": "2021-09-06",
+          "daysSinceTitle": 1822,
+          "band": "over_365_days"
+        },
+        {
           "officerId": "PLA-313F2F7A8577",
           "nameEn": "Chen Guangjun",
           "nameZh": "陈光军",
@@ -44753,6 +47570,18 @@
           "roleState": "inferred_current",
           "lastReliableTitleDate": "2021-03 reconstruction; maintained through 2026-08",
           "daysSinceTitle": 1706,
+          "band": "over_365_days"
+        },
+        {
+          "officerId": "PLA-ECBB8109720E",
+          "nameEn": "Xu Deqing",
+          "nameZh": "徐德清",
+          "positionIds": [
+            "POS-TC-C-PC"
+          ],
+          "roleState": "legacy_unverified",
+          "lastReliableTitleDate": "2022-01-21",
+          "daysSinceTitle": 1685,
           "band": "over_365_days"
         },
         {
@@ -44777,6 +47606,90 @@
           "roleState": "inferred_current",
           "lastReliableTitleDate": "2022-08-03 official Eastern Theater deputy-COS title; later role mutable-roster only",
           "daysSinceTitle": 1491,
+          "band": "over_365_days"
+        },
+        {
+          "officerId": "PLA-7ECB64D2F1CF",
+          "nameEn": "Zhou Jianguo",
+          "nameZh": "周建国",
+          "positionIds": [
+            "POS-PAP-DEP"
+          ],
+          "roleState": "inferred_current",
+          "lastReliableTitleDate": "2022-10-22",
+          "daysSinceTitle": 1411,
+          "band": "over_365_days"
+        },
+        {
+          "officerId": "PLA-483FD72B0D18",
+          "nameEn": "Zhou Zhixin",
+          "nameZh": "周志鑫",
+          "positionIds": [
+            "POS-ORG-STC-DEP"
+          ],
+          "roleState": "legacy_unverified",
+          "lastReliableTitleDate": "2022-10-22",
+          "daysSinceTitle": 1411,
+          "band": "over_365_days"
+        },
+        {
+          "officerId": "PLA-9E9C65A0F372",
+          "nameEn": "Jiang Guoping",
+          "nameZh": "姜国平",
+          "positionIds": [
+            "POS-TC-N-COS"
+          ],
+          "roleState": "legacy_unverified",
+          "lastReliableTitleDate": "2022-10-22",
+          "daysSinceTitle": 1411,
+          "band": "over_365_days"
+        },
+        {
+          "officerId": "PLA-2E4A263353D7",
+          "nameEn": "Yang Zhiliang",
+          "nameZh": "杨志亮",
+          "positionIds": [
+            "POS-TC-S-NAVY-PC"
+          ],
+          "roleState": "stale_or_unknown",
+          "lastReliableTitleDate": "2022-10-22",
+          "daysSinceTitle": 1411,
+          "band": "over_365_days"
+        },
+        {
+          "officerId": "PLA-F4C3E599850F",
+          "nameEn": "Wang Kai",
+          "nameZh": "王凯",
+          "positionIds": [
+            "POS-MD-XZ-CDR"
+          ],
+          "roleState": "legacy_unverified",
+          "lastReliableTitleDate": "2022-10-22",
+          "daysSinceTitle": 1411,
+          "band": "over_365_days"
+        },
+        {
+          "officerId": "PLA-156B0FD4A63E",
+          "nameEn": "Zhao Xiaozhe",
+          "nameZh": "赵晓哲",
+          "positionIds": [
+            "POS-ORG-STC-DIR"
+          ],
+          "roleState": "legacy_unverified",
+          "lastReliableTitleDate": "2022-10-22",
+          "daysSinceTitle": 1411,
+          "band": "over_365_days"
+        },
+        {
+          "officerId": "PLA-B578F6C0DA4B",
+          "nameEn": "Ling Huanxin",
+          "nameZh": "凌焕新",
+          "positionIds": [
+            "POS-AC-AMS-PC"
+          ],
+          "roleState": "legacy_unverified",
+          "lastReliableTitleDate": "2023-06-28",
+          "daysSinceTitle": 1162,
           "band": "over_365_days"
         },
         {
@@ -44806,6 +47719,18 @@
           "band": "over_365_days"
         },
         {
+          "officerId": "PLA-08517ECD555A",
+          "nameEn": "Wang Wenquan",
+          "nameZh": "王文全",
+          "positionIds": [
+            "POS-TC-S-PC"
+          ],
+          "roleState": "legacy_unverified",
+          "lastReliableTitleDate": "2023-12-25",
+          "daysSinceTitle": 982,
+          "band": "over_365_days"
+        },
+        {
           "officerId": "PLA-7ABD610F0ACD",
           "nameEn": "Zhu Xiaosong",
           "nameZh": "朱晓松",
@@ -44828,6 +47753,18 @@
           "roleState": "inferred_current",
           "lastReliableTitleDate": "2024-02-02",
           "daysSinceTitle": 943,
+          "band": "over_365_days"
+        },
+        {
+          "officerId": "PLA-AA1C1EF73440",
+          "nameEn": "Xiao Tianliang",
+          "nameZh": "肖天亮",
+          "positionIds": [
+            "POS-AC-NDU-PRES"
+          ],
+          "roleState": "official_title_with_scope_caveat",
+          "lastReliableTitleDate": "2024-03-28",
+          "daysSinceTitle": 888,
           "band": "over_365_days"
         },
         {
@@ -45035,6 +47972,18 @@
           "band": "over_365_days"
         },
         {
+          "officerId": "PLA-C0ECF970BA51",
+          "nameEn": "Cao Junzhang",
+          "nameZh": "曹均章",
+          "positionIds": [
+            "POS-PAP-CDR"
+          ],
+          "roleState": "inferred_current",
+          "lastReliableTitleDate": "2025-07-24",
+          "daysSinceTitle": 405,
+          "band": "over_365_days"
+        },
+        {
           "officerId": "PLA-7464689B2559",
           "nameEn": "Shao Shuguang",
           "nameZh": "邵曙光",
@@ -45114,6 +48063,18 @@
             "POS-SVC-NAVY-DEP"
           ],
           "roleState": "formal_current",
+          "lastReliableTitleDate": "2025-10-23",
+          "daysSinceTitle": 314,
+          "band": "within_365_days"
+        },
+        {
+          "officerId": "PLA-1F62929EA429",
+          "nameEn": "Qiu Yang",
+          "nameZh": "邱杨",
+          "positionIds": [
+            "POS-ORG-GO-DIR"
+          ],
+          "roleState": "inferred_current",
           "lastReliableTitleDate": "2025-10-23",
           "daysSinceTitle": 314,
           "band": "within_365_days"

@@ -25,6 +25,7 @@ const base = await readJson(rp("research/base/observatory-v7.json"));
 const positionsSrc = await readJson(rp("research/positions.json"));
 const timelineSrc = await readJson(rp("research/adverse-timeline.json"));
 const adverseAdditions = (await readOptional(rp("research/adverse-additions.json"))) ?? { records: [] };
+const officerAdditions = (await readOptional(rp("research/officer-additions.json"))) ?? { records: [] };
 const reviewLog = (await readOptional(rp("research/review-log.json"))) ?? { entries: [] };
 const trackerFiles = {
   npcTerminations: "npc-terminations.json",
@@ -56,9 +57,24 @@ for (const add of adverseAdditions.records) {
   if (data.adverse.some((a) => a.id === add.id)) continue;
   if (data.officers.some((o) => o.id === add.id || o.nameZh === add.nameZh)) throw new Error(`adverse addition ${add.nameEn} collides with an active officer`);
   data.adverse.push({ id: add.id, nameEn: add.nameEn, nameZh: add.nameZh, formerBranch: add.formerBranch, formerRole: add.formerRole, status: add.status, controlledState: add.controlledState, date: add.date, summary: add.summary, evidenceConfidence: add.evidenceConfidence, sources: add.sources, discoveredBy: add.discoveredBy });
-  if (!timelineSrc.records.some((r) => r.id === add.id)) timelineSrc.records.push({ id: add.id, nameEn: add.nameEn, nameZh: add.nameZh, lastPublicAppearance: null, firstConcreteSignal: null, formalAction: add.formalAction ?? null, intermediateActions: [], searchLane: add.searchLane ?? null, researchNotes: null });
+  if (!timelineSrc.records.some((r) => r.id === add.id)) timelineSrc.records.push({ id: add.id, nameEn: add.nameEn, nameZh: add.nameZh, lastPublicAppearance: null, firstConcreteSignal: add.firstConcreteSignal ?? null, formalAction: add.formalAction ?? null, intermediateActions: [], searchLane: add.searchLane ?? null, researchNotes: null });
 }
 adverseById.clear(); for (const a of data.adverse) adverseById.set(a.id, a);
+
+// ---------- officer additions (tracker-discovered officers with no v7 dossier) ----------
+const freshnessOf = (date) => { const y = parseDate(date)?.iso?.slice(0, 4); return !y ? "not_established" : y >= "2026" ? "observed_2026" : y === "2025" ? "observed_2025" : "pre_2025"; };
+const sourceByUrl = new Map(data.sources.map((s) => [s.url, s]));
+for (const add of officerAdditions.records) {
+  if (data.officers.some((o) => o.id === add.id || o.nameZh === add.nameZh) || data.adverse.some((a) => a.nameZh === add.nameZh)) throw new Error(`officer addition ${add.nameEn} collides with an existing record`);
+  const sources = add.sources.map((src, i) => ({ id: `ADD-SRC-${add.id}-${i + 1}`, url: src.url, class: src.class, family: src.class === "A1" ? "formal_decision" : /^A/.test(src.class) ? "official_primary" : /^B/.test(src.class) ? "specialist_research" : "discovery_or_other", date: src.date, publisher: src.publisher, scopes: [src.scope], people: [{ id: add.id, nameEn: add.nameEn, nameZh: add.nameZh }], mode: src.mode }));
+  for (const src of sources) { const existing = sourceByUrl.get(src.url); if (existing) { existing.people = [...(existing.people ?? []), ...src.people]; } else { data.sources.push(src); sourceByUrl.set(src.url, src); } }
+  data.officers.push({ id: add.id, nameEn: add.nameEn, nameZh: add.nameZh, identityNote: add.identityNote, branch: add.branch, institution: add.institution, serviceOrigin: null, serviceOriginDetail: null, billet: add.billet, rank: add.rank ?? null, roleState: add.roleState, roleStateDetail: "Entered from tracker evidence; see identity note.", lastReliableTitleDate: add.lastReliableTitleDate, assessmentAsOf: cutoff, birthYear: null, birthPrecision: null, birthEvidence: null, partyStatus: add.partyStatus ?? null, stateCmcStatus: null, npcStatus: null, disciplineState: null, disciplineNote: null,
+    evidence: { grade: "E3", label: "Partial claim mapping", caveat: "Record created from a tracker source; no claim-scoped dossier entry beyond the sources listed.", mappedClaims: 0, primaryMappedClaims: 0, currentRoleMapped: false },
+    signals: { appointmentRecord: add.roleState, titleFreshness: freshnessOf(add.lastReliableTitleDate), currentRoleSource: "not_mapped", rankRecord: add.rank ? "recorded" : "not_public", partyRecord: add.partyStatus ? "recorded" : "not_public", stateCmcRecord: "not_public", npcRecord: "not_public", birthRecord: "not_public", primaryMappedClaims: 0, openGapCount: 0 },
+    sourceCount: sources.length, sources, claims: [], gapIds: [], discoveredBy: add.discoveredBy });
+}
+data.metadata.canonicalOfficerCount += officerAdditions.records.length + adverseAdditions.records.filter((a) => a.status === "promotion-bypass-unresolved").length;
+data.metadata.sourceCount = data.sources.length;
 
 // ---------- positions ----------
 const officerById = new Map(data.officers.map((o) => [o.id, o]));
