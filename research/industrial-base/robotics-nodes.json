@@ -1,0 +1,315 @@
+{
+  "chartVersion": "robotics-1.0",
+  "cutoff": "2026-09-04",
+  "plain": "A working chart of the capability nodes a robotic or unmanned military system depends on, from sensors to production tooling. Each node lists the firms the scorecard package evidences against it. A node with no evidence is shown as empty, not filled by inference.",
+  "tiers": [
+    {
+      "id": "sensing",
+      "label": "Sensing",
+      "plain": "Detectors, seekers, optics and radar front ends that let a platform see."
+    },
+    {
+      "id": "navigation",
+      "label": "Navigation and guidance",
+      "plain": "Inertial units, timing, satellite navigation and flight control that let a platform know where it is."
+    },
+    {
+      "id": "actuation",
+      "label": "Actuation, motion and power",
+      "plain": "Servos, motors, drives, transmissions, batteries and converters that let a platform move."
+    },
+    {
+      "id": "compute",
+      "label": "Compute and RF microsystems",
+      "plain": "Rugged processors, GPUs, data converters and RF components that run onboard processing."
+    },
+    {
+      "id": "comms",
+      "label": "Communications and datalinks",
+      "plain": "Tactical links, mesh networks, anti-jam radios and unattended-system communications."
+    },
+    {
+      "id": "autonomy",
+      "label": "Autonomy and platform integration",
+      "plain": "Unmanned platforms, swarming, mission integration, legged robots and autonomy software."
+    },
+    {
+      "id": "counter_uas",
+      "label": "Counter-UAS",
+      "plain": "Detection, electronic warfare and control layers against drones; a crowded integrator market."
+    },
+    {
+      "id": "production",
+      "label": "Production robotics and tooling",
+      "plain": "Industrial robots, CNC controls and shipyard automation that build the systems."
+    },
+    {
+      "id": "test",
+      "label": "Test, validation and screening",
+      "plain": "Electromagnetic simulation, calibration, reliability and acceptance testing."
+    }
+  ],
+  "nodes": [
+    {
+      "id": "N-IR-EO",
+      "tier": "sensing",
+      "label": "Infrared and electro-optical sensors",
+      "plain": "Thermal cores, cooled and uncooled detectors, lasers, optics and star trackers.",
+      "capabilityFamilies": [
+        "IR_detectors_and_EO_systems",
+        "IR_detectors_thermal_cores_TR_and_laser_ranging",
+        "cooled_and_uncooled_IR_detectors",
+        "cooled_IR_detector_packaging_cryocoolers_and_pointing_actuators",
+        "EO_IR_lasers_optics_and_star_trackers",
+        "low_light_EO_tracking_and_aiming"
+      ]
+    },
+    {
+      "id": "N-RADAR-RF",
+      "tier": "sensing",
+      "label": "Radar seekers and active-array front ends",
+      "plain": "Seeker transmitters, AESA transmit-receive modules and the GaN/GaAs chips inside them.",
+      "capabilityFamilies": [
+        "radar_seeker_transmitters_and_RF_frontends",
+        "AESA_TR_modules_and_RF_ICs",
+        "GaN_GaAs_phased_array_TR_chips"
+      ]
+    },
+    {
+      "id": "N-MEMS",
+      "tier": "sensing",
+      "label": "MEMS sensors and inertial chips",
+      "plain": "Sensor chips, MEMS inertial units, lidar drivers and the foundry platforms behind them.",
+      "capabilityFamilies": [
+        "MEMS_sensor_chips_and_condition_monitoring",
+        "MEMS_IMU_lidar_driver_and_MCU_foundry_platform"
+      ]
+    },
+    {
+      "id": "N-INS",
+      "tier": "navigation",
+      "label": "Inertial navigation and guidance",
+      "plain": "Inertial navigation units, accelerometers, inertial servos and guidance sets.",
+      "capabilityFamilies": [
+        "inertial_navigation_and_guidance",
+        "accelerometers_inertial_servo_and_test_equipment",
+        "space_microwave_inertial_components_and_antennas",
+        "INS_EO_payloads_actuators_datalinks"
+      ]
+    },
+    {
+      "id": "N-FLIGHT",
+      "tier": "navigation",
+      "label": "Flight control and avionics",
+      "plain": "Flight-control computers, avionics and integrated INS for unmanned aircraft.",
+      "capabilityFamilies": [
+        "flight_control_INS_and_avionics"
+      ]
+    },
+    {
+      "id": "N-TIMING",
+      "tier": "navigation",
+      "label": "Timing and satellite navigation",
+      "plain": "Atomic clocks, timing references and BeiDou receivers.",
+      "capabilityFamilies": [
+        "atomic_clocks_timing_and_BeiDou"
+      ]
+    },
+    {
+      "id": "N-SERVO",
+      "tier": "actuation",
+      "label": "Servos, motors and transmissions",
+      "plain": "Servo control, precision transmission, micro motors, motor drives and interconnects.",
+      "capabilityFamilies": [
+        "servo_control_and_precision_transmission",
+        "rad_hard_power_motor_drive_and_UAV_motors",
+        "high_reliability_interconnects_and_micro_motors"
+      ]
+    },
+    {
+      "id": "N-ROBOT-MOTION",
+      "tier": "actuation",
+      "label": "Robot motion and payload modules",
+      "plain": "Motion units and electro-optical modules built for military robots.",
+      "capabilityFamilies": [
+        "military_robot_motion_and_EO_modules"
+      ]
+    },
+    {
+      "id": "N-POWER",
+      "tier": "actuation",
+      "label": "Batteries and power conversion",
+      "plain": "Special batteries, battery management and aircraft power converters.",
+      "capabilityFamilies": [
+        "special_batteries_BMS_and_space_power",
+        "aircraft_power_converters"
+      ]
+    },
+    {
+      "id": "N-MANIPULATION",
+      "tier": "actuation",
+      "label": "Manipulators and end effectors",
+      "plain": "Arms, grippers and tool interfaces for ground and shipboard robots.",
+      "capabilityFamilies": []
+    },
+    {
+      "id": "N-EMBEDDED",
+      "tier": "compute",
+      "label": "Rugged embedded compute and signal processing",
+      "plain": "High-reliability GPUs, radar signal processors and rugged flight or counter-UAS computers.",
+      "capabilityFamilies": [
+        "high_reliability_GPU_and_radar_signal_processing",
+        "rugged_embedded_compute_UAV_flight_and_CUAS"
+      ]
+    },
+    {
+      "id": "N-RF-MICRO",
+      "tier": "compute",
+      "label": "RF microsystems and passives",
+      "plain": "Data converters, RF power, microsystems, ferrites and circulators.",
+      "capabilityFamilies": [
+        "RF_data_conversion_power_and_microsystems",
+        "RF_ferrites_and_circulators"
+      ]
+    },
+    {
+      "id": "N-EDGE-AI",
+      "tier": "compute",
+      "label": "Edge AI accelerators",
+      "plain": "Domestic chips for onboard perception and autonomy inference.",
+      "capabilityFamilies": []
+    },
+    {
+      "id": "N-DATALINK",
+      "tier": "comms",
+      "label": "Tactical datalinks and BeiDou terminals",
+      "plain": "Navigation datalinks, EW terminals and BeiDou-integrated links.",
+      "capabilityFamilies": [
+        "tactical_navigation_datalinks_and_EW_terminals",
+        "tactical_datalinks_and_BeiDou"
+      ]
+    },
+    {
+      "id": "N-NETWORK",
+      "tier": "comms",
+      "label": "Military networks and UAV communications nodes",
+      "plain": "Command networks, UAV communication nodes and unattended-system radios.",
+      "capabilityFamilies": [
+        "military_networks_C2_and_UAV_comms_nodes",
+        "military_wireless_and_unattended_system_comms",
+        "private_4G_5G_self_organizing_anti_jam_comms"
+      ]
+    },
+    {
+      "id": "N-SWARM-MESH",
+      "tier": "comms",
+      "label": "Swarm mesh and mission computing",
+      "plain": "Mesh networking and mission computers for drone swarms.",
+      "capabilityFamilies": [
+        "UAV_swarm_mesh_and_mission_computing"
+      ]
+    },
+    {
+      "id": "N-UNMANNED",
+      "tier": "autonomy",
+      "label": "Unmanned platforms and swarming integration",
+      "plain": "Integrators of unmanned platforms, swarming and mission systems.",
+      "capabilityFamilies": [
+        "unmanned_platforms_swarming_and_mission_integration",
+        "unmanned_systems_and_aerospace_electronics_integration"
+      ]
+    },
+    {
+      "id": "N-ROBOTICS-INT",
+      "tier": "autonomy",
+      "label": "Robotics and autonomy integration",
+      "plain": "Firms integrating autonomy stacks into ground and special robots.",
+      "capabilityFamilies": [
+        "robotics_and_autonomy_integration"
+      ]
+    },
+    {
+      "id": "N-LEGGED",
+      "tier": "autonomy",
+      "label": "Legged and special robots",
+      "plain": "Quadrupeds and special-purpose robots, including the robot-dog tender lane.",
+      "capabilityFamilies": [
+        "special_robots_and_quadruped_support"
+      ]
+    },
+    {
+      "id": "N-AUTONOMY-SW",
+      "tier": "autonomy",
+      "label": "Autonomy software and perception models",
+      "plain": "Perception, planning and control software, model interfaces and simulation for autonomy.",
+      "capabilityFamilies": []
+    },
+    {
+      "id": "N-HUMANOID",
+      "tier": "autonomy",
+      "label": "Humanoid platforms",
+      "plain": "General-purpose humanoid robots with a documented defense or dual-use customer.",
+      "capabilityFamilies": []
+    },
+    {
+      "id": "N-CUAS",
+      "tier": "counter_uas",
+      "label": "Counter-UAS detection, EW and control",
+      "plain": "Detection, jamming, and command layers against drones.",
+      "capabilityFamilies": [
+        "counter_UAS_detection_EW_and_control"
+      ]
+    },
+    {
+      "id": "N-SHIPYARD",
+      "tier": "production",
+      "label": "Shipyard production robotics",
+      "plain": "Robotic grinding, welding and shipyard automation.",
+      "capabilityFamilies": [
+        "robotic_grinding_and_shipyard_production_automation"
+      ]
+    },
+    {
+      "id": "N-CNC",
+      "tier": "production",
+      "label": "CNC controls and machine-tool components",
+      "plain": "Controllers, servo drives and machine-tool components.",
+      "capabilityFamilies": [
+        "CNC_controls_servo_drives_and_machine_tool_components"
+      ]
+    },
+    {
+      "id": "N-INDUSTRIAL-ROBOT",
+      "tier": "production",
+      "label": "Industrial robot arms for defense lines",
+      "plain": "Six-axis and collaborative arms with a documented defense-plant deployment.",
+      "capabilityFamilies": []
+    },
+    {
+      "id": "N-EM-TEST",
+      "tier": "test",
+      "label": "Electromagnetic simulation and array calibration",
+      "plain": "Simulation, calibration and validation of active arrays.",
+      "capabilityFamilies": [
+        "electromagnetic_simulation_AESA_calibration_and_validation"
+      ]
+    },
+    {
+      "id": "N-RELIABILITY",
+      "tier": "test",
+      "label": "Reliability, EMC and acceptance testing",
+      "plain": "Environmental, EMC, screening and software acceptance testing.",
+      "capabilityFamilies": [
+        "environmental_reliability_EMC_and_component_screening",
+        "software_EMC_reliability_and_acceptance_testing"
+      ]
+    },
+    {
+      "id": "N-SIM",
+      "tier": "test",
+      "label": "Simulation and digital twins for autonomy",
+      "plain": "Synthetic training data, digital twins and hardware-in-the-loop for autonomy.",
+      "capabilityFamilies": []
+    }
+  ]
+}

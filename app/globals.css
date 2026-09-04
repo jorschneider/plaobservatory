@@ -4517,3 +4517,25 @@ tr.clock-not_yet_collected td { opacity: 0.85; }
 .downloads { display: flex; flex-wrap: wrap; align-items: center; gap: 12px; margin: 26px 0 10px; }
 @media (max-width: 900px) { .position-row { grid-template-columns: 1fr; } }
 .succession-watch { margin: 30px 0; }
+
+/* ---- robotics lane ---- */
+.lane-link { display: inline-flex; align-items: center; gap: 4px; font-size: 12px; font-weight: 600; letter-spacing: 0.04em; text-transform: uppercase; color: var(--navy); text-decoration: none; border: 1px solid var(--rule, #d9d4c7); padding: 4px 10px; border-radius: 999px; }
+.lane-link svg { width: 12px; height: 12px; }
+.node-board { display: grid; gap: 12px; }
+.node-row { display: grid; grid-template-columns: minmax(220px, 1fr) minmax(0, 2fr) minmax(180px, 0.8fr); gap: 16px; padding: 14px 16px; background: white; border: 1px solid var(--rule, #d9d4c7); }
+.node-row.no-record { background: #faf9f6; }
+.node-row .node-name strong { display: block; font-family: Georgia, serif; font-size: 16px; color: var(--navy); }
+.node-row .node-name small { color: #666; }
+.node-suppliers { display: flex; flex-wrap: wrap; gap: 6px; }
+.supplier-chip { display: inline-flex; flex-direction: column; gap: 2px; padding: 6px 10px; border: 1px solid #ddd8cb; background: #fbfaf7; font-size: 12px; }
+.supplier-chip.qualified { border-color: #7aa37a; background: #f1f7ef; }
+.supplier-chip b { color: var(--navy); }
+.supplier-chip small { color: #666; }
+.supplier-chip.empty { border-style: dashed; color: #777; }
+.node-state p { margin: 6px 0 0; font-size: 13px; color: #555; }
+.scorecard-table td, .scorecard-table th { font-size: 13px; vertical-align: top; }
+.scorecard-table .mono { white-space: nowrap; }
+.finding-example { margin-top: 8px; padding: 10px 12px; background: #f6f4ee; border-left: 3px solid var(--navy); font-size: 13px; }
+.finding-example .person-link { display: inline; min-width: 0; margin: 0 4px; padding: 0; font: inherit; color: var(--navy); text-decoration: underline; }
+.finding-example a { display: inline-flex; align-items: center; gap: 2px; margin-left: 4px; }
+@media (max-width: 900px) { .node-row { grid-template-columns: 1fr; } }
