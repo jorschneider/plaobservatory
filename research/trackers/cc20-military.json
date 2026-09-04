@@ -1,0 +1,788 @@
+{
+  "source": {
+    "url": "http://www.gov.cn/xinwen/2022-10/22/content_5720882.htm",
+    "date": "2022-10-22",
+    "publisher": "中国政府网 reprint of 新华社北京10月22日电 '中国共产党第二十届中央委员会委员名单（205名）（按姓氏笔画为序排列）'; companion alternate list read at https://www.news.cn/2022-10/22/c_1129075009.htm (新华网 '（二十大受权发布）中国共产党第二十届中央委员会候补委员名单（171名）（按得票多少为序排列，得票相等的，按姓氏笔画为序排列）', 2022-10-22 13:12) and its gov.cn reprint http://www.gov.cn/xinwen/2022-10/22/content_5720883.htm",
+    "verification": "page_fetched_and_confirmed. NOTE: the news.cn URL c_1129075009 supplied in the brief is the 候补委员 (alternate) list, not the full-member list; sibling ids c_1129075005-11 return 404 on news.cn, so the full-member list was read from the gov.cn reprint (来源：新华社, 2022-10-22 12:59). Every full member below was string-matched against the 205-name gov.cn list and every alternate against the 171-name news.cn list; alternate ordinals were computed from the news.cn vote-ordered list. Military identification: rank annotations (陆军/海军/空军/火箭军/武警 上将/中将/少将) in the member tables of zh.wikipedia 中国共产党第二十届中央委员会委员列表 and 候补委员列表 (fetched 2026-09-03), cross-read against each member's own zh.wikipedia article (all 66 fetched) and research/trackers/promotion-ceremonies.json."
+  },
+  "members": [
+    {
+      "nameZh": "王凯",
+      "nameEn": "Wang Kai",
+      "membership": "full",
+      "alternateRank": 0,
+      "positionAtElectionZh": "西藏军区司令员",
+      "positionAtElectionEn": "Commander, Tibet Military District",
+      "identificationBasis": "Xinhua list entry '王凯（解放军）'; zh.wikipedia list row '王凯 陆军中将'; article 王凯 (1963年): '2021年3月，任西藏军区司令员，晋升中将军衔'",
+      "note": "Listed as 王凯（解放军） to distinguish from 王凯（河南）. Wikipedia row: 西藏军区司令员 until 2025.9."
+    },
+    {
+      "nameZh": "王强",
+      "nameEn": "Wang Qiang",
+      "membership": "full",
+      "alternateRank": 0,
+      "positionAtElectionZh": "北部战区司令员",
+      "positionAtElectionEn": "Commander, Northern Theater Command",
+      "identificationBasis": "zh.wikipedia list row '王强 空军上将'; promotion-ceremonies.json 2022-09-08 (news.cn c_1128987497: 北部战区司令员王强 promoted to 上将); article 王强 (空军): '2022年9月，升任北部战区司令员'",
+      "note": "Later 中部战区司令员 2024.7–2025.9 per Wikipedia row."
+    },
+    {
+      "nameZh": "王鹏",
+      "nameEn": "Wang Peng",
+      "membership": "full",
+      "alternateRank": 0,
+      "positionAtElectionZh": "中央军委训练管理部部长",
+      "positionAtElectionEn": "Director, CMC Training and Administration Department",
+      "identificationBasis": "zh.wikipedia list row '王鹏 陆军中将'; article 王鹏 (1964年): '2021年12月，升任中央军委训练管理部部长'",
+      "note": "Wikipedia row: NPC deputy status revoked 2025-11-10; listed among 被查 members on the Wikipedia list page. No plenum action as of 2026-09-03."
+    },
+    {
+      "nameZh": "王仁华",
+      "nameEn": "Wang Renhua",
+      "membership": "full",
+      "alternateRank": 0,
+      "positionAtElectionZh": "中央军委政法委员会书记",
+      "positionAtElectionEn": "Secretary, CMC Political and Legal Affairs Commission",
+      "identificationBasis": "zh.wikipedia list row '王仁华 海军上将'; article 王仁华: '2019年12月，升任中央军事委员会政法委员会书记'; promotion-ceremonies.json 2024-03-28 (上将 as 中央军委政法委员会书记)",
+      "note": "海军中将 at election; promoted 上将 2024-03-28. Article: 2025-12-27 军委政法委军人代表大会 decided to revoke his NPC deputy status; Wikipedia row gives 2025-11-10. Listed as 被查 on Wikipedia list page; no plenum action yet."
+    },
+    {
+      "nameZh": "王文全",
+      "nameEn": "Wang Wenquan",
+      "membership": "full",
+      "alternateRank": 0,
+      "positionAtElectionZh": "中央军委联勤保障部队政治委员",
+      "positionAtElectionEn": "Political Commissar, Joint Logistic Support Force",
+      "identificationBasis": "zh.wikipedia list row '王文全 陆军上将'; article 王文全: '2020年…9月，调任中央军委联勤保障部队政治委员'; promotion-ceremonies.json 2023-12-25 (上将 as 南部战区政治委员)",
+      "note": "陆军中将 at election; 南部战区政治委员 from 2023-12."
+    },
+    {
+      "nameZh": "王秀斌",
+      "nameEn": "Wang Xiubin",
+      "membership": "full",
+      "alternateRank": 0,
+      "positionAtElectionZh": "南部战区司令员",
+      "positionAtElectionEn": "Commander, Southern Theater Command",
+      "identificationBasis": "zh.wikipedia list row '王秀斌 陆军上将'; article: '2021年6月任南部战区司令员'; promotion-ceremonies.json 2021-07-05",
+      "note": "Later 中央军委联合作战指挥中心常务副主任 2024.7–2025.3. Expelled: Party Centre decision announced 2025-10-17/18; confirmed by Fourth Plenum 2025-10-23."
+    },
+    {
+      "nameZh": "王春宁",
+      "nameEn": "Wang Chunning",
+      "membership": "full",
+      "alternateRank": 0,
+      "positionAtElectionZh": "中国人民武装警察部队司令员",
+      "positionAtElectionEn": "Commander, People's Armed Police Force",
+      "identificationBasis": "zh.wikipedia list row '王春宁 武警上将'; article infobox 任期 2020年12月—2025年; promotion-ceremonies.json 2020-12-18",
+      "note": "PAP. Expelled: Party Centre decision announced 2025-10-17/18; confirmed by Fourth Plenum 2025-10-23."
+    },
+    {
+      "nameZh": "巨乾生",
+      "nameEn": "Ju Qiansheng",
+      "membership": "full",
+      "alternateRank": 0,
+      "positionAtElectionZh": "战略支援部队司令员",
+      "positionAtElectionEn": "Commander, Strategic Support Force",
+      "identificationBasis": "zh.wikipedia list row '巨乾生 陆军上将'; article: '2021年6月升任战略支援部队司令员'; promotion-ceremonies.json 2021-07-05",
+      "note": "Wikipedia row: NPC deputy status revoked 2026-08; listed as 被查. No plenum action yet."
+    },
+    {
+      "nameZh": "刘发庆",
+      "nameEn": "Liu Faqing",
+      "membership": "full",
+      "alternateRank": 0,
+      "positionAtElectionZh": "中央军委国防动员部部长",
+      "positionAtElectionEn": "Director, CMC National Defense Mobilization Department",
+      "identificationBasis": "zh.wikipedia list row '刘发庆 陆军中将'; article: '2021年12月任中央军委国防动员部部长，不迟于2025年11月卸任'",
+      "note": "Wikipedia row shows the billet ending 2025.10."
+    },
+    {
+      "nameZh": "刘青松",
+      "nameEn": "Liu Qingsong",
+      "membership": "full",
+      "alternateRank": 0,
+      "positionAtElectionZh": "北部战区政治委员",
+      "positionAtElectionEn": "Political Commissar, Northern Theater Command",
+      "identificationBasis": "zh.wikipedia list row '刘青松 海军上将'; article: '2022年1月，升任北部战区政治委员'; promotion-ceremonies.json 2022-01-21",
+      "note": "东部战区政治委员 from 2023-06 (article infobox)."
+    },
+    {
+      "nameZh": "刘振立",
+      "nameEn": "Liu Zhenli",
+      "membership": "full",
+      "alternateRank": 0,
+      "positionAtElectionZh": "中央军委联合参谋部参谋长",
+      "positionAtElectionEn": "Chief of Staff, CMC Joint Staff Department",
+      "identificationBasis": "zh.wikipedia list row '刘振立 陆军上将'; article infobox: 联合参谋部参谋长 任期 2022年9月－2026年1月, 陆军司令员 2021年6月－2022年9月; promotion-ceremonies.json 2021-07-05 (上将 as 陆军司令员)",
+      "note": "Elected CMC member at the First Plenum 2022-10-23. Article body gives 2023年3月 for the 联参参谋长 move while its infobox gives 2022年9月; the Sept-2022 handover of 陆军司令员 to 李桥铭 (李桥铭 infobox 2022年9月) supports the infobox. Under investigation per MND notice 2026-01-24; NPC deputy status revoked 2026-08 (Wikipedia row)."
+    },
+    {
+      "nameZh": "许学强",
+      "nameEn": "Xu Xueqiang",
+      "membership": "full",
+      "alternateRank": 0,
+      "positionAtElectionZh": "国防大学校长",
+      "positionAtElectionEn": "President, PLA National Defense University",
+      "identificationBasis": "zh.wikipedia list row '许学强 空军上将'; article 许学强 (空军): '2021年8月，任国防大学校长'; '2022年10月，中共二十大后…许学强出任中央军委装备发展部部长'; promotion-ceremonies.json 2021-09-06",
+      "note": "Appointment as 装备发展部部长 was disclosed after the Congress (李尚福 infobox ends that billet 2022-11-08). NPC deputy status revoked 2026-06 (Wikipedia row); listed as 被查."
+    },
+    {
+      "nameZh": "李伟",
+      "nameEn": "Li Wei",
+      "membership": "full",
+      "alternateRank": 0,
+      "positionAtElectionZh": "战略支援部队政治委员",
+      "positionAtElectionEn": "Political Commissar, Strategic Support Force",
+      "identificationBasis": "zh.wikipedia list row '李伟 陆军上将'; article 李伟 (1960年) infobox: 战略支援部队第三任政治委员 2020年12月—2024年4月19日; promotion-ceremonies.json 2020-12-18",
+      "note": "信息支援部队政治委员 from 2024-04-19. NPC deputy status revoked 2026-02 (Wikipedia row); listed as 被查."
+    },
+    {
+      "nameZh": "李凤彪",
+      "nameEn": "Li Fengbiao",
+      "membership": "full",
+      "alternateRank": 0,
+      "positionAtElectionZh": "西部战区政治委员",
+      "positionAtElectionEn": "Political Commissar, Western Theater Command",
+      "identificationBasis": "zh.wikipedia list row '李凤彪 陆军上将'; article: '2021年7月23日，转任西部战区政治委员'; promotion-ceremonies.json 2019-12-12",
+      "note": "NPC deputy status revoked 2026-06 (Wikipedia row); listed as 被查."
+    },
+    {
+      "nameZh": "李玉超",
+      "nameEn": "Li Yuchao",
+      "membership": "full",
+      "alternateRank": 0,
+      "positionAtElectionZh": "火箭军司令员",
+      "positionAtElectionEn": "Commander, PLA Rocket Force",
+      "identificationBasis": "zh.wikipedia list row '李玉超 火箭军上将'; article: '2022年1月升任火箭军司令员，晋升上将军衔'; promotion-ceremonies.json 2022-01-21",
+      "note": "Expelled by Politburo (June 2024); expulsion confirmed by Third Plenum 2024-07-18."
+    },
+    {
+      "nameZh": "李尚福",
+      "nameEn": "Li Shangfu",
+      "membership": "full",
+      "alternateRank": 0,
+      "positionAtElectionZh": "中央军委装备发展部部长",
+      "positionAtElectionEn": "Director, CMC Equipment Development Department",
+      "identificationBasis": "zh.wikipedia list row '李尚福 陆军上将'; article infobox: 装备发展部部长 任期 2017年9月18日—2022年11月8日; '2022年10月，在中共二十届一中全会上…当选为第二十届中共中央军委委员'",
+      "note": "Elected CMC member 2022-10-23; 国务委员兼国防部长 2023-03-12 to 2023-10-24. Investigated from 2023-08-31; expelled by Politburo 2024-06-27 (news.cn 112b13a7…); confirmed by Third Plenum 2024-07-18."
+    },
+    {
+      "nameZh": "李桥铭",
+      "nameEn": "Li Qiaoming",
+      "membership": "full",
+      "alternateRank": 0,
+      "positionAtElectionZh": "陆军司令员",
+      "positionAtElectionEn": "Commander, PLA Army",
+      "identificationBasis": "zh.wikipedia list row '李桥铭 陆军上将'; article infobox: 陆军司令员 任期 2022年9月—2026年？月, 北部战区司令员 2017年8月—2022年9月; promotion-ceremonies.json 2019-12-12",
+      "note": "NPC deputy status revoked 2026-02 (Wikipedia row); listed as 被查."
+    },
+    {
+      "nameZh": "杨诚",
+      "nameEn": "Yang Cheng",
+      "membership": "full",
+      "alternateRank": 0,
+      "positionAtElectionZh": "新疆维吾尔自治区党委常委、新疆军区政治委员",
+      "positionAtElectionEn": "Political Commissar, Xinjiang Military District (and Xinjiang Party Standing Committee member)",
+      "identificationBasis": "zh.wikipedia list row '杨诚 陆军中将'; article 杨诚 (1964年): '2020年12月，改任新疆军区政治委员。2021年6月任中共新疆党委常委'",
+      "note": "Wikipedia row shows the billet ending 2025.7."
+    },
+    {
+      "nameZh": "杨志亮",
+      "nameEn": "Yang Zhiliang",
+      "membership": "full",
+      "alternateRank": 0,
+      "positionAtElectionZh": "南部战区海军政治委员",
+      "positionAtElectionEn": "Political Commissar, Southern Theater Command Navy",
+      "identificationBasis": "zh.wikipedia list row '杨志亮 海军中将 … —2025 南部战区副政治委员兼南部战区海军政治委员'; article: '2019年12月，杨志亮升任南部战区海军政治委员…并晋升海军中将军衔'; '2022年10月…当选中共中央委员'",
+      "note": "Wikipedia row renders the billet as 南部战区副政治委员兼南部战区海军政治委员 and marks him 退役; the article gives no date for the 副政治委员 designation."
+    },
+    {
+      "nameZh": "杨学军",
+      "nameEn": "Yang Xuejun",
+      "membership": "full",
+      "alternateRank": 0,
+      "positionAtElectionZh": "军事科学院院长",
+      "positionAtElectionEn": "President, Academy of Military Science",
+      "identificationBasis": "zh.wikipedia list row '杨学军 院士 陆军上将'; article infobox: 军事科学院院长 任期 2017年7月—2025年11月; promotion-ceremonies.json 2019-12-12",
+      "note": "Wikipedia row: 中央军委战略规划委员会专职委员 2025–2026."
+    },
+    {
+      "nameZh": "吴亚男",
+      "nameEn": "Wu Ya'nan",
+      "membership": "full",
+      "alternateRank": 0,
+      "positionAtElectionZh": "中部战区司令员",
+      "positionAtElectionEn": "Commander, Central Theater Command",
+      "identificationBasis": "zh.wikipedia list row '吴亚男 陆军上将'; article 吴亚男 (陆军): '2022年1月，升任中部战区司令员'; '2023年1月，调入中央军委联合作战指挥中心任职'; promotion-ceremonies.json 2022-01-21",
+      "note": "The Wikipedia list row omits the 中部战区 billet and starts at 联合作战指挥中心常务副主任 (to 2024.7); 南部战区司令员 from 2024.7."
+    },
+    {
+      "nameZh": "何卫东",
+      "nameEn": "He Weidong",
+      "membership": "full",
+      "alternateRank": 0,
+      "positionAtElectionZh": "中央军委副主席（2022年10月23日二十届一中全会）",
+      "positionAtElectionEn": "Vice Chairman, Central Military Commission (elected at First Plenum 2022-10-23)",
+      "identificationBasis": "zh.wikipedia list row '何卫东 陆军上将'; article infobox: 中央军委副主席 2022年10月23日—2025年10月17日, 东部战区司令员 2019年12月—2022年1月; promotion-ceremonies.json 2019-12-12",
+      "note": "Billet between Jan and Oct 2022 not officially published (article: wore a CMC armband at the March 2022 NPC session). Expelled: Party Centre decision announced 2025-10-17/18; confirmed by Fourth Plenum 2025-10-23; removed as state CMC vice chairman by NPCSC 2025-10-28."
+    },
+    {
+      "nameZh": "何宏军",
+      "nameEn": "He Hongjun",
+      "membership": "full",
+      "alternateRank": 0,
+      "positionAtElectionZh": "中央军委政治工作部副主任",
+      "positionAtElectionEn": "Deputy Director, CMC Political Work Department",
+      "identificationBasis": "zh.wikipedia list row '何宏军 陆军上将'; article: '2019年4月升任中央军委政治工作部副主任'; promotion-ceremonies.json 2024-07-09 (上将 as 常务副主任)",
+      "note": "陆军中将 at election. Expelled: Party Centre decision announced 2025-10-17/18; confirmed by Fourth Plenum 2025-10-23."
+    },
+    {
+      "nameZh": "汪海江",
+      "nameEn": "Wang Haijiang",
+      "membership": "full",
+      "alternateRank": 0,
+      "positionAtElectionZh": "西部战区司令员",
+      "positionAtElectionEn": "Commander, Western Theater Command",
+      "identificationBasis": "zh.wikipedia list row '汪海江 陆军上将'; article: '2021年8月，升任西部战区司令员'; promotion-ceremonies.json 2021-09-06",
+      "note": ""
+    },
+    {
+      "nameZh": "张林",
+      "nameEn": "Zhang Lin",
+      "membership": "full",
+      "alternateRank": 0,
+      "positionAtElectionZh": "中央军委后勤保障部部长",
+      "positionAtElectionEn": "Director, CMC Logistic Support Department",
+      "identificationBasis": "zh.wikipedia list row '张林 陆军中将'; article 张林 (中将): '2022年1月，升任中央军委后勤保障部部长，晋升中将军衔'",
+      "note": "NPC deputy status revoked 2025-09 (Wikipedia row); listed as 被查."
+    },
+    {
+      "nameZh": "张又侠",
+      "nameEn": "Zhang Youxia",
+      "membership": "full",
+      "alternateRank": 0,
+      "positionAtElectionZh": "中央政治局委员、中央军委副主席",
+      "positionAtElectionEn": "Politburo member; Vice Chairman, Central Military Commission",
+      "identificationBasis": "zh.wikipedia list row '张又侠 陆军上将'; article: '2022年10月22日，在中共二十届一中全会上…张又侠以72岁之龄继续担任中共中央军委副主席'",
+      "note": "Under investigation per MND notice 2026-01-24 (mod.gov.cn/gfbw/qwfb/16439106.html, fetched); NPC deputy status revoked 2026-08 (Wikipedia row)."
+    },
+    {
+      "nameZh": "张升民",
+      "nameEn": "Zhang Shengmin",
+      "membership": "full",
+      "alternateRank": 0,
+      "positionAtElectionZh": "中央军委委员、中央纪委副书记、中央军委纪委书记",
+      "positionAtElectionEn": "CMC member; Deputy Secretary CCDI; Secretary, CMC Discipline Inspection Commission",
+      "identificationBasis": "zh.wikipedia list row '张升民 火箭军上将 … 副国 解放军'; article: '2022年10月…张升民继续当选中共二十届中央委员、中央纪委副书记，连任中共中央军委委员'",
+      "note": "中央军委副主席 from 2025-10 (Wikipedia row); NPCSC appointed him state CMC vice chairman 2025-10-28 (news.cn 720677a9…, fetched)."
+    },
+    {
+      "nameZh": "张红兵",
+      "nameEn": "Zhang Hongbing",
+      "membership": "full",
+      "alternateRank": 0,
+      "positionAtElectionZh": "中国人民武装警察部队政治委员",
+      "positionAtElectionEn": "Political Commissar, People's Armed Police Force",
+      "identificationBasis": "zh.wikipedia list row '张红兵 武警上将'; article infobox 武警部队政治委员 任期 2022年1月—2025年5月; promotion-ceremonies.json 2022-01-21",
+      "note": "PAP. NPC deputy status revoked 2025-10-30 (Wikipedia row); listed as 被查."
+    },
+    {
+      "nameZh": "苗华",
+      "nameEn": "Miao Hua",
+      "membership": "full",
+      "alternateRank": 0,
+      "positionAtElectionZh": "中央军委委员、中央军委政治工作部主任",
+      "positionAtElectionEn": "CMC member; Director, CMC Political Work Department",
+      "identificationBasis": "zh.wikipedia list row '苗华 海军上将 … —2025.5 中央军委委员，中央军委政治工作部主任'; article: '2022年10月，连任中共中央军事委员会委员'",
+      "note": "Suspended 2024-11; removed from CMC 2025-05; expelled: Party Centre decision announced 2025-10-17/18; confirmed by Fourth Plenum 2025-10-23."
+    },
+    {
+      "nameZh": "林向阳",
+      "nameEn": "Lin Xiangyang",
+      "membership": "full",
+      "alternateRank": 0,
+      "positionAtElectionZh": "东部战区司令员",
+      "positionAtElectionEn": "Commander, Eastern Theater Command",
+      "identificationBasis": "zh.wikipedia list row '林向阳 陆军上将'; article 林向阳 (解放军): '2022年1月，重返东部战区任司令员'; promotion-ceremonies.json 2021-09-06",
+      "note": "Expelled: Party Centre decision announced 2025-10-17/18; confirmed by Fourth Plenum 2025-10-23."
+    },
+    {
+      "nameZh": "赵晓哲",
+      "nameEn": "Zhao Xiaozhe",
+      "membership": "full",
+      "alternateRank": 0,
+      "positionAtElectionZh": "中央军委科学技术委员会主任",
+      "positionAtElectionEn": "Director, CMC Science and Technology Commission",
+      "identificationBasis": "zh.wikipedia list row '赵晓哲 海军中将 … —2026.3 中央军委科学技术委员会 主任'; article: '中央军事委员会科学技术委员会原主任…2018年6月，任军委科技委副主任'",
+      "note": "Date of promotion from 副主任 to 主任 not given in the article; billet at election rests on the Wikipedia list row. Listed as 被查; 中国工程院 removed him from its academician list 2026-08 (article)."
+    },
+    {
+      "nameZh": "胡中明",
+      "nameEn": "Hu Zhongming",
+      "membership": "full",
+      "alternateRank": 0,
+      "positionAtElectionZh": "海军参谋长",
+      "positionAtElectionEn": "Chief of Staff, PLA Navy",
+      "identificationBasis": "zh.wikipedia list row '胡中明 海军上将 … —2023.12 海军 参谋长'; article: '2021年12月转任海军参谋长'; promotion-ceremonies.json 2023-12-25 (上将 as 海军司令员)",
+      "note": "海军中将 at election; 海军司令员 from 2023-12."
+    },
+    {
+      "nameZh": "钟绍军",
+      "nameEn": "Zhong Shaojun",
+      "membership": "full",
+      "alternateRank": 0,
+      "positionAtElectionZh": "中央军委办公厅主任",
+      "positionAtElectionEn": "Director, CMC General Office",
+      "identificationBasis": "zh.wikipedia list row '钟绍军 陆军中将 … —2024.3 中央军委办公厅 主任'; article infobox: 中央军委办公厅主任 任期 2017年8月—？",
+      "note": "国防大学政治委员 2024.4–2025.10 (Wikipedia row); NPC deputy status revoked 2026-08; listed as 被查."
+    },
+    {
+      "nameZh": "俞庆江",
+      "nameEn": "Yu Qingjiang",
+      "membership": "full",
+      "alternateRank": 0,
+      "positionAtElectionZh": "空军参谋长",
+      "positionAtElectionEn": "Chief of Staff, PLA Air Force",
+      "identificationBasis": "zh.wikipedia list row '俞庆江 空军中将 … —2023.9 空军 参谋长'; article: '2017年12月，升任空军参谋长…2023年，转任空军副司令员'",
+      "note": ""
+    },
+    {
+      "nameZh": "秦树桐",
+      "nameEn": "Qin Shutong",
+      "membership": "full",
+      "alternateRank": 0,
+      "positionAtElectionZh": "陆军政治委员",
+      "positionAtElectionEn": "Political Commissar, PLA Army",
+      "identificationBasis": "zh.wikipedia list row '秦树桐 陆军上将'; article infobox 任期 2022年1月至2024年12月; promotion-ceremonies.json 2022-01-21",
+      "note": "Expelled: Party Centre decision announced 2025-10-17/18; confirmed by Fourth Plenum 2025-10-23."
+    },
+    {
+      "nameZh": "袁华智",
+      "nameEn": "Yuan Huazhi",
+      "membership": "full",
+      "alternateRank": 0,
+      "positionAtElectionZh": "海军政治委员",
+      "positionAtElectionEn": "Political Commissar, PLA Navy",
+      "identificationBasis": "zh.wikipedia list row '袁华智 海军上将'; article: '2022年1月升任海军政委'; promotion-ceremonies.json 2022-01-21",
+      "note": "Expelled: Party Centre decision announced 2025-10-17/18; confirmed by Fourth Plenum 2025-10-23."
+    },
+    {
+      "nameZh": "徐西盛",
+      "nameEn": "Xu Xisheng",
+      "membership": "full",
+      "alternateRank": 0,
+      "positionAtElectionZh": "南部战区副政治委员兼南部战区空军政治委员",
+      "positionAtElectionEn": "Deputy Political Commissar, Southern Theater Command, and Political Commissar, Southern Theater Command Air Force",
+      "identificationBasis": "zh.wikipedia list row '徐西盛 火箭军上将 … —2023.7 南部战区副政治委员兼南部战区空军政治委员'; article: '2017年，任南部战区副政委兼战区空军政委'; promotion-ceremonies.json 2023-07-31",
+      "note": "空军中将 at election; 火箭军政治委员 and 上将 from 2023-07."
+    },
+    {
+      "nameZh": "徐忠波",
+      "nameEn": "Xu Zhongbo",
+      "membership": "full",
+      "alternateRank": 0,
+      "positionAtElectionZh": "火箭军政治委员",
+      "positionAtElectionEn": "Political Commissar, PLA Rocket Force",
+      "identificationBasis": "zh.wikipedia list row '徐忠波 火箭军上将'; article infobox 任期 2020年7月—2023年7月; promotion-ceremonies.json 2020-07-29",
+      "note": "Replaced by 徐西盛 2023-07."
+    },
+    {
+      "nameZh": "徐起零",
+      "nameEn": "Xu Qiling",
+      "membership": "full",
+      "alternateRank": 0,
+      "positionAtElectionZh": "中央军委联合参谋部副参谋长（正战区职）",
+      "positionAtElectionEn": "Deputy Chief, CMC Joint Staff Department (theater-leader grade)",
+      "identificationBasis": "zh.wikipedia list row '徐起零 陆军上将'; article: '2021年6月升任西部战区司令员，8月调任中央军委联合参谋部副参谋长（正战区职）'; promotion-ceremonies.json 2021-07-05",
+      "note": ""
+    },
+    {
+      "nameZh": "徐德清",
+      "nameEn": "Xu Deqing",
+      "membership": "full",
+      "alternateRank": 0,
+      "positionAtElectionZh": "中部战区政治委员",
+      "positionAtElectionEn": "Political Commissar, Central Theater Command",
+      "identificationBasis": "zh.wikipedia list row '徐德清 陆军上将'; article: '2022年1月，升任中部战区政治委员'; promotion-ceremonies.json 2022-01-21",
+      "note": ""
+    },
+    {
+      "nameZh": "郭普校",
+      "nameEn": "Guo Puxiao",
+      "membership": "full",
+      "alternateRank": 0,
+      "positionAtElectionZh": "空军政治委员",
+      "positionAtElectionEn": "Political Commissar, PLA Air Force",
+      "identificationBasis": "zh.wikipedia list row '郭普校 空军上将'; article infobox 任期 2022年1月—2025年12月; '2022年1月，任空军政治委员'; promotion-ceremonies.json 2020-12-18",
+      "note": "NPC deputy status revoked 2026-06 (Wikipedia row); listed as 被查."
+    },
+    {
+      "nameZh": "黄铭",
+      "nameEn": "Huang Ming",
+      "membership": "full",
+      "alternateRank": 0,
+      "positionAtElectionZh": "陆军参谋长",
+      "positionAtElectionEn": "Chief of Staff, PLA Army",
+      "identificationBasis": "zh.wikipedia list row '黄铭 陆军上将'; article: '2021年9月，转任陆军参谋长…2023年1月升任中部战区司令员'; promotion-ceremonies.json 2023-01-18",
+      "note": "陆军中将 at election; the Wikipedia list row starts at 中部战区司令员 and omits the 参谋长 billet."
+    },
+    {
+      "nameZh": "常丁求",
+      "nameEn": "Chang Dingqiu",
+      "membership": "full",
+      "alternateRank": 0,
+      "positionAtElectionZh": "空军司令员",
+      "positionAtElectionEn": "Commander, PLA Air Force",
+      "identificationBasis": "zh.wikipedia list row '常丁求 空军上将'; article infobox 任期 2021年8月—2025年12月; promotion-ceremonies.json 2021-09-06",
+      "note": "Succeeded by 王刚 (promotion ceremony 2026-07-03)."
+    },
+    {
+      "nameZh": "董军",
+      "nameEn": "Dong Jun",
+      "membership": "full",
+      "alternateRank": 0,
+      "positionAtElectionZh": "海军司令员",
+      "positionAtElectionEn": "Commander, PLA Navy",
+      "identificationBasis": "zh.wikipedia list row '董军 海军上将'; article infobox 海军司令员 任期 2021年9月6日—2023年12月25日; promotion-ceremonies.json 2021-09-06",
+      "note": "国防部部长 from 2023-12-29."
+    },
+    {
+      "nameZh": "丁兴农",
+      "nameEn": "Ding Xingnong",
+      "membership": "alternate",
+      "alternateRank": 2,
+      "positionAtElectionZh": "战略支援部队政治工作部主任",
+      "positionAtElectionEn": "Director, Political Work Department, Strategic Support Force",
+      "identificationBasis": "news.cn alternate list position 2; zh.wikipedia alternate row '丁兴农 火箭军中将'; article: '2021年12月任战略支援部队政治工作部主任。2024年4月，调任火箭军副政委'",
+      "note": "Highest-ranked military alternate. Passed over at the Third Plenum 2024-07-18 (#1, #3, #4 promoted) and the Fourth Plenum 2025-10-23 (#5–#22 range filled without him)."
+    },
+    {
+      "nameZh": "王立岩",
+      "nameEn": "Wang Liyan",
+      "membership": "alternate",
+      "alternateRank": 9,
+      "positionAtElectionZh": "中央军委联勤保障部队司令员",
+      "positionAtElectionEn": "Commander, Joint Logistic Support Force",
+      "identificationBasis": "news.cn alternate list position 9; zh.wikipedia alternate row '王立岩 火箭军中将'; article: '2021年8月，任中央军委联勤保障部队司令员'; '2022年10月…当选候补中央委员'",
+      "note": "火箭军副司令员兼参谋长 from 2024-06 (Wikipedia row). Passed over at the Fourth Plenum 2025-10-23."
+    },
+    {
+      "nameZh": "王抗平",
+      "nameEn": "Wang Kangping",
+      "membership": "alternate",
+      "alternateRank": 11,
+      "positionAtElectionZh": "东部战区副司令员",
+      "positionAtElectionEn": "Deputy Commander, Eastern Theater Command",
+      "identificationBasis": "news.cn alternate list position 11; zh.wikipedia alternate row '王抗平 空军中将'; article: '2021年6月任东部战区副司令员'",
+      "note": "联勤保障部队司令员 2024.9–2025 (Wikipedia row). Passed over at the Fourth Plenum 2025-10-23; NPC deputy status revoked 2026-06; listed under 接受调查 on the alternate list page."
+    },
+    {
+      "nameZh": "方永祥",
+      "nameEn": "Fang Yongxiang",
+      "membership": "alternate",
+      "alternateRank": 16,
+      "positionAtElectionZh": "南部战区副政治委员兼南部战区陆军政治委员",
+      "positionAtElectionEn": "Deputy Political Commissar, Southern Theater Command, and Political Commissar, Southern Theater Command Army",
+      "identificationBasis": "news.cn alternate list position 16; zh.wikipedia alternate row '方永祥 陆军中将'; article infobox 任期 2021年12月-2024年3月; '2021年12月，升任南部战区副政治委员兼战区陆军政治委员'",
+      "note": "中央军委办公厅主任 from 2024-03 (Wikipedia row). Passed over at the Fourth Plenum 2025-10-23."
+    },
+    {
+      "nameZh": "石正露",
+      "nameEn": "Shi Zhenglu",
+      "membership": "alternate",
+      "alternateRank": 21,
+      "positionAtElectionZh": "北部战区副司令员兼北部战区陆军司令员",
+      "positionAtElectionEn": "Deputy Commander, Northern Theater Command, and Commander, Northern Theater Command Army",
+      "identificationBasis": "news.cn alternate list position 21; zh.wikipedia alternate row '石正露 陆军中将 … 退役 … —2025.8 北部战区副司令员兼北部战区陆军司令员'; article: '2017年1月，升任北部战区副司令员兼参谋长…2020年12月，转任北部战区陆军司令员'",
+      "note": "Passed over at the Fourth Plenum 2025-10-23 (卢红 #22 promoted). Wikipedia row marks him 退役 after 2025.8."
+    },
+    {
+      "nameZh": "付文化",
+      "nameEn": "Fu Wenhua",
+      "membership": "alternate",
+      "alternateRank": 24,
+      "positionAtElectionZh": "北京市委常委、北京卫戍区司令员",
+      "positionAtElectionEn": "Commander, Beijing Garrison (and Beijing Party Standing Committee member)",
+      "identificationBasis": "news.cn alternate list position 24; zh.wikipedia alternate row '付文化 陆军中将'; article: '2020年4月，升任北京卫戍区司令员…2022年6月，当选为中共北京市委常委'",
+      "note": "武警部队副司令员 2024.6–2025.10, 陆军副司令员 from 2025.10 (Wikipedia row). Not reached by vacancy filling (highest promoted ordinal is #22)."
+    },
+    {
+      "nameZh": "朱文祥",
+      "nameEn": "Zhu Wenxiang",
+      "membership": "alternate",
+      "alternateRank": 32,
+      "positionAtElectionZh": "武警部队副司令员",
+      "positionAtElectionEn": "Deputy Commander, People's Armed Police Force",
+      "identificationBasis": "news.cn alternate list position 32; zh.wikipedia alternate row '朱文祥 武警中将'; article 朱文祥 (武警): '2020年7月，升任武警部队副司令员'",
+      "note": "PAP."
+    },
+    {
+      "nameZh": "孙向东",
+      "nameEn": "Sun Xiangdong",
+      "membership": "alternate",
+      "alternateRank": 48,
+      "positionAtElectionZh": "空降兵95829部队部队长（空降兵军军长）",
+      "positionAtElectionEn": "Commander, PLA Airborne Corps (Unit 95829)",
+      "identificationBasis": "news.cn alternate list position 48; zh.wikipedia alternate row '孙向东 空军中将 … —2024.3 中国人民解放军空降兵95829部队 部队长'; article (stub) names him 中部战区副司令员",
+      "note": "Article is a stub; billet at election rests on the Wikipedia alternate-list row. 中部战区副司令员 from 2024-03."
+    },
+    {
+      "nameZh": "孙金明",
+      "nameEn": "Sun Jinming",
+      "membership": "alternate",
+      "alternateRank": 49,
+      "positionAtElectionZh": "火箭军参谋长",
+      "positionAtElectionEn": "Chief of Staff, PLA Rocket Force",
+      "identificationBasis": "news.cn alternate list position 49; zh.wikipedia alternate row '孙金明 火箭军中将'; article: '2022年3月升任火箭军参谋长…晋升中将军衔'",
+      "note": "Expelled by Politburo; expulsion confirmed by the Third Plenum 2024-07-18 (alternate member)."
+    },
+    {
+      "nameZh": "李贤玉",
+      "nameEn": "Li Xianyu",
+      "membership": "alternate",
+      "alternateRank": 58,
+      "positionAtElectionZh": "火箭军研究院总工程师",
+      "positionAtElectionEn": "Chief Engineer, PLA Rocket Force Research Academy",
+      "identificationBasis": "news.cn alternate list entry '李贤玉（女，朝鲜族）' position 58; zh.wikipedia alternate row '李贤玉 火箭军少将（女，朝鲜族）… 学者'; article: 火箭军研究院总工程师，少将军衔，中国工程院院士",
+      "note": "Specialist-technical major general and academician."
+    },
+    {
+      "nameZh": "吴俊宝",
+      "nameEn": "Wu Junbao",
+      "membership": "alternate",
+      "alternateRank": 73,
+      "positionAtElectionZh": "东部战区副司令员兼东部战区空军司令员",
+      "positionAtElectionEn": "Deputy Commander, Eastern Theater Command, and Commander, Eastern Theater Command Air Force",
+      "identificationBasis": "news.cn alternate list position 73; zh.wikipedia alternate row '吴俊宝 空军中将'; article: '2021年12月，升任东部战区副司令员兼战区空军司令员'",
+      "note": ""
+    },
+    {
+      "nameZh": "张凤中",
+      "nameEn": "Zhang Fengzhong",
+      "membership": "alternate",
+      "alternateRank": 83,
+      "positionAtElectionZh": "火箭军第66基地政治委员",
+      "positionAtElectionEn": "Political Commissar, PLA Rocket Force Base 66",
+      "identificationBasis": "news.cn alternate list position 83; zh.wikipedia alternate row '张凤中 火箭军中将'; article: '2019年3月任火箭军第66基地政治委员…2023年4月，升任火箭军政治工作部主任'",
+      "note": "少将 at election. Expelled: Fourth Plenum 2025-10-23 confirmed the Politburo's earlier expulsion (alternate member)."
+    },
+    {
+      "nameZh": "周志鑫",
+      "nameEn": "Zhou Zhixin",
+      "membership": "alternate",
+      "alternateRank": 104,
+      "positionAtElectionZh": "中央军委科学技术委员会副主任",
+      "positionAtElectionEn": "Deputy Director, CMC Science and Technology Commission",
+      "identificationBasis": "news.cn alternate list position 104; zh.wikipedia alternate row '周志鑫 陆军少将 … 学者 … 中央军委科学技术委员会副主任'; article: 空间遥感应用专家，少将，中国科学院院士",
+      "note": "Appointment date for 军委科技委副主任 not given in the article; billet rests on the Wikipedia alternate-list row."
+    },
+    {
+      "nameZh": "周建国",
+      "nameEn": "Zhou Jianguo",
+      "membership": "alternate",
+      "alternateRank": 105,
+      "positionAtElectionZh": "武警新疆总队司令员",
+      "positionAtElectionEn": "Commander, PAP Xinjiang Corps",
+      "identificationBasis": "news.cn alternate list position 105; zh.wikipedia alternate row '周建国 武警中将 … —2022.12 武警新疆总队 司令员'; article 周建国 (武警): '后任武警新疆总队司令员…2023年1月，任武警部队参谋长'",
+      "note": "PAP. 武警部队参谋长 2023.1–2025.9, 副司令员 from 2025.9 (Wikipedia row)."
+    },
+    {
+      "nameZh": "姜国平",
+      "nameEn": "Jiang Guoping",
+      "membership": "alternate",
+      "alternateRank": 111,
+      "positionAtElectionZh": "北部战区副司令员兼参谋长",
+      "positionAtElectionEn": "Deputy Commander and Chief of Staff, Northern Theater Command",
+      "identificationBasis": "news.cn alternate list position 111; zh.wikipedia alternate row '姜国平 海军中将'; article: '2019年6月，升任北部战区副司令员，2021年兼任北部战区参谋长'",
+      "note": ""
+    },
+    {
+      "nameZh": "凌焕新",
+      "nameEn": "Ling Huanxin",
+      "membership": "alternate",
+      "alternateRank": 121,
+      "positionAtElectionZh": "中央军委纪委副书记",
+      "positionAtElectionEn": "Deputy Secretary, CMC Discipline Inspection Commission",
+      "identificationBasis": "news.cn alternate list position 121; zh.wikipedia alternate row '凌焕新 陆军上将 … —2023.6 中央军委纪委 副书记'; article: '2018年12月，升任中央军委纪委副书记…2023年6月，任军事科学院政治委员'; promotion-ceremonies.json 2023-06-28",
+      "note": "陆军中将 at election; 上将 and 军事科学院政治委员 from 2023-06-28. Only alternate later promoted to full general."
+    },
+    {
+      "nameZh": "黄旭聪",
+      "nameEn": "Huang Xucong",
+      "membership": "alternate",
+      "alternateRank": 129,
+      "positionAtElectionZh": "陆军第七十四集团军军长",
+      "positionAtElectionEn": "Commander, 74th Group Army",
+      "identificationBasis": "news.cn alternate list position 129; zh.wikipedia alternate row '黄旭聪 陆军中将 … —2023.9 陆军第七十四集团军 军长'; article (stub): 曾任陆军第七十四集团军军长，现任中部战区副司令员",
+      "note": "Article is a stub; 中部战区副司令员兼参谋长 from 2023-09 per the Wikipedia row."
+    },
+    {
+      "nameZh": "崔玉忠",
+      "nameEn": "Cui Yuzhong",
+      "membership": "alternate",
+      "alternateRank": 135,
+      "positionAtElectionZh": "海军副司令员",
+      "positionAtElectionEn": "Deputy Commander, PLA Navy",
+      "identificationBasis": "news.cn alternate list position 135; zh.wikipedia alternate row '崔玉忠 海军中将'; article: '2021年6月，任海军副司令员'",
+      "note": ""
+    },
+    {
+      "nameZh": "景建峰",
+      "nameEn": "Jing Jianfeng",
+      "membership": "alternate",
+      "alternateRank": 143,
+      "positionAtElectionZh": "中央军委联合参谋部副参谋长",
+      "positionAtElectionEn": "Deputy Chief, CMC Joint Staff Department",
+      "identificationBasis": "news.cn alternate list position 143; zh.wikipedia alternate row '景建峰 空军中将'; article: '2021年12月，调任中央军委联合参谋部副参谋长'",
+      "note": ""
+    },
+    {
+      "nameZh": "傅爱国",
+      "nameEn": "Fu Aiguo",
+      "membership": "alternate",
+      "alternateRank": 144,
+      "positionAtElectionZh": "国防科技大学政治委员",
+      "positionAtElectionEn": "Political Commissar, National University of Defense Technology",
+      "identificationBasis": "news.cn alternate list position 144; zh.wikipedia alternate row '傅爱国 空军少将 … —2024.9 国防科技大学 政委'; article (stub): 曾任国防科技大学政治委员",
+      "note": "Article is a stub; appointment date not given."
+    },
+    {
+      "nameZh": "黎湘",
+      "nameEn": "Li Xiang",
+      "membership": "alternate",
+      "alternateRank": 158,
+      "positionAtElectionZh": "国防科技大学校长",
+      "positionAtElectionEn": "President, National University of Defense Technology",
+      "identificationBasis": "news.cn alternate list position 158; zh.wikipedia alternate row '黎湘 陆军少将'; article infobox 国防科技大学校长 任期 2019年12月—2025年",
+      "note": "中国科学院院士."
+    },
+    {
+      "nameZh": "魏文徽",
+      "nameEn": "Wei Wenhui",
+      "membership": "alternate",
+      "alternateRank": 159,
+      "positionAtElectionZh": "南部战区副司令员",
+      "positionAtElectionEn": "Deputy Commander, Southern Theater Command",
+      "identificationBasis": "news.cn alternate list position 159; zh.wikipedia alternate row '魏文徽 海军中将 … 南部战区 副司令员'; article (stub): 海军中将，南部战区副司令员",
+      "note": "Article is a stub; appointment date not given."
+    }
+  ],
+  "laterChanges": [
+    {
+      "date": "2023-02-28",
+      "event": "Second Plenum communiqué (二十届二中全会, 2023-02-26 to 28): no expulsions, no vacancy filling. Attendance line records 候补中央委员170人. Personnel content limited to state/CPPCC leadership nominations and the 党和国家机构改革方案.",
+      "url": "http://www.news.cn/politics/2023-02/28/c_1129403909.htm",
+      "namesZh": []
+    },
+    {
+      "date": "2024-06-27",
+      "event": "Politburo meeting adopted the CMC report on 李尚福 and decided to expel him from the Party (开除党籍) and terminate his 20th Congress delegate status; the CMC had earlier expelled him from the military and cancelled his 陆军上将 rank; expulsion 'to be confirmed at a plenum'. (Xinhua item on 李尚福 fetched; the companion 李玉超 item was not fetched — his expulsion is documented in the Third Plenum communiqué.)",
+      "url": "http://www.news.cn/politics/20240627/112b13a716af4c68af5f9af568532d84/c.html",
+      "namesZh": [
+        "李尚福"
+      ]
+    },
+    {
+      "date": "2024-07-18",
+      "event": "Third Plenum communiqué: '全会审议并通过了中共中央军事委员会关于李尚福、李玉超、孙金明严重违纪违法问题的审查报告，确认中央政治局之前作出的给予李尚福、李玉超、孙金明开除党籍的处分' (李尚福, 李玉超 full members; 孙金明 alternate #49). Vacancies filled: '决定递补中央委员会候补委员丁向群、于立军、于吉红为中央委员会委员' (ordinals #1, #3, #4). Passed over: 丁兴农 (#2, 火箭军副政委, the highest-ranked military alternate). Also accepted 秦刚's resignation (civilian).",
+      "url": "http://www.news.cn/politics/leaders/20240718/a41ada3016874e358d5064bba05eba98/c.html",
+      "namesZh": [
+        "李尚福",
+        "李玉超",
+        "孙金明",
+        "丁向群",
+        "于立军",
+        "于吉红",
+        "丁兴农"
+      ]
+    },
+    {
+      "date": "2025-10-17",
+      "event": "Party Centre decision (announced 2025-10-17 by the MND; read here in the 解放军报社论 carried by Xinhua 2025-10-18): '党中央决定，给予何卫东、苗华、何宏军、王秀斌、林向阳、秦树桐、袁华智、王厚斌、王春宁等9人开除党籍处分，将涉嫌犯罪问题移送军事检察机关依法审查起诉'. Eight of the nine are 20th CC full members; 王厚斌 (火箭军司令员) is not a CC member.",
+      "url": "http://www.news.cn/politics/20251018/1ff7e53ee17144aba63d6f88b026d9d9/c.html",
+      "namesZh": [
+        "何卫东",
+        "苗华",
+        "何宏军",
+        "王秀斌",
+        "林向阳",
+        "秦树桐",
+        "袁华智",
+        "王春宁",
+        "王厚斌"
+      ]
+    },
+    {
+      "date": "2025-10-23",
+      "event": "Fourth Plenum communiqué: adopted the CMC report on 何卫东、苗华、何宏军、王秀斌、林向阳、秦树桐、袁华智、王春宁、张凤中 and confirmed the Politburo's expulsions of those nine military members (eight full members plus alternate 张凤中 #83) together with civilians 唐仁健、金湘军、李石松、杨发森、朱芝松. Vacancies filled: '决定递补中央委员会候补委员于会文、马汉成、王健、王曦、王永红、王庭凯、王新伟、韦韬、邓亦武、邓修明、卢红为中央委员会委员' (ordinals #5, #6, #7, #8, #10, #12, #13, #15, #18, #19, #22). Military alternates ranked above #22 and passed over: 丁兴农 (#2), 王立岩 (#9), 王抗平 (#11), 方永祥 (#16), 石正露 (#21); civilians passed over in the same range: 王嘉毅 (#14), 方红卫 (#17), 石玉钢 (#20).",
+      "url": "http://www.news.cn/politics/20251023/777d21b244c4405c84b544d7cc43e236/c.html",
+      "namesZh": [
+        "何卫东",
+        "苗华",
+        "何宏军",
+        "王秀斌",
+        "林向阳",
+        "秦树桐",
+        "袁华智",
+        "王春宁",
+        "张凤中",
+        "于会文",
+        "马汉成",
+        "王健",
+        "王曦",
+        "王永红",
+        "王庭凯",
+        "王新伟",
+        "韦韬",
+        "邓亦武",
+        "邓修明",
+        "卢红",
+        "丁兴农",
+        "王立岩",
+        "王抗平",
+        "方永祥",
+        "石正露"
+      ]
+    },
+    {
+      "date": "2025-10-28",
+      "event": "NPC Standing Committee 18th session (state, not Party, action): '决定任命张升民为中华人民共和国中央军事委员会副主席，免去何卫东的中华人民共和国中央军事委员会副主席职务'.",
+      "url": "http://www.news.cn/politics/leaders/20251028/720677a97a7f46b6a9eb1b9e724bbb55/c.html",
+      "namesZh": [
+        "张升民",
+        "何卫东"
+      ]
+    },
+    {
+      "date": "2026-01-24",
+      "event": "MND notice: '中央政治局委员、中央军委副主席张又侠，中央军委委员、中央军委联合参谋部参谋长刘振立涉嫌严重违纪违法，经党中央研究，决定对张又侠、刘振立立案审查调查'. No plenum action yet; the Fifth Plenum is scheduled for October 2026 (zh.wikipedia 中国共产党第二十届中央委员会 citing 12371.cn, 2026-08-01).",
+      "url": "http://www.mod.gov.cn/gfbw/qwfb/16439106.html",
+      "namesZh": [
+        "张又侠",
+        "刘振立"
+      ]
+    }
+  ],
+  "gaps": [
+    "The news.cn full-member list URL was not located: https://www.news.cn/2022-10/22/c_1129075009.htm (given in the brief as the full list) is the 候补委员 list; c_1129075005–1129075011 and the /politics/cpc20/ variants return 404. The 205-name list was read from the gov.cn reprint (来源：新华社, content_5720882.htm), which is textually the Xinhua dispatch.",
+    "Position at election could not be dated from an official or article source for: 赵晓哲 (army-level 主任 of 军委科技委; article only gives 副主任 from 2018-06), 周志鑫 (军委科技委副主任), 傅爱国 (国防科技大学政委), 魏文徽 (南部战区副司令员), 孙向东 (空降兵军军长), 黄旭聪 (74集团军军长) — their zh.wikipedia articles are stubs, so the billet rests on the Wikipedia list-row annotation (secondary_source_only).",
+    "何卫东's billet between leaving 东部战区司令员 (2022-01) and election as CMC vice chairman (2022-10-23) was never published; recorded as CMC vice chairman with the pre-Congress gap noted.",
+    "刘振立: his article's infobox dates the 联合参谋部参谋长 appointment to 2022-09 while the body says 2023-03; recorded per infobox and the 陆军司令员 handover to 李桥铭 (2022-09). 许学强's 装备发展部部长 appointment was disclosed only after the Congress (李尚福 held it to 2022-11-08), so he is recorded as 国防大学校长 at election.",
+    "杨志亮: the Wikipedia row gives 南部战区副政治委员兼南部战区海军政治委员 but the article dates only 南部战区海军政治委员 (2019-12); the 副政治委员 date is unverified.",
+    "Separate Xinhua items for the Politburo expulsions of 李玉超 (June 2024) and 张凤中 (2025) were not fetched; both expulsions are documented only through the plenum communiqués here. The 2025-10-17 MND announcement itself (mod.gov.cn) was not fetched; the Xinhua-carried 解放军报社论 of 2025-10-18 quoting the Party Centre decision was used instead.",
+    "Wikipedia list-page status annotations (被查 / NPC deputy revocations for 王鹏, 王仁华, 张林, 张红兵, 李伟, 李桥铭, 许学强, 李凤彪, 郭普校, 巨乾生, 钟绍军, 赵晓哲, 王抗平) are recorded in notes as secondary only; their official NPC dates belong to research/trackers/npc-terminations.json and were not re-verified here. ccdi.gov.cn citations on the Wikipedia pages were not fetched (unreachable per brief).",
+    "No plenum between the Fourth Plenum (2025-10-23) and the 2026-09-03 cutoff: the Politburo expulsion of 马兴瑞 (civilian, 2026-07-14, Xinhua) explicitly awaits plenum confirmation, and the Wikipedia CC20 article dates the Fifth Plenum to October 2026. Expulsions of civilians 蓝天立, 王莉霞, 易会满, 马兴瑞 (2026) are therefore pending and outside this lane.",
+    "Military membership count: 44 full members (of 205) and 22 alternates (of 171), identified from rank annotations in the Wikipedia tables. Anyone the Wikipedia editors did not annotate with a rank would have been missed; the 205-name list was scanned for other obviously military names and none were found."
+  ],
+  "searchLog": [
+    "Read research/trackers/promotion-ceremonies.json (17 ceremonies 2019-12-12 to 2026-07-03) and research/adverse-timeline.json (status/dates for removed officers) with python3.",
+    "curl https://www.news.cn/2022-10/22/c_1129075009.htm -> it is the 候补委员 list (171 names, vote-ordered); probed c_1129075005-11 on news.cn and /politics/cpc20/ -> 404.",
+    "Fetched zh.wikipedia 中国共产党第二十届中央委员会委员列表 and 候补委员列表; extracted external references (gov.cn reprints of both Xinhua lists, news.cn plenum communiqués 2024-07-18 and 2025-10-23, NPC gazettes, ccdi/mod links).",
+    "Fetched http://www.gov.cn/xinwen/2022-10/22/content_5720882.htm (full list, 205 names) and content_5720883.htm (alternate list); parsed names, checked all 44 full military names present, computed alternate ordinals from the news.cn list.",
+    "Parsed both Wikipedia member tables for rows annotated 上将/中将/少将/武警/解放军 -> 44 full, 22 alternate; captured each row's billet chronology and status annotations; read the list pages' 递补/开除党籍/被查 summaries.",
+    "Fetched all 66 member articles from zh.wikipedia (links taken from the table rows) and extracted infobox tenures and dated career sentences to fix the October 2022 billet.",
+    "Fetched Xinhua communiqués: Second Plenum 2023-02-28 (c_1129403909, no membership change), Third Plenum 2024-07-18 (a41ada30…), Fourth Plenum 2025-10-23 (777d21b2…); fetched zh.wikipedia 中国共产党第二十届中央委员会 for the plenum roster (五中全会 planned 2026-10).",
+    "Fetched supporting official items: news.cn 2024-06-27 李尚福 expulsion; news.cn 2025-10-18 解放军报社论 quoting the nine-officer expulsion decision; news.cn 2025-10-28 NPCSC (张升民 appointed / 何卫东 removed as state CMC vice chairman); mod.gov.cn 2026-01-24 张又侠/刘振立 investigation notice; news.cn 2026-07-14 马兴瑞 expulsion (civilian, pending plenum); NPC gazettes 2025-12-27, 2026-06-26, 2026-08-28 (not military-specific).",
+    "Not used: WebSearch (unavailable per brief), baike.baidu.com, ccdi.gov.cn, search.81.cn."
+  ]
+}

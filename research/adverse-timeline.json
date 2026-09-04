@@ -1,0 +1,2450 @@
+{
+  "cutoff": "2026-09-02",
+  "description": "Disappearance-clock evidence for the adverse ledger. lastPublicAppearance is the last dated public appearance with an exact title before the first concrete sign of trouble; firstConcreteSignal is the earliest public, dated sign of trouble; formalAction is the formal Party, state, NPC or military disposition. Day counts are computed by the build script, never typed. Unknown is recorded as null, never inferred.",
+  "signalKinds": {
+    "absence_noted": "Omission from a high-expectancy event with a complete roster and peers present",
+    "press_report": "Credible press report of investigation or detention before any official act",
+    "replacement_named": "A successor formally named without explanation",
+    "investigation_announced": "Official announcement of investigation",
+    "suspension_announced": "Official announcement of suspension for investigation",
+    "npc_seat_revoked": "NPC deputy status revoked or terminated",
+    "state_office_removed": "Removed from a state office by the NPC Standing Committee",
+    "state_cmc_removed": "Removed from the state CMC by the NPC Standing Committee",
+    "expulsion_announced": "Expelled from the Party and the military",
+    "party_bypass": "Passed over in ordered Central Committee vacancy filling",
+    "npc_gazette_reported": "NPC gazette text reported by secondary press",
+    "secondary_classification": "Specialist research classification without a dated official notice in this repository",
+    "other": "A dated public signal that fits none of the other kinds; the event text says what it was"
+  },
+  "records": [
+    {
+      "id": "PLA-66692D7E85C2",
+      "nameEn": "Zhang Youxia",
+      "nameZh": "张又侠",
+      "status": "investigated",
+      "controlledState": "confirmed_exit",
+      "ledgerDate": "2026-08-28",
+      "formerRole": "First vice chairman, Central Military Commission",
+      "lastPublicAppearance": {
+        "date": "2025-12-22",
+        "datePrecision": "day",
+        "event": "At the CMC ceremony promoting officers to the rank of general at the Bayi Building in Beijing, attended by Xi Jinping, Zhang Youxia read out the promotion order signed by Xi and joined the group photo with the newly promoted generals.",
+        "titleZh": "中央军委副主席张又侠",
+        "url": "https://www.news.cn/politics/leaders/20251222/fb1b217000ac46f8812eeaeb3fd5c261/c.html",
+        "publisher": "Xinhua (news.cn)",
+        "sourceClass": "A1",
+        "verification": "page_fetched_and_confirmed",
+        "note": "Xinhua text (reporter 梅常伟, dated 北京12月22日电) fetched and read: '中央军委副主席张又侠宣读中央军委主席习近平签署的晋升上将军衔命令'. Same report carried by People's Daily (cpc.people.com.cn/n1/2025/1223/c64094-40630047.html, fetched) and CCTV. No later appearance found: searches of news.cn, 81.cn (PLA Daily PDFs 2025-12-31 and 2026-01-05 checked, no mention) and general Chinese/English queries for 23 Dec 2025 to 19 Jan 2026 returned nothing naming him; CNA (2026-01-21) and Epoch Times (2026-01-22) both state 22 Dec 2025 was his last public appearance. This source does not establish that no non-reported appearance occurred; the 31 Dec 2025 CPPCC New Year tea reception reports name only Politburo Standing Committee members, so cannot be used."
+      },
+      "firstConcreteSignal": {
+        "date": "2026-01-21",
+        "kind": "absence_noted",
+        "event": "CNA (Central News Agency, Taiwan) reported that CCTV footage of the 20 January 2026 opening of the provincial/ministerial-level seminar on the Fourth Plenum showed Zhang Youxia's front-row Politburo seat empty (Zhang Shengmin sat in the front row instead) and that Liu Zhenli was also absent; both were noted as last seen at the 22 Dec 2025 promotion ceremony.",
+        "url": "https://www.cna.com.tw/news/acn/202601210238.aspx",
+        "publisher": "中央社 CNA",
+        "sourceClass": "B1",
+        "verification": "page_fetched_and_confirmed",
+        "note": "Earlier than the seeded 24 Jan 2026 MND/Xinhua investigation notice (which remains the official first signal and should be kept as an intermediate/official item). Even earlier same-day reporting exists from Epoch Times (2026-01-20, https://www.epochtimes.com/b5/26/1/20/n14680088.htm, fetched; class C) and Wenxuecity (2026-01-21). The CCTV Xinwen Lianbo broadcast of 2026-01-20 itself is the underlying primary evidence but is not an easily citable dated page; absence continued at the 23 Jan closing ceremony (Epoch Times 2026-01-23)."
+      },
+      "formalAction": {
+        "date": "2026-08-28",
+        "kind": "state_cmc_removed",
+        "url": "https://www.news.cn/politics/20260828/9f7a67c5059e4e7b8a45a8353c5688c8/c.html",
+        "sourceClass": "A1",
+        "note": "NPC Standing Committee removed him as state CMC vice chairman and terminated his NPC seat on 28 August 2026"
+      },
+      "intermediateActions": [],
+      "searchLane": "Xinhua leadership pages Dec 2025–Jan 2026; CMC events; 81.cn",
+      "researchNotes": "Last appearance is firmly the 22 Dec 2025 CMC promotion ceremony (Xinhua A1 page read; corroborated by People's Daily and by CNA/Epoch Times statements that it was his last appearance). No Xinhua/81.cn item names him between 23 Dec 2025 and 24 Jan 2026. en.wikipedia's claim that he 'disappeared after November 2025' (citing France 24) is contradicted by the 22 Dec Xinhua report and should not be used. Earliest dated public signal is media noting his absence from the 20 Jan 2026 seminar opening (Epoch Times 20 Jan, C-class; CNA 21 Jan, B-class); the seeded 24 Jan official notice remains the official first signal. Seeded formalAction URL is correct for the state CMC removal but the NPC-seat termination it describes is documented in the separate 公告〔十四届〕第十九号 (URL given in seededUrlChecks).",
+      "collectionState": "not_yet_collected",
+      "researchConfidence": "high",
+      "seededUrlChecks": [
+        {
+          "url": "https://www.news.cn/20260124/d0526e74a7004ca6b29f7431c3b7c623/c.html",
+          "status": "confirmed",
+          "note": "Fetched HTTP 200. Xinhua reprint (来源：国防部网站, 2026-01-24 15:06) titled 张又侠、刘振立涉嫌严重违纪违法被立案审查调查; names 中央政治局委员、中央军委副主席张又侠 and states 决定对张又侠、刘振立立案审查调查. Matches the note. Alternate Xinhua copy: https://www.news.cn/legal/20260124/33406074879940878fd3102178790920/c.html."
+        },
+        {
+          "url": "https://www.news.cn/politics/20260828/9f7a67c5059e4e7b8a45a8353c5688c8/c.html",
+          "status": "confirmed",
+          "note": "Fetched HTTP 200. 全国人民代表大会常务委员会决定免职的名单 (2026-08-28, 第十四届全国人大常委会第二十四次会议通过): 免去张又侠的中华人民共和国中央军事委员会副主席职务. NOTE: this page covers only the state CMC removal; the NPC seat termination is in the separate 全国人民代表大会常务委员会公告〔十四届〕第十九号, https://www.news.cn/politics/20260828/880e5ee1563549d99b82c901a20ab62f/c.html (fetched, confirmed: 中央军委办公厅军人代表大会决定罢免张又侠、钟绍军的第十四届全国人民代表大会代表职务 ... 代表资格终止). Consider adding that URL as a second formalAction/intermediate entry."
+        }
+      ],
+      "searchLog": [
+        "WebSearch: 张又侠 最后一次公开露面 2026年1月",
+        "WebSearch: Zhang Youxia last public appearance January 2026",
+        "WebSearch: 中央军委举行晋升上将军衔仪式 2025年12月22日 张又侠 刘振立 新华社",
+        "WebSearch: news.cn 20251222 中央军委举行晋升上将军衔仪式 (found Xinhua URL)",
+        "WebSearch: 张又侠 2026年1月 出席 会见 军委副主席",
+        "WebSearch: 张又侠 2025年12月 会见 12月23日..12月31日",
+        "WebSearch: 张又侠 2026年1月 军队 新年 慰问/座谈/会议",
+        "WebSearch: \"张又侠\" 2026年1月 site:news.cn (only 24 Jan investigation items)",
+        "WebSearch: 张又侠 缺席 省部级主要领导干部专题研讨班 2026年1月 开班",
+        "WebSearch: Zhang Youxia absent seminar January 20 2026 Reuters/SCMP/Zaobao",
+        "WebSearch: 张又侠 缺席 研讨班 联合早报/中央社 1月20日 (found CNA 2026-01-21)",
+        "WebSearch: 全国政协 新年茶话会 2025年12月31日 张又侠 (no named attendance)",
+        "WebSearch: 全国人大常委会 公告 十四届 第十九号 张又侠 刘振立",
+        "Fetched: news.cn 20251222 ceremony page; cpc.people.com.cn 2025/1223 reprint; news.cn 20260124 investigation; news.cn 20260828 removal list; news.cn 20260828 公告第十九号; zh.wikipedia 张又侠; en.wikipedia Zhang_Youxia; cna.com.tw 202601210238; epochtimes 26/1/22/n14681388; epochtimes b5/26/1/20/n14680088; spp.gov.cn reprint (403)",
+        "Checked PLA Daily PDFs on 81.cn for 2025-12-31 (404) and 2026-01-05 (no mention of either name)"
+      ]
+    },
+    {
+      "id": "PLA-C469DFD848FA",
+      "nameEn": "Liu Zhenli",
+      "nameZh": "刘振立",
+      "status": "investigated",
+      "controlledState": "confirmed_exit",
+      "ledgerDate": "2026-08-28",
+      "formerRole": "CMC member and chief, CMC Joint Staff Department",
+      "lastPublicAppearance": {
+        "date": "2025-12-22",
+        "datePrecision": "day",
+        "event": "Liu Zhenli attended, as CMC member, the CMC ceremony at the Bayi Building in Beijing at which Xi Jinping presented promotion certificates to the newly promoted generals Yang Zhibin and Han Shengyan.",
+        "titleZh": "中央军委委员刘振立",
+        "url": "https://www.news.cn/politics/leaders/20251222/fb1b217000ac46f8812eeaeb3fd5c261/c.html",
+        "publisher": "Xinhua (news.cn)",
+        "sourceClass": "A1",
+        "verification": "page_fetched_and_confirmed",
+        "note": "Xinhua text fetched and read: '中央军委委员刘振立，军委机关各部门、军队驻京有关单位主要负责同志等参加晋衔仪式.' Note the title printed is 中央军委委员 only (not 联合参谋部参谋长). Same report on cpc.people.com.cn (fetched) and CCTV. No later appearance found: searches for Liu in late Dec 2025 / Jan 2026 (会见, 通话, 外军, site:81.cn, PLA Daily PDFs of 2026-01-05) returned nothing; a Jakarta visit hit is from Jan 2025, not 2026. CNA (2026-01-21) states 22 Dec 2025 was his last public appearance. Cannot exclude an unreported later appearance."
+      },
+      "firstConcreteSignal": {
+        "date": "2026-01-21",
+        "kind": "absence_noted",
+        "event": "CNA reported that CMC member and Joint Staff chief Liu Zhenli, together with Zhang Youxia, was absent from the 20 January 2026 opening of the provincial/ministerial-level seminar at the Central Party School, observing that CCTV listed only 'CMC vice chairmen' and no 'CMC members' among attendees.",
+        "url": "https://www.cna.com.tw/news/acn/202601210238.aspx",
+        "publisher": "中央社 CNA",
+        "sourceClass": "B1",
+        "verification": "page_fetched_and_confirmed",
+        "note": "Earlier than the seeded 24 Jan 2026 official investigation notice, which should be retained as the official signal. Epoch Times reported the same absence on 2026-01-20 (https://www.epochtimes.com/b5/26/1/20/n14680088.htm, fetched; class C) and continued absence at the 23 Jan closing ceremony. Underlying primary evidence is the CCTV Xinwen Lianbo attendee list of 2026-01-20."
+      },
+      "formalAction": {
+        "date": "2026-08-28",
+        "kind": "state_cmc_removed",
+        "url": "https://www.news.cn/politics/20260828/9f7a67c5059e4e7b8a45a8353c5688c8/c.html",
+        "sourceClass": "A1",
+        "note": "NPC Standing Committee removed him as state CMC member and terminated his NPC seat on 28 August 2026"
+      },
+      "intermediateActions": [],
+      "searchLane": "Xinhua leadership pages Dec 2025–Jan 2026; CMC events; 81.cn",
+      "researchNotes": "Last dated official appearance is the 22 Dec 2025 CMC promotion ceremony, where Xinhua names him as 中央军委委员刘振立 among attendees (Xinhua A1 page read). zh.wikipedia lists no appearance between then and the 24 Jan 2026 investigation. Earliest public signal is the media-noted absence from the 20 Jan 2026 seminar opening (Epoch Times 20 Jan, CNA 21 Jan); official notice 24 Jan 2026 (seeded, confirmed). Both seeded URLs are correct; the NPC-seat termination described in the formalAction note lives in the separate 公告〔十四届〕第十九号 (URL provided).",
+      "collectionState": "not_yet_collected",
+      "researchConfidence": "high",
+      "seededUrlChecks": [
+        {
+          "url": "https://www.news.cn/20260124/d0526e74a7004ca6b29f7431c3b7c623/c.html",
+          "status": "confirmed",
+          "note": "Fetched HTTP 200. Names 中央军委委员、中央军委联合参谋部参谋长刘振立 and states the Party Centre decided to open a case (立案审查调查) on 2026-01-24 (来源：国防部网站). Matches note."
+        },
+        {
+          "url": "https://www.news.cn/politics/20260828/9f7a67c5059e4e7b8a45a8353c5688c8/c.html",
+          "status": "confirmed",
+          "note": "Fetched HTTP 200. Item 二: 免去刘振立的中华人民共和国中央军事委员会委员职务 (2026-08-28). This page covers only the state CMC removal; his NPC seat termination (中央军委联合参谋部军人代表大会决定罢免刘振立的第十四届全国人民代表大会代表职务 ... 代表资格终止) is in 全国人民代表大会常务委员会公告〔十四届〕第十九号, https://www.news.cn/politics/20260828/880e5ee1563549d99b82c901a20ab62f/c.html (fetched, confirmed)."
+        }
+      ],
+      "searchLog": [
+        "WebSearch: 刘振立 最后一次公开露面 2026年1月",
+        "WebSearch: Liu Zhenli last public appearance 2026 investigated",
+        "WebSearch: 刘振立 2026年1月 军委联合参谋部参谋长 出席",
+        "WebSearch: 刘振立 2025年12月 会见 参谋长 新华网",
+        "WebSearch: \"刘振立\" site:81.cn 2026年1月 OR 2025年12月 (PLA Daily PDFs; 2026-01-05 page checked with pdftotext, no mention)",
+        "WebSearch: \"刘振立\" 2026年1月 军委联合参谋部参谋长刘振立 会见 外军",
+        "WebSearch: 刘振立 2026年1月 通话/会谈/会见 (only a Jan 2025 Jakarta visit surfaced)",
+        "WebSearch: 張又俠 劉振立 缺席 2026年1月20日 研討班 最後露面 12月22日",
+        "WebSearch: 全国人大常委会 公告 张又侠 刘振立 代表资格 终止 2026年8月",
+        "Fetched: news.cn 20251222 ceremony page; cpc.people.com.cn reprint; news.cn 20260124 investigation notice; news.cn 20260828 removal list; news.cn 20260828 公告第十九号; zh.wikipedia 刘振立 (no Dec 2025/Jan 2026 appearances listed); cna.com.tw 202601210238; epochtimes b5/26/1/20/n14680088"
+      ]
+    },
+    {
+      "id": "PLA-2D95381606C9",
+      "nameEn": "Zhong Shaojun",
+      "nameZh": "钟绍军",
+      "status": "confirmed removed",
+      "controlledState": "confirmed_exit",
+      "ledgerDate": "2026-08-28",
+      "formerRole": "Former director, CMC General Office",
+      "lastPublicAppearance": {
+        "date": "2025-08-19",
+        "datePrecision": "day",
+        "event": "Received Singapore Permanent Secretary for Defence Chan Heng Kee in Beijing during Chan's 18-19 August 2025 working visit, in his capacity as NDU political commissar (photo and caption published by Singapore MINDEF on 19 August 2025).",
+        "titleZh": "PLA National Defense University Political Commissar Lieutenant-General Zhong Shaojun (printed in English only; the source is Singapore MINDEF's official Instagram account, no Chinese-language title is printed. Chinese equivalent would be 国防大学政治委员, but that string was not found in any PRC official source)",
+        "url": "https://www.instagram.com/p/DNiQJtUzUQL/",
+        "publisher": "Ministry of Defence, Singapore (official Instagram account mindefsg)",
+        "sourceClass": "B1",
+        "verification": "page_fetched_and_confirmed",
+        "note": "Fetched the Instagram page meta text: 'mindefsg on August 19, 2025: Permanent Secretary for Defence Mr Chan Heng Kee conducted a working visit to Beijing, China from 18 to 19 Aug 2025 ... met senior leaders from the PLA, including ... PLA National Defense University Political Commissar Lieutenant-General Zhong Shaojun.' The exact day of the Zhong meeting within 18-19 Aug is not stated; 2025-08-19 is the post date. This is a foreign-government source, not a PRC official source: NTD (2025-08-23) reported that PRC media carried only the Dong Jun meeting and that Zhong's name was blocked on Weibo. No PRC official page naming him with an NDU or CMC General Office title after March 2024 was found. Possibly later: Epoch Times (2025-10-27) says CCTV footage showed him attending the 4th Plenum (20-23 Oct 2025), but he was not named with a title in any text found, so it does not qualify. Also the Singapore embassy X account (x.com/lhsingapura/status/1957777900951773259) carried the same caption but could not be fetched (HTTP 402)."
+      },
+      "firstConcreteSignal": {
+        "date": "2025-10-26",
+        "kind": "replacement_named",
+        "event": "PRC Embassy in the DPRK reported that a PLA delegation led by '国防大学政委夏志和中将' attended its 25 Oct 2025 CPV 75th-anniversary reception, showing Xia Zhihe had replaced Zhong as NDU political commissar without any announcement; Epoch Times/NTD reported the replacement on 27 Oct 2025.",
+        "url": "https://kp.china-embassy.gov.cn/zxxx/202510/t20251026_11740781.htm",
+        "publisher": "Embassy of the PRC in the DPRK (kp.china-embassy.gov.cn)",
+        "sourceClass": "A2",
+        "verification": "page_fetched_and_confirmed",
+        "note": "Page fetched; text reads '正在朝鲜访问的由国防大学政委夏志和中将率领的中国人民解放军代表团'. Zhong is not mentioned; the signal is the unexplained replacement. Earlier but weaker signals: independent commentator Cai Shenkun claimed on X on 22 Aug 2025 that Zhong had been removed as NDU PC (class C, unverified, reported second-hand by Epoch Times 2025-10-27 and NTD 2025-10-27); NTD 2025-08-23 noted PRC domestic suppression of the Singapore meeting report and Weibo search block on his name. Secondary reports of replacement: https://www.epochtimes.com/gb/25/10/27/n14623985.htm and https://www.ntdtv.com/gb/2025/10/27/a104033085.html (both fetched). NTD 2026-03-14 reported him missing from the March 2026 NPC PLA delegation events (later, not earlier)."
+      },
+      "formalAction": {
+        "date": "2026-08-28",
+        "kind": "npc_seat_revoked",
+        "url": "https://www.news.cn/politics/20260828/880e5ee1563549d99b82c901a20ab62f/c.html",
+        "sourceClass": "A1",
+        "note": "CMC General Office military congress removed him as an NPC deputy; representative status terminated 28 August 2026"
+      },
+      "intermediateActions": [],
+      "searchLane": "Xinhua / CCTV coverage naming 钟绍军 with 军委办公厅 title, 2025–2026",
+      "researchNotes": "Zhong left the CMC General Office around March-April 2024 (Fang Yongxiang accompanied Xi on 2024-04-23) and became NDU political commissar; PRC official media never announced either move or, as far as found, named him with the NDU title in text. The only fetched, dated, title-bearing appearance after early 2024 is Singapore MINDEF's 19 Aug 2025 post (English title). Wikipedia also cites a CCTV Xinwen Lianbo of 2024-06-19 (CMC political work conference in Yan'an) as evidence of his NDU role, but that is video footage, not a printed title. First concrete signal is the 26 Oct 2025 embassy notice revealing Xia Zhihe as NDU PC; the 28 Aug 2026 NPC removal (seed) is the first formal action and confirms status. No official discipline notice found. mod.gov.cn and gzrd-type provincial sites were unreachable; Facebook/X could not be fetched, Instagram meta text could.",
+      "collectionState": "not_yet_collected",
+      "researchConfidence": "medium",
+      "seededUrlChecks": [
+        {
+          "url": "https://www.news.cn/politics/20260828/880e5ee1563549d99b82c901a20ab62f/c.html",
+          "status": "confirmed",
+          "note": "Fetched. NPCSC Announcement [14th] No.19, dated 2026-08-28: '中央军委办公厅军人代表大会决定罢免张又侠、钟绍军的第十四届全国人民代表大会代表职务' and 钟绍军's 代表资格终止. Matches the seeded note."
+        }
+      ],
+      "searchLog": [
+        "python3 print of record from research/adverse-timeline.json",
+        "curl seeded news.cn NPCSC announcement (confirmed)",
+        "WebSearch: 钟绍军 军委办公厅主任 出席",
+        "WebSearch: 钟绍军 落马 调查 2026",
+        "WebSearch: Zhong Shaojun CMC General Office investigated",
+        "curl zh.wikipedia.org/wiki/钟绍军 (read chronology + references: NDU PC by June 2024, left Oct 2025; refs to CCTV 2024-06-19 video, Instagram, DPRK embassy)",
+        "WebSearch: \"国防大学政治委员钟绍军\"",
+        "WebSearch: 钟绍军 平壤 志愿军 75周年 招待会 2025年10月",
+        "WebSearch: 钟绍军 国防大学政委 卸任 夏志和 2025年10月",
+        "curl kp.china-embassy.gov.cn 2025-10-26 notice (confirmed Xia Zhihe as NDU PC)",
+        "curl epochtimes.com/gb/25/10/27/n14623985.htm and ntdtv.com/gb/2025/10/27/a104033085.html (fetched)",
+        "WebSearch: \"钟绍军\" 国防大学 政委 2025 会见 site:81.cn OR site:news.cn OR site:mod.gov.cn (nothing)",
+        "WebSearch: 钟绍军 新加坡 国防部 2025年8月 会见 国防大学政委",
+        "curl ntdtv.com/gb/2025/08/23/a104013845.html (fetched; MINDEF Facebook post 19 Aug 2025, PRC suppression)",
+        "WebSearch: \"钟绍军\" 代表 审议 2025年3月 解放军和武警部队代表团 (nothing)",
+        "WebSearch: \"军委办公厅主任钟绍军\" 2024 (nothing official)",
+        "WebSearch: \"钟绍军\" 国防大学 政委 中将 2024年 出席 (nothing official)",
+        "WebSearch: MINDEF Chan Heng Kee Beijing August 2025 Zhong Shaojun (found x.com/lhsingapura post and instagram.com/p/DNiQJtUzUQL)",
+        "curl facebook.com/mindefsg post (blocked); WebFetch x.com post (402); curl instagram.com/p/DNiQJtUzUQL/ meta tags (confirmed caption text)",
+        "WebSearch: \"钟绍军代表\" OR \"钟绍军中将\" 2025 OR 2024 (nothing official)",
+        "WebSearch: site:81.cn 钟绍军 (only 2022 PDF)",
+        "WebSearch: \"钟绍军\" site:news.cn (only 2022-12-30 PLA election committee list)",
+        "WebSearch: \"钟绍军\" 2025年3月 十四届全国人大三次会议 ... (nothing naming him)"
+      ]
+    },
+    {
+      "id": "PLA-18F366AE6988",
+      "nameEn": "Ju Qiansheng",
+      "nameZh": "巨乾生",
+      "status": "confirmed removed",
+      "controlledState": "confirmed_exit",
+      "ledgerDate": "2026-08-28",
+      "formerRole": "Former commander, Strategic Support Force",
+      "lastPublicAppearance": {
+        "date": "2024-01-29",
+        "datePrecision": "day",
+        "event": "Attended, as an NPC deputy, the symposium of the 4th inspection group of Beijing-based military NPC deputies on their concentrated inspection of Guizhou, held in Guiyang; official footage showed him alongside Zheng Weiping, Luo Yuan and other generals.",
+        "titleZh": "戰略支援部隊司令員巨乾生",
+        "url": "https://std.stheadline.com/daily/article/2567686/",
+        "publisher": "Sing Tao Daily (星島日報), 2024-02-01",
+        "sourceClass": "B1",
+        "verification": "secondary_source_only",
+        "note": "Sing Tao (fetched) reports: '1月29日，軍隊在京全國人大代表第四視察組赴貴州集中視察座談會在貴陽召開。官方發布的畫面顯示，戰略支援部隊司令員巨乾生等多位將軍參加座談會.' NTD 2024-02-01 (fetched) attributes the original to the '贵州人大' account and a 政知见 (Beijing Youth Daily WeChat) report of 2024-01-31. The original Guizhou NPC page could not be located: gzrd.gov.cn resets connections from this container and WebFetch returned 503; the bjtitle.com copy renders empty. Title is therefore as printed by Sing Tao (traditional characters), not from the original page. Possibly later: NTD 2024-04-19 asserts he 'appeared at the March 2024 Two Sessions venue' but gives no source, date or title, so it was not used. No PRC official page naming him with title after Jan 2024 was found; the SSF was abolished 2024-04-19 and he received no new post."
+      },
+      "firstConcreteSignal": {
+        "date": "2024-04-19",
+        "kind": "other",
+        "event": "Strategic Support Force abolished and Information Support Force founded; Xi presented the flag to ISF commander Bi Yi and political commissar Li Wei. Ju, the sitting SSF commander, was not named to any post and was absent from the official report; NTD reported the same day that his whereabouts were unknown.",
+        "url": "http://cpc.people.com.cn/n1/2024/0420/c64094-40219816.html",
+        "publisher": "People's Daily / Xinhua (via cpc.people.com.cn), 2024-04-20 print edition p.1",
+        "sourceClass": "A1",
+        "verification": "page_fetched_and_confirmed",
+        "note": "Page fetched; names 信息支援部队司令员毕毅、政治委员李伟 and states 同时撤销战略支援部队番号; 巨乾生 does not appear. The omission was noted by NTD (https://www.ntdtv.com/b5/2024/04/19/a103872697.html, fetched: '原戰略支援部隊司令員巨乾生未轉任新成立的信息支援部隊司令員，去向不明'). An EARLIER dated signal exists: he was absent from the 31 July 2023 PLA Day reception (Xinhua page http://www.news.cn/politics/2023-07/31/c_1129779096.htm fetched; Ming Pao 2023-08-03 via NTD https://www.ntdtv.com/gb/2023/08/03/a103760273.html noted the absence and rumours of investigation). That signal was, however, followed by his official reappearance as SSF commander on 2024-01-29, so it is recorded here as a superseded false alarm rather than as the first concrete signal; the maintainer may prefer 2023-08-03 (absence_noted, B1/B2) with lastPublicAppearance then needing a pre-July-2023 event."
+      },
+      "formalAction": {
+        "date": "2026-08-28",
+        "kind": "npc_seat_revoked",
+        "url": "https://www.news.cn/politics/20260828/880e5ee1563549d99b82c901a20ab62f/c.html",
+        "sourceClass": "A1",
+        "note": "Information Support Force military congress removed him as an NPC deputy 28 August 2026"
+      },
+      "intermediateActions": [],
+      "searchLane": "Xinhua / 81.cn naming 巨乾生 with 战略支援部队司令员 title; last appearance likely 2023",
+      "researchNotes": "Ju's timeline: absent from 31 Jul 2023 PLA Day reception (absence noted by Ming Pao 3 Aug 2023); reappeared with SSF commander title on 29 Jan 2024 at the Guiyang NPC-deputy inspection symposium (Guizhou NPC footage, reported by Sing Tao, Beijing Youth Daily 政知见, NTD); SSF abolished 19 Apr 2024 with no new post for him; no PRC official appearance found afterwards; NPC seat revoked 28 Aug 2026 by the ISF military congress. The last appearance is verified only through Hong Kong press because the original Guizhou People's Congress page was unreachable from this container; the title string is as printed by Sing Tao. No official discipline/expulsion notice for Ju was found as of 2026-09-03.",
+      "collectionState": "not_yet_collected",
+      "researchConfidence": "medium",
+      "seededUrlChecks": [
+        {
+          "url": "https://www.news.cn/politics/20260828/880e5ee1563549d99b82c901a20ab62f/c.html",
+          "status": "confirmed",
+          "note": "Fetched. NPCSC Announcement [14th] No.19, dated 2026-08-28: '信息支援部队军人代表大会决定罢免巨乾生的第十四届全国人民代表大会代表职务' and 巨乾生's 代表资格终止. Matches the seeded note."
+        }
+      ],
+      "searchLog": [
+        "python3 print of record from research/adverse-timeline.json",
+        "curl seeded news.cn NPCSC announcement (confirmed)",
+        "WebSearch: 巨乾生 战略支援部队司令员 出席 2023",
+        "WebSearch: 巨乾生 落马 最后一次公开露面",
+        "WebSearch: Ju Qiansheng Strategic Support Force last public appearance",
+        "curl zh.wikipedia.org/wiki/巨乾生 (stub; no dated chronology beyond 2021 promotion and 2026 removal)",
+        "WebSearch: 巨乾生 贵阳 座谈 2024年1月29日 全国人大代表",
+        "WebSearch: \"巨乾生\" 2024年 信息支援部队 成立 毕毅 缺席",
+        "curl kzaobao.com Feb 2024 article (HTTP 520); curl ntdtv.com/gb/2024/02/01/a103848173.html (fetched)",
+        "curl ntdtv.com/b5/2024/04/19/a103872697.html (fetched)",
+        "WebSearch: \"巨乾生\" 代表 2024年3月 全国人大 审议 战略支援部队 (nothing)",
+        "WebSearch: 贵州人大 军队在京全国人大代表第四视察组 赴贵州 集中视察 座谈会 2024年1月 (no original page)",
+        "WebSearch: 巨乾生 缺席 建军96周年招待会 明报 2023年8月",
+        "curl ntdtv.com/gb/2023/08/03/a103760273.html and news.cn 2023-07-31 reception page (fetched)",
+        "WebSearch: 巨乾生 两会 2024年3月 现身 会场 (nothing verifiable)",
+        "WebSearch: site:gzrd.gov.cn 军队在京全国人大代表 视察组 贵州 2024 (nothing)",
+        "WebSearch: \"巨乾生\" \"第四视察组\" 贵阳 (nothing)",
+        "WebSearch: 政知见 巨乾生 首次 亮相 2024年1月31日",
+        "WebSearch: \"战略支援部队司令员巨乾生\" 2023 会见 OR 出席",
+        "WebSearch: \"军队在京全国人大代表第四视察组\" (nothing)",
+        "WebSearch: \"巨乾生\" site:news.cn OR site:81.cn OR site:people.com.cn (only 2021 promotion and 2022 delegate/CC lists)",
+        "curl gzrd.gov.cn listing pages (connection reset x3); WebFetch gzrd.gov.cn/gzdt/dbgz/ (503)",
+        "curl std.stheadline.com/daily/article/2567686/ (fetched, names title)",
+        "curl cpc.people.com.cn ISF founding report 2024-04-20 (fetched; Ju absent)",
+        "curl/WebFetch app.bjtitle.com newsid=6476107 (empty render)",
+        "WebSearch: 军队在京全国人大代表 视察组 来黔 OR 赴黔 2024年1月 (nothing)",
+        "WebSearch: \"巨乾生\" 2024年1月29日 贵州 座谈会 \"战略支援部队司令员\" 官方 画面"
+      ]
+    },
+    {
+      "id": "PLA-E806B33C0530",
+      "nameEn": "Xu Xueqiang",
+      "nameZh": "许学强",
+      "status": "confirmed removed",
+      "controlledState": "confirmed_exit",
+      "ledgerDate": "2026-06-26",
+      "formerRole": "Director, CMC Equipment Development Department",
+      "lastPublicAppearance": {
+        "date": "2025-04-24",
+        "datePrecision": "day",
+        "event": "At the Shenzhou-20 crew send-off ceremony at Jiuquan Satellite Launch Center (14:26 Beijing time), Xu Xueqiang, as commander-in-chief of the China Manned Space Program, issued the 'depart' order to astronauts Chen Dong, Chen Zhongrui and Wang Jie.",
+        "titleZh": "中国载人航天工程总指挥、空间站应用与发展阶段飞行任务总指挥部总指挥长许学强",
+        "url": "http://finance.people.com.cn/n1/2025/0424/c1004-40467394.html",
+        "publisher": "People's Daily Online (people.com.cn), citing China Manned Space Engineering Office; same text on cmse.gov.cn (https://www.cmse.gov.cn/xwzx/202504/t20250424_56498.html)",
+        "sourceClass": "A1",
+        "verification": "page_fetched_and_confirmed",
+        "note": "Names him only by his concurrent space-program title, not as 中央军委装备发展部部长. I could not find any dated official appearance between 24 Apr 2025 and the Fourth Plenum (20-23 Oct 2025) that names him with a title; searches of news.cn/81.cn/cctv/people/gov.cn for 2025 returned only this event. A later appearance (e.g. at the 3 Sept 2025 parade or an EDD event) may exist but was not found; Zaobao (2025-12-14) and Epoch Times (2025-12-13) treat the Fourth Plenum absence as the first missed event, implying no noted appearance issues before October."
+      },
+      "firstConcreteSignal": {
+        "date": "2025-10-18",
+        "kind": "press_report",
+        "event": "Epoch Times reported (citing commentator Cai Shenkun, 18 Oct 2025) that four more generals including EDD director Xu Xueqiang had 'fallen', two days before the Fourth Plenum; Xu was then absent from the Fourth Plenum (20-23 Oct 2025) as a full Central Committee member.",
+        "url": "https://www.epochtimes.com/gb/25/10/18/n14618801.htm",
+        "publisher": "Epoch Times (大纪元)",
+        "sourceClass": "C",
+        "verification": "page_fetched_and_confirmed",
+        "note": "Single-source rumor report (蔡慎坤 claim), unconfirmed by officials. The first observable signal is his absence from the 20th CC Fourth Plenum (20-23 Oct 2025) despite being a full member; zh.wikipedia cites CCTV footage (https://tv.cctv.com/2025/10/23/VIDEaOEDmkWXXoK80IMdJcII251023.shtml) and the absence is stated by Lianhe Zaobao 2025-12-14 (https://www.zaobao.com.sg/news/china/story20251214-7856670, fetched) and Epoch Times 2025-12-13 (https://www.epochtimes.com/gb/25/12/13/n14654379.htm, fetched); Sound of Hope reportedly listed absentees on 2025-10-24 (https://www.soundofhope.org/post/908437, search snippet only, page blocked). Subsequent absences: Shenzhou-21 send-off 31 Oct 2025 (he had given the order for Shenzhou-20), Fujian carrier commissioning 5 Nov 2025, Central Economic Work Conference 10-11 Dec 2025 (attended 2022-2024). If the seed prefers an observable absence over a rumor report, use 2025-10-23 absence_noted with the Zaobao 2025-12-14 URL."
+      },
+      "formalAction": {
+        "date": "2026-06-26",
+        "kind": "npc_seat_revoked",
+        "url": "https://www.xinhuanet.com/politics/20260626/d5ebd6b6c0834c17b0918475b6402522/c.html",
+        "sourceClass": "A1",
+        "note": "NPC seat formally revoked 26 June 2026; a later NPC gazette (reported 7 August 2026) stated the six were suspected of serious discipline and law violations"
+      },
+      "intermediateActions": [
+        {
+          "date": "2026-08-07",
+          "kind": "npc_gazette_reported",
+          "url": "https://www.zaobao.com.sg/news/china/story20260807-9484317",
+          "sourceClass": "C",
+          "note": "Lianhe Zaobao report of the NPC gazette stating suspected violations"
+        }
+      ],
+      "searchLane": "Xinhua / 81.cn / theater or service channels naming the officer with exact title, late 2025–early 2026; CASI Feb 2026 'potential' listing",
+      "researchNotes": "Last verified appearance is 24 Apr 2025 (Shenzhou-20 send-off), named with his space-program title rather than his EDD title; six-month gap to the first missed event (Fourth Plenum, 20-23 Oct 2025) leaves room for an unfound later appearance. No official investigation notice or expulsion has been published; the formal action remains the 26 Jun 2026 NPC seat revocation (confirmed), with the August NPC gazette (via Zaobao 2026-08-07) adding 'suspected serious violations of discipline and law'. Overseas reports (Epoch Times 18 Oct 2025 onward) are unconfirmed rumor-based; the corroborated observable signals are his absences from the Fourth Plenum, Shenzhou-21 send-off (31 Oct), Fujian commissioning (5 Nov) and the Central Economic Work Conference (10-11 Dec 2025).",
+      "collectionState": "not_yet_collected",
+      "researchConfidence": "medium",
+      "seededUrlChecks": [
+        {
+          "url": "https://www.xinhuanet.com/politics/20260626/d5ebd6b6c0834c17b0918475b6402522/c.html",
+          "status": "confirmed",
+          "note": "Fetched (HTTP 200). NPC Standing Committee Announcement [14th] No. 18, dated 2026-06-26: '中央军委装备发展部军人代表大会决定罢免许学强的第十四届全国人民代表大会代表职务'. Also lists 郭普校 (空军), 王抗平, 李凤彪, 尹红星, 张明华 and civilians. The announcement itself gives no reason; the 'suspected serious violations' wording comes from the later NPC gazette report."
+        },
+        {
+          "url": "https://www.zaobao.com.sg/news/china/story20260807-9484317",
+          "status": "confirmed",
+          "note": "Fetched (HTTP 200). Lianhe Zaobao 2026-08-07 08:54: NPC gazette (published August) states 许学强, 李凤彪, 郭普校 (上将) and 王抗平, 尹红星, 张明华 (中将) were all '涉嫌严重违纪违法' and removed via their respective military deputy congresses; notes the gazette did not state their last military posts. Underlying NPC PDF appears to be http://www.npc.gov.cn/npc/c2/c30834/202608/P020260804592193326881.pdf (per zh.wikipedia; 12 MB, download timed out, not read)."
+        }
+      ],
+      "searchLog": [
+        "WebSearch: 许学强 装备发展部部长 出席",
+        "WebSearch: 许学强 上将 最后一次公开露面",
+        "WebSearch: 许学强 2025年9月 装备发展部 会见",
+        "WebSearch: Xu Xueqiang Equipment Development Department last public appearance investigated",
+        "WebSearch: 许学强 载人航天工程总指挥 2025 神舟二十号",
+        "WebSearch: 许学强 2025年8月 OR 2025年9月 装备发展部",
+        "WebSearch: 许学强 四中全会 缺席 2025年10月",
+        "WebSearch: 许学强 2025 出席 OR 会见 OR 讲话 (official domains only)",
+        "WebSearch: 许学强 神舟二十号 出发命令 (official domains)",
+        "WebSearch: 许学强 2025年9月3日 阅兵 OR 招待会",
+        "WebSearch: 许学强 2025年5/6/7月 会议 讲话 调研",
+        "WebSearch: 许学强 会见 外宾 2025",
+        "WebSearch: 许学强 天舟九号 OR 神舟二十一号 总指挥",
+        "WebSearch: 四中全会 缺席 许学强 (Zaobao/RFA/Mingpao)",
+        "WebSearch: '许学强' 2025 (81.cn/news.cn/cctv/people/cmse/gov.cn)",
+        "WebSearch: Fourth Plenum absent generals Xu Xueqiang October 2025",
+        "Fetched: zh.wikipedia 许学强_(空军); en.wikipedia Xu_Xueqiang",
+        "Fetched: people.com.cn 2025-04-24 Shenzhou-20 send-off; cmse.gov.cn 2025-04-24",
+        "Fetched: zaobao 2025-12-14 story; epochtimes 2025-12-13, 2025-10-18; creaders 2025-12-17; kanzhongguo.eu node/71952 (2025-12-18)",
+        "Fetched: xinhuanet 2026-06-26 NPC announcement; zaobao 2026-08-07",
+        "Attempted: soundofhope.org/post/908437 (403), sydneytoday (403), npc.gov.cn August gazette PDF (timeout), cna.org Nov 2025 piece (does not mention Xu)"
+      ]
+    },
+    {
+      "id": "PLA-0049A4D971AB",
+      "nameEn": "Guo Puxiao",
+      "nameZh": "郭普校",
+      "status": "confirmed removed",
+      "controlledState": "confirmed_exit",
+      "ledgerDate": "2026-06-26",
+      "formerRole": "Political commissar, PLA Air Force",
+      "lastPublicAppearance": {
+        "date": "2025-09-19",
+        "datePrecision": "day",
+        "event": "Attended the opening ceremony of the 2025 Air Force Aviation Open Activity and Changchun Air Show on the morning of 19 September 2025, together with Jilin party secretary Huang Qiang and governor Hu Yuting; toured the exhibition halls before the ceremony.",
+        "titleZh": "空军政治委员郭普校",
+        "url": "http://www.changchun.gov.cn/szf/zfld/swsj/zyhd_zeh/202509/t20250920_3428677.html",
+        "publisher": "Changchun Municipal People's Government website (reprinting Jilin Daily report); same text on Jilin Provincial Government site https://www.jl.gov.cn/szf/zwhd/202509/t20250919_3499861.html (connection reset from container) and Changchun DRC http://drc.changchun.gov.cn/sygzdt/202509/t20250922_3428937.html (fetched)",
+        "sourceClass": "A2",
+        "verification": "page_fetched_and_confirmed",
+        "note": "Central outlets (Xinhua 2025-09-19, 81.cn 2025-09-20, people.com.cn) reported the opening but did not name Guo; the naming comes from the Jilin Daily text carried on provincial/municipal government sites. Sing Tao (2025-12-24) and Zaobao (2025-12-24) state that Guo and Air Force commander Chang Dingqiu attended the 20th CC Fourth Plenum (20-23 Oct 2025) based on CCTV footage, which would be a later appearance, but no official text naming him with a title for that event was found, so it is not used here."
+      },
+      "firstConcreteSignal": {
+        "date": "2025-12-18",
+        "kind": "press_report",
+        "event": "Epoch Times (first published 17 Dec 2025) reported that Air Force commander Chang Dingqiu and political commissar Guo Puxiao were rumored to be under investigation (citing X posts of 26 Nov 2025) and that Baidu Baike had deleted both entries; on 22 Dec 2025 both were then absent from the CMC general-rank promotion ceremony.",
+        "url": "https://www.epochtimes.com/gb/25/12/18/n14657568.htm",
+        "publisher": "Epoch Times (大纪元)",
+        "sourceClass": "C",
+        "verification": "page_fetched_and_confirmed",
+        "note": "Rumor-based report, unconfirmed officially. The first observable, widely reported signal is Guo's absence (with Chang Dingqiu) from the 22 Dec 2025 CMC promotion ceremony led by Xi Jinping, noted from CCTV footage by Sing Tao 2025-12-24 09:06 HKT (https://www.stheadline.com/zh-hans/realtime-china/3529670/, fetched), Lianhe Zaobao 2025-12-24 (https://www.zaobao.com.sg/news/china/story20251224-8010364, fetched) and SCMP 2025-12-24 (https://www.scmp.com/news/china/military/article/3337636/..., fetched). Sing Tao also noted that Air Force chief of staff Wang Gang and discipline chief Shi Honggan attended in their place. If a rumor report is not acceptable as a 'concrete' signal, use 2025-12-22 absence_noted with the Sing Tao URL. zh.wikipedia records his tenure as ending December 2025 with the post vacant."
+      },
+      "formalAction": {
+        "date": "2026-06-26",
+        "kind": "npc_seat_revoked",
+        "url": "https://www.xinhuanet.com/politics/20260626/d5ebd6b6c0834c17b0918475b6402522/c.html",
+        "sourceClass": "A1",
+        "note": "NPC seat formally revoked 26 June 2026; a later NPC gazette (reported 7 August 2026) stated the six were suspected of serious discipline and law violations"
+      },
+      "intermediateActions": [
+        {
+          "date": "2026-08-07",
+          "kind": "npc_gazette_reported",
+          "url": "https://www.zaobao.com.sg/news/china/story20260807-9484317",
+          "sourceClass": "C",
+          "note": "Lianhe Zaobao report of the NPC gazette stating suspected violations"
+        }
+      ],
+      "searchLane": "Xinhua / 81.cn / theater or service channels naming the officer with exact title, late 2025–early 2026; CASI Feb 2026 'potential' listing",
+      "researchNotes": "Last verified titled appearance: 19 Sep 2025 Changchun air show opening (空军政治委员郭普校, provincial/municipal government text). Hong Kong and Singapore press say CCTV footage showed him at the Fourth Plenum (20-23 Oct 2025), which would be later, but no official text naming him with a title was located, so the September appearance is reported and the plenum noted. No official investigation notice, replacement announcement, or expulsion has been published; 81.cn/Xinhua searches found no Guo appearance after September 2025. Signals: rumor reports from late Nov/mid-Dec 2025 (X posts, Epoch Times 17-18 Dec, Baidu Baike deletion), then the corroborated absence from the 22 Dec 2025 CMC promotion ceremony (Sing Tao, Zaobao, SCMP 24 Dec), then the 26 Jun 2026 NPC seat revocation (confirmed) and the August 2026 NPC gazette stating suspected serious violations (Zaobao 7 Aug 2026).",
+      "collectionState": "not_yet_collected",
+      "researchConfidence": "medium",
+      "seededUrlChecks": [
+        {
+          "url": "https://www.xinhuanet.com/politics/20260626/d5ebd6b6c0834c17b0918475b6402522/c.html",
+          "status": "confirmed",
+          "note": "Fetched (HTTP 200). NPC Standing Committee Announcement [14th] No. 18, 2026-06-26: '空军军人代表大会决定罢免郭普校的第十四届全国人民代表大会代表职务'; no reason given in the announcement itself."
+        },
+        {
+          "url": "https://www.zaobao.com.sg/news/china/story20260807-9484317",
+          "status": "confirmed",
+          "note": "Fetched (HTTP 200). Zaobao 2026-08-07: NPC August gazette says 郭普校 (上将) and five other generals were '涉嫌严重违纪违法'; Guo removed via the Air Force military deputy congress; gazette did not state their last posts."
+        }
+      ],
+      "searchLog": [
+        "WebSearch: 郭普校 空军政委 出席",
+        "WebSearch: 郭普校 最后一次公开露面 落马",
+        "WebSearch: 郭普校 2025年11月 空军",
+        "WebSearch: 郭普校 2025年10月 空军政治委员",
+        "WebSearch: 郭普校 空军 2025 11月 人民空军成立76周年",
+        "WebSearch: Guo Puxiao Air Force political commissar last public appearance",
+        "WebSearch: '郭普校' 2025 (official domains only)",
+        "WebSearch: 郭普校 缺席 晋衔仪式 常丁求 2025年12月23日",
+        "WebSearch: 郭普校 常丁求 四中全会 出席 2025年10月",
+        "WebSearch: 郭普校 空军政治委员 2025年10月 OR 11月 出席 座谈 慰问",
+        "WebSearch: 郭普校 被查 传 2025年11月",
+        "WebSearch: 郭普校 常丁求 空军 2025年9月 OR 10月 会议 -长春",
+        "WebSearch: 郭普校 会见 外军 代表团 2025",
+        "WebSearch: 郭普校 空军 2025年10月 国庆 OR 招待会 OR 党委",
+        "WebSearch: 常丁求 郭普校 传落马 12月 2025 (RFA/Zaobao/Mingpao)",
+        "WebSearch: 2025空军航空开放活动 开幕 空军政治委员郭普校 (81.cn/news.cn/cctv/people)",
+        "Fetched: zh.wikipedia 郭普校 (refs listed); en.wikipedia Guo_Puxiao",
+        "Fetched: changchun.gov.cn 2025-09-20 and drc.changchun.gov.cn 2025-09-22 (both name 空军政治委员郭普校); jl.gov.cn 2025-09-19 (connection reset)",
+        "Fetched: 81.cn 2025-09-20 and news.cn 2025-09-19 air-show reports (do not name Guo)",
+        "Fetched: stheadline 2025-12-24; zaobao 2025-12-24; scmp 2025-12-24; epochtimes 2025-12-18",
+        "Fetched: xinhuanet 2026-06-26; zaobao 2026-08-07"
+      ]
+    },
+    {
+      "id": "PLA-A76D66EE6251",
+      "nameEn": "Li Fengbiao",
+      "nameZh": "李凤彪",
+      "status": "confirmed removed",
+      "controlledState": "confirmed_exit",
+      "ledgerDate": "2026-06-26",
+      "formerRole": "Political commissar, Western Theater Command",
+      "lastPublicAppearance": {
+        "date": "2025-01-26",
+        "datePrecision": "day",
+        "event": "Attended the 2025 Sichuan military-local leaders' Spring Festival symposium in Chengdu alongside WTC commander Wang Haijiang and Sichuan party secretary Wang Xiaohui.",
+        "titleZh": "西部战区上将政委李凤彪",
+        "url": "https://sichuan.scol.com.cn/gcdt/202501/82890431.html",
+        "publisher": "四川在线 (Sichuan Daily / scol.com.cn); mirrored on sc.gov.cn (https://www.sc.gov.cn/10462/c105962s/2025/1/26/e18b18e727434791b43c7a5f8129d129.shtml) and scjjrb.com",
+        "sourceClass": "B1",
+        "verification": "page_fetched_and_confirmed",
+        "note": "Provincial official media, not Xinhua/81.cn. Plausibly later appearances exist but could not be verified with a printed title: Resound News (2026-03-17) says Li was seated in the inner circle of the PLA/PAP delegation at the March 2025 NPC session, and observers (cnpoliwatch on X, 2026-02-12; Epoch Times 2026-02-16) say he attended the Oct 2025 Fourth Plenum as a CC member; neither is an official page naming him with a title. Chinese Wikipedia lists his WTC PC tenure as ending Sept 2025 without citation. No later titled appearance was found on news.cn/81.cn/cctv for Feb–Dec 2025 in ~25 searches."
+      },
+      "firstConcreteSignal": {
+        "date": "2026-02-12",
+        "kind": "absence_noted",
+        "event": "Li Fengbiao (and commander Wang Haijiang) absent from the 2026 Sichuan military-local Spring Festival symposium in Chengdu, which he had attended every year 2022-2025; WTC was represented by deputy PC Zhang Shaoying and deputy commander Wen Junfei. Absence noted by Epoch Times on 2026-02-16 and by observers on X on 2026-02-12.",
+        "url": "https://www.epochtimes.com/gb/26/2/15/n14699011.htm",
+        "publisher": "Epoch Times (大纪元), citing 四川日报 report of the 2026-02-12 symposium (also Tencent News 2026-02-13: https://news.qq.com/rain/a/20260213A0795C00)",
+        "sourceClass": "C",
+        "verification": "page_fetched_and_confirmed",
+        "note": "Seed was null; this is the earliest robust dated public signal found. An earlier, weaker signal exists: Taiwan INDSR analysis dated 2025-08-25 (https://indsr.org.tw/focus?typeid=23&uid=11&pid=2896) noted that neither Wang Haijiang nor Li Fengbiao appeared when Xi received Tibet Military Region officers on 2025-08-21/22 and speculated Li had left his post; but Li reportedly attended the Oct 2025 Fourth Plenum afterwards, so that absence is not treated as the first concrete sign. Later signals: absent from March 2026 NPC PLA delegation (Resound News 2026-03-17); NPC seat revoked 2026-06-26; Aug 2026 NPC gazette states 涉嫌严重违纪违法 (Zaobao 2026-08-07)."
+      },
+      "formalAction": {
+        "date": "2026-06-26",
+        "kind": "npc_seat_revoked",
+        "url": "https://www.xinhuanet.com/politics/20260626/d5ebd6b6c0834c17b0918475b6402522/c.html",
+        "sourceClass": "A1",
+        "note": "NPC seat formally revoked 26 June 2026; a later NPC gazette (reported 7 August 2026) stated the six were suspected of serious discipline and law violations"
+      },
+      "intermediateActions": [
+        {
+          "date": "2026-08-07",
+          "kind": "npc_gazette_reported",
+          "url": "https://www.zaobao.com.sg/news/china/story20260807-9484317",
+          "sourceClass": "C",
+          "note": "Lianhe Zaobao report of the NPC gazette stating suspected violations"
+        }
+      ],
+      "searchLane": "Xinhua / 81.cn / theater or service channels naming the officer with exact title, late 2025–early 2026; CASI Feb 2026 'potential' listing",
+      "researchNotes": "Last verified titled appearance is 2025-01-26 (Sichuan provincial media, exact title 西部战区上将政委李凤彪). Multiple secondary observers place him at the March 2025 NPC session and the Oct 2025 Fourth Plenum, but no official page naming him with title on those dates was found; Wikipedia's Sept 2025 tenure end is uncited. No official notice of investigation exists; formalAction seed (Xinhua NPC announcement 2026-06-26) is primary and confirmed, so formalAction left null. firstConcreteSignal filled with the Feb 2026 Sichuan symposium absence (seed was null); the INDSR Aug 2025 absence note is recorded in the note as an earlier but weaker signal. Web search budget was exhausted at the end, preventing a final check of March 2025 NPC coverage.",
+      "collectionState": "not_yet_collected",
+      "researchConfidence": "medium",
+      "seededUrlChecks": [
+        {
+          "url": "https://www.xinhuanet.com/politics/20260626/d5ebd6b6c0834c17b0918475b6402522/c.html",
+          "status": "confirmed",
+          "note": "Fetched. 受权发布丨全国人民代表大会常务委员会公告〔十四届〕第十八号, dated 2026-06-26; contains '西部战区军人代表大会决定罢免李凤彪的第十四届全国人民代表大会代表职务'. Announcement itself gives no reason. Same text mirrored on finance.sina.com.cn 2026-06-27."
+        },
+        {
+          "url": "https://www.zaobao.com.sg/news/china/story20260807-9484317",
+          "status": "confirmed",
+          "note": "Fetched via curl (WebFetch blocked). Lianhe Zaobao 2026-08-07 08:54, '中国官方首度披露再有六名军方将领涉严重违纪违法': NPC August gazette names 许学强、李凤彪、郭普校 (上将) and 王抗平、尹红星、张明华 (中将) as 涉嫌严重违纪违法; gazette did not state their last military posts."
+        }
+      ],
+      "searchLog": [
+        "WebSearch: 李凤彪 西部战区政治委员 出席",
+        "WebSearch: 李凤彪 落马 2026",
+        "WebSearch: 李凤彪 2025年 西部战区 政委 会见",
+        "WebSearch: 西部战区政委 新任 2025 接替 李凤彪",
+        "WebSearch: Li Fengbiao Western Theater Command political commissar last public appearance 2025",
+        "WebSearch: 李凤彪 2025年9月/8月/10月 西部战区",
+        "WebSearch: \"西部战区政委李凤彪\" 2025",
+        "WebSearch: 李凤彪 四中全会 缺席/出席 2025年10月",
+        "WebSearch: 李凤彪 西藏 2025年8月",
+        "WebSearch: 李凤彪 2025 烈士纪念日/八一/阅兵",
+        "WebSearch: 李凤彪代表 2025; 李凤彪 两会 2025年3月",
+        "WebSearch: 李凤彪 2025年4-7月 出席",
+        "WebSearch: 李凤彪 site:81.cn",
+        "WebSearch: 李凤彪 2025年9月/10月 新华社 央视",
+        "WebSearch: 李凤彪 2025 新疆/青海/甘肃/重庆 军地座谈 (found 2024-07-31 Chongqing appearance, earlier than Jan 2025)",
+        "WebSearch: 李凤彪 2025年 会见 外军",
+        "WebSearch: 李凤彪 2025年 四川 上将 政委 -迎春",
+        "WebSearch: 李凤彪 2025年3月 军队代表 审议",
+        "Fetched: zh.wikipedia 李凤彪 (rendered + raw wikitext refs)",
+        "Fetched: sichuan.scol.com.cn 2025-01-26 article (confirmed title 西部战区上将政委李凤彪)",
+        "Fetched: epochtimes 2026-02-16 absence article",
+        "Fetched: indsr.org.tw 2025-08-25 analysis",
+        "Fetched: fxtwitter cnpoliwatch 2026-02-12 post",
+        "Fetched: xinhuanet 2026-06-26 NPC announcement; zaobao 2026-08-07; finance.sina 2026-06-27; aboluowang 2026-09-02; ntdtv 2025-10-23; resoundnews 2026-03-17; jamestown 2026-07",
+        "Failed: sc.gov.cn (connection reset), spp.gov.cn (reset/403), web.archive.org (blocked), soundofhope (403)"
+      ]
+    },
+    {
+      "id": "PLA-EFD737796BF4",
+      "nameEn": "Wang Kangping",
+      "nameZh": "王抗平",
+      "status": "confirmed removed",
+      "controlledState": "confirmed_exit",
+      "ledgerDate": "2026-06-26",
+      "formerRole": "Commander, Joint Logistic Support Force; formerly deputy commander, Eastern Theater Command (latest billet from secondary career reconstruction)",
+      "lastPublicAppearance": {
+        "date": "2024-10-22",
+        "datePrecision": "day",
+        "event": "Shown in CCTV-7 Military Report coverage of the all-army combined-arms training on-site meeting (全军合成训练现场会) attended by Zhang Youxia, which Chinese Wikipedia cites as the first appearance identifying him as JLSF commander.",
+        "titleZh": "联勤保障部队司令员",
+        "url": "https://zh.wikipedia.org/wiki/%E7%8E%8B%E6%8A%97%E5%B9%B3",
+        "publisher": "Chinese Wikipedia, citing CCTV7 军事报道 2024-10-22 (https://tv.cctv.com/2024/10/22/VIDE9IZJ3rxlryZRFAvdk6cb241022.shtml)",
+        "sourceClass": "C",
+        "verification": "secondary_source_only",
+        "note": "The CCTV page text (fetched) only carries the programme title '全军合成训练现场会召开 张又侠出席并讲话' and does not print his name; the identification is from the video caption as cited by Wikipedia, so the exact printed title could not be confirmed. This is the only dated appearance in the JLSF billet found; it is weak as a 'last' appearance because a later one very likely exists (e.g. March 2025 NPC session as a PLA deputy, 2025 JLSF events) but no official page naming him with the JLSF title after Oct 2024 was found in ~20 searches. Last confirmed titled official-media appearance is earlier and in a prior billet: 81.cn 2024-03-08 quoting 王抗平代表 (then ETC deputy commander)."
+      },
+      "firstConcreteSignal": {
+        "date": "2025-10-23",
+        "kind": "other",
+        "event": "Passed over (跳过) for promotion from alternate to full Central Committee member at the Fourth Plenum of the 20th CC, when 11 lower-ranked alternates were promoted; observers immediately flagged this as a sign of trouble.",
+        "url": "https://www.epochtimes.com/gb/25/10/23/n14622511.htm",
+        "publisher": "Epoch Times (王友群 column, 2025-10-23); same-day observation on X by JosephWen___ (https://x.com/JosephWen___/status/1981293084127482334); NCCU CPED database entry also records '二十屆四中全會中委遞補被跳過、缺席'",
+        "sourceClass": "C",
+        "verification": "page_fetched_and_confirmed",
+        "note": "Seed was null. Skipped-for-promotion is not an absence per se, hence kind 'other'. Subsequent signals: noted absent from the Fujian carrier commissioning 2025-11-05 (mnewstv 2025-11-12); NPC seat revoked 2026-06-26 by the Eastern Theater Command PLA deputies' assembly (his 2023 electoral unit); Aug 2026 NPC gazette states 涉嫌严重违纪违法 (Zaobao 2026-08-07). No official investigation notice found."
+      },
+      "formalAction": {
+        "date": "2026-06-26",
+        "kind": "npc_seat_revoked",
+        "url": "https://www.xinhuanet.com/politics/20260626/d5ebd6b6c0834c17b0918475b6402522/c.html",
+        "sourceClass": "A1",
+        "note": "NPC seat formally revoked 26 June 2026; a later NPC gazette (reported 7 August 2026) stated the six were suspected of serious discipline and law violations"
+      },
+      "intermediateActions": [
+        {
+          "date": "2026-08-07",
+          "kind": "npc_gazette_reported",
+          "url": "https://www.zaobao.com.sg/news/china/story20260807-9484317",
+          "sourceClass": "C",
+          "note": "Lianhe Zaobao report of the NPC gazette stating suspected violations"
+        }
+      ],
+      "searchLane": "Xinhua / 81.cn / theater or service channels naming the officer with exact title, late 2025–early 2026; CASI Feb 2026 'potential' listing",
+      "researchNotes": "Wang Kangping is almost never named in official text; his JLSF appointment itself was inferred by observers from an Oct 2024 CCTV video caption. No official page naming him with the JLSF commander title on a date was found; the reported lastPublicAppearance is therefore secondary_source_only and likely not the true last appearance. firstConcreteSignal (skipped for CC promotion at the Fourth Plenum, 2025-10-23) is well attested across Epoch Times, X observers and the NCCU CPED database. Seeded URLs both confirmed. formalAction seed is primary (Xinhua) so left null. Web search budget (200) was exhausted during the final checks.",
+      "collectionState": "not_yet_collected",
+      "researchConfidence": "low",
+      "seededUrlChecks": [
+        {
+          "url": "https://www.xinhuanet.com/politics/20260626/d5ebd6b6c0834c17b0918475b6402522/c.html",
+          "status": "confirmed",
+          "note": "Fetched. NPC Standing Committee Announcement [14th] No. 18, 2026-06-26; contains '东部战区军人代表大会决定罢免王抗平的第十四届全国人民代表大会代表职务'. Note the revoking unit is Eastern Theater Command (his 2023 electoral unit), not JLSF."
+        },
+        {
+          "url": "https://www.zaobao.com.sg/news/china/story20260807-9484317",
+          "status": "confirmed",
+          "note": "Fetched via curl. Zaobao 2026-08-07 names 王抗平 among three 中将 stated by the NPC August gazette to be 涉嫌严重违纪违法; gazette did not state last military post."
+        }
+      ],
+      "searchLog": [
+        "WebSearch: 王抗平 联勤保障部队司令员",
+        "WebSearch: 王抗平 罢免 人大代表 2026",
+        "WebSearch: 联勤保障部队司令员王抗平 2025",
+        "WebSearch: 王抗平 最后 露面 缺席",
+        "WebSearch: Wang Kangping Joint Logistic Support Force commander investigated CASI",
+        "WebSearch: 王抗平 司令员 会见/出席/调研 2025年",
+        "WebSearch: 王抗平 四中全会 候补中央委员 跳过",
+        "WebSearch: 王抗平 2025年3月 全国人大 军队代表",
+        "WebSearch: 王抗平 2024年11月-2025年1月 出席",
+        "WebSearch: \"联勤保障部队司令员王抗平\"",
+        "WebSearch: 王抗平 军事报道/CCTV7 2025",
+        "WebSearch: Wang Kangping JLSF last seen",
+        "WebSearch: 王抗平 site:81.cn/news.cn/cctv.com (found 81.cn 2024-03-08 王抗平代表, pre-JLSF)",
+        "WebSearch: 王抗平 2024年10月 全军合成训练现场会",
+        "WebSearch: 王抗平代表 2025",
+        "WebSearch: 王抗平 2025年7-9月 联勤保障部队",
+        "WebSearch: 王抗平 2025年 两会 军队代表团",
+        "WebSearch: 湖北 军地 迎春座谈会 2025 联勤保障部队; 王抗平 湖北/武汉 2025",
+        "WebSearch: 王抗平 福建舰 入列仪式 缺席",
+        "WebSearch: 王抗平 2025年1-2月 春节 慰问",
+        "Fetched: zh.wikipedia 王抗平 (rendered + raw refs); 163.com 2025-04-01 bio; cped.nccu.edu.tw entry; fxtwitter JosephWen___ 2025-10-23; epochtimes 2025-10-23; mnewstv 2025-11-12; epochtimes 2025-11-08; tv.cctv.com 2024-10-22 page; jamestown 2026-07; aboluowang 2026-09-02; chinapower.csis.org (no per-officer data in HTML)",
+        "Failed: web.archive.org (blocked), soundofhope (403), 81.cn https->http redirect loop for 16292169_2"
+      ]
+    },
+    {
+      "id": "PLA-44C5E653B2FE",
+      "nameEn": "Yin Hongxing",
+      "nameZh": "尹红星",
+      "status": "confirmed removed",
+      "controlledState": "confirmed_exit",
+      "ledgerDate": "2026-06-26",
+      "formerRole": "Political commissar, Southern Theater Command",
+      "lastPublicAppearance": {
+        "date": "2025-01-20",
+        "datePrecision": "day",
+        "event": "2025年自治区军地迎春座谈会 (Guangxi regional military-civilian Spring Festival forum, Nanning); attendee list names him as 南部战区陆军中将政治委员尹红星 alongside 蓝天立 (自治区主席, presiding), 孙大伟, 王维平",
+        "titleZh": "南部战区陆军中将政治委员",
+        "url": "https://c.m.163.com/news/a/JMH2PBVU05563DJA.html",
+        "publisher": "网易新闻 (网易号“汲古知新”, 2025-01-22, reproducing the Guangxi Daily / 广西云 report of the 20 Jan 2025 forum)",
+        "sourceClass": "C",
+        "verification": "page_fetched_and_confirmed",
+        "note": "Page fetched; text reads “1月20日，自治区党委、政府在南宁举行2025年自治区军地迎春座谈会……南部战区陆军中将政治委员尹红星、自治区政协主席孙大伟、自治区党委副书记、组织部部长王维平出席”. The official original (广西日报 2025-01-21) could not be located: the Guangxi Daily mobile e-paper (ssw.gxrb.com.cn) issues of 2025-01-21 and 2025-01-22 were read page by page (pages 001-003 titles + bodies of all page 001/002 articles) and contain only the 自治区党委/政府 慰问信, not a forum report; gxzf.gov.cn timed out, gxnews.com.cn search rejects Chinese queries, Guangxi CPPCC site search returns nothing for 尹红星. A PLAUSIBLY LATER but untitled official mention exists: 解放军报 2025-03-04 “全力以赴 务期必成——军队代表委员谈打好实现建军一百年奋斗目标攻坚战” quotes “尹红星代表” (http://military.people.com.cn/n1/2025/0304/c1011-40430199.html and https://military.cctv.com/2025/03/04/ARTI0odNrHdYKXMEogFjfJ5w250304.shtml, both fetched) but gives no title, so it does not meet the exact-title requirement. No title-bearing appearance after 2025-01-20 was found: Guangxi Daily 2025-08-01 (陈刚孙大伟走访慰问驻桂部队: 陈刚 visited a 南部战区陆军驻桂基层部队 but only 广西军区 leaders 庄革/熊鸣 are named), 2025-10-01 (烈士纪念日 Nanning ceremony names only civilian leaders) and all page-1/2 articles of 2026-02-03 to 2026-02-18 (Spring Festival 2026 window) were fetched and contain no 尹红星; people.cn search API has no 2025-2026 Southern Theater item naming him; CCTV search has nothing after 2025-03-04."
+      },
+      "firstConcreteSignal": {
+        "date": "2026-05-31",
+        "kind": "npc_seat_revoked",
+        "event": "陆军召开军人代表大会决定罢免尹红星的第十四届全国人民代表大会代表职务 (Army servicemen's congress removed him as NPC deputy, stating 涉嫌严重违纪违法); disclosed publicly in the NPC Credentials Committee report adopted 2026-06-26",
+        "url": "https://zh.wikisource.org/wiki/%E7%AC%AC%E5%8D%81%E5%9B%9B%E5%B1%8A%E5%85%A8%E5%9B%BD%E4%BA%BA%E6%B0%91%E4%BB%A3%E8%A1%A8%E5%A4%A7%E4%BC%9A%E5%B8%B8%E5%8A%A1%E5%A7%94%E5%91%98%E4%BC%9A%E4%BB%A3%E8%A1%A8%E8%B5%84%E6%A0%BC%E5%AE%A1%E6%9F%A5%E5%A7%94%E5%91%98%E4%BC%9A%E5%85%B3%E4%BA%8E%E4%B8%AA%E5%88%AB%E4%BB%A3%E8%A1%A8%E7%9A%84%E4%BB%A3%E8%A1%A8%E8%B5%84%E6%A0%BC%E7%9A%84%E6%8A%A5%E5%91%8A",
+        "publisher": "全国人民代表大会常务委员会代表资格审查委员会 (report of 2026-06-26, Wikisource transcription; matches the research/trackers/npc-terminations.json note)",
+        "sourceClass": "A3",
+        "verification": "page_fetched_and_confirmed",
+        "note": "Earliest DATED signal found, but it only became public on 2026-06-26 (the Xinhua 公告 of that day gives no date; the Credentials Committee report gives 2026年5月31日 and the reason 涉嫌严重违纪违法; the report prints no former title). No earlier public signal (press report, successor named, noted absence) was found; the Lianhe Zaobao 2026-04-18 article ‘中国官方首度披露多名“消失”军方高级将领涉严重违纪违法’ returned only a navigation stub (paywalled) and could not be checked for his name. If the workflow prefers first-publication dates, treat 2026-06-26 as the first public signal."
+      },
+      "formalAction": {
+        "date": "2026-06-26",
+        "kind": "npc_seat_revoked",
+        "url": "https://www.xinhuanet.com/politics/20260626/d5ebd6b6c0834c17b0918475b6402522/c.html",
+        "sourceClass": "A1",
+        "note": "NPC seat formally revoked 26 June 2026; a later NPC gazette (reported 7 August 2026) stated the six were suspected of serious discipline and law violations"
+      },
+      "intermediateActions": [
+        {
+          "date": "2026-08-07",
+          "kind": "npc_gazette_reported",
+          "url": "https://www.zaobao.com.sg/news/china/story20260807-9484317",
+          "sourceClass": "C",
+          "note": "Lianhe Zaobao report of the NPC gazette stating suspected violations"
+        }
+      ],
+      "searchLane": "Xinhua / 81.cn / theater or service channels naming the officer with exact title, late 2025–early 2026; CASI Feb 2026 'potential' listing",
+      "researchNotes": "Record formerRole says ‘Political commissar, Southern Theater Command’; sources (163 repost of Guangxi report, en/zh Wikipedia) consistently give 南部战区陆军政治委员 (Political Commissar, Southern Theater Command Ground Force/Army), from July 2024 (successor of 方永祥); consider correcting. Last title-bearing appearance found is the 2025-01-20 Guangxi 军地迎春座谈会 via a class-C repost; the 2025-03-04 解放军报 quote (‘尹红星代表’) is official and later but carries no title. Nothing naming him was found for Aug 2025–May 2026 in the sources reachable here (people.cn, CCTV, Guangxi Daily e-paper, thepaper). First dated signal is the 2026-05-31 Army servicemen's-congress removal, disclosed 2026-06-26; formal action seed (Xinhua 公告 2026-06-26, A1) confirmed as-is.",
+      "collectionState": "not_yet_collected",
+      "researchConfidence": "medium",
+      "seededUrlChecks": [
+        {
+          "url": "https://www.xinhuanet.com/politics/20260626/d5ebd6b6c0834c17b0918475b6402522/c.html",
+          "status": "confirmed",
+          "note": "Fetched. 受权发布丨全国人民代表大会常务委员会公告〔十四届〕第十八号 (2026-06-26): “陆军军人代表大会决定罢免尹红星的第十四届全国人民代表大会代表职务” and 张明华 via 网络空间部队军人代表大会; 实有代表2858人. Same text on people.cn: http://politics.people.com.cn/n1/2026/0626/c461001-40748516.html and 人民日报 2026-06-27 p.2 http://politics.people.com.cn/n1/2026/0627/c461001-40748548.html"
+        },
+        {
+          "url": "https://www.zaobao.com.sg/news/china/story20260807-9484317",
+          "status": "confirmed",
+          "note": "Fetched. Lianhe Zaobao 2026-08-07 ‘中国官方首度披露再有六名军方将领涉严重违纪违法’: names 三名中将王抗平、尹红星、张明华 as 涉嫌严重违纪违法 per the NPC gazette (公报) published in August; notes the 公报 does not state their last military posts."
+        }
+      ],
+      "searchLog": [
+        "research/trackers/npc-terminations.json: 2026-06-26 session lists 尹红星 (electionUnit 陆军, 罢免, 涉嫌严重违纪违法); note gives unit decision date 2026-05-31",
+        "zh.wikipedia 尹红星 (fetched): 2024年7月转任南部战区陆军政委; 2026年6月被罢免全国人大代表; refs only through 2023 plus the 2026 公告",
+        "en.wikipedia Yin_Hongxing (fetched): PC Southern Theater Command Ground Force Jul 2024–Jun 2026; ref for the STC post is c.m.163.com JMH2PBVU05563DJA (fetched, 2025-01-20 forum)",
+        "Wikisource NPC 代表资格审查委员会报告 (2026-06-26 session) fetched: 尹红星 2026-05-31 陆军军人代表大会罢免",
+        "people.cn search API (search.people.cn/search-platform/front/search) for 尹红星: 28 hits; latest substantive 2025-03-04 军队代表委员 article (untitled); all other 2022-2024 hits are Tibet Military Region era; no 南部战区陆军 items",
+        "people.cn windowed search 南部战区陆军 2025-07..2026-06 (22 hits) and 南部战区陆军政委 (fuzzy): none naming him",
+        "CCTV search (search.cctv.com) 尹红星 / 尹红星代表 / 中将政治委员尹红星: latest 2025-03-04 military.cctv.com article (untitled quote); video search no results",
+        "thepaper.cn API search 尹红星 / 南部战区陆军政委: nothing after 2018 except 2026-06-26 公告",
+        "Guangxi Daily mobile e-paper ssw.gxrb.com.cn: read 2025-01-19/20/21/22, 2025-07-31, 2025-08-01/02, 2025-10-01, 2025-12-31, 2026-01-01..06, 2026-01-20..2026-02-18 issues; fetched bodies of 2025-08-01 (八一 visits), 2025-10-01 (烈士纪念日), 2026-02-05 (军地携手谋新篇) and all page 001/002 articles 2026-02-03..02-18: no 尹红星",
+        "gxzf.gov.cn timed out; gxnews.com.cn search rejects Chinese params; gxrd.gov.cn search 404; gxzx.gov.cn (phpcms search) no hits for 尹红星/南部战区陆军; web.archive.org blocked by egress policy",
+        "CCTV 军事报道 episode/clip API (api.cntv.cn getVideoListByColumn TOPC1451527941788652) for 2026-03-04..03-12: no clip names him; March 2026 NPC military-delegation articles on people.cn/lianghui fetched: no name",
+        "CSIS ChinaPower purge page fetched (61 KB) but names are inside a Flourish embed not present in HTML; CASI airuniversity.af.edu returns Access Denied",
+        "Zaobao 2026-06-27 (story20260627-9275428) fetched: lists him among 三名中将, no last-appearance info; 2026-04-18 story paywalled"
+      ]
+    },
+    {
+      "id": "PLA-71EADFD13358",
+      "nameEn": "Zhang Minghua",
+      "nameZh": "张明华",
+      "status": "confirmed removed",
+      "controlledState": "confirmed_exit",
+      "ledgerDate": "2026-06-26",
+      "formerRole": "Commander, PLA Cyberspace Force",
+      "lastPublicAppearance": null,
+      "firstConcreteSignal": {
+        "date": "2026-05-22",
+        "kind": "npc_seat_revoked",
+        "event": "网络空间部队召开军人代表大会决定罢免张明华的第十四届全国人民代表大会代表职务 (Cyberspace Force servicemen's congress removed him as NPC deputy, stating 涉嫌严重违纪违法); disclosed publicly in the NPC Credentials Committee report adopted 2026-06-26",
+        "url": "https://zh.wikisource.org/wiki/%E7%AC%AC%E5%8D%81%E5%9B%9B%E5%B1%8A%E5%85%A8%E5%9B%BD%E4%BA%BA%E6%B0%91%E4%BB%A3%E8%A1%A8%E5%A4%A7%E4%BC%9A%E5%B8%B8%E5%8A%A1%E5%A7%94%E5%91%98%E4%BC%9A%E4%BB%A3%E8%A1%A8%E8%B5%84%E6%A0%BC%E5%AE%A1%E6%9F%A5%E5%A7%94%E5%91%98%E4%BC%9A%E5%85%B3%E4%BA%8E%E4%B8%AA%E5%88%AB%E4%BB%A3%E8%A1%A8%E7%9A%84%E4%BB%A3%E8%A1%A8%E8%B5%84%E6%A0%BC%E7%9A%84%E6%8A%A5%E5%91%8A",
+        "publisher": "全国人民代表大会常务委员会代表资格审查委员会 (report of 2026-06-26, Wikisource transcription; matches the research/trackers/npc-terminations.json note)",
+        "sourceClass": "A3",
+        "verification": "page_fetched_and_confirmed",
+        "note": "Earliest DATED signal found (the earliest of the six unit-level decisions in that batch), but public only from 2026-06-26; the Xinhua 公告 of that day gives no date or reason, the Credentials Committee report gives 2026年5月22日 and 涉嫌严重违纪违法 and prints no former title. No earlier public signal (press report, successor named, noted absence) was found in reachable sources. If first-publication dates are preferred, use 2026-06-26."
+      },
+      "formalAction": {
+        "date": "2026-06-26",
+        "kind": "npc_seat_revoked",
+        "url": "https://www.xinhuanet.com/politics/20260626/d5ebd6b6c0834c17b0918475b6402522/c.html",
+        "sourceClass": "A1",
+        "note": "NPC seat formally revoked 26 June 2026; a later NPC gazette (reported 7 August 2026) stated the six were suspected of serious discipline and law violations"
+      },
+      "intermediateActions": [
+        {
+          "date": "2026-08-07",
+          "kind": "npc_gazette_reported",
+          "url": "https://www.zaobao.com.sg/news/china/story20260807-9484317",
+          "sourceClass": "C",
+          "note": "Lianhe Zaobao report of the NPC gazette stating suspected violations"
+        }
+      ],
+      "searchLane": "Xinhua / 81.cn / theater or service channels naming the officer with exact title, late 2025–early 2026; CASI Feb 2026 'potential' listing",
+      "researchNotes": "No dated public appearance naming 张明华 with the title 网络空间部队司令员 could be verified as text in any reachable official source (Xinhua/people.cn, CCTV, 81.cn unreachable by search, thepaper). Chinese Wikipedia's only support for the commander post is a CCTV 军事报道 video of 2024-06-19 (延安 political-work conference), whose page text does not name him; the 2023-02-25 NPC deputies list names him without title. He appears to have been essentially invisible in text media throughout 2024-2026. First dated signal is the 2026-05-22 Cyberspace Force servicemen's-congress removal, disclosed 2026-06-26; formal action seed (Xinhua 公告 2026-06-26, A1) confirmed. Both seeded URLs confirmed.",
+      "collectionState": "not_yet_collected",
+      "researchConfidence": "low",
+      "seededUrlChecks": [
+        {
+          "url": "https://www.xinhuanet.com/politics/20260626/d5ebd6b6c0834c17b0918475b6402522/c.html",
+          "status": "confirmed",
+          "note": "Fetched. 公告〔十四届〕第十八号 (2026-06-26): “网络空间部队军人代表大会决定罢免张明华的第十四届全国人民代表大会代表职务”. Same text on people.cn: http://politics.people.com.cn/n1/2026/0626/c461001-40748516.html"
+        },
+        {
+          "url": "https://www.zaobao.com.sg/news/china/story20260807-9484317",
+          "status": "confirmed",
+          "note": "Fetched. Lianhe Zaobao 2026-08-07 names 中将张明华 among the six officers whom the August NPC 公报 describes as 涉嫌严重违纪违法, removed via 网络空间部队军人代表大会; notes the 公报 omits their last posts."
+        }
+      ],
+      "searchLog": [
+        "research/trackers/npc-terminations.json: 2026-06-26 session lists 张明华 (electionUnit 网络空间部队, 罢免, 涉嫌严重违纪违法); unit decision 2026-05-22",
+        "zh.wikipedia 张明华 (fetched): 总参某部副部长 → 战略支援部队副参谋长 (2017) → 副司令员 (2023) → 2024年4月 网络空间部队首任司令员; the only citation for the commander post is CCTV 军事报道 2024-06-19 video (中央军委政治工作会议在延安召开) https://tv.cctv.com/2024/06/19/VIDEmepYaPPEvPnxj2KRrryO240619.shtml — fetched; the page summary does not name him (identification is from on-screen caption), so it cannot be verified as text",
+        "zh.wikipedia 中国人民解放军网络空间部队 (fetched): infobox 司令员 张明华 陆军中将 (2024年4月—), no dated appearance references for 2025-2026",
+        "people.cn search API 张明华: 39 hits, none military for 2024-2026 except the 2026-06-26 公告 (all other hits are namesakes); 网络空间部队司令员 / 张明华 司令员 / 张明华代表: 0 hits; windowed 网络空间部队 2025-07..2026-06 (119 hits) checked by title: parade 方队, 军旗 order, 军旗臂章, political-education roundups — none names the commander",
+        "CCTV search 张明华 (last year, web/video), 张明华 中将, 张明华 网络空间部队, 网络空间部队 司令员: no item naming him",
+        "thepaper.cn API 张明华 网络空间部队 / 网络空间部队司令员 / 张明华 中将: nothing except the 2026-06-26 公告",
+        "2025-09-03 parade texts (people.cn 网络空间部队方队：首次接受祖国和人民检阅; 网络空间作战方队) fetched: no leader named; people.cn search 将军领队 Aug-Sep 2025: 0",
+        "2024-04-19 信息支援部队成立大会 Xinhua text (thepaper 27089500) fetched: 网络空间部队 mentioned only institutionally, no name",
+        "March 2026 NPC session: people.cn/lianghui 分组审议 articles (2026-03-05/06), 张升民 speeches, 军队代表委员这样说 (03-10), 军事报道 episode briefs and clip lists 2026-03-04..03-12 via api.cntv.cn: no 张明华",
+        "2026-06-19/20 解放军报 政绩观学习教育 roundups (people.cn 40743610, 40743882) fetched: only 网络空间部队某部党委, no names; 2026-01-01 军旗臂章 and 2026-03-06 军兵种结构布局 CCTV items: no names",
+        "Wikisource NPC 代表资格审查委员会报告 (2026-06-26) fetched: 张明华 2026-05-22 网络空间部队军人代表大会罢免",
+        "CSIS ChinaPower purge page fetched but names live in a Flourish embed absent from HTML; CASI site Access Denied; Zaobao 2026-06-27 fetched (lists him, no appearance info); Zaobao 2026-04-18 paywalled stub"
+      ]
+    },
+    {
+      "id": "PLA-0AA424B72BC4",
+      "nameEn": "Wang Donghai",
+      "nameZh": "王东海",
+      "status": "confirmed removed",
+      "controlledState": "confirmed_exit",
+      "ledgerDate": "2026-02-26",
+      "formerRole": "Political commissar, CMC National Defense Mobilization Department",
+      "lastPublicAppearance": {
+        "date": "2025-05-23",
+        "datePrecision": "day",
+        "event": "Delivered a Party lecture (党课辅导) to the CMC National Defense Mobilization Department training class on Xi Jinping Thought held in Harbin, 19-24 May 2025; the report (China Militia magazine, republished on 81.cn on 2025-06-23) states '5月23日，军委国防动员部王东海政委……为大家作党课辅导'.",
+        "titleZh": "军委国防动员部王东海政委",
+        "url": "http://www.81.cn/dy_208579/16392784.html",
+        "publisher": "中国军网 (81.cn), reprinting 中国民兵杂志 (China Militia), author 刘德超",
+        "sourceClass": "A2",
+        "verification": "page_fetched_and_confirmed",
+        "note": "Page fetched via curl: title '让队伍在淬火锻造中变得更加坚强——军委国防动员部学习贯彻习近平新时代中国特色社会主义思想培训班侧记', 来源：中国民兵杂志, published 2025-06-23 09:15; the title is printed after the name in the form '军委国防动员部王东海政委'. This is the latest 81.cn item naming the NDMD political commissar Wang Donghai (81.cn full-text search returns 25 hits for 王东海, none later than this for the officer; later 2025 hits are a different Wang Donghai, a naval academy instructor). Earlier 2025 titled appearance: NDMD Party committee expanded meeting early Jan 2025 ('刘发庆部长、王东海政委分别……作出部署', 81.cn 2025-02-13, http://www.81.cn/dy_208579/16369343.html). It does NOT establish that no later appearance exists: general web search engines were unavailable in this session (WebSearch budget exhausted; Bing/Google/Baidu/DDG blocked), so provincial-government or Xinhua items from Jun-Dec 2025 could not be checked. Note that at the NDMD 'Most Beautiful NDM Person' ceremony on 2025-10-30 only 张立克部长 and 王献军副部长 were named (81.cn 2025-11-07), and at the 2025 year-end summary meeting on 2026-02-10 only 张立克部长 was named; no political commissar was named in either, but no media explicitly noted his absence."
+      },
+      "firstConcreteSignal": null,
+      "formalAction": {
+        "date": "2026-02-26",
+        "kind": "npc_seat_revoked",
+        "url": "https://www.news.cn/politics/20260226/d679a70cddd945f1908e371b94c93c48/c.html",
+        "sourceClass": "A1",
+        "note": "NPC seat formally revoked by the relevant military congress, 26 February 2026"
+      },
+      "intermediateActions": [],
+      "searchLane": "Xinhua / 81.cn / unit channels naming the officer with exact title, 2025; CASI July 2026 table",
+      "researchNotes": "Last titled appearance located: 23 May 2025 Party lecture at the NDMD Xi Jinping Thought training class in Harbin, reported by China Militia magazine and republished on 81.cn on 2025-06-23 with the printed form '军委国防动员部王东海政委' (titleZh copied exactly; the department name precedes and the post follows the name). The seeded Xinhua NPC-revocation URL is confirmed and names him. No earlier public signal was found: no investigation announcement, no named replacement as NDMD political commissar through Feb 2026 (81.cn articles on NDMD events in Oct 2025, Jan 2026 and Feb 2026 name only 部长 张立克 and 副部长 王献军, with no political commissar named, but no outlet explicitly remarked on his absence, so this is not recorded as a signal). The asiae.co.kr (Korean) report of 2026-02-27, citing Xinhua and Ming Pao, describes him as '中共中央军事委员会国防动员部政治委员王东海（中将）' at the time of revocation. Confidence is medium rather than high because general web search engines were unavailable in this session and provincial-government/Xinhua items between June and December 2025 could not be systematically checked; a later appearance in those channels cannot be excluded. Source class A2 assigned to 81.cn/China Militia as official PLA media (adjust if the project's scheme treats 81.cn as A1).",
+      "collectionState": "not_yet_collected",
+      "researchConfidence": "medium",
+      "seededUrlChecks": [
+        {
+          "url": "https://www.news.cn/politics/20260226/d679a70cddd945f1908e371b94c93c48/c.html",
+          "status": "confirmed",
+          "note": "Fetched via curl. Xinhua 2026-02-26 20:29 '全国人民代表大会常务委员会公告〔十四届〕第十六号': '中央军委国防动员部军人代表大会决定罢免王东海的第十四届全国人民代表大会代表职务'. Matches the seeded note (NPC seat revoked 26 Feb 2026 by the NDMD military congress)."
+        }
+      ],
+      "searchLog": [
+        "WebSearch: 6 queries attempted (王东海 国防动员部 政委 出席; 王东海 国防动员部政治委员 2025; English queries) — session WebSearch budget exhausted, no results",
+        "zh.wikipedia 王东海 (disambiguation) -> 王东海_(1964年) fetched: NDMD political commissar Dec 2021–2025?; NPC seat revoked 2026-02-26; no 2025 citation",
+        "zh.wikipedia 中央军事委员会国防动员部 raw: lists 王东海 (2021年12月—2025年？月); 张立克 部长 from 2025-10; cites 81.cn 2025-11-07 article naming only 张立克/王献军",
+        "curl Bing / cn.bing / Bing RSS / DuckDuckGo html+lite / Google / Baidu (desktop+mobile) / Sogou / 360 / Yandex / Brave / Mojeek / Startpage / Qwant / Yahoo / Ecosia / SearXNG instances — all blocked, captcha, or junk results",
+        "Naver web search (working): '王东海 国防动员部 政委', '军委国防动员部政委王东海', '王东海 中将 国防动员部', site:81.cn / site:news.cn / site:gov.cn variants — only mod.gov.cn index pages (unreachable), 2022 shandong.gov.cn, asiae.co.kr 2026-02-27 report on the NPC revocations",
+        "CCTV site search (search.cctv.com) '王东海', '王东海 政委', '国防动员部 王东海', '国防动员部政治委员': only 2018 and the 2026-02-26 NPC notice",
+        "people.cn search API (search.people.cn/search-platform/front/search) '王东海', '政委王东海', '王东海代表', '国防动员部政委', '军委国防动员部党委': latest titled hits 2023-09-23 (jx.people.com.cn, 政委王东海 at Jiangxi training) and 2023-04-24; nothing 2024-2025",
+        "81.cn search API (mil-search.81.cn/api-surface/es/docSearchEasy) '王东海' fuzzy (25 hits, both pages read), '王东海政委' (4 hits), '国防动员部政委', '军委国防动员部党委扩大会议', '张立克部长', title search '国防动员部' (62 hits)",
+        "Fetched and read: 81.cn 16392784 (2025-06-23, May 23 lecture), 81.cn 16369343 (2025-02-13), 81.cn 16420528 (2025-11-07 event, no commissar named), 81.cn 16448837 (2026-03-14, 2025 year-end meeting, only 张立克 named), 81.cn 16443778 (2026-02-18 Jan 6-7 2026 party committee meeting), jx.people.com.cn 2023-09-23 article, tv.cctv.com 2025-10-30 video page, asiae.co.kr 2026-02-27, epochtimes 2024-04-02 (no relevant mention)",
+        "CASI July 2026 PDF (airuniversity.af.edu) returned HTTP 403; not readable"
+      ]
+    },
+    {
+      "id": "PLA-A57496C1F34C",
+      "nameEn": "Bian Ruifeng",
+      "nameZh": "边瑞峰",
+      "status": "confirmed removed",
+      "controlledState": "confirmed_exit",
+      "ledgerDate": "2026-02-26",
+      "formerRole": "Assistant/deputy director, CMC Political Work Department",
+      "lastPublicAppearance": {
+        "date": "2024-12-03",
+        "datePrecision": "day",
+        "event": "Spoke on behalf of the CMC organs at the meeting celebrating the 25th anniversary of the PLA's entry into Macao, held at the Macao Garrison's Taipa barracks on the morning of 3 December 2024, alongside CPPCC vice-chairman Ho Hau-wah, Southern Theater commander Wu Yanan and Macao CE Ho Iat-seng.",
+        "titleZh": "中央军委政治工作部主任助理边瑞峰",
+        "url": "http://cpc.people.com.cn/n1/2024/1204/c64387-40374881.html",
+        "publisher": "人民网－人民日报 (People's Daily, 2024-12-04, p.5)",
+        "sourceClass": "A1",
+        "verification": "page_fetched_and_confirmed",
+        "note": "Page fetched via curl: '本报澳门12月3日电……中央军委政治工作部主任助理边瑞峰代表中央军委机关讲话'. Same text confirmed on CCTV (Xinhua wire, 2024-12-03 15:43, https://news.cctv.com/2024/12/03/ARTIzhN8HDfQe7oJTxgqT3wN241203.shtml) and on 81.cn (2024-12-03 15:33, http://www.81.cn/syjdt/16355809.html, source 驻澳门部队微信公众号); the MOD copy (http://www.mod.gov.cn/gfbw/qwfb/16355813.html) cited by zh.wikipedia is unreachable from this container. This source establishes his title as 主任助理 (assistant director), not 副主任 (deputy director) as the record's formerRole alternatively suggests. It does not establish that no later appearance exists, but no 2025 item naming 边瑞峰 was found on 81.cn (fuzzy search: 3 hits total), people.cn (10 hits, latest Dec 2024) or CCTV; general web search engines were unavailable, so provincial or Xinhua-only items in 2025 could not be excluded."
+      },
+      "firstConcreteSignal": null,
+      "formalAction": {
+        "date": "2026-02-26",
+        "kind": "npc_seat_revoked",
+        "url": "https://www.news.cn/politics/20260226/d679a70cddd945f1908e371b94c93c48/c.html",
+        "sourceClass": "A1",
+        "note": "NPC seat formally revoked by the relevant military congress, 26 February 2026"
+      },
+      "intermediateActions": [],
+      "searchLane": "Xinhua / 81.cn / unit channels naming the officer with exact title, 2025; CASI July 2026 table",
+      "researchNotes": "Last titled appearance located: 3 December 2024, speaking for the CMC organs at the Macao Garrison 25th-anniversary meeting as 中央军委政治工作部主任助理 (People's Daily/Xinhua/CCTV/81.cn all carry the same wording). Seeded Xinhua NPC-revocation URL confirmed and names him. No public signal earlier than the 2026-02-26 revocation was found (no investigation notice, no reported replacement, no media-noted absence); the Korean outlet asiae.co.kr (2026-02-27) simply lists him among the nine PLA delegates removed. Record's formerRole 'Assistant/deputy director' should read assistant director (主任助理) per every official source found. Confidence medium: 81.cn, people.cn and CCTV site searches show no 2025 appearance, but general web search engines were blocked in this session, so a 2025 appearance reported only by Xinhua or provincial outlets cannot be fully excluded.",
+      "collectionState": "not_yet_collected",
+      "researchConfidence": "medium",
+      "seededUrlChecks": [
+        {
+          "url": "https://www.news.cn/politics/20260226/d679a70cddd945f1908e371b94c93c48/c.html",
+          "status": "confirmed",
+          "note": "Fetched via curl. Xinhua 2026-02-26 '全国人民代表大会常务委员会公告〔十四届〕第十六号': '中央军委政治工作部军人代表大会决定罢免边瑞峰的第十四届全国人民代表大会代表职务'. Matches the seeded note (NPC seat revoked 26 Feb 2026 by the CMC Political Work Department military congress)."
+        }
+      ],
+      "searchLog": [
+        "WebSearch: queries attempted (边瑞峰 政治工作部 2025; 边瑞峰 军委政治工作部 副主任 出席; Bian Ruifeng CMC Political Work Department NPC removed) — session WebSearch budget exhausted, no results",
+        "zh.wikipedia 边瑞峰 (page + raw wikitext) fetched: 主任助理 not later than Dec 2024 citing mod.gov.cn 2024-12-03 Macao article; NPC seat revoked Feb 2026; 中央军事委员会政治工作部 article lists him as 主任助理 (2022年6月—？)",
+        "en.wikipedia search 'Bian Ruifeng': only the PLA NPC delegation list",
+        "curl Bing / DuckDuckGo / Google / Baidu / Sogou / Yandex / Brave / Mojeek / Startpage / Qwant / Yahoo / Ecosia / SearXNG — blocked or captcha",
+        "Naver web search '边瑞峰 军委政治工作部主任助理', '边瑞峰 2025 主任助理', '邊瑞峰 政治工作部 罷免 人大代表', site:81.cn / site:news.cn 边瑞峰 — nothing beyond the 2023 NPC delegate list",
+        "CCTV site search '边瑞峰', '军委政治工作部主任助理': hits 2016 (师政委边瑞峰), 2024-12-03 Macao meeting, 2026-02-26 NPC notice",
+        "people.cn search API '边瑞峰' (10 hits, all read): 2023 NPC delegate list, 2024-12-03/04 Macao articles, 2026-02-26/27 NPC notice; '军委政治工作部主任助理' (9 hits, none for Bian after Dec 2024)",
+        "81.cn search API '边瑞峰' fuzzy (3 hits: 2020 unrelated namesake, 2024-12-03 Macao, 2026-02-26 NPC notice); '军委政治工作部主任助理' fuzzy (17 hits, only Dec 2024 for Bian)",
+        "Fetched and read: cpc.people.com.cn 2024-12-04 article, news.cctv.com 2024-12-03 article, 81.cn syjdt/16355809 article, chinanews 2026-02-26 NPC notice, asiae.co.kr 2026-02-27 report ('中央军委少将边瑞峰')"
+      ]
+    },
+    {
+      "id": "PLA-CBFF926CEF39",
+      "nameEn": "Li Qiaoming",
+      "nameZh": "李桥铭",
+      "status": "confirmed removed",
+      "controlledState": "confirmed_exit",
+      "ledgerDate": "2026-02-26",
+      "formerRole": "Commander, PLA Army",
+      "lastPublicAppearance": {
+        "date": "2024-08-28",
+        "datePrecision": "day",
+        "event": "Official visit to Russia and Pakistan, 21-28 August 2024, as head of a PLA Army delegation (met Russian Ground Forces C-in-C Salyukov in Moscow on 22 Aug 2024 and Pakistan's president, PM and COAS Munir); confirmed and dated by MND spokesman Wu Qian at the 29 Aug 2024 regular press conference: \"陆军司令员李桥铭率团于8月21日至28日访问俄罗斯、巴基斯坦\"",
+        "titleZh": "陆军司令员",
+        "url": "http://www.mod.gov.cn/gfbw/xwfyr/lxjzh_246940/16334621.html",
+        "publisher": "中华人民共和国国防部 (国防部网, 2024年8月国防部例行记者会文字实录, dated 2024-08-29)",
+        "sourceClass": "A1",
+        "verification": "page_fetched_and_confirmed",
+        "note": "Page fetched over http (www.mod.gov.cn is reachable on http only, not https); text contains '陆军司令员李桥铭率团于8月21日至28日访问俄罗斯、巴基斯坦'. Date given is the last day of the visit per MND; the statement itself is dated 2024-08-29. Corroboration: Russian MoD photo of Li with Oleg Salyukov dated 22 Aug 2024 (Wikimedia Commons File:Li_Qiaoming_and_Oleg_Salyukov(2024).jpg citing function.mil.ru id=12526314, which the proxy refuses), CNA/LTN report 2024-08-22 (https://news.ltn.com.tw/news/world/breakingnews/4777345), VOA 2024-08-26. No later official item naming him with title was found: the MND site full-text index returns only this item for 李桥铭; People's Daily search index has nothing between 2023 and the Feb 2026 NPC notice; Xinhua search API is blocked; PLA Daily e-paper JSON archive on 81.cn only starts in 2026. Media context: VOA (2024-12-26) says rumours of his removal circulated from October 2024; Zaobao (2025-12-14) says he missed the 23 Dec 2024 promotion ceremony and other important occasions but attended the March 2025 NPC session while no longer Army commander (title at that time not verified; not an official naming with title); The Diplomat (2026-03-02) says he has been missing since the July 2025 PLA Day banquet (unverified). Plausible but unverified later appearances: Beijing Xiangshan Forum 12-14 Sep 2024 or other Sep-Dec 2024 Army events."
+      },
+      "firstConcreteSignal": {
+        "date": "2024-12-23",
+        "kind": "absence_noted",
+        "event": "Absent (with Qin Shutong, Yuan Huazhi, Wang Chunning) from the 23 Dec 2024 CMC general-promotion ceremony at the Bayi Building at which Chen Hui was promoted and installed as Army political commissar; the absence was noted by Taiwanese and overseas media the next day",
+        "url": "https://news.ltn.com.tw/news/world/breakingnews/4903302",
+        "publisher": "自由時報 (Liberty Times), 2024-12-24 21:23, '習近平軍權動搖？4上將無故缺席重要晉銜儀式'",
+        "sourceClass": "B2",
+        "verification": "page_fetched_and_confirmed",
+        "note": "Date is that of the ceremony he missed; the LTN report is dated 2024-12-24 (also LTN print edition 2024-12-25 https://news.ltn.com.tw/news/world/paper/1683927 citing Sing Tao/Ming Pao, and VOA 2024-12-26 https://www.voachinese.com/a/pla-s-corruption-probe-intensifies-20241225/7913747.html). VOA quotes analysts saying rumours of his investigation circulated since October 2024, but no dated public signal earlier than the 23 Dec 2024 omission was found. Later steps: Zaobao 2025-12-14 reports he attended the March 2025 NPC session but was no longer Army commander; Army 军人代表大会 voted to strip his NPC seat on 2026-01-19 (per the NPCSC credentials committee report adopted 2026-02-26, Wikisource transcription; NPC gazette 2026 no.2 PDF at http://www.npc.gov.cn/npc/c2/c30834/202604/P020260417341841579800.pdf, 32 MB, not fully downloaded); NPCSC announcement 2026-02-26."
+      },
+      "formalAction": {
+        "date": "2026-02-26",
+        "kind": "npc_seat_revoked",
+        "url": "https://www.news.cn/politics/20260226/d679a70cddd945f1908e371b94c93c48/c.html",
+        "sourceClass": "A1",
+        "note": "NPC seat formally revoked by the relevant military congress, 26 February 2026"
+      },
+      "intermediateActions": [],
+      "searchLane": "Xinhua / 81.cn / unit channels naming the officer with exact title, 2025; CASI July 2026 table",
+      "researchNotes": "Official A1 naming with exact title verified for the 21-28 Aug 2024 Russia/Pakistan visit (MND presser 2024-08-29). Media consistently date his troubles to autumn 2024 (rumours from October; absent from 23 Dec 2024 promotion ceremony), so it is plausible but unverified that a Sep-Dec 2024 official mention exists (e.g. Xiangshan Forum); no searchable official index reachable from this session covers that window. Later media-reported sightings (March 2025 NPC session per Zaobao; July 2025 PLA Day banquet per The Diplomat) post-date the first signal and were not verified against official text. Formal action left null because the seed is already an A1 official notice; the earliest formal step is the Army 军人代表大会 decision of 2026-01-19, disclosed in the NPCSC credentials report adopted 2026-02-26 (Wikisource transcription, gazette 2026-04-17).",
+      "collectionState": "not_yet_collected",
+      "researchConfidence": "medium",
+      "seededUrlChecks": [
+        {
+          "url": "https://www.news.cn/politics/20260226/d679a70cddd945f1908e371b94c93c48/c.html",
+          "status": "confirmed",
+          "note": "Fetched; Xinhua 受权发布 全国人民代表大会常务委员会公告〔十四届〕第十六号 dated 2026-02-26 20:29, text: '陆军军人代表大会决定罢免李桥铭、丁来富的第十四届全国人民代表大会代表职务'. Same text also at https://www.news.cn/20260226/822524cab582431f8208c1842bf49a66/c.html (the URL used in research/trackers/npc-terminations.json) and People's Daily http://politics.people.com.cn/n1/2026/0226/c1001-40670865.html."
+        }
+      ],
+      "searchLog": [
+        "research/trackers/npc-terminations.json: entry 2026-02-26 lists 李桥铭 (陆军, 罢免, 涉嫌严重违纪违法); note records Army 军人代表大会 decision 2026-01-19",
+        "zh.wikipedia.org/wiki/李桥铭 (chronology + refs); en.wikipedia.org/wiki/Li_Qiaoming (infobox claims term ended Dec 2024, citing Zaobao)",
+        "zh.wikipedia 中国人民解放军陆军 (leader table: 李桥铭 2022-09 to 2024-12; 蔡志军 中将 from 2025-07 负责军事工作)",
+        "zh.wikisource NPCSC credentials committee report (2026-02-26 session): '陆军原司令员李桥铭、73集团军原军长丁来富涉嫌严重违纪违法，2026年1月19日，陆军召开军人代表大会决定罢免'",
+        "Zaobao 2025-12-14 story20251214-7856670 (fetched): Li missed Dec 2024 promotion ceremony, attended March 2025 两会, no longer Army commander",
+        "The Diplomat 2026-03-02 (fetched): 'missing since last July's PLA Day banquet'",
+        "LTN search (24 hits) -> fetched 4903302 (2024-12-24), paper/1683927 (2024-12-25), 4905243 (2024-12-26), 4777345 (2024-08-22)",
+        "VOA search -> fetched 7913747 (2024-12-26), 7757307 (2024-08-26), 7997105 (2025-03-04), 7918606 (2024-12-31)",
+        "MND site search API mod-search.mod.gov.cn (content index) -> only hit: Aug 2024 presser transcript; fetched http://www.mod.gov.cn/gfbw/xwfyr/lxjzh_246940/16334621.html (confirmed)",
+        "People's Daily search API search.people.cn: only 2022-2023 lists and 2026-02-26/27 NPC notices",
+        "Wikimedia Commons: Li Qiaoming/Salyukov photos dated 22 Aug 2024 sourced to mil.ru (function.mil.ru blocked by proxy)",
+        "Failed/blocked: so.news.cn search API (405 WAF), search.cctv.com (irrelevant hits), 81.cn search (404/502), 81.cn e-paper JSON (only 2026 dates exist), CSIS purge page (Flourish embed, names not in HTML), CASI site (403), web.archive.org (connection reset), zaobao search, RFA search (JS), SCMP (403), Baidu/Bing/Brave/Mojeek (blocked/captcha), CNA and BBC 4th-plenum pieces (no mention of Li)"
+      ]
+    },
+    {
+      "id": "PLA-3920DF37F9FA",
+      "nameEn": "Ding Laifu",
+      "nameZh": "丁来富",
+      "status": "confirmed removed",
+      "controlledState": "confirmed_exit",
+      "ledgerDate": "2026-02-26",
+      "formerRole": "Commander, 73rd Group Army",
+      "lastPublicAppearance": {
+        "date": "2025-03-07",
+        "datePrecision": "day",
+        "event": "Quoted as an NPC deputy of the PLA/PAP delegation reacting to Xi Jinping's 7 March 2025 speech to the delegation at the 3rd session of the 14th NPC: '走出会场，丁来富代表说，能不能收好官……' (PLA Daily report by 费士廷, reprinted by the MND website on 2025-03-08)",
+        "titleZh": "代表",
+        "url": "http://www.mod.gov.cn/gfbw/qwfb/16373589.html",
+        "publisher": "中华人民共和国国防部 (国防部网, 来源：解放军报, 2025-03-08 08:55)",
+        "sourceClass": "A1",
+        "verification": "page_fetched_and_confirmed",
+        "note": "Page fetched (http) and contains '丁来富代表说'; the article does not give his unit title (he is named only as 代表; the 2023-03-09 counterpart said '来自陆军的丁来富代表'). Event date is the 7 March 2025 delegation meeting; article dated 2025-03-08. This is the latest official naming found: the MND full-text index (7 hits for 丁来富) has nothing later; People's Daily search shows only the 2023/2024 NPC-session pieces and the Feb 2026 notices. Earlier titled namings: 2024-03-08 http://www.mod.gov.cn/gfbw/qwfb/16292166.html and http://military.people.com.cn/n1/2024/0308/c1011-40191534.html ('丁来富代表'). Plausible later appearances with the title 第73集团军军长 (Xiamen/Fujian 双拥 or 八一 events in 2025, Sept 2025 parade coverage) could not be checked: xm.gov.cn, fujian.gov.cn, xmnn.cn, fjdaily.com and 81.cn search are unreachable from this session."
+      },
+      "firstConcreteSignal": {
+        "date": "2026-02-26",
+        "kind": "npc_seat_revoked",
+        "event": "NPCSC announcement no.16 (14th NPC): 陆军军人代表大会决定罢免李桥铭、丁来富的第十四届全国人民代表大会代表职务 — the first public sign of trouble for Ding; the credentials committee report adopted the same day states the Army 军人代表大会 decision was taken on 2026-01-19 for 涉嫌严重违纪违法 and names him '73集团军原军长丁来富'",
+        "url": "https://www.news.cn/20260226/822524cab582431f8208c1842bf49a66/c.html",
+        "publisher": "新华社/新华网 (受权发布丨全国人民代表大会常务委员会公告〔十四届〕第十六号)",
+        "sourceClass": "A1",
+        "verification": "page_fetched_and_confirmed",
+        "note": "Same date and event as the seeded formalAction; no earlier dated public signal (press report, replacement named, noted absence) was found for Ding Laifu in LTN, UDN, VOA, People's Daily or MND indexes. The underlying decision date 2026-01-19 comes from the NPCSC credentials committee report (zh.wikisource transcription fetched; official gazette 2026 no.2 published 2026-04-17, PDF http://www.npc.gov.cn/npc/c2/c30834/202604/P020260417341841579800.pdf). The Diplomat (2026-03-02) links his fall to the 73rd Group Army network (He Weidong, Miao Hua, Lin Xiangyang) but gives no earlier signal."
+      },
+      "formalAction": {
+        "date": "2026-02-26",
+        "kind": "npc_seat_revoked",
+        "url": "https://www.news.cn/politics/20260226/d679a70cddd945f1908e371b94c93c48/c.html",
+        "sourceClass": "A1",
+        "note": "NPC seat formally revoked by the relevant military congress, 26 February 2026"
+      },
+      "intermediateActions": [],
+      "searchLane": "Xinhua / 81.cn / unit channels naming the officer with exact title, 2025; CASI July 2026 table",
+      "researchNotes": "The only official naming after 2024 that could be found is the 7 March 2025 NPC-session reaction piece (as 丁来富代表, no unit title). Local Fujian/Xiamen government and newspaper sites, where a group-army commander is normally named with his full title, are unreachable from this session, so a later 2025 appearance with the title 第73集团军军长 is plausible but unverified. No public signal precedes the 2026-02-26 NPCSC announcement; the Army congress decision of 2026-01-19 is documented only in the credentials committee report published with the announcement (gazette 2026-04-17). Formal action left null because the seed is already an A1 official notice.",
+      "collectionState": "not_yet_collected",
+      "researchConfidence": "medium",
+      "seededUrlChecks": [
+        {
+          "url": "https://www.news.cn/politics/20260226/d679a70cddd945f1908e371b94c93c48/c.html",
+          "status": "confirmed",
+          "note": "Fetched; Xinhua 受权发布 全国人民代表大会常务委员会公告〔十四届〕第十六号 dated 2026-02-26 20:29; names 丁来富 in '陆军军人代表大会决定罢免李桥铭、丁来富的第十四届全国人民代表大会代表职务' and in the 代表资格终止 list. Duplicate of https://www.news.cn/20260226/822524cab582431f8208c1842bf49a66/c.html (URL used in the NPC tracker)."
+        }
+      ],
+      "searchLog": [
+        "research/trackers/npc-terminations.json: entry 2026-02-26 lists 丁来富 (陆军, 罢免, 涉嫌严重违纪违法); note gives Army 军人代表大会 decision 2026-01-19 and title 73集团军原军长",
+        "zh.wikipedia.org/wiki/丁来富 (refs are 2011-2022 only; NPC removal 2026-02-26); en.wikipedia.org/wiki/Ding_Laifu (cites The Diplomat 2026-03-02)",
+        "zh.wikipedia 中国人民解放军陆军第七十三集团军 (commander table: 丁来富 少将 2022-04 to present, no successor listed)",
+        "zh.wikisource NPCSC credentials committee report (adopted 2026-02-26): '陆军原司令员李桥铭、73集团军原军长丁来富涉嫌严重违纪违法，2026年1月19日，陆军召开军人代表大会决定罢免'",
+        "The Diplomat 2026-03-02 'China's February 26 Military Purge: The Domino Effect' (fetched)",
+        "MND site search API (mod-search.mod.gov.cn, manuscript index): 7 hits -> 2025-03-08 (fetched, confirmed), 2024-03-08 x2, 2024-03-07, 2023-03-09, and two signed articles by him (2023-01, 2018-08); 'material' index: 0; queries for 73集团军军长 / 丁来富少将: nothing after 2018",
+        "People's Daily search API: 2024-03-08 and 2023-03-09 NPC-session pieces (fetched, GBK-decoded, '丁来富代表' confirmed), plus 2023 NPC deputy list and Feb 2026 notices",
+        "LTN search (2 hits, both Feb/Apr 2026), UDN search (3 hits, Feb 2026), VOA search (no relevant hits)",
+        "Failed/blocked: xm.gov.cn (reset/timeout), fujian.gov.cn (reset), xmnn.cn/epaper.xmnn.cn/fjdaily.com (reset), so.fjsen.com (502), gov.cn site search (0 results), so.news.cn (405 WAF), search.cctv.com (irrelevant), 81.cn search (404/502), 81.cn e-paper JSON (2026 only), Baidu/Bing/Brave/Mojeek (blocked/captcha), CSIS purge page (Flourish embed)"
+      ]
+    },
+    {
+      "id": "PLA-9F3EF62E3055",
+      "nameEn": "Shen Jinlong",
+      "nameZh": "沈金龙",
+      "status": "confirmed removed",
+      "controlledState": "confirmed_exit",
+      "ledgerDate": "2026-02-26",
+      "formerRole": "Former commander, PLA Navy",
+      "lastPublicAppearance": null,
+      "firstConcreteSignal": null,
+      "formalAction": {
+        "date": "2026-02-26",
+        "kind": "npc_seat_revoked",
+        "url": "https://www.news.cn/politics/20260226/d679a70cddd945f1908e371b94c93c48/c.html",
+        "sourceClass": "A1",
+        "note": "NPC seat formally revoked by the relevant military congress, 26 February 2026"
+      },
+      "intermediateActions": [],
+      "searchLane": "Xinhua / 81.cn / unit channels naming the officer with exact title, 2025; CASI July 2026 table",
+      "researchNotes": null,
+      "collectionState": "not_yet_collected"
+    },
+    {
+      "id": "PLA-FBFC3E3B721A",
+      "nameEn": "Qin Shengxiang",
+      "nameZh": "秦生祥",
+      "status": "confirmed removed",
+      "controlledState": "confirmed_exit",
+      "ledgerDate": "2026-02-26",
+      "formerRole": "Former political commissar, PLA Navy",
+      "lastPublicAppearance": null,
+      "firstConcreteSignal": null,
+      "formalAction": {
+        "date": "2026-02-26",
+        "kind": "npc_seat_revoked",
+        "url": "https://www.news.cn/politics/20260226/d679a70cddd945f1908e371b94c93c48/c.html",
+        "sourceClass": "A1",
+        "note": "NPC seat formally revoked by the relevant military congress, 26 February 2026"
+      },
+      "intermediateActions": [],
+      "searchLane": "Xinhua / 81.cn / unit channels naming the officer with exact title, 2025; CASI July 2026 table",
+      "researchNotes": null,
+      "collectionState": "not_yet_collected"
+    },
+    {
+      "id": "PLA-C6A08672D103",
+      "nameEn": "Yu Zhongfu",
+      "nameZh": "于忠福",
+      "status": "confirmed removed",
+      "controlledState": "confirmed_exit",
+      "ledgerDate": "2026-02-26",
+      "formerRole": "Former political commissar, PLA Air Force",
+      "lastPublicAppearance": null,
+      "firstConcreteSignal": null,
+      "formalAction": {
+        "date": "2026-02-26",
+        "kind": "npc_seat_revoked",
+        "url": "https://www.news.cn/politics/20260226/d679a70cddd945f1908e371b94c93c48/c.html",
+        "sourceClass": "A1",
+        "note": "NPC seat formally revoked by the relevant military congress, 26 February 2026"
+      },
+      "intermediateActions": [],
+      "searchLane": "Xinhua / 81.cn / unit channels naming the officer with exact title, 2025; CASI July 2026 table",
+      "researchNotes": null,
+      "collectionState": "not_yet_collected"
+    },
+    {
+      "id": "PLA-7DD509445EAC",
+      "nameEn": "Yang Guang",
+      "nameZh": "杨光",
+      "status": "confirmed removed",
+      "controlledState": "confirmed_exit",
+      "ledgerDate": "2026-02-26",
+      "formerRole": "Commander, Rocket Force Base 64",
+      "lastPublicAppearance": null,
+      "firstConcreteSignal": null,
+      "formalAction": {
+        "date": "2026-02-26",
+        "kind": "npc_seat_revoked",
+        "url": "https://www.news.cn/politics/20260226/d679a70cddd945f1908e371b94c93c48/c.html",
+        "sourceClass": "A1",
+        "note": "NPC seat formally revoked by the relevant military congress, 26 February 2026"
+      },
+      "intermediateActions": [],
+      "searchLane": "Xinhua / 81.cn / unit channels naming the officer with exact title, 2025; CASI July 2026 table",
+      "researchNotes": null,
+      "collectionState": "not_yet_collected"
+    },
+    {
+      "id": "PLA-08335EADEB20",
+      "nameEn": "Li Wei",
+      "nameZh": "李伟",
+      "status": "confirmed removed",
+      "controlledState": "confirmed_exit",
+      "ledgerDate": "2026-02-26",
+      "formerRole": "Political commissar, Information Support Force",
+      "lastPublicAppearance": null,
+      "firstConcreteSignal": null,
+      "formalAction": {
+        "date": "2026-02-26",
+        "kind": "npc_seat_revoked",
+        "url": "https://www.news.cn/politics/20260226/d679a70cddd945f1908e371b94c93c48/c.html",
+        "sourceClass": "A1",
+        "note": "NPC seat formally revoked by the relevant military congress, 26 February 2026"
+      },
+      "intermediateActions": [],
+      "searchLane": "Xinhua / 81.cn / unit channels naming the officer with exact title, 2025; CASI July 2026 table",
+      "researchNotes": null,
+      "collectionState": "not_yet_collected"
+    },
+    {
+      "id": "PLA-D9CCFD781A73",
+      "nameEn": "He Weidong",
+      "nameZh": "何卫东",
+      "status": "confirmed removed",
+      "controlledState": "confirmed_exit",
+      "ledgerDate": "2025-10-17",
+      "formerRole": "Second vice chairman, Central Military Commission",
+      "lastPublicAppearance": null,
+      "firstConcreteSignal": {
+        "date": "2025-04-02",
+        "kind": "absence_noted",
+        "url": "https://www.news.cn/20250402/28b125b861c74d2b8b20aff50813f962/c.html",
+        "sourceClass": "A2",
+        "note": "Omitted from the complete peer enumeration at the annual CMC tree-planting event on 2 April 2025, after being named at the 2024 event; the miss was informative only because the template, roster and peers were complete"
+      },
+      "formalAction": {
+        "date": "2025-10-17",
+        "kind": "expulsion_announced",
+        "url": "https://www.news.cn/20251017/eb11aa8c9e0044f3980bda5cd19037a2/c.html",
+        "sourceClass": "A1",
+        "note": "Expelled from the Party and the military; suspected criminal matters transferred to military prosecutors, announced 17 October 2025"
+      },
+      "intermediateActions": [],
+      "searchLane": "Xinhua / 81.cn / CCTV naming the officer with exact title in 2024–2025; Xinhua leadership event rosters",
+      "researchNotes": null,
+      "collectionState": "not_yet_collected"
+    },
+    {
+      "id": "PLA-E1856D0FF790",
+      "nameEn": "Miao Hua",
+      "nameZh": "苗华",
+      "status": "confirmed removed",
+      "controlledState": "confirmed_exit",
+      "ledgerDate": "2025-10-17",
+      "formerRole": "CMC member and director, CMC Political Work Department",
+      "lastPublicAppearance": null,
+      "firstConcreteSignal": {
+        "date": "2024-11-28",
+        "kind": "suspension_announced",
+        "url": "https://www.mod.gov.cn/gfbw/qwfb/16354907.html",
+        "sourceClass": "A2",
+        "note": "Ministry of National Defense announced suspension for investigation for suspected serious disciplinary violations, 28 November 2024"
+      },
+      "formalAction": {
+        "date": "2025-10-17",
+        "kind": "expulsion_announced",
+        "url": "https://www.news.cn/20251017/eb11aa8c9e0044f3980bda5cd19037a2/c.html",
+        "sourceClass": "A1",
+        "note": "Expelled from the Party and the military; suspected criminal matters transferred to military prosecutors, announced 17 October 2025"
+      },
+      "intermediateActions": [
+        {
+          "date": "2025-06-27",
+          "kind": "state_cmc_removed",
+          "url": "https://www.mod.gov.cn/gfbw/qwfb/16354907.html",
+          "sourceClass": "A1",
+          "note": "Removed from the state CMC by the NPC Standing Committee on 27 June 2025 (211 days after suspension)"
+        }
+      ],
+      "searchLane": "Xinhua / 81.cn / CCTV naming the officer with exact title in 2024–2025; Xinhua leadership event rosters",
+      "researchNotes": null,
+      "collectionState": "not_yet_collected"
+    },
+    {
+      "id": "PLA-B4CD00688DE0",
+      "nameEn": "He Hongjun",
+      "nameZh": "何宏军",
+      "status": "confirmed removed",
+      "controlledState": "confirmed_exit",
+      "ledgerDate": "2025-10-17",
+      "formerRole": "Executive deputy director, CMC Political Work Department",
+      "lastPublicAppearance": null,
+      "firstConcreteSignal": null,
+      "formalAction": {
+        "date": "2025-10-17",
+        "kind": "expulsion_announced",
+        "url": "https://www.news.cn/20251017/eb11aa8c9e0044f3980bda5cd19037a2/c.html",
+        "sourceClass": "A1",
+        "note": "Expelled from the Party and the military; suspected criminal matters transferred to military prosecutors, announced 17 October 2025"
+      },
+      "intermediateActions": [],
+      "searchLane": "Xinhua / 81.cn / CCTV naming the officer with exact title in 2024–2025; Xinhua leadership event rosters",
+      "researchNotes": null,
+      "collectionState": "not_yet_collected"
+    },
+    {
+      "id": "PLA-94FBCE52D8FE",
+      "nameEn": "Wang Xiubin",
+      "nameZh": "王秀斌",
+      "status": "confirmed removed",
+      "controlledState": "confirmed_exit",
+      "ledgerDate": "2025-10-17",
+      "formerRole": "Executive deputy director, CMC Joint Operations Command Center",
+      "lastPublicAppearance": null,
+      "firstConcreteSignal": null,
+      "formalAction": {
+        "date": "2025-10-17",
+        "kind": "expulsion_announced",
+        "url": "https://www.news.cn/20251017/eb11aa8c9e0044f3980bda5cd19037a2/c.html",
+        "sourceClass": "A1",
+        "note": "Expelled from the Party and the military; suspected criminal matters transferred to military prosecutors, announced 17 October 2025"
+      },
+      "intermediateActions": [],
+      "searchLane": "Xinhua / 81.cn / CCTV naming the officer with exact title in 2024–2025; Xinhua leadership event rosters",
+      "researchNotes": null,
+      "collectionState": "not_yet_collected"
+    },
+    {
+      "id": "PLA-FA66830A270E",
+      "nameEn": "Qin Shutong",
+      "nameZh": "秦树桐",
+      "status": "confirmed removed",
+      "controlledState": "confirmed_exit",
+      "ledgerDate": "2025-10-17",
+      "formerRole": "Political commissar, PLA Army",
+      "lastPublicAppearance": null,
+      "firstConcreteSignal": null,
+      "formalAction": {
+        "date": "2025-10-17",
+        "kind": "expulsion_announced",
+        "url": "https://www.news.cn/20251017/eb11aa8c9e0044f3980bda5cd19037a2/c.html",
+        "sourceClass": "A1",
+        "note": "Expelled from the Party and the military; suspected criminal matters transferred to military prosecutors, announced 17 October 2025"
+      },
+      "intermediateActions": [],
+      "searchLane": "Xinhua / 81.cn / CCTV naming the officer with exact title in 2024–2025; Xinhua leadership event rosters",
+      "researchNotes": null,
+      "collectionState": "not_yet_collected"
+    },
+    {
+      "id": "PLA-E1BB89E58D66",
+      "nameEn": "Yuan Huazhi",
+      "nameZh": "袁华智",
+      "status": "confirmed removed",
+      "controlledState": "confirmed_exit",
+      "ledgerDate": "2025-10-17",
+      "formerRole": "Political commissar, PLA Navy",
+      "lastPublicAppearance": null,
+      "firstConcreteSignal": null,
+      "formalAction": {
+        "date": "2025-10-17",
+        "kind": "expulsion_announced",
+        "url": "https://www.news.cn/20251017/eb11aa8c9e0044f3980bda5cd19037a2/c.html",
+        "sourceClass": "A1",
+        "note": "Expelled from the Party and the military; suspected criminal matters transferred to military prosecutors, announced 17 October 2025"
+      },
+      "intermediateActions": [],
+      "searchLane": "Xinhua / 81.cn / CCTV naming the officer with exact title in 2024–2025; Xinhua leadership event rosters",
+      "researchNotes": null,
+      "collectionState": "not_yet_collected"
+    },
+    {
+      "id": "PLA-BA8175B14B18",
+      "nameEn": "Wang Houbin",
+      "nameZh": "王厚斌",
+      "status": "confirmed removed",
+      "controlledState": "confirmed_exit",
+      "ledgerDate": "2025-10-17",
+      "formerRole": "Commander, PLA Rocket Force",
+      "lastPublicAppearance": null,
+      "firstConcreteSignal": null,
+      "formalAction": {
+        "date": "2025-10-17",
+        "kind": "expulsion_announced",
+        "url": "https://www.news.cn/20251017/eb11aa8c9e0044f3980bda5cd19037a2/c.html",
+        "sourceClass": "A1",
+        "note": "Expelled from the Party and the military; suspected criminal matters transferred to military prosecutors, announced 17 October 2025"
+      },
+      "intermediateActions": [],
+      "searchLane": "Xinhua / 81.cn / CCTV naming the officer with exact title in 2024–2025; Xinhua leadership event rosters",
+      "researchNotes": null,
+      "collectionState": "not_yet_collected"
+    },
+    {
+      "id": "PLA-855587501926",
+      "nameEn": "Lin Xiangyang",
+      "nameZh": "林向阳",
+      "status": "confirmed removed",
+      "controlledState": "confirmed_exit",
+      "ledgerDate": "2025-10-17",
+      "formerRole": "Commander, Eastern Theater Command",
+      "lastPublicAppearance": null,
+      "firstConcreteSignal": null,
+      "formalAction": {
+        "date": "2025-10-17",
+        "kind": "expulsion_announced",
+        "url": "https://www.news.cn/20251017/eb11aa8c9e0044f3980bda5cd19037a2/c.html",
+        "sourceClass": "A1",
+        "note": "Expelled from the Party and the military; suspected criminal matters transferred to military prosecutors, announced 17 October 2025"
+      },
+      "intermediateActions": [],
+      "searchLane": "Xinhua / 81.cn / CCTV naming the officer with exact title in 2024–2025; Xinhua leadership event rosters",
+      "researchNotes": null,
+      "collectionState": "not_yet_collected"
+    },
+    {
+      "id": "PLA-F5E779D79CEA",
+      "nameEn": "Wang Chunning",
+      "nameZh": "王春宁",
+      "status": "confirmed removed",
+      "controlledState": "confirmed_exit",
+      "ledgerDate": "2025-10-17",
+      "formerRole": "Commander, People's Armed Police",
+      "lastPublicAppearance": null,
+      "firstConcreteSignal": null,
+      "formalAction": {
+        "date": "2025-10-17",
+        "kind": "expulsion_announced",
+        "url": "https://www.news.cn/20251017/eb11aa8c9e0044f3980bda5cd19037a2/c.html",
+        "sourceClass": "A1",
+        "note": "Expelled from the Party and the military; suspected criminal matters transferred to military prosecutors, announced 17 October 2025"
+      },
+      "intermediateActions": [],
+      "searchLane": "Xinhua / 81.cn / CCTV naming the officer with exact title in 2024–2025; Xinhua leadership event rosters",
+      "researchNotes": null,
+      "collectionState": "not_yet_collected"
+    },
+    {
+      "id": "PLA-4B5081FB181E",
+      "nameEn": "Wang Renhua",
+      "nameZh": "王仁华",
+      "status": "confirmed removed",
+      "controlledState": "confirmed_exit",
+      "ledgerDate": "2025",
+      "formerRole": "Director, CMC Political and Legal Affairs Committee",
+      "lastPublicAppearance": null,
+      "firstConcreteSignal": null,
+      "formalAction": {
+        "date": "2025",
+        "kind": "secondary_classification",
+        "url": "https://www.airuniversity.af.edu/Portals/10/CASI/documents/Research/Other-Topics/2026-07-13%20PLA%20Corruption.pdf?ver=3FCdY-htIjQJMdbipAVSgg%3D%3D",
+        "sourceClass": "B1",
+        "note": "CASI's July 2026 table records the officer as officially investigated or removed; no dated official notice is held in this repository"
+      },
+      "intermediateActions": [],
+      "searchLane": "Locate the official notice (NPC revocation, discipline announcement or replacement report) and the last titled appearance",
+      "researchNotes": null,
+      "collectionState": "not_yet_collected"
+    },
+    {
+      "id": "PLA-B1C2BCDCF015",
+      "nameEn": "Zhang Lin",
+      "nameZh": "张林",
+      "status": "confirmed removed",
+      "controlledState": "confirmed_exit",
+      "ledgerDate": "2025",
+      "formerRole": "Director, CMC Logistic Support Department",
+      "lastPublicAppearance": null,
+      "firstConcreteSignal": null,
+      "formalAction": {
+        "date": "2025",
+        "kind": "secondary_classification",
+        "url": "https://www.airuniversity.af.edu/Portals/10/CASI/documents/Research/Other-Topics/2026-07-13%20PLA%20Corruption.pdf?ver=3FCdY-htIjQJMdbipAVSgg%3D%3D",
+        "sourceClass": "B1",
+        "note": "CASI's July 2026 table records the officer as officially investigated or removed; no dated official notice is held in this repository"
+      },
+      "intermediateActions": [],
+      "searchLane": "Locate the official notice (NPC revocation, discipline announcement or replacement report) and the last titled appearance",
+      "researchNotes": null,
+      "collectionState": "not_yet_collected"
+    },
+    {
+      "id": "PLA-799497705C0E",
+      "nameEn": "Wang Peng",
+      "nameZh": "王鹏",
+      "status": "confirmed removed",
+      "controlledState": "confirmed_exit",
+      "ledgerDate": "2025",
+      "formerRole": "Director, CMC Training Management Department",
+      "lastPublicAppearance": null,
+      "firstConcreteSignal": null,
+      "formalAction": {
+        "date": "2025",
+        "kind": "secondary_classification",
+        "url": "https://www.airuniversity.af.edu/Portals/10/CASI/documents/Research/Other-Topics/2026-07-13%20PLA%20Corruption.pdf?ver=3FCdY-htIjQJMdbipAVSgg%3D%3D",
+        "sourceClass": "B1",
+        "note": "CASI's July 2026 table records the officer as officially investigated or removed; no dated official notice is held in this repository"
+      },
+      "intermediateActions": [],
+      "searchLane": "Locate the official notice (NPC revocation, discipline announcement or replacement report) and the last titled appearance",
+      "researchNotes": null,
+      "collectionState": "not_yet_collected"
+    },
+    {
+      "id": "PLA-4B5C301DF923",
+      "nameEn": "Li Hanjun",
+      "nameZh": "李汉军",
+      "status": "confirmed removed",
+      "controlledState": "confirmed_exit",
+      "ledgerDate": "2025",
+      "formerRole": "Chief of staff, PLA Navy",
+      "lastPublicAppearance": {
+        "date": "2024-06",
+        "datePrecision": "month",
+        "event": "致敬人民海军英雄仪式 at 青岛海军博物馆海军英雄广场, attended by 海军司令员胡中明、政治委员袁华智、参谋长李汉军, presided over by 副政治委员程坚 (Hong Kong press report of 2024-06-25 relaying a mainland-media report of 2024-06-24; ceremony dated only as 近日)",
+        "titleZh": "海軍參謀長",
+        "url": "https://orientaldaily.on.cc/content/%E5%85%A9%E5%B2%B8%E5%9C%8B%E9%9A%9B/odn-20240625-0625_00178_002/%E8%A7%A3%E6%94%BE%E8%BB%8D%E6%B5%B7%E8%BB%8D%E5%85%A9%E8%81%B7%E4%BD%8D%E6%8F%9B%E4%BA%BA",
+        "publisher": "東方日報 (Oriental Daily, Hong Kong)",
+        "sourceClass": "B2",
+        "verification": "page_fetched_and_confirmed",
+        "note": "Page fetched; text reads '海軍司令胡中明、政治委員袁華智、參謀長李漢軍參加儀式' and '前海軍指揮學院院長李漢軍則出任海軍參謀長'. This is the only dated, titled appearance as Navy chief of staff I could verify; the event itself is undated ('近日') so precision is month. The original mainland report (內媒 2024-06-24) could not be located (no working search engine; thepaper API has no Li Hanjun item after 2018; CCTV video index has Li Hanjun hits only up to 2024-03-08, when he was still 海军指挥学院院长). Later titled appearances between 2024-07 and 2025-05 (e.g. foreign-navy meetings, 2025-03 NPC session where he was a deputy) are plausible but none was found or verified. zh.wikipedia dates his promotion to 海军参谋长 to 2024-04 citing this same article."
+      },
+      "firstConcreteSignal": {
+        "date": "2025-06-27",
+        "kind": "npc_seat_revoked",
+        "event": "全国人民代表大会常务委员会公告〔十四届〕第十一号: 海军军人代表大会决定罢免李汉军的第十四届全国人民代表大会代表职务; 代表资格终止 (the accompanying 代表资格审查委员会报告 states 海军原参谋长李汉军 因涉嫌严重违纪违法, Navy 军人代表大会 decision taken 2025-05-06)",
+        "url": "http://www.npc.gov.cn/npc/c2/c30834/202506/t20250627_446237.html",
+        "publisher": "中国人大网 (NPC Standing Committee; Xinhua text)",
+        "sourceClass": "A1",
+        "verification": "page_fetched_and_confirmed",
+        "note": "Earliest dated public signal found. The Navy 军人代表大会 removal decision (2025-05-06) was only disclosed on 2025-06-27 via the 公告 and the 报告 (Wikisource transcription of the 2025-06-24 报告 confirmed: '海军原参谋长李汉军，因涉嫌严重违纪违法，2025年5月6日，海军召开军人代表大会决定罢免'). CSIS purge database also dates Dismissed/Replaced to 2025-06-27. No earlier press report or media-noted absence could be located (search engines unavailable); CCTV's index shows no Li Hanjun item for the 2025-03 NPC session, but that is not a media-noted omission and is not cited as a signal. People's Daily reprint of the 公告: http://politics.people.com.cn/n1/2025/0627/c1001-40510459.html (also fetched and confirmed)."
+      },
+      "formalAction": {
+        "date": "2025-06-27",
+        "kind": "npc_seat_revoked",
+        "event": "NPC Standing Committee 16th session 公告〔十四届〕第十一号 terminating Li Hanjun's 14th NPC deputy qualification after the 海军军人代表大会 罢免 decision of 2025-05-06 (stated reason 涉嫌严重违纪违法; described as 海军原参谋长)",
+        "url": "http://www.npc.gov.cn/npc/c2/c30834/202506/t20250627_446237.html",
+        "publisher": "中国人大网 / 新华社",
+        "sourceClass": "A1",
+        "verification": "page_fetched_and_confirmed",
+        "note": "Replaces the CASI secondary classification. Matches research/trackers/npc-terminations.json entry for the 2025-06-27 session (电选单位 海军, 罢免, 因涉嫌严重违纪违法). Report text on Wikisource: https://zh.wikisource.org/wiki/第十四届全国人民代表大会常务委员会代表资格审查委员会关于个别代表的代表资格的报告 (section 第十六次会议, report dated 2025-06-24). No party-expulsion or military-rank notice for Li Hanjun found as of this check."
+      },
+      "intermediateActions": [],
+      "searchLane": "Locate the official notice (NPC revocation, discipline announcement or replacement report) and the last titled appearance",
+      "researchNotes": "Formal action and first signal are solid (A1, fetched): the Navy 军人代表大会 removed Li Hanjun as NPC deputy on 2025-05-06 for 涉嫌严重违纪违法 and the NPCSC published the termination on 2025-06-27; nothing earlier was disclosed. The last titled appearance is weaker: a Hong Kong press item (東方日報 2024-06-25, relaying mainland media of 2024-06-24) naming 參謀長李漢軍 at a 致敬人民海军英雄仪式 in Qingdao dated only 近日, hence 2024-06 with month precision and B2 class. He held the post for roughly a year, so later appearances almost certainly exist but could not be found without search engines; zh.wikipedia's chronology and CSIS/CASI carry no last-seen date. Miao Hua (whose 旧部 Li was, per zh.wikipedia) was suspended 2024-11-28, which is context rather than a Li-specific signal.",
+      "collectionState": "not_yet_collected",
+      "researchConfidence": "medium",
+      "seededUrlChecks": [
+        {
+          "url": "https://www.airuniversity.af.edu/Portals/10/CASI/documents/Research/Other-Topics/2026-07-13%20PLA%20Corruption.pdf?ver=3FCdY-htIjQJMdbipAVSgg%3D%3D",
+          "status": "unreachable",
+          "note": "airuniversity.af.edu returns HTTP 403 (Akamai 'Access Denied' page) via curl with browser headers and via WebFetch; archive.org copy also unreachable (connection reset). Could not confirm the table contents; CSIS's purge spreadsheet (docs.google.com export linked from chinapower.csis.org) was used instead and lists Li Hanjun as Purged / Dismissed-Suspended, Date Dismissed/Replaced 2025-06-27."
+        }
+      ],
+      "searchLog": [
+        "research/adverse-timeline.json record read; research/trackers/npc-terminations.json: 李汉军 present in 2025-06-27 session (海军, 罢免)",
+        "zh.wikipedia.org/wiki/李汉军 fetched: career chronology, refs (東方日報 2024-06-25, 澎湃 2018-06-02, 新华网 2023-02-25 deputy list, 中国人大网 2025-06-27 公告)",
+        "npc.gov.cn t20250627_446237.html fetched and confirmed; politics.people.com.cn c1001-40510459.html fetched and confirmed",
+        "zh.wikisource.org 代表资格审查委员会报告 page fetched: 第十六次会议 report names 海军原参谋长李汉军, decision 2025-05-06",
+        "orientaldaily.on.cc 2024-06-25 article fetched and confirmed (參謀長李漢軍 at Qingdao ceremony)",
+        "CSIS purge database xlsx (Google Sheets export) downloaded and row read",
+        "CASI PDF: curl 403 and WebFetch 403",
+        "Search engines: WebSearch unavailable; Bing/Baidu/Google/Yandex/Mojeek/Brave/Qwant/Startpage/Ecosia/DuckDuckGo/Sogou all blocked, captcha or junk",
+        "search.cctv.com web and video (ifsearch.php) queried for 李汉军 / 海军参谋长 / 致敬人民海军英雄 / 海军英雄广场: only 2024-01-16 and 2024-03-08 CCTV-7 clips index Li Hanjun (as academy president era); no 2024-06 or later hits",
+        "api.thepaper.cn search API queried for 李汉军 and 海军参谋长: nothing after the 2025-06-27 公告",
+        "zh.wikipedia 海军参谋部 page, en.wikipedia Chief of Staff of the PLAN page, 胡中明 refs, 西太平洋海军论坛 page checked for 2024-2025 references: none naming Li Hanjun",
+        "People's Daily e-paper 2024-04-24 and 2024-06-24 scanned for Navy stories: none; PLA Daily e-paper JSON (www.81.cn/_szb/jfjb) only serves 2026 issues",
+        "VOA/RFI/CNA/UDN/Zaobao/Jamestown/Diplomat site searches: blocked, JS-only or no relevant hits"
+      ]
+    },
+    {
+      "id": "PLA-D0E82E6A5F57",
+      "nameEn": "Zhang Fengzhong",
+      "nameZh": "张凤中",
+      "status": "confirmed removed",
+      "controlledState": "confirmed_exit",
+      "ledgerDate": "2025",
+      "formerRole": "Director, Rocket Force Political Work Department",
+      "lastPublicAppearance": {
+        "date": "2023-07-21",
+        "datePrecision": "day",
+        "event": "CCTV-7 军事报道 coverage of 习近平对全军党的建设会议作出重要指示 (the 全军党的建设会议 held in Beijing, July 2023), in which zh.wikipedia states Zhang appeared identified as 火箭军政治工作部主任 (cited as the source for his April 2023 promotion)",
+        "titleZh": "火箭军政治工作部主任",
+        "url": "https://tv.cctv.com/2023/07/21/VIDEB6B5acmIhvap8mvLjZRS230721.shtml",
+        "publisher": "CCTV-7 军事报道 (央视网)",
+        "sourceClass": "A1",
+        "verification": "secondary_source_only",
+        "note": "Clip page fetched (exists, dated 2023-07-21) but its text carries only the programme title, not Zhang's name; the name/title identification rests on zh.wikipedia's citation of this clip. Included because it is the only dated, titled appearance traceable to an official outlet; Zhang served as 火箭军政治工作部主任 until 2025-10, so later appearances are very likely but none could be verified (Rocket Force leadership is rarely named in text reports; CCTV's web/video index has no 张凤中 hit on CCTV-7 after the 2022-10 CC alternate list; thepaper index none; PLA Daily e-paper not available for 2023-2025). The 163.com post of 2025-04-09 '火箭军政治工作部主任张凤中' (cited by en.wikipedia) is a self-media biography repost, not an appearance, and was not used."
+      },
+      "firstConcreteSignal": {
+        "date": "2025-10-23",
+        "kind": "expulsion_announced",
+        "event": "中国共产党第二十届中央委员会第四次全体会议公报: 审议并通过了中共中央军事委员会关于何卫东、苗华、何宏军、王秀斌、林向阳、秦树桐、袁华智、王春宁、张凤中严重违纪违法问题的审查报告，确认中央政治局之前作出的给予……张凤中开除党籍的处分",
+        "url": "http://paper.people.com.cn/rmrb/pc/content/202510/24/content_30111092.html",
+        "publisher": "人民日报 (2025-10-24 print edition, Xinhua text of the 2025-10-23 communiqué)",
+        "sourceClass": "A1",
+        "verification": "page_fetched_and_confirmed",
+        "note": "Earliest public mention of Zhang's case found. He was NOT among the nine generals named in the 2025-10-17 Ministry of National Defense announcement (何卫东, 苗华, 何宏军, 王秀斌, 林向阳, 秦树桐, 袁华智, 王厚斌, 王春宁; CCTV item news.cctv.com/2025/10/17/ARTIJ0mNb4bBAX9NCM3p4DdP251017.shtml); the plenum communiqué of 2025-10-23 is where his name first appears. The communiqué text was also confirmed on Wikisource (中国共产党第二十届中央委员会第四次全体会议公报) and on zh.wikipedia's plenum article; CSIS purge database gives Date Expelled 2025-10-23 with earliest/latest recorded event 2025-10. No earlier press report or noted absence was located (search engines unavailable). Direct news.cn URL for the communiqué was not identified; the People's Daily print page is the official reprint."
+      },
+      "formalAction": {
+        "date": "2025-10-23",
+        "kind": "expulsion_announced",
+        "event": "20th Central Committee 4th Plenum (2025-10-20 to 23) confirmed the Politburo's earlier decision to expel alternate member Zhang Fengzhong from the CCP (开除党籍) after the CMC report on his 严重违纪违法问题",
+        "url": "http://paper.people.com.cn/rmrb/pc/content/202510/24/content_30111092.html",
+        "publisher": "人民日报 / 新华社",
+        "sourceClass": "A1",
+        "verification": "page_fetched_and_confirmed",
+        "note": "Replaces the CASI secondary classification. Wikisource transcription: https://zh.wikisource.org/wiki/中国共产党第二十届中央委员会第四次全体会议公报. Zhang was not a 14th NPC deputy (absent from research/trackers/npc-terminations.json and from the NPCSC 公告 series); CSIS lists removal authority 'CPPCC, CCP' but no dated CPPCC revocation notice naming him was found on Wikisource. No MoD/军籍 notice found."
+      },
+      "intermediateActions": [],
+      "searchLane": "Locate the official notice (NPC revocation, discipline announcement or replacement report) and the last titled appearance",
+      "researchNotes": "Formal action is well established (A1, fetched): the 20th CC 4th Plenum communiqué of 2025-10-23 confirmed Zhang's expulsion from the party as an alternate CC member, and this is also the first public signal (he was not in the MoD's 2025-10-17 list of nine). The last titled appearance is weak: only the 2023-07-21 CCTV-7 军事报道 clip cited by zh.wikipedia could be tied to his 火箭军政治工作部主任 title, and its page text does not name him (secondary_source_only). He remained in post until 2025-10, so a later titled appearance almost certainly exists (Rocket Force events, 2024-2025 political-work conferences) but could not be located without search engines; CSIS/CASI carry no last-seen date. If the parent wants a null rather than a secondary-source entry for lastPublicAppearance, the 2023-07-21 item should be treated as a lead, not a verified appearance.",
+      "collectionState": "not_yet_collected",
+      "researchConfidence": "medium",
+      "seededUrlChecks": [
+        {
+          "url": "https://www.airuniversity.af.edu/Portals/10/CASI/documents/Research/Other-Topics/2026-07-13%20PLA%20Corruption.pdf?ver=3FCdY-htIjQJMdbipAVSgg%3D%3D",
+          "status": "unreachable",
+          "note": "HTTP 403 Akamai 'Access Denied' via curl (with browser headers) and via WebFetch; archive.org copy also unreachable. Could not confirm the table entry. CSIS purge spreadsheet used instead: Zhang Fengzhong, 火箭军政治工作部主任, Purged/Expelled, Date Expelled 2025-10-23."
+        }
+      ],
+      "searchLog": [
+        "research/adverse-timeline.json record read; research/trackers/npc-terminations.json: 张凤中 not present (not an NPC deputy)",
+        "zh.wikipedia.org/wiki/张凤中 and en.wikipedia.org/wiki/Zhang_Fengzhong fetched: chronology, refs (新沂市政府 2019, 工信部 2020, 搜狐 2019-09-30, CCTV 军事报道 2023-07-21, 澎湃 2017-08-06, 163.com 2025-04-09, ce.cn 2022, chinadaily 2022)",
+        "zh.wikipedia 中国共产党第二十届中央委员会第四次全体会议 fetched: communiqué text naming 张凤中 among the 14 expelled",
+        "paper.people.com.cn 2025-10-24 p1 content_30111092 fetched and confirmed; zh.wikisource communiqué fetched and confirmed",
+        "163.com/dy/article/JSN8L3B305563DJA.html (2025-04-09) fetched: biography repost only",
+        "tv.cctv.com 2023-07-21 clip page fetched: no name in page text",
+        "zh.wikipedia 中国人民解放军火箭军政治工作部 fetched: 张凤中 中将 (2023年4月—2025年10月), 主任 now 空缺",
+        "CSIS purge database xlsx downloaded and row read; CASI PDF 403",
+        "search.cctv.com web search and ifsearch.php video index queried for 张凤中 / 火箭军政治工作部主任 / 张凤中 中将: only the 2022-10 CC alternate list and the 2025-10-23 communiqué video",
+        "api.thepaper.cn search for 张凤中 and 火箭军政治工作部主任: no items about Zhang after 2019",
+        "zh.wikisource searches for 张凤中 (CPPCC 撤销 decisions, NPC 公告): none",
+        "xy.gov.cn (新沂市政府) unreachable (503/connection reset); PLA Daily e-paper JSON only serves 2026 issues",
+        "Search engines (Bing, Baidu, Google, Yandex, Mojeek, Brave, Qwant, Startpage, Ecosia, DuckDuckGo, Sogou) blocked, captcha or junk; VOA/RFI/CNA/Sing Tao/Jamestown searches unproductive"
+      ]
+    },
+    {
+      "id": "PLA-A4B9D9633C55",
+      "nameEn": "Wang Zhibin",
+      "nameZh": "汪志斌",
+      "status": "confirmed removed",
+      "controlledState": "confirmed_exit",
+      "ledgerDate": "2025",
+      "formerRole": "Secretary, Rocket Force Discipline Inspection Commission",
+      "lastPublicAppearance": {
+        "date": "2023-07-29",
+        "datePrecision": "day",
+        "event": "Gansu party secretary Hu Changsheng's pre-Army Day visit to the Western Theater Command Army in Lanzhou (胡昌升走访慰问驻甘部队); Wang attended the symposium and spoke in reply",
+        "titleZh": "西部战区中将副政治委员兼西部战区陆军政治委员",
+        "url": "http://gs.people.com.cn/n2/2023/0730/c183283-40512631.html",
+        "publisher": "人民网甘肃频道 (reprint of 新甘肃·甘肃日报, published 2023-07-30)",
+        "sourceClass": "A2",
+        "verification": "page_fetched_and_confirmed",
+        "note": "Page fetched; names 汪志斌 with the full title and dates the visit to 7月29日 (article dated 2023-07-30). This predates his December 2023 transfer to Rocket Force discipline-commission secretary, so it is stale relative to formerRole. No dated page naming him as 火箭军纪委书记/火箭军纪律检查委员会书记 could be found: zh.wikipedia cites only a CCTV-7 军事报道 video of the 20th CCDI 3rd plenum (2024-01-10, https://tv.cctv.com/2024/01/10/VIDEopBvXj1TCgh9JA2LyXaj240110.shtml) whose page text does not name him; People's Daily search API returns nothing for 汪志斌 between 2023-07-30 and the 2025-09-12 NPC notice and nothing for 火箭军纪委书记; the Guancha profile of 2025-09-12 cites nothing later than April 2022. A later titled appearance as Rocket Force CDI secretary (e.g. at the March 2024/2025 NPC sessions or CCDI plenums) is plausible but unverified."
+      },
+      "firstConcreteSignal": {
+        "date": "2025-09-12",
+        "kind": "npc_seat_revoked",
+        "event": "NPC Standing Committee announcement No. 12 (14th NPC): 陆军军人代表大会决定罢免汪志斌的第十四届全国人民代表大会代表职务; the accompanying credentials-committee report identifies him as 火箭军纪律检查委员会原书记、监察委员会原主任, removed 因涉嫌严重违纪违法, with the Army unit-level decision dated 2025-07-18",
+        "url": "http://www.xinhuanet.com/politics/20250912/423e6f5d55474eeb9bf5b41410b3aecd/c.html",
+        "publisher": "新华社/新华网",
+        "sourceClass": "A1",
+        "verification": "page_fetched_and_confirmed",
+        "note": "First public signal found. The unit-level Army 军人代表大会 decision of 2025-07-18 was not public until this 2025-09-12 announcement; the report text (NPCSC Bulletin 2025 No. 5, pp. 173-174, http://www.npc.gov.cn/npc/c2/c30834/202510/P020251015315268637401.pdf) was read from the Wikisource transcription https://zh.wikisource.org/wiki/第十四届全国人民代表大会常务委员会代表资格审查委员会关于个别代表的代表资格的报告. CSIS ChinaPower's purge sheet records 'Date Suspended/Removed 7/18/25'. No earlier press report, successor announcement or noted absence was found. zh.wikipedia's claim of party/military expulsion in October 2025 is unsupported: its cited Sina article of 2025-10-16 is only the report on the reasons for the NPC seat removals."
+      },
+      "formalAction": {
+        "date": "2025-09-12",
+        "kind": "npc_seat_revoked",
+        "event": "全国人民代表大会常务委员会公告〔十四届〕第十二号 — NPC deputy qualification terminated (陆军军人代表大会决定罢免汪志斌的第十四届全国人民代表大会代表职务), stated reason 因涉嫌严重违纪违法",
+        "url": "http://www.xinhuanet.com/politics/20250912/423e6f5d55474eeb9bf5b41410b3aecd/c.html",
+        "publisher": "新华社/新华网",
+        "sourceClass": "A1",
+        "verification": "page_fetched_and_confirmed",
+        "note": "Replaces the seed's secondary_classification. Same notice in research/trackers/npc-terminations.json (session 2025-09-12, election unit 陆军). Also carried by People's Daily 2025-09-13 p.2 (http://paper.people.com.cn/rmrb/pc/content/202509/13/content_30104740.html) and news.cn (https://www.news.cn/20250912/190d8358d91a45e197555507a97b69ec/c.html). Underlying unit decision: 2025-07-18 Army 军人代表大会 per the credentials report."
+      },
+      "intermediateActions": [],
+      "searchLane": "Locate the official notice (NPC revocation, discipline announcement or replacement report) and the last titled appearance",
+      "researchNotes": "Formal action is now anchored to an A1 official notice (2025-09-12 NPCSC announcement, unit decision 2025-07-18), superseding the CASI secondary classification. The last titled appearance verified is 2023-07-29 as Western Theater Command deputy PC / WTC Army PC, i.e. before his December 2023 move to Rocket Force CDI secretary; no titled appearance in the Rocket Force post could be located with the tools available, so the appearance-to-removal gap (about 2 years) overstates the true silence. The CASI seed URL was unreachable (403) but CSIS's sheet independently confirms the case. No formal party/military expulsion notice for Wang was found; the Wikipedia 'expelled October 2025' claim rests on an article that only reports the NPC removal reasons.",
+      "collectionState": "not_yet_collected",
+      "researchConfidence": "medium",
+      "seededUrlChecks": [
+        {
+          "url": "https://www.airuniversity.af.edu/Portals/10/CASI/documents/Research/Other-Topics/2026-07-13%20PLA%20Corruption.pdf?ver=3FCdY-htIjQJMdbipAVSgg%3D%3D",
+          "status": "unreachable",
+          "note": "Both with and without the ?ver query the server returned HTTP 403 'Access Denied' (Akamai edge) from this environment, so the table could not be read. Independent corroboration: the CSIS ChinaPower purge tracker's published Google Sheet (linked from https://chinapower.csis.org/data/chinese-pla-military-purges/) lists Wang Zhibin, 火箭军纪委书记, Purged / Dismissed-Suspended, Date Suspended/Removed 7/18/25, removal authority NPC."
+        }
+      ],
+      "searchLog": [
+        "python3 read of research/adverse-timeline.json and research/trackers/npc-terminations.json (found in 2025-09-12 session, election unit 陆军, note gives Army 军人代表大会 2025-07-18)",
+        "https://zh.wikipedia.org/wiki/汪志斌 (fetched; chronology + reference URLs extracted)",
+        "https://en.wikipedia.org/wiki/Wang_Zhibin (fetched; Downfall section and refs)",
+        "http://www.xinhuanet.com/politics/20250912/423e6f5d55474eeb9bf5b41410b3aecd/c.html (fetched, confirmed name)",
+        "https://zh.wikisource.org/wiki/第十四届全国人民代表大会常务委员会代表资格审查委员会关于个别代表的代表资格的报告 (fetched; report text with 2025-07-18 unit decision and title 火箭军纪律检查委员会原书记、监察委员会原主任)",
+        "https://www.guancha.cn/politics/2025_09_12_789946.shtml (fetched; media profile, latest cited appearance April 2022)",
+        "http://gs.people.com.cn/n2/2023/0730/c183283-40512631.html (fetched, confirmed title and 7月29日 date)",
+        "People's Daily search API http://search.people.cn/search-platform/front/search for 汪志斌 (8 hits, none dated between 2023-07-30 and 2025-09-12), 火箭军纪委书记 (0), 火箭军纪律检查委员会书记 (0)",
+        "https://tv.cctv.com/2024/01/10/VIDEopBvXj1TCgh9JA2LyXaj240110.shtml (fetched; video page text does not name him)",
+        "CSIS ChinaPower purge page + published Google Sheet CSV (fetched; row for Wang Zhibin)",
+        "https://search.cctv.com/search.php?qtext=汪志斌 web and video (no relevant hits)",
+        "https://sousuo.www.gov.cn search for 汪志斌 (0 results)",
+        "https://zh.wikipedia.org/wiki/中国人民解放军火箭军 (fetched; no CDI secretary list naming him)",
+        "Failed/blocked: CASI PDF (403), finance.sina.com.cn 2025-10-16 article and web.archive.org (connection reset), Brave/Mojeek/Yandex/DDG (captcha, 403 or reset), so.news.cn search API (405), 81.cn search (502)"
+      ]
+    },
+    {
+      "id": "PLA-A9A0C8C53955",
+      "nameEn": "Gao Daguang",
+      "nameZh": "高大光",
+      "status": "confirmed removed",
+      "controlledState": "confirmed_exit",
+      "ledgerDate": "2025",
+      "formerRole": "Political commissar, Joint Logistic Support Force",
+      "lastPublicAppearance": {
+        "date": "2024-09-30",
+        "datePrecision": "day",
+        "event": "2024 Hubei provincial Martyrs' Day wreath-laying ceremony at the Huangma Uprising and E-Yu-Wan Soviet memorial park, Hong'an county (2024年湖北省烈士纪念日向英雄烈士敬献花篮仪式), listed among the headline attendees with Wang Menghui and Wang Zhonglin",
+        "titleZh": "联勤保障部队政治委员",
+        "url": "https://www.hubei.gov.cn/zwgk/hbyw/hbywqb/202410/t20241001_5356736.shtml",
+        "publisher": "湖北省人民政府门户网站 (source 湖北日报)",
+        "sourceClass": "A3",
+        "verification": "page_fetched_and_confirmed",
+        "note": "Page fetched; headline reads 王蒙徽王忠林高大光孙伟诸葛宇杰出席 and the text names 联勤保障部队政治委员高大光 at the 9月30日 ceremony. Guancha (2025-09-12) and Beijing Daily-derived reports on the removal also cite this 2024-09-30 Hubei event as his last known public appearance, and Hubei's 2025-10-01 Martyrs' Day report (https://www.hubei.gov.cn/zwgk/hbyw/hbywqb/202510/t20251001_5783983.shtml) lists no JLSF commissar. Possible later appearances in Hubei/Wuhan military-civil events between January and July 2025 could not be checked: the hubei.gov.cn news index only reaches back to about September 2025, its site search is unreachable, and web search engines were unavailable."
+      },
+      "firstConcreteSignal": {
+        "date": "2025-09-12",
+        "kind": "npc_seat_revoked",
+        "event": "NPC Standing Committee announcement No. 12 (14th NPC): 中央军委后勤保障部军人代表大会决定罢免张林、高大光的第十四届全国人民代表大会代表职务; the credentials-committee report identifies him as 联勤保障部队原政治委员, removed 因涉嫌严重违纪违法, with the unit-level decision dated 2025-07-21",
+        "url": "http://www.xinhuanet.com/politics/20250912/423e6f5d55474eeb9bf5b41410b3aecd/c.html",
+        "publisher": "新华社/新华网",
+        "sourceClass": "A1",
+        "verification": "page_fetched_and_confirmed",
+        "note": "First public signal found. The 2025-07-21 Logistic Support Department 军人代表大会 decision became public only with this 2025-09-12 announcement; report text (NPCSC Bulletin 2025 No. 5, pp. 173-174, http://www.npc.gov.cn/npc/c2/c30834/202510/P020251015315268637401.pdf) read via the Wikisource transcription https://zh.wikisource.org/wiki/第十四届全国人民代表大会常务委员会代表资格审查委员会关于个别代表的代表资格的报告. CSIS ChinaPower's sheet records 'Date Dismissed/Replaced 9/12/25'. No earlier press report or successor naming found; zh.wikipedia still lists the JLSF political commissar post as 暂缺."
+      },
+      "formalAction": {
+        "date": "2025-09-12",
+        "kind": "npc_seat_revoked",
+        "event": "全国人民代表大会常务委员会公告〔十四届〕第十二号 — NPC deputy qualification terminated (中央军委后勤保障部军人代表大会决定罢免张林、高大光的第十四届全国人民代表大会代表职务), stated reason 因涉嫌严重违纪违法",
+        "url": "http://www.xinhuanet.com/politics/20250912/423e6f5d55474eeb9bf5b41410b3aecd/c.html",
+        "publisher": "新华社/新华网",
+        "sourceClass": "A1",
+        "verification": "page_fetched_and_confirmed",
+        "note": "Replaces the seed's secondary_classification. Same notice in research/trackers/npc-terminations.json (session 2025-09-12, election unit 中央军委后勤保障部). Also carried by People's Daily 2025-09-13 p.2 (http://paper.people.com.cn/rmrb/pc/content/202509/13/content_30104740.html) and news.cn (https://www.news.cn/20250912/190d8358d91a45e197555507a97b69ec/c.html). Underlying unit decision: 2025-07-21 per the credentials report."
+      },
+      "intermediateActions": [],
+      "searchLane": "Locate the official notice (NPC revocation, discipline announcement or replacement report) and the last titled appearance",
+      "researchNotes": "Formal action now anchored to the A1 2025-09-12 NPCSC announcement (unit decision 2025-07-21), superseding the CASI classification. Last titled appearance 2024-09-30 at the Hubei Martyrs' Day ceremony is confirmed from the provincial government page and is the same event Chinese media identified as his last public appearance when reporting the removal; about 9.5 months of silence before the unit decision and 11.5 months before the public notice. Residual uncertainty: Hubei/Wuhan military-civil events of January-July 2025 could not be checked with the tools available. CASI seed URL unreachable (403) but CSIS's sheet independently confirms the case; JLSF political commissar post still shown as vacant on zh.wikipedia.",
+      "collectionState": "not_yet_collected",
+      "researchConfidence": "high",
+      "seededUrlChecks": [
+        {
+          "url": "https://www.airuniversity.af.edu/Portals/10/CASI/documents/Research/Other-Topics/2026-07-13%20PLA%20Corruption.pdf?ver=3FCdY-htIjQJMdbipAVSgg%3D%3D",
+          "status": "unreachable",
+          "note": "HTTP 403 'Access Denied' (Akamai edge) with and without the ?ver query, so the table could not be read from this environment. Independent corroboration: the CSIS ChinaPower purge tracker's published Google Sheet lists Gao Daguang, Political Commissar of the Joint Logistics Support Force, Purged / Dismissed-Suspended, Date Dismissed/Replaced 9/12/25, removal authority NPC."
+        }
+      ],
+      "searchLog": [
+        "python3 read of research/adverse-timeline.json and research/trackers/npc-terminations.json (found in 2025-09-12 session, election unit 中央军委后勤保障部, note gives unit 军人代表大会 2025-07-21)",
+        "https://zh.wikipedia.org/wiki/高大光 (fetched; chronology + reference URLs extracted)",
+        "https://en.wikipedia.org/wiki/Gao_Daguang (fetched)",
+        "https://www.hubei.gov.cn/zwgk/hbyw/hbywqb/202410/t20241001_5356736.shtml (fetched, confirmed title and 9月30日 date)",
+        "http://www.xinhuanet.com/politics/20250912/423e6f5d55474eeb9bf5b41410b3aecd/c.html (fetched, confirmed name)",
+        "https://zh.wikisource.org/wiki/第十四届全国人民代表大会常务委员会代表资格审查委员会关于个别代表的代表资格的报告 (fetched; 2025-07-21 unit decision, title 联勤保障部队原政治委员)",
+        "https://www.guancha.cn/politics/2025_09_12_789946.shtml (fetched; cites the 2024-09-30 Hubei event as his last titled appearance)",
+        "https://zh.wikipedia.org/wiki/中国人民解放军联勤保障部队 and /王立岩 and /王抗平 (fetched; leadership lists, no 2025 refs naming Gao; PC post shown as 暂缺)",
+        "People's Daily search API for 高大光 (14 hits, latest genuine mention 2025-09-12 notice; nothing after 2024-09-30 before that) and 联勤保障部队政委/政治委员 (no post-2023 hits)",
+        "hubei.gov.cn news index pages index_1..index_75 probed (coverage ends ~2025-09-30; Jan-Jul 2025 pages not reachable) and 2025-10-01 Martyrs' Day page listing (no JLSF commissar)",
+        "Brave search (one successful query) surfaced Guancha/Sina/Tencent/Qingdao epaper reports all citing 2024-09-30 as last appearance; later Brave queries captcha-blocked",
+        "https://search.cctv.com/search.php?qtext=高大光 web and video (no relevant hits)",
+        "CSIS ChinaPower purge page + published Google Sheet CSV (fetched; row for Gao Daguang)",
+        "Failed/blocked: CASI PDF (403), web.archive.org CDX (egress policy), hubei.gov.cn site search and 81.cn search (502/reset), so.news.cn API (405), Mojeek/Yandex/DDG (403/captcha/reset)"
+      ]
+    },
+    {
+      "id": "PLA-FEE1B1F55821",
+      "nameEn": "Zhang Hongbing",
+      "nameZh": "张红兵",
+      "status": "confirmed removed",
+      "controlledState": "confirmed_exit",
+      "ledgerDate": "2025",
+      "formerRole": "Political commissar, People's Armed Police",
+      "lastPublicAppearance": null,
+      "firstConcreteSignal": null,
+      "formalAction": {
+        "date": "2025",
+        "kind": "secondary_classification",
+        "url": "https://www.airuniversity.af.edu/Portals/10/CASI/documents/Research/Other-Topics/2026-07-13%20PLA%20Corruption.pdf?ver=3FCdY-htIjQJMdbipAVSgg%3D%3D",
+        "sourceClass": "B1",
+        "note": "CASI's July 2026 table records the officer as officially investigated or removed; no dated official notice is held in this repository"
+      },
+      "intermediateActions": [],
+      "searchLane": "Locate the official notice (NPC revocation, discipline announcement or replacement report) and the last titled appearance",
+      "researchNotes": null,
+      "collectionState": "not_yet_collected"
+    },
+    {
+      "id": "PLA-332C6F2F3E2E",
+      "nameEn": "Chang Dingqiu",
+      "nameZh": "常丁求",
+      "status": "missing-potential",
+      "controlledState": "unresolved_adverse_watch",
+      "ledgerDate": "2025",
+      "formerRole": "Commander, PLA Air Force",
+      "lastPublicAppearance": null,
+      "firstConcreteSignal": {
+        "date": "2025",
+        "kind": "secondary_classification",
+        "url": "https://chinapower.csis.org/data/chinese-pla-military-purges/",
+        "sourceClass": "B1",
+        "note": "CASI and CSIS classify the officer as missing or potentially under investigation after loss of normal visibility; no official notice located by the cutoff"
+      },
+      "formalAction": null,
+      "intermediateActions": [
+        {
+          "date": "2026-07-03",
+          "kind": "replacement_named",
+          "url": "https://www.news.cn/politics/leaders/20260703/e7a831d5766e4c9e89ca8b4c599e0625/c.html",
+          "sourceClass": "A2",
+          "note": "Wang Gang promoted and named PLA Air Force commander on 3 July 2026"
+        }
+      ],
+      "searchLane": "Not researched in this pass; last titled appearance and any replacement report are the closure evidence",
+      "researchNotes": null,
+      "collectionState": "not_yet_collected"
+    },
+    {
+      "id": "PLA-1B6B1529193A",
+      "nameEn": "Yu Qingjiang",
+      "nameZh": "俞庆江",
+      "status": "missing-potential",
+      "controlledState": "unresolved_adverse_watch",
+      "ledgerDate": "2025",
+      "formerRole": "Deputy commander, PLA Air Force",
+      "lastPublicAppearance": null,
+      "firstConcreteSignal": {
+        "date": "2025",
+        "kind": "secondary_classification",
+        "url": "https://chinapower.csis.org/data/chinese-pla-military-purges/",
+        "sourceClass": "B1",
+        "note": "CASI and CSIS classify the officer as missing or potentially under investigation after loss of normal visibility; no official notice located by the cutoff"
+      },
+      "formalAction": null,
+      "intermediateActions": [],
+      "searchLane": "Not researched in this pass; last titled appearance and any replacement report are the closure evidence",
+      "researchNotes": null,
+      "collectionState": "not_yet_collected"
+    },
+    {
+      "id": "PLA-741A5C9F0648",
+      "nameEn": "Chen Hui",
+      "nameZh": "陈辉",
+      "status": "missing-potential",
+      "controlledState": "unresolved_adverse_watch",
+      "ledgerDate": "2025",
+      "formerRole": "Political commissar, PLA Army",
+      "lastPublicAppearance": null,
+      "firstConcreteSignal": {
+        "date": "2025",
+        "kind": "secondary_classification",
+        "url": "https://chinapower.csis.org/data/chinese-pla-military-purges/",
+        "sourceClass": "B1",
+        "note": "CASI and CSIS classify the officer as missing or potentially under investigation after loss of normal visibility; no official notice located by the cutoff"
+      },
+      "formalAction": null,
+      "intermediateActions": [],
+      "searchLane": "Not researched in this pass; last titled appearance and any replacement report are the closure evidence",
+      "researchNotes": null,
+      "collectionState": "not_yet_collected"
+    },
+    {
+      "id": "PLA-021307F7DEEA",
+      "nameEn": "Li Zhonglin",
+      "nameZh": "李中林",
+      "status": "missing-potential",
+      "controlledState": "unresolved_adverse_watch",
+      "ledgerDate": "2025",
+      "formerRole": "Chief of staff, PLA Army",
+      "lastPublicAppearance": null,
+      "firstConcreteSignal": {
+        "date": "2025",
+        "kind": "secondary_classification",
+        "url": "https://chinapower.csis.org/data/chinese-pla-military-purges/",
+        "sourceClass": "B1",
+        "note": "CASI and CSIS classify the officer as missing or potentially under investigation after loss of normal visibility; no official notice located by the cutoff"
+      },
+      "formalAction": null,
+      "intermediateActions": [],
+      "searchLane": "Not researched in this pass; last titled appearance and any replacement report are the closure evidence",
+      "researchNotes": null,
+      "collectionState": "not_yet_collected"
+    },
+    {
+      "id": "PLA-C8C7933C4FF8",
+      "nameEn": "Hu Zhongming",
+      "nameZh": "胡中明",
+      "status": "missing-potential",
+      "controlledState": "unresolved_adverse_watch",
+      "ledgerDate": "2025",
+      "formerRole": "Commander, PLA Navy",
+      "lastPublicAppearance": null,
+      "firstConcreteSignal": {
+        "date": "2025",
+        "kind": "secondary_classification",
+        "url": "https://chinapower.csis.org/data/chinese-pla-military-purges/",
+        "sourceClass": "B1",
+        "note": "CASI and CSIS classify the officer as missing or potentially under investigation after loss of normal visibility; no official notice located by the cutoff"
+      },
+      "formalAction": null,
+      "intermediateActions": [],
+      "searchLane": "Not researched in this pass; last titled appearance and any replacement report are the closure evidence",
+      "researchNotes": null,
+      "collectionState": "not_yet_collected"
+    },
+    {
+      "id": "PLA-3AF321FF627C",
+      "nameEn": "Xu Xisheng",
+      "nameZh": "徐西盛",
+      "status": "missing-potential",
+      "controlledState": "unresolved_adverse_watch",
+      "ledgerDate": "2025",
+      "formerRole": "Political commissar, PLA Rocket Force",
+      "lastPublicAppearance": null,
+      "firstConcreteSignal": {
+        "date": "2025",
+        "kind": "secondary_classification",
+        "url": "https://chinapower.csis.org/data/chinese-pla-military-purges/",
+        "sourceClass": "B1",
+        "note": "CASI and CSIS classify the officer as missing or potentially under investigation after loss of normal visibility; no official notice located by the cutoff"
+      },
+      "formalAction": null,
+      "intermediateActions": [],
+      "searchLane": "Not researched in this pass; last titled appearance and any replacement report are the closure evidence",
+      "researchNotes": null,
+      "collectionState": "not_yet_collected"
+    },
+    {
+      "id": "PLA-CD15E18BAED2",
+      "nameEn": "Liu Qingsong",
+      "nameZh": "刘青松",
+      "status": "missing-potential",
+      "controlledState": "unresolved_adverse_watch",
+      "ledgerDate": "2025",
+      "formerRole": "Political commissar, Eastern Theater Command",
+      "lastPublicAppearance": null,
+      "firstConcreteSignal": {
+        "date": "2025",
+        "kind": "secondary_classification",
+        "url": "https://chinapower.csis.org/data/chinese-pla-military-purges/",
+        "sourceClass": "B1",
+        "note": "CASI and CSIS classify the officer as missing or potentially under investigation after loss of normal visibility; no official notice located by the cutoff"
+      },
+      "formalAction": null,
+      "intermediateActions": [],
+      "searchLane": "Not researched in this pass; last titled appearance and any replacement report are the closure evidence",
+      "researchNotes": null,
+      "collectionState": "not_yet_collected"
+    },
+    {
+      "id": "PLA-93B67C31752E",
+      "nameEn": "Li Shangfu",
+      "nameZh": "李尚福",
+      "status": "confirmed removed",
+      "controlledState": "confirmed_exit",
+      "ledgerDate": "2024-06-27",
+      "formerRole": "CMC member and minister of national defense",
+      "lastPublicAppearance": {
+        "date": "2023-08-29",
+        "datePrecision": "day",
+        "event": "第三届中非和平安全论坛全体会议 (Beijing): attended and gave the keynote; same day met defence leaders of Senegal, Comoros, Congo-Brazzaville, Cameroon, Ghana, Zambia, South Sudan, Gambia, Mauritania, Uganda and the AU Commission commissioner",
+        "titleZh": "国务委员兼国防部长",
+        "url": "http://paper.people.com.cn/rmrb/html/2023-08/30/nw.D110000renmrb_20230830_5-03.htm",
+        "publisher": "人民日报 (2023-08-30 第03版, 本报北京8月29日电)",
+        "sourceClass": "A2",
+        "verification": "page_fetched_and_confirmed",
+        "note": "Page text read: '第三届中非和平安全论坛全体会议29日在北京举行...国务委员兼国防部长李尚福出席会议并作主旨发言。' RFA (2023-09-12) and en/zh Wikipedia both identify this 29 Aug 2023 forum as his last public appearance; Xinhua carried the same report that day but the Xinhua URL could not be recovered (no working search). People's Daily print titles for 2023-08-30 to 2023-09-05 (pages 1-4) contain no later Li item; CCTV 新闻联播 title scan for all of Aug 2023 has no Li item either. No plausibly later appearance found."
+      },
+      "firstConcreteSignal": {
+        "date": "2023-09-12",
+        "kind": "absence_noted",
+        "event": "RFA report '李尚福久未露面 外界质疑中国极权体制' noting Li had not appeared publicly for nearly two weeks since the 29 Aug China-Africa Peace and Security Forum, with no Chinese-media coverage of any activity since",
+        "url": "https://www.rfa.org/mandarin/yataibaodao/zhengzhi/wy2-09122023115437.html",
+        "publisher": "Radio Free Asia (普通话)",
+        "sourceClass": "B2",
+        "verification": "page_fetched_and_confirmed",
+        "note": "Earlier than the seeded 2023-10-24 state-office removal. Page fetched: dated 2023.09.12, names Li with title 国务委员兼国防部长 and the 29 Aug forum as the last sighting. Possibly earlier public signals not verifiable here: US Ambassador Rahm Emanuel's X post of ~2023-09-08 (referenced by VOA 2023-09-16, https://www.voachinese.com/a/li-shangfu-missing-20230915/7270354.html, fetched) and FT/Reuters reports of 2023-09-14/15 that Washington believed Li was under investigation (reuters.com returns 401 through the proxy; ft.com not attempted). Officially, the 2024-06-27 Xinhua notice states the CMC discipline investigation was opened 2023-08-31, but that was not public at the time. The seeded 2023-10-24 removal remains the first official action (see seededUrlChecks for working URLs)."
+      },
+      "formalAction": {
+        "date": "2024-06-27",
+        "kind": "expulsion_announced",
+        "url": "https://www.news.cn/politics/20240627/112b13a716af4c68af5f9af568532d84/c.html",
+        "sourceClass": "A1",
+        "note": "Expelled from the Party and the military, stripped of general rank, and referred for prosecution, announced 27 June 2024"
+      },
+      "intermediateActions": [],
+      "searchLane": "Xinhua Aug 2023: last titled appearance (e.g. 29 August 2023 China–Africa Peace and Security Forum, Beijing)",
+      "researchNotes": "Last titled appearance is solid (People's Daily 2023-08-30 p3, 本报北京8月29日电, title 国务委员兼国防部长). Xinhua's own 2023-08-29 story exists (cited by RFA) but its URL could not be recovered without search. First public signal: media-noted absence from 2023-09-12 (RFA), with the US-official-sourced FT/Reuters reports of 2023-09-14/15 and Emanuel's ~2023-09-08 post plausibly earlier but not fetchable here. Official chronology from the 2024-06-27 notice: investigation opened 2023-08-31 (two days after the forum); removed as 国务委员/国防部长 and state CMC member 2023-10-24; expelled from Party/military 2024-06-27; 20th CC 3rd plenum confirmed expulsion 2024-07-18; NPC deputy seat 罢免 announced 2024-09-13 (tracker). Seed formalAction left unchanged (not secondary); seeded 2023-10-24 Xinhua URL is dead and should be replaced with the npc.gov.cn / gov.cn URLs above.",
+      "collectionState": "not_yet_collected",
+      "researchConfidence": "high",
+      "seededUrlChecks": [
+        {
+          "url": "https://www.news.cn/politics/20231024/c0f18d5d11d84c8ebac7f6b5f14f2b74/c.html",
+          "status": "unreachable",
+          "note": "Returns Xinhua 404 ('您要访问的页面不存在或已被删除'). Working official pages for the same 2023-10-24 action: 主席令第十四号 http://www.npc.gov.cn/npc/c2/c30834/202310/t20231024_432486.html ('免去李尚福的国务委员、国防部部长职务'), 全国人大常委会决定免职的名单 http://www.npc.gov.cn/npc/c2/c30834/202310/t20231024_432489.html ('免去李尚福的中华人民共和国中央军事委员会委员职务'), and the gov.cn Xinhua reprint of the closing-session report https://www.gov.cn/yaowen/liebiao/202310/content_6911357.htm (all fetched and confirmed)."
+        },
+        {
+          "url": "https://www.news.cn/politics/20240627/112b13a716af4c68af5f9af568532d84/c.html",
+          "status": "confirmed",
+          "note": "Fetched: '中央军委原委员、原国务委员兼国防部长李尚福受到开除党籍处分', 2024-06-27 18:03; states investigation opened 2023-08-31, expulsion from Party, referral to military procuratorate, prior expulsion from the military and revocation of 陆军上将 rank."
+        }
+      ],
+      "searchLog": [
+        "Read research/adverse-timeline.json record and research/trackers/npc-terminations.json (Li: NPC deputy seat 罢免 2024-09-13 session, 中央军委办公厅 军人代表大会 2024-07-11, https://m.12371.gov.cn/content/2024-09/13/content_472927.html)",
+        "Fetched seeded URLs (Xinhua 2023-10-24 -> 404; Xinhua 2024-06-27 -> confirmed)",
+        "zh.wikipedia.org/wiki/李尚福 and en.wikipedia.org/wiki/Li_Shangfu read; references followed (npc.gov.cn 2023-10-24 pages, gov.cn content_6911357, Xinhua 2023-03-12 主席令第二号 appointment page c_1129428794)",
+        "CSIS ChinaPower purge database page + published xlsx read (Li row: removed 2023-10-24, expelled 2024-06-27; no last-appearance field)",
+        "CCTV search.cctv.com and 新闻联播 day pages (tv.cctv.com/lm/xwlb/day/2023MMDD.shtml) scanned for Aug 2023 titles: no Li item",
+        "People's Daily print edition (paper.people.com.cn) 2023-08-30 pages 1-4 indexed; forum report on p3 fetched and confirmed; 2023-08-30..09-05 pages 1-4 titles scanned for later Li items: none",
+        "RFA 2023-09-12 and VOA Chinese 2023-09-16/17/29 pieces fetched for earliest absence reporting; Reuters (401) and RFI (403) blocked; Xinhua so.news.cn/search.news.cn search API blocked by WAF (405); web.archive.org blocked by egress policy; Baidu returns captcha"
+      ]
+    },
+    {
+      "id": "PLA-67C49940F609",
+      "nameEn": "Wei Fenghe",
+      "nameZh": "魏凤和",
+      "status": "confirmed removed",
+      "controlledState": "confirmed_exit",
+      "ledgerDate": "2024-06-27",
+      "formerRole": "Former CMC member and minister of national defense",
+      "lastPublicAppearance": {
+        "date": "2023-01-06",
+        "datePrecision": "day",
+        "event": "Met Turkmenistan Defence Minister Gundogdyev in Beijing (魏凤和会见土库曼斯坦国防部长)",
+        "titleZh": "国务委员兼国防部长",
+        "url": "http://paper.people.com.cn/rmrb/html/2023-01/07/nw.D110000renmrb_20230107_3-03.htm",
+        "publisher": "人民日报 (2023-01-07 第03版, 本报北京1月6日电)",
+        "sourceClass": "A2",
+        "verification": "page_fetched_and_confirmed",
+        "note": "Page text read: '国务委员兼国防部长魏凤和6日在京会见土库曼斯坦国防部长贡多格德耶夫'. Later official-media namings exist but WITHOUT a title: People's Daily 2023-03-06 p1 '十四届全国人大一次会议在京开幕' lists 魏凤和 among '在主席台就座的还有' (2023-03-05), and People's Daily 2023-03-14 p1 '十四届全国人大一次会议在京闭幕' lists him again on the rostrum among outgoing leaders (2023-03-13, http://paper.people.com.cn/rmrb/html/2023-03/14/nw.D110000renmrb_20230314_1-01.htm) - his last official-media appearance before retirement. Caveat: only People's Daily print headline scans (pages 1-8, 2023-01-01..03-13) and CCTV 新闻联播 titles (Feb-Mar 2023) were searchable; a titled MND/军事报道 item from Jan-Mar 2023 could exist but was not found (mod.gov.cn archives online go back only to mid-2024)."
+      },
+      "firstConcreteSignal": {
+        "date": "2023-08-31",
+        "kind": "press_report",
+        "event": "At the MND regular press conference of 31 Aug 2023, a reporter asked about Rocket Force leadership changes and the whereabouts of former defence minister Wei Fenghe; spokesman 吴谦 replied '有案必查，有腐必惩'. Reuters reported it the same day; VOA Chinese and RFA carried it on 2023-09-01",
+        "url": "https://www.voachinese.com/a/china-s-defence-ministry-vows-to-crack-down-on-corruption-20230831/7249636.html",
+        "publisher": "VOA Chinese (美国之音), citing Reuters",
+        "sourceClass": "B2",
+        "verification": "page_fetched_and_confirmed",
+        "note": "Seed was null. VOA page (dated 2023年9月1日, URL slug 20230831) fetched: '中国国防部星期四(8月31日)在被问到火箭军高层人事变更以及前国防部长魏凤和消失数月时誓言...有案必查，有腐必惩'. Corroborated by RFA 2023-09-01 https://www.rfa.org/mandarin/Xinwen/9-09012023161655.html (fetched). Reuters original https://www.reuters.com/world/china/china-defence-ministry-we-will-crack-down-every-corrupt-official-2023-08-31/ returns 401 via proxy; MND's own transcript is not in its online archive (list only reaches mid-2024). Later signals: absent from the 2023-09-28 National Day reception - People's Daily 2023-09-29 p1 attendance list fetched and contains no 魏凤和 while listing 迟浩田 etc.; noted by 星岛/CNA 2023-09-30 https://www.cna.com.tw/news/acn/202309300127.aspx (fetched); omitted from the 2024-02-07 Xinhua pre-Spring Festival 看望老同志 list (RFI 2024-02-07, not fetchable, 403). The 2024-06-27 notice states the CMC investigation was opened 2023-09-21."
+      },
+      "formalAction": {
+        "date": "2024-06-27",
+        "kind": "expulsion_announced",
+        "url": "https://www.news.cn/politics/20240627/05994521863f4f89979be5f99e445845/c.html",
+        "sourceClass": "A1",
+        "note": "Expelled from the Party and the military, stripped of general rank, and referred for prosecution, announced 27 June 2024"
+      },
+      "intermediateActions": [],
+      "searchLane": "Xinhua naming 魏凤和 after retirement (March 2023 NPC) and before June 2024",
+      "researchNotes": "Wei retired at the 14th NPC (12 Mar 2023). His last TITLED official-media appearance found is 2023-01-06 (People's Daily 2023-01-07: 国务委员兼国防部长魏凤和会见土库曼斯坦国防部长); the last official-media naming of any kind before retirement is the 2023-03-13 NPC closing rostrum list (untitled). Confidence is medium because only headline-level scans of People's Daily and CCTV were possible; MND-site items (魏凤和会见/通话) from Jan-Mar 2023 may exist but the MND archive no longer serves 2023 content and Xinhua search is blocked. First public signal set to the 2023-08-31 MND press-conference question about his whereabouts (Reuters, via VOA/RFA, B2); the officially stated investigation date is 2023-09-21 (disclosed only 2024-06-27); 2023-09-28 National Day reception absence is confirmed from the People's Daily attendance list. Seed formalAction (A1 Xinhua 2024-06-27) unchanged; note the 2026-05-07 military court sentence (Xinhua https://www.news.cn/20260507/d68c97ec93444f62afb67f849c084bf3/c.html, cited by Wikipedia) as a later action.",
+      "collectionState": "not_yet_collected",
+      "researchConfidence": "medium",
+      "seededUrlChecks": [
+        {
+          "url": "https://www.news.cn/politics/20240627/05994521863f4f89979be5f99e445845/c.html",
+          "status": "confirmed",
+          "note": "Fetched: '中央军委原委员、原国务委员兼国防部长魏凤和受到开除党籍处分', 2024-06-27 18:03; states investigation opened 2023-09-21, expulsion from Party, termination of 20th Congress delegate status, referral to military procuratorate, prior expulsion from the military and revocation of 火箭军上将 rank."
+        }
+      ],
+      "searchLog": [
+        "Read research/adverse-timeline.json record and research/trackers/npc-terminations.json (Wei not an NPC-deputy termination; tracker notes the 2024-06-27 expulsion is a Party action)",
+        "Fetched seeded Xinhua 2024-06-27 URL (confirmed)",
+        "zh.wikipedia.org/wiki/魏凤和, en.wikipedia.org/wiki/Wei_Fenghe and zh.wikipedia.org/wiki/2023年中国火箭军腐败案 read; references followed (RFA 2023-09-01, CNA 2023-09-30, VOA, Xinhua 2024 NPC 公告 pages; RFI pages blocked 403; chosun blocked)",
+        "CSIS ChinaPower purge xlsx read (Wei row: investigation 2023-09-21, expelled 2024-06-27; no last-appearance field)",
+        "CCTV 新闻联播 day pages 2023-02-01..03-14 scanned for 魏凤和 titles: none; CCTV video pages for NPC sessions mostly 404",
+        "People's Daily print (paper.people.com.cn) title scan for '魏凤和|国防部长', 2023-01-01..2023-03-13, pages 1-4 then pages 5-8: single hit 2023-01-07 p3 (fetched and confirmed); NPC opening (2023-03-06 p1) and closing (2023-03-14 p1) reports fetched: Wei named on rostrum without title; 2023-03-08/11/12 session reports checked (政协闭幕 2023-03-12 p1 also lists him untitled)",
+        "People's Daily 2023-09-29 p1 National Day reception report fetched: 魏凤和 absent from attendance list",
+        "People's Daily 2024-05-07 p2 乌云其木格 funeral report fetched: no wreath list naming Wei (RFI's 2024-05-07 claim not verifiable from the print text)",
+        "VOA Chinese site search for 魏凤和 and 李尚福 (Aug-Oct 2023 items) fetched; mod.gov.cn reachable over http but its 例行记者会 archive starts mid-2024, so the 2023-08-31 transcript was not retrievable"
+      ]
+    },
+    {
+      "id": "PLA-18BC642ED866",
+      "nameEn": "Deng Zhiping",
+      "nameZh": "邓志平",
+      "status": "confirmed removed",
+      "controlledState": "confirmed_exit",
+      "ledgerDate": "2024",
+      "formerRole": "Deputy commander, PLA Army",
+      "lastPublicAppearance": null,
+      "firstConcreteSignal": null,
+      "formalAction": {
+        "date": "2024",
+        "kind": "secondary_classification",
+        "url": "https://www.airuniversity.af.edu/Portals/10/CASI/documents/Research/Other-Topics/2026-07-13%20PLA%20Corruption.pdf?ver=3FCdY-htIjQJMdbipAVSgg%3D%3D",
+        "sourceClass": "B1",
+        "note": "CASI's July 2026 table records the officer as officially investigated or removed; no dated official notice is held in this repository"
+      },
+      "intermediateActions": [],
+      "searchLane": "Locate the official notice and the last titled appearance",
+      "researchNotes": null,
+      "collectionState": "not_yet_collected"
+    },
+    {
+      "id": "PLA-C370FAB63E5C",
+      "nameEn": "You Haitao",
+      "nameZh": "尤海涛",
+      "status": "confirmed removed",
+      "controlledState": "confirmed_exit",
+      "ledgerDate": "2024",
+      "formerRole": "Former deputy commander, PLA Army",
+      "lastPublicAppearance": null,
+      "firstConcreteSignal": null,
+      "formalAction": {
+        "date": "2024",
+        "kind": "secondary_classification",
+        "url": "https://www.airuniversity.af.edu/Portals/10/CASI/documents/Research/Other-Topics/2026-07-13%20PLA%20Corruption.pdf?ver=3FCdY-htIjQJMdbipAVSgg%3D%3D",
+        "sourceClass": "B1",
+        "note": "CASI's July 2026 table records the officer as officially investigated or removed; no dated official notice is held in this repository"
+      },
+      "intermediateActions": [],
+      "searchLane": "Locate the official notice and the last titled appearance",
+      "researchNotes": null,
+      "collectionState": "not_yet_collected"
+    },
+    {
+      "id": "PLA-F5FF0EFCF54E",
+      "nameEn": "Sun Jinming",
+      "nameZh": "孙金明",
+      "status": "confirmed removed",
+      "controlledState": "confirmed_exit",
+      "ledgerDate": "2024",
+      "formerRole": "Chief of staff, PLA Rocket Force",
+      "lastPublicAppearance": null,
+      "firstConcreteSignal": null,
+      "formalAction": {
+        "date": "2024",
+        "kind": "secondary_classification",
+        "url": "https://www.airuniversity.af.edu/Portals/10/CASI/documents/Research/Other-Topics/2026-07-13%20PLA%20Corruption.pdf?ver=3FCdY-htIjQJMdbipAVSgg%3D%3D",
+        "sourceClass": "B1",
+        "note": "CASI's July 2026 table records the officer as officially investigated or removed; no dated official notice is held in this repository"
+      },
+      "intermediateActions": [],
+      "searchLane": "Locate the official notice and the last titled appearance",
+      "researchNotes": null,
+      "collectionState": "not_yet_collected"
+    },
+    {
+      "id": "PLA-BE7FA2B57746",
+      "nameEn": "Li Pengcheng",
+      "nameZh": "李鹏程",
+      "status": "confirmed removed",
+      "controlledState": "confirmed_exit",
+      "ledgerDate": "2024",
+      "formerRole": "Commander, Southern Theater Command Navy",
+      "lastPublicAppearance": null,
+      "firstConcreteSignal": null,
+      "formalAction": {
+        "date": "2024",
+        "kind": "secondary_classification",
+        "url": "https://www.airuniversity.af.edu/Portals/10/CASI/documents/Research/Other-Topics/2026-07-13%20PLA%20Corruption.pdf?ver=3FCdY-htIjQJMdbipAVSgg%3D%3D",
+        "sourceClass": "B1",
+        "note": "CASI's July 2026 table records the officer as officially investigated or removed; no dated official notice is held in this repository"
+      },
+      "intermediateActions": [],
+      "searchLane": "Locate the official notice and the last titled appearance",
+      "researchNotes": null,
+      "collectionState": "not_yet_collected"
+    },
+    {
+      "id": "PLA-8A56915D1270",
+      "nameEn": "Li Zhizhong",
+      "nameZh": "李志忠",
+      "status": "confirmed removed",
+      "controlledState": "confirmed_exit",
+      "ledgerDate": "2024",
+      "formerRole": "Deputy commander, Central Theater Command",
+      "lastPublicAppearance": null,
+      "firstConcreteSignal": null,
+      "formalAction": {
+        "date": "2024",
+        "kind": "secondary_classification",
+        "url": "https://www.airuniversity.af.edu/Portals/10/CASI/documents/Research/Other-Topics/2026-07-13%20PLA%20Corruption.pdf?ver=3FCdY-htIjQJMdbipAVSgg%3D%3D",
+        "sourceClass": "B1",
+        "note": "CASI's July 2026 table records the officer as officially investigated or removed; no dated official notice is held in this repository"
+      },
+      "intermediateActions": [],
+      "searchLane": "Locate the official notice and the last titled appearance",
+      "researchNotes": null,
+      "collectionState": "not_yet_collected"
+    },
+    {
+      "id": "PLA-9C06180A6FA8",
+      "nameEn": "Zhang Zhenzhong",
+      "nameZh": "张振中",
+      "status": "confirmed removed",
+      "controlledState": "confirmed_exit",
+      "ledgerDate": "2023-12-29",
+      "formerRole": "Deputy chief, CMC Joint Staff Department; former Rocket Force deputy commander",
+      "lastPublicAppearance": {
+        "date": "2022-06-11",
+        "datePrecision": "day",
+        "event": "Press briefing for Chinese and foreign media during the 19th Shangri-La Dialogue in Singapore, rebutting US Defense Secretary Austin's speech (Xinhua feature 特写：“美国还想搞乱我们亚太吗？我们绝对不允许！”, datelined 新华社新加坡6月11日电)",
+        "titleZh": "中央军委联合参谋部副参谋长",
+        "url": "http://world.people.com.cn/n1/2022/0612/c1002-32444238.html",
+        "publisher": "新华社 (Xinhua text reprinted by 人民网 world.people.com.cn; 来源：新华网)",
+        "sourceClass": "A1",
+        "verification": "page_fetched_and_confirmed",
+        "note": "Page text read (GBK-decoded): '11日中午，中央军委联合参谋部副参谋长张振中中将在香格里拉对话会期间的吹风会上正告美方'. Same appearance independently confirmed by Caixin 2022-06-13 (https://china.caixin.com/2022-06-13/101898188.html, calls it his first appearance in the new post) and China Daily EN 2022-06-12/13. A second Xinhua piece (2022-06-13, http://world.people.com.cn/n1/2022/0613/c1002-32444990.html) quotes him with the same title but reports the 12 June closing day, so the last safely datable titled appearance is 2022-06-11. Caveat: this is 13 months before the 2023-07-07 removal. I found NO dated, titled appearance between 2022-06-12 and 2023-07-07 in any reachable index: people.cn search (all 29 hits for 张振中 reviewed), CCTV search (latest military hit 2022-06-15), China Daily EN search, zh-Wikipedia full-text, and the MOD/81.cn site-search API (mod-search.mod.gov.cn / mil-search.81.cn), whose index only covers the post-migration site (late 2023 onward) and therefore cannot see 2022–2023 MOD 会见 items. He is named without title in the 14th NPC deputy list (Xinhua 2023-02-24, http://www.xinhuanet.com/2023-02/25/c_1129395721.htm, name confirmed in page) and presumably attended the March 2023 NPC session, but no titled report of that was found. Plausibly later MOD/81.cn meeting reports exist in the un-indexed old-site archive."
+      },
+      "firstConcreteSignal": {
+        "date": "2023-07-28",
+        "kind": "press_report",
+        "event": "South China Morning Post report (relayed the same day by Lianhe Zaobao) that CMC discipline inspectors and military auditors were investigating Rocket Force commander Li Yuchao, deputy commander Liu Guangbin and former deputy commander Zhang Zhenzhong, and that the three had been taken away",
+        "url": "https://www.zaobao.com.sg/news/china/story20230728-1418465",
+        "publisher": "联合早报 (Lianhe Zaobao), citing 南华早报 (SCMP) of 2023-07-28",
+        "sourceClass": "B2",
+        "verification": "page_fetched_and_confirmed",
+        "note": "Zaobao page fetched live; it is dated 2023年7月28日 20:42 and names 张振中 as 前副司令员 taken away by CMC anti-corruption investigators, citing SCMP's report of the same day. The SCMP original URL was not retrieved (SCMP search is JS-only), hence the relay is cited. This is the first public dated signal; the actual removal (联合参谋部军人代表大会 罢免 on 2023-07-07, per the 代表资格审查委员会报告 adopted 2023-12-29, read on zh.wikisource) was not made public until the 2023-12-29 NPCSC announcement. Successor 曹青锋 was reported as JSD deputy chief on 2023-12-25 (sina, cited by zh-Wikipedia, not fetched) — later than this signal. The EDD's 2023-07-26 procurement-irregularities notice did not name him."
+      },
+      "formalAction": {
+        "date": "2023-12-29",
+        "kind": "npc_seat_revoked",
+        "url": "https://www.news.cn/politics/20231229/008dddc4119c42c48e7046cf1ca191bc/c.html",
+        "sourceClass": "A1",
+        "note": "NPC seat formally revoked by the relevant military congress, 29 December 2023"
+      },
+      "intermediateActions": [],
+      "searchLane": "Xinhua / 81.cn / CCTV naming the officer with exact title in 2022–2023; Rocket Force leadership change 31 July 2023",
+      "researchNotes": "Last verified titled appearance is the 2022-06-11 Shangri-La Dialogue briefing as 中央军委联合参谋部副参谋长 (Xinhua via people.com.cn, A1). No dated titled appearance found in the 13 months before the 2023-07-07 removal; searchable official indexes (people.cn, CCTV, China Daily) contain nothing, and the MOD/81.cn archive for 2022–mid-2023 is not searchable through the reachable API, so a later 会见-type item may exist. First public signal: SCMP report 2023-07-28 (relayed by Zaobao, fetched) that he had been taken away by CMC investigators. Formal action seed (A1, 2023-12-29 NPCSC 公告) confirmed; the 代表资格审查委员会报告 dates the military-congress 罢免 to 2023-07-07 with title 中央军委联合参谋部原副参谋长, which the record may wish to carry as an intermediate (non-public-at-the-time) action. Seeded URL correct.",
+      "collectionState": "not_yet_collected",
+      "researchConfidence": "medium",
+      "seededUrlChecks": [
+        {
+          "url": "https://www.news.cn/politics/20231229/008dddc4119c42c48e7046cf1ca191bc/c.html",
+          "status": "confirmed",
+          "note": "Fetched; Xinhua 受权发布 全国人民代表大会常务委员会公告〔十四届〕第二号 dated 2023-12-29 20:55, text: '中央军委联合参谋部军人代表大会决定罢免张振中的第十四届全国人民代表大会代表职务' and '张振中……的代表资格终止'. Matches research/trackers/npc-terminations.json entry (2023-12-29, electionUnit 中央军委联合参谋部, 罢免, 因涉嫌严重违纪违法). The underlying 代表资格审查委员会报告 (wikisource transcription) gives the military-congress decision date as 2023-07-07 and the title 中央军委联合参谋部原副参谋长."
+        }
+      ],
+      "searchLog": [
+        "research/adverse-timeline.json record read; research/trackers/npc-terminations.json: 张振中 present in 2023-12-29 session entry (联合参谋部军人代表大会 2023-07-07)",
+        "Fetched seeded Xinhua 公告 page (confirmed)",
+        "zh.wikipedia.org/wiki/张振中 (chronology + references extracted; refs: thepaper 2016, caixin 2022-06-13, zaobao 2023-07-28, news.cn 2023-12-29, npc.gov.cn 公报 PDF)",
+        "zh.wikisource 第十四届全国人大常委会代表资格审查委员会关于个别代表的代表资格的报告 (第七次会议 section read: 2023-07-07 removal, title 中央军委联合参谋部原副参谋长)",
+        "zh.wikipedia 中央军事委员会联合参谋部 (deputy-chief list: 张振中 2022年3月—2023年7月; 曹青锋 from 2023-12)",
+        "zh.wikipedia 火箭军腐败案 (table of removals; SCMP 7/28 report; EDD 7/26 notice)",
+        "en.wikipedia Zhang_Zhenzhong (no later appearance)",
+        "people.cn search API (search.people.cn/search-platform/front/search) '张振中' exact, all 29 hits: latest titled military items 2022-06-12 and 2022-06-13; nothing 2022-07 to 2023-12 except the 公告",
+        "CCTV search (search.cctv.com) '张振中' by date: latest military hit 2022-06-15 (Shangri-La); video search: none",
+        "China Daily EN search API newssearch.chinadaily.com.cn: 'Zhang Zhenzhong' hits 2022-06-12, 2022-06-13, 2022-07-04 (opinion citing June remarks); nothing later",
+        "MOD site search API (mod-search.mod.gov.cn docSearchEasy) and 81.cn (mil-search.81.cn, channel 636) and eng.chinamil (channel 713): only the 2023-12-29 公告; index verified to cover only post-2023 migrated pages (李尚福 test)",
+        "Fetched people.com.cn 2022-06-12 Shangri-La feature (GBK decoded) and 2022-06-13 国际观察 piece; Caixin 2022-06-13; China Daily 2022-06-13",
+        "Fetched Zaobao 2023-07-28 report live (web.archive.org blocked by egress policy)",
+        "CSIS ChinaPower purge page fetched: Flourish-embedded, no per-officer text; analysis page had no Zhang Zhenzhong text",
+        "Xinhua so.news.cn API (405 WAF), search.xinhuanet.com (503), gov.cn search API (empty), Bing/DDG/Yandex/Google (junk or captcha) — all dead ends"
+      ]
+    },
+    {
+      "id": "PLA-A0A95B431235",
+      "nameEn": "Zhang Yulin",
+      "nameZh": "张育林",
+      "status": "confirmed removed",
+      "controlledState": "confirmed_exit",
+      "ledgerDate": "2023-12-29",
+      "formerRole": "Former deputy director, CMC Equipment Development Department",
+      "lastPublicAppearance": {
+        "date": "2023-07-14",
+        "datePrecision": "day",
+        "event": "Led an NPC Financial and Economic Affairs Committee research group to Dongguan, Guangdong, on first-half economic performance (全国人大财经委调研组来莞开展专题调研), visiting China Spallation Neutron Source phase II and local enterprises",
+        "titleZh": "全国人大财经委委员",
+        "url": "http://www.npc.gov.cn/npc/c2/c30834/202307/t20230719_430619.html",
+        "publisher": "中国人大网 npc.gov.cn (reprinting “东莞人大”微信公众号, published 2023-07-19)",
+        "sourceClass": "A1",
+        "verification": "page_fetched_and_confirmed",
+        "note": "Page text read: '7月14日，全国人大财经委委员张育林一行来莞，就上半年经济运行情况开展专题调研' with 省人大财经委副主任委员余立钢、市人大常委会主任骆招群 accompanying. Earlier 2023 titled appearances also verified: 2023-05-10/12 Shandong 特种设备安全法执法检查 as '检查组成员全国人大财经委委员张育林' (npc.gov.cn http://www.npc.gov.cn/npc/c2/c30834/202305/t20230516_429466.html, fetched); 2023-03-29/30 Anhui 财经委调研 as '全国人大财经委委员张育林' (安徽日报 via http://ah.people.com.cn/n2/2023/0401/c358428-40360359.html, fetched); 2023-03-06 财经委全体会议 (CCTV 新闻联播 video, tv.cctv.com 2023-03-07; he is visible in video per zh-Wikipedia but not named in the page text). The NPC 财经委 工作动态 list (npc.gov.cn/npc/bmzz2023/czjjwyh2023/) has no item between 2023-07-19 and 2024-01, and all 18 people.cn hits for 张育林 were reviewed; nothing later than 2023-07-14 found before the 2023-11-28 EDD military-congress removal. He was no longer serving in the EDD (left 2018), so this civilian-NPC title is the operative one."
+      },
+      "firstConcreteSignal": null,
+      "formalAction": {
+        "date": "2023-12-29",
+        "kind": "npc_seat_revoked",
+        "url": "https://www.news.cn/politics/20231229/008dddc4119c42c48e7046cf1ca191bc/c.html",
+        "sourceClass": "A1",
+        "note": "NPC seat formally revoked by the relevant military congress, 29 December 2023"
+      },
+      "intermediateActions": [],
+      "searchLane": "Xinhua / 81.cn / CCTV naming the officer with exact title in 2022–2023; Rocket Force leadership change 31 July 2023",
+      "researchNotes": "Zhang Yulin left the EDD deputy-director post in 2018 and re-entered public life as a 14th NPC deputy and 财政经济委员会 member (elected 2023-03-05). His last verified dated, titled appearance is 2023-07-14 in Dongguan as 全国人大财经委委员 (npc.gov.cn, A1), with earlier verified 财经委 activities on 2023-05-10/12 (Shandong) and 2023-03-29/30 (Anhui). No public signal of trouble was found before the 2023-12-29 NPCSC 公告 (the 装备发展部军人代表大会 罢免 of 2023-11-28 was not public until then), so firstConcreteSignal stays null. Seeded formal-action URL confirmed. Confidence medium only because 财经委 activities from Aug–Nov 2023 that name members might exist on provincial 人大 sites not reachable via the searchable indexes.",
+      "collectionState": "not_yet_collected",
+      "researchConfidence": "medium",
+      "seededUrlChecks": [
+        {
+          "url": "https://www.news.cn/politics/20231229/008dddc4119c42c48e7046cf1ca191bc/c.html",
+          "status": "confirmed",
+          "note": "Fetched; Xinhua 公告〔十四届〕第二号 dated 2023-12-29 20:55 states '中央军委装备发展部军人代表大会决定罢免张育林、饶文敏的第十四届全国人民代表大会代表职务' and '张育林的第十四届全国人民代表大会财政经济委员会委员职务相应撤销'. Matches research/trackers/npc-terminations.json (2023-12-29, electionUnit 中央军委装备发展部, 罢免). The 代表资格审查委员会报告 (wikisource) gives the military-congress decision date as 2023-11-28 and title 全国人大财政经济委员会委员、中央军委装备发展部原副部长."
+        }
+      ],
+      "searchLog": [
+        "research/adverse-timeline.json record read; research/trackers/npc-terminations.json: 张育林 present in 2023-12-29 entry (装备发展部军人代表大会 2023-11-28)",
+        "Fetched seeded Xinhua 公告 page (confirmed)",
+        "zh.wikipedia 张育林 (disambiguation) and 张育林_(解放军) (chronology, references extracted: people 2009, cnsa 2005, 163 2018, xinhuanet deputy list 2023-02-25, thepaper 21990850, tv.cctv.com 2023-03-07, lianghui.people 财经委名单 2023-03-09)",
+        "zh.wikisource 代表资格审查委员会报告 第七次会议 section (2023-11-28 removal date, title)",
+        "people.cn search API '张育林' exact: 18 hits reviewed; relevant 2023 items: 2023-02-24/25 deputy list, 2023-03-08/09 财经委 name lists, 2023-03-12/13 NPC 公告第九号, 2023-04-01 Anhui 调研 (fetched, confirmed), 2023-12-29/30 公告; fuzzy queries '全国人大财经委调研组 委员' and '全国人大财经委 张育林' found no further 2023 items naming him",
+        "npc.gov.cn 财政经济委员会 工作动态 list (both pages) enumerated; fetched 2023-05-16 (山东执法检查, names him), 2023-05-24 (雄安, does not name him), 2023-07-19 (东莞, names him), 2023-03-08 表决办法 page",
+        "CCTV search '张育林' by date: latest relevant items 2018 (as 装备发展部副部长); nothing 2023",
+        "tv.cctv.com 2023-03-07 财经委 video page fetched (text does not name him)",
+        "xinhuanet 2023-02-25 deputy list fetched: 张育林 present (no title)",
+        "thepaper 21990850 (解放军报 2023-02-20 on military deputies) fetched: no individual names",
+        "MOD/81.cn search APIs: only the 2023-12-29 公告 (index limited to post-2023 site)"
+      ]
+    },
+    {
+      "id": "PLA-6D73FF981F3F",
+      "nameEn": "Rao Wenmin",
+      "nameZh": "饶文敏",
+      "status": "confirmed removed",
+      "controlledState": "confirmed_exit",
+      "ledgerDate": "2023-12-29",
+      "formerRole": "Deputy director, CMC Equipment Development Department",
+      "lastPublicAppearance": null,
+      "firstConcreteSignal": null,
+      "formalAction": {
+        "date": "2023-12-29",
+        "kind": "npc_seat_revoked",
+        "url": "https://www.news.cn/politics/20231229/008dddc4119c42c48e7046cf1ca191bc/c.html",
+        "sourceClass": "A1",
+        "note": "NPC seat formally revoked by the relevant military congress, 29 December 2023"
+      },
+      "intermediateActions": [],
+      "searchLane": "Xinhua / 81.cn / CCTV naming the officer with exact title in 2022–2023; Rocket Force leadership change 31 July 2023",
+      "researchNotes": null,
+      "collectionState": "not_yet_collected"
+    },
+    {
+      "id": "PLA-09646680E034",
+      "nameEn": "Ding Laihang",
+      "nameZh": "丁来杭",
+      "status": "confirmed removed",
+      "controlledState": "confirmed_exit",
+      "ledgerDate": "2023-12-29",
+      "formerRole": "Former commander, PLA Air Force",
+      "lastPublicAppearance": null,
+      "firstConcreteSignal": null,
+      "formalAction": {
+        "date": "2023-12-29",
+        "kind": "npc_seat_revoked",
+        "url": "https://www.news.cn/politics/20231229/008dddc4119c42c48e7046cf1ca191bc/c.html",
+        "sourceClass": "A1",
+        "note": "NPC seat formally revoked by the relevant military congress, 29 December 2023"
+      },
+      "intermediateActions": [],
+      "searchLane": "Xinhua / 81.cn / CCTV naming the officer with exact title in 2022–2023; Rocket Force leadership change 31 July 2023",
+      "researchNotes": null,
+      "collectionState": "not_yet_collected"
+    },
+    {
+      "id": "PLA-39B0CD13EDD7",
+      "nameEn": "Li Yuchao",
+      "nameZh": "李玉超",
+      "status": "confirmed removed",
+      "controlledState": "confirmed_exit",
+      "ledgerDate": "2023-12-29",
+      "formerRole": "Commander, PLA Rocket Force",
+      "lastPublicAppearance": null,
+      "firstConcreteSignal": {
+        "date": "2023-07-31",
+        "kind": "replacement_named",
+        "url": "https://www.news.cn/politics/leaders/2023-07/31/c_1129778005.htm",
+        "sourceClass": "A2",
+        "note": "Wang Houbin was promoted and named Rocket Force commander on 31 July 2023, replacing Li Yuchao without an announced reason"
+      },
+      "formalAction": {
+        "date": "2023-12-29",
+        "kind": "npc_seat_revoked",
+        "url": "https://www.news.cn/politics/20231229/008dddc4119c42c48e7046cf1ca191bc/c.html",
+        "sourceClass": "A1",
+        "note": "NPC seat formally revoked by the relevant military congress, 29 December 2023"
+      },
+      "intermediateActions": [],
+      "searchLane": "Xinhua / 81.cn / CCTV naming the officer with exact title in 2022–2023; Rocket Force leadership change 31 July 2023",
+      "researchNotes": null,
+      "collectionState": "not_yet_collected"
+    },
+    {
+      "id": "PLA-8DEEF6607138",
+      "nameEn": "Zhou Yaning",
+      "nameZh": "周亚宁",
+      "status": "confirmed removed",
+      "controlledState": "confirmed_exit",
+      "ledgerDate": "2023-12-29",
+      "formerRole": "Former commander, PLA Rocket Force",
+      "lastPublicAppearance": null,
+      "firstConcreteSignal": null,
+      "formalAction": {
+        "date": "2023-12-29",
+        "kind": "npc_seat_revoked",
+        "url": "https://www.news.cn/politics/20231229/008dddc4119c42c48e7046cf1ca191bc/c.html",
+        "sourceClass": "A1",
+        "note": "NPC seat formally revoked by the relevant military congress, 29 December 2023"
+      },
+      "intermediateActions": [],
+      "searchLane": "Xinhua / 81.cn / CCTV naming the officer with exact title in 2022–2023; Rocket Force leadership change 31 July 2023",
+      "researchNotes": null,
+      "collectionState": "not_yet_collected"
+    },
+    {
+      "id": "PLA-DC27BAE6D6EB",
+      "nameEn": "Li Chuanguang",
+      "nameZh": "李传广",
+      "status": "confirmed removed",
+      "controlledState": "confirmed_exit",
+      "ledgerDate": "2023-12-29",
+      "formerRole": "Deputy commander, PLA Rocket Force",
+      "lastPublicAppearance": null,
+      "firstConcreteSignal": null,
+      "formalAction": {
+        "date": "2023-12-29",
+        "kind": "npc_seat_revoked",
+        "url": "https://www.news.cn/politics/20231229/008dddc4119c42c48e7046cf1ca191bc/c.html",
+        "sourceClass": "A1",
+        "note": "NPC seat formally revoked by the relevant military congress, 29 December 2023"
+      },
+      "intermediateActions": [],
+      "searchLane": "Xinhua / 81.cn / CCTV naming the officer with exact title in 2022–2023; Rocket Force leadership change 31 July 2023",
+      "researchNotes": null,
+      "collectionState": "not_yet_collected"
+    },
+    {
+      "id": "PLA-58431FE2456A",
+      "nameEn": "Lu Hong",
+      "nameZh": "吕宏",
+      "status": "confirmed removed",
+      "controlledState": "confirmed_exit",
+      "ledgerDate": "2023-12-29",
+      "formerRole": "Deputy director, Rocket Force Equipment Department",
+      "lastPublicAppearance": null,
+      "firstConcreteSignal": null,
+      "formalAction": {
+        "date": "2023-12-29",
+        "kind": "npc_seat_revoked",
+        "url": "https://www.news.cn/politics/20231229/008dddc4119c42c48e7046cf1ca191bc/c.html",
+        "sourceClass": "A1",
+        "note": "NPC seat formally revoked by the relevant military congress, 29 December 2023"
+      },
+      "intermediateActions": [],
+      "searchLane": "Xinhua / 81.cn / CCTV naming the officer with exact title in 2022–2023; Rocket Force leadership change 31 July 2023",
+      "researchNotes": null,
+      "collectionState": "not_yet_collected"
+    },
+    {
+      "id": "PLA-B93D70E9B8F0",
+      "nameEn": "Ju Xinchun",
+      "nameZh": "鞠新春",
+      "status": "confirmed removed",
+      "controlledState": "confirmed_exit",
+      "ledgerDate": "2023-12-29",
+      "formerRole": "Commander, Southern Theater Command Navy; former CMC Equipment Development Department deputy director",
+      "lastPublicAppearance": null,
+      "firstConcreteSignal": null,
+      "formalAction": {
+        "date": "2023-12-29",
+        "kind": "npc_seat_revoked",
+        "url": "https://www.news.cn/politics/20231229/008dddc4119c42c48e7046cf1ca191bc/c.html",
+        "sourceClass": "A1",
+        "note": "NPC seat formally revoked by the relevant military congress, 29 December 2023"
+      },
+      "intermediateActions": [],
+      "searchLane": "Xinhua / 81.cn / CCTV naming the officer with exact title in 2022–2023; Rocket Force leadership change 31 July 2023",
+      "researchNotes": null,
+      "collectionState": "not_yet_collected"
+    },
+    {
+      "id": "PLA-F328A25C5611",
+      "nameEn": "Li Tongjian",
+      "nameZh": "李同建",
+      "status": "confirmed removed",
+      "controlledState": "confirmed_exit",
+      "ledgerDate": "2023",
+      "formerRole": "Deputy director, Rocket Force Equipment Department",
+      "lastPublicAppearance": null,
+      "firstConcreteSignal": null,
+      "formalAction": {
+        "date": "2023",
+        "kind": "secondary_classification",
+        "url": "https://www.airuniversity.af.edu/Portals/10/CASI/documents/Research/Other-Topics/2026-07-13%20PLA%20Corruption.pdf?ver=3FCdY-htIjQJMdbipAVSgg%3D%3D",
+        "sourceClass": "B1",
+        "note": "CASI's July 2026 table records the officer as officially investigated or removed; no dated official notice is held in this repository"
+      },
+      "intermediateActions": [],
+      "searchLane": "Locate the official notice and the last titled appearance",
+      "researchNotes": null,
+      "collectionState": "not_yet_collected"
+    },
+    {
+      "id": "PLA-D29AD7B17587",
+      "nameEn": "Ding Xingnong",
+      "nameZh": "丁兴农",
+      "status": "promotion-bypass-unresolved",
+      "controlledState": "unresolved_adverse_watch",
+      "ledgerDate": "2025-10-23",
+      "formerRole": "Reported PLARF deputy political commissar; February 2026 official-event imagery was identified by OSINT as showing him active, but text did not publish his title.",
+      "lastPublicAppearance": null,
+      "firstConcreteSignal": {
+        "date": "2025-10-23",
+        "kind": "party_bypass",
+        "url": "https://www.news.cn/politics/leaders/20251023/d2e8ed117ef3475b8a45a8353c5688c8/c.html",
+        "sourceClass": "A1",
+        "note": "Bypassed when the 20th Central Committee filled vacancies at the Fourth Plenum, 23 October 2025"
+      },
+      "formalAction": null,
+      "intermediateActions": [],
+      "searchLane": "Not researched in this pass; a formal appointment or 21st Congress elevation resolves the case",
+      "researchNotes": null,
+      "collectionState": "not_yet_collected"
+    },
+    {
+      "id": "PLA-154C24F8B2BC",
+      "nameEn": "Fang Yongxiang",
+      "nameZh": "方永祥",
+      "status": "promotion-bypass-unresolved",
+      "controlledState": "unresolved_adverse_watch",
+      "ledgerDate": "2025-10-23",
+      "formerRole": "Reported director, CMC General Office",
+      "lastPublicAppearance": null,
+      "firstConcreteSignal": {
+        "date": "2025-10-23",
+        "kind": "party_bypass",
+        "url": "https://www.news.cn/politics/leaders/20251023/d2e8ed117ef3475b8a45a8353c5688c8/c.html",
+        "sourceClass": "A1",
+        "note": "Bypassed when the 20th Central Committee filled vacancies at the Fourth Plenum, 23 October 2025"
+      },
+      "formalAction": null,
+      "intermediateActions": [],
+      "searchLane": "Not researched in this pass; a formal appointment or 21st Congress elevation resolves the case",
+      "researchNotes": null,
+      "collectionState": "not_yet_collected"
+    }
+  ]
+}

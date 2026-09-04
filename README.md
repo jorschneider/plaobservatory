@@ -1,114 +1,94 @@
 # PLA Leadership Observatory
 
-A source-first, public research site for analyzing Chinese military leadership, promotion pathways, institutional power, and unresolved personnel questions.
+We start from a fixed chart of the PLA's senior positions and ask, for each one, who holds it and how we know. Names enter the site only through a position. A seat we cannot fill is shown as empty, never hidden. Removed officers go to a separate ledger where we record when they were last seen with their title, the first public sign of trouble, and the formal action, and we measure the gaps. Everything else on the site is a narrow tracker that answers one question from a bounded set of official sources.
 
 **Live site:** [pla-leadership-observatory.jordanschneider.chatgpt.site](https://pla-leadership-observatory.jordanschneider.chatgpt.site)
 
-The project is designed to make uncertain personnel analysis inspectable. It separates what a source directly supports from what analysts infer, keeps adverse cases outside the active candidate universe, and treats promotion estimates as conditional structural judgments rather than biographical destiny.
-
 ## Current release
 
-| Field | Value |
-|---|---:|
-| Data cutoff | 2 September 2026 |
-| Active officer dossiers | 151 |
-| Adverse-ledger records | 62 |
-| Person-level source records | 301 |
-| Official-primary/formal-decision sources | 179 |
-| Research gaps | 16 open; 2 partly closed |
-| Canonical build | `PLA26-V7-1090219E4E6A` |
+All values are from `metadata` in app/data/observatory.json.
 
-These counts describe the checked-in release. The application reads the same canonical JSON that is published for download, and the test suite checks that they remain identical.
+| Field | Value |
+|---|---|
+| Data cutoff | 2 September 2026 |
+| Build ID | `PLA26-V8-0715C59FF314` |
+| Active officer dossiers | 150 (131 mapped to a position, 19 outside the archetype with a reason) |
+| Positions | 179 in nine tiers: 156 principal seats and 23 bench slots |
+| Adverse-ledger records | 63 |
+| Ledger clock | 18 complete, 36 partial, 9 not yet collected |
+| Trackers included | `npcTerminations`, `promotionCeremonies`, `titleFreshness` |
+| Review-log entries | 5 |
+
+Three further trackers (the 20th Central Committee cohort, event attendance, seat turnovers) are defined in the build but their input files are not yet in `research/trackers`, so they are absent from this build. See docs/COLLECTION_METHOD.md, section 5.
+
+## What the site shows
+
+- **Overview.** The framework, coverage tiles for the 156 principal seats, the judgments with what each rests on, and the research questions.
+- **Positions.** The coverage board: every seat by tier with its coverage state, holders, handlers, linked removals and search lane.
+- **Officers.** The directory of active dossiers, each with its position links and the claim-scoped sources behind its title.
+- **Ledger.** The adverse ledger with the disappearance clock for each record: last titled appearance, first concrete signal, formal action, and the day counts between them.
+- **Trackers.** Narrow measurements, one question each from a bounded set of official sources: NPC deputy terminations, full-general promotion ceremonies, and the title-freshness monitor.
+- **Routes.** What past winners looked like, kept as frequencies without scores, and a succession watch of seats that are vacant, acting or handled.
+- **Evidence.** The sources explorer and the evidence rules: what an observation proves, how Chinese titles are read, calibration cases, release rules.
+- **Method.** How the site was built, the glossary, the premise register, the review log, known limits and downloads.
 
 ## Get the data
 
-- [Public JSON](https://pla-leadership-observatory.jordanschneider.chatgpt.site/data/pla-leadership-observatory-public.json) — complete published research model, including officers, claims, sources, adverse records, held identities, system evidence, and collection gaps.
-- [Public CSV](https://pla-leadership-observatory.jordanschneider.chatgpt.site/data/pla-leadership-observatory-public.csv) — one row per active officer for quick filtering and analysis.
-- [`app/data/observatory.json`](app/data/observatory.json) — canonical data used by the interface.
-- [`app/data/net-assessment.ts`](app/data/net-assessment.ts) — estimative layer: score ranges, candidate boards, scenarios, gates, backtests, task-leader fit, and collection priorities.
+- [Public JSON](https://pla-leadership-observatory.jordanschneider.chatgpt.site/data/pla-leadership-observatory-public.json): the full dataset, including positions, officers, claims, sources, the adverse ledger with its clock, trackers and the review log.
+- [Public CSV](https://pla-leadership-observatory.jordanschneider.chatgpt.site/data/pla-leadership-observatory-public.csv): one row per active officer.
+- [`app/data/observatory.json`](app/data/observatory.json): the same data as read by the interface.
 
-See [the data dictionary](docs/DATA_DICTIONARY.md) before using the fields quantitatively. Missing or contested values are not favorable evidence, and a source attached to an officer does not automatically support every field in that officer's dossier.
+The CSV has twenty columns. Four are new in this release: `days_since_title`, `archetype_status`, `position_ids` and `unmapped_reason`. The CSV omits claims, sources, adverse records, positions and trackers; use the JSON for anything that needs to be checked. Read [the data dictionary](docs/DATA_DICTIONARY.md) before using any field quantitatively. Missing values are not favorable evidence.
 
-## What the site does
+## How it was built
 
-- Shows an evidence-scoped directory rather than a flat list of names.
-- Distinguishes formal, acting, inferred, conflicting, stale, and unresolved role states.
-- Scores candidates against a specified selection event using ranges across six structural components.
-- Separates current-role evidence quality from promotion promise.
-- Compares candidates under alternative selection regimes: institutional equilibrium, political control, operational readiness, and technical integration.
-- Tracks disconfirmers and next observable gates, not only reasons a candidate might rise.
-- Preserves an adverse-event firewall so removals and unresolved discipline cases do not leak into the positive universe.
-- Publishes a prioritized collection plan for the highest-value unanswered questions.
+The unit of collection is a position, not a name: a fixed chart of 179 senior positions defines what is covered and what is a gap, and every officer is either linked to a seat or listed as outside the chart with a reason. Each seat's coverage state is computed by one rule from the quality of the sources naming its holder, and each removed officer's clock is computed from dated records that carry a URL and the exact Chinese title. The full account, including which sources were swept, which hosts were reachable, and what is not reproducible from this repository, is in [docs/COLLECTION_METHOD.md](docs/COLLECTION_METHOD.md); the reasoning rules are in [docs/METHODOLOGY.md](docs/METHODOLOGY.md).
 
-## Analytical discipline
+## Reproduce
 
-Every published personnel judgment should fit one of three categories:
+Requirements: Node.js 22.13 or later, npm, and a Linux-compatible environment with GNU `timeout`.
 
-1. **Documented fact:** a claim-scoped source directly supports the statement at a stated date.
-2. **Reasonable inference:** multiple observations support an interpretation, but no formal act settles it.
-3. **Speculation or collection hypothesis:** a proposition worth testing that is not presented as fact.
+```bash
+npm ci
+node scripts/build-v8-data.mjs
+npm test
+npm run lint
+npm run dev
+```
 
-The headline score is a **Structural Promotion Index**, not an empirical probability. It measures the strength of a candidate's observable route to a defined future seat. Documentary completeness, hidden political clearance, operational effectiveness, and purge risk remain separate. Full definitions and known limitations are in [the methodology](docs/METHODOLOGY.md).
+The build script reads the files under `research/` and writes `app/data/observatory.json`, `public/data/pla-leadership-observatory-public.json` and `public/data/pla-leadership-observatory-public.csv` under one build ID. `npm test` builds the site and runs the test suite. The development server is normally at `http://localhost:5173`.
+
+One boundary is deliberate. The original officer list came from an upstream extraction called research_v2, which is not in this repository. The build starts from the checked-in result of that stage, `research/base/observatory-v7.json`. Everything after that point is reproducible here; the research_v2 stage is described, not reproduced.
+
+## Review log
+
+What the September 2026 external review said and what changed in response is in [docs/REVIEW_LOG.md](docs/REVIEW_LOG.md).
 
 ## Repository map
 
 | Path | Purpose |
 |---|---|
-| `app/page.tsx` | Main analyst interface |
-| `app/globals.css` | Editorial design system and responsive layout |
-| `app/data/observatory.json` | Canonical documentary dataset |
-| `app/data/net-assessment.ts` | Estimative judgments and structured scoring |
-| `public/data/` | Downloadable JSON and CSV exports |
-| `research/` | Checked-in primary-source additions, institutional pipelines, and current frontier ledger |
-| `scripts/` | Import, update, build, and environment helpers |
-| `tests/` | Data-integrity, model, component, and rendered-output checks |
-| `docs/` | Data dictionary, methodology, and contribution protocol |
-
-## Run locally
-
-Requirements: Node.js 22.13 or later, npm, Linux or a compatible environment with GNU `timeout`.
-
-```bash
-npm ci
-npm test
-npm run dev
-```
-
-The development server is normally available at `http://localhost:5173`. Other useful commands:
-
-```bash
-npm run lint
-npm run build
-```
-
-## Reproduce the checked-in public release
-
-The current canonical release and its current research-frontier additions are checked in. To reapply the latest frontier, recompute the deterministic build ID, and regenerate both public exports:
-
-```bash
-node scripts/upgrade-v7-data.mjs
-npm test
-```
-
-The earlier raw consolidation stage can also be rerun with:
-
-```bash
-node scripts/import-research-data.mjs /path/to/research_v2 app/data/observatory.json public/data
-```
-
-That command requires the archived `research_v2` source package, which is not yet part of this repository. The public repo therefore reproduces and verifies the checked-in canonical release and subsequent frontier transforms, but it does **not** yet reproduce every upstream extraction from raw source captures. This boundary is deliberate and should not be obscured.
+| `app/page.tsx` | The interface |
+| `app/data/observatory.json` | Canonical dataset (generated) |
+| `app/data/assessment.ts` | Framework text, judgments, premise register, research questions, glossary, evidence rules, route evidence, limits |
+| `research/positions.json` | The position archetype and the officer-to-seat mapping |
+| `research/adverse-timeline.json` | The disappearance clock for the adverse ledger |
+| `research/trackers/` | Tracker input files (optional) |
+| `research/review-log.json` | Dated review entries |
+| `scripts/build-v8-data.mjs`, `scripts/lib/v8-rules.mjs` | The build and its shared rules |
+| `public/data/` | Downloadable JSON and CSV (generated) |
+| `tests/` | Data-integrity and rendered-output checks |
+| `docs/` | Collection method, data dictionary, methodology, review log |
 
 ## Contributing corrections
 
-Personnel data becomes stale quickly, while Chinese official pages can move or silently change. Corrections are most useful when they identify the exact field, observation date, source URL, quoted title in Chinese, and what the source does **not** establish. Read [CONTRIBUTING.md](CONTRIBUTING.md) before opening an issue or pull request.
+Personnel data goes stale quickly, and Chinese official pages can move or change. A useful correction names the exact field, the observation date, the source URL, the exact Chinese title as printed, and what the source does not establish. Read [CONTRIBUTING.md](CONTRIBUTING.md) first.
 
 ## Citation
 
-When citing the data, include the project title, canonical build ID, assessment cutoff, and either the relevant stable officer/claim IDs or the download URL. Stable IDs are intended to make corrections and comparisons traceable across releases.
+Include the project title, the build ID, the data cutoff, and either the relevant stable ID (officer, position, claim or adverse record) or the download URL.
 
-Suggested form:
-
-> PLA Leadership Observatory, build PLA26-V7-1090219E4E6A, data cutoff 2 September 2026, [stable ID or dataset URL].
+> PLA Leadership Observatory, build PLA26-V8-0715C59FF314, data cutoff 2 September 2026, [stable ID or dataset URL].
 
 ## License
 

@@ -32,8 +32,9 @@ test("renders development preview metadata", async () => {
   );
   const html = await response.text();
   assert.match(html, developmentPreviewMeta);
-  assert.match(html, />Backtest</);
-  assert.match(html, />Evidence lab</);
+  assert.match(html, />Overview</);
+  assert.match(html, />Positions</);
+  assert.match(html, />Ledger</);
   assert.match(html, />Method</);
 
   const clientAssets = new URL("../dist/client/assets/", import.meta.url);
@@ -41,14 +42,12 @@ test("renders development preview metadata", async () => {
     .filter((file) => file.endsWith(".js"))
     .map((file) => readFileSync(new URL(file, clientAssets), "utf8"))
     .join("\n");
-  assert.match(compiledClient, /Historical promotion backtest/);
-  assert.match(compiledClient, /Commander–political principal state across 14 major organizations/);
-  assert.match(compiledClient, /Claims designed to be scored later/);
-  assert.match(compiledClient, /The score orders visible pathways; it cannot observe the hidden veto/);
-  assert.match(compiledClient, /The strongest 2036\/2041 object is often an unknown billet/);
-  assert.match(compiledClient, /Output-attribution wall/);
-  assert.match(compiledClient, /The argument in one page/);
-  assert.match(compiledClient, /Vetting is now a selection stage/);
+  assert.match(compiledClient, /How this site is built/);
+  assert.match(compiledClient, /Position coverage/);
+  assert.match(compiledClient, /Disappearance clock/);
+  assert.match(compiledClient, /Premise register/);
+  assert.match(compiledClient, /Review log/);
+  assert.match(compiledClient, /Glossary/);
 });
 
 test("keeps the editorial redesign above the readability floor", () => {
