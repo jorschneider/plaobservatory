@@ -1,6 +1,7 @@
 "use client";
 
 import { useMemo, useState, useSyncExternalStore } from "react";
+import Link from "next/link";
 import {
   AlertTriangle,
   ArrowUpRight,
@@ -300,7 +301,7 @@ export default function Home() {
     <main className="site-shell">
       <header className="topbar">
         <a className="brand" href="#top" aria-label="PLA Leadership Observatory home"><span className="brand-mark" aria-hidden="true"><Network /></span><span><strong>PLA Leadership</strong><small>Observatory</small></span></a>
-        <div className="topbar-meta"><span className="data-cutoff"><span className="live-dot" />Data cutoff {humanDate(m.asOf)}</span><span className="build-id mono">{m.buildId}</span></div>
+        <div className="topbar-meta"><Link className="lane-link" href="/robotics">Robotics lane <ArrowUpRight aria-hidden="true" /></Link><span className="data-cutoff"><span className="live-dot" />Data cutoff {humanDate(m.asOf)}</span><span className="build-id mono">{m.buildId}</span></div>
       </header>
 
       <div id="top" className="workspace">
