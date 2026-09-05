@@ -1,0 +1,342 @@
+[
+  {
+    "id": "S-C01",
+    "author": "Solomon",
+    "pages": "16–24",
+    "claim": "Chinese negotiating style varies with the political purpose of the relationship: officials can use markedly different approaches in confrontation and in constructing cooperation.",
+    "evidence_type": "Cross-period comparison of American memoirs, interviews, and the official negotiating record; explicit scope qualification",
+    "evidence_details": "Contrasts the 1950s–1960s experience described by Young, Joy, Dean, Johnson, and Beam with the normalization experience, sometimes involving the same Chinese officials. At p24 n7 Solomon leaves applicability to a future confrontation unanswered.",
+    "test": "Compare the same officials and comparable issues across cooperative and confrontational periods; determine whether changes follow strategic purpose, personnel, or institutions. A stable approach independent of relationship purpose would weaken the proposition.",
+    "caveat": "The principal study covers a selected setting in which Beijing wanted a positive U.S. relationship. Different behavior after 2018 need not mean the original findings were wrong within that scope. The cited underlying records have not been independently acquired in this workstream."
+  },
+  {
+    "id": "S-C02",
+    "author": "Solomon",
+    "pages": "18–22, 25, 31–34",
+    "claim": "Chinese domestic social and political traditions help produce a persistent preference for managing negotiation through personal relationships and reciprocal obligations.",
+    "evidence_type": "Cultural-historical causal interpretation supported by participant accounts and secondary social-science literature",
+    "evidence_details": "Links contemporary relationship cultivation to guanxi and earlier diplomatic practices, while also identifying Western and Soviet influences and continued adaptation.",
+    "test": "Compare Chinese institutions, generations, counterpart countries, and private versus state negotiations; test whether relationship dependence persists after controlling for information scarcity, weak formal enforcement, access to authority, and bargaining power.",
+    "caveat": "Observed use of relationships does not identify culture as its cause. The study assumed distinctive style would be legible to foreign observers; unfamiliarity and observer expectations can influence that assessment."
+  },
+  {
+    "id": "S-C03",
+    "author": "Solomon",
+    "pages": "28–38",
+    "claim": "Chinese negotiators resist terms or public presentations that depict China as dependent, even when material conditions create a need for foreign cooperation.",
+    "evidence_type": "Named memcons and drafting episodes combined with a status/dependence interpretation",
+    "evidence_details": "Zhou–Kissinger, July 9–11, 1971, on reciprocity and the visit announcement; the liaison-office discussion; Kissinger–Huang Hua, September 19, 1972, and Solomon–Ji Chaozhu, October 25, 1974, on grain; Deng–Kissinger, October 20, 1975, and Mao–Kissinger, October 21, 1975, on strategic need.",
+    "test": "Track concrete wording disputes, who sought meetings, private admissions of need, and resulting concessions. Compare episodes where Beijing accepted publicly asymmetric dependence with those where it paid a cost to avoid it.",
+    "caveat": "The chapter itself records acknowledgment of mutual need and prior acceptance of a subordinate Soviet relationship. National humiliation and imperial status are proposed explanations, not directly observed motives in every episode."
+  },
+  {
+    "id": "S-C04",
+    "author": "Solomon",
+    "pages": "31–44",
+    "claim": "Cultivating a foreign official's investment in access and reputation can create leverage when Chinese counterparts subsequently cast doubt on that relationship.",
+    "evidence_type": "Participant accounts and named memcons; inferred political and psychological mechanism",
+    "evidence_details": "Vance's August 1977 visit contrasted with Huang Hua–Brzezinski, May 20–21, 1978, and Deng–Brzezinski, May 21, 1978; references to pressure on Kissinger in 1974–1975 and Bush in 1980/1982.",
+    "test": "Establish the intermediary's prior policy preferences, domestic stake in access, Chinese threat or withdrawal, and subsequent policy changes. Compare officials who did not value the relationship and cases where concessions followed independent material incentives.",
+    "caveat": "Personal warmth and repeated demands for commitment are observable; their independent effect on final concessions is not established by the quoted exchanges alone."
+  },
+  {
+    "id": "S-C05",
+    "author": "Solomon",
+    "pages": "32–34",
+    "claim": "Trusted intermediaries facilitate politically sensitive openings by conveying intentions, supplying information about leaders, and certifying that contact will not produce embarrassment or confrontation.",
+    "evidence_type": "Named diplomatic exchanges and participant interpretation",
+    "evidence_details": "Pakistan and Romania during the U.S.–PRC opening; Nixon–Yahya Khan, October 25, 1970; Kissinger–Hilaly, February 26, 1970; Zhou–Kissinger, July 9, 1971.",
+    "test": "Recover original messages and instructions on both sides; identify information or credibility that an intermediary added beyond merely transporting messages, and compare unsuccessful channels.",
+    "caveat": "The mechanism may be universal in secret diplomacy rather than distinctively Chinese. Channels also served American secrecy and political requirements."
+  },
+  {
+    "id": "S-C06",
+    "author": "Solomon",
+    "pages": "39–42, 167, 174–175",
+    "claim": "Chinese officials exploit existing political or bureaucratic rivalries by favoring counterparts whose preferences better match Chinese objectives and making others fear a loss of influence.",
+    "evidence_type": "Comparative episode interpretation and practical recommendation",
+    "evidence_details": "Vance/Brzezinski, Kissinger/Schlesinger, and Haig/Allen comparisons. Solomon explicitly says Beijing did not create the rivalries in these examples.",
+    "test": "Reconstruct the rivals' policy preferences before cultivation, differential Chinese access or messages, and any subsequent change in internal authority or instructions; test cases where a coordinated government neutralized the maneuver.",
+    "caveat": "Selecting a receptive channel is not the same as changing a government's preferences. American rivalries are part of the explanation and cannot be coded solely as Chinese tactical success."
+  },
+  {
+    "id": "S-C07",
+    "author": "Solomon",
+    "pages": "42–44",
+    "claim": "Uncertainty over meetings with senior Chinese leaders can be used to induce foreign counterparts to clarify intentions or accommodate Chinese conditions.",
+    "evidence_type": "Named memcon, observed scheduling, and explicitly speculative attribution",
+    "evidence_details": "Zhou–Kissinger, July 9, 1971, on conditions surrounding a Nixon–Mao meeting; unexpected timing of Nixon's and Ford's Mao meetings; the canceled second Nixon–Mao meeting.",
+    "test": "Compare scheduling records, medical constraints, instructions, and draft meeting conditions with concessions made before access was granted; establish intentional linkage rather than mere timing correlation.",
+    "caveat": "Solomon expressly speculates that the second Nixon meeting was canceled over Taiwan; illness was the Chinese explanation. That case cannot be counted as proven tactical manipulation."
+  },
+  {
+    "id": "S-C08",
+    "author": "Solomon",
+    "pages": "44–48, 172",
+    "claim": "Detailed preparation and coordinated management of information, protocol, and timing give Chinese negotiators an operational advantage when counterparts are less prepared.",
+    "evidence_type": "Named memcons, memoir examples, interview generalization, and advice",
+    "evidence_details": "Zhou–Kissinger, July 9, 1971, on Nixon's electoral horizons; Kissinger's account of biographical preparation; Zhou's knowledge of Nixon's recent Kansas City speech; McGiffert–Chai Chengwen, January 8, 1980, on protocol.",
+    "test": "Identify actual preparation products and timing instructions, errors or gaps on each side, and decisions affected by that information. Compare multiple institutions and unsuccessful Chinese encounters.",
+    "caveat": "Preparation quality is not proof of a superior outcome. The p46 Geng Biao appointment narrative is present in the original scan but appears historically problematic and should not be reproduced without external verification."
+  },
+  {
+    "id": "S-C09",
+    "author": "Solomon",
+    "pages": "48–50",
+    "claim": "Chinese negotiators shape their statements for superiors and political rivals as well as for the foreign counterpart, encouraging disciplined repetition and reluctance to reveal unapproved positions.",
+    "evidence_type": "Interview perceptions, named memcon, and institutional inference",
+    "evidence_details": "American officials' sense of unseen audiences; Zhou's proposal to tape a negotiating summary in July 1971; Zhou–Kissinger, July 10, 1971, on who may discuss sensitive domestic matters.",
+    "test": "Compare negotiating speech with written instructions, internal reports, evaluation or disciplinary incentives, and authorized discretion. Look for officials who improvised safely or explained foreign positions without reported penalty.",
+    "caveat": "Repeated language suggests instructions but does not expose their contents. Foreign observers' impressions of internal audiences require corroboration."
+  },
+  {
+    "id": "S-C10",
+    "author": "Solomon",
+    "pages": "49–50, 168, 170",
+    "claim": "In high-level political negotiations, flexibility often requires senior authorization after the foreign position has been tested; senior intervention can release an apparent deadlock.",
+    "evidence_type": "Negotiating-record synthesis and institutional causal interpretation",
+    "evidence_details": "Zhou's consultation with Mao during early Kissinger exchanges; the chapter's general pattern of a senior figure intervening after subordinates display inflexibility.",
+    "test": "Locate draft instructions and approval sequences; determine whether concessions preceded or followed leadership decisions, whether delegates already possessed authority, and whether a deadlock was staged or reflected genuine disagreement.",
+    "caveat": "A leader's visible intervention does not prove that lack of prior authorization caused delay. Issue stakes, tactical theater, and substantive incompatibility remain alternatives."
+  },
+  {
+    "id": "S-C11",
+    "author": "Solomon",
+    "pages": "50–56",
+    "claim": "Leadership weakness, interministerial disagreement, and problems obtaining local compliance can immobilize negotiation while the public Chinese position continues to appear unified.",
+    "evidence_type": "Institutional argument with explicitly circumstantial historical illustrations",
+    "evidence_details": "Hua and early rehabilitated Deng; Qiao–Kissinger, October 3, 1973; Mao–Nixon, February 21, 1972; PRC message, June 14, 1974, on claims/assets; Lin Ping–Bruce, September 26, 1973, on liaison-office guards.",
+    "test": "Find internal disputes, instruction changes, and implementation authority before and after bargaining shifts. Compare strong-leadership stalemates and agreements concluded despite internal disagreement.",
+    "caveat": "Solomon marks the Lin Biao, radical-faction, and Zhou explanations as obscure, inferred, likely, or circumstantial. Unified public speech does not establish unity or conflict by itself."
+  },
+  {
+    "id": "S-C12",
+    "author": "Solomon",
+    "pages": "44–45, 167–170",
+    "claim": "The shift from a small leadership-managed opening to restored bureaucracies and technical issues increased the number of relevant Chinese institutions and could slow decisionmaking.",
+    "evidence_type": "Historical-institutional comparison",
+    "evidence_details": "Contrasts Mao/Zhou's management of early normalization with the rebuilt Foreign Ministry and State Council ministries engaged in aviation, textiles, grain, and nuclear cooperation.",
+    "test": "Map participants and approval paths in matched political and technical negotiations across periods; measure what stages actually added delay and whether senior intervention overcame ministry resistance.",
+    "caveat": "Solomon already recognizes both centralization and bureaucratic friction. The apparent late-1976 normalization date on p44 is printed in the scan but conflicts with his own p23 chronology and is not used here."
+  },
+  {
+    "id": "S-C13",
+    "author": "Solomon",
+    "pages": "4–5, 170, 173",
+    "claim": "Chinese political negotiators tend to prefer broad understandings and principles to exhaustive legal detail, but can set principles aside or rationalize concrete compromise when agreement serves their interests.",
+    "evidence_type": "Interview and negotiating-record synthesis, with explicit exceptions",
+    "evidence_details": "Summary discussion of principles at p5; comparison of public political understandings with American legal/technical preferences at p170; claims/assets example at p173.",
+    "test": "Track the specificity and legal form each side requests, revisions to principles, and actual constraints principles impose on concessions. Compare issue types, delegates, and legal institutions rather than coding any general declaration as supporting evidence.",
+    "caveat": "The study's high-political baseline is not a representative sample of commercial or technical negotiations. A principle that can always be overridden risks becoming an unfalsifiable explanation."
+  },
+  {
+    "id": "S-C14",
+    "author": "Solomon",
+    "pages": "6, 8, 172–173",
+    "claim": "Chinese continuity and command of the negotiating record can create leverage over American officials whose turnover and dispersed archives impair knowledge of earlier commitments.",
+    "evidence_type": "Negotiating-record and interview generalization; institutional diagnosis and recommendation",
+    "evidence_details": "Solomon describes records scattered among agencies and presidential libraries and recommends an electronically searchable central repository at p173.",
+    "test": "Audit contested invocations of prior commitments against contemporaneous records; identify accurate recall, selective quotation, misremembering, and access disparities on both sides. Examine whether better record access altered a later exchange.",
+    "caveat": "Claims of complete Chinese command should not be accepted as literal universals. Record knowledge, the legitimacy of an interpretation, and the ability to obtain concessions are separate variables."
+  },
+  {
+    "id": "S-C15",
+    "author": "Solomon",
+    "pages": "9, 173",
+    "claim": "Placing a technical issue within a broader relationship framework can make compromise easier for Chinese decisionmakers to justify.",
+    "evidence_type": "Practical recommendation inferred from negotiating experience",
+    "evidence_details": "The private-claims/blocked-assets settlement is offered as an example; the recommendation connects compromise to perceived long-term sincerity and common objectives.",
+    "test": "Reconstruct the Chinese decision before and after the broader framing was introduced. Compare cases with identical framing but no compromise, and compromise achieved without such framing.",
+    "caveat": "The formulation may accompany a prior decision rather than cause it. Advice is not itself a tested intervention."
+  },
+  {
+    "id": "S-C16",
+    "author": "Solomon",
+    "pages": "9, 165, 174",
+    "claim": "Deadlines create bargaining vulnerability for whichever side most needs an agreement; Chinese negotiators try to exploit American urgency but are themselves vulnerable when Chinese deadlines bind.",
+    "evidence_type": "Negotiating-record synthesis and explicit practical qualification",
+    "evidence_details": "The summary warns against uncontrolled deadlines; p174 expressly notes Chinese vulnerability and recommends willingness to leave an unfavorable negotiation.",
+    "test": "Identify each side's actual deadlines and costs of delay before attributing patience or last-minute flexibility; compare concession timing when Chinese versus American deadlines are binding.",
+    "caveat": "Civilizational time horizons cannot substitute for documented incentives. Delay may also reflect authorization or uncertainty rather than tactical patience."
+  },
+  {
+    "id": "S-C17",
+    "author": "Solomon",
+    "pages": "9, 168–169, 175",
+    "claim": "Confidential exchanges can reduce public expectation pressures and increase perceived seriousness, while publicity can be used to constrain a counterpart's room to compromise.",
+    "evidence_type": "Practice-based recommendation and institutional interpretation",
+    "evidence_details": "Advice to limit leaks and avoid accepting public Chinese rhetoric as the negotiating framework; discussion of anticipated American leaks and memoir disclosures shaping Chinese caution.",
+    "test": "Compare positions, feasible concessions, and agreements across confidential and public phases; identify whether publicity was strategically generated, domestically unavoidable, or introduced after substantive agreement.",
+    "caveat": "The claimed benefits of confidentiality may be selection effects: promising negotiations may be easier to keep quiet. Public constraints can also supply leverage or credibility."
+  },
+  {
+    "id": "S-C18",
+    "author": "Solomon",
+    "pages": "157–160, 166, 176–177",
+    "claim": "Competent management of negotiating tactics may improve control and mutual respect, but its effects on agreement outcomes are often secondary to state interests and official discipline; excessive manipulation can undermine trust.",
+    "evidence_type": "Explicit analytic qualification and proposed counterstrategy, not systematic causal evaluation",
+    "evidence_details": "P160 allows only marginal tactical effects; p166 makes interpersonal influences secondary to state interests and official discipline; pp176–177 reject both omnipotent-Chinese assumptions and supplicant or dominating postures.",
+    "test": "Separate negotiator satisfaction, control of process, final terms, and implementation; compare whether similar material bargaining positions produce different outcomes after identifiable tactical interventions.",
+    "caveat": "Chapter 4 develops recommendations rather than testing competing strategies. Its proposed mechanisms should not be reported as demonstrated outcome effects."
+  },
+  {
+    "id": "S-C19",
+    "author": "Solomon",
+    "pages": "175–176",
+    "claim": "Rigidity or polemical conduct by Chinese negotiators is usually a sign of leadership conflict, making accommodation less likely.",
+    "evidence_type": "Strong practical diagnostic inference derived from a retrospective historical interpretation",
+    "evidence_details": "The lessons chapter generalizes from the discussion of domestic Chinese constraints and advises avoiding demands for unavailable flexibility.",
+    "test": "Code rigidity before knowing the internal-political outcome; compare its incidence under leadership conflict, consolidated authority, substantive incompatibility, and tactical pressure. Seek flexible negotiations during known conflict as negative cases.",
+    "caveat": "This is stronger than the underlying evidence warrants without testing: chapter 2 itself lists several other causes of inflexibility. Public language cannot reliably identify leadership conflict on its own."
+  },
+  {
+    "id": "S-C20",
+    "author": "Solomon",
+    "pages": "162–170",
+    "claim": "American turnover, divided authority, and relatively open information flows can both create openings for Chinese pressure and frustrate Chinese efforts to secure stable commitments and personal access.",
+    "evidence_type": "Explicitly suggestive bilateral institutional comparison",
+    "evidence_details": "Solomon stresses that negotiation is interactive and says these American comparisons are not based on a systematic assessment of U.S. performance; pp168–169 describe unpredictability and the dissipation of cultivated relationships.",
+    "test": "Trace both sides' responses to elections, personnel rotation, congressional intervention, agency disagreement, and disclosures. Compare costs and advantages rather than presuming dispersed American authority is always a weakness.",
+    "caveat": "National-character contrasts in Table 4 are hypotheses, not measured attributes. Chinese perceptions of American institutions are often inferred rather than documented internally."
+  },
+  {
+    "id": "F01",
+    "author": "Freeman",
+    "pages": "182–184",
+    "claim": "By the late 1990s, Chinese negotiators still emphasized long-term relationships and shared principles, using deferral of difficult issues to allow common interests and trust to develop.",
+    "evidence_type": "Practitioner retrospective synthesis and brief comparative case illustrations",
+    "evidence_details": "References Russia, Central Asia, South Korea, Vietnam, Hong Kong, India in 1998, Taiwan, and cross-strait relations as differing experiences of principles and deferred disagreement.",
+    "test": "Reconstruct particular agreements and follow the deferred issues: did common principles constrain conduct, create later cooperation, merely mask divergence, or collapse when incentives changed?",
+    "caveat": "Freeman does not disclose a new systematic archive or interview sample. Brief case mentions do not establish causal mechanisms, and endorsement of Solomon is not independent proof."
+  },
+  {
+    "id": "F02",
+    "author": "Freeman",
+    "pages": "184–185",
+    "claim": "Foreign-exchange and official spending restrictions materially reinforced the Chinese preference for negotiating in China.",
+    "evidence_type": "Practitioner recollection and practical institutional explanation",
+    "evidence_details": "Deng's reportedly tiny personal foreign-currency allowance during the 1974 UN visit and restrictions on overseas entertainment spending that Freeman says eased in the mid-1980s.",
+    "test": "Acquire travel budgets, foreign-exchange and entertainment rules, and venue decisions; test whether overseas negotiation increased after restrictions eased, controlling for access to authority and issue mix.",
+    "caveat": "The anecdotes are not accompanied by the administrative records here. Budget constraints can explain some venue choices without exhausting cultural, intelligence, or strategic reasons."
+  },
+  {
+    "id": "F03",
+    "author": "Freeman",
+    "pages": "185–186",
+    "claim": "Having foreign counterparts state their positions first gives Chinese diplomats a politically safer record from which to seek revised instructions, reducing the risk of appearing to advocate foreign interests.",
+    "evidence_type": "Practitioner causal explanation grounded in organizational incentives",
+    "evidence_details": "Freeman connects the speaking-order preference to penalties for apparent sympathy with foreign positions and the need to report actual foreign statements to superiors.",
+    "test": "Compare reporting drafts, requested instructions, and accounts of sanctions or criticism; determine whether foreign wording was needed to legitimate internal proposals and whether the preference weakened where delegates had discretion.",
+    "caveat": "Speaking second also has universal informational bargaining advantages. Freeman's mechanism must be distinguished from tactical extraction rather than replacing it by assertion."
+  },
+  {
+    "id": "F04",
+    "author": "Freeman",
+    "pages": "186–187",
+    "claim": "Reluctance to delegate and the need for rapid authoritative guidance reinforce negotiation near Chinese decisionmakers, even after communications technology improves.",
+    "evidence_type": "Practitioner institutional explanation",
+    "evidence_details": "Describes managerial micromanagement, slow historical communications, and continuing benefits of proximity to Zhongnanhai despite system upgrades.",
+    "test": "Track instruction turnaround, delegation rules, and venue selection across technology and organizational changes; identify abroad-based talks where adequate authority made proximity unnecessary.",
+    "caveat": "Home-ground intelligence and protocol advantages are additional causes. Faster communication could reduce delay while increasing central micromanagement, so technical improvement alone does not predict greater delegate autonomy."
+  },
+  {
+    "id": "F05",
+    "author": "Freeman",
+    "pages": "187–188",
+    "claim": "International opening, research networks, and greater political room improved Chinese knowledge of foreign politics and the candor and usefulness of policy reporting by the late 1990s.",
+    "evidence_type": "Practitioner assessment and broad observations of research and diplomatic practice",
+    "evidence_details": "Describes pre-summit overseas research visits, confidential reports, expanded think tanks, leaders' foreign exposure, and less politically trimmed reporting.",
+    "test": "Examine reports and their use in decisions across periods, measuring specific forecast errors, suppressed information, and corrections. Compare network access with actual influence on instructions.",
+    "caveat": "The essay supplies no systematic accuracy or candor measure. Its optimistic judgment is period-specific and may not hold under later political conditions."
+  },
+  {
+    "id": "F06",
+    "author": "Freeman",
+    "pages": "188–190",
+    "claim": "Weak public diplomacy and limited rapport with foreign legislators and interest groups hinder Chinese ability to shape or understand counterpart positions before negotiating instructions harden.",
+    "evidence_type": "Practitioner institutional diagnosis with contemporary examples",
+    "evidence_details": "Discusses press controls and treatment of foreign journalists, growing but constrained congressional outreach, and the differences between the NPC and Western legislatures; contrasts Taiwan's public-relations capability.",
+    "test": "Map actual outreach, lobbying and consultation before negotiations; examine changes in legislative or executive instructions attributable to those channels and compare issues with different public salience.",
+    "caveat": "The essay's statements about China's lobbying tools and capacity require independent period verification and must not be projected to 2026. Hostility may derive from substantive disputes rather than inadequate communication."
+  },
+  {
+    "id": "F07",
+    "author": "Freeman",
+    "pages": "190–191",
+    "claim": "Chinese participation in multilateral institutions tends to move from procedural learning and relative passivity toward more active, competent bargaining as experience and communications improve.",
+    "evidence_type": "Practitioner cross-institutional generalization",
+    "evidence_details": "Describes learning organization-specific procedures, increasing responsiveness, cultivation of long-term relationships, and continued tight instructions or deference to consensus.",
+    "test": "Follow identifiable delegations through initial membership and later years, measuring interventions, proposals, coalition roles, instruction delays, and outcomes; look for institutions where participation did not follow the sequence.",
+    "caveat": "Increased activism may reflect power, resources, or changed objectives rather than learning. The essay gives no enumerated institutional sample."
+  },
+  {
+    "id": "F08",
+    "author": "Freeman",
+    "pages": "191",
+    "claim": "China has at times pragmatically negotiated changes involving its domestic policies and laws to preserve valued international relationships, even while objecting to foreign scrutiny.",
+    "evidence_type": "Practitioner case generalization",
+    "evidence_details": "Human-rights discussions, intellectual-property disputes, and export-control negotiations; describes the U.S. executive mediating congressional demands.",
+    "test": "Identify requested domestic changes, authorized concessions, actual implementation, and the relationship benefits sought; compare refused changes and explain variation through costs, authority, and issue salience.",
+    "caveat": "A negotiated pledge is not evidence of implementation. Public objection to intrusion can coexist with practical bargaining and cannot alone establish an absolute red line."
+  },
+  {
+    "id": "F09",
+    "author": "Freeman",
+    "pages": "192–193",
+    "claim": "The expansion of technical, economic, legal, and military negotiations reduced the Foreign Ministry's ability to coordinate all Chinese dealings with foreign counterparts.",
+    "evidence_type": "Institutional observation with named agency examples",
+    "evidence_details": "MOFTEC leading GATT/WTO negotiations; multiple ministries and provinces involved in human-rights and intellectual-property questions; growing PLA foreign dialogues and contracting.",
+    "test": "Map mandate and approval authority across ministries and leadership bodies, identify contradictory positions, and determine when a central authority reconciled them. Compare issue-specific negotiations with leader-managed political bargains.",
+    "caveat": "More participants need not imply less central political control. Agency autonomy, coordination costs, and final authorization are different variables."
+  },
+  {
+    "id": "F10",
+    "author": "Freeman",
+    "pages": "193",
+    "claim": "Chinese bureaucratic and industrial interests defending domestic positions account for part of the difficulty in agreeing to foreign terms for WTO accession.",
+    "evidence_type": "Practitioner causal attribution, not a documented reconstruction of specific accession rounds",
+    "evidence_details": "Freeman identifies an emerging bureaucratic-industrial complex and links its defense of vested interests to accession difficulties.",
+    "test": "Obtain sectoral submissions, schedules, draft commitments, ministry comments, and leadership instructions; trace how specific resistance changed negotiating positions and how it was resolved or bypassed.",
+    "caveat": "The essay is not evidence of who blocked which terms in April or November 1999. Domestic interests compete with bargaining tactics, foreign constraints, and leadership preferences as explanations."
+  },
+  {
+    "id": "F11",
+    "author": "Freeman",
+    "pages": "193–194",
+    "claim": "Long career specialization gives Chinese negotiators deep bilateral memory but may limit cross-issue breadth and leave policy integration concentrated in senior leadership.",
+    "evidence_type": "Practitioner organizational generalization",
+    "evidence_details": "Describes diplomats, military officers, and officials serving for long periods on one country, region, or function, with integration expected at the top.",
+    "test": "Reconstruct careers, rotations, substantive expertise, and integration processes; compare specialist teams' memory and cross-issue performance with rotated officials and mixed teams.",
+    "caveat": "Length of service is not a direct measure of knowledge or power. The claim should be tested by institution and generation, not assumed from prominent long-serving individuals."
+  },
+  {
+    "id": "F12",
+    "author": "Freeman",
+    "pages": "194",
+    "claim": "Mentoring and on-the-job instruction can transmit established negotiating practices despite increased staff turnover.",
+    "evidence_type": "Practitioner observation of institutional continuity",
+    "evidence_details": "Contrasts earlier absence of retirement limits with increased turnover while arguing that seniors transmitted bureaucratic norms to juniors.",
+    "test": "Acquire training materials, handover records, and career interviews; identify specific practices passed across personnel changes and cases where replacement produced a break.",
+    "caveat": "Continuity after turnover could also come from unchanged instructions, interests, or institutions. Mentoring is a proposed transmission mechanism, not demonstrated by continuity alone."
+  },
+  {
+    "id": "F13",
+    "author": "Freeman",
+    "pages": "194–195",
+    "claim": "Repeated interaction produces counterpart- and organization-specific Chinese negotiating substyles as specialists adapt to the people and procedures they encounter.",
+    "evidence_type": "Practitioner comparison, including reported conversations with Japanese foreign-ministry colleagues",
+    "evidence_details": "Compares America, Japan, and UN specialists and says their methods increasingly resemble the practices of their counterparts.",
+    "test": "Match issue, power relation, and authority level across counterparts; follow individual specialists when assignments change; distinguish acquired substyles from selection of officials already suited to an audience.",
+    "caveat": "Freeman does not provide interview transcripts or a systematic comparative sample. A broader shared tradition and variation by individual or issue may coexist with specialist adaptation."
+  },
+  {
+    "id": "F14",
+    "author": "Freeman",
+    "pages": "194–195; contrast Solomon 17",
+    "claim": "By the late 1990s, Chinese negotiators experienced with Americans had learned incremental bargaining and adjusted opening positions to American expectations of compromise between initial demands.",
+    "evidence_type": "Practitioner retrospective observation directly qualifying an earlier participant account",
+    "evidence_details": "Freeman contrasts learned incremental bargaining with the direct move to a defensible position that Kissinger praised in his early-1970s experience with Huang Hua.",
+    "test": "Reconstruct opening offers, internal reservation positions, concession sequences, and final terms across comparable U.S. negotiations before and after sustained interaction; compare non-U.S. counterparts.",
+    "caveat": "Commercial issue mix and bargaining power may explain the difference as well as learning. The chapter offers no transaction-level dataset; this is a hypothesis to investigate, not an established universal transition."
+  }
+]
