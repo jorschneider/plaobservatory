@@ -57,3 +57,15 @@ test("keeps the editorial redesign above the readability floor", () => {
   assert.match(css, /background-image:\s*none/);
   assert.match(css, /\.metric-icon\s*\{\s*display:\s*none/);
 });
+
+test("robotics route renders the sourced relationship workspace", async () => {
+  const { default: worker } = await import(new URL("../dist/server/index.js", import.meta.url).href);
+  const response = await worker.fetch(new Request("http://localhost/robotics", { headers: { accept: "text/html" } }), { ASSETS: { fetch: async () => new Response("Not found", { status: 404 }) } }, { waitUntil() {}, passThroughOnException() {} });
+  assert.equal(response.status, 200);
+  const html = (await response.text()).replace(/<!--.*?-->/gs, "");
+  assert.match(html, /Follow the product, buyer and date/);
+  assert.match(html, /Collection priorities/);
+  assert.match(html, /DEEP Robotics/);
+  assert.match(html, /Read 1 claim/);
+  assert.match(html, /6 dossiers/);
+});

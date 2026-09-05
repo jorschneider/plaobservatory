@@ -1,13 +1,13 @@
 {
   "metadata": {
     "title": "Robotics industrial-base lane",
-    "buildId": "IB26-R1-37284B8F79EF",
+    "buildId": "IB26-R2-D3C56F317F88",
     "cutoff": "2026-09-04",
     "package": "China Defense-Industrial Atlas Supplier Scorecards v1.2",
     "chartVersion": "robotics-1.0",
     "scorecardCount": 52,
-    "evidenceQualifiedCount": 25,
-    "boundedCount": 14,
+    "evidenceQualifiedCount": 24,
+    "boundedCount": 15,
     "provisionalCount": 13,
     "evidenceRowCount": 66,
     "sourceUrlCount": 64,
@@ -15,11 +15,11 @@
     "nodeCoverageCounts": [
       {
         "key": "evidence_qualified",
-        "count": 16
+        "count": 15
       },
       {
         "key": "provisional_only",
-        "count": 6
+        "count": 7
       },
       {
         "key": "no_record",
@@ -123,8 +123,8 @@
         "tier": "production",
         "label": "Production robotics and tooling",
         "nodes": 3,
-        "evidenceQualified": 2,
-        "provisionalOnly": 0,
+        "evidenceQualified": 1,
+        "provisionalOnly": 1,
         "noRecord": 1
       },
       {
@@ -138,73 +138,52 @@
     ],
     "trackerCounts": {
       "procurementNotices": 14,
-      "limitedSource": 4,
+      "limitedSource": 1,
       "foreignDependencies": 11,
       "identityQueue": 11,
-      "signals": 11
+      "signals": 5
     },
     "readMe": {
       "title": "China Defense-Industrial Atlas — Supplier Scorecards v1.2",
       "blurb": "Additive, source-gated supplier × capability assessments through 2026-08-31. This workbook preserves the legacy Atlas as context and does not replace its broader research-priority ranking.",
       "metrics": [
         {
-          "metric": "Supplier × capability scorecards",
+          "metric": "Imported assessments",
           "count": 52
         },
         {
-          "metric": "Evidence-qualified rankable scorecards",
-          "count": 25
+          "metric": "Current rank-eligible assessments",
+          "count": 24
         },
         {
-          "metric": "Provisional / bounded scorecards",
-          "count": 27
-        },
-        {
-          "metric": "Atomic scorecard evidence rows",
+          "metric": "Imported evidence rows",
           "count": 66
         },
         {
-          "metric": "New exact-name scorecard entities",
-          "count": 19
+          "metric": "Distinct imported URLs",
+          "count": 64
         },
         {
-          "metric": "Primary/source-linked sources",
-          "count": 1841
+          "metric": "Signals",
+          "count": 5
         },
         {
-          "metric": "Foreign dependency cases",
-          "count": 11
-        },
-        {
-          "metric": "Robotics/AI/drone signals",
-          "count": 11
-        },
-        {
-          "metric": "Explicit fragility assessments",
-          "count": 1
+          "metric": "Reviewed dossiers",
+          "count": 6
         }
       ],
       "notes": [
         {
-          "note": "The unit of analysis is a supplier × capability family, not a corporate family or product brand. A parent’s strategic importance does not make every affiliate a technical supplier."
+          "note": "The workbook and extracted import are immutable. Reviewed overlays retain imported score values."
         },
         {
-          "note": "Systemic importance combines criticality, production maturity, cross-domain leverage, and technical frontier. The evidence-qualified lower bound discounts weaker evidence. It is a research triage score—not spend, valuation, targeting value, or sanctions advice."
+          "note": "The claimed 1,841 sources and 19 new exact-name entities cannot be reproduced from this workbook and are excluded from current metrics."
         },
         {
-          "note": "Criticality 4 requires explicit sole/limited-source or requalification language. Only scores supported by that threshold receive a substitution-risk assessment; blank means unknown, not low risk."
+          "note": "Signals are counted from actual signal records; the original 11 included headings or tasks and is replaced by the derived count."
         },
         {
-          "note": "Completed production-enabling awards (robotics, test, CNC, validation) are separated from mission-component suppliers. A shipyard robotics award is meaningful industrial-base evidence, not proof of a weapons-subsystem relationship."
-        },
-        {
-          "note": "PLA candidate notices, company marketing, and comparative tests are preserved as watchlist evidence. They do not enter the verified leaderboard until a final award, delivery, qualification, or other stronger evidence is found."
-        },
-        {
-          "note": "Foreign-dependency rows are tagged by directness and currentness. Historical export-control cases are not silently converted into current defense-program vulnerabilities."
-        },
-        {
-          "note": "For the full claim ledger and source detail, use the accompanying v1.2 SQLite database or the Atlas site’s Supplier scorecards tab."
+          "note": "The identity queue is a suggested review set, not a reconstruction of the workbook's unsupported 19-entity flag."
         }
       ]
     },
@@ -359,6 +338,7 @@
           "EO_IR_lasers_optics_and_star_trackers",
           "low_light_EO_tracking_and_aiming"
         ],
+        "productIds": [],
         "scorecardIds": [
           "CNSCA-2C1763D53F",
           "CNSCA-EDBD70594B",
@@ -431,6 +411,7 @@
           "AESA_TR_modules_and_RF_ICs",
           "GaN_GaAs_phased_array_TR_chips"
         ],
+        "productIds": [],
         "scorecardIds": [
           "CNSCA-266AD89280",
           "CNSCA-3385A3CAA0",
@@ -475,6 +456,7 @@
           "MEMS_sensor_chips_and_condition_monitoring",
           "MEMS_IMU_lidar_driver_and_MCU_foundry_platform"
         ],
+        "productIds": [],
         "scorecardIds": [
           "CNSCA-704D4D4A26",
           "CNSCA-02C1E2FE32"
@@ -512,6 +494,7 @@
           "space_microwave_inertial_components_and_antennas",
           "INS_EO_payloads_actuators_datalinks"
         ],
+        "productIds": [],
         "scorecardIds": [
           "CNSCA-21CEE20030",
           "CNSCA-D11C362C85",
@@ -564,6 +547,7 @@
         "capabilityFamilies": [
           "flight_control_INS_and_avionics"
         ],
+        "productIds": [],
         "scorecardIds": [
           "CNSCA-7156C53713"
         ],
@@ -589,6 +573,7 @@
         "capabilityFamilies": [
           "atomic_clocks_timing_and_BeiDou"
         ],
+        "productIds": [],
         "scorecardIds": [
           "CNSCA-FAEE0AA83E"
         ],
@@ -615,6 +600,9 @@
           "servo_control_and_precision_transmission",
           "rad_hard_power_motor_drive_and_UAV_motors",
           "high_reliability_interconnects_and_micro_motors"
+        ],
+        "productIds": [
+          "P-SHUGUANG-SERVO"
         ],
         "scorecardIds": [
           "CNSCA-FA049DE64A",
@@ -659,6 +647,9 @@
         "capabilityFamilies": [
           "military_robot_motion_and_EO_modules"
         ],
+        "productIds": [
+          "P-JINGPIN-MODULES"
+        ],
         "scorecardIds": [
           "CNSCA-A63BD1FF74"
         ],
@@ -685,6 +676,7 @@
           "special_batteries_BMS_and_space_power",
           "aircraft_power_converters"
         ],
+        "productIds": [],
         "scorecardIds": [
           "CNSCA-53BD0A7C17",
           "CNSCA-97170E9F4F"
@@ -717,6 +709,7 @@
         "label": "Manipulators and end effectors",
         "plain": "Arms, grippers and tool interfaces for ground and shipboard robots.",
         "capabilityFamilies": [],
+        "productIds": [],
         "scorecardIds": [],
         "suppliers": [],
         "coverage": "no_record",
@@ -732,6 +725,7 @@
           "high_reliability_GPU_and_radar_signal_processing",
           "rugged_embedded_compute_UAV_flight_and_CUAS"
         ],
+        "productIds": [],
         "scorecardIds": [
           "CNSCA-CE7C7723D4",
           "CNSCA-2C00142CC5"
@@ -767,6 +761,7 @@
           "RF_data_conversion_power_and_microsystems",
           "RF_ferrites_and_circulators"
         ],
+        "productIds": [],
         "scorecardIds": [
           "CNSCA-FBEEBE8091",
           "CNSCA-E3A27AE0AB"
@@ -799,6 +794,7 @@
         "label": "Edge AI accelerators",
         "plain": "Domestic chips for onboard perception and autonomy inference.",
         "capabilityFamilies": [],
+        "productIds": [],
         "scorecardIds": [],
         "suppliers": [],
         "coverage": "no_record",
@@ -814,6 +810,7 @@
           "tactical_navigation_datalinks_and_EW_terminals",
           "tactical_datalinks_and_BeiDou"
         ],
+        "productIds": [],
         "scorecardIds": [
           "CNSCA-06C4F00FB5",
           "CNSCA-A60A2291B2"
@@ -850,6 +847,7 @@
           "military_wireless_and_unattended_system_comms",
           "private_4G_5G_self_organizing_anti_jam_comms"
         ],
+        "productIds": [],
         "scorecardIds": [
           "CNSCA-2C9245B437",
           "CNSCA-22CBBC4638",
@@ -893,6 +891,7 @@
         "capabilityFamilies": [
           "UAV_swarm_mesh_and_mission_computing"
         ],
+        "productIds": [],
         "scorecardIds": [
           "CNSCA-4C8F5E8482"
         ],
@@ -919,6 +918,7 @@
           "unmanned_platforms_swarming_and_mission_integration",
           "unmanned_systems_and_aerospace_electronics_integration"
         ],
+        "productIds": [],
         "scorecardIds": [
           "CNSCA-96F078E2AA",
           "CNSCA-6016AB896F",
@@ -989,6 +989,10 @@
         "capabilityFamilies": [
           "robotics_and_autonomy_integration"
         ],
+        "productIds": [
+          "P-SPOCK",
+          "P-JINGPIN-ROBOTS"
+        ],
         "scorecardIds": [
           "CNSCA-7E9F65D75E"
         ],
@@ -1014,6 +1018,12 @@
         "capabilityFamilies": [
           "special_robots_and_quadruped_support"
         ],
+        "productIds": [
+          "P-X30",
+          "P-SPOCK",
+          "P-GO2",
+          "P-EXERCISE-ROBOTS"
+        ],
         "scorecardIds": [
           "CNSCA-D93423905C"
         ],
@@ -1037,6 +1047,7 @@
         "label": "Autonomy software and perception models",
         "plain": "Perception, planning and control software, model interfaces and simulation for autonomy.",
         "capabilityFamilies": [],
+        "productIds": [],
         "scorecardIds": [],
         "suppliers": [],
         "coverage": "no_record",
@@ -1047,8 +1058,9 @@
         "id": "N-HUMANOID",
         "tier": "autonomy",
         "label": "Humanoid platforms",
-        "plain": "General-purpose humanoid robots with a documented defense or dual-use customer.",
+        "plain": "General-purpose humanoid robots; commercial capability and military customer connections are collected separately.",
         "capabilityFamilies": [],
+        "productIds": [],
         "scorecardIds": [],
         "suppliers": [],
         "coverage": "no_record",
@@ -1063,6 +1075,7 @@
         "capabilityFamilies": [
           "counter_UAS_detection_EW_and_control"
         ],
+        "productIds": [],
         "scorecardIds": [
           "CNSCA-15EC4C0A8B",
           "CNSCA-8872A59052",
@@ -1133,6 +1146,10 @@
         "capabilityFamilies": [
           "robotic_grinding_and_shipyard_production_automation"
         ],
+        "productIds": [
+          "P-GRIND-SMALL",
+          "P-GRIND-TINY"
+        ],
         "scorecardIds": [
           "CNSCA-C250E60D20"
         ],
@@ -1141,14 +1158,14 @@
             "id": "CNSCA-C250E60D20",
             "supplier": "广东熙瑞智能科技有限公司",
             "englishName": "Guangdong Xirui Intelligent Technology Co. Ltd.",
-            "tier": "evidence_qualified",
-            "importance": 54,
+            "tier": "bounded",
+            "importance": null,
             "lane": "production_enabler"
           }
         ],
-        "coverage": "evidence_qualified",
-        "evidenceQualifiedCount": 1,
-        "provisionalCount": 0
+        "coverage": "provisional_only",
+        "evidenceQualifiedCount": 0,
+        "provisionalCount": 1
       },
       {
         "id": "N-CNC",
@@ -1158,6 +1175,7 @@
         "capabilityFamilies": [
           "CNC_controls_servo_drives_and_machine_tool_components"
         ],
+        "productIds": [],
         "scorecardIds": [
           "CNSCA-8FC0083F7A"
         ],
@@ -1178,9 +1196,10 @@
       {
         "id": "N-INDUSTRIAL-ROBOT",
         "tier": "production",
-        "label": "Industrial robot arms for defense lines",
-        "plain": "Six-axis and collaborative arms with a documented defense-plant deployment.",
+        "label": "Industrial robot arms",
+        "plain": "Six-axis and collaborative arms; customer and production-line applications require separate relationship evidence.",
         "capabilityFamilies": [],
+        "productIds": [],
         "scorecardIds": [],
         "suppliers": [],
         "coverage": "no_record",
@@ -1195,6 +1214,7 @@
         "capabilityFamilies": [
           "electromagnetic_simulation_AESA_calibration_and_validation"
         ],
+        "productIds": [],
         "scorecardIds": [
           "CNSCA-F0C568E721"
         ],
@@ -1221,6 +1241,7 @@
           "environmental_reliability_EMC_and_component_screening",
           "software_EMC_reliability_and_acceptance_testing"
         ],
+        "productIds": [],
         "scorecardIds": [
           "CNSCA-D1614000A1",
           "CNSCA-F9D9FD0987"
@@ -1253,6 +1274,7 @@
         "label": "Simulation and digital twins for autonomy",
         "plain": "Synthetic training data, digital twins and hardware-in-the-loop for autonomy.",
         "capabilityFamilies": [],
+        "productIds": [],
         "scorecardIds": [],
         "suppliers": [],
         "coverage": "no_record",
@@ -1261,6 +1283,1348 @@
       }
     ]
   },
+  "ecosystem": {
+    "version": "robotics-relationships-1",
+    "reviewedAt": "2026-09-04",
+    "scope": "Six case studies of civilian robotics, defense production, military use and ownership. Evidence dates vary; this is a selected collection, not a census or a current-state verification of every company.",
+    "entities": [
+      {
+        "id": "E-DEEP",
+        "name": "DEEP Robotics",
+        "nameZh": "云深处",
+        "identityScope": "Company brand in 2024 reporting; the historical contracting legal entity is unresolved.",
+        "role": "Robot manufacturer",
+        "sourceIds": [
+          "S-DEEP-PILOT"
+        ]
+      },
+      {
+        "id": "E-DEEP-LEGAL",
+        "name": "Hangzhou Yunshenchu Technology Co., Ltd.",
+        "nameZh": "杭州云深处科技股份有限公司",
+        "identityScope": "Legal name verified on the 2026 draft prospectus; this legal form is not backdated to 2024.",
+        "role": "Robot manufacturer / filing issuer",
+        "sourceIds": [
+          "S-DEEP-FILING"
+        ]
+      },
+      {
+        "id": "E-EGP",
+        "name": "Eastern Green Power",
+        "nameZh": null,
+        "identityScope": "Partner name in the supplier account; legal suffix and registration not verified.",
+        "role": "Integration partner",
+        "sourceIds": [
+          "S-DEEP-PILOT"
+        ]
+      },
+      {
+        "id": "E-SP",
+        "name": "SP Group",
+        "nameZh": "新加坡能源集团",
+        "identityScope": "Group identity; exact purchasing subsidiary not established.",
+        "role": "Civilian end user",
+        "sourceIds": [
+          "S-SP"
+        ]
+      },
+      {
+        "id": "E-UNITREE",
+        "name": "Unitree Robotics",
+        "nameZh": "宇树科技",
+        "identityScope": "Company brand; exact contracting entity not verified in this case.",
+        "role": "Robot manufacturer / software publisher",
+        "sourceIds": [
+          "S-GO2",
+          "S-UNITREE-SDK"
+        ]
+      },
+      {
+        "id": "E-EXERCISE",
+        "name": "Chinese participants at Golden Dragon 2024",
+        "nameZh": null,
+        "identityScope": "Exercise participant group; purchasing unit and seller unknown.",
+        "role": "Reported military users",
+        "sourceIds": [
+          "S-CCTV"
+        ]
+      },
+      {
+        "id": "E-JINGPIN",
+        "name": "Beijing Jingpin Special Equipment",
+        "nameZh": "北京晶品特装科技股份有限公司",
+        "identityScope": "Legal name in the FY2024 annual report; current registry not checked.",
+        "role": "Robot and sensing systems producer",
+        "sourceIds": [
+          "S-JINGPIN"
+        ]
+      },
+      {
+        "id": "E-XIRUI",
+        "name": "Guangdong Xirui Intelligent Technology",
+        "nameZh": "广东熙瑞智能科技有限公司",
+        "identityScope": "Exact supplier name in two final awards; registry and beneficial ownership not verified.",
+        "role": "Awarded workstation supplier",
+        "sourceIds": [
+          "S-XIRUI-SMALL",
+          "S-XIRUI-TINY"
+        ]
+      },
+      {
+        "id": "E-WAIGAOQIAO",
+        "name": "Shanghai Waigaoqiao Shipbuilding",
+        "nameZh": "上海外高桥造船有限公司",
+        "identityScope": "Exact purchaser named in final notices.",
+        "role": "Shipyard purchaser; vessel end use unspecified",
+        "sourceIds": [
+          "S-XIRUI-SMALL",
+          "S-XIRUI-TINY"
+        ]
+      },
+      {
+        "id": "E-ESTUN",
+        "name": "Estun",
+        "nameZh": "南京埃斯顿自动化股份有限公司",
+        "identityScope": "Listed issuer in transaction disclosures.",
+        "role": "Automation company / historical indirect owner",
+        "sourceIds": [
+          "S-ESTUN-CLOSE",
+          "S-ESTUN-2026"
+        ]
+      },
+      {
+        "id": "E-DINGKONG",
+        "name": "Nanjing Dingkong",
+        "nameZh": "南京鼎控机电科技有限公司",
+        "identityScope": "Estun-controlled transaction vehicle named in 2017 disclosure; present registry not checked.",
+        "role": "Historical direct shareholder",
+        "sourceIds": [
+          "S-ESTUN-CLOSE"
+        ]
+      },
+      {
+        "id": "E-SHUGUANG",
+        "name": "Yangzhou Shuguang",
+        "nameZh": "扬州曙光光电自控有限责任公司",
+        "identityScope": "Legal name in issuer filings; historical identifier 91321091743733424L, not a current registry check.",
+        "role": "Historical military servo supplier",
+        "sourceIds": [
+          "S-ESTUN-2017",
+          "S-ESTUN-2026"
+        ]
+      },
+      {
+        "id": "E-XINHONGYE",
+        "name": "Wuxi Xinhongye Wire & Cable Technology",
+        "nameZh": "无锡鑫宏业线缆科技股份有限公司",
+        "identityScope": "Purchaser of Estun's remaining stake named in audited statements.",
+        "role": "Disclosed acquiring shareholder",
+        "sourceIds": [
+          "S-ESTUN-2026"
+        ]
+      },
+      {
+        "id": "E-SIASUN",
+        "name": "Siasun",
+        "nameZh": "新松",
+        "identityScope": "Company brand publishing the 2015 account.",
+        "role": "Automation and manufacturing technology provider",
+        "sourceIds": [
+          "S-SIASUN"
+        ]
+      },
+      {
+        "id": "E-SHENFEI-CIVIL",
+        "name": "AVIC Shenyang Civil Aircraft",
+        "nameZh": "中航沈飞民用飞机公司",
+        "identityScope": "Abbreviated counterparty name as printed; full legal identity not resolved.",
+        "role": "Civil-aircraft research partner",
+        "sourceIds": [
+          "S-SIASUN"
+        ]
+      }
+    ],
+    "products": [
+      {
+        "id": "P-X30",
+        "name": "X30 quadruped",
+        "productClass": "Legged robots",
+        "manufacturerId": "E-DEEP",
+        "nodeIds": [
+          "N-LEGGED"
+        ],
+        "claimIds": [
+          "C-DEEP-CHAIN"
+        ],
+        "technicalStage": "Supplier describes a tunnel-inspection pilot.",
+        "scope": "X30 identification is from the supplier account."
+      },
+      {
+        "id": "P-SPOCK",
+        "name": "SPock inspection solution",
+        "productClass": "Legged robots",
+        "manufacturerId": null,
+        "nodeIds": [
+          "N-LEGGED",
+          "N-ROBOTICS-INT"
+        ],
+        "claimIds": [
+          "C-DEEP-CHAIN",
+          "C-SP-USE"
+        ],
+        "technicalStage": "Customer reports inspection training and use.",
+        "scope": "Integrated customer solution; customer account does not identify the OEM."
+      },
+      {
+        "id": "P-GO2",
+        "name": "Unitree Go2",
+        "productClass": "Legged robots",
+        "manufacturerId": "E-UNITREE",
+        "nodeIds": [
+          "N-LEGGED"
+        ],
+        "claimIds": [
+          "C-GO2"
+        ],
+        "technicalStage": "Commercially marketed product.",
+        "scope": "Current product page; not a frozen 2024 configuration."
+      },
+      {
+        "id": "P-SDK",
+        "name": "Unitree SDK2",
+        "productClass": "Software and integration",
+        "manufacturerId": "E-UNITREE",
+        "nodeIds": [],
+        "claimIds": [
+          "C-UNITREE-SDK"
+        ],
+        "technicalStage": "Published developer resource.",
+        "scope": "Software availability does not establish adoption or a military integration."
+      },
+      {
+        "id": "P-EXERCISE-ROBOTS",
+        "name": "Unidentified Golden Dragon quadrupeds",
+        "productClass": "Legged robots",
+        "manufacturerId": null,
+        "nodeIds": [
+          "N-LEGGED"
+        ],
+        "claimIds": [
+          "C-CCTV"
+        ],
+        "technicalStage": "Reported exercise appearance.",
+        "scope": "Model, OEM, integrator and seller are unknown; not identified as Go2."
+      },
+      {
+        "id": "P-JINGPIN-ROBOTS",
+        "name": "Jingpin military-robot portfolio",
+        "productClass": "Special-purpose robots",
+        "manufacturerId": "E-JINGPIN",
+        "nodeIds": [
+          "N-ROBOTICS-INT"
+        ],
+        "claimIds": [
+          "C-JINGPIN-ROBOTS",
+          "C-JINGPIN-REVENUE"
+        ],
+        "technicalStage": "FY2024 business with recognized revenue; individual models vary.",
+        "scope": "Portfolio evidence does not establish every model's delivery or fielding."
+      },
+      {
+        "id": "P-JINGPIN-MODULES",
+        "name": "Jingpin upstream robot products",
+        "productClass": "Actuation and components",
+        "manufacturerId": "E-JINGPIN",
+        "nodeIds": [
+          "N-ROBOT-MOTION"
+        ],
+        "claimIds": [
+          "C-JINGPIN-MODULES"
+        ],
+        "technicalStage": "Research and development.",
+        "scope": "The FY2024 report describes external sales as possible after adaptation; actual external sales are not established."
+      },
+      {
+        "id": "P-JINGPIN-CIVIL",
+        "name": "Jingpin civilian manufacturing applications",
+        "productClass": "Manufacturing technology",
+        "manufacturerId": "E-JINGPIN",
+        "nodeIds": [],
+        "claimIds": [
+          "C-JINGPIN-CIVIL"
+        ],
+        "technicalStage": "Management-described emerging business.",
+        "scope": "Technology transfer and commercial outcomes require customer corroboration."
+      },
+      {
+        "id": "P-GRIND-SMALL",
+        "name": "Small-parts grinding workstation",
+        "productClass": "Industrial robotics",
+        "manufacturerId": null,
+        "nodeIds": [
+          "N-SHIPYARD"
+        ],
+        "claimIds": [
+          "C-XIRUI-SMALL"
+        ],
+        "technicalStage": "Installation and acceptance not established.",
+        "scope": "Xirui is the awarded supplier; component OEMs are not disclosed."
+      },
+      {
+        "id": "P-GRIND-TINY",
+        "name": "Very-small-parts grinding workstation",
+        "productClass": "Industrial robotics",
+        "manufacturerId": null,
+        "nodeIds": [
+          "N-SHIPYARD"
+        ],
+        "claimIds": [
+          "C-XIRUI-TINY"
+        ],
+        "technicalStage": "Installation and acceptance not established.",
+        "scope": "Separate tender and award from the small-parts workstation."
+      },
+      {
+        "id": "P-SHUGUANG-SERVO",
+        "name": "Yangzhou Shuguang servo systems",
+        "productClass": "Actuation and components",
+        "manufacturerId": "E-SHUGUANG",
+        "nodeIds": [
+          "N-SERVO"
+        ],
+        "claimIds": [
+          "C-SHUGUANG-CAPABILITY"
+        ],
+        "technicalStage": "Issuer-described defense business as of 2017.",
+        "scope": "Historical product family; current sales and technical performance not reviewed."
+      },
+      {
+        "id": "P-SIASUN-SLM",
+        "name": "Civil-aircraft metal-printing research",
+        "productClass": "Manufacturing technology",
+        "manufacturerId": null,
+        "nodeIds": [],
+        "claimIds": [
+          "C-SIASUN-PLAN"
+        ],
+        "technicalStage": "Planned research using SLM equipment.",
+        "scope": "A manufacturing-process case; no robot deployment or military application is asserted."
+      }
+    ],
+    "sources": [
+      {
+        "id": "S-JINGPIN",
+        "title": "北京晶品特装科技股份有限公司2024年年度报告",
+        "publisher": "Beijing Jingpin / CNINFO",
+        "url": "https://static.cninfo.com.cn/finalpage/2025-04-29/1223380866.PDF",
+        "publicationDate": "2025-04-29",
+        "retrievedAt": "2026-09-04",
+        "accessState": "Full PDF text reviewed at cited pages",
+        "originId": "O-JINGPIN-2024",
+        "note": "Describes FY2024. The 2025 annual report has not been reviewed in this dossier."
+      },
+      {
+        "id": "S-XIRUI-SMALL",
+        "title": "外高桥数字化零件打磨机器人工作站（小零件）结果公告",
+        "publisher": "CSSC bidding platform",
+        "url": "https://www.csscbidding.com/jyxx/003001/003001004/20250825/5a186f89-8939-4634-9bdc-bb09d21cbcbb.html",
+        "publicationDate": "2025-08-25",
+        "retrievedAt": "2026-09-04",
+        "accessState": "Full notice body reviewed",
+        "originId": "O-AWARD-031",
+        "note": "Attachment not separately inspected; final notice names purchaser and winner."
+      },
+      {
+        "id": "S-XIRUI-TINY",
+        "title": "外高桥数字化零件打磨机器人工作站（极小零件）结果公告",
+        "publisher": "CSSC bidding platform",
+        "url": "https://csscbidding.com/jyxx/003001/003001004/20250825/fc564718-4800-43a3-b82a-02c5058139fe.html",
+        "publicationDate": "2025-08-25",
+        "retrievedAt": "2026-09-04",
+        "accessState": "Full notice body reviewed",
+        "originId": "O-AWARD-030",
+        "note": "A separate award, not a second source for the same transaction."
+      },
+      {
+        "id": "S-DEEP-PILOT",
+        "title": "云深处隧道巡检机器狗首度交付新加坡电网",
+        "publisher": "DEEP Robotics",
+        "url": "https://deeprobotics.cn/robot/wap/article/id/266.html",
+        "publicationDate": "2024-12-17",
+        "retrievedAt": "2026-09-04",
+        "accessState": "Full article text reviewed",
+        "originId": "O-DEEP-SPOCK",
+        "note": "Supplier attribution. Some imagery/story material derives from SP Group; that reuse is not independent corroboration."
+      },
+      {
+        "id": "S-SP",
+        "title": "How this technical officer and robot SPock hunt hazards to protect Singapore’s power tunnels",
+        "publisher": "SP Group",
+        "url": "https://www.spgroup.com.sg/about-us/media-resources/energy-hub/reliability/How-this-technical-officer-and-robot-SPock-hunt-hazards-to-protect-Singapore-power-tunnels",
+        "publicationDate": "2024-11-27",
+        "retrievedAt": "2026-09-04",
+        "accessState": "Full article text reviewed",
+        "originId": "O-SP-SPOCK",
+        "note": "Buyer-side account of use; it does not identify X30, DEEP or EGP."
+      },
+      {
+        "id": "S-DEEP-FILING",
+        "title": "杭州云深处科技股份有限公司招股说明书（申报稿）",
+        "publisher": "Hangzhou Yunshenchu / CNINFO",
+        "url": "https://dataclouds.cninfo.com.cn/sjother2/documents/2026/2026-05-18/3ef52e260c1cc31a8c57ab5e0abf2c14.pdf",
+        "publicationDate": null,
+        "retrievedAt": "2026-09-04",
+        "accessState": "PDF text reviewed at cited pages",
+        "originId": "O-DEEP-FILING",
+        "note": "Hosting path indicates 18 May 2026; exact publication/signature date not independently established."
+      },
+      {
+        "id": "S-GO2",
+        "title": "Unitree Go2",
+        "publisher": "Unitree Robotics",
+        "url": "https://www.unitree.com/go2/",
+        "publicationDate": null,
+        "retrievedAt": "2026-09-04",
+        "accessState": "Product page text reviewed",
+        "originId": "O-UNITREE-GO2",
+        "note": "Undated, mutable commercial listing; specifications and availability may change."
+      },
+      {
+        "id": "S-UNITREE-SDK",
+        "title": "Unitree Robotics developer resources",
+        "publisher": "Unitree Robotics",
+        "url": "https://github.com/unitreerobotics",
+        "publicationDate": null,
+        "retrievedAt": "2026-09-04",
+        "accessState": "Organization README and SDK descriptions reviewed",
+        "originId": "O-UNITREE-SDK",
+        "note": "First-party association verified through the official product site's resource link. Some dynamic widgets unavailable."
+      },
+      {
+        "id": "S-CCTV",
+        "title": "又火了！国产机器狗，背上了枪冲锋！",
+        "publisher": "CCTV Military",
+        "url": "https://military.cctv.com/2024/05/27/ARTIMW8UKPoPPY8VrtLwVd5P240527.shtml",
+        "publicationDate": "2024-05-27",
+        "retrievedAt": "2026-09-04",
+        "accessState": "Full article text reviewed",
+        "originId": "O-CCTV-GOLDEN-DRAGON",
+        "note": "No independent imagery-based model identification performed."
+      },
+      {
+        "id": "S-ESTUN-2017",
+        "title": "关于变更部分非公开发行股票募集资金用途的公告（2017-116）",
+        "publisher": "Estun",
+        "url": "https://www.estun.com/static/upload/file/20220517/1652753469816426.pdf",
+        "publicationDate": "2017-12",
+        "retrievedAt": "2026-09-04",
+        "accessState": "PDF text reviewed at cited pages",
+        "originId": "O-ESTUN-ACQUISITION",
+        "note": "Publication day not established. The 2022 hosting directory is not the transaction date."
+      },
+      {
+        "id": "S-ESTUN-CLOSE",
+        "title": "关于控股子公司收购扬州曙光光电自控有限责任公司股权的进展公告",
+        "publisher": "Estun issuer disclosure / Securities Times",
+        "url": "https://epaper.stcn.com/paper/zqsb/html/2017-12/14/content_1077215.htm",
+        "publicationDate": "2017-12-14",
+        "retrievedAt": "2026-09-04",
+        "accessState": "Full disclosure text reviewed",
+        "originId": "O-ESTUN-CLOSING",
+        "note": "Signed 13 December; registration and equity transfer completed 12 December 2017."
+      },
+      {
+        "id": "S-ESTUN-2026",
+        "title": "Estun underlying financial statements",
+        "publisher": "Estun / HKEX; KPMG auditor report",
+        "url": "https://www.hkexnews.hk/listedco/listconews/sehk/2026/0227/12031239/2026022700113_c.pdf",
+        "publicationDate": "2026-02-27",
+        "retrievedAt": "2026-09-04",
+        "accessState": "PDF text reviewed at Notes 15 and 35",
+        "originId": "O-ESTUN-FINANCIALS",
+        "note": "Statements cover 2022–2024 and nine months to September 2025; Note 35 reports a subsequent event. Screenshot retrieval failed."
+      },
+      {
+        "id": "S-SIASUN",
+        "title": "开启未来“智”造——新松公司重装亮相2015中国国际机器人展",
+        "publisher": "Siasun",
+        "url": "https://www.siasun.com/news-detail650.html",
+        "publicationDate": "2015-06-30",
+        "retrievedAt": "2026-09-04",
+        "accessState": "Full article including relevant paragraph reviewed",
+        "originId": "O-SIASUN-CIVIL",
+        "note": "The article distinguishes established cooperation from future equipment use."
+      }
+    ],
+    "claims": [
+      {
+        "id": "C-JINGPIN-ROBOTS",
+        "caseId": "jingpin",
+        "sourceId": "S-JINGPIN",
+        "text": "Jingpin describes a complete military-robot business.",
+        "locator": "Printed p14, military-robot section",
+        "excerpt": "军用机器人",
+        "translation": "Military robots",
+        "basis": "Issuer report",
+        "limitation": "Does not establish every model's delivery, named end users or comparative leadership."
+      },
+      {
+        "id": "C-JINGPIN-MODULES",
+        "caseId": "jingpin",
+        "sourceId": "S-JINGPIN",
+        "text": "Upstream robot products are under development; external sales depend on adaptation.",
+        "locator": "Printed p14, final paragraph of military-robot section",
+        "excerpt": "研发机器人上游产品",
+        "translation": "Developing upstream robot products",
+        "basis": "Management description",
+        "limitation": "Does not establish a mature external component business."
+      },
+      {
+        "id": "C-JINGPIN-CIVIL",
+        "caseId": "jingpin",
+        "sourceId": "S-JINGPIN",
+        "text": "Management describes military technology extending into civilian manufacturing.",
+        "locator": "Printed pp12 and 21",
+        "excerpt": "以军促民协同发展",
+        "translation": "Using military capabilities to advance civilian applications",
+        "basis": "Management description",
+        "limitation": "Technology lineage and customer outcomes need independent corroboration."
+      },
+      {
+        "id": "C-JINGPIN-REVENUE",
+        "caseId": "jingpin",
+        "sourceId": "S-JINGPIN",
+        "text": "FY2024 military-robot revenue was RMB39,840,135.50.",
+        "locator": "Printed p35, product revenue table",
+        "excerpt": null,
+        "translation": null,
+        "basis": "Reported financial metric",
+        "limitation": "Business-category revenue is not unit volume or proof of operational fielding."
+      },
+      {
+        "id": "C-JINGPIN-UNITS",
+        "caseId": "jingpin",
+        "sourceId": "S-JINGPIN",
+        "text": "The reported 3,197 sales quantity is expressed in G001 standard-labor-hour equivalents.",
+        "locator": "Printed p37, production/sales note 1",
+        "excerpt": "并非实际数据",
+        "translation": "Not actual data",
+        "basis": "Table definition",
+        "limitation": "It must not be read as 3,197 actual robots delivered or deployed."
+      },
+      {
+        "id": "C-XIRUI-SMALL",
+        "caseId": "xirui",
+        "sourceId": "S-XIRUI-SMALL",
+        "text": "Xirui won Waigaoqiao's small-parts grinding workstation award for RMB7,920,000.",
+        "locator": "CSSC-03-251066-031; winner and purchaser fields",
+        "excerpt": "确定中标人如下",
+        "translation": "The winning bidder is determined as follows",
+        "basis": "Final award notice",
+        "limitation": "Delivery, acceptance, use, productivity effect and naval end use are not established."
+      },
+      {
+        "id": "C-XIRUI-TINY",
+        "caseId": "xirui",
+        "sourceId": "S-XIRUI-TINY",
+        "text": "Xirui won Waigaoqiao's very-small-parts grinding workstation award for RMB2,450,000.",
+        "locator": "CSSC-03-251066-030; winner and purchaser fields",
+        "excerpt": "确定中标人如下",
+        "translation": "The winning bidder is determined as follows",
+        "basis": "Final award notice",
+        "limitation": "A separate final award; it does not establish installation or naval use."
+      },
+      {
+        "id": "C-DEEP-CHAIN",
+        "caseId": "deep",
+        "sourceId": "S-DEEP-PILOT",
+        "text": "DEEP names X30, Eastern Green Power and SP Group in its account of delivering the SPock inspection pilot.",
+        "locator": "Opening paragraph and cable-tunnel pilot paragraph",
+        "excerpt": "在其中一条电缆隧道中试点应用",
+        "translation": "Piloted in one cable tunnel",
+        "basis": "Supplier account",
+        "limitation": "Exact delivery date, unit count, legal buyer and formal acceptance are unknown."
+      },
+      {
+        "id": "C-SP-USE",
+        "caseId": "deep",
+        "sourceId": "S-SP",
+        "text": "SP Group reports training SPock for independent tunnel inspections.",
+        "locator": "First paragraph below the title",
+        "excerpt": "trained robotic dog SPock to conduct independent tunnel inspections",
+        "translation": null,
+        "basis": "End-user account",
+        "limitation": "Corroborates SPock's application, not the supplier article's OEM/integrator identification or autonomous utilization rate."
+      },
+      {
+        "id": "C-DEEP-FOLLOWON",
+        "caseId": "deep",
+        "sourceId": "S-DEEP-FILING",
+        "text": "The draft prospectus reports a first batch of phase-two SP Group deliveries in 2025.",
+        "locator": "Printed p3",
+        "excerpt": "并于次年完成第二阶段首批交付",
+        "translation": "Completed the first batch of phase-two deliveries the following year",
+        "basis": "Issuer filing",
+        "limitation": "Does not establish completion of the full phase, quantity or buyer acceptance."
+      },
+      {
+        "id": "C-DEEP-REVENUE",
+        "caseId": "deep",
+        "sourceId": "S-DEEP-FILING",
+        "text": "The filing reports 2025 consolidated company revenue of RMB337,490,600.",
+        "locator": "Printed pp27–28; original unit is RMB10,000",
+        "excerpt": null,
+        "translation": null,
+        "basis": "Reported financial metric",
+        "limitation": "This is company-wide revenue, not SPock revenue, unit sales or military revenue."
+      },
+      {
+        "id": "C-GO2",
+        "caseId": "unitree",
+        "sourceId": "S-GO2",
+        "text": "Unitree commercially markets the Go2 quadruped family.",
+        "locator": "Product heading and configuration table",
+        "excerpt": "Unitree Go2",
+        "translation": null,
+        "basis": "Manufacturer product listing",
+        "limitation": "No transaction, sales quantity or military customer is established."
+      },
+      {
+        "id": "C-UNITREE-SDK",
+        "caseId": "unitree",
+        "sourceId": "S-UNITREE-SDK",
+        "text": "Unitree lists SDK2 as a development resource supporting Go2 and other products.",
+        "locator": "Organization README, Robot SDK row",
+        "excerpt": "An SDK package used to develop Go2",
+        "translation": null,
+        "basis": "Official developer resource",
+        "limitation": "Does not prove use by any military integrator or successful third-party adoption."
+      },
+      {
+        "id": "C-CCTV",
+        "caseId": "unitree",
+        "sourceId": "S-CCTV",
+        "text": "CCTV reports Chinese robot dogs appearing at Golden Dragon 2024.",
+        "locator": "Opening lines and participant accounts",
+        "excerpt": "国产机器狗亮相",
+        "translation": "Chinese-made robot dogs appeared",
+        "basis": "Reported exercise observation",
+        "limitation": "OEM, model, seller and integrator remain unidentified. No Unitree-to-PLA supply relationship follows from this report."
+      },
+      {
+        "id": "C-SHUGUANG-CAPABILITY",
+        "caseId": "estun",
+        "sourceId": "S-ESTUN-2017",
+        "text": "The 2017 issuer disclosure describes Yangzhou Shuguang's military servo and control business.",
+        "locator": "Printed pp3 and 8",
+        "excerpt": "武器装备用交流伺服系统",
+        "translation": "AC servo systems for weapons equipment",
+        "basis": "Historical issuer disclosure",
+        "limitation": "Historical business description; current sales, market share and individual product deliveries are unverified."
+      },
+      {
+        "id": "C-ESTUN-CLOSE",
+        "caseId": "estun",
+        "sourceId": "S-ESTUN-CLOSE",
+        "text": "The 68% acquisition through Nanjing Dingkong completed equity transfer and registration on 12 December 2017.",
+        "locator": "Sections I–II",
+        "excerpt": "本次交易标的股权已完成过户",
+        "translation": "The transaction's equity transfer has completed",
+        "basis": "Issuer closing disclosure",
+        "limitation": "Does not mean the entire purchase consideration was paid on that date."
+      },
+      {
+        "id": "C-ESTUN-CONTROL",
+        "caseId": "estun",
+        "sourceId": "S-ESTUN-2026",
+        "text": "The 20-percentage-point sale completed on 25 June 2025, leaving 48% and ending control.",
+        "locator": "Note 15, printed p56",
+        "excerpt": "Upon completion of the transfer on 25 June 2025",
+        "translation": null,
+        "basis": "Audited financial statements",
+        "limitation": "Remaining associate ownership continued until the later disposal."
+      },
+      {
+        "id": "C-ESTUN-EXIT",
+        "caseId": "estun",
+        "sourceId": "S-ESTUN-2026",
+        "text": "Sale of the remaining 48% to Wuxi Xinhongye completed on 3 November 2025.",
+        "locator": "Note 35, printed p101",
+        "excerpt": "completed on 3 November 2025",
+        "translation": null,
+        "basis": "Audited statements, subsequent event",
+        "limitation": "Ends the disclosed holding; does not prove all commercial or technical relationships ended."
+      },
+      {
+        "id": "C-SIASUN-COOP",
+        "caseId": "siasun",
+        "sourceId": "S-SIASUN",
+        "text": "Siasun reports established cooperation with the named Shenyang civil-aircraft company.",
+        "locator": "智能3D打印设备, first paragraph",
+        "excerpt": "建立了合作关系",
+        "translation": "Established a cooperative relationship",
+        "basis": "Company announcement",
+        "limitation": "Exact agreement date and full legal counterparty identity are not supplied."
+      },
+      {
+        "id": "C-SIASUN-PLAN",
+        "caseId": "siasun",
+        "sourceId": "S-SIASUN",
+        "text": "The account describes planned manufacturing R&D for engine pylons and other key components for three aircraft types including C919, using SLM metal printing.",
+        "locator": "智能3D打印设备, first paragraph",
+        "excerpt": "将采用该设备进行C919等三种机型",
+        "translation": "Will use this equipment for three aircraft types including C919",
+        "basis": "Announced research plan",
+        "limitation": "The other two types are unidentified. Planned equipment use does not establish delivery, robot deployment or military application."
+      }
+    ],
+    "relationships": [
+      {
+        "id": "R-DEEP-EGP",
+        "caseId": "deep",
+        "subjectId": "E-DEEP",
+        "objectId": "E-EGP",
+        "productIds": [
+          "P-X30",
+          "P-SPOCK"
+        ],
+        "relation": "Integration partnership",
+        "connection": "Civilian application",
+        "transactionStage": "Supplier reports pilot delivery",
+        "technicalStage": "One-tunnel pilot",
+        "eventDate": null,
+        "dateLabel": "Reported 17 Dec 2024; delivery date unknown",
+        "effectiveStart": null,
+        "effectiveEnd": null,
+        "currentness": "Dated observation",
+        "claimIds": [
+          "C-DEEP-CHAIN"
+        ],
+        "limitation": "Supplier attribution; independent contract confirmation absent."
+      },
+      {
+        "id": "R-DEEP-SP",
+        "caseId": "deep",
+        "subjectId": "E-DEEP",
+        "objectId": "E-SP",
+        "productIds": [
+          "P-SPOCK"
+        ],
+        "relation": "Reported pilot delivery",
+        "connection": "Civilian application",
+        "transactionStage": "Supplier reports delivery",
+        "technicalStage": "Pilot",
+        "eventDate": null,
+        "dateLabel": "By supplier report of 17 Dec 2024",
+        "effectiveStart": null,
+        "effectiveEnd": null,
+        "currentness": "Dated observation",
+        "claimIds": [
+          "C-DEEP-CHAIN"
+        ],
+        "limitation": "Exact legal buyer, quantities and formal acceptance unknown."
+      },
+      {
+        "id": "R-SP-USE",
+        "caseId": "deep",
+        "subjectId": "E-SP",
+        "objectId": null,
+        "productIds": [
+          "P-SPOCK"
+        ],
+        "relation": "Customer reports inspection use",
+        "connection": "Civilian application",
+        "transactionStage": "Unknown",
+        "technicalStage": "Inspection training and use",
+        "eventDate": null,
+        "dateLabel": "Reported 27 Nov 2024",
+        "effectiveStart": null,
+        "effectiveEnd": null,
+        "currentness": "Dated observation",
+        "claimIds": [
+          "C-SP-USE"
+        ],
+        "limitation": "Customer account does not name the OEM or integrator."
+      },
+      {
+        "id": "R-DEEP-PHASE2",
+        "caseId": "deep",
+        "subjectId": "E-DEEP-LEGAL",
+        "objectId": "E-SP",
+        "productIds": [
+          "P-SPOCK"
+        ],
+        "relation": "Reported follow-on delivery",
+        "connection": "Civilian application",
+        "transactionStage": "Issuer reports first-batch delivery",
+        "technicalStage": "Phase-two performance unverified",
+        "eventDate": "2025",
+        "dateLabel": "2025; exact day unknown",
+        "effectiveStart": null,
+        "effectiveEnd": null,
+        "currentness": "Dated observation",
+        "claimIds": [
+          "C-DEEP-FOLLOWON"
+        ],
+        "limitation": "First batch does not mean the full phase was completed."
+      },
+      {
+        "id": "R-UNITREE-MARKET",
+        "caseId": "unitree",
+        "subjectId": "E-UNITREE",
+        "objectId": null,
+        "productIds": [
+          "P-GO2"
+        ],
+        "relation": "Commercial product offering",
+        "connection": "Commercial capability; customer unknown",
+        "transactionStage": "Offered; no purchase observed",
+        "technicalStage": "Commercial product listing",
+        "eventDate": null,
+        "dateLabel": "Page observed 4 Sep 2026",
+        "effectiveStart": null,
+        "effectiveEnd": null,
+        "currentness": "Observed at review",
+        "claimIds": [
+          "C-GO2"
+        ],
+        "limitation": "Buyer and end use are not established."
+      },
+      {
+        "id": "R-UNITREE-SDK",
+        "caseId": "unitree",
+        "subjectId": "E-UNITREE",
+        "objectId": null,
+        "productIds": [
+          "P-SDK",
+          "P-GO2"
+        ],
+        "relation": "Publishes developer resources",
+        "connection": "Commercial capability; customer unknown",
+        "transactionStage": "Not applicable",
+        "technicalStage": "SDK available",
+        "eventDate": null,
+        "dateLabel": "Resource observed 4 Sep 2026",
+        "effectiveStart": null,
+        "effectiveEnd": null,
+        "currentness": "Observed at review",
+        "claimIds": [
+          "C-UNITREE-SDK"
+        ],
+        "limitation": "No military integration relationship is documented."
+      },
+      {
+        "id": "R-EXERCISE",
+        "caseId": "unitree",
+        "subjectId": "E-EXERCISE",
+        "objectId": null,
+        "productIds": [
+          "P-EXERCISE-ROBOTS"
+        ],
+        "relation": "Reported military exercise use",
+        "connection": "Military use; supplier unknown",
+        "transactionStage": "Unknown",
+        "technicalStage": "Exercise appearance",
+        "eventDate": "2024-05",
+        "dateLabel": "May 2024; exact observation day unknown",
+        "effectiveStart": null,
+        "effectiveEnd": null,
+        "currentness": "Dated observation",
+        "claimIds": [
+          "C-CCTV"
+        ],
+        "limitation": "No manufacturer or seller is identified; no edge to Unitree is asserted."
+      },
+      {
+        "id": "R-JINGPIN-ROBOTS",
+        "caseId": "jingpin",
+        "subjectId": "E-JINGPIN",
+        "objectId": null,
+        "productIds": [
+          "P-JINGPIN-ROBOTS"
+        ],
+        "relation": "Reports military-robot business",
+        "connection": "Defense products; buyer unidentified",
+        "transactionStage": "Aggregate revenue recognized",
+        "technicalStage": "Portfolio; model stages differ",
+        "eventDate": "2024",
+        "dateLabel": "FY2024",
+        "effectiveStart": null,
+        "effectiveEnd": null,
+        "currentness": "Dated observation",
+        "claimIds": [
+          "C-JINGPIN-ROBOTS",
+          "C-JINGPIN-REVENUE"
+        ],
+        "limitation": "Named model deliveries and end users remain unknown."
+      },
+      {
+        "id": "R-JINGPIN-MODULES",
+        "caseId": "jingpin",
+        "subjectId": "E-JINGPIN",
+        "objectId": null,
+        "productIds": [
+          "P-JINGPIN-MODULES"
+        ],
+        "relation": "Develops upstream robot products",
+        "connection": "Defense-related development",
+        "transactionStage": "External sales not established",
+        "technicalStage": "Research and development",
+        "eventDate": "2024",
+        "dateLabel": "FY2024 report",
+        "effectiveStart": null,
+        "effectiveEnd": null,
+        "currentness": "Dated observation",
+        "claimIds": [
+          "C-JINGPIN-MODULES"
+        ],
+        "limitation": "Complete-robot maturity cannot be transferred to this product family."
+      },
+      {
+        "id": "R-JINGPIN-CIVIL",
+        "caseId": "jingpin",
+        "subjectId": "E-JINGPIN",
+        "objectId": null,
+        "productIds": [
+          "P-JINGPIN-CIVIL"
+        ],
+        "relation": "Describes military-to-civilian transfer",
+        "connection": "Military-to-civilian claim",
+        "transactionStage": "Management reports emerging business",
+        "technicalStage": "Transfer not independently validated",
+        "eventDate": "2024",
+        "dateLabel": "FY2024 report",
+        "effectiveStart": null,
+        "effectiveEnd": null,
+        "currentness": "Dated observation",
+        "claimIds": [
+          "C-JINGPIN-CIVIL"
+        ],
+        "limitation": "Customer acceptance and technical lineage not independently established."
+      },
+      {
+        "id": "R-XIRUI-SMALL",
+        "caseId": "xirui",
+        "subjectId": "E-XIRUI",
+        "objectId": "E-WAIGAOQIAO",
+        "productIds": [
+          "P-GRIND-SMALL"
+        ],
+        "relation": "Wins workstation award",
+        "connection": "Shipyard production; naval use unknown",
+        "transactionStage": "Awarded",
+        "technicalStage": "Acceptance and installation unknown",
+        "eventDate": null,
+        "dateLabel": "Final notice published 25 Aug 2025; award-decision date not separately established",
+        "effectiveStart": null,
+        "effectiveEnd": null,
+        "currentness": "Dated observation",
+        "claimIds": [
+          "C-XIRUI-SMALL"
+        ],
+        "amountCny": 7920000,
+        "limitation": "Awarded value; not recognized revenue or installed capacity."
+      },
+      {
+        "id": "R-XIRUI-TINY",
+        "caseId": "xirui",
+        "subjectId": "E-XIRUI",
+        "objectId": "E-WAIGAOQIAO",
+        "productIds": [
+          "P-GRIND-TINY"
+        ],
+        "relation": "Wins separate workstation award",
+        "connection": "Shipyard production; naval use unknown",
+        "transactionStage": "Awarded",
+        "technicalStage": "Acceptance and installation unknown",
+        "eventDate": null,
+        "dateLabel": "Final notice published 25 Aug 2025; award-decision date not separately established",
+        "effectiveStart": null,
+        "effectiveEnd": null,
+        "currentness": "Dated observation",
+        "claimIds": [
+          "C-XIRUI-TINY"
+        ],
+        "amountCny": 2450000,
+        "limitation": "Does not identify any naval vessel or program."
+      },
+      {
+        "id": "R-ESTUN-CONTROL",
+        "caseId": "estun",
+        "subjectId": "E-DINGKONG",
+        "objectId": "E-SHUGUANG",
+        "productIds": [
+          "P-SHUGUANG-SERVO"
+        ],
+        "relation": "68% holding through Estun-controlled vehicle",
+        "connection": "Historical defense ownership",
+        "transactionStage": "Equity transfer completed",
+        "technicalStage": "Product performance not assessed",
+        "eventDate": "2017-12-12",
+        "dateLabel": "12 Dec 2017 to 25 Jun 2025",
+        "effectiveStart": "2017-12-12",
+        "effectiveEnd": "2025-06-25",
+        "currentness": "Historical",
+        "claimIds": [
+          "C-ESTUN-CLOSE",
+          "C-ESTUN-CONTROL"
+        ],
+        "limitation": "A historical ownership relationship, not an Estun-branded robot supply contract."
+      },
+      {
+        "id": "R-ESTUN-ASSOCIATE",
+        "caseId": "estun",
+        "subjectId": "E-ESTUN",
+        "objectId": "E-SHUGUANG",
+        "productIds": [
+          "P-SHUGUANG-SERVO"
+        ],
+        "relation": "48% indirect associate holding; control ended",
+        "connection": "Historical defense ownership",
+        "transactionStage": "20-point disposal completed",
+        "technicalStage": "Not assessed",
+        "eventDate": "2025-06-25",
+        "dateLabel": "25 Jun to 3 Nov 2025",
+        "effectiveStart": "2025-06-25",
+        "effectiveEnd": "2025-11-03",
+        "currentness": "Historical",
+        "claimIds": [
+          "C-ESTUN-CONTROL",
+          "C-ESTUN-EXIT"
+        ],
+        "limitation": "Control ended in June; the remaining equity holding ended in November."
+      },
+      {
+        "id": "R-ESTUN-EXIT",
+        "caseId": "estun",
+        "subjectId": "E-ESTUN",
+        "objectId": "E-XINHONGYE",
+        "productIds": [
+          "P-SHUGUANG-SERVO"
+        ],
+        "relation": "Disposes remaining 48% stake",
+        "connection": "Ownership exit",
+        "transactionStage": "Disposal completed",
+        "technicalStage": "Not assessed",
+        "eventDate": "2025-11-03",
+        "dateLabel": "3 Nov 2025; agreed 20 Oct 2025",
+        "effectiveStart": null,
+        "effectiveEnd": null,
+        "currentness": "Completed event",
+        "claimIds": [
+          "C-ESTUN-EXIT"
+        ],
+        "limitation": "Reports transfer to the buyer; continued technical or commercial ties need separate evidence."
+      },
+      {
+        "id": "R-SIASUN-COOP",
+        "caseId": "siasun",
+        "subjectId": "E-SIASUN",
+        "objectId": "E-SHENFEI-CIVIL",
+        "productIds": [
+          "P-SIASUN-SLM"
+        ],
+        "relation": "Reports civil-aircraft cooperation",
+        "connection": "Civilian application",
+        "transactionStage": "Cooperation reported",
+        "technicalStage": "Proposed manufacturing research",
+        "eventDate": null,
+        "dateLabel": "Reported 30 Jun 2015; agreement date unknown",
+        "effectiveStart": null,
+        "effectiveEnd": null,
+        "currentness": "Dated observation",
+        "claimIds": [
+          "C-SIASUN-COOP",
+          "C-SIASUN-PLAN"
+        ],
+        "limitation": "Civil C919-related research; neither military procurement nor completed deployment is established."
+      }
+    ],
+    "cases": [
+      {
+        "id": "deep",
+        "title": "DEEP Robotics: a civilian integration chain",
+        "productClasses": [
+          "Legged robots",
+          "Software and integration"
+        ],
+        "summary": "Separate the robot manufacturer, integration partner and end user. Customer reporting corroborates the application, while OEM identification remains supplier-attributed.",
+        "entityIds": [
+          "E-DEEP",
+          "E-DEEP-LEGAL",
+          "E-EGP",
+          "E-SP"
+        ],
+        "productIds": [
+          "P-X30",
+          "P-SPOCK"
+        ],
+        "claimIds": [
+          "C-DEEP-CHAIN",
+          "C-SP-USE",
+          "C-DEEP-FOLLOWON",
+          "C-DEEP-REVENUE"
+        ],
+        "legacyAssessmentIds": [],
+        "whatMatters": "Civilian operating experience and follow-on deliveries are useful evidence of adoption. A pilot does not establish network-wide rollout.",
+        "unknown": "Exact units, contracting entity, acceptance dates, utilization and military connections are not established by these sources.",
+        "nextEvidence": "SP Group acceptance or asset records naming X30, the contracting integrator and phase-two quantities.",
+        "decision": "Would independently verify the OEM/customer chain and distinguish experimentation from sustained deployment.",
+        "counterEvidence": "A customer record naming another platform or a discontinued pilot would change the integration assessment."
+      },
+      {
+        "id": "unitree",
+        "title": "Unitree: commercial platform and separate military observation",
+        "productClasses": [
+          "Legged robots",
+          "Software and integration"
+        ],
+        "summary": "Go2 availability and SDK access are documented. CCTV's military quadrupeds remain unidentified equipment in this collection.",
+        "entityIds": [
+          "E-UNITREE",
+          "E-EXERCISE"
+        ],
+        "productIds": [
+          "P-GO2",
+          "P-SDK",
+          "P-EXERCISE-ROBOTS"
+        ],
+        "claimIds": [
+          "C-GO2",
+          "C-UNITREE-SDK",
+          "C-CCTV"
+        ],
+        "legacyAssessmentIds": [],
+        "whatMatters": "Commercial adaptability, model identification, third-party integration and direct military contracting are four different claims.",
+        "unknown": "The military robots' OEM, model, seller, integrator, contract and fielding scale are unknown.",
+        "nextEvidence": "A dated procurement or acceptance record naming manufacturer, model, seller and buyer; assess imagery attribution separately.",
+        "decision": "Would support a specific supply relationship rather than inferring one from appearance or product availability.",
+        "counterEvidence": "A different manufacturer or an intermediary purchase would change OEM attribution or direct-contract claims."
+      },
+      {
+        "id": "jingpin",
+        "title": "Jingpin: complete robots, new modules and civilian transfer",
+        "productClasses": [
+          "Special-purpose robots",
+          "Actuation and components",
+          "Manufacturing technology"
+        ],
+        "summary": "Split established business activity from component development and management's military-to-civilian account. The evidence describes FY2024.",
+        "entityIds": [
+          "E-JINGPIN"
+        ],
+        "productIds": [
+          "P-JINGPIN-ROBOTS",
+          "P-JINGPIN-MODULES",
+          "P-JINGPIN-CIVIL"
+        ],
+        "claimIds": [
+          "C-JINGPIN-ROBOTS",
+          "C-JINGPIN-MODULES",
+          "C-JINGPIN-CIVIL",
+          "C-JINGPIN-REVENUE",
+          "C-JINGPIN-UNITS"
+        ],
+        "legacyAssessmentIds": [
+          "CNSCA-A63BD1FF74"
+        ],
+        "whatMatters": "Product families at different stages need separate assessments. Reported equivalent output cannot measure robot deliveries.",
+        "unknown": "Model-level unit counts, external module sales and independently confirmed civilian transfer remain unestablished.",
+        "nextEvidence": "Later annual filings and customer-side acceptance, separated into complete robots, external components and civilian manufacturing.",
+        "decision": "Would show whether module development became external supply and whether civilian transfer generated accepted products.",
+        "counterEvidence": "Discontinued development or customer rejection would weaken the transfer and component-commercialization assessments."
+      },
+      {
+        "id": "xirui",
+        "title": "Xirui: awarded shipyard automation",
+        "productClasses": [
+          "Industrial robotics"
+        ],
+        "summary": "Two separate final workstation awards name a supplier and purchaser. Delivery, productive use and naval end use remain unknown.",
+        "entityIds": [
+          "E-XIRUI",
+          "E-WAIGAOQIAO"
+        ],
+        "productIds": [
+          "P-GRIND-SMALL",
+          "P-GRIND-TINY"
+        ],
+        "claimIds": [
+          "C-XIRUI-SMALL",
+          "C-XIRUI-TINY"
+        ],
+        "legacyAssessmentIds": [
+          "CNSCA-C250E60D20"
+        ],
+        "whatMatters": "RMB10.37m is the sum of two award values. It is not installed capacity, supplier revenue or evidence of naval production.",
+        "unknown": "Installation, acceptance, utilization, component manufacturers and vessel/program allocation are not disclosed.",
+        "nextEvidence": "Purchaser commissioning or acceptance notices for tender numbers CSSC-03-251066-031 and CSSC-03-251066-030.",
+        "decision": "Would move the relationship beyond award and permit a bounded claim about productive use.",
+        "counterEvidence": "Cancellation, delayed acceptance or a different delivered scope would change the capacity assessment."
+      },
+      {
+        "id": "estun",
+        "title": "Estun: ownership enters, control ends, holding exits",
+        "productClasses": [
+          "Actuation and components"
+        ],
+        "summary": "The ownership route is historical. Control ended in June 2025; the remaining stake was sold in November.",
+        "entityIds": [
+          "E-ESTUN",
+          "E-DINGKONG",
+          "E-SHUGUANG",
+          "E-XINHONGYE"
+        ],
+        "productIds": [
+          "P-SHUGUANG-SERVO"
+        ],
+        "claimIds": [
+          "C-SHUGUANG-CAPABILITY",
+          "C-ESTUN-CLOSE",
+          "C-ESTUN-CONTROL",
+          "C-ESTUN-EXIT"
+        ],
+        "legacyAssessmentIds": [],
+        "whatMatters": "Ownership is dated separately from supply. A former defense affiliate must not be presented as a current controlled subsidiary.",
+        "unknown": "Current product customers and any continuing Estun–Shuguang technical or supply ties require separate verification.",
+        "nextEvidence": "Buyer-side subsequent filings, current corporate registration and dated post-disposal supply contracts.",
+        "decision": "Would establish the post-sale ownership and distinguish historical affiliation from continuing commercial ties.",
+        "counterEvidence": "A later acquisition could change ownership again; the 2025 exit alone cannot settle later relationships."
+      },
+      {
+        "id": "siasun",
+        "title": "Siasun: civil work inside an aerospace group",
+        "productClasses": [
+          "Manufacturing technology"
+        ],
+        "summary": "The 2015 source identifies a civil-aircraft counterparty and planned metal-printing research involving C919.",
+        "entityIds": [
+          "E-SIASUN",
+          "E-SHENFEI-CIVIL"
+        ],
+        "productIds": [
+          "P-SIASUN-SLM"
+        ],
+        "claimIds": [
+          "C-SIASUN-COOP",
+          "C-SIASUN-PLAN"
+        ],
+        "legacyAssessmentIds": [],
+        "whatMatters": "A defense-group name does not determine project end use. Existing cooperation and proposed equipment use have different states.",
+        "unknown": "Equipment delivery, acceptance, completed research and later production use are not established.",
+        "nextEvidence": "Customer-side agreement or completion/acceptance record identifying the equipment and civil-aircraft project.",
+        "decision": "Would establish whether the proposed work occurred and its achieved result.",
+        "counterEvidence": "A separate military contract would be a new relationship, not a reason to relabel this civil-aircraft case."
+      }
+    ],
+    "metrics": [
+      {
+        "id": "M-JINGPIN-REVENUE",
+        "caseId": "jingpin",
+        "label": "FY2024 military-robot revenue",
+        "value": 39840135.5,
+        "unit": "CNY",
+        "scope": "Business-category recognized revenue",
+        "claimId": "C-JINGPIN-REVENUE"
+      },
+      {
+        "id": "M-JINGPIN-EQUIVALENTS",
+        "caseId": "jingpin",
+        "label": "FY2024 reported sales equivalents",
+        "value": 3197,
+        "unit": "G001 labor equivalents",
+        "scope": "Converted standard-labor-hour output; not actual robots",
+        "claimId": "C-JINGPIN-UNITS"
+      },
+      {
+        "id": "M-DEEP-REVENUE",
+        "caseId": "deep",
+        "label": "FY2025 consolidated company revenue",
+        "value": 337490600,
+        "unit": "CNY",
+        "scope": "Company-wide revenue; not SPock or military revenue",
+        "claimId": "C-DEEP-REVENUE"
+      }
+    ]
+  },
+  "amendments": {
+    "reviewedAt": "2026-09-04",
+    "scorecards": [
+      {
+        "id": "CNSCA-C250E60D20",
+        "maturity": "Unresolved",
+        "importance": null,
+        "lowerBound": null,
+        "rankEligible": false,
+        "initialRank": null,
+        "tier": "bounded",
+        "reviewNote": "Review: imported U3 conflicts with linked ledger U1/U2. Final awards establish selection, not installation or acceptance. Maturity and numeric triage are withheld pending reconciliation; original values remain in importedAssessment. See the Xirui dossier."
+      }
+    ],
+    "scarcity": [
+      {
+        "evidenceId": "CNSCE-F79AF16D26",
+        "state": "affirmative",
+        "reason": "Issuer says four finalized inertial-navigation variants are sole supplied; scope is those variants, not the entire market.",
+        "excerpt": "均为相关配套装备的唯一供应商",
+        "locator": "2025 interim report summary, printed p3",
+        "url": "https://static.cninfo.com.cn/finalpage/2025-08-29/1224606049.PDF"
+      },
+      {
+        "evidenceId": "CNSCE-075E8AC193",
+        "state": "negated",
+        "reason": "The caveat says no sole-source inference in a multi-supplier market."
+      },
+      {
+        "evidenceId": "CNSCE-151E36EEA3",
+        "state": "negated",
+        "reason": "The caveat explicitly disclaims a platform-specific sole-source claim."
+      },
+      {
+        "evidenceId": "CNSCE-2D42815629",
+        "state": "proposed",
+        "reason": "Intended sole-source public-security procurement; not a completed award or military dependency."
+      }
+    ],
+    "notes": [
+      "The workbook and extracted import are immutable. Reviewed overlays retain imported score values.",
+      "The claimed 1,841 sources and 19 new exact-name entities cannot be reproduced from this workbook and are excluded from current metrics.",
+      "Signals are counted from actual signal records; the original 11 included headings or tasks and is replaced by the derived count.",
+      "The identity queue is a suggested review set, not a reconstruction of the workbook's unsupported 19-entity flag."
+    ]
+  },
+  "legacyCollectionTasks": [
+    {
+      "task": "Delivery / acceptance",
+      "request": "Find delivery, acceptance, and sustainment evidence for high-scoring components; batch-production text alone is not fielding.",
+      "closure": "Upgrade U4/U5 only with a dated primary record.",
+      "sourceFamily": "Issuer filings; awards; acceptance notices"
+    },
+    {
+      "task": "C-UAS procurement state",
+      "request": "Resolve full-page final award wording and dates for PLA C-UAS result notices.",
+      "closure": "Promote only a named final award; otherwise retain provisional state.",
+      "sourceFamily": "PLA Military Procurement Network"
+    },
+    {
+      "task": "Substitution / fragility",
+      "request": "Seek dual-source disclosure, named qualification barriers, or requalification time/cost evidence.",
+      "closure": "Add fragility score only after a direct cited statement.",
+      "sourceFamily": "Issuer risk disclosures; standards; qualification notices"
+    },
+    {
+      "task": "Private robotics identity",
+      "request": "Resolve USCC, corporate parent, manufacturing site, and installed-base evidence for new firms.",
+      "closure": "Replace exact-name staging with verified legal/ownership record.",
+      "sourceFamily": "Company registry; customer awards; government filings"
+    },
+    {
+      "task": "Foreign dependency currentness",
+      "request": "Find post-2024 evidence of use, service, or substitution at named Chinese facilities.",
+      "closure": "Separate legacy tooling from active access or military-program dependence.",
+      "sourceFamily": "Regulatory filings; export-control orders; service records"
+    }
+  ],
   "scorecards": [
     {
       "id": "CNSCA-21CEE20030",
@@ -2044,19 +3408,19 @@
       "nodeId": "N-SHIPYARD",
       "lane": "production_enabler",
       "status": "verified_production_enabler",
-      "rankEligible": true,
-      "tier": "evidence_qualified",
+      "rankEligible": false,
+      "tier": "bounded",
       "criticality": 2,
       "frontier": 3,
       "crossDomain": 1,
       "evidence": "E4",
-      "maturity": "U3",
-      "importance": 54,
-      "lowerBound": 54,
+      "maturity": "Unresolved",
+      "importance": null,
+      "lowerBound": null,
       "rawCMax": 3,
       "evidenceCount": 3,
       "caveat": "This confirms supply of a production workstation to a CSSC shipyard; it does not prove supply of a weapon or unmanned-platform subsystem | Do not aggregate prices into company revenue; this is still a specific shipyard automation contract | Page does not state a publication date and company-profile claims are not an audited filing; do not use it for a time-series event",
-      "initialRank": 25,
+      "initialRank": null,
       "laneRank": 8,
       "fragility": null,
       "fragilityBasis": "Not assessed: no named limited-source or requalification evidence.",
@@ -2070,7 +3434,16 @@
         "https://www.kczg.org.cn/org/orgdetail?id=356793",
         "https://csscbidding.com/jyxx/003001/003001004/20250825/fc564718-4800-43a3-b82a-02c5058139fe.html",
         "https://csscbidding.com/jyxx/003001/003001004/20250825/5a186f89-8939-4634-9bdc-bb09d21cbcbb.html"
-      ]
+      ],
+      "reviewNote": "Review: imported U3 conflicts with linked ledger U1/U2. Final awards establish selection, not installation or acceptance. Maturity and numeric triage are withheld pending reconciliation; original values remain in importedAssessment. See the Xirui dossier.",
+      "importedAssessment": {
+        "maturity": "U3",
+        "importance": 54,
+        "lowerBound": 54,
+        "rankEligible": true,
+        "initialRank": 25,
+        "tier": "evidence_qualified"
+      }
     },
     {
       "id": "CNSCA-9E272B7B85",
@@ -4862,39 +6235,68 @@
       ]
     },
     "limitedSource": {
-      "plain": "Every row where the source itself uses sole-supplier or limited-source language, and every scorecard whose criticality reached 4 on that basis. Without such language the package caps criticality at 3.",
+      "plain": "Reviewed affirmative scarcity claims only. Negated caveats and proposed procurements are excluded; all four reviewed mentions and their reasons remain available in the export.",
       "rows": [
         {
-          "evidenceId": "CNSCE-F79AF16D26",
+          "assessmentId": "CNSCA-21CEE20030",
           "supplier": "北京理工导航控制科技股份有限公司",
           "capability": "inertial_navigation_and_guidance",
           "date": "2025-08-29",
           "claim": "Inertial-navigation systems used in long-range precision-guided munitions; four finalized variants are sole supplier for their corresponding equipment.",
-          "url": "https://static.cninfo.com.cn/finalpage/2025-08-29/1224606049.PDF"
+          "url": "https://static.cninfo.com.cn/finalpage/2025-08-29/1224606049.PDF",
+          "evidenceId": "CNSCE-F79AF16D26",
+          "state": "affirmative",
+          "reason": "Issuer says four finalized inertial-navigation variants are sole supplied; scope is those variants, not the entire market.",
+          "excerpt": "均为相关配套装备的唯一供应商",
+          "locator": "2025 interim report summary, printed p3"
+        }
+      ],
+      "reviews": [
+        {
+          "assessmentId": "CNSCA-21CEE20030",
+          "supplier": "北京理工导航控制科技股份有限公司",
+          "capability": "inertial_navigation_and_guidance",
+          "date": "2025-08-29",
+          "claim": "Inertial-navigation systems used in long-range precision-guided munitions; four finalized variants are sole supplier for their corresponding equipment.",
+          "url": "https://static.cninfo.com.cn/finalpage/2025-08-29/1224606049.PDF",
+          "evidenceId": "CNSCE-F79AF16D26",
+          "state": "affirmative",
+          "reason": "Issuer says four finalized inertial-navigation variants are sole supplied; scope is those variants, not the entire market.",
+          "excerpt": "均为相关配套装备的唯一供应商",
+          "locator": "2025 interim report summary, printed p3"
         },
         {
-          "evidenceId": "CNSCE-075E8AC193",
+          "assessmentId": "CNSCA-2C9245B437",
           "supplier": "天津七一二通信广播股份有限公司",
           "capability": "military_wireless_and_unattended_system_comms",
           "date": "2025-04-23",
           "claim": "Core supplier of dedicated wireless communications with complete R&D/manufacturing qualifications; equipment spans handheld vehicle aircraft ship and missile systems and expands into unattended-system communications.",
-          "url": "https://static.cninfo.com.cn/finalpage/2025-04-23/1223214852.PDF"
+          "url": "https://static.cninfo.com.cn/finalpage/2025-04-23/1223214852.PDF",
+          "evidenceId": "CNSCE-075E8AC193",
+          "state": "negated",
+          "reason": "The caveat says no sole-source inference in a multi-supplier market."
         },
         {
-          "evidenceId": "CNSCE-151E36EEA3",
+          "assessmentId": "CNSCA-D8202F393E",
           "supplier": "中航光电科技股份有限公司",
           "capability": "high_reliability_interconnects_and_micro_motors",
           "date": "2025-03-29",
           "claim": "500-plus product series for aviation/defense including GJB connectors VPX/1553B buses special cables microwave parts and micro-motors; preferred supplier position in defense.",
-          "url": "https://static.cninfo.com.cn/finalpage/2025-03-29/1222943981.PDF"
+          "url": "https://static.cninfo.com.cn/finalpage/2025-03-29/1222943981.PDF",
+          "evidenceId": "CNSCE-151E36EEA3",
+          "state": "negated",
+          "reason": "The caveat explicitly disclaims a platform-specific sole-source claim."
         },
         {
-          "evidenceId": "CNSCE-2D42815629",
+          "assessmentId": "CNSCA-1FF4B58E53",
           "supplier": "西安宇航者创新科技有限公司",
           "capability": "unmanned_platforms_swarming_and_mission_integration",
           "date": "2024-11-13",
           "claim": "Provincial procurement notice identifies Xi'an Yuhangzhe as intended sole-source supplier for UAV equipment/management platform and a small automated airport with budget RMB 800000",
-          "url": "https://www.ccgp-shaanxi.gov.cn/freecms/site/shaanxi/ggxx/info/2024/8a69c037932429a3019324ab328a32fe.html"
+          "url": "https://www.ccgp-shaanxi.gov.cn/freecms/site/shaanxi/ggxx/info/2024/8a69c037932429a3019324ab328a32fe.html",
+          "evidenceId": "CNSCE-2D42815629",
+          "state": "proposed",
+          "reason": "Intended sole-source public-security procurement; not a completed award or military dependency."
         }
       ],
       "criticalityFour": [
@@ -5079,7 +6481,7 @@
       ]
     },
     "identityQueue": {
-      "plain": "The package's audit flags 19 new exact-name entities for identity follow-up (unified social-credit code, corporate parent, production site) but the workbook does not carry that flag per row. This queue therefore lists the provisional watchlist scorecards, which are the new private robotics and counter-UAS firms the audit names as the follow-up set.",
+      "plain": "Suggested identity-review queue drawn from provisional watchlist assessments. It is not the workbook's untraceable aggregate of 19 new entities. Resolve legal name, registration, parent and site before merging identities.",
       "rows": [
         {
           "supplier": "湖南超能机器人技术有限公司",
@@ -5172,7 +6574,7 @@
       ]
     },
     "signals": {
-      "plain": "Demand, experimentation and R&D-integration signals from procurement and test notices. Each states what it confirms and what it does not establish.",
+      "plain": "Five source-linked signals. The worksheet heading and five collection tasks are excluded from this count; those tasks remain separately available in the export.",
       "rows": [
         {
           "signal_id": "DRA-SIG-005",
@@ -5233,39 +6635,6 @@
           "recommended_use": "Use as a concentration/substitutability control in C-UAS scorecards",
           "source_type": "China Security Association multi-agency comparative-test report",
           "source_url": "https://news.21csp.com.cn/special/2024blh/202410/11425149.html"
-        },
-        {
-          "signal_id": "Highest-value scorecard closure tasks"
-        },
-        {
-          "signal_id": "Delivery / acceptance",
-          "date": "Find delivery, acceptance, and sustainment evidence for high-scoring components; batch-production text alone is not fielding.",
-          "signal": "Upgrade U4/U5 only with a dated primary record.",
-          "confirmed_fact": "Issuer filings; awards; acceptance notices"
-        },
-        {
-          "signal_id": "C-UAS procurement state",
-          "date": "Resolve full-page final award wording and dates for PLA C-UAS result notices.",
-          "signal": "Promote only a named final award; otherwise retain provisional state.",
-          "confirmed_fact": "PLA Military Procurement Network"
-        },
-        {
-          "signal_id": "Substitution / fragility",
-          "date": "Seek dual-source disclosure, named qualification barriers, or requalification time/cost evidence.",
-          "signal": "Add fragility score only after a direct cited statement.",
-          "confirmed_fact": "Issuer risk disclosures; standards; qualification notices"
-        },
-        {
-          "signal_id": "Private robotics identity",
-          "date": "Resolve USCC, corporate parent, manufacturing site, and installed-base evidence for new firms.",
-          "signal": "Replace exact-name staging with verified legal/ownership record.",
-          "confirmed_fact": "Company registry; customer awards; government filings"
-        },
-        {
-          "signal_id": "Foreign dependency currentness",
-          "date": "Find post-2024 evidence of use, service, or substitution at named Chinese facilities.",
-          "signal": "Separate legacy tooling from active access or military-program dependence.",
-          "confirmed_fact": "Regulatory filings; export-control orders; service records"
         }
       ]
     }

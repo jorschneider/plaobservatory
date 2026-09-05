@@ -4539,3 +4539,42 @@ tr.clock-not_yet_collected td { opacity: 0.85; }
 .finding-example .person-link { display: inline; min-width: 0; margin: 0 4px; padding: 0; font: inherit; color: var(--navy); text-decoration: underline; }
 .finding-example a { display: inline-flex; align-items: center; gap: 2px; margin-left: 4px; }
 @media (max-width: 900px) { .node-row { grid-template-columns: 1fr; } }
+
+/* Sourced robotics relationships and case dossiers. */
+.robotics-ecosystem { font-size: 16px; line-height: 1.6; }
+.robotics-ecosystem h2 { font-size: clamp(1.6rem, 3vw, 2.25rem); }
+.robotics-ecosystem h3 { font-size: 1.35rem; line-height: 1.35; }
+.robotics-ecosystem h4 { font-size: 1rem; font-weight: 650; margin: 1.2rem 0 .4rem; }
+.robotics-ecosystem p { margin: .4rem 0 .9rem; }
+.robotics-ecosystem small, .robotics-ecosystem .eco-meta,
+.robotics-ecosystem [data-slot="badge"] { font-size: 14px; line-height: 1.5; white-space: normal; }
+.robotics-ecosystem a { text-decoration: underline; text-underline-offset: 3px; }
+.robotics-ecosystem a svg { display: inline; width: 14px; height: 14px; }
+.eco-principles, .eco-actors, .eco-collection { display: grid; grid-template-columns: repeat(3, minmax(0, 1fr)); gap: 1rem; margin: 1.5rem 0; }
+.eco-principles { padding: 1.2rem; background: #edf2f5; border-top: 3px solid #284b63; }
+.eco-two-col { display: grid; grid-template-columns: 1fr 1fr; gap: 2rem; margin: 1.5rem 0; }
+.eco-actors article, .eco-collection article { border: 1px solid #d4dce1; padding: 1.1rem; border-radius: 5px; background: white; }
+.eco-table { overflow-x: auto; border: 1px solid #d4dce1; border-radius: 5px; }
+.eco-table table { min-width: 1050px; }
+.eco-table th { white-space: normal; font-size: 14px; }
+.eco-table td { min-width: 180px; max-width: 320px; white-space: normal; vertical-align: top; padding: 1.1rem; font-size: 16px; }
+.eco-table button { height: auto; padding: .3rem 0; font-size: 14px; }
+.eco-filters { margin: 1.5rem 0; }
+.eco-filters [data-slot="select-trigger"] { min-width: 180px; max-width: 250px; }
+.eco-dossier-selector { max-width: 620px; margin: 1.5rem 0; }
+.eco-dossier-selector [data-slot="select-trigger"] { width: 100%; margin-top: .5rem; }
+.eco-dossier { border-top: 2px solid #284b63; padding-top: 1.5rem; }
+.eco-lead { font-size: 1.2rem; max-width: 85ch; }
+.eco-measure, .eco-source-panel { padding: 1.2rem; margin: 1.5rem 0; background: #f1f5f7; border-left: 3px solid #284b63; }
+.eco-evidence [data-slot="accordion-trigger"], .eco-evidence [data-slot="accordion-content"] { font-size: 16px; }
+.eco-evidence blockquote { padding: .5rem 1rem; margin: 1rem 0; border-left: 3px solid #b3c1cd; }
+.eco-timeline { list-style: none; padding: 0; margin: 2rem 0; }
+.eco-timeline li { display: grid; grid-template-columns: 120px 1fr; gap: 1.5rem; border-top: 1px solid #d4dce1; padding: 1.5rem 0; }
+.eco-timeline time { font-variant-numeric: tabular-nums; font-weight: 650; }
+.robotics-ecosystem [data-slot="tabs-list"] { max-width: 100%; overflow-x: auto; justify-content: flex-start; }
+@media (max-width: 800px) {
+  .eco-principles, .eco-actors, .eco-collection, .eco-two-col { grid-template-columns: 1fr; gap: .8rem; }
+  .eco-timeline li { grid-template-columns: 1fr; gap: .5rem; }
+  .eco-filters { align-items: stretch; flex-direction: column; }
+  .eco-filters [data-slot="select-trigger"] { max-width: none; width: 100%; }
+}
