@@ -248,7 +248,7 @@
       "id": "N-HUMANOID",
       "tier": "autonomy",
       "label": "Humanoid platforms",
-      "plain": "General-purpose humanoid robots with a documented defense or dual-use customer.",
+      "plain": "General-purpose humanoid robots; commercial capability and military customer connections are collected separately.",
       "capabilityFamilies": []
     },
     {
@@ -281,8 +281,8 @@
     {
       "id": "N-INDUSTRIAL-ROBOT",
       "tier": "production",
-      "label": "Industrial robot arms for defense lines",
-      "plain": "Six-axis and collaborative arms with a documented defense-plant deployment.",
+      "label": "Industrial robot arms",
+      "plain": "Six-axis and collaborative arms; customer and production-line applications require separate relationship evidence.",
       "capabilityFamilies": []
     },
     {

@@ -1,5 +1,7 @@
 # Industrial base lane: civil-military robotics
 
+The implemented [relationship-based analyst pilot](relationship-method.md) is now the primary view at `/robotics`: six sourced dossiers, product/customer relationships, a timeline and collection priorities. Read that document for the current workflow, schema, corrections and limitations. The package description below records the original v1.2 architecture.
+
 This folder holds the second lane of the Observatory. The first lane asks who holds the PLA's senior positions. This lane asks which firms supply the robotics, autonomy and enabling components that the defense system depends on, and how much of that supply is civilian, dual-use or single-source.
 
 The lane is published at `/robotics` on the site and rebuilt with one command:
@@ -41,7 +43,9 @@ The refocus narrows the question to robotics: production robotics (the CSSC robo
 
 ## Next steps
 
+The [4 September 2026 analyst review](analyst-review-2026-09-04.md) audits this package and the robotics interface, verifies several original sources, and proposes a relationship-based research extension. It distinguishes implemented features from proposed changes and preserves the v1.2 import.
+
 1. Fill the six empty nodes: one evidence row per node from listed-company filings, procurement notices or export-control records, or a dated note that the sweep found nothing.
 2. Resolve the identity queue: unified social-credit code, parent and production site for each provisional watchlist entity.
 3. Chase final awards for the unmanned-platform and autonomy integrators; a completed contract with a military end user is what moves a provisional scorecard into the ranking.
-4. Keep the workbook as the only input. A new package version means re-running the extraction, not editing the JSON; the tests fail if the extracted counts and the built counts disagree.
+4. Preserve the workbook and extracted import. Add reviewed claims in `ecosystem.json` and corrections in `reviewed-amendments.json`; rebuild the derived exports. The relationship-method document describes the current inputs and integrity checks.
