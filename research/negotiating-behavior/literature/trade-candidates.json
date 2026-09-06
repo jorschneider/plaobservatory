@@ -1,0 +1,380 @@
+[
+  {
+    "id": "LIT-TRADE-PEARSON-2001",
+    "priority": 1,
+    "authors": [
+      "Margaret M. Pearson"
+    ],
+    "year": 2001,
+    "title": "The Case of China's Accession to GATT/WTO",
+    "type": "scholarly book chapter",
+    "language": "en",
+    "citation": "Pearson, Margaret M. 2001. ‘The Case of China's Accession to GATT/WTO.’ In The Making of Chinese Foreign and Security Policy in the Era of Reform, edited by David M. Lampton, 337–370. Stanford University Press.",
+    "doi": "10.1515/9780804764490-014",
+    "isbn": null,
+    "verification_urls": [
+      "https://www.degruyterbrill.com/document/doi/10.1515/9780804764490-014/html"
+    ],
+    "read_status": "metadata_only",
+    "read_scope": "Publisher-distributor chapter citation, pagination, book table of contents and explicit access restriction checked. Chapter body not read; no method or findings claimed.",
+    "access": {
+      "status": "restricted_publisher_full_text",
+      "lawful_open_full_text_url": null,
+      "preview_url": "https://www.degruyterbrill.com/document/doi/10.1515/9780804764490-014/html",
+      "user_full_text_needed": true,
+      "request_scope": "This chapter, pp.337–370; full edited volume useful but unnecessary for this specific request.",
+      "caveat": "No lawful open full text located during this bounded search; this is not a claim that none exists."
+    },
+    "evidence_method_verified": "Not verified from chapter body. The edited volume’s broader field-research description is not automatically evidence of this chapter’s particular interviews or archive base.",
+    "research_questions": [
+      "Who formed and could revise Chinese negotiating mandates during accession?",
+      "How did leader intervention and interagency coordination affect the 1999 talks?"
+    ],
+    "purpose_and_caveat": "Highest-priority scholarly companion to the 1999 pilot because it addresses the accession decision process directly. Read its evidence and timing before treating it as corroboration of later official histories or oral testimony.",
+    "recommended_reading": "Read entire chapter, then extract dated claims, named interviews, archival references and disagreements with the paired U.S.–Chinese chronology.",
+    "verified_on": "2026-09-05"
+  },
+  {
+    "id": "LIT-TRADE-ZENG-2004",
+    "priority": 2,
+    "authors": [
+      "Ka Zeng"
+    ],
+    "year": 2004,
+    "title": "Trade Threats, Trade Wars: Bargaining, Retaliation, and American Coercive Diplomacy",
+    "type": "scholarly monograph",
+    "language": "en",
+    "citation": "Zeng, Ka. 2004. Trade Threats, Trade Wars: Bargaining, Retaliation, and American Coercive Diplomacy. University of Michigan Press.",
+    "doi": "10.3998/mpub.17690",
+    "isbn": "9780472113583",
+    "verification_urls": [
+      "https://press.umich.edu/Books/T/Trade-Threats-Trade-Wars"
+    ],
+    "read_status": "publisher_description_and_contents",
+    "read_scope": "Publisher citation, February 2004 print date, DOI and chapter titles checked. No body chapters read.",
+    "access": {
+      "status": "commercial_full_text_with_publisher_preview",
+      "lawful_open_full_text_url": null,
+      "preview_url": "https://press.umich.edu/Books/T/Trade-Threats-Trade-Wars",
+      "user_full_text_needed": true,
+      "request_scope": "Chapters 2–4 and 6; complete book preferable for theory/method and source notes.",
+      "caveat": "Publisher lists a paid PDF and Look Inside material; no freely accessible complete authorized edition verified. 2010 is the listed ebook date, not the original print year."
+    },
+    "evidence_method_verified": "Publisher identifies an explanation linking trade structure and domestic political repercussions to threat effectiveness; contents identify an empirical chapter and comparative U.S.–China/U.S.–Japan case chapters. Specific evidence collection and interview scope not yet verified.",
+    "research_questions": [
+      "When are apparent negotiating-style differences better explained by domestic trade coalitions?",
+      "Why did U.S. threats yield different results across MFN/market-access versus IPR/textile disputes?"
+    ],
+    "purpose_and_caveat": "Supplies a competing political-economy explanation for coercion and bargaining in the 1990s bridge cases, with a useful Japan comparison. It studies American coercive diplomacy, so its findings must not be relabeled as a uniquely Chinese behavioral model.",
+    "recommended_reading": "Prioritize chapter 4 on MFN/market access and chapter 6 on IPR/textiles, alongside theory and empirical design.",
+    "verified_on": "2026-09-05"
+  },
+  {
+    "id": "LIT-TRADE-BLUSTEIN-2019",
+    "priority": 3,
+    "authors": [
+      "Paul Blustein"
+    ],
+    "year": 2019,
+    "title": "Schism: China, America and the Fracturing of the Global Trading System",
+    "type": "reported analytical book; not a peer-reviewed journal article",
+    "language": "en",
+    "citation": "Blustein, Paul. 2019. Schism: China, America and the Fracturing of the Global Trading System. Centre for International Governance Innovation.",
+    "doi": null,
+    "isbn": "9781928096856",
+    "verification_urls": [
+      "https://www.cigionline.org/publications/schism-china-america-and-fracturing-global-trading-system/"
+    ],
+    "read_status": "publisher_description_only",
+    "read_scope": "CIGI publication page, September 10, 2019 date, ISBN and scope checked. Book body, endnotes and acknowledgments not read.",
+    "access": {
+      "status": "commercial_full_text_with_authorized_excerpts",
+      "lawful_open_full_text_url": null,
+      "preview_url": "https://www.cigionline.org/publications/schism-china-america-and-fracturing-global-trading-system/",
+      "user_full_text_needed": true,
+      "request_scope": "Complete book including notes and acknowledgments; initially accession chapters and transition into 2018 trade conflict.",
+      "caveat": "Publisher links authorized excerpts in Asia Times and Foreign Policy; excerpts are not the entire book. No complete lawful OA edition located."
+    },
+    "evidence_method_verified": "Publisher identifies the work as journalistic reconstruction of accession and later conflict. Specific interview numbers, access to internal records and provenance of individual scenes remain unverified until the book is read.",
+    "research_questions": [
+      "Which accession scenes have independent contemporary reporting beyond negotiators’ memoirs?",
+      "How did institutional conflict and mutual interpretations change between 1999 and 2018?"
+    ],
+    "purpose_and_caveat": "A high-value reporting bridge from accession to the first Trump trade war and a map to sources for disputed scenes. Its 2019 publication cannot establish the 2020 Phase One implementation or 2025–2026 negotiations.",
+    "recommended_reading": "Audit endnote source chains while reading; separate interviews conducted by Blustein from quotations inherited from earlier reporting.",
+    "verified_on": "2026-09-05"
+  },
+  {
+    "id": "LIT-TRADE-SHAFFER-GAO-2018",
+    "priority": 4,
+    "authors": [
+      "Gregory Shaffer",
+      "Henry Gao"
+    ],
+    "year": 2018,
+    "title": "China’s Rise: How It Took On the U.S. at the WTO",
+    "type": "scholarly law-review article",
+    "language": "en",
+    "citation": "Shaffer, Gregory, and Henry Gao. 2018. ‘China’s Rise: How It Took On the U.S. at the WTO.’ University of Illinois Law Review 2018(1):115–184.",
+    "doi": null,
+    "isbn": null,
+    "verification_urls": [
+      "https://illinoislawreview.org/print/vol-2018-no-1/chinas-rise/",
+      "https://www.illinoislawreview.org/wp-content/uploads/2018/01/Shaffer.pdf"
+    ],
+    "read_status": "abstract_and_opening_only",
+    "read_scope": "Journal abstract and first-page text read; publisher PDF verified as 70 pages. Entire article and interview footnotes not yet read.",
+    "access": {
+      "status": "lawful_publisher_free_full_text",
+      "lawful_open_full_text_url": "https://www.illinoislawreview.org/wp-content/uploads/2018/01/Shaffer.pdf",
+      "preview_url": null,
+      "user_full_text_needed": false,
+      "request_scope": null,
+      "caveat": "Free publisher download verified; no reuse license beyond ordinary scholarly citation assumed."
+    },
+    "evidence_method_verified": "Authors’ abstract explicitly describes more than a decade of original fieldwork in China, Washington, Brussels and Geneva and analysis of trade-law capacity in government, academia, law firms and business. Interview sampling and specific scene provenance still require full-text audit.",
+    "research_questions": [
+      "Did professional expertise and legal capacity change China’s bargaining repertoire?",
+      "When did WTO litigation complement or replace bilateral relationship-based negotiation?"
+    ],
+    "purpose_and_caveat": "The strongest immediately available candidate for testing the evolution of Chinese legal capacity against static cultural explanations. Its cultural framing and interview selection deserve scrutiny; success in litigation alone does not prove general change in diplomatic bargaining.",
+    "recommended_reading": "Read full article, methods and footnotes; compare legal-team formation and litigation strategy with the 1999 pilot. Consider accompanying critiques by William Davey and Robert Howse after the article.",
+    "related_versions": [
+      {
+        "title": "How China Took on the United States and Europe at the WTO",
+        "year": 2021,
+        "url": "https://www.cambridge.org/core/books/abs/emerging-powers-and-the-world-trading-system/how-china-took-on-the-united-states-and-europe-at-the-wto/D6F399C9AB0A1BAF6C9B457BB548B194",
+        "note": "Later chapter in Emerging Powers and the World Trading System; verified as a related publication, not read in full and not counted as independent evidence."
+      }
+    ],
+    "verified_on": "2026-09-05"
+  },
+  {
+    "id": "LIT-TRADE-GAO-2022",
+    "priority": 5,
+    "authors": [
+      "Henry Gao"
+    ],
+    "year": 2022,
+    "title": "China’s Changing Perspective on the WTO: From Aspiration, Assimilation to Alienation",
+    "type": "scholarly journal article",
+    "language": "en",
+    "citation": "Gao, Henry. 2022. “China’s Changing Perspective on the WTO: From Aspiration, Assimilation to Alienation.” World Trade Review 21(3): 342–358.",
+    "doi": "10.1017/S1474745622000088",
+    "isbn": null,
+    "verification_urls": [
+      "https://ink.library.smu.edu.sg/sol_research/3996/",
+      "https://doi.org/10.1017/S1474745622000088"
+    ],
+    "read_status": "abstract_metadata_and_related_version_excerpts",
+    "read_scope": "SMU institutional record and abstract read. Selected opening/passages of the related 2023 Cambridge chapter encountered; neither entire article nor entire chapter read.",
+    "access": {
+      "status": "lawful_institutional_open_manuscript",
+      "lawful_open_full_text_url": "https://ink.library.smu.edu.sg/sol_research/3996/",
+      "preview_url": null,
+      "user_full_text_needed": false,
+      "request_scope": null,
+      "caveat": "Institutional repository labels its file submittedVersion under CC-BY-NC-ND 4.0. Use final published version for exact quotation/pagination when obtainable; DOI web fetch failed in this audit."
+    },
+    "evidence_method_verified": "Abstract promises an analysis of key moments in China’s first two WTO decades from Chinese perspectives. No unverified claim of original interviews or archival access is made.",
+    "research_questions": [
+      "Did China move from learning existing rules toward treating them as constraints or instruments?",
+      "How do Chinese interpretations of U.S. behavior affect negotiating trust and preferred forums?"
+    ],
+    "purpose_and_caveat": "A concise periodization to test against primary records and institutional changes. The three-stage characterization is an author’s argument to assess, not a ready-made coding scheme or proof of a single uniform Chinese perspective.",
+    "recommended_reading": "Read article and trace citations to Chinese participants and official statements; compare the narrative with contrary episodes of cooperation.",
+    "related_versions": [
+      {
+        "title": "China’s Changing Perspective on the WTO: From Aspiration, Assimilation to Alienation",
+        "year": 2023,
+        "url": "https://www.cambridge.org/core/books/china-and-the-wto/chinas-changing-perspective-on-the-wto/7EA38AEF111F9A75F999D05FCEAF6C13",
+        "full_text_url": "https://www.cambridge.org/core/services/aop-cambridge-core/content/view/7EA38AEF111F9A75F999D05FCEAF6C13/9781009291781c3_45-70.pdf/chinas_changing_perspective_on_the_wto.pdf",
+        "note": "Chapter 2, pp. 45–70, in China and the WTO: A Twenty-Year Assessment. Publisher volume is Open Access. Related versions must not be counted as two independent studies."
+      }
+    ],
+    "verified_on": "2026-09-05"
+  },
+  {
+    "id": "LIT-TRADE-HOPEWELL-2020",
+    "priority": 6,
+    "authors": [
+      "Kristen Hopewell"
+    ],
+    "year": 2020,
+    "title": "Clash of Powers: US-China Rivalry in Global Trade Governance",
+    "type": "scholarly monograph",
+    "language": "en",
+    "citation": "Hopewell, Kristen. 2020. Clash of Powers: US-China Rivalry in Global Trade Governance. Cambridge University Press.",
+    "doi": "10.1017/9781108877015",
+    "isbn": "9781108834797",
+    "verification_urls": [
+      "https://www.cambridge.org/core/books/abs/clash-of-powers/clash-of-powers/99CECCADF166172E9380F01D72168DD5",
+      "https://www.cambridge.org/core/books/clash-of-powers/introduction/3F621409B06FCD84ECA8D92956CB65D2"
+    ],
+    "read_status": "contents_and_introduction_sections",
+    "read_scope": "Publisher metadata/contents and substantial introduction sections on argument, cases and fieldwork read. Full introduction and five empirical chapters not claimed read.",
+    "access": {
+      "status": "publisher_intro_available_full_book_access_unverified",
+      "lawful_open_full_text_url": null,
+      "preview_url": "https://www.cambridge.org/core/books/clash-of-powers/introduction/3F621409B06FCD84ECA8D92956CB65D2",
+      "user_full_text_needed": true,
+      "request_scope": "Complete book, especially Doha, agriculture, fisheries and export-credit case chapters and notes.",
+      "caveat": "Introduction text is accessible, but no complete open book verified; publisher chapter frontmatter offers Get access. Print year 2020 differs from online publication January 21, 2021."
+    },
+    "evidence_method_verified": "Introduction explicitly states 2007–2018 fieldwork and more than 200 interviews with negotiators, senior officials, industry and NGO representatives at WTO/OECD and national capitals. Five cases compare WTO negotiations and OECD export-credit arrangements.",
+    "research_questions": [
+      "How did China’s growing power change its willingness to accept reciprocal rules or enter negotiating frameworks?",
+      "Do differences across institutions and sectors explain rigidity more effectively than a common national style?"
+    ],
+    "purpose_and_caveat": "A major process-based comparison that can prevent overgeneralizing from bilateral summit bargaining. Much of its evidence predates 2018 and the interpretation of status/conflict should be tested against subsequent negotiations rather than projected unchanged to 2026.",
+    "recommended_reading": "Extract interview dates, actor positions and draft sequences from each empirical chapter; distinguish China’s inclusion, exclusion and refusal to join an arrangement.",
+    "verified_on": "2026-09-05"
+  },
+  {
+    "id": "LIT-TRADE-LIANG-ZENG-2023",
+    "priority": 7,
+    "authors": [
+      "Wei Liang",
+      "Ka Zeng"
+    ],
+    "year": 2023,
+    "title": "China and the BRICS in WTO E-Commerce and Fisheries Negotiations: Competition and Convergence",
+    "type": "scholarly book chapter",
+    "language": "en",
+    "citation": "Liang, Wei, and Ka Zeng. 2023. “China and the BRICS in WTO E-Commerce and Fisheries Negotiations: Competition and Convergence.” In China and the WTO: A Twenty-Year Assessment, edited by Henry Gao, Damian Raess and Ka Zeng, 227–251. Cambridge University Press.",
+    "doi": "10.1017/9781009291804.015",
+    "isbn": null,
+    "verification_urls": [
+      "https://www.cambridge.org/core/books/china-and-the-wto/china-and-the-brics-in-wto-ecommerce-and-fisheries-negotiations/B2CE3A3232BDDED813E50189F3F0C7B5"
+    ],
+    "read_status": "partial_full_text_read",
+    "read_scope": "Publisher summary/metadata, introduction and e-commerce negotiation sections read; fisheries opening only. Full fisheries analysis and complete reference apparatus not read.",
+    "access": {
+      "status": "lawful_publisher_open_access",
+      "lawful_open_full_text_url": "https://www.cambridge.org/core/books/china-and-the-wto/china-and-the-brics-in-wto-ecommerce-and-fisheries-negotiations/B2CE3A3232BDDED813E50189F3F0C7B5",
+      "preview_url": null,
+      "user_full_text_needed": false,
+      "request_scope": null,
+      "caveat": "Publisher specifies CC-BY-NC 4.0. The 2023 publication date does not mean the substantive chronology reaches 2023; the e-commerce narrative treats developments through 2021 as current."
+    },
+    "evidence_method_verified": "Introduction specifies a comparison of evolving negotiation positions/tactics in two WTO negotiations. Read sections cite WTO submissions and contemporary reporting; no original-interview method verified.",
+    "research_questions": [
+      "Does China form different coalitions and use different tactics by issue and counterpart?",
+      "How do sovereignty and development-status arguments function in concrete draft negotiations?"
+    ],
+    "purpose_and_caveat": "Useful later-period test of issue-specific coalition building, including China’s differences with India, Brazil and the United States. It requires updating from 2021 with actual subsequent negotiating documents before supporting claims about 2026.",
+    "recommended_reading": "Read complete chapter, acquire cited WTO document numbers and build a dated position matrix rather than treating BRICS as a unified bloc.",
+    "verified_on": "2026-09-05"
+  },
+  {
+    "id": "LIT-TRADE-LIM-FERGUSON-2022",
+    "priority": 8,
+    "authors": [
+      "Darren J. Lim",
+      "Victor A. Ferguson"
+    ],
+    "year": 2022,
+    "title": "Informal Economic Sanctions: The Political Economy of Chinese Coercion during the THAAD Dispute",
+    "type": "peer-reviewed journal article",
+    "language": "en",
+    "citation": "Lim, Darren J., and Victor A. Ferguson. 2022. “Informal Economic Sanctions: The Political Economy of Chinese Coercion during the THAAD Dispute.” Review of International Political Economy 29(5): 1525–1548.",
+    "doi": "10.1080/09692290.2021.1918746",
+    "isbn": null,
+    "verification_urls": [
+      "https://researchportalplus.anu.edu.au/en/publications/informal-economic-sanctions-the-political-economy-of-chinese-coer/",
+      "https://www.tandfonline.com/doi/pdf/10.1080/09692290.2021.1918746"
+    ],
+    "read_status": "abstract_and_methods_discussion_sections",
+    "read_scope": "ANU metadata/abstract, publisher full-text methods description, conceptualization and discussion excerpts read. Whole article and supplemental appendix not yet read.",
+    "access": {
+      "status": "lawful_publisher_open_access",
+      "lawful_open_full_text_url": "https://www.tandfonline.com/doi/pdf/10.1080/09692290.2021.1918746",
+      "preview_url": null,
+      "user_full_text_needed": false,
+      "request_scope": null,
+      "caveat": "Publisher PDF identifies Open Access CC-BY-NC-ND 4.0.2021 is online/copyright year; 2022 is journal volume year."
+    },
+    "evidence_method_verified": "Authors describe a qualitative industry-level dataset and a theory-testing comparison of affected/unaffected sectors; supplemental appendix documents mechanisms, impact and additional evidence, with over 250 backed-up sources. Appendix itself has not yet been audited.",
+    "research_questions": [
+      "How is economic pressure organized without formal sanctions or acknowledged coercive demands?",
+      "What evidence distinguishes government direction, opportunistic regulation and autonomous commercial response?"
+    ],
+    "purpose_and_caveat": "A strong methodological model for reconstructing deniable pressure, useful alongside bilateral negotiations. South Korea is a comparator rather than evidence of identical behavior toward the United States; the authors explicitly do not settle whether the episode constituted successful coercion.",
+    "recommended_reading": "Acquire/read main article together with supplementary evidence archive; use its attribution protocol when investigating later coercion cases.",
+    "verified_on": "2026-09-05"
+  },
+  {
+    "id": "LIT-TRADE-TU-SHI-2021",
+    "priority": 9,
+    "authors": [
+      "屠新泉",
+      "石晓婧"
+    ],
+    "year": 2021,
+    "title": "重振WTO谈判功能的诸边协议路径探析",
+    "english_title": "An Analysis of Plurilateral Agreements Approach to Revitalize the WTO Negotiation Function",
+    "type": "scholarly journal article",
+    "language": "zh",
+    "citation": "屠新泉、石晓婧，2021，《重振WTO谈判功能的诸边协议路径探析》，《浙江大学学报（人文社会科学版）》51(5):211–226。",
+    "doi": "10.3785/j.issn.1008-942X.CN33-6000/C.2021.01.154",
+    "isbn": null,
+    "verification_urls": [
+      "https://www.zjujournals.com/soc/CN/abstract/abstract32823.shtml",
+      "https://ciwto.uibe.edu.cn/docs/2025-06/d355aacc923447b0a67bf3f077c07583.pdf"
+    ],
+    "read_status": "abstract_and_opening_only",
+    "read_scope": "Journal metadata, Chinese abstract and institutional PDF first-page introduction read. Main legal/historical argument not yet read in full.",
+    "access": {
+      "status": "lawful_journal_and_author_institution_full_text",
+      "lawful_open_full_text_url": "https://ciwto.uibe.edu.cn/docs/2025-06/d355aacc923447b0a67bf3f077c07583.pdf",
+      "preview_url": "https://www.zjujournals.com/soc/CN/abstract/abstract32823.shtml",
+      "user_full_text_needed": false,
+      "request_scope": null,
+      "caveat": "Journal also linksPDF/Rich HTML. Institutional file folder 2025-06 is a hosting date; article published September 2021, online-first August 12, 2021. No broad reuse license verified."
+    },
+    "evidence_method_verified": "Abstract describes historical and contemporary institutional/legal analysis of plurilateral agreements; no original interviews or access to private negotiation files verified.",
+    "research_questions": [
+      "How do Chinese trade scholars justify changing negotiation format and decision rules?",
+      "Is increased institutional/legal flexibility observable in Chinese policy proposals and actual participation?"
+    ],
+    "purpose_and_caveat": "A substantive Chinese-language account of negotiating institutions and a useful source of hypotheses about procedural adaptation. It is scholarly analysis and prescription, not an authorized Chinese government position or evidence of confidential instructions.",
+    "recommended_reading": "Read full article and follow cited GATT/WTO provisions and Chinese proposals; compare prescriptions with actual negotiating behavior.",
+    "verified_on": "2026-09-05"
+  },
+  {
+    "id": "LIT-TRADE-TIAN-SHANG-2026",
+    "priority": 10,
+    "authors": [
+      "George Yijun Tian",
+      "Carrie Shu Shang"
+    ],
+    "year": 2026,
+    "title": "A Co-regulatory Approach to Bilateral Trade: Assessing and Enhancing Enforceability of U.S.–China Phase One Agreement in the Trump 2.0 Era",
+    "type": "scholarly journal article; primarily legal/institutional analysis",
+    "language": "en",
+    "citation": "Tian, George Yijun, and Carrie Shu Shang. 2026. “A Co-regulatory Approach to Bilateral Trade: Assessing and Enhancing Enforceability of U.S.–China Phase One Agreement in the Trump 2.0 Era.” Journal of International Economic Law 29(2): 264–291.",
+    "doi": "10.1093/jiel/jgag019",
+    "isbn": null,
+    "verification_urls": [
+      "https://academic.oup.com/jiel/article/29/2/264/8726689"
+    ],
+    "read_status": "abstract_introduction_and_selected_sections",
+    "read_scope": "Publisher metadata, abstract, introduction, selected institutional-design discussion and access-license statement read. Full article, citations and factual chronology not audited.",
+    "access": {
+      "status": "lawful_publisher_open_access",
+      "lawful_open_full_text_url": "https://academic.oup.com/jiel/article/29/2/264/8726689",
+      "preview_url": null,
+      "user_full_text_needed": false,
+      "request_scope": null,
+      "caveat": "Publisher specifies CC-BY-NC 4.0. Volume issue dated June 2026 while publication timestamp is July 8, 2026; both precede audit September 5, 2026."
+    },
+    "evidence_method_verified": "Abstract/introduction describe a legal and regulatory analysis of technology-transfer and IP provisions, compliance incentives and stakeholder participation. No original interviews or private negotiating records verified.",
+    "research_questions": [
+      "How did Phase One institutionalize consultation, enforcement and renegotiation?",
+      "When does apparent nonimplementation reflect incentives, competing policies or agreement design rather than bargaining culture?"
+    ],
+    "purpose_and_caveat": "A recent supplementary framework for implementation and enforcement, selected for 2020–2026 relevance. Lower priority than process-rich fieldwork: it is not a reconstruction of the 2018–2020 or 2025–2026 negotiating room, and recent dates do not substitute for documentary verification.",
+    "recommended_reading": "Read after the Phase One agreement and implementation records; use its references to identify gaps, and verify contemporary claims independently.",
+    "verified_on": "2026-09-05"
+  }
+]

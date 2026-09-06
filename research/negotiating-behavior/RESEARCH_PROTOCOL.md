@@ -55,6 +55,14 @@ For Chinese documents, keep the original title, author/institution, Chinese text
 
 For journalism, find the original report and its attribution, not a later summary. Record whether a named participant supplied documents, whether anonymous sources had distinct access, what the reporter observed directly, and any correction or subsequent challenge. Reporting can recover process unavailable in an archive; anonymity and publication incentives still constrain inference.
 
+## Secondary literature as a parallel research strand
+
+Use the [literature map](literature/README.md) to put competing explanations into the research design before interpreting additional cases. Read direct continuity/change studies alongside work on institutions, legal learning, domestic audiences, coercion and counterpart-specific bargaining. Revisit the original historical baseline using later archival scholarship; new evidence about an old event is not itself evidence of behavioral change.
+
+For each fully read article or chapter, extract its actual cases and period, evidence-collection method, interview and archive provenance, central mechanism, strongest contrary evidence, and relevant Solomon/Freeman propositions. Follow citations backward to original records and forward to critiques and later research. Related versions and scholarship repeating the same interview are not independent confirmations. Keep business studies, journal articles, reported books and policy reports visibly distinguished.
+
+The literature register separates metadata/abstract screening, selected-section reading, full reading and subsequent evaluation. Public availability is an access status, not a reading status. A recent publication date is not its empirical cutoff. The first output from reading should identify which observations or missing records would distinguish the competing explanations, rather than tallying scholarly agreement with Solomon.
+
 ## White papers and doctrinal material
 
 Read Chinese white papers as primary evidence of the government's public account, stated red lines, legal arguments, audience, and narrative revision. Test their descriptions of negotiating events against the underlying agreement and the other side's contemporaneous record. Compare Chinese and English versions. Preserve document versions and retrieval dates.

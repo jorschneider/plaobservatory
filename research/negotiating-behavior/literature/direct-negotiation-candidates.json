@@ -1,0 +1,439 @@
+[
+  {
+    "id": "LIT-DIRECT-FAURE-ZARTMAN-2025",
+    "priority": 1,
+    "authors": [
+      "Guy Olivier Faure",
+      "I. William Zartman"
+    ],
+    "year": 2025,
+    "title": "China's Negotiating Mindset and Strategies: Historical and Cultural Foundations",
+    "type": "scholarly edited volume",
+    "language": "en",
+    "citation": "Faure, Guy Olivier, and I. William Zartman, eds. 2025. China's Negotiating Mindset and Strategies: Historical and Cultural Foundations. 1st ed. Routledge. 340 pp.",
+    "pages": "340 pp.; individual chapter pagination not yet verified",
+    "doi": "10.4324/9781003582113",
+    "isbn": "9781032948706",
+    "verification_urls": [
+      "https://www.routledge.com/Chinas-Negotiating-Mindset-and-Strategies-Historical-and-Cultural-Foundations/Faure-Zartman/p/book/9781032948706",
+      "https://api.pageplace.de/preview/DT0400.9781040388969_A50837262/preview-9781040388969_A50837262.pdf",
+      "https://fletcher.tufts.edu/research/research-publications/russian-perspectives-chinese-negotiating-behavior-research-note",
+      "https://www.taylorfrancis.com/chapters/edit/10.4324/9781003582113-27/chinese-mindset-strategies-guy-olivier-faure"
+    ],
+    "read_status": "publisher_description_contents_and_indexed_front_matter",
+    "read_scope": "Publisher description and complete table of contents; search-indexed copyright page verifying year, editors, ISBN and DOI. No substantive chapter read. Root subsequently checked the indexed Faure conclusion abstract, Tufts metadata/abstract for Troitskiy, and preview contents for Celico/Hu starting pages. No chapter read in full.",
+    "access": {
+      "status": "commercial_book_preview_located",
+      "lawful_open_full_text_url": null,
+      "preview_url": "https://api.pageplace.de/preview/DT0400.9781040388969_A50837262/preview-9781040388969_A50837262.pdf",
+      "user_full_text_needed": true,
+      "request_scope": "Full volume, particularly chapters 1–2, 7–9, 12–13, 19–20 and 22–23.",
+      "caveat": "Preview located, but direct retrieval failed; no authorized complete open edition found during this search."
+    },
+    "evidence_method_verified": "Contents establish a collection combining cultural concepts with trade and geopolitical cases. Individual chapter methods and evidence have not been read and cannot be inferred from the volume description.",
+    "book_claims": [
+      "S-P02",
+      "S-P05",
+      "S-P13",
+      "S-P14",
+      "S-P20"
+    ],
+    "research_questions": [
+      "Do contemporary U.S., EU, India and Russia cases support one Chinese style or distinguish arenas and counterpart power?",
+      "Do relations, face and strategic traditions predict behavior after mandates and leverage are considered?"
+    ],
+    "purpose_and_caveat": "Most recent directly relevant synthesis located. Its cultural framing needs to be evaluated against institutional alternatives, and chapter authors should be assessed individually rather than counted as independent confirmation of an editorial thesis.",
+    "recommended_reading": "Compare Celico on China–U.S. trade, Hu on EU trade, Troitskiy on Russian perspectives and Liu on power before accepting the concluding generalizations.",
+    "verified_on": "2026-09-05",
+    "priority_chapters": [
+      {
+        "number": 12,
+        "author": "Amy P. Celico",
+        "title": "Changing Priorities Driving China–U.S. Trade Negotiations",
+        "pages": "starts at 152; ending page not independently verified",
+        "doi": null,
+        "read_status": "contents_only",
+        "request": "first"
+      },
+      {
+        "number": 22,
+        "author": "Guy Olivier Faure",
+        "title": "Chinese Mindset and Strategies: Inferences",
+        "pages": null,
+        "doi": "10.4324/9781003582113-27",
+        "read_status": "indexed_publisher_abstract_only",
+        "request": "first"
+      },
+      {
+        "number": 13,
+        "author": "Weinian Hu",
+        "title": "Chinese characteristics in EU trade negotiations",
+        "pages": "starts at 168; ending page not independently verified",
+        "doi": null,
+        "read_status": "contents_only",
+        "request": "next"
+      },
+      {
+        "number": 20,
+        "author": "Mikhail Troitskiy",
+        "title": "Russian perspectives on Chinese negotiating behavior: A research note",
+        "pages": "266–274",
+        "doi": "10.4324/9781003582113-24",
+        "read_status": "institutional_abstract_and_metadata_only",
+        "request": "next"
+      }
+    ]
+  },
+  {
+    "id": "LIT-DIRECT-ZHANG-2008",
+    "priority": 2,
+    "authors": [
+      "Zhang Qingmin"
+    ],
+    "year": 2008,
+    "title": "Continuities and Changes in China’s Negotiating Behavior",
+    "type": "scholarly book chapter",
+    "language": "en",
+    "citation": "Zhang Qingmin. 2008. ‘Continuities and Changes in China’s Negotiating Behavior.’ In China’s ‘New’ Diplomacy: Tactical or Fundamental Change?, edited by Pauline Kerr, Stuart Harris, and Qin Yaqing, 153–175. Palgrave Macmillan, New York.",
+    "pages": "153–175",
+    "doi": "10.1007/978-0-230-61692-9_8",
+    "isbn": null,
+    "verification_urls": [
+      "https://link.springer.com/chapter/10.1007/978-0-230-61692-9_8",
+      "https://www.jura.fu-berlin.de/fachbereich/einrichtungen/oeffentliches-recht/lehrende/bolewskiw/dokumente/7__Culture_Language/Kerr_China_New_Diplomacy_One.pdf"
+    ],
+    "read_status": "abstract_references_and_indexed_excerpt",
+    "read_scope": "Publisher abstract, citation and references, plus search-indexed passage discussing domestic opinion and diplomatic change. The institutional 27-page PDF opened without extractable text; the chapter has not been read in full.",
+    "access": {
+      "status": "institution_hosted_pdf_located",
+      "lawful_open_full_text_url": "https://www.jura.fu-berlin.de/fachbereich/einrichtungen/oeffentliches-recht/lehrende/bolewskiw/dokumente/7__Culture_Language/Kerr_China_New_Diplomacy_One.pdf",
+      "preview_url": "https://link.springer.com/chapter/10.1007/978-0-230-61692-9_8",
+      "user_full_text_needed": false,
+      "request_scope": null,
+      "caveat": "University-hosted teaching copy located; complete chapter coverage and legibility still require local inspection. Publisher version requires subscription. Publisher pagination is preferred over divergent citations."
+    },
+    "evidence_method_verified": "References identify Solomon, Kreisberg, Putnam, Chinese diplomatic memoirs, WTO accession research and territorial-dispute research. This establishes sources cited, not a verified systematic design.",
+    "book_claims": [
+      "S-P05",
+      "S-P11",
+      "S-P15",
+      "S-P17",
+      "S-P24"
+    ],
+    "research_questions": [
+      "Which practices changed with professionalization, institutional participation and domestic audiences?",
+      "Does national-style language conceal differences across periods and negotiating bodies?"
+    ],
+    "purpose_and_caveat": "Directly asks the project's continuity/change question and engages Solomon’s earlier negotiating-style work. It predates the Xi period and must be a historical benchmark, not evidence of behavior through 2026.",
+    "recommended_reading": "Read the whole chapter and identify which conclusions rely on observed cases versus theoretical argument or cited generalizations.",
+    "verified_on": "2026-09-05"
+  },
+  {
+    "id": "LIT-DIRECT-XIA-2006",
+    "priority": 3,
+    "authors": [
+      "Yafeng Xia"
+    ],
+    "year": 2006,
+    "title": "Negotiating with the Enemy: U.S.-China Talks during the Cold War, 1949-1972",
+    "type": "scholarly monograph",
+    "language": "en",
+    "citation": "Xia, Yafeng. 2006. Negotiating with the Enemy: U.S.-China Talks during the Cold War, 1949–1972. Indiana University Press. 352 pp.",
+    "pages": "352 pp. (publisher extent)",
+    "doi": null,
+    "isbn": "9780253347589",
+    "verification_urls": [
+      "https://iupress.org/9780253112378/negotiating-with-the-enemy/"
+    ],
+    "read_status": "publisher_description_and_contents",
+    "read_scope": "Publisher metadata, description, chapter titles and attributed review excerpts only. Book body and source notes not read.",
+    "access": {
+      "status": "commercial_book_no_open_full_text_verified",
+      "lawful_open_full_text_url": null,
+      "preview_url": "https://iupress.org/9780253112378/negotiating-with-the-enemy/",
+      "user_full_text_needed": true,
+      "request_scope": "Entire book, particularly chapters 3–9 and their notes.",
+      "caveat": "No authorized full open edition verified in this bounded search. No book DOI verified; null does not establish that none exists."
+    },
+    "evidence_method_verified": "Publisher-hosted reviews describe use of newly available Chinese and U.S. sources and archival research. Actual archival coverage, interview base and treatment of conflicting accounts require the book.",
+    "book_claims": [
+      "S-P01",
+      "S-P08",
+      "S-P10",
+      "S-P11",
+      "S-P13",
+      "S-P24"
+    ],
+    "research_questions": [
+      "Does the expanded Chinese record alter Solomon’s interpretation of the same early diplomatic episodes?",
+      "How did negotiation differ between adversarial ambassadorial talks and rapprochement?"
+    ],
+    "purpose_and_caveat": "Allows revision of the original baseline using later historical research before attributing discrepancies to post-1999 behavioral change. Its subject ends in 1972, so it supplies no direct evidence about present-day practice.",
+    "recommended_reading": "Pair its accounts with Solomon’s dated cases and trace disagreements back to the underlying records.",
+    "verified_on": "2026-09-05"
+  },
+  {
+    "id": "LIT-DIRECT-WILHELM-1994",
+    "priority": 4,
+    "authors": [
+      "Alfred D. Wilhelm, Jr."
+    ],
+    "year": 1994,
+    "title": "The Chinese at the Negotiating Table: Style and Characteristics",
+    "type": "government-published research monograph",
+    "language": "en",
+    "citation": "Wilhelm, Alfred D., Jr. 1994. The Chinese at the Negotiating Table: Style and Characteristics. Washington, DC: National Defense University Press. xxxiii + 281 pp.",
+    "pages": "xxxiii + 281 pp.",
+    "doi": null,
+    "isbn": null,
+    "verification_urls": [
+      "https://catalog.freelibrary.org/Record/1985071",
+      "https://www.nato.int/structur/library/bibref/them0104.pdf",
+      "https://books.google.com/books?id=40azDouR8voC"
+    ],
+    "read_status": "institutional_catalogue_and_bibliographic_summary",
+    "read_scope": "Institutional library record and NATO bibliographic synopsis. No book chapter read.",
+    "access": {
+      "status": "catalogue_and_google_books_record_located",
+      "lawful_open_full_text_url": null,
+      "preview_url": "https://books.google.com/books?id=40azDouR8voC",
+      "user_full_text_needed": true,
+      "request_scope": "Full book, prioritizing method, Panmunjom, Geneva/Warsaw and conclusion.",
+      "caveat": "Google Books record located; complete readable coverage not verified. Original NDU edition is distinguished from later reprints. No DOI verified."
+    },
+    "evidence_method_verified": "NATO synopsis identifies historical comparison of negotiators and episodes including Panmunjom and the 1955–1970 ambassadorial talks. The evidence-selection procedure has not been read.",
+    "book_claims": [
+      "S-P01",
+      "S-P03",
+      "S-P06",
+      "S-P23"
+    ],
+    "research_questions": [
+      "Which traits survive comparison across adversarial and cooperative diplomatic settings?",
+      "Are apparent patience and procedural tactics contingent on stakes, relative need and particular negotiators?"
+    ],
+    "purpose_and_caveat": "A substantial contemporary comparator to Solomon that broadens the diplomatic case base. It is a research monograph from a defense institution, not a peer-reviewed journal test; catalogue descriptions are not substitutes for its argument.",
+    "recommended_reading": "Read its methodological cautions before extracting claimed national traits; check whether disagreements concern selection, interpretation or actual contrary evidence.",
+    "verified_on": "2026-09-05"
+  },
+  {
+    "id": "LIT-DIRECT-LIU-1992",
+    "priority": 5,
+    "authors": [
+      "劉必榮 (Bih-Rong Liu)"
+    ],
+    "year": 1992,
+    "title": "中共談判行為研究：不同個案的比較分析",
+    "type": "scholarly journal article",
+    "language": "zh-Hant",
+    "citation": "劉必榮（Bih-Rong Liu）. 1992. 〈中共談判行為研究：不同個案的比較分析〉[platform English title: ‘Communist Chinese Negotiating Behavior’]. 《東吳政治學報》1（3月）：123–203.",
+    "pages": "123–203",
+    "doi": null,
+    "isbn": null,
+    "verification_urls": [
+      "https://toaj.stpi.niar.org.tw/index/journal/volume/article/4b1141f992d0e7290192e5a1b28e115e",
+      "https://ah.lib.nccu.edu.tw/item?item_id=56532&locale=zh_TW"
+    ],
+    "read_status": "bilingual_abstract_and_metadata",
+    "read_scope": "TOAJ bibliographic entry and full bilingual abstract, corroborated by a university bibliographic reference. Article body not read.",
+    "access": {
+      "status": "open_access_platform_pdf_advertised",
+      "lawful_open_full_text_url": null,
+      "preview_url": "https://toaj.stpi.niar.org.tw/index/journal/volume/article/4b1141f992d0e7290192e5a1b28e115e",
+      "user_full_text_needed": false,
+      "request_scope": null,
+      "caveat": "Institutional open-access page advertises a PDF, but direct download was not resolved. Retry the platform before requesting a user copy. No DOI verified."
+    },
+    "evidence_method_verified": "Abstract specifies seven cases: KMT–CCP talks, Korean armistice, U.S. ambassadorial talks, 1970s rapprochement, Burma border talks, a 1991 cross-strait fishing incident and Taiwan business negotiations. It explicitly disputes a uniform style and emphasizes bargaining position.",
+    "book_claims": [
+      "S-P01",
+      "S-P13",
+      "S-P14",
+      "S-P20"
+    ],
+    "research_questions": [
+      "Does relative weakness or perceived threat explain changes attributed to Chinese culture?",
+      "Does a case design weighted toward the U.S. hide important variation?"
+    ],
+    "purpose_and_caveat": "An explicit comparative challenge to homogeneous national-style claims, published before the book’s 1999 edition. The mixed diplomatic and business sample and inferential design need scrutiny; abstract conclusions are not yet independently assessed.",
+    "recommended_reading": "Read method and all cases; distinguish contemporary Chinese-language scholarship from PRC official positions.",
+    "verified_on": "2026-09-05"
+  },
+  {
+    "id": "LIT-DIRECT-FAURE-1998",
+    "priority": 6,
+    "authors": [
+      "Guy Olivier Faure"
+    ],
+    "year": 1998,
+    "title": "Negotiation: The Chinese Concept",
+    "type": "scholarly journal article",
+    "language": "en",
+    "citation": "Faure, Guy Olivier. 1998. ‘Negotiation: The Chinese Concept.’ Negotiation Journal 14 (2): 137–148.",
+    "pages": "137–148",
+    "doi": "10.1111/j.1571-9979.1998.tb00154.x",
+    "isbn": null,
+    "verification_urls": [
+      "https://direct.mit.edu/ngtn/article/14/2/137/122439/Negotiation-The-Chinese-Concept"
+    ],
+    "read_status": "publisher_abstract_and_metadata",
+    "read_scope": "Publisher abstract, citation, licensing notice and visible references; article body not read.",
+    "access": {
+      "status": "publisher_open_access_fetch_blocked",
+      "lawful_open_full_text_url": "https://direct.mit.edu/ngtn/article/14/2/137/122439/Negotiation-The-Chinese-Concept",
+      "preview_url": null,
+      "user_full_text_needed": false,
+      "request_scope": null,
+      "caveat": "Publisher explicitly marks open access under CC BY-NC 4.0, but direct tool retrieval returned 403. Original issue is April 1998; a later online-publication field must not change the citation year."
+    },
+    "evidence_method_verified": "Abstract states extensive interviews with Chinese and non-Chinese negotiators over five years. Sample size, recruitment, settings and coding are not verified.",
+    "book_claims": [
+      "S-P01",
+      "S-P05",
+      "S-P13",
+      "S-P14",
+      "S-P22"
+    ],
+    "research_questions": [
+      "When do competitive and collaborative negotiating approaches alternate?",
+      "Does a dual conception predict observable choices, or retrospectively accommodate any outcome?"
+    ],
+    "purpose_and_caveat": "Supplies a developed cultural explanation to compare with Solomon and institutional alternatives. The interviewed population must be checked before extending its findings to state diplomacy or treating interview interpretations as behavioral measurement.",
+    "recommended_reading": "Read interview-method discussion and identify disconfirming cases; distinguish negotiators’ self-description from the analyst’s metaphors.",
+    "verified_on": "2026-09-05"
+  },
+  {
+    "id": "LIT-DIRECT-LIANG-2008",
+    "priority": 7,
+    "authors": [
+      "梁晓君 (Liang Xiaojun)"
+    ],
+    "year": 2008,
+    "title": "外交谈判战略浅析",
+    "type": "scholarly journal article; general diplomatic negotiation theory",
+    "language": "zh-Hans",
+    "citation": "梁晓君（Liang Xiaojun）. 2008. 〈外交谈判战略浅析〉. 《国际政治研究》第2期：108–120（publisher PDF printed folios; catalogue instead lists 112–124）.",
+    "pages": "108–120 in the publisher PDF; catalogue discrepancy: 112–124",
+    "doi": null,
+    "isbn": null,
+    "verification_urls": [
+      "https://ccj.pku.edu.cn/article/info?aid=297793048",
+      "https://ccj.pku.edu.cn/Article/DownLoad?id=297793048&type=ArticleFile",
+      "https://www.jis.pku.edu.cn/publish418/2008/index.htm"
+    ],
+    "read_status": "abstract_metadata_and_partial_pdf_extraction",
+    "read_scope": "Publisher abstract, journal archive, and PDF extraction showing 13 pages, printed folios 108–120 and a Solomon reference at printed p.118. Chinese PDF extraction is incomplete; substantive body not read reliably.",
+    "access": {
+      "status": "publisher_open_pdf",
+      "lawful_open_full_text_url": "https://ccj.pku.edu.cn/Article/DownLoad?id=297793048&type=ArticleFile",
+      "preview_url": "https://ccj.pku.edu.cn/article/info?aid=297793048",
+      "user_full_text_needed": false,
+      "request_scope": null,
+      "caveat": "Full publisher PDF is available. Visual verification remains necessary because Chinese text extraction is defective and the catalogue pagination conflicts with the PDF. No DOI verified."
+    },
+    "evidence_method_verified": "Abstract advances an argument about competitive versus cooperative strategy and relations as an interest. Extracted notes cite historical diplomatic episodes and Solomon pp.31–32; no systematic empirical test verified.",
+    "book_claims": [
+      "S-P05",
+      "S-P13",
+      "S-P14",
+      "S-P22"
+    ],
+    "research_questions": [
+      "Can maintaining relations be an interest in its own right rather than merely a tactic for concessions?",
+      "What distinguishes relational cooperation from interpersonal pressure in concrete negotiating records?"
+    ],
+    "purpose_and_caveat": "A Chinese-language theoretical counterpoint to reducing relationship management to manipulation. It addresses diplomacy generally and cannot itself establish Chinese national distinctiveness or change over time.",
+    "recommended_reading": "Read the complete short article visually, especially its treatment of relations and Solomon, before attributing an agreement or critique to the author.",
+    "verified_on": "2026-09-05"
+  },
+  {
+    "id": "LIT-DIRECT-KUMAR-WORM-2004",
+    "priority": 8,
+    "authors": [
+      "Rajesh Kumar",
+      "Verner Worm"
+    ],
+    "year": 2004,
+    "title": "Institutional Dynamics and the Negotiation Process: Comparing India and China",
+    "type": "scholarly journal article; business/institutional comparison",
+    "language": "en",
+    "citation": "Kumar, Rajesh, and Verner Worm. 2004. ‘Institutional Dynamics and the Negotiation Process: Comparing India and China.’ International Journal of Conflict Management 15 (3): 304–334.",
+    "pages": "304–334",
+    "doi": "10.1108/eb022916",
+    "isbn": null,
+    "verification_urls": [
+      "https://research.cbs.dk/en/publications/institutional-dynamics-and-the-negotiation-process-comparing-indi/",
+      "https://digitalcommons.usu.edu/unf_research/12/",
+      "https://citeseerx.ist.psu.edu/document?doi=2490b1149c14ddaf4967236b6047bcce5a0392ee&repid=rep1&type=pdf"
+    ],
+    "read_status": "institutional_abstract_and_metadata",
+    "read_scope": "CBS metadata and institutional repository abstract; search-indexed first page of an institutional PDF. Full body not read.",
+    "access": {
+      "status": "institutional_pdf_candidate_located",
+      "lawful_open_full_text_url": "https://citeseerx.ist.psu.edu/document?doi=2490b1149c14ddaf4967236b6047bcce5a0392ee&repid=rep1&type=pdf",
+      "preview_url": "https://digitalcommons.usu.edu/unf_research/12/",
+      "user_full_text_needed": false,
+      "request_scope": null,
+      "caveat": "An institutional PDF is indexed, but the direct fetch failed. Complete coverage and version should be confirmed; the repository itself primarily links the publisher."
+    },
+    "evidence_method_verified": "Abstract proposes an institutional framework using regulative, normative and cognitive dimensions across pre-negotiation, negotiation and evaluation, then applies it illustratively to India and China. This is a conceptual comparison, not a verified causal test.",
+    "book_claims": [
+      "S-P01",
+      "S-P05",
+      "S-P11",
+      "S-P25"
+    ],
+    "research_questions": [
+      "Could institutional rules produce behavior that observers describe as national culture?",
+      "What would distinguish mandate constraints from tactical stalling or post-agreement reopening?"
+    ],
+    "purpose_and_caveat": "Provides concrete institutional alternatives and a large-country comparator. Its economic/business setting means mechanisms may generate hypotheses for diplomacy, but results cannot be transferred without governmental case evidence.",
+    "recommended_reading": "Read model and scope conditions, then translate only testable mechanisms into diplomatic case coding.",
+    "verified_on": "2026-09-05"
+  },
+  {
+    "id": "LIT-DIRECT-FANG-WORM-TUNG-2008",
+    "priority": 9,
+    "authors": [
+      "Tony Fang",
+      "Verner Worm",
+      "Rosalie L. Tung"
+    ],
+    "year": 2008,
+    "title": "Changing success and failure factors in business negotiations with the PRC",
+    "type": "scholarly journal article; business negotiations only",
+    "language": "en",
+    "citation": "Fang, Tony, Verner Worm, and Rosalie L. Tung. 2008. ‘Changing success and failure factors in business negotiations with the PRC.’ International Business Review 17 (2): 159–169.",
+    "pages": "159–169",
+    "doi": "10.1016/j.ibusrev.2008.02.012",
+    "isbn": null,
+    "verification_urls": [
+      "https://research.cbs.dk/en/publications/changing-success-and-failure-factors-in-business-negotiations-wit/",
+      "https://www.researchgate.net/publication/227417301_Changing_success_and_failure_factors_in_business_negotiations_with_the_PRC"
+    ],
+    "read_status": "metadata_abstract_and_intro_excerpt",
+    "read_scope": "Institutional bibliographic record and author-posted search-indexed abstract/introduction. Full paper and methods not read.",
+    "access": {
+      "status": "author_posted_full_text_located",
+      "lawful_open_full_text_url": "https://www.researchgate.net/publication/227417301_Changing_success_and_failure_factors_in_business_negotiations_with_the_PRC",
+      "preview_url": "https://research.cbs.dk/en/publications/changing-success-and-failure-factors-in-business-negotiations-wit/",
+      "user_full_text_needed": false,
+      "request_scope": null,
+      "caveat": "ResearchGate identifies Tony Fang as the uploader. Full-text coverage, manuscript version and reuse permission were not independently checked; do not mirror it into the repository."
+    },
+    "evidence_method_verified": "Abstract/introduction describe comparison with earlier 1980s and 1990s studies. Sampling, interview count, measurement consistency and identification of temporal change require the full article.",
+    "book_claims": [
+      "S-P05",
+      "S-P11",
+      "S-P14",
+      "S-P25"
+    ],
+    "research_questions": [
+      "Which business-negotiation practices changed with professionalization and WTO-era market conditions?",
+      "Can comparable observations across decades separate behavioral change from changes in sectors or respondents?"
+    ],
+    "purpose_and_caveat": "A direct longitudinal-change candidate that challenges static cultural descriptions. It concerns business negotiations; it provides a comparison and possible mechanisms, not evidence that Chinese diplomats changed in the same way.",
+    "recommended_reading": "Audit comparability across the three periods before using its conclusions; keep all business findings separately labeled.",
+    "verified_on": "2026-09-05"
+  }
+]
