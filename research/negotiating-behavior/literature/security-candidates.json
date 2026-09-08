@@ -2,7 +2,9 @@
   {
     "id": "LIT-SEC-JOHNSTON-2013",
     "priority": 1,
-    "authors": ["Alastair Iain Johnston"],
+    "authors": [
+      "Alastair Iain Johnston"
+    ],
     "year": 2013,
     "title": "How New and Assertive Is China's New Assertiveness?",
     "type": "scholarly journal article",
@@ -17,8 +19,8 @@
       "https://www.belfercenter.org/sites/default/files/2024-07/003-isec_a_00482-Talmadge.pdf"
     ],
     "metadata_note": "Author institutional CV and article title page verify citation. DOI also appears in International Security 48(4), Talmadge article, note 75; not inferred from the neighboring Goldstein article's DOI.",
-    "read_status": "abstract_and_selected_full_text",
-    "read_scope": "Publisher summary; article pp.7–16, including historical baseline, operational definition, media-frequency indicators, Copenhagen and Taiwan arms-sales passages. Remaining pp.17–48 not read sequentially.",
+    "read_status": "full_published_article_read",
+    "read_scope": "Complete final journal article, pp.7–48, including all 116 notes; selected pages visually checked.",
     "access": {
       "status": "institutional_open_full_text",
       "lawful_open_full_text_url": "https://www.belfercenter.org/sites/default/files/pantheon_files/files/publication/IS3704_pp007-048.pdf",
@@ -28,15 +30,38 @@
       "caveat": "Full text available; complete reading remains necessary."
     },
     "evidence_method_verified": "Seven diplomatic episodes are compared with earlier conduct; initial sections combine authoritative-language analysis, published reporting, media-frequency measures, and Chinese policy-analyst interviews. The article explicitly addresses selecting conspicuous conflict cases and failing to define a temporal baseline.",
-    "research_questions": ["Which observed changes survive comparison with earlier crises and unchanged policy areas?", "Did preferences, bargaining methods, rhetoric, or the counterpart's behavior change?"],
+    "research_questions": [
+      "Which observed changes survive comparison with earlier crises and unchanged policy areas?",
+      "Did preferences, bargaining methods, rhetoric, or the counterpart's behavior change?"
+    ],
     "purpose_and_caveat": "Methodological priority for every evolution claim. Its argument about 2010 is not evidence that subsequent Xi-era behavior remained unchanged; each mechanism and case comparison needs replication.",
     "recommended_reading": "Read all 42 pages before defining the longitudinal case sample; pair with Chubb's later behavioral measurement and the published correspondence.",
-    "verified_on": "2026-09-05"
+    "verified_on": "2026-09-05",
+    "screening_snapshot_2026_09_05": {
+      "read_status": "abstract_and_selected_full_text",
+      "read_scope": "Publisher summary; article pp.7–16, including historical baseline, operational definition, media-frequency indicators, Copenhagen and Taiwan arms-sales passages. Remaining pp.17–48 not read sequentially.",
+      "access": {
+        "status": "institutional_open_full_text",
+        "lawful_open_full_text_url": "https://www.belfercenter.org/sites/default/files/pantheon_files/files/publication/IS3704_pp007-048.pdf",
+        "preview_url": null,
+        "user_full_text_needed": false,
+        "request_scope": null,
+        "caveat": "Full text available; complete reading remains necessary."
+      }
+    },
+    "reading_audit": {
+      "date": "2026-09-08",
+      "memo": "readings/security-change.md",
+      "evidence_register": "readings/security-change-evidence.json",
+      "full_read_of_named_version": true
+    }
   },
   {
     "id": "LIT-SEC-FRAVEL-2005",
     "priority": 2,
-    "authors": ["M. Taylor Fravel"],
+    "authors": [
+      "M. Taylor Fravel"
+    ],
     "year": 2005,
     "title": "Regime Insecurity and International Cooperation: Explaining China's Compromises in Territorial Disputes",
     "type": "scholarly journal article",
@@ -62,7 +87,10 @@
       "caveat": "Read the complete article and notes before coding its cases."
     },
     "evidence_method_verified": "Comparative territorial-dispute study using party histories, oral histories, memoirs, government training materials, gazetteers and nonattributed interviews. Selected Soviet passages trace draft agreements, leadership interventions and changing willingness to separate eastern and western settlements.",
-    "research_questions": ["Can domestic insecurity produce compromise rather than rigidity?", "When do changed external conditions make package separation and concessions possible?"],
+    "research_questions": [
+      "Can domestic insecurity produce compromise rather than rigidity?",
+      "When do changed external conditions make package separation and concessions possible?"
+    ],
     "purpose_and_caveat": "Direct challenge to treating sovereignty claims as inherently nonnegotiable or rigidity as sufficient evidence of leadership conflict. Regime insecurity is not identical to elite factional conflict; retrospective and anonymous evidence needs claim-level checking.",
     "recommended_reading": "Read all pp.46–83, then use the Soviet case references to acquire underlying Chinese and Russian records.",
     "verified_on": "2026-09-05"
@@ -70,7 +98,9 @@
   {
     "id": "LIT-SEC-IWASHITA-2004",
     "priority": 3,
-    "authors": ["Akihiro Iwashita"],
+    "authors": [
+      "Akihiro Iwashita"
+    ],
     "year": 2004,
     "title": "A 4,000 Kilometer Journey Along the Sino-Russian Border",
     "type": "scholarly monograph",
@@ -94,7 +124,10 @@
       "caveat": "Publisher provides individual chapter PDFs; no redistribution license inferred."
     },
     "evidence_method_verified": "Preface documents fieldwork on both border sides, Chinese local administrative records, Russian maps, interviews and local corroboration. Introduction describes reconstructing negotiations from published fragments and unpublished material; it distinguishes technical boundary work from potentially substantive changes.",
-    "research_questions": ["How did local resistance and implementation alter a centrally negotiated settlement?", "Which apparent negotiating habits instead reflect Russian and Chinese domestic constraints?"],
+    "research_questions": [
+      "How did local resistance and implementation alter a centrally negotiated settlement?",
+      "Which apparent negotiating habits instead reflect Russian and Chinese domestic constraints?"
+    ],
     "purpose_and_caveat": "Strong Russia comparison and a concrete model for source triangulation. Author describes correcting his own prior assumptions. Local evidence still cannot automatically establish confidential central mandates; 2004 publication cannot cover subsequent evolution.",
     "recommended_reading": "Read Chapter 1 on 1991–1997 negotiations, Chapters 2–4 on disputed localities, and conclusion; then complete the book and acquire its cited local records.",
     "verified_on": "2026-09-05"
@@ -102,7 +135,9 @@
   {
     "id": "LIT-SEC-MASTRO-2019",
     "priority": 4,
-    "authors": ["Oriana Skylar Mastro"],
+    "authors": [
+      "Oriana Skylar Mastro"
+    ],
     "year": 2019,
     "title": "The Costs of Conversation: Obstacles to Peace Talks in Wartime",
     "type": "scholarly monograph",
@@ -126,7 +161,10 @@
       "caveat": "No authorized freely accessible whole book located in this bounded search; institutional library access may suffice."
     },
     "evidence_method_verified": "Publisher identifies four comparative cases: China in Korea, China and India in the 1962 war, and North Vietnam in the Vietnam War. The detailed archive/interview method has not been checked in the book.",
-    "research_questions": ["Does reluctance to begin talks reflect fear of signaling weakness and enabling enemy escalation?", "Do Chinese and Indian choices within one war undermine a fixed national-style explanation?"],
+    "research_questions": [
+      "Does reluctance to begin talks reflect fear of signaling weakness and enabling enemy escalation?",
+      "Do Chinese and Indian choices within one war undermine a fixed national-style explanation?"
+    ],
     "purpose_and_caveat": "High-value test of delay and willingness to negotiate as strategic choices. Opening wartime talks differs from trading concessions during peacetime negotiations; publisher claims remain provisional until full reading.",
     "recommended_reading": "Acquire and read the full book; extract dated decisions to open or refuse talks and evidence about anticipated opponent interpretations.",
     "verified_on": "2026-09-05"
@@ -134,7 +172,9 @@
   {
     "id": "LIT-SEC-GARVER-2011",
     "priority": 5,
-    "authors": ["John Garver"],
+    "authors": [
+      "John Garver"
+    ],
     "year": 2011,
     "title": "The Unresolved Sino–Indian Border Dispute: An Interpretation",
     "type": "scholarly journal article",
@@ -142,7 +182,9 @@
     "citation": "Garver, John. 2011. ‘The Unresolved Sino–Indian Border Dispute: An Interpretation.’ China Report 47(2): 99–113.",
     "doi": "10.1177/000944551104700204",
     "isbn": null,
-    "verification_urls": ["https://journals.sagepub.com/doi/10.1177/000944551104700204"],
+    "verification_urls": [
+      "https://journals.sagepub.com/doi/10.1177/000944551104700204"
+    ],
     "metadata_note": "Publisher verifies volume, issue, pages and DOI. Issue dated May 2011; first online publication 10 November 2011.",
     "read_status": "publisher_abstract_and_references",
     "read_scope": "Abstract, bibliographic metadata and reference list; restricted article body not read.",
@@ -155,7 +197,10 @@
       "caveat": "No lawful open full text located during this search."
     },
     "evidence_method_verified": "Abstract presents an interpretive argument that Beijing benefits from leaving the border unsettled to influence India's Tibet policy and alignment. References include official materials, FBIS, reporting and earlier scholarship; specific causal evidence cannot be assessed without the body.",
-    "research_questions": ["When is nonsettlement an intended instrument rather than a failure of bargaining?", "What evidence distinguishes strategic deferral from domestic inability to authorize compromise?"],
+    "research_questions": [
+      "When is nonsettlement an intended instrument rather than a failure of bargaining?",
+      "What evidence distinguishes strategic deferral from domestic inability to authorize compromise?"
+    ],
     "purpose_and_caveat": "Useful rival explanation to accounts presuming an agreement-seeking Chinese endgame. Its intentionality and Indian-acceptability premises are hypotheses to scrutinize, not independently established facts.",
     "recommended_reading": "Read the complete article against Chinese and Indian negotiating records; identify evidence that could disconfirm deliberate nonsettlement.",
     "verified_on": "2026-09-05"
@@ -163,7 +208,9 @@
   {
     "id": "LIT-SEC-MASTRO-2011",
     "priority": 6,
-    "authors": ["Oriana Skylar Mastro"],
+    "authors": [
+      "Oriana Skylar Mastro"
+    ],
     "year": 2011,
     "title": "Signaling and Military Provocation in Chinese National Security Strategy: A Closer Look at the Impeccable Incident",
     "type": "scholarly journal article",
@@ -171,7 +218,9 @@
     "citation": "Mastro, Oriana Skylar. 2011. ‘Signaling and Military Provocation in Chinese National Security Strategy: A Closer Look at the Impeccable Incident.’ Journal of Strategic Studies 34(2): 219–244.",
     "doi": "10.1080/01402390.2011.559025",
     "isbn": null,
-    "verification_urls": ["https://www.tandfonline.com/doi/abs/10.1080/01402390.2011.559025"],
+    "verification_urls": [
+      "https://www.tandfonline.com/doi/abs/10.1080/01402390.2011.559025"
+    ],
     "metadata_note": "Publisher citation verified; online publication 19 April 2011.",
     "read_status": "abstract_and_indexed_full_text_excerpts",
     "read_scope": "Publisher abstract; selected indexed passages from author-uploaded text around pp.223–224, 227–228 and 240. No complete sequential reading or complete local retrieval.",
@@ -184,7 +233,10 @@
       "caveat": "Page identifies content uploaded by Oriana Skylar Mastro on 26 June 2017. Author provenance verified; a reuse license and unrestricted download were not verified."
     },
     "evidence_method_verified": "Single-case reconstruction of the March 2009 incident and subsequent signaling, media messaging and legal argument. Selected passages infer an initially private campaign and a later public response to disclosure; access to internal authorization records has not been established.",
-    "research_questions": ["How do physical pressure, legal argument and publicity interact with diplomatic demands?", "Does message sequencing reveal coordination, adaptation, or an observer's retrospective inference?"],
+    "research_questions": [
+      "How do physical pressure, legal argument and publicity interact with diplomatic demands?",
+      "Does message sequencing reveal coordination, adaptation, or an observer's retrospective inference?"
+    ],
     "purpose_and_caveat": "Useful US crisis counterpart to Solomon. Inferred signaling intent must not become proof of a centrally designed negotiating script; this incident is not itself a concluded bargain.",
     "recommended_reading": "Read all pp.219–244 and independently reconstruct the sequence from Chinese and US contemporaneous records.",
     "verified_on": "2026-09-05"
@@ -192,7 +244,9 @@
   {
     "id": "LIT-SEC-CHUBB-2021",
     "priority": 7,
-    "authors": ["Andrew Chubb"],
+    "authors": [
+      "Andrew Chubb"
+    ],
     "year": 2021,
     "title": "PRC Assertiveness in the South China Sea: Measuring Continuity and Change, 1970–2015",
     "type": "scholarly journal article",
@@ -206,8 +260,8 @@
       "https://dataverse.harvard.edu/citation?persistentId=doi:10.7910/DVN/3Y7NRU"
     ],
     "metadata_note": "Publisher and author-university repository verify article metadata; associated appendix has DOI 10.7910/DVN/3Y7NRU, distinct from the article DOI.",
-    "read_status": "selected_publisher_full_text",
-    "read_scope": "Publisher-returned introduction, measurement/framework and source-description passages. Article not read sequentially in full; replication data not downloaded or tested.",
+    "read_status": "full_accepted_manuscript_read",
+    "read_scope": "Complete 41-page accepted manuscript including all 142 notes; final article has different pagination; replication appendix not retrieved.",
     "access": {
       "status": "publisher_text_and_institutional_accepted_manuscript",
       "lawful_open_full_text_url": "https://eprints.lancs.ac.uk/151535/1/Chubb_China_s_assertiveness_AUTHOR_ACCEPTED_COPY.pdf",
@@ -217,15 +271,38 @@
       "caveat": "Repository identifies an accepted manuscript under CC BY-NC; direct PDF fetch returned a cache miss in this session, while publisher text and repository metadata were available."
     },
     "evidence_method_verified": "Original 1970–2015 behavioral time series plus four qualitative turning-point studies, using Chinese internal chronologies, advisory reports, yearbooks and scientific records to reduce bias from changing information availability.",
-    "research_questions": ["Does a measured behavioral shift begin before Xi, and through which mechanisms?", "How much apparent change reflects source visibility rather than changed conduct?"],
+    "research_questions": [
+      "Does a measured behavioral shift begin before Xi, and through which mechanisms?",
+      "How much apparent change reflects source visibility rather than changed conduct?"
+    ],
     "purpose_and_caveat": "Essential check on chronological claims; identifies an important change around 2007 rather than simply assigning it to Xi. Territorial behavior coding cannot by itself reveal private bargaining instructions, and coverage ends in 2015.",
     "recommended_reading": "Read article and appendix together; inspect event definitions and source availability before adapting them to negotiation moves.",
-    "verified_on": "2026-09-05"
+    "verified_on": "2026-09-05",
+    "screening_snapshot_2026_09_05": {
+      "read_status": "selected_publisher_full_text",
+      "read_scope": "Publisher-returned introduction, measurement/framework and source-description passages. Article not read sequentially in full; replication data not downloaded or tested.",
+      "access": {
+        "status": "publisher_text_and_institutional_accepted_manuscript",
+        "lawful_open_full_text_url": "https://eprints.lancs.ac.uk/151535/1/Chubb_China_s_assertiveness_AUTHOR_ACCEPTED_COPY.pdf",
+        "preview_url": "https://eprints.lancs.ac.uk/id/eprint/151535/",
+        "user_full_text_needed": false,
+        "request_scope": null,
+        "caveat": "Repository identifies an accepted manuscript under CC BY-NC; direct PDF fetch returned a cache miss in this session, while publisher text and repository metadata were available."
+      }
+    },
+    "reading_audit": {
+      "date": "2026-09-08",
+      "memo": "readings/security-change.md",
+      "evidence_register": "readings/security-change-evidence.json",
+      "full_read_of_named_version": true
+    }
   },
   {
     "id": "LIT-SEC-ZHANG-2023",
     "priority": 8,
-    "authors": ["Ketian Zhang"],
+    "authors": [
+      "Ketian Zhang"
+    ],
     "year": 2023,
     "title": "Explaining Chinese Military Coercion in Sino-Indian Border Disputes",
     "type": "scholarly journal article",
@@ -233,7 +310,9 @@
     "citation": "Zhang, Ketian. 2023. ‘Explaining Chinese Military Coercion in Sino-Indian Border Disputes.’ Journal of Contemporary China 32(141): 399–416.",
     "doi": "10.1080/10670564.2022.2090081",
     "isbn": null,
-    "verification_urls": ["https://www.tandfonline.com/doi/abs/10.1080/10670564.2022.2090081"],
+    "verification_urls": [
+      "https://www.tandfonline.com/doi/abs/10.1080/10670564.2022.2090081"
+    ],
     "metadata_note": "Publisher verifies final issue metadata; first online publication 16 June 2022, distinct from 2023 issue year.",
     "read_status": "publisher_abstract_and_selected_notes",
     "read_scope": "Abstract, metadata and selected publisher-indexed source notes; full-text endpoint returned 403. No complete body reading.",
@@ -246,7 +325,10 @@
       "caveat": "No lawful open copy verified during this bounded search. The 403 response alone does not establish a paywall."
     },
     "evidence_method_verified": "Abstract compares post-Cold War military coercion toward India with nonmilitary South China Sea coercion, explaining variation through anticipated geopolitical backlash. Inspected notes reference Chinese border-police material, the 1996 agreement and reporting; a private interview/archive base has not been verified.",
-    "research_questions": ["Why does the same Chinese leadership select different pressure instruments against different counterparts?", "How do anticipated third-party reactions shape bargaining threats?"],
+    "research_questions": [
+      "Why does the same Chinese leadership select different pressure instruments against different counterparts?",
+      "How do anticipated third-party reactions shape bargaining threats?"
+    ],
     "purpose_and_caveat": "Useful alternative to treating Xi-era pressure as a uniform national style. Use of force does not establish negotiated effectiveness; perceived backlash costs and their timing require independent evidence.",
     "recommended_reading": "Read full argument and cases, then connect coercive moves to demands, mandate changes and actual negotiation rounds.",
     "verified_on": "2026-09-05"
@@ -254,7 +336,9 @@
   {
     "id": "LIT-SEC-CHADHA-2024",
     "priority": 9,
-    "authors": ["Saheb Singh Chadha"],
+    "authors": [
+      "Saheb Singh Chadha"
+    ],
     "year": 2024,
     "title": "Negotiating the India-China Standoff: 2020–2024",
     "type": "institutional policy research report; supplemental to scholarly shortlist",
@@ -262,10 +346,12 @@
     "citation": "Chadha, Saheb Singh. 2024. Negotiating the India-China Standoff: 2020–2024. Carnegie India / Carnegie Endowment for International Peace, December. 74 PDF pages.",
     "doi": null,
     "isbn": null,
-    "verification_urls": ["https://assets.carnegieendowment.org/static/files/Negotiating%20the%20India-China%20Standoff%202020_2024.pdf"],
-    "metadata_note": "Title, author, institution and December 2024 date verified in original institutional PDF. Not represented as a peer-reviewed journal article; no DOI located. Main narrative printed pp.1–41, notes pp.45–66.",
-    "read_status": "selected_full_text",
-    "read_scope": "Summary pp.1–2, introduction p.3, channels/methodology pp.4–7 and selected initial case passages pp.8–10. Later narrative and all notes not read sequentially. Report states a 3 December 2024 information cutoff.",
+    "verification_urls": [
+      "https://assets.carnegieendowment.org/static/files/Negotiating%20the%20India-China%20Standoff%202020_2024.pdf"
+    ],
+    "metadata_note": "Title, author, institution and December 2024 date verified in original institutional PDF. Not represented as a peer-reviewed journal article; no DOI located. Corrected 8 September: substantive text printed pp.1–42, author p.43, notes pp.45–65, institution p.67. Total74 PDF pages.",
+    "read_status": "bounded_full_text_read",
+    "read_scope": "Printed pp.1–7 and 13–20, with notes1–34 and64–139; remaining report and meeting annexure not read. Physical PDF74pages; substantive text pp.1–42, notes45–65.",
     "access": {
       "status": "institutional_open_full_text",
       "lawful_open_full_text_url": "https://assets.carnegieendowment.org/static/files/Negotiating%20the%20India-China%20Standoff%202020_2024.pdf",
@@ -275,9 +361,31 @@
       "caveat": "Open institutional PDF; complete reading pending."
     },
     "evidence_method_verified": "Both sides' official statements, reporting and interviews with serving/retired Indian military, diplomatic and security officials. Author explicitly lacks Chinese-official interviews. Distinguishes strategic, diplomatic and military channels, including Indian pre-meeting mandate preparation.",
-    "research_questions": ["How did multiple negotiation channels divide authority and implementation during 2020–2024?", "How did linkage between border arrangements and the wider relationship affect the bargaining sequence?"],
+    "research_questions": [
+      "How did multiple negotiation channels divide authority and implementation during 2020–2024?",
+      "How did linkage between border arrangements and the wider relationship affect the bargaining sequence?"
+    ],
     "purpose_and_caveat": "Included as a clearly marked exception because it directly reconstructs recent negotiations. Chinese intentions remain filtered through Indian interviews and public positions; channel hierarchy or joint wording alone does not prove private Chinese instructions.",
     "recommended_reading": "Read the complete report immediately for the India case design, then build a Chinese-source audit of each mechanism and disputed interpretation.",
-    "verified_on": "2026-09-05"
+    "verified_on": "2026-09-05",
+    "screening_snapshot_2026_09_05": {
+      "read_status": "selected_full_text",
+      "read_scope": "Summary pp.1–2, introduction p.3, channels/methodology pp.4–7 and selected initial case passages pp.8–10. Later narrative and all notes not read sequentially. Report states a 3 December 2024 information cutoff.",
+      "access": {
+        "status": "institutional_open_full_text",
+        "lawful_open_full_text_url": "https://assets.carnegieendowment.org/static/files/Negotiating%20the%20India-China%20Standoff%202020_2024.pdf",
+        "preview_url": null,
+        "user_full_text_needed": false,
+        "request_scope": null,
+        "caveat": "Open institutional PDF; complete reading pending."
+      },
+      "metadata_note": "Title, author, institution and December 2024 date verified in original institutional PDF. Not represented as a peer-reviewed journal article; no DOI located. Main narrative printed pp.1–41, notes pp.45–66."
+    },
+    "reading_audit": {
+      "date": "2026-09-08",
+      "memo": "readings/security-change.md",
+      "evidence_register": "readings/security-change-evidence.json",
+      "full_read_of_named_version": false
+    }
   }
 ]

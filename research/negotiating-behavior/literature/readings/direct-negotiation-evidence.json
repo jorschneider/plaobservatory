@@ -1,0 +1,394 @@
+{
+  "schema_version": 1,
+  "as_of": "2026-09-08",
+  "scope": "Direct negotiation literature: one complete empirical article, one complete editorial introduction within an incomplete volume, and one chapter body with incomplete notes. Historical scholarship is distinguished from evidence of later behavioral change.",
+  "memo": "direct-negotiation.md",
+  "works": [
+    {
+      "candidate_id": "LIT-DIRECT-WEI-SUMMERS-2026",
+      "authors": [
+        "Rong Wei",
+        "Tim Summers"
+      ],
+      "title": "The Chinese Government’s Negotiating Strategy Over the Future of Hong Kong: Revisiting the 1984 Sino-British Joint Declaration",
+      "publication_year": 2026,
+      "first_online_year": 2025,
+      "first_online_date": "2025-02-17",
+      "doi": "10.1080/07075332.2025.2466463",
+      "citation": "Wei, Rong, and Tim Summers. 2026. The Chinese Government’s Negotiating Strategy Over the Future of Hong Kong: Revisiting the 1984 Sino-British Joint Declaration. The International History Review 48(1):134–151. First online 17 February 2025.",
+      "version_read": "Complete publisher version of record, 2026 issue pagination; CC BY 4.0",
+      "asset": {
+        "local_path": "/Users/jorsc/.codex/.chatgpt-projects/g-p-6a94dd290a988191911d85ae8fe94a6c/tmp/pdfs/literature-2026-09-08/direct/wei-summers-2026-publisher.pdf",
+        "sha256": "be93671be9dd7a5087093ab8c9430594af4d875ba8ffa6ca6a09221e1dcf7242",
+        "bytes": 1659439,
+        "retrieved_on": "2026-09-08",
+        "stored_outside_git": true
+      },
+      "retrieval_url": "https://www.tandfonline.com/doi/pdf/10.1080/07075332.2025.2466463",
+      "html_url": "https://www.tandfonline.com/doi/full/10.1080/07075332.2025.2466463",
+      "retrieval_note": "Public publisher HTML and PDF accessible through browser. Save completed before a later native-app inspection hung; downloaded PDF subsequently recovered and hashed. No login, CAPTCHA, paywall bypass or new archive acquisition.",
+      "read_on": "2026-09-08",
+      "full_read": true,
+      "physical_extent": {
+        "pdf_pages": 19,
+        "printed_pages": "134–151",
+        "mapping": "PDF 1 is publisher cover; printed = PDF + 132 for PDF 2–19"
+      },
+      "sequential_coverage": [
+        {
+          "pdf_pages": "2–19",
+          "printed_pages": "134–151",
+          "scope": "Full publisher HTML read in sequence: abstract, introduction, I–IV, conclusion, all 138 notes, disclosure and contributor statements. Complete PDF native text then read and checked against HTML."
+        }
+      ],
+      "visual_pdf_pages_checked": [
+        1,
+        4,
+        6,
+        10,
+        12,
+        19
+      ],
+      "unresolved_ocr": "None material; native PDF text and HTML available. Visual inspection was selective, not full-facsimile coverage.",
+      "methodology_read": "Historical interpretive reconstruction, explicitly thin constructivist. Chinese participant memoirs and oral histories supplemented by UK, Hong Kong and US materials. No cross-case causal estimate; relevant Chinese MFA archives unavailable. Article explicitly labels findings provisional and warns of memoir scrutiny/amendment (136,139–140).",
+      "empirical_window": "Primarily 1979–1984 Sino-British negotiations, with earlier historical context. Later conclusion comments do not constitute a post-1984 behavioral dataset.",
+      "claims": [
+        {
+          "id": "DIRECT-WS01",
+          "book_claim_ids": [
+            "S-C08",
+            "F05"
+          ],
+          "pages": "144–147",
+          "finding": "Chinese research and business-elite liaison supply an alternative to the British inference that rejection of continuing UK administration showed ignorance of capitalism.",
+          "assessment": "Revise the original-period baseline: understanding an argument and accepting its proposed solution are separate.",
+          "caveat": "Retrospective memoir evidence; knowledge does not establish accuracy or later compliance."
+        },
+        {
+          "id": "DIRECT-WS02",
+          "book_claim_ids": [
+            "S-C05",
+            "S-P08"
+          ],
+          "pages": "138; notes 41–46 on 149",
+          "finding": "British officials sought private American intermediaries; a 1 December 1982 US reply endorsed selective briefings and suggested possible Japanese business messengers.",
+          "assessment": "Code the same intermediary tactic on both sides before assigning Chinese uniqueness.",
+          "caveat": "Original cables not read; article records requests and approval, not proven delivery or effectiveness."
+        },
+        {
+          "id": "DIRECT-WS03",
+          "book_claim_ids": [
+            "S-P05",
+            "S-C13",
+            "F01"
+          ],
+          "pages": "139,145",
+          "finding": "The reconstruction pairs a sovereignty commitment with flexibility on subordinate arrangements.",
+          "assessment": "Test the scope of principles issue by issue.",
+          "caveat": "Do not turn a retrospective description into proof of an immutable cultural mechanism."
+        },
+        {
+          "id": "DIRECT-WS04",
+          "book_claim_ids": [
+            "F13",
+            "F14",
+            "S-C01"
+          ],
+          "pages": "144; note 104 on 150",
+          "finding": "Cradock describes Zhou Nan’s authoritative phone answers and faster agenda work in early summer 1983.",
+          "assessment": "A differentiated early baseline is needed before measuring subsequent professionalization.",
+          "caveat": "Note 104 says Zhou quotes Cradock; those two citations are not independent observations."
+        },
+        {
+          "id": "DIRECT-WS05",
+          "book_claim_ids": [
+            "S-C10",
+            "S-C19",
+            "S-P24"
+          ],
+          "pages": "142–143",
+          "finding": "Firmness coexists with the article’s account of clear leadership objectives and a strong chain of command.",
+          "assessment": "Treat this as a candidate counterexample to inferring leadership conflict from rigidity.",
+          "caveat": "Local leverage and lease expiry compete with leadership organization as explanations."
+        },
+        {
+          "id": "DIRECT-WS06",
+          "book_claim_ids": [
+            "S-P13",
+            "S-C18"
+          ],
+          "pages": "141–142",
+          "finding": "The discussion distinguishes military leverage and Chinese perceptions of the 1983 currency crisis.",
+          "assessment": "Separate observable vulnerabilities from participants’ claims about deliberate manipulation.",
+          "caveat": "Thatcher’s urgency corroborates vulnerability; it does not prove Britain manufactured the crisis."
+        }
+      ],
+      "primary_source_leads": [
+        {
+          "id": "WS-LEAD-01",
+          "document": "Reagan Library, Executive Secretariat NSC, Hong Kong (13 March 1982–9 February 1983), Box 8, cable M299 92222, US Consul Hong Kong to Secretary of State, 23 November 1982",
+          "url": null,
+          "found_at": "138; notes 41–44,149",
+          "read_status": "cited_or_quoted_in_article_only; original_not_read"
+        },
+        {
+          "id": "WS-LEAD-02",
+          "document": "Same Reagan Library folder, cable M299 92223, Secretary of State to American Consul, 1 December 1982",
+          "url": null,
+          "found_at": "138; notes 45–46,149",
+          "read_status": "cited_or_quoted_in_article_only; original_not_read"
+        },
+        {
+          "id": "WS-LEAD-03",
+          "document": "TNA PREM19/1059 f235, Victor Rothschild to Thatcher, The Future of Hong Kong, 1 December 1983",
+          "url": "https://www.margaretthatcher.org/document/139412",
+          "found_at": "137; note 35,149",
+          "read_status": "cited_or_quoted_in_article_only; original_not_read"
+        },
+        {
+          "id": "WS-LEAD-04",
+          "document": "TNA PREM19/792 f206, No.10 briefing, Annex I Currency and finance, 12 September 1982",
+          "url": "https://www.margaretthatcher.org/document/138553",
+          "found_at": "137; notes 37–38,149",
+          "read_status": "cited_or_quoted_in_article_only; original_not_read"
+        },
+        {
+          "id": "WS-LEAD-05",
+          "document": "Li Hou, 回归的历程 (1997),70–74,82–85; Lu Ping, 鲁平口述香港回归 (2009),14–21",
+          "url": null,
+          "found_at": "144–147; notes 106–110,124–132",
+          "read_status": "cited_or_quoted_in_article_only; original_not_read"
+        },
+        {
+          "id": "WS-LEAD-06",
+          "document": "Zhou Nan, 周南口述：身在急风骤雨中 (2007),260–262, and Percy Cradock, Experiences of China (1994),186",
+          "url": null,
+          "found_at": "144; note 104,150",
+          "read_status": "cited_or_quoted_in_article_only; original_not_read"
+        },
+        {
+          "id": "WS-LEAD-07",
+          "document": "Zhou Nan and Shao Tianren, Phoenix oral history, 2019, cited segment 47:00",
+          "url": "https://www.youtube.com/watch?v=YGo8pMPTqW8",
+          "found_at": "145; note 119,150",
+          "read_status": "cited_or_quoted_in_article_only; original_not_read"
+        }
+      ],
+      "access_and_inference_limits": [
+        "Complete scholarly article read; none of its cited primary items independently re-read in this pass.",
+        "Later scholarship can revise understanding of 1984 without establishing behavioral change since 1984.",
+        "The authors leave cross-negotiation transfer untested in note 56.",
+        "The conclusion’s remarks on later Hong Kong policy do not evaluate implementation of all Joint Declaration commitments."
+      ]
+    },
+    {
+      "candidate_id": "LIT-DIRECT-ZHANG-2008",
+      "authors": [
+        "Zhang Qingmin"
+      ],
+      "title": "Continuities and Changes in China’s Negotiating Behavior",
+      "publication_year": 2008,
+      "doi": "10.1007/978-0-230-61692-9_8",
+      "citation": "Zhang Qingmin. 2008. Continuities and Changes in China’s Negotiating Behavior. In China’s New Diplomacy: Tactical or Fundamental Change?, edited by Pauline Kerr, Stuart Harris, and Qin Yaqing,153–175. Palgrave Macmillan.",
+      "version_read": "University teaching packet containing chapter body 153–171 and only beginning of notes; not complete chapter",
+      "asset": {
+        "local_path": "/Users/jorsc/.codex/.chatgpt-projects/g-p-6a94dd290a988191911d85ae8fe94a6c/tmp/pdfs/literature-2026-09-08/direct/zhang-2008-institutional.pdf",
+        "sha256": "266c5a726679f57594e117ab4627df55a5019a474097901ced1849d5b067e895",
+        "bytes": 3866550,
+        "retrieved_on": "2026-09-08",
+        "stored_outside_git": true
+      },
+      "retrieval_url": "https://www.jura.fu-berlin.de/fachbereich/einrichtungen/oeffentliches-recht/lehrende/bolewskiw/dokumente/7__Culture_Language/Kerr_China_New_Diplomacy_One.pdf",
+      "publisher_url": "https://link.springer.com/chapter/10.1007/978-0-230-61692-9_8",
+      "read_on": "2026-09-08",
+      "full_read": false,
+      "body_full_read": true,
+      "physical_extent": {
+        "pdf_pages": 27,
+        "chapter_printed_pages": "153–175",
+        "present_chapter_pages": "153–171",
+        "mapping": "PDF18 right-hand page=153; PDF19=154–155; continuing two-up to PDF27=170–171"
+      },
+      "sequential_coverage": [
+        {
+          "pdf_pages": "18–27",
+          "printed_pages": "153–171",
+          "scope": "All chapter body read sequentially using rotated scans and OCR, followed by visual inspection of all ten relevant scans. Notes 1–4 complete; note5 starts but is cut off."
+        }
+      ],
+      "visual_pdf_pages_checked": [
+        18,
+        19,
+        20,
+        21,
+        22,
+        23,
+        24,
+        25,
+        26,
+        27
+      ],
+      "unresolved_ocr": "Original PDF has no usable native text. OCR underlining/column-order losses were resolved visually for body. Printed172–175 and continuation of note5 are physically absent, not an OCR defect. Publisher reference list does not restore these notes.",
+      "methodology_read": "Illustrative historical essay using public official materials, media and secondary literature. No explicit systematic negotiation sample, interview protocol or causal identification design in the body.",
+      "empirical_window": "Historical illustrations through the mid-2000s; not evidence through2026.",
+      "claims": [
+        {
+          "id": "DIRECT-ZQ01",
+          "book_claim_ids": [
+            "S-C11",
+            "S-C12",
+            "F09",
+            "F10"
+          ],
+          "pages": "154–168",
+          "finding": "Organizational expansion and professionalization coexist with continuing established practices.",
+          "assessment": "Separate capability, delegation and objectives when testing change.",
+          "caveat": "Descriptive developments do not independently demonstrate effects on concessions."
+        },
+        {
+          "id": "DIRECT-ZQ02",
+          "book_claim_ids": [
+            "S-P15",
+            "S-P17"
+          ],
+          "pages": "158–160,168–171",
+          "finding": "Domestic audiences appear as both a resource and a constraint.",
+          "assessment": "Distinguish public performance from private flexibility and implementation.",
+          "caveat": "Illustrative cases, not a systematic estimate of public pressure."
+        },
+        {
+          "id": "DIRECT-ZQ03",
+          "book_claim_ids": [
+            "S-C11",
+            "F09",
+            "F10"
+          ],
+          "pages": "168–169",
+          "finding": "The coordination discussion reuses Kreisberg’s1994 observations.",
+          "assessment": "Avoid counting inherited older evidence as a new mid-2000s observation.",
+          "caveat": "Full notes missing; exact source chains for other examples remain incomplete."
+        },
+        {
+          "id": "DIRECT-ZQ04",
+          "book_claim_ids": [
+            "F13",
+            "F14",
+            "S-C01"
+          ],
+          "pages": "171",
+          "finding": "Integration-to-convergence is a forward expectation.",
+          "assessment": "Test later periods separately rather than treating the forecast as an observed result.",
+          "caveat": "Neither rhetorical confrontation nor technical proficiency alone resolves the forecast."
+        }
+      ],
+      "primary_source_leads": [
+        {
+          "id": "ZQ-LEAD-01",
+          "document": "Long Yongtu and Shi Guangsheng public statements crediting senior leaders during1999WTO talks",
+          "url": null,
+          "found_at": "165; notes52–53, which are outside packet",
+          "read_status": "chapter_body_only; exact citations unresolved"
+        },
+        {
+          "id": "ZQ-LEAD-02",
+          "document": "Wang Bingnan, 中美大使级会谈九年回顾 (1985)",
+          "url": null,
+          "found_at": "165 discussion; publisher references",
+          "read_status": "bibliographic_lead_only; original_not_read"
+        },
+        {
+          "id": "ZQ-LEAD-03",
+          "document": "Qian Qichen, 外交十记 (2003),14–36",
+          "url": null,
+          "found_at": "principles discussion161–164; publisher references",
+          "read_status": "bibliographic_lead_only; original_not_read"
+        }
+      ],
+      "access_and_inference_limits": [
+        "Body-complete does not mean chapter-complete; exclude from count of full scholarly readings.",
+        "No source PDF, page images, OCR or extended transcription is included in git.",
+        "Official retrospective praise of leaders is not an independent reconstruction of authority to make particular concessions."
+      ]
+    },
+    {
+      "candidate_id": "LIT-DIRECT-FAURE-ZARTMAN-2025",
+      "component_id": "LIT-DIRECT-FAURE-ZARTMAN-2025-INTRO",
+      "authors": [
+        "Guy Olivier Faure",
+        "I. William Zartman"
+      ],
+      "title": "Introduction",
+      "publication_year": 2025,
+      "doi": "10.4324/9781003582113-1",
+      "parent_doi": "10.4324/9781003582113",
+      "citation": "Faure, Guy Olivier, and I. William Zartman.2025. Introduction. In China’s Negotiating Mindset and Strategies: Historical and Cultural Foundations,1–7. Routledge.",
+      "version_read": "Complete introduction within a limited publisher preview; not the complete edited volume",
+      "asset": {
+        "local_path": "/Users/jorsc/.codex/.chatgpt-projects/g-p-6a94dd290a988191911d85ae8fe94a6c/tmp/pdfs/literature-2026-09-08/direct/faure-zartman-preview.pdf",
+        "sha256": "2056901862e980fb2c7bdb5b9ecfaf995b5dee5d423c8bbcf5f58af61b678687",
+        "bytes": 11450871,
+        "retrieved_on": "2026-09-08",
+        "stored_outside_git": true
+      },
+      "retrieval_url": "https://api.pageplace.de/preview/DT0400.9781040388969_A50837262/preview-9781040388969_A50837262.pdf",
+      "read_on": "2026-09-08",
+      "full_read": false,
+      "component_full_read": true,
+      "count_as_complete_empirical_reading": false,
+      "physical_extent": {
+        "pdf_pages": 34,
+        "intro_printed_pages": "1–7",
+        "mapping": "Introduction PDF18–24; printed=PDF−17"
+      },
+      "sequential_coverage": [
+        {
+          "pdf_pages": "18–24",
+          "printed_pages": "1–7",
+          "scope": "All introduction text read sequentially. No endnotes in this component. Front matter/contents inspected for metadata; later partial chapter2 is not counted."
+        }
+      ],
+      "visual_pdf_pages_checked": [
+        18,
+        21,
+        22,
+        24
+      ],
+      "unresolved_ocr": "None in introduction; native extraction available.",
+      "methodology_read": "Editorial conceptual framing and descriptions of contributors’ chapters; no independent empirical research design in the introduction.",
+      "claims": [
+        {
+          "id": "DIRECT-FZ01",
+          "book_claim_ids": [
+            "S-C02",
+            "S-P05",
+            "S-P25"
+          ],
+          "pages": "1–7, especially4–5",
+          "finding": "Editorial framing supplies propositions about continuity, issue differences and implementation.",
+          "assessment": "Require observable mechanisms and assess chapter evidence separately.",
+          "caveat": "Celico and Hu are known here only through contents/editorial summaries; their bodies were not read."
+        }
+      ],
+      "primary_source_leads": [],
+      "access_and_inference_limits": [
+        "The volume is not fully read.",
+        "A complete introduction does not count as a completed empirical synthesis.",
+        "Celico’s chapter starts152; the preview does not contain it. Lawful full-text search was bounded and unsuccessful; no acquisition request is pending."
+      ]
+    }
+  ],
+  "other_access_attempts": [
+    {
+      "candidate_id": "LIT-DIRECT-FAURE-1998",
+      "result": "No complete lawful full text obtained; not read."
+    },
+    {
+      "candidate_id": "LIT-DIRECT-LIU-1992",
+      "result": "Catalog located; acquisition not completed; not read."
+    },
+    {
+      "candidate_id": "LIT-DIRECT-LIANG-2008",
+      "result": "PDF obtained and rendered outside git, but not substantively read in this bounded task; not counted."
+    }
+  ]
+}

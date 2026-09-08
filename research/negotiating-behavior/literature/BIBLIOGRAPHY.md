@@ -1,12 +1,16 @@
 # Candidate bibliography and access routes
 
-Screened 5 September 2026. **36 works; none fully read for this screening task.** See the [reading and acquisition plan](README.md) for priorities. Each linked register records reading scope, verified methods and limitations. Publication year can differ from online release and from the period studied.
+Initial screen: 5 September 2026, **36 works; none fully read during that screen.** The 8 September [full-text ledger](readings/README.md) and [assessment](first-full-text-synthesis.md) supersede that reading status; current registers preserve both stages. See the [reading and acquisition plan](README.md) for priorities. Each linked register records reading scope, verified methods and limitations. Publication year can differ from online release and from the period studied.
 
 “Public route” includes publisher or author copies and institutional records with downloads; it does not assert successful complete retrieval. “Copy useful” means no usable full text obtained in this search. Acquisition priorities are in the reading plan, not the order of this complete bibliography.
+
+The current candidate registers contain **37 works**, adding Wei and Summers’ historical study to the original 36. Related versions, summaries and forward-citation leads are recorded separately.
 
 ## Direct negotiation studies
 
 [Detailed register](direct-negotiation-candidates.json)
+
+- Wei, Rong, and Tim Summers. 2026 [online 2025]. “The Chinese Government’s Negotiating Strategy Over the Future of Hong Kong: Revisiting the 1984 Sino-British Joint Declaration.” *International History Review* 48(1):134–151. [Article](https://doi.org/10.1080/07075332.2025.2466463). **Complete publisher HTML, including 138 notes, read 8 September 2026.** See the [critical memo](readings/direct-negotiation.md).
 
 - Faure, Guy Olivier, and I. William Zartman, eds. 2025. China's Negotiating Mindset and Strategies: Historical and Cultural Foundations. 1st ed. Routledge. 340 pp. [Citation/source](https://doi.org/10.4324/9781003582113). **Copy useful.** [Access route](https://api.pageplace.de/preview/DT0400.9781040388969_A50837262/preview-9781040388969_A50837262.pdf). Type: scholarly edited volume.
 

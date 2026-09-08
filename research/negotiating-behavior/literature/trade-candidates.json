@@ -122,8 +122,8 @@
       "https://illinoislawreview.org/print/vol-2018-no-1/chinas-rise/",
       "https://www.illinoislawreview.org/wp-content/uploads/2018/01/Shaffer.pdf"
     ],
-    "read_status": "abstract_and_opening_only",
-    "read_scope": "Journal abstract and first-page text read; publisher PDF verified as 70 pages. Entire article and interview footnotes not yet read.",
+    "read_status": "full_published_article_read",
+    "read_scope": "Complete 70-page journal article, pp.115–184, including all footnotes.",
     "access": {
       "status": "lawful_publisher_free_full_text",
       "lawful_open_full_text_url": "https://www.illinoislawreview.org/wp-content/uploads/2018/01/Shaffer.pdf",
@@ -147,7 +147,25 @@
         "note": "Later chapter in Emerging Powers and the World Trading System; verified as a related publication, not read in full and not counted as independent evidence."
       }
     ],
-    "verified_on": "2026-09-05"
+    "verified_on": "2026-09-05",
+    "screening_snapshot_2026_09_05": {
+      "read_status": "abstract_and_opening_only",
+      "read_scope": "Journal abstract and first-page text read; publisher PDF verified as 70 pages. Entire article and interview footnotes not yet read.",
+      "access": {
+        "status": "lawful_publisher_free_full_text",
+        "lawful_open_full_text_url": "https://www.illinoislawreview.org/wp-content/uploads/2018/01/Shaffer.pdf",
+        "preview_url": null,
+        "user_full_text_needed": false,
+        "request_scope": null,
+        "caveat": "Free publisher download verified; no reuse license beyond ordinary scholarly citation assumed."
+      }
+    },
+    "reading_audit": {
+      "date": "2026-09-08",
+      "memo": "readings/trade-learning.md",
+      "evidence_register": "readings/trade-learning-evidence.json",
+      "full_read_of_named_version": true
+    }
   },
   {
     "id": "LIT-TRADE-GAO-2022",
@@ -166,8 +184,8 @@
       "https://ink.library.smu.edu.sg/sol_research/3996/",
       "https://doi.org/10.1017/S1474745622000088"
     ],
-    "read_status": "abstract_metadata_and_related_version_excerpts",
-    "read_scope": "SMU institutional record and abstract read. Selected opening/passages of the related 2023 Cambridge chapter encountered; neither entire article nor entire chapter read.",
+    "read_status": "full_related_chapter_version_read",
+    "read_scope": "Complete 2023 chapter version, pp.45–70, including notes, DOI 10.1017/9781009291804.005. The original 2022 journal version is not independently counted or audited.",
     "access": {
       "status": "lawful_institutional_open_manuscript",
       "lawful_open_full_text_url": "https://ink.library.smu.edu.sg/sol_research/3996/",
@@ -192,7 +210,25 @@
         "note": "Chapter 2, pp. 45–70, in China and the WTO: A Twenty-Year Assessment. Publisher volume is Open Access. Related versions must not be counted as two independent studies."
       }
     ],
-    "verified_on": "2026-09-05"
+    "verified_on": "2026-09-05",
+    "screening_snapshot_2026_09_05": {
+      "read_status": "abstract_metadata_and_related_version_excerpts",
+      "read_scope": "SMU institutional record and abstract read. Selected opening/passages of the related 2023 Cambridge chapter encountered; neither entire article nor entire chapter read.",
+      "access": {
+        "status": "lawful_institutional_open_manuscript",
+        "lawful_open_full_text_url": "https://ink.library.smu.edu.sg/sol_research/3996/",
+        "preview_url": null,
+        "user_full_text_needed": false,
+        "request_scope": null,
+        "caveat": "Institutional repository labels its file submittedVersion under CC-BY-NC-ND 4.0. Use final published version for exact quotation/pagination when obtainable; DOI web fetch failed in this audit."
+      }
+    },
+    "reading_audit": {
+      "date": "2026-09-08",
+      "memo": "readings/trade-learning.md",
+      "evidence_register": "readings/trade-learning-evidence.json",
+      "full_read_of_named_version": true
+    }
   },
   {
     "id": "LIT-TRADE-HOPEWELL-2020",

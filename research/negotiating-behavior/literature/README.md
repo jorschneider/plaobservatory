@@ -1,16 +1,20 @@
-# Secondary literature: reading priorities and full-text requests
+# Secondary literature: full-text research and reading priorities
+
+**Updated 8 September 2026.** Start with the [first substantive assessment](first-full-text-synthesis.md) and [reading ledger](readings/README.md). The online reading pass adds critical memos on direct negotiations, trade learning, institutions and audiences, and security. It follows selected citations into original official documents. Complete readings, author-manuscript versions, partial chapters and inaccessible texts are distinguished explicitly.
+
+Research proceeds with texts available online. The acquisition list below is a background backlog, not a request for the user to supply copies or a condition for continuing. The registers preserve the original screening status alongside the later reading audit.
 
 **Screened 5 September 2026.** Secondary literature is a third foundation of this project, alongside the Solomon audit and primary-source reconstruction. It should supply competing explanations, methods, source leads, and earlier attempts to answer the continuity/change question. Scholarship that supports Solomon and scholarship that challenges him receive the same evidentiary scrutiny.
 
-This first map contains **36 candidate works**, including articles, chapters, books and two explicitly distinguished forms of supplemental work: reported books and an institutional policy report. This is a bibliographic and partial-reading screen, **not a completed literature review**. No complete work was read for this screening task. Exact reading scope, method verification and access limitations are recorded individually.
+The original map contained **36 candidate works**, including articles, chapters, books and two explicitly distinguished forms of supplemental work: reported books and an institutional policy report. No complete work was read during that initial screening. Subsequent additions and completed readings are recorded in the current [ledger](readings/README.md); the original screen should not be confused with the later full-text research.
 
 - [Complete bibliography with access status](BIBLIOGRAPHY.md)
 - Registers: [direct negotiation studies](direct-negotiation-candidates.json), [institutions and methods](institutions-and-methods-candidates.json), [trade and economic bargaining](trade-candidates.json), [security and major-power comparisons](security-candidates.json)
 - [Research protocol](../RESEARCH_PROTOCOL.md) and [existing WTO pilot](../cases/wto-1999-synthesis.md)
 
-## First full-text batch to obtain
+## Remaining acquisition leads from the original screen
 
-These six requests would add the most to the immediately available reading. A chapter or complete article with its notes is sufficient unless the entry asks for a book. Missing access here means no usable full text was obtained in this bounded search; it does not mean no public copy exists.
+These six acquisitions would add useful coverage. Missing access means no usable full text was obtained in the original bounded search; it does not mean no public copy exists. They remain optional additions to an active online reading program.
 
 | Priority | Exact work to obtain | Why it belongs in the first batch |
 |---|---|---|
@@ -28,6 +32,8 @@ If only two acquisitions are practical initially, prioritize **the 2025 volume�
 ## Reading that does not currently need a user copy
 
 Public publisher, author or institutional routes have been identified for the following. Some are complete accessible PDFs; others still need retrieval or legibility checks. Availability does not mean the work has been fully read.
+
+**8 September access corrections:** the Zhang teaching packet contains the complete chapter body but stops during note 5 on p.171; pp.172–175 are missing. Taylor and Garlick’s advertised scholarly PDF could not be retrieved; their separate authored public brief was read. The ledger, rather than this original route list, gives current coverage. The completed Gao reading uses the 2023 chapter version of the 2022 argument, not a second independent study.
 
 | Reading order | Work and public route | Job in this project |
 |---|---|---|
@@ -75,4 +81,4 @@ Every proposed change in our assessment must identify the evidence that would di
 
 An additional methods lead for follow-up is **David C. Kang, Jackie S. H. Wong and Zenobia T. Chan (2025), “What Does China Want?”, *International Security* 50(1): 46–81**, [institutional citation](https://www.belfercenter.org/research-analysis/what-does-china-want), paired with **“Correspondence: The Challenge of Studying What China Wants” (2026), 51(1): 164–173**, [institutional citation](https://www.belfercenter.org/research-analysis/correspondence-challenge-studying-what-china-wants). These are not included in the 36 screened works. Only summaries and metadata were checked; their debate over interpreting official texts is relevant to method, but is not itself a study of negotiating behavior. The original article is from 2025 despite an erroneous 2026 description on a correspondence announcement.
 
-The next bounded reading deliverable is a **competing-explanations memo** from Zhang Qingmin, Shaffer–Gao and Johnston, supplemented by Pearson and Celico when obtained. It should identify which archive requests and case comparisons become more discriminating after the reading. Acquisition, reading and evaluation are separate stages; downloaded full texts remain outside the public repository.
+The first **competing-explanations assessment** is now [available](first-full-text-synthesis.md), drawing on four reading streams. The next step is further case reconstruction guided by those findings, alongside continued public full-text reading. Acquisition, reading and evaluation remain separate stages; downloaded full texts stay outside the public repository.

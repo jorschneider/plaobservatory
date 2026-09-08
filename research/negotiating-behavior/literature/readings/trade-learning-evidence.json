@@ -1,0 +1,548 @@
+{
+  "audit_date": "2026-09-08",
+  "purpose": "Full-text trade-learning reading, primary-source verification, and comparison with WTO 1999 pilot; not a completed 2026 trade-history verdict.",
+  "memo": "trade-learning.md",
+  "copyright_handling": "Full texts and rendered pages remain outside the git worktree. Memo emphasizes source audit and original research-design analysis; no long quotations.",
+  "works": [
+    {
+      "work_id": "LIT-TRADE-SHAFFER-GAO-2018",
+      "title": "China’s Rise: How It Took On the U.S. at the WTO",
+      "authors": [
+        "Gregory Shaffer",
+        "Henry Gao"
+      ],
+      "publication": "University of Illinois Law Review 2018(1):115–184",
+      "document_date": "2018",
+      "doi": null,
+      "original_urls": [
+        "https://www.illinoislawreview.org/wp-content/uploads/2018/01/Shaffer.pdf"
+      ],
+      "version_read": "Journal PDF, 70 pages; running title and final pagination 115–184; production header dated 12 January 2018.",
+      "artifact": {
+        "local_path": "/Users/jorsc/.codex/.chatgpt-projects/g-p-6a94dd290a988191911d85ae8fe94a6c/tmp/pdfs/literature-2026-09-08/trade/shaffer-gao-2018.pdf",
+        "sha256": "9bae72381047c38d885f801b6e677580f559e23e745e50a435aad18b9195648a",
+        "bytes": 765229
+      },
+      "retrieved_on": "2026-09-08",
+      "read_on": "2026-09-08",
+      "full_read": true,
+      "sequential_page_coverage": [
+        {
+          "pdf_start": 1,
+          "pdf_end": 8,
+          "printed_start": 115,
+          "printed_end": 122,
+          "body_read": true,
+          "notes_read": true
+        },
+        {
+          "pdf_start": 9,
+          "pdf_end": 16,
+          "printed_start": 123,
+          "printed_end": 130,
+          "body_read": true,
+          "notes_read": true
+        },
+        {
+          "pdf_start": 17,
+          "pdf_end": 24,
+          "printed_start": 131,
+          "printed_end": 138,
+          "body_read": true,
+          "notes_read": true
+        },
+        {
+          "pdf_start": 25,
+          "pdf_end": 32,
+          "printed_start": 139,
+          "printed_end": 146,
+          "body_read": true,
+          "notes_read": true
+        },
+        {
+          "pdf_start": 33,
+          "pdf_end": 40,
+          "printed_start": 147,
+          "printed_end": 154,
+          "body_read": true,
+          "notes_read": true
+        },
+        {
+          "pdf_start": 41,
+          "pdf_end": 48,
+          "printed_start": 155,
+          "printed_end": 162,
+          "body_read": true,
+          "notes_read": true
+        },
+        {
+          "pdf_start": 49,
+          "pdf_end": 56,
+          "printed_start": 163,
+          "printed_end": 170,
+          "body_read": true,
+          "notes_read": true
+        },
+        {
+          "pdf_start": 57,
+          "pdf_end": 64,
+          "printed_start": 171,
+          "printed_end": 178,
+          "body_read": true,
+          "notes_read": true
+        },
+        {
+          "pdf_start": 65,
+          "pdf_end": 70,
+          "printed_start": 179,
+          "printed_end": 184,
+          "body_read": true,
+          "notes_read": true
+        }
+      ],
+      "visual_checks": [
+        {
+          "pdf_page": 10,
+          "printed_page": 124,
+          "purpose": "Confirm methodological limitations and footnotes in original layout",
+          "image_path": "/Users/jorsc/.codex/.chatgpt-projects/g-p-6a94dd290a988191911d85ae8fe94a6c/tmp/pdfs/literature-2026-09-08/trade/shaffer-gao-2018-page-10.png"
+        }
+      ],
+      "methods_verified": "Forty formal interviews with over sixty individuals, participant observation, and Chinese/English documentary research (123–124). Sample concentrates on trade government and internationally engaged professionals/businesses; not representative of all decision makers.",
+      "evidence_window": "Historical account through 2017; interview and publication dates are in footnotes. No extrapolation of staffing or institutional influence to 2026.",
+      "primary_claim_links": [
+        "TL-P01",
+        "TL-P02",
+        "TL-P03"
+      ],
+      "solomon_claim_ids": [
+        "F07",
+        "F12",
+        "F13",
+        "S-P05",
+        "S-C13",
+        "S-C10",
+        "S-C11",
+        "S-C12",
+        "S-P24",
+        "S-P25"
+      ],
+      "limitations": [
+        "Anonymous testimony cannot be independently reconstructed from public transcripts supplied with the article.",
+        "Gao is a coauthor of both works read; overlapping publications and interview networks are not independent corroboration.",
+        "Broad cultural framing and claims concerning other ministries require separate tests."
+      ],
+      "source_audit": [
+        {
+          "location": "173 n.471",
+          "issue": "Footnote identifies the discussed 2011 US antidumping/countervailing appeal as WT/DS471/AB/R and gives 28 July 2011; the correct relevant case is DS379 and adoption was 25 March 2011.",
+          "verification": "WTO DS379 official case record, chronology and adoption paragraph; not a full reading of the appellate report.",
+          "url": "https://www.wto.org/english/tratop_e/dispu_e/cases_e/ds379_e.htm"
+        },
+        {
+          "location": "176 n.500",
+          "issue": "17 June 2014 should not be treated as the issuance date of the compliance notice; original instrument is dated 9 June 2014.",
+          "verification": "Full published original notice read; TL-P03."
+        }
+      ]
+    },
+    {
+      "work_id": "LIT-TRADE-GAO-2022",
+      "version_id": "LIT-TRADE-GAO-2022-CHAPTER-2023",
+      "title": "China’s Changing Perspective on the WTO: From Aspiration, Assimilation to Alienation",
+      "authors": [
+        "Henry Gao"
+      ],
+      "publication": "Chapter 2, in Henry Gao, Damian Raess and Ka Zeng (eds.), China and the WTO: A Twenty-Year Assessment (Cambridge University Press, 2023),45–70.",
+      "document_date": "2023",
+      "doi": "10.1017/9781009291804.005",
+      "related_journal_doi": "10.1017/S1474745622000088",
+      "original_urls": [
+        "https://www.cambridge.org/core/books/china-and-the-wto/chinas-changing-perspective-on-the-wto/7EA38AEF111F9A75F999D05FCEAF6C13",
+        "https://www.cambridge.org/core/services/aop-cambridge-core/content/view/7EA38AEF111F9A75F999D05FCEAF6C13/9781009291781c3_45-70.pdf/chinas_changing_perspective_on_the_wto.pdf"
+      ],
+      "version_read": "Publisher chapter PDF,26 pages. Page45 explicitly identifies World Trade Review21(3):342–358 as an earlier version. Journal version was not separately read in full.",
+      "artifact": {
+        "local_path": "/Users/jorsc/.codex/.chatgpt-projects/g-p-6a94dd290a988191911d85ae8fe94a6c/tmp/pdfs/literature-2026-09-08/trade/gao-2023.pdf",
+        "sha256": "b45719fee1176ff057c366eb2cdfc96edda52cfec622912ab5dab7bdc81731c0",
+        "bytes": 223207
+      },
+      "retrieved_on": "2026-09-08",
+      "read_on": "2026-09-08",
+      "full_read": true,
+      "sequential_page_coverage": [
+        {
+          "pdf_start": 1,
+          "pdf_end": 8,
+          "printed_start": 45,
+          "printed_end": 52,
+          "body_read": true,
+          "notes_read": true
+        },
+        {
+          "pdf_start": 9,
+          "pdf_end": 16,
+          "printed_start": 53,
+          "printed_end": 60,
+          "body_read": true,
+          "notes_read": true
+        },
+        {
+          "pdf_start": 17,
+          "pdf_end": 26,
+          "printed_start": 61,
+          "printed_end": 70,
+          "body_read": true,
+          "notes_read": true
+        }
+      ],
+      "visual_checks": [
+        {
+          "pdf_page": 17,
+          "printed_page": 61,
+          "purpose": "Confirm printed Appellate Body shutdown date and adjacent citations, not an extraction error",
+          "image_path": "/Users/jorsc/.codex/.chatgpt-projects/g-p-6a94dd290a988191911d85ae8fe94a6c/tmp/pdfs/literature-2026-09-08/trade/gao-2023-page-17.png"
+        }
+      ],
+      "methods_verified": "Interpretive historical/legal essay drawing on public statements, participant memoirs, disputes, official documents and prior scholarship. No new systematic interview sample or internal leadership-file corpus disclosed.",
+      "evidence_window": "Main contemporary narrative through 2021; notes include access dates through March 2022. 2023 publication is not evidence of complete 2023 observation.",
+      "primary_claim_links": [
+        "TL-P01",
+        "TL-P06"
+      ],
+      "solomon_claim_ids": [
+        "F07",
+        "F13",
+        "S-P19",
+        "S-C18",
+        "S-P25",
+        "S-C13"
+      ],
+      "limitations": [
+        "Attribution of national attitudes and causal learning from Western behavior is the author’s interpretation.",
+        "DS516 interim findings are reported through leakage/commentary; the underlying unpublished report was not acquired.",
+        "Recommendations and contested WTO-law conclusions are not negotiation-room evidence."
+      ],
+      "source_audit": [
+        {
+          "location": "61",
+          "issue": "Text says Appellate Body effectively shut down in December 2020. The loss of the quorum for new appeals occurred in December 2019; the last remaining member’s term ended in November 2020.",
+          "verification": "Original PDF visually checked; WTO18 December2019 account read for quorum chronology.",
+          "url": "https://www.wto.org/english/news_e/news19_e/dsb_18dec19_e.htm"
+        }
+      ]
+    }
+  ],
+  "primary_sources": [
+    {
+      "id": "TL-P01",
+      "title": "在激烈的国际竞争中掌握主动",
+      "creator": "江泽民",
+      "publication": "江泽民文选 第三卷, 人民出版社,2006,442–460",
+      "document_date": "2002-02-25",
+      "source_type": "Published principal portion of leadership speech, with editorial notes; collected edition, not unedited transcript.",
+      "original_urls": [
+        "https://djw.shufe-zj.edu.cn/__local/2/F7/B0/E678A3B1097BF28A7D08985B300_E8648320_7C80E6.pdf?e=.pdf",
+        "https://ebook.theorychina.org.cn/ebook/upload/storage/files/2022/07/28/ed40ae0daae94e407f7fa64941facb3991619/files/basic-html/page459.html"
+      ],
+      "artifact": {
+        "local_path": "/Users/jorsc/.codex/.chatgpt-projects/g-p-6a94dd290a988191911d85ae8fe94a6c/tmp/pdfs/literature-2026-09-08/trade/jiang-selected-works-3.pdf",
+        "sha256": "0855ea125ff5b95c62fd5ba7cb64612cc93594cffd9660b2be82b6d876feab76",
+        "bytes": 8159462
+      },
+      "retrieved_on": "2026-09-08",
+      "read_on": "2026-09-08",
+      "status": "Full published speech and its notes read; containing621-page volume not fully read.",
+      "full_read": false,
+      "contained_work_full_read": true,
+      "sequential_page_coverage": [
+        {
+          "pdf_start": 454,
+          "pdf_end": 463,
+          "printed_start": 442,
+          "printed_end": 451,
+          "body_read": true,
+          "notes_read": true
+        },
+        {
+          "pdf_start": 464,
+          "pdf_end": 472,
+          "printed_start": 452,
+          "printed_end": 460,
+          "body_read": true,
+          "notes_read": true
+        }
+      ],
+      "visual_checks": [
+        {
+          "pdf_page": 460,
+          "printed_page": 448,
+          "image_path": "/Users/jorsc/.codex/.chatgpt-projects/g-p-6a94dd290a988191911d85ae8fe94a6c/tmp/pdfs/literature-2026-09-08/trade/jiang-selected-works-3-page-460.png"
+        },
+        {
+          "pdf_page": 467,
+          "printed_page": 455,
+          "image_path": "/Users/jorsc/.codex/.chatgpt-projects/g-p-6a94dd290a988191911d85ae8fe94a6c/tmp/pdfs/literature-2026-09-08/trade/jiang-selected-works-3-page-467.png"
+        }
+      ],
+      "confirms": "Leadership endorsement of WTO-related reform and specialist training coexists with political/security reasoning.",
+      "does_not_confirm": "Whether each instruction changed practice, unedited speech wording, or every retrospective claim about 1999.",
+      "specific_leads": [
+        {
+          "pages": "447–448",
+          "lead": "Jiang says he wrote to Zhu on28 March1999; describes18 August instruction seeking a formal Clinton letter,27 August letter,1 September reply and earlyNovember Clinton letter. Request originals and drafting/decision records."
+        },
+        {
+          "pages": "449",
+          "lead": "Reference to Zhu coordinating late at night needs event-level reconciliation with morning meetings in pilot chronology; do not assume identical intervention."
+        },
+        {
+          "pages": "453–455",
+          "lead": "Find training plans, implementation records, expert recruitment and policy assessments to test the leadership direction."
+        }
+      ]
+    },
+    {
+      "id": "TL-P02",
+      "title": "Responses to Questions on the Specific Input of China",
+      "creator": "Permanent Mission of the People’s Republic of China to the WTO",
+      "document_symbol": "TN/DS/W/57",
+      "document_date": "2003-05-15",
+      "circulation_date": "2003-05-19",
+      "source_type": "China’s formal WTO negotiating communication, original document preserved by Japan Machinery Center for Trade and Investment.",
+      "original_urls": [
+        "https://jmcti.org/2000round/com/doha/tn/tn_ds_w_057.pdf"
+      ],
+      "artifact": {
+        "local_path": "/Users/jorsc/.codex/.chatgpt-projects/g-p-6a94dd290a988191911d85ae8fe94a6c/tmp/pdfs/literature-2026-09-08/trade/tn-ds-w-57.pdf",
+        "sha256": "86b1ff7cedc80a8b6393e68b7c182f84f21e97daf456ac3248e4a45f7e3b72ef",
+        "bytes": 14603
+      },
+      "retrieved_on": "2026-09-08",
+      "read_on": "2026-09-08",
+      "status": "Full original-format document read, all three pages; WTO-hosted copy not separately acquired.",
+      "full_read": true,
+      "sequential_page_coverage": [
+        {
+          "pdf_start": 1,
+          "pdf_end": 3,
+          "printed_start": 1,
+          "printed_end": 3,
+          "body_read": true,
+          "notes_read": true
+        }
+      ],
+      "visual_checks": [
+        {
+          "pdf_page": 2,
+          "printed_page": 2,
+          "image_path": "/Users/jorsc/.codex/.chatgpt-projects/g-p-6a94dd290a988191911d85ae8fe94a6c/tmp/pdfs/literature-2026-09-08/trade/tn-ds-w-57-page-2.png"
+        }
+      ],
+      "confirms": "Early formal proposal specifies case-counting, costs and procedural time limits; goes beyond generalized avoidance of litigation.",
+      "does_not_confirm": "Adoption, actual motive behind resource claims, or negotiating response by other delegations.",
+      "specific_leads": [
+        {
+          "document": "TN/DS/W/29; TN/DS/W/51; TN/DS/W/51/Rev.1",
+          "status": "Referenced/candidate follow-up, not full-read in this pass.",
+          "lead": "Compare original proposal, revisions, instructions and counterpart discussion to identify learning before later litigation expansion."
+        }
+      ]
+    },
+    {
+      "id": "TL-P03",
+      "title": "国务院办公厅关于进一步加强贸易政策合规工作的通知",
+      "document_symbol": "国办发〔2014〕29号",
+      "creator": "国务院办公厅",
+      "document_date": "2014-06-09",
+      "source_type": "Official published policy notice, MOFCOM reproduction.",
+      "original_urls": [
+        "https://sms.mofcom.gov.cn/myzchggz/zdxwj/art/2014/art_abdaedf07c69499292211797d9deb1cc.html"
+      ],
+      "retrieved_on": "2026-09-08",
+      "read_on": "2026-09-08",
+      "full_read": true,
+      "read_scope": "All six clauses and all25 items of the attachment; web text lines7–104.",
+      "status": "Full published text read via web; local raw-HTML download failed TLS handshake.",
+      "artifact": null,
+      "confirms": "Formal compliance-assessment and interdepartmental procedures; consultation with MOFCOM qualified by drafting department’s judgment.",
+      "does_not_confirm": "Actual effective compliance or an independent MOFCOM veto."
+    },
+    {
+      "id": "TL-P04",
+      "title": "国务院办公厅关于进一步加强贸易政策合规工作的意见",
+      "document_symbol": "国办发〔2025〕12号",
+      "creator": "国务院办公厅",
+      "document_date": "2025-03-16",
+      "publication_date": "2025-03-21",
+      "source_type": "Official policy opinion, publicly released version expressly abridged.",
+      "original_urls": [
+        "https://sms.mofcom.gov.cn/gzdt/art/2025/art_f434b3faf5c5401b920ab121a2fa1772.html"
+      ],
+      "retrieved_on": "2026-09-08",
+      "read_on": "2026-09-08",
+      "full_read": false,
+      "published_version_full_read": true,
+      "read_scope": "All published text: introduction; overall requirements; six tasks; two safeguards; concluding/repeal provisions and abridgment notice; web lines6–42.",
+      "status": "Entire published abridged text read via web; undisclosed omitted text not acquired; local raw-HTML download failed TLS.",
+      "artifact": null,
+      "confirms": "Replaces2014 notice; adds explicit written pre-issuance assessment and revision procedure and supervision provisions.",
+      "does_not_confirm": "Effective enforcement, unseen omitted provisions, or outcomes in particular negotiations.",
+      "specific_leads": [
+        {
+          "lead": "Acquire completed assessments, decisions altered, upward referrals and accountability cases; compare local/central implementation.",
+          "status": "Research targets, not acquired."
+        }
+      ]
+    },
+    {
+      "id": "TL-P05",
+      "title": "商务部世贸司负责人解读《国务院办公厅关于进一步加强贸易政策合规工作的意见》",
+      "creator": "商务部新闻办公室 / 世贸司负责人",
+      "document_date": "2025-03-21",
+      "source_type": "Issuing-agency public explanation.",
+      "original_urls": [
+        "https://www.mofcom.gov.cn/zcjd/dwmy/art/2025/art_a463d001ac3f4c3fa837d5d385b49651.html"
+      ],
+      "retrieved_on": "2026-09-08",
+      "read_on": "2026-09-08",
+      "full_read": true,
+      "read_scope": "Whole explanatory statement, web lines4–21; navigation excluded.",
+      "artifact": null,
+      "status": "Read online; no local source capture.",
+      "limitations": "Ministry’s account of purpose/progress, not independent effectiveness evaluation."
+    },
+    {
+      "id": "TL-P06",
+      "title": "Opening Statement by Ambassador Zhang Xiangchen in DS516",
+      "creator": "张向晨 / China WTO mission",
+      "document_date": "2017-12",
+      "source_type": "Formal oral opening statement, cited by Gao.",
+      "original_urls": [
+        "http://wto.mofcom.gov.cn/article/newsupdates/201712/20171202684583.shtml",
+        "https://wto2.mofcom.gov.cn/article/chinaviewpoins/201712/20171202684583.shtml"
+      ],
+      "retrieval_attempt_on": "2026-09-08",
+      "full_read": false,
+      "read_scope": "Only Gao’s treatment and bibliographic references, not original statement.",
+      "status": "Original not retrieved: web open failed; alternative ministry hostname returned502.",
+      "artifact": null,
+      "limitations": "Do not mark as independently verified primary content, exact length/date, or evidence of private sentiment."
+    }
+  ],
+  "claims_and_research_implications": [
+    {
+      "id": "TL-C01",
+      "type": "Our inference from source comparison",
+      "claim": "Measure expertise, compliance, institutional confidence and compromise separately; these can change in different directions.",
+      "work_ids": [
+        "LIT-TRADE-SHAFFER-GAO-2018",
+        "LIT-TRADE-GAO-2022"
+      ],
+      "locations": [
+        "2018:123–124,158–160,169–176",
+        "2023:61–70"
+      ],
+      "solomon_ids": [
+        "F07",
+        "F13",
+        "S-C18"
+      ],
+      "primary_checks": [
+        "TL-P01",
+        "TL-P02",
+        "TL-P03",
+        "TL-P04"
+      ],
+      "confidence": "Strong research-design implication; not a demonstrated causal model."
+    },
+    {
+      "id": "TL-C02",
+      "type": "Scope qualification",
+      "claim": "Detailed technical bargaining and political principles coexist; 2001 should not be presumed the start of Chinese legal specificity.",
+      "locations": [
+        "1999 pilot: signedApril10MOU andNovember12conditional offer",
+        "TL-P02:1–3"
+      ],
+      "solomon_ids": [
+        "S-P05",
+        "S-C13",
+        "F07"
+      ],
+      "pilot_comparison_files": [
+        "cases/wto-1999-chinese-reconstruction.md",
+        "cases/wto-1999-synthesis.md"
+      ],
+      "confidence": "Strong for observed documents, not all issue areas."
+    },
+    {
+      "id": "TL-C03",
+      "type": "Mechanism to test",
+      "claim": "Ask whether legal expertise changes the options reaching leaders and implementation bargaining, rather than assuming it removes authority constraints.",
+      "locations": [
+        "2018:169–176",
+        "TL-P04:II(2)–(6),III(7)–(8)"
+      ],
+      "solomon_ids": [
+        "S-C10",
+        "S-C11",
+        "S-C12",
+        "S-P24",
+        "S-P25",
+        "F09",
+        "F10",
+        "F11"
+      ],
+      "confidence": "Hypothesis; requires internal assessments, instructions and implementation episodes."
+    },
+    {
+      "id": "TL-C04",
+      "type": "New primary lead",
+      "claim": "Jiang’s published speech supplies dated1999 leader-correspondence targets and an intervention-timing discrepancy to reconcile.",
+      "locations": [
+        "TL-P01:447–449"
+      ],
+      "solomon_ids": [
+        "S-P19",
+        "S-P24",
+        "S-C10"
+      ],
+      "confidence": "Verified as published retrospective assertions, not independent proof of underlying communications."
+    },
+    {
+      "id": "TL-C05",
+      "type": "Next-case selection",
+      "claim": "DS379 implementation can connect legal capacity, precise accession obligations and renewed bilateral bargaining.",
+      "locations": [
+        "2018:173–175",
+        "WTO DS379 record: implementation paragraphs"
+      ],
+      "solomon_ids": [
+        "S-P19",
+        "S-P25",
+        "S-C18"
+      ],
+      "confidence": "Selection recommendation; original submissions and implementation instruments not yet fully read."
+    }
+  ],
+  "additional_verification": [
+    {
+      "url": "https://www.wto.org/english/tratop_e/dispu_e/cases_e/ds379_e.htm",
+      "read_on": "2026-09-08",
+      "status": "Official case chronology and summary read, particularly2011report/adoption and2012implementation exchanges. Full appellate report not read.",
+      "original_case_full_read": false
+    },
+    {
+      "url": "https://www.wto.org/english/news_e/news19_e/dsb_18dec19_e.htm",
+      "read_on": "2026-09-08",
+      "status": "Quorum/appointment discussion read, web lines23–29; relevant chronological correction only, not full DSB minutes.",
+      "full_read": false
+    }
+  ],
+  "not_done": [
+    "No third scholarly work represented as fully read.",
+    "No access to the unpublished DS516 interim report.",
+    "No outreach, interviews, commits or push.",
+    "No shared source-register updates."
+  ]
+}

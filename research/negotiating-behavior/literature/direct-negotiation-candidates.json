@@ -20,8 +20,8 @@
       "https://fletcher.tufts.edu/research/research-publications/russian-perspectives-chinese-negotiating-behavior-research-note",
       "https://www.taylorfrancis.com/chapters/edit/10.4324/9781003582113-27/chinese-mindset-strategies-guy-olivier-faure"
     ],
-    "read_status": "publisher_description_contents_and_indexed_front_matter",
-    "read_scope": "Publisher description and complete table of contents; search-indexed copyright page verifying year, editors, ISBN and DOI. No substantive chapter read. Root subsequently checked the indexed Faure conclusion abstract, Tufts metadata/abstract for Troitskiy, and preview contents for Celico/Hu starting pages. No chapter read in full.",
+    "read_status": "bounded_publisher_preview_read",
+    "read_scope": "Lawful preview: full introduction pp.1–7 and partial following chapter pp.8–17. Celico chapter and remaining volume not read.",
     "access": {
       "status": "commercial_book_preview_located",
       "lawful_open_full_text_url": null,
@@ -82,7 +82,25 @@
         "read_status": "institutional_abstract_and_metadata_only",
         "request": "next"
       }
-    ]
+    ],
+    "screening_snapshot_2026_09_05": {
+      "read_status": "publisher_description_contents_and_indexed_front_matter",
+      "read_scope": "Publisher description and complete table of contents; search-indexed copyright page verifying year, editors, ISBN and DOI. No substantive chapter read. Root subsequently checked the indexed Faure conclusion abstract, Tufts metadata/abstract for Troitskiy, and preview contents for Celico/Hu starting pages. No chapter read in full.",
+      "access": {
+        "status": "commercial_book_preview_located",
+        "lawful_open_full_text_url": null,
+        "preview_url": "https://api.pageplace.de/preview/DT0400.9781040388969_A50837262/preview-9781040388969_A50837262.pdf",
+        "user_full_text_needed": true,
+        "request_scope": "Full volume, particularly chapters 1–2, 7–9, 12–13, 19–20 and 22–23.",
+        "caveat": "Preview located, but direct retrieval failed; no authorized complete open edition found during this search."
+      }
+    },
+    "reading_audit": {
+      "date": "2026-09-08",
+      "memo": "readings/direct-negotiation.md",
+      "evidence_register": "readings/direct-negotiation-evidence.json",
+      "full_read_of_named_version": false
+    }
   },
   {
     "id": "LIT-DIRECT-ZHANG-2008",
@@ -102,10 +120,10 @@
       "https://link.springer.com/chapter/10.1007/978-0-230-61692-9_8",
       "https://www.jura.fu-berlin.de/fachbereich/einrichtungen/oeffentliches-recht/lehrende/bolewskiw/dokumente/7__Culture_Language/Kerr_China_New_Diplomacy_One.pdf"
     ],
-    "read_status": "abstract_references_and_indexed_excerpt",
-    "read_scope": "Publisher abstract, citation and references, plus search-indexed passage discussing domestic opinion and diplomatic change. The institutional 27-page PDF opened without extractable text; the chapter has not been read in full.",
+    "read_status": "chapter_body_complete_notes_incomplete",
+    "read_scope": "Printed pp.153–171 read: complete body, with the packet cutting off during note 5. Printed pp.172–175 missing. Not counted as complete chapter reading.",
     "access": {
-      "status": "institution_hosted_pdf_located",
+      "status": "university_teaching_packet_incomplete_chapter",
       "lawful_open_full_text_url": "https://www.jura.fu-berlin.de/fachbereich/einrichtungen/oeffentliches-recht/lehrende/bolewskiw/dokumente/7__Culture_Language/Kerr_China_New_Diplomacy_One.pdf",
       "preview_url": "https://link.springer.com/chapter/10.1007/978-0-230-61692-9_8",
       "user_full_text_needed": false,
@@ -126,7 +144,25 @@
     ],
     "purpose_and_caveat": "Directly asks the project's continuity/change question and engages Solomon’s earlier negotiating-style work. It predates the Xi period and must be a historical benchmark, not evidence of behavior through 2026.",
     "recommended_reading": "Read the whole chapter and identify which conclusions rely on observed cases versus theoretical argument or cited generalizations.",
-    "verified_on": "2026-09-05"
+    "verified_on": "2026-09-05",
+    "screening_snapshot_2026_09_05": {
+      "read_status": "abstract_references_and_indexed_excerpt",
+      "read_scope": "Publisher abstract, citation and references, plus search-indexed passage discussing domestic opinion and diplomatic change. The institutional 27-page PDF opened without extractable text; the chapter has not been read in full.",
+      "access": {
+        "status": "institution_hosted_pdf_located",
+        "lawful_open_full_text_url": "https://www.jura.fu-berlin.de/fachbereich/einrichtungen/oeffentliches-recht/lehrende/bolewskiw/dokumente/7__Culture_Language/Kerr_China_New_Diplomacy_One.pdf",
+        "preview_url": "https://link.springer.com/chapter/10.1007/978-0-230-61692-9_8",
+        "user_full_text_needed": false,
+        "request_scope": null,
+        "caveat": "University-hosted teaching copy located; complete chapter coverage and legibility still require local inspection. Publisher version requires subscription. Publisher pagination is preferred over divergent citations."
+      }
+    },
+    "reading_audit": {
+      "date": "2026-09-08",
+      "memo": "readings/direct-negotiation.md",
+      "evidence_register": "readings/direct-negotiation-evidence.json",
+      "full_read_of_named_version": false
+    }
   },
   {
     "id": "LIT-DIRECT-XIA-2006",
@@ -435,5 +471,44 @@
     "purpose_and_caveat": "A direct longitudinal-change candidate that challenges static cultural descriptions. It concerns business negotiations; it provides a comparison and possible mechanisms, not evidence that Chinese diplomats changed in the same way.",
     "recommended_reading": "Audit comparability across the three periods before using its conclusions; keep all business findings separately labeled.",
     "verified_on": "2026-09-05"
+  },
+  {
+    "id": "LIT-DIRECT-WEI-SUMMERS-2026",
+    "authors": [
+      "Rong Wei",
+      "Tim Summers"
+    ],
+    "year": 2026,
+    "first_online_year": 2025,
+    "title": "The Chinese Government’s Negotiating Strategy Over the Future of Hong Kong: Revisiting the 1984 Sino-British Joint Declaration",
+    "type": "scholarly journal article",
+    "language": "en",
+    "citation": "Wei, Rong, and Tim Summers. 2026 [online 2025]. “The Chinese Government’s Negotiating Strategy Over the Future of Hong Kong: Revisiting the 1984 Sino-British Joint Declaration.” International History Review 48(1):134–151.",
+    "doi": "10.1080/07075332.2025.2466463",
+    "verification_urls": [
+      "https://doi.org/10.1080/07075332.2025.2466463",
+      "https://www.tandfonline.com/doi/full/10.1080/07075332.2025.2466463"
+    ],
+    "read_status": "full_publisher_html_read",
+    "read_scope": "Complete publisher article, sections I–IV, introduction, conclusion and all 138 notes. Published pagination 134–151; body read as HTML.",
+    "access": {
+      "status": "public_publisher_html",
+      "lawful_open_full_text_url": "https://www.tandfonline.com/doi/full/10.1080/07075332.2025.2466463",
+      "user_full_text_needed": false
+    },
+    "evidence_method_verified": "Reconstruction using British archival records, Chinese memoirs and earlier scholarship, with explicit discussion of closed Chinese archives and source dependence.",
+    "research_questions": [
+      "How does later archival scholarship revise the interpretation of negotiation within Solomon’s original observation period?",
+      "Which moves were used by both Chinese and British negotiators?"
+    ],
+    "purpose_and_caveat": "Major-power historical comparison culminating in 1984; not evidence about post-1984 behavioral change. Article citations do not mean all underlying archival records were independently read.",
+    "request_priority": "none_full_text_read",
+    "verified_on": "2026-09-08",
+    "reading_audit": {
+      "date": "2026-09-08",
+      "memo": "readings/direct-negotiation.md",
+      "evidence_register": "readings/direct-negotiation-evidence.json",
+      "full_read_of_named_version": true
+    }
   }
 ]

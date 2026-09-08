@@ -1,0 +1,416 @@
+{
+  "schema_version": 1,
+  "as_of": "2026-09-08",
+  "scope": "Security bargaining and measuring change; two complete versions plus one partial report. This register does not establish behavior through 2026.",
+  "memo": "security-change.md",
+  "book_claim_register": "../../book/context-claims.json",
+  "works": [
+    {
+      "candidate_id": "LIT-SEC-JOHNSTON-2013",
+      "title": "How New and Assertive Is China’s New Assertiveness?",
+      "authors": [
+        "Alastair Iain Johnston"
+      ],
+      "publication_year": 2013,
+      "doi": "10.1162/ISEC_a_00115",
+      "version_read": "Final journal version, International Security 37(4):7–48",
+      "asset": {
+        "local_path": "/Users/jorsc/.codex/.chatgpt-projects/g-p-6a94dd290a988191911d85ae8fe94a6c/tmp/pdfs/literature-2026-09-08/security/johnston-2013.pdf",
+        "sha256": "747af381154801a12f84026d8de287a57952569d10cb8d51587daeead1e470af",
+        "bytes": 1319316,
+        "retrieved_on": "2026-09-08",
+        "stored_outside_git": true
+      },
+      "retrieval_url": "https://www.belfercenter.org/sites/default/files/pantheon_files/files/publication/IS3704_pp007-048.pdf",
+      "read_on": "2026-09-08",
+      "physical_extent": {
+        "pdf_pages": 42,
+        "printed_pages": "7–48",
+        "mapping": "printed = PDF + 6"
+      },
+      "sequential_coverage": [
+        {
+          "pdf_pages": "1–42",
+          "printed_pages": "7–48",
+          "scope": "Entire article, all figures and notes 1–116; sequential text reading."
+        }
+      ],
+      "visual_pdf_pages_checked": [
+        7,
+        18
+      ],
+      "full_read": true,
+      "methodology_read": "Historical and source-critical comparison of seven prominent 2010 episodes; rhetoric and trade data; consideration of alternative explanations and cooperative cases.",
+      "access_and_inference_limits": [
+        "Most recent focal cases concern 2010, with some later discussion; not a 2013–2026 behavioral dataset.",
+        "Underlying trade data and source corpus not independently replicated.",
+        "Anonymous interviews remain author-mediated evidence.",
+        "Visual inspection was selective; all article text and notes were read."
+      ]
+    },
+    {
+      "candidate_id": "LIT-SEC-CHUBB-2021",
+      "title": "PRC Assertiveness in the South China Sea: Measuring Continuity and Change, 1970–2015",
+      "authors": [
+        "Andrew Chubb"
+      ],
+      "publication_year": 2021,
+      "doi": "10.1162/isec_a_00400",
+      "version_read": "Author accepted manuscript entitled Measuring state behavior in maritime and territorial disputes: China’s assertiveness in the South China Sea, 1970–2015; final publication International Security 45(3):79–121",
+      "asset": {
+        "local_path": "/Users/jorsc/.codex/.chatgpt-projects/g-p-6a94dd290a988191911d85ae8fe94a6c/tmp/pdfs/literature-2026-09-08/security/chubb-2021.pdf",
+        "sha256": "58561ca053f0cde03ec8dfb57ae00095492b78f733b10ff574828d631e2a4cf4",
+        "bytes": 1620659,
+        "retrieved_on": "2026-09-08",
+        "stored_outside_git": true
+      },
+      "retrieval_url": "https://eprints.lancs.ac.uk/151535/1/Chubb_China_s_assertiveness_AUTHOR_ACCEPTED_COPY.pdf",
+      "read_on": "2026-09-08",
+      "physical_extent": {
+        "pdf_pages": 41,
+        "manuscript_pages": "1–41",
+        "mapping": "manuscript page = PDF page; do not map directly to final journal pagination"
+      },
+      "sequential_coverage": [
+        {
+          "pdf_pages": "1–41",
+          "manuscript_pages": "1–41",
+          "scope": "Entire accepted manuscript, all tables/figures and notes 1–142; sequential text reading."
+        }
+      ],
+      "visual_pdf_pages_checked": [
+        8,
+        12,
+        15,
+        34
+      ],
+      "full_read": true,
+      "methodology_read": "Longitudinal event coding with Chinese institutional histories, chronologies and yearbooks, plus historical comparisons of candidate explanations.",
+      "access_and_inference_limits": [
+        "Full_read applies only to this accepted manuscript, not final journal version or separate appendix.",
+        "Dataset and coding appendix not retrieved or replicated.",
+        "The principal systematically coded period ends in 2015. Later comments do not amount to coverage through 2026.",
+        "Many primary items cited by the author remain unread in this pass.",
+        "Event accumulation includes inferred continuity/diminution; not all annual activity is directly observed."
+      ]
+    },
+    {
+      "candidate_id": "LIT-SEC-CHADHA-2024",
+      "title": "Negotiating the India-China Standoff: 2020–2024",
+      "authors": [
+        "Saheb Singh Chadha"
+      ],
+      "publication_year": 2024,
+      "doi": null,
+      "version_read": "Carnegie India report, December 2024",
+      "asset": {
+        "local_path": "/Users/jorsc/.codex/.chatgpt-projects/g-p-6a94dd290a988191911d85ae8fe94a6c/tmp/pdfs/literature-2026-09-08/security/chadha-2024.pdf",
+        "sha256": "9007cc325cfd04f50f62c3917442e4c8b86fa81545a173ef1f2461fa7622eb21",
+        "bytes": 1229407,
+        "retrieved_on": "2026-09-08",
+        "stored_outside_git": true
+      },
+      "retrieval_url": "https://assets.carnegieendowment.org/static/files/Negotiating%20the%20India-China%20Standoff%202020_2024.pdf",
+      "read_on": "2026-09-08",
+      "physical_extent": {
+        "pdf_pages": 74,
+        "main_text_printed_pages": "1–42",
+        "notes_printed_pages": "45–65",
+        "mapping": "main printed page = PDF page - 6"
+      },
+      "sequential_coverage": [
+        {
+          "pdf_pages": "7–13",
+          "printed_pages": "1–7",
+          "scope": "Entire introduction, channels of negotiation and methodology within this range."
+        },
+        {
+          "pdf_pages": "19–26",
+          "printed_pages": "13–20",
+          "scope": "Entire selected sequence, August 2020 military pressure through Pangong and Gogra disengagement discussions."
+        },
+        {
+          "pdf_pages": "51–54",
+          "printed_pages": "45–48",
+          "scope": "Notes 1–34, including interview provenance and method references."
+        },
+        {
+          "pdf_pages": "57–61",
+          "printed_pages": "51–55",
+          "scope": "Notes 64–139 read completely; notes 72–126 directly support the selected body sequence."
+        }
+      ],
+      "visual_pdf_pages_checked": [
+        22,
+        24
+      ],
+      "full_read": false,
+      "methodology_read": "Paired Indian and Chinese official statements and Indian stakeholder interviews; reconstruction across strategic, diplomatic and military channels.",
+      "access_and_inference_limits": [
+        "Body pp. 8–12 and 21–42 not read in this pass; no claim to complete report reading.",
+        "Report states information cutoff 3 December 2024 on p1.",
+        "No Chinese official interviews; inferred Chinese motivations need corroboration.",
+        "Online meeting annexure not retrieved or read.",
+        "Public readouts record positions and agreed wording, not every private offer or instruction."
+      ]
+    }
+  ],
+  "unread_leads": [
+    {
+      "candidate_id": null,
+      "local_lead_id": "SEC-LEAD-CHUBB-2026",
+      "title": "Authoritarian Public Opinion, Vividness, and International Crisis Signaling",
+      "authors": [
+        "Andrew Chubb"
+      ],
+      "publication_year": 2026,
+      "journal": "Security Studies",
+      "volume": 35,
+      "issue": 2,
+      "printed_pages": "376–408",
+      "published_online": "2026-06-16",
+      "doi": "10.1080/09636412.2026.2620042",
+      "full_read": false,
+      "read_on": "2026-09-08",
+      "read_scope": "Abstract and metadata only for analytical use; incidental search-result excerpts were not a sequential full-text reading.",
+      "asset": null,
+      "metadata_sources": [
+        "https://www.tandfonline.com/toc/fsst20/current",
+        "https://research.lancaster-university.uk/en/persons/andrew-chubb/"
+      ],
+      "abstract_source": "https://cwp.sipa.columbia.edu/news/authoritarian-public-opinion-vividness-and-international-crisis-signaling-cwp-alum-andrew",
+      "article_url": "https://www.tandfonline.com/doi/full/10.1080/09636412.2026.2620042",
+      "why_follow_up": "The abstract proposes public opinion as crisis signaling and reconstructs 2012 Scarborough. Test crisis effects separately from explanations of the onset of maritime assertiveness. No independent assessment of its findings yet.",
+      "access_note": "Direct web open returned 403, but publisher issue and Lancaster catalogue label open access/file. Locate that legal copy before requesting paid access."
+    }
+  ],
+  "primary_traces": [
+    {
+      "trace_id": "SEC-P01",
+      "linked_candidate_id": "LIT-SEC-JOHNSTON-2013",
+      "article_locator": "Printed pp15–16, notes 18 and 20",
+      "claim_checked": "Whether January 2010 official wording changed between implementation of an earlier U.S. arms package and a new package.",
+      "sources": [
+        {
+          "title": "外交部发言人姜瑜就美对台军售答记者问",
+          "date": "2010-01-07",
+          "url": "https://www.mfa.gov.cn/gjhdq_676201/gj_676203/bmz_679954/1206_680528/fyrygth_680536/200912/t20091231_9361384.shtml",
+          "asset": {
+            "local_path": "/Users/jorsc/.codex/.chatgpt-projects/g-p-6a94dd290a988191911d85ae8fe94a6c/tmp/pdfs/literature-2026-09-08/security/mfa-2010-01-07.html",
+            "sha256": "5e2ff22a0dd06cb3dc3091e71c471a906626dee87c686ac95f2354f02cb66334",
+            "bytes": 59544,
+            "retrieved_on": "2026-09-08",
+            "stored_outside_git": true
+          },
+          "read_scope": "Complete question and answer body in Chinese; displayed dateline checked.",
+          "read_on": "2026-09-08"
+        },
+        {
+          "title": "外交部副部长何亚非就美宣布售台武器计划向美驻华大使提出严正交涉",
+          "date": "2010-01-30",
+          "url": "https://www.mfa.gov.cn/web/wjb_673085/zygy_673101/201001/t20100130_7459402.shtml",
+          "asset": {
+            "local_path": "/Users/jorsc/.codex/.chatgpt-projects/g-p-6a94dd290a988191911d85ae8fe94a6c/tmp/pdfs/literature-2026-09-08/security/mfa-2010-01-30.html",
+            "sha256": "8ac82a23b63b0ef4575350ac56d97a8f0ea42b4ed3863cb3036225b6e33931ad",
+            "bytes": 58735,
+            "retrieved_on": "2026-09-08",
+            "stored_outside_git": true
+          },
+          "read_scope": "Complete three-paragraph Chinese statement body.",
+          "read_on": "2026-09-08"
+        }
+      ],
+      "result": "Narrow textual distinction supported; stronger interference and national-security wording appears in the later statement.",
+      "limits": [
+        "Does not verify all earlier-year comparisons, drafting intention, threatened measures implemented, or bargaining effect.",
+        "Speaker rank and sale trigger differ; must match genre and rank in a larger comparison.",
+        "The January 7 page URL carries an older date string; use displayed dateline."
+      ]
+    },
+    {
+      "trace_id": "SEC-P02",
+      "linked_candidate_id": "LIT-SEC-CHUBB-2021",
+      "article_locator": "Accepted manuscript p. 22, note 72",
+      "claim_checked": "Public Chinese Law of the Sea negotiating position in July 1974.",
+      "sources": [
+        {
+          "title": "A/CONF.62/SR.25, 25th plenary meeting, 2July 1974",
+          "date": "1974-07-02",
+          "url": "https://legal.un.org/diplconf_records/1973_los/docs/english/vol_1/a_conf62_sr25.pdf",
+          "asset": {
+            "local_path": "/Users/jorsc/.codex/.chatgpt-projects/g-p-6a94dd290a988191911d85ae8fe94a6c/tmp/pdfs/literature-2026-09-08/security/unclos-1974-sr25.pdf",
+            "sha256": "3b6e10a9c4a503da5ef6385d2cdeaf3831710f02175a7adc6c5bc72b8a690a38",
+            "bytes": 475089,
+            "retrieved_on": "2026-09-08",
+            "stored_outside_git": true
+          },
+          "read_scope": "Complete Chinese intervention, Chai Shu-fan, paragraphs 11–22, printed 80–81 / PDF 3–4, sequential English official record and visual inspection. Other delegations and full 11-page PDF not completely read.",
+          "visual_pdf_pages_checked": [
+            3,
+            4
+          ],
+          "read_on": "2026-09-08"
+        }
+      ],
+      "result": "Supports a public position combining extended coastal jurisdiction, developing-country solidarity and participation in rulemaking.",
+      "limits": [
+        "A public speech does not establish private preference formation, delegation instructions, or causation of later operations.",
+        "The warship permission/notification passage concerns territorial straits, not a general EEZ navigation rule.",
+        "A/CONF.62/C.3/SR.8 and A/CONF.62/C.2/SR.24, also cited in note 72, have not been read."
+      ]
+    },
+    {
+      "trace_id": "SEC-P03",
+      "linked_candidate_id": "LIT-SEC-CHADHA-2024",
+      "article_locator": "Printed pp16–17, note99",
+      "claim_checked": "Date of sixth military commander-level meeting.",
+      "sources": [
+        {
+          "title": "Joint Press Release of the 6th round of Senior Commanders’ Meeting between India and China",
+          "date": "2020-09-22",
+          "event_date": "2020-09-21",
+          "url": "https://www.indembassysweden.gov.in/section/press-releases/joint-press-release-of-the-6th-round-of-senior-commanders-meeting-between-india-and-china/",
+          "asset": null,
+          "read_scope": "Complete substantive joint-release body on official Indian embassy mirror; webpage navigation not treated as content.",
+          "read_on": "2026-09-08"
+        }
+      ],
+      "result": "Official release gives meeting September 21; Chadha p. 16 says 20, while p. 17 says 21. PDF p. 22 visually confirms that 20 is printed, not an extraction error.",
+      "limits": [
+        "Single jointly issued text on Indian official mirror; no independent Chinese publication retrieved for this date check.",
+        "Does not verify every event in the selected chronology."
+      ]
+    }
+  ],
+  "provisional_book_verdicts": [
+    {
+      "book_claim_ids": [
+        "S-C01",
+        "S-C18"
+      ],
+      "status": "Retain as research framing, not independently validated in every detail",
+      "reason": "Separate relationship purpose and material interests from claims about a distinctive procedure.",
+      "reading_locators": [
+        "Johnston pp9–10,31–34,45–48",
+        "Chubb manuscript pp5–18,32–40"
+      ],
+      "discriminating_test": "Compare negotiation procedures and reservation terms across matched changes in leverage, issue stakes and relationship purpose."
+    },
+    {
+      "book_claim_ids": [
+        "S-C19"
+      ],
+      "status": "Downgrade from diagnostic to competing hypothesis",
+      "reason": "Public rigidity cannot identify leadership conflict among several plausible mechanisms.",
+      "reading_locators": [
+        "Johnston pp20–21,35–45",
+        "Chubb manuscript pp18,30,38–39"
+      ],
+      "discriminating_test": "Seek dated internal disagreements and changes in instructions before observable flexibility, alongside cases of rigid positions under coherent authority."
+    },
+    {
+      "book_claim_ids": [
+        "S-C09",
+        "S-C10",
+        "S-C11",
+        "S-C12",
+        "F09"
+      ],
+      "status": "Retain questions; disaggregate authority levels",
+      "reason": "Initiative, overall authorization, tactical discretion, coordination and retrospective public credit are distinct.",
+      "reading_locators": [
+        "Chubb manuscript pp11,24–28,30,34",
+        "Chadha pp4–7,13–20"
+      ],
+      "discriminating_test": "Reconstruct reporting and approval chains on both sides; test whether improved terms follow a new mandate or a change in the cost of disagreement."
+    },
+    {
+      "book_claim_ids": [
+        "S-C13",
+        "S-C15",
+        "F01"
+      ],
+      "status": "Treat relationship principles as contingent and bilateral",
+      "reason": "A shared public formulation may coexist with incompatible linkage demands.",
+      "reading_locators": [
+        "Chadha pp13–20"
+      ],
+      "discriminating_test": "Follow concrete draft terms and implementation after broad understandings; code counterpart uses of principles as well as Chinese uses."
+    },
+    {
+      "book_claim_ids": [
+        "S-C17"
+      ],
+      "status": "Split publicity into distinct mechanisms",
+      "reason": "Public invocation, domestic constraint, attention amplification and foreign decision effects should not be treated as one variable.",
+      "reading_locators": [
+        "Chubb manuscript pp36–39",
+        "Johnston pp37–39,45–48"
+      ],
+      "discriminating_test": "Date public exposure, private threat communication, domestic reaction and counterpart choice separately; read Chubb 2026 before judging its claimed crisis mechanism."
+    }
+  ],
+  "source_quality_flags": [
+    {
+      "source": "LIT-SEC-CHADHA-2024",
+      "locator": "Printed 16 / PDF 22",
+      "status": "Confirmed internal date error",
+      "details": "September 20 conflicts with printed p. 17 and official September 22 release giving event September 21; visual checked."
+    },
+    {
+      "source": "LIT-SEC-CHADHA-2024",
+      "locator": "Printed 18 / PDF 24; note 109",
+      "status": "Unresolved meeting-versus-release date ambiguity",
+      "details": "Rendered page says tenth talks heldFebruary 21, 2021 and eleven days after Singh announcement; note 109 is a February 21 release. Original release not retrieved in this pass. Do not silently infer exact event date."
+    }
+  ],
+  "follow_up": [
+    {
+      "priority": 1,
+      "item": "Chubb replication appendix and event-level source records",
+      "url": "https://doi.org/10.7910/DVN/3Y7NRU",
+      "status": "Bibliographic record found; data not retrieved/read",
+      "access_result": "Dataverse browser request failed; API request failed TLS hostname validation. No security check bypassed.",
+      "why": "Audit period boundaries, event exclusions, inferred persistence and source availability before using counts as independent evidence."
+    },
+    {
+      "priority": 1,
+      "item": "Chubb 2026 legal open-access full text",
+      "url": "https://www.tandfonline.com/doi/full/10.1080/09636412.2026.2620042",
+      "status": "Abstract-only lead",
+      "why": "Evaluate its causal reconstruction of crisis signaling; this is separate from the onset of assertiveness."
+    },
+    {
+      "priority": 1,
+      "item": "Original CMS procurement and patrol authorization records",
+      "locator": "Chubb accepted manuscript p. 34 notes 120–121: Su Tao, Zhongguo Haiyang Bao, 17 December 2007; Zhongguo Haiyang Nianjian 2007, p. 173",
+      "status": "Citations read; originals not retrieved",
+      "why": "Establish dated equipment decisions, delegated authority and operational orders independently of the secondary narrative."
+    },
+    {
+      "priority": 1,
+      "item": "Mischief Reef approval account and independent corroboration",
+      "locator": "Chubb accepted manuscript p. 30 note 107: Liu Guojun recollection in Yi, Yao and Chen, Zhongguo Yuzheng shouming",
+      "status": "Citation and quoted account read within manuscript; original not retrieved",
+      "why": "Compare retrospective higher-level authorization account with embassy denial; distinguish policy advocacy from final approval."
+    },
+    {
+      "priority": 2,
+      "item": "UN Law of the Sea remaining committee records",
+      "documents": [
+        "A/CONF.62/C.3/SR.8,19July 1974",
+        "A/CONF.62/C.2/SR.24,1 August 1974"
+      ],
+      "url": "https://legal.un.org/diplomaticconferences/1973_los",
+      "status": "Not read",
+      "why": "Test precise scope of the scientific research and security claims; do not substitute plenary speech for these texts."
+    },
+    {
+      "priority": 2,
+      "item": "Complete Chadha report and annexure, then Chinese-side primary sequence",
+      "status": "Partially read report; annexure unread",
+      "why": "Extend beyond selected 2020–2021 sequence before drawing conclusions about October 2024 or 2026."
+    }
+  ],
+  "copyright_and_provenance": "Original analytical notes only. Full articles, extracted texts and rendered pages remain outside Git. Full_read means the specific complete version listed, including its notes, not that every cited source or separate supplement has been read."
+}

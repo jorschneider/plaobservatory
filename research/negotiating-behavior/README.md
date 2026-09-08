@@ -1,14 +1,16 @@
 # Chinese negotiating behavior: reassessing Solomon through 2026
 
-**Foundation dossier — 5 September 2026.** This project asks which conclusions in Richard H. Solomon's *Chinese Negotiating Behavior* remain useful, which need revision, and under what circumstances Chinese behavior toward major powers has changed. The United States is the main comparison; other major counterparts are necessary controls. This is original research and commentary, not a reproduction of the book.
+**Research dossier — updated 8 September 2026.** This project asks which conclusions in Richard H. Solomon's *Chinese Negotiating Behavior* remain useful, which need revision, and under what circumstances Chinese behavior toward major powers has changed. The United States is the main comparison; other major counterparts are necessary controls. This is original research and commentary, not a reproduction of the book.
 
 The initial work has three foundations: a sequential audit of the supplied book, including Charles W. Freeman Jr.'s 1999 commentary; a documentary pilot on the 1999 US–China WTO accession negotiation; and a secondary-literature program that tests competing explanations and identifies additional sources. The aim is to reconstruct offers, instructions, disputes, and decisions before drawing conclusions from outcomes.
 
 ## Start here
 
+- **[First substantive literature assessment](literature/first-full-text-synthesis.md):** what survives, what needs qualification, and what institutional changes can already be documented.
+- **[Full-text reading ledger](literature/readings/README.md):** complete and partial readings, version-specific coverage, critical memos and primary-source checks.
 - **[First findings from the WTO pilot](cases/wto-1999-synthesis.md):** what dated proposals and conflicting accounts already change about the research question.
 - **[Research protocol](RESEARCH_PROTOCOL.md):** evidence standards, case selection, comparisons, and the tests for continuity or change.
-- **[Secondary literature and full-text requests](literature/README.md):** a prioritized acquisition and reading plan, with 36 candidate works and explicit reading/access status.
+- **[Secondary literature program](literature/README.md):** the original screening, current reading status and remaining acquisition leads. Unavailable texts do not block the online research program.
 - **[Next documents and reporting questions](reporting/wto-1999-next-requests.md):** specific missing records and a bounded next deliverable.
 
 ## What is in this first dossier?
@@ -19,6 +21,7 @@ The initial work has three foundations: a sequential audit of the supplied book,
 | Sequential audit of the full negotiating-process chapter, printed pp.57–156 | [Process audit](book/process.md) | Distinguishes observations from inferred intent and records contradictory or limiting passages. |
 | 59 structured research propositions, with page citations, evidence types, tests, and caveats | [34 context/Freeman propositions](book/context-claims.json); [25 process propositions](book/process-claims.json) | Related propositions overlap; they are not 59 independent findings or a scorecard. |
 | Secondary-literature screening across negotiation studies, institutions, trade and security | [Reading priorities](literature/README.md); [complete bibliography](literature/BIBLIOGRAPHY.md) | Metadata, abstracts and selected sections screened; this is not a completed literature review. |
+| First full-text literature assessment with four critical reading memos and primary-source follow-up | [Assessment](literature/first-full-text-synthesis.md); [coverage ledger](literature/readings/README.md) | Full readings are version-specific; bounded readings and inaccessible works remain separately marked. This does not complete the 2026 history. |
 | American archival and participant-source audit, with explicit read status | [US source audit](sources/us-wto-archive-audit.md); [register](sources/us-source-register.json) | Many located folders and original news reports remain unacquired. |
 | Chinese documentary and participant-source audit | [Chinese source audit](sources/chinese-source-audit.md); [register](sources/chinese-source-register.json) | Four substantial PDFs acquired; only specified portions read. MOFCOM's collection contains 20 volumes, not all reviewed. |
 | Parallel reconstructions of the WTO episode | [Chinese evidence](cases/wto-1999-chinese-reconstruction.md); [American evidence](cases/wto-1999-us-reconstruction.md) | First reconstruction, not a finished case history. |
@@ -35,7 +38,7 @@ The initial work has three foundations: a sequential audit of the supplied book,
 
 ## The next research step
 
-Read the scholarly literature in parallel with further documentary work. Begin with Zhang Qingmin's continuity/change chapter, Shaffer and Gao on trade-law learning, and Johnston on measuring apparent change; obtain Pearson's accession chapter and the relevant chapters of Faure and Zartman's 2025 volume. Use their evidence and disagreements to refine the archive requests below. The [literature plan](literature/README.md) separates immediate public reading from the first full-text requests.
+The first full-text pass is documented in the [assessment](literature/first-full-text-synthesis.md). Continue using accessible scholarship and its source chains in parallel with documentary reconstruction. The trade readings identify a bridge through WTO disputes and domestic implementation; institutional and security readings sharpen the tests for authority, audience effects and changes in coercive means. Unavailable Pearson and Celico chapters remain useful acquisition leads, without making further progress dependent on them.
 
 Recover the **April 10 MOU attachments**, the **NEC–NSC memorandum behind the April decision**, the **successive November offers and final bilateral schedules**, and the **Chinese authorization records identified by sector participants**. Build a dated comparison for telecom, life insurance, bank/auto-finance access, and safeguards. These records can distinguish an actual reversal from a conditional draft, a genuine mandate limit from bargaining tactics, and a material concession from retrospective compression.
 

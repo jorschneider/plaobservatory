@@ -1,0 +1,103 @@
+{
+  "audit_date": "2026-09-08",
+  "memo": "institutions-and-audiences.md",
+  "source_storage": "Outside the Git worktree: parent workspace tmp/pdfs/literature-2026-09-08/institutions/",
+  "works": [
+    {
+      "work_id": "LIT-INST-JAKOBSON-MANUEL-2016",
+      "doi": "10.1002/app5.121",
+      "version_read": "Published article, Asia & the Pacific Policy Studies 3(1):101–110, ten PDF pages",
+      "url": "https://openresearch-repository.anu.edu.au/bitstreams/c80aa17c-93cd-4059-93b8-5793127b0aa4/download",
+      "local_filename": "jakobson-manuel-2016.pdf",
+      "sha256": "c4fad6da8661ea28788c03f14d936037b8e1286f43c3d3457bbc3713fe9f1ad2",
+      "full_read": true,
+      "coverage": "All body, notes and references. Printed p.109 visually inspected.",
+      "method": "Synthesis of earlier research, interviews, workshops, Chinese/English sources and institutional mapping, rather than a newly assembled negotiation dataset.",
+      "empirical_cutoff": "Early Xi period, published 2016; not a 2026 institutional description.",
+      "propositions": ["S-P07", "S-P11", "S-P24"],
+      "source_chain": "Printed p.109 -> Jakobson 2014, p.29 -> unnamed official involved in preparing maritime leading-group meetings. Original interview record unavailable; 2014 report not fully read in this pass.",
+      "limits": "Formal organization, ultimate authority and vague guidance do not establish the mandate behind a particular offer. Later 2018 reform and 2023 legislation require updating this snapshot."
+    },
+    {
+      "work_id": "LIT-METHOD-WEISS-DAFOE-2019",
+      "doi": "10.1093/isq/sqz059",
+      "version_read": "Author manuscript dated 28 January 2019, 29 pages; final ISQ article pagination is not used for manuscript claims",
+      "url": "https://www.jessicachenweiss.com/uploads/3/0/6/3/30636001/19-01-24-elite-statements-isq-ca.pdf",
+      "local_filename": "weiss-dafoe-2019.pdf",
+      "sha256": "0d61b51ec950081bd06fcc588081df2e709712597a34d722b882adfa10dcb7e8",
+      "full_read": true,
+      "coverage": "All 29 pages including notes and references; figures on pp.17 and 19 visually inspected. Final typeset article, supplementary files and replication data not inspected.",
+      "method": "Two online survey experiments in China, October 2015–March 2016; samples 2,992 and 5,445. Voluntary online panels, not random national samples.",
+      "propositions": ["S-P15", "S-P17"],
+      "limits": [
+        "Threat-specificity comparison spans different scenarios, with a finality confound discussed on manuscript p.20.",
+        "Several plotted effects are not statistically distinguishable from zero at the 5% level; manuscript p.22 acknowledges small, incompletely robust effects.",
+        "Public approval experiments cannot establish actual leaders' beliefs, negotiating mandates or crisis concessions."
+      ]
+    },
+    {
+      "work_id": "LIT-METHOD-MOKRY-2022",
+      "doi": "10.1093/fpa/orac012",
+      "version_read": "Complete publisher HTML, Foreign Policy Analysis 18(3), orac012",
+      "url": "https://academic.oup.com/fpa/article/18/3/orac012/6575815",
+      "retrieval_url": "https://oup.silverchair-cdn.com/article-minimal/6575815",
+      "local_filename": "mokry-2022-body.html",
+      "sha256": "f03bcec725cdf31466e4e64439f26b9579da40e5fad7212f71ac6809d829d97a",
+      "full_read": true,
+      "coverage": "Complete main text, footnotes, references and tables; all eight figures visually inspected. No PDF page citations claimed. Underlying corpus/coding not replicated.",
+      "method": "Comparison of selected foreign-policy passages in Chinese/English statement pairs; interpretive coding of differences and signaled intentions.",
+      "propositions": ["S-P05", "S-P07", "S-P17", "S-P18", "S-P19"],
+      "limits": [
+        "Table 3's inference from textual differences to challenges to existing rules requires independent contextual evaluation.",
+        "Footnote 4: eleven of twelve substantive differences in 2019 concentrated in two documents; one lacked a complete English translation.",
+        "The study leaves motives for translation differences unresolved. Do not infer deliberate deception, policy contradiction, or a new negotiating style from omission alone.",
+        "Reported corpus is 91 documents; displayed Table 1 category counts sum to 96. Denominator discrepancy not resolved or used for our own numerical claims."
+      ]
+    },
+    {
+      "work_id": "LIT-INST-TAYLOR-GARLICK-2025",
+      "doi": "10.1080/10357718.2024.2437035",
+      "full_read": false,
+      "coverage": "Scholarly article not obtained; publisher and advertised Helsinki PDF returned HTTP 403. Complete related authored public brief read instead.",
+      "related_text": {
+        "title": "Beyond Fragmentation: How Xi’s China Implements Foreign Policy",
+        "authors": ["Monique Taylor", "Jeremy Garlick"],
+        "published": "2025-04-22",
+        "publisher": "Australian Outlook, Australian Institute of International Affairs",
+        "url": "https://www.internationalaffairs.org.au/australianoutlook/beyond-fragmentation-how-xis-china-implements-foreign-policy/",
+        "full_read": true,
+        "type": "Authored public summary of the scholarly argument, not independent corroboration"
+      },
+      "limits": "Without the article, its complete evidence and notes have not been audited. Ex-post correction and strategic consistency do not alone establish ex-ante instructions for every action."
+    }
+  ],
+  "primary_checks": [
+    {
+      "title": "深化党和国家机构改革方案",
+      "document_date": "2018-03-21",
+      "url": "https://www.mofcom.gov.cn/xxgcxjpxsdzgtsshzysx/zywj/art/2018/art_3fa8291d599c4e959c83947a9900c262.html",
+      "copy_provenance": "MOFCOM reproduction dated 22 March 2018, credited to People's Daily",
+      "full_read": false,
+      "coverage": "Part I(4) and I(17) and surrounding institutional clauses read",
+      "establishes": "Foreign-affairs leading group converted to commission; maritime-rights leading-group responsibilities reassigned",
+      "does_not_establish": "Implementation effectiveness or the instructions governing an individual negotiation"
+    },
+    {
+      "title": "中华人民共和国对外关系法 / Law on Foreign Relations",
+      "document_date": "2023-06-28",
+      "effective_date": "2023-07-01",
+      "url": "https://www.mfa.gov.cn/web/wjb_673085/zfxxgk_674865/zcfg/fl/202306/t20230628_11105189.shtml",
+      "full_read": true,
+      "coverage": "Chinese text, articles 1–45; English cross-check includes articles 5, 9, 14, 16 and 30–33. Not all English wording separately audited.",
+      "establishes": "Published allocation of authority, central Party leadership, departmental roles, treaty-performance provisions and countermeasure framework",
+      "does_not_establish": "Every agency's actual discretion, effective enforcement or the origin of particular bargaining demands"
+    },
+    {
+      "title": "China and the World in the New Era / 新时代的中国与世界, 2019",
+      "urls": ["https://english.scio.gov.cn/2019-09/28/content_75252746_4.htm", "https://www.locpg.gov.cn/jsdt/2019-09/27/c_1210294783.htm"],
+      "full_read": false,
+      "coverage": "Search-indexed UN/global-governance passage and English surrounding paragraphs checked against Mokry Table 3; complete paired white paper not read in this pass",
+      "limits": "This is a limited passage check, not independent replication of the translation corpus or a complete white-paper analysis."
+    }
+  ]
+}

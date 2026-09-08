@@ -95,6 +95,8 @@ Do not promise Solomon-equivalent access. Recent Chinese internal deliberations 
 
 ## Publication and verification
 
+The [8 September full-text assessment](literature/first-full-text-synthesis.md) adds several operational rules: record a work's version and empirical cutoff separately from publication date; distinguish public approval from actual negotiating mandates; compare complete language versions before interpreting omissions; and trace the timing of authorization rather than infer it from a coherent final outcome. The [reading ledger](literature/readings/README.md) distinguishes complete works, bounded readings, and related versions. Unavailable texts remain acquisition leads without blocking research from available online sources.
+
 Publish original analysis, source metadata, short necessary quotations, and links. Keep downloaded books, full OCR, and interview materials outside the public repository unless redistribution rights and interview permissions are clear. A government-hosted copy is evidence of availability, not blanket permission to republish every page.
 
 Before releasing a case: check citations against the original; distinguish event date from later publication; inspect consequential scan passages; trace source dependence; preserve contrary evidence; separate an offer from an agreement and both from implementation; and have a second reader challenge the causal interpretation. Mark uncertainty in the claim itself, not only in a general disclaimer.
