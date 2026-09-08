@@ -1,0 +1,527 @@
+{
+  "title": "Phase One implementation and subsequent bargaining: source and reading register",
+  "research_date": "2026-09-08",
+  "latest_substantively_read_event_date": "2026-07-02",
+  "memo": "cases/phase-one-implementation-2020-2026.md",
+  "coverage_policy": "Full-read flags describe this investigator’s actual reading, not download availability. All PDFs and full-page snapshots remain outside Git. Neither statements of compliance nor allegations are treated as adjudicated findings. Source instructions were treated as data.",
+  "agreement_crosscheck": {
+    "provenance": "Parent researcher read original English and Chinese agreement; this investigator relies on the parent’s clause cross-check and does not claim a full agreement reading in this task.",
+    "clauses": [
+      "6.2.1–3: two-year quantified obligation versus later projection",
+      "6.2.6–7: both official trade series and consultation rights",
+      "7.4: confidential appeals",
+      "7.6.1–2: existing rights versus unforeseen-events consultations"
+    ],
+    "url": "https://ustr.gov/sites/default/files/files/agreements/phase%20one%20agreement/Economic_And_Trade_Agreement_Between_The_United_States_And_China_Text.pdf"
+  },
+  "provisional_verdict_links": [
+    {
+      "claim_id": "S-C18",
+      "assessment": "Retain as competing-explanations discipline; neither aggregate shortfall nor rhetoric isolates tactical intent."
+    },
+    {
+      "claim_id": "S-C20",
+      "assessment": "US stakeholder differences directly observable; Chinese exploitation not established."
+    },
+    {
+      "claim_id": "S-C13",
+      "assessment": "Update scope: detailed legal/administrative rules coexist with principle-based public framing and continued negotiation."
+    },
+    {
+      "claim_ids": [
+        "S-C10",
+        "S-C11",
+        "S-C12"
+      ],
+      "assessment": "Not adjudicated; internal authorization and agency process remain missing."
+    }
+  ],
+  "sources": [
+    {
+      "id": "POI01",
+      "title": "Statement on Call Between the United States and China",
+      "author_or_institution": "USTR",
+      "publication_date": "2020-08-24",
+      "url": "https://ustr.gov/about-us/policy-offices/press-office/press-releases/2020/august/statement-call-between-united-states-and-china",
+      "retrieved": "2026-09-08",
+      "read_date": "2026-09-08",
+      "source_type": "US official contemporaneous readout",
+      "read_scope": "Entire substantive release, sequentially.",
+      "full_read": true,
+      "full_read_definition": "Complete substantive text, including relevant notes/tables, if true; excludes navigation and related-content widgets. Figures and underlying data are separately qualified.",
+      "limitation": "Selected public account of the call; not minutes.",
+      "asset": {
+        "local_path": "/Users/jorsc/.codex/.chatgpt-projects/g-p-6a94dd290a988191911d85ae8fe94a6c/tmp/pdfs/trade-2018-2026/implementation/ustr-2020-08-24.html",
+        "version": "Retrieved public version",
+        "sha256": "ad4c82707daad89c7c527a6d04727af9945cf8b5acc61a1c4c8a2a872731d6b8",
+        "bytes": 22790
+      }
+    },
+    {
+      "id": "POI02",
+      "title": "Chinese, US officials hold phone talks on trade deal implementation",
+      "author_or_institution": "Xinhua, reprinted by State Council English website",
+      "publication_date": "2020-08-25",
+      "url": "https://english.www.gov.cn/statecouncil/liuhe/202008/25/content_WS5f4465b0c6d0f7257693aefa.html",
+      "retrieved": "2026-09-08",
+      "read_date": "2026-09-08",
+      "source_type": "Chinese official contemporaneous readout",
+      "read_scope": "Complete short English article, sequentially.",
+      "full_read": true,
+      "full_read_definition": "Complete substantive text, including relevant notes/tables, if true; excludes navigation and related-content widgets. Figures and underlying data are separately qualified.",
+      "limitation": "English official reprint; paired with POI01, same call across time zones.",
+      "asset": {
+        "local_path": "/Users/jorsc/.codex/.chatgpt-projects/g-p-6a94dd290a988191911d85ae8fe94a6c/tmp/pdfs/trade-2018-2026/implementation/china-2020-08-25.html",
+        "version": "Retrieved public version",
+        "sha256": "8e7dd563b426dd2d54e519ed594a2ad02cb55036ed7fe4020d9822fc150ae63a",
+        "bytes": 15532
+      }
+    },
+    {
+      "id": "POI03",
+      "title": "Readout of Ambassador Tai’s Virtual Meeting with Vice Premier of China Liu He",
+      "author_or_institution": "USTR",
+      "publication_date": "2021-10-08",
+      "url": "https://ustr.gov/about-us/policy-offices/press-office/press-releases/2021/october/readout-ambassador-tais-virtual-meeting-vice-premier-china-liu-he",
+      "retrieved": "2026-09-08",
+      "read_date": "2026-09-08",
+      "source_type": "US official contemporaneous readout",
+      "read_scope": "Entire substantive release, sequentially.",
+      "full_read": true,
+      "full_read_definition": "Complete substantive text, including relevant notes/tables, if true; excludes navigation and related-content widgets. Figures and underlying data are separately qualified.",
+      "limitation": "Public selection of issues, not an agreed record.",
+      "asset": {
+        "local_path": "/Users/jorsc/.codex/.chatgpt-projects/g-p-6a94dd290a988191911d85ae8fe94a6c/tmp/pdfs/trade-2018-2026/implementation/ustr-2021-10-08.html",
+        "version": "Retrieved public version",
+        "sha256": "68b879c07772332a8ba046830daea6dc62cf29e0b4cc644d9c69e652ccafe35b",
+        "bytes": 47387
+      }
+    },
+    {
+      "id": "POI04",
+      "title": "刘鹤与美贸易代表戴琪通话",
+      "author_or_institution": "Xinhua",
+      "publication_date": "2021-10-09",
+      "url": "https://www.news.cn/politics/leaders/2021-10/09/c_1127939844.htm",
+      "retrieved": "2026-09-08",
+      "read_date": "2026-09-08",
+      "source_type": "Chinese official contemporaneous readout",
+      "read_scope": "Complete Chinese news body, sequentially; video not watched.",
+      "full_read": true,
+      "full_read_definition": "Complete substantive text, including relevant notes/tables, if true; excludes navigation and related-content widgets. Figures and underlying data are separately qualified.",
+      "limitation": "Text only; paired with POI03.",
+      "asset": {
+        "local_path": "/Users/jorsc/.codex/.chatgpt-projects/g-p-6a94dd290a988191911d85ae8fe94a6c/tmp/pdfs/trade-2018-2026/implementation/china-2021-10-09.html",
+        "version": "Retrieved public version",
+        "sha256": "1df72d184c0eff246277d80f1c9199d7e981e910b33088da0eb6eb838c9ca6f7",
+        "bytes": 8387
+      }
+    },
+    {
+      "id": "POI05",
+      "title": "商务部召开例行新闻发布会（2022年1月13日）",
+      "author_or_institution": "MOFCOM / Shu Jueting",
+      "publication_date": "2022-01-13",
+      "url": "https://video.mofcom.gov.cn/xwfb/2022/1/ef17c1d2f07c4ef0b005cfd1cafceffe579.html",
+      "retrieved": "2026-09-08",
+      "read_date": "2026-09-08",
+      "source_type": "Chinese official press-conference transcript",
+      "read_scope": "Complete South China Morning Post question and answer and later Reuters question and answer concerning Phase One (web lines30–32,65–66). Other questions not analytically reviewed; video not watched.",
+      "full_read": false,
+      "full_read_definition": "Complete substantive text, including relevant notes/tables, if true; excludes navigation and related-content widgets. Figures and underlying data are separately qualified.",
+      "limitation": "Two selected exchanges, not a full press-conference reading. Reporter premises are not automatically official claims.",
+      "asset": {
+        "local_path": "/Users/jorsc/.codex/.chatgpt-projects/g-p-6a94dd290a988191911d85ae8fe94a6c/tmp/pdfs/trade-2018-2026/implementation/mofcom-2022-01-13.html",
+        "version": "Retrieved public version",
+        "sha256": "64a3b3d73c060a5788738ee6c85e64fd3ff336a9722bd19e5a420207be7925dd",
+        "bytes": 20805
+      }
+    },
+    {
+      "id": "POI06",
+      "title": "Testimony of Ambassador Katherine Tai Before the Senate Finance Committee Hearing on the President’s 2022 Trade Policy Agenda",
+      "author_or_institution": "Katherine Tai / USTR",
+      "publication_date": "2022-03",
+      "url": "https://ustr.gov/about-us/policy-offices/press-office/speeches-and-remarks/2022/march/testimony-ambassador-katherine-tai-senate-finance-committee-hearing-presidents-2022-trade-policy",
+      "retrieved": "2026-09-08",
+      "read_date": "2026-09-08",
+      "source_type": "US official prepared testimony",
+      "read_scope": "Complete section Re-Aligning the U.S.–China Trade Relationship, through the paragraph on the proposed steel/aluminum arrangement; subsequent section opening incidentally read.",
+      "full_read": false,
+      "full_read_definition": "Complete substantive text, including relevant notes/tables, if true; excludes navigation and related-content widgets. Figures and underlying data are separately qualified.",
+      "limitation": "Day is not displayed in cached page; month only. Other testimony sections and oral questions not read.",
+      "asset": {
+        "local_path": "/Users/jorsc/.codex/.chatgpt-projects/g-p-6a94dd290a988191911d85ae8fe94a6c/tmp/pdfs/trade-2018-2026/implementation/ustr-2022-03-tai.html",
+        "version": "Retrieved public version",
+        "sha256": "7c313b55ad7dc4197df640c7cd6ed3f245e3d12444ed7a619dd9a5dc675b0032",
+        "bytes": 38929
+      }
+    },
+    {
+      "id": "POI07",
+      "title": "关于中美经贸关系若干问题的中方立场",
+      "author_or_institution": "State Council Information Office, hosted by MOFCOM",
+      "publication_date": "2025-04-09",
+      "url": "https://chinawto.mofcom.gov.cn/article/ap/p/202504/20250403576920.shtml",
+      "retrieved": "2026-09-08",
+      "read_date": "2026-09-08",
+      "source_type": "Chinese official white paper / retrospective advocacy",
+      "read_scope": "Entire sections II and III sequentially in Chinese, including II(1)–(7) and III(1)–(4); contents, introduction, and adjoining section fragments inspected but not complete remaining sections.",
+      "full_read": false,
+      "full_read_definition": "Complete substantive text, including relevant notes/tables, if true; excludes navigation and related-content widgets. Figures and underlying data are separately qualified.",
+      "limitation": "Retrospective counts and compliance assertions attributed, not independently established. Citation to7.6.1 for unforeseeable events differs from the agreement’s7.6.2. Do not infer dispute appeals absent solely from public silence.",
+      "asset": {
+        "local_path": "/Users/jorsc/.codex/.chatgpt-projects/g-p-6a94dd290a988191911d85ae8fe94a6c/tmp/pdfs/trade-2018-2026/implementation/china-whitepaper-2025.html",
+        "version": "Retrieved public version",
+        "sha256": "f97c2bf908d99a042982d06ab886fae6f4065fce916fca9e22ff97b6859e1faa",
+        "bytes": 144003
+      }
+    },
+    {
+      "id": "POI08",
+      "title": "US-China phase one tracker: China’s purchases of US goods",
+      "author_or_institution": "Chad P. Bown / PIIE",
+      "publication_date": "2022-07-19",
+      "url": "https://www.piie.com/research/piie-charts/2020/us-china-phase-one-tracker-chinas-purchases-us-goods",
+      "retrieved": "2026-09-08",
+      "read_date": "2026-09-08",
+      "source_type": "Independent economic measurement",
+      "read_scope": "Complete substantive HTML description and sections I–IV, including definitions and methods; sequential prose reading. Chart captions and textual numbers read, but plotted images not visually audited and spreadsheet not downloaded or replicated.",
+      "full_read": false,
+      "full_read_definition": "Complete substantive text, including relevant notes/tables, if true; excludes navigation and related-content widgets. Figures and underlying data are separately qualified.",
+      "limitation": "Text-complete, figure audit incomplete; therefore full_read false. Separate US exports and Chinese imports, goods-only and goods/services, and annual targets from illustrative monthly paths.",
+      "asset": {
+        "local_path": "/Users/jorsc/.codex/.chatgpt-projects/g-p-6a94dd290a988191911d85ae8fe94a6c/tmp/pdfs/trade-2018-2026/implementation/piie-tracker.html",
+        "version": "Retrieved public version",
+        "sha256": "9c3a3b9aec77298331f9b29a3da07aecccfb825ee742688fadeea85df58b0244",
+        "bytes": 84605
+      }
+    },
+    {
+      "id": "POI09",
+      "title": "China bought none of the extra $200 billion of US exports in Trump’s trade deal",
+      "author_or_institution": "Chad P. Bown / PIIE",
+      "publication_date": "2022-07-19 (revised from 2022-02-08)",
+      "url": "https://www.piie.com/blogs/realtime-economics/2022/china-bought-none-extra-200-billion-us-exports-trumps-trade-deal",
+      "retrieved": "2026-09-08",
+      "read_date": "2026-09-08",
+      "source_type": "Independent economic measurement and interpretation",
+      "read_scope": "Complete substantive HTML article, notes1–14 and appendix tables1–2 read sequentially; chart captions read. Figures not visually inspected and underlying datasets not replicated.",
+      "full_read": false,
+      "full_read_definition": "Complete substantive text, including relevant notes/tables, if true; excludes navigation and related-content widgets. Figures and underlying data are separately qualified.",
+      "limitation": "Text/notes/tables complete, graphic inspection incomplete; full_read false. Commercial-presence service sales omitted; some detailed subsector targets estimated. Causal explanations are interpretation, not an identified decomposition.",
+      "asset": {
+        "local_path": "/Users/jorsc/.codex/.chatgpt-projects/g-p-6a94dd290a988191911d85ae8fe94a6c/tmp/pdfs/trade-2018-2026/implementation/piie-2022-analysis.html",
+        "version": "Retrieved public version",
+        "sha256": "100920037577a6d7a624c066f092f9e8e40d76e85f8d85b854f92ce57256e3e8",
+        "bytes": 120014
+      },
+      "additional_download_not_read": {
+        "local_path": "/Users/jorsc/.codex/.chatgpt-projects/g-p-6a94dd290a988191911d85ae8fe94a6c/tmp/pdfs/trade-2018-2026/implementation/piie-2022-analysis.pdf",
+        "sha256": "543caee92c177a18d3e5881242006d9d8c2b3435ad828050f298ec1610324513",
+        "note": "PDF acquired, but this reading relied on revised HTML. No claim of sequential PDF or figure reading."
+      }
+    },
+    {
+      "id": "POI10",
+      "title": "2024 Report to Congress on China’s WTO Compliance",
+      "author_or_institution": "USTR",
+      "publication_date": "2025-01",
+      "url": "https://ustr.gov/sites/default/files/files/reports/2025/2024USTRReportCongressonChinaWTOCompliance.pdf",
+      "retrieved": "2026-09-08",
+      "read_date": "2026-09-08",
+      "source_type": "US official retrospective implementation assessment",
+      "read_scope": "Complete selected printed pp12,47–48,65–66 (PDF pp20,55–56,73–74), sequential within each selection. 86-page document not read in full.",
+      "full_read": false,
+      "full_read_definition": "Complete substantive text, including relevant notes/tables, if true; excludes navigation and related-content widgets. Figures and underlying data are separately qualified.",
+      "limitation": "US government assessment; recognition of completed changes and allegations of remaining barriers are both retained. Industry reports underlying some allegations not independently traced.",
+      "asset": {
+        "local_path": "/Users/jorsc/.codex/.chatgpt-projects/g-p-6a94dd290a988191911d85ae8fe94a6c/tmp/pdfs/trade-2018-2026/implementation/ustr-2024-compliance.pdf",
+        "version": "Retrieved public version",
+        "sha256": "1378879c6a161b823ae00e0b9453830f87d014360da82d2a9d43cb95c9b4ae3c",
+        "bytes": 1252946
+      },
+      "visual_checked_pages": {
+        "pdf": [
+          73
+        ],
+        "printed": [
+          65
+        ]
+      }
+    },
+    {
+      "id": "POI11",
+      "title": "Initiation of Section301 Investigation: China’s Implementation of Its Commitments Under the Phase One Agreement",
+      "author_or_institution": "USTR / Federal Register",
+      "publication_date": "2025-10-28; investigation initiated2025-10-24",
+      "url": "https://ustr.gov/sites/default/files/files/Issue_Areas/Enforcement/Section%20301/Published%20Phase%20One%20Initiation%20Notice.pdf",
+      "retrieved": "2026-09-08",
+      "read_date": "2026-09-08",
+      "source_type": "US official investigation initiation",
+      "read_scope": "Entire USTR notice, sections I–V, sequentially across PDF pp1–4 / Federal Register pp48733–48736. Unrelated preceding SBA text on PDF1 excluded. Re-read in single-column extraction order after layout extraction.",
+      "full_read": true,
+      "full_read_definition": "Complete substantive text, including relevant notes/tables, if true; excludes navigation and related-content widgets. Figures and underlying data are separately qualified.",
+      "limitation": "Initiation is not final finding. Statutory consultation request is not proof of a Chapter7 appeal. Purchase denominator not reconciled to PIIE. The notice misdates signature as December13,2019.",
+      "asset": {
+        "local_path": "/Users/jorsc/.codex/.chatgpt-projects/g-p-6a94dd290a988191911d85ae8fe94a6c/tmp/pdfs/trade-2018-2026/implementation/ustr-2025-initiation.pdf",
+        "version": "Retrieved public version",
+        "sha256": "1afe7b92eb670b58e92d9a32b25ae460a12fb5f601ca876ed5b2de11d1e6db8e",
+        "bytes": 248362
+      },
+      "visual_checked_pages": {
+        "pdf": [
+          3
+        ],
+        "printed": [
+          48735
+        ]
+      }
+    },
+    {
+      "id": "POI12",
+      "title": "Section301 Public Hearing: China’s Implementation of Commitments Under the Phase One Agreement",
+      "author_or_institution": "Section301 Committee; testimony of Sam Crowell, Josh Gackle, Geoff Cooper and others",
+      "publication_date": "2025-12-16",
+      "url": "https://ustr.gov/sites/default/files/files/Issue_Areas/Enforcement/Section%20301/Hearing%20transcript%20full%20without%20index.pdf",
+      "retrieved": "2026-09-08",
+      "read_date": "2026-09-08",
+      "source_type": "Official transcript containing stakeholder testimony",
+      "read_scope": "Sequentially read printed/PDF pp1–42 of100. Main analysis: complete opening and first agriculture panel pp1–35, including questions. Second-panel beginning pp36–42 read but unused; remainder not read.",
+      "full_read": false,
+      "full_read_definition": "Complete substantive text, including relevant notes/tables, if true; excludes navigation and related-content widgets. Figures and underlying data are separately qualified.",
+      "limitation": "Transcript proves statements were made, not underlying misconduct. Witness preferences differ; average review-time promises are not per-application deadlines. Do not turn stated vulnerability into documented theft.",
+      "asset": {
+        "local_path": "/Users/jorsc/.codex/.chatgpt-projects/g-p-6a94dd290a988191911d85ae8fe94a6c/tmp/pdfs/trade-2018-2026/implementation/ustr-2025-hearing.pdf",
+        "version": "Retrieved public version",
+        "sha256": "1f01915b1bcfc92b6dc086e36a62d92c5cd5187d2df08ff3ed560ae044008081",
+        "bytes": 523413
+      },
+      "visual_checked_pages": {
+        "pdf": [
+          18
+        ],
+        "printed": [
+          18
+        ]
+      }
+    },
+    {
+      "id": "POI13",
+      "title": "Fact Sheet: President Donald J. Trump Strikes Deal on Economic and Trade Relations with China",
+      "author_or_institution": "White House",
+      "publication_date": "2025-11-01",
+      "url": "https://www.whitehouse.gov/fact-sheets/2025/11/fact-sheet-president-donald-j-trump-strikes-deal-on-economic-and-trade-relations-with-china/",
+      "retrieved": "2026-09-08",
+      "read_date": "2026-09-08",
+      "source_type": "US official announcement",
+      "read_scope": "Complete substantive fact sheet, all Chinese and American action bullets and final Asia-trip paragraphs, sequentially.",
+      "full_read": true,
+      "full_read_definition": "Complete substantive text, including relevant notes/tables, if true; excludes navigation and related-content widgets. Figures and underlying data are separately qualified.",
+      "limitation": "One party’s announcement, not joint signed instrument or shipment record. Maritime Section301 suspension is distinct from Phase One investigation.",
+      "asset": {
+        "local_path": "/Users/jorsc/.codex/.chatgpt-projects/g-p-6a94dd290a988191911d85ae8fe94a6c/tmp/pdfs/trade-2018-2026/implementation/whitehouse-2025-11-01.html",
+        "version": "Retrieved public version",
+        "sha256": "8e7aaeebc79b54f39c98d8c4933e6650632f44f1ee9741bdea59e149699b6334",
+        "bytes": 276573
+      }
+    },
+    {
+      "id": "POI14",
+      "title": "商务部新闻发言人就美国贸易代表格里尔针对中国履行中美第一阶段经贸协议情况301调查相关言论答记者问",
+      "author_or_institution": "MOFCOM",
+      "publication_date": "2026-02-25",
+      "url": "https://www.mofcom.gov.cn/xwfb/xwfyrth/art/2026/art_c24476d86cec4869b95082708db09a91.html",
+      "retrieved": "2026-09-08",
+      "read_date": "2026-09-08",
+      "source_type": "Chinese official contemporaneous response",
+      "read_scope": "Entire Chinese question and answer, sequentially; reread for assertions about2025 rounds and remedies.",
+      "full_read": true,
+      "full_read_definition": "Complete substantive text, including relevant notes/tables, if true; excludes navigation and related-content widgets. Figures and underlying data are separately qualified.",
+      "limitation": "Fulfillment and counterparty-responsibility assertions remain attributed. No private consultation record or final US determination supplied.",
+      "asset": {
+        "local_path": "/Users/jorsc/.codex/.chatgpt-projects/g-p-6a94dd290a988191911d85ae8fe94a6c/tmp/pdfs/trade-2018-2026/implementation/mofcom-2026-02-25.html",
+        "version": "Retrieved public version",
+        "sha256": "8014b68c06f1730bd35e3319650fadad97efe64a3dd9c68d9727a2615d2315d3",
+        "bytes": 13760
+      }
+    },
+    {
+      "id": "POI15",
+      "title": "Fact Sheet: President Donald J. Trump Secures Historic Deals with China, Delivering for American Workers, Farmers, and Industry",
+      "author_or_institution": "White House",
+      "publication_date": "2026-05-17",
+      "url": "https://www.whitehouse.gov/fact-sheets/2026/05/fact-sheet-president-donald-j-trump-secures-historic-deals-with-china-delivering-for-american-workers-farmers-and-industry/",
+      "retrieved": "2026-09-08",
+      "read_date": "2026-09-08",
+      "source_type": "US official summit outcome announcement",
+      "read_scope": "Complete substantive fact sheet, sequentially.",
+      "full_read": true,
+      "full_read_definition": "Complete substantive text, including relevant notes/tables, if true; excludes navigation and related-content widgets. Figures and underlying data are separately qualified.",
+      "limitation": "Commitment description, not execution proof or jointly agreed full text. Agricultural amounts and timing must be distinguished from Chinese public framing.",
+      "asset": {
+        "local_path": "/Users/jorsc/.codex/.chatgpt-projects/g-p-6a94dd290a988191911d85ae8fe94a6c/tmp/pdfs/trade-2018-2026/implementation/whitehouse-2026-05-17.html",
+        "version": "Retrieved public version",
+        "sha256": "f5ae0b48156ba81a38f423920a5f7652244e14b1f5aea3d8a5c78c37fb21ea62",
+        "bytes": 274561
+      }
+    },
+    {
+      "id": "POI16",
+      "title": "商务部新闻发言人就中美经贸磋商初步成果答记者问",
+      "author_or_institution": "MOFCOM",
+      "publication_date": "2026-05-16",
+      "url": "https://www.mofcom.gov.cn/syxwfb/art/2026/art_0e8dac7e772e4339bf622ddc7717e5e1.html",
+      "retrieved": "2026-09-08",
+      "read_date": "2026-09-08",
+      "source_type": "Chinese official summit outcome response",
+      "read_scope": "Entire Chinese question and answer, sequentially, including all five enumerated preliminary outcomes and closing qualification.",
+      "full_read": true,
+      "full_read_definition": "Complete substantive text, including relevant notes/tables, if true; excludes navigation and related-content widgets. Figures and underlying data are separately qualified.",
+      "limitation": "Explicitly preliminary; detail negotiations ongoing in this account. Not a completed implementation schedule.",
+      "asset": {
+        "local_path": "/Users/jorsc/.codex/.chatgpt-projects/g-p-6a94dd290a988191911d85ae8fe94a6c/tmp/pdfs/trade-2018-2026/implementation/mofcom-2026-05-16.html",
+        "version": "Retrieved public version",
+        "sha256": "64b68e87ab1cd9b1c154600cb76b4c0099ccf556fc08df3d229af987ef3b7afb",
+        "bytes": 14720
+      }
+    },
+    {
+      "id": "POI17",
+      "title": "商务部美大司负责人解读中美经贸磋商初步成果",
+      "author_or_institution": "MOFCOM Department of American and Oceanian Affairs",
+      "publication_date": "2026-05-20",
+      "url": "https://www.mofcom.gov.cn/syxwfb/art/2026/art_3e89743a8d5d4a95bccdda685830afbd.html",
+      "retrieved": "2026-09-08",
+      "read_date": "2026-09-08",
+      "source_type": "Chinese official explanatory Q&A",
+      "read_scope": "Complete introduction and all eight Chinese question-and-answer sections, sequentially; web lines6–66.",
+      "full_read": true,
+      "full_read_definition": "Complete substantive text, including relevant notes/tables, if true; excludes navigation and related-content widgets. Figures and underlying data are separately qualified.",
+      "limitation": "Public interpretation. Claims about administrative implementation not independently verified. Unrelated legal-history assertion in sectionI not adopted as legal analysis.",
+      "asset": {
+        "local_path": "/Users/jorsc/.codex/.chatgpt-projects/g-p-6a94dd290a988191911d85ae8fe94a6c/tmp/pdfs/trade-2018-2026/implementation/mofcom-2026-05-20.html",
+        "version": "Retrieved public version",
+        "sha256": "afa09210eccc5a1cc6e9745cc226cb8f4661f26345944344fb3158be112ea0a6",
+        "bytes": 22763
+      }
+    },
+    {
+      "id": "POI18",
+      "title": "商务部召开例行新闻发布会（2026年7月2日）",
+      "author_or_institution": "MOFCOM / He Yadong",
+      "publication_date": "2026-07-02",
+      "url": "https://www.mofcom.gov.cn/xwfbzt/2026/swbzklxxwfbh2026n7y2r/",
+      "retrieved": "2026-09-08",
+      "read_date": "2026-09-08",
+      "source_type": "Chinese official press-conference transcript",
+      "read_scope": "Complete Reuters agriculture question and answer, Chinese original, plus official English translation of same exchange posted8July; adjoining EU question incidentally inspected. Rest of conference not read in full.",
+      "full_read": false,
+      "full_read_definition": "Complete substantive text, including relevant notes/tables, if true; excludes navigation and related-content widgets. Figures and underlying data are separately qualified.",
+      "limitation": "Reporter’s premise that$17bn includes soybeans is not endorsed in the answer; do not attribute it to government. Latest substantive source in this bounded memo, not a complete2026 endpoint audit.",
+      "asset": {
+        "local_path": "/Users/jorsc/.codex/.chatgpt-projects/g-p-6a94dd290a988191911d85ae8fe94a6c/tmp/pdfs/trade-2018-2026/implementation/mofcom-2026-07-02.html",
+        "version": "Retrieved public version",
+        "sha256": "6648521832f5121fbbb2f9db89cfd87581bb00870decec4c65dfd57e4404958c",
+        "bytes": 22835
+      },
+      "translation_crosscheck_url": "https://english.mofcom.gov.cn/News/PressConference/art/2026/art_eaf9411e9da344d69d9e6d30245d2531.html"
+    },
+    {
+      "id": "POI19",
+      "title": "Explainer—What do China’s new US farm purchases mean for global trade?",
+      "author_or_institution": "Ella Cao and Naveen Thukral / Reuters",
+      "publication_date": "2026-05-18",
+      "url": "https://www.investing.com/news/commodities-news/explainerwhat-do-chinas-new-us-farm-purchases-mean-for-global-trade-4694760",
+      "retrieved": "2026-09-08",
+      "read_date": "2026-09-08",
+      "source_type": "Independent contemporaneous reporting",
+      "read_scope": "Entire syndicated article body, byline, dateline, and all subsections through Non-food Agriculture Products, web lines60–116. Navigation, market widgets, images and comments excluded.",
+      "full_read": true,
+      "full_read_definition": "Complete substantive text, including relevant notes/tables, if true; excludes navigation and related-content widgets. Figures and underlying data are separately qualified.",
+      "limitation": "Read through web tool; local HTTP download returned403, so no local snapshot hash. Trader forecasts and reported registrations are not all independently verified against underlying records."
+    },
+    {
+      "id": "POI20",
+      "title": "Section301: China’s Implementation of Commitments Under the Phase One Agreement",
+      "author_or_institution": "USTR",
+      "publication_date": "Undated landing page; snapshot2026-09-08",
+      "url": "https://ustr.gov/trade-topics/enforcement/section-301-investigations/section-301-chinas-implementation-commitments-under-phase-one-agreement",
+      "retrieved": "2026-09-08",
+      "read_date": "2026-09-08",
+      "source_type": "US official investigation index",
+      "read_scope": "Complete short substantive landing page and listed notice/hearing links.",
+      "full_read": true,
+      "full_read_definition": "Complete substantive text, including relevant notes/tables, if true; excludes navigation and related-content widgets. Figures and underlying data are separately qualified.",
+      "limitation": "No final determination found on this index at retrieval; this is not an exhaustive docket or government-wide search, and cannot prove none exists elsewhere."
+    },
+    {
+      "id": "POI21",
+      "title": "USTR Seeks Public Comment on the Scope and Operation of a Mechanism to Promote Balanced and Reciprocal Trade with China",
+      "author_or_institution": "USTR",
+      "publication_date": "2026-06-02",
+      "url": "https://ustr.gov/about/policy-offices/press-office/press-releases/2026/june/ustr-seeks-public-comment-scope-and-operation-mechanism-promote-balanced-and-reciprocal-trade-china",
+      "retrieved": "2026-09-08",
+      "read_date": "2026-09-08",
+      "source_type": "US official solicitation of public input into institutional design",
+      "read_scope": "Complete substantive release, web lines16–23; navigation excluded.",
+      "full_read": true,
+      "limitation": "A request for input proves an opportunity, not its uptake or effect. The Board is intergovernmental. The notice does not establish finalized operation or Chinese domestic access; its historical advocacy is not adopted as independently established fact. No comment submitted or person contacted.",
+      "asset": {
+        "local_path": "/Users/jorsc/.codex/.chatgpt-projects/g-p-6a94dd290a988191911d85ae8fe94a6c/tmp/pdfs/trade-2018-2026/implementation/ustr-2026-06-02-board-release.html",
+        "version": "Retrieved public HTML version",
+        "sha256": "7e9f7b7037b89573d6187fefcae57702f9fd17fc70c4feb6d30289865c441083",
+        "bytes": 34065
+      }
+    },
+    {
+      "id": "POI22",
+      "title": "Request for Comments on the Scope and Operation of a Mechanism to Promote Reciprocal Managed Trade with China",
+      "author_or_institution": "USTR",
+      "publication_date": "2026-06-02 (linked notice version; Federal Register publication date not independently checked)",
+      "url": "https://ustr.gov/sites/default/files/files/Press/Releases/2026/June%202%20FRN%20FINAL%20for%20upload.pdf",
+      "retrieved": "2026-09-08",
+      "read_date": "2026-09-08",
+      "source_type": "US official solicitation of public input into institutional design",
+      "read_scope": "Complete eleven-page notice, sequentially, including background, all product/design questions, and submission instructions; unnumbered PDF pages1–11.",
+      "full_read": true,
+      "limitation": "A request for input proves an opportunity, not its uptake or effect. The Board is intergovernmental. The notice does not establish finalized operation or Chinese domestic access; its historical advocacy is not adopted as independently established fact. No comment submitted or person contacted.",
+      "asset": {
+        "local_path": "/Users/jorsc/.codex/.chatgpt-projects/g-p-6a94dd290a988191911d85ae8fe94a6c/tmp/pdfs/trade-2018-2026/implementation/ustr-2026-06-02-board-notice.pdf",
+        "version": "USTR-hosted PDF linked from June2 release; not typeset Federal Register issue",
+        "sha256": "0d24a2db8327c945a455616a6acd3a6830a52b2145f164e532bdad0dec1cc74f",
+        "bytes": 95864
+      },
+      "visual_checked_pages": {
+        "pdf": [
+          10
+        ],
+        "printed": "unnumbered"
+      },
+      "dockets": [
+        "USTR-2026-0430",
+        "USTR-2026-0431"
+      ]
+    }
+  ],
+  "acquired_but_not_used": [
+    {
+      "file": "/Users/jorsc/.codex/.chatgpt-projects/g-p-6a94dd290a988191911d85ae8fe94a6c/tmp/pdfs/trade-2018-2026/implementation/piie-2026-analysis.html",
+      "title": "China no longer buys US exports: Drawing the right lessons for the next Trump-Xi deal",
+      "author": "Chad P. Bown",
+      "publication_date": "2026-03-03",
+      "url": "https://www.piie.com/blogs/realtime-economics/2026/china-no-longer-buys-us-exports-drawing-right-lessons-next-trump-xi",
+      "sha256": "31b7ae997285ef47a92540e4c693a466b92edb8cb9c3ff710e890542407ba71f",
+      "read_scope": "Opening paragraphs only; not used for substantive memo conclusions.",
+      "full_read": false
+    }
+  ],
+  "unresolved_tests": [
+    "Reconcile2025notice purchase denominator and shortfall with revised2022PIIE series, coverage and data vintage.",
+    "Trace actual Chapter7 appeals without inferring their absence from confidentiality or missing public releases.",
+    "Compare successful and delayed administrative applications using primary regulator decision records and dated requests.",
+    "Acquire2026joint or implementing instruments; distinguish announcement, legal effect, order, customs entry and payment.",
+    "Check latest final-determination status separately before presenting an exhaustive2026 history.",
+    "Read Board-design submissions and subsequent rules to test participation and uptake; announcement of a consultation does not establish influence or equivalent Chinese access."
+  ]
+}

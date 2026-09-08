@@ -1,0 +1,350 @@
+[
+  {
+    "id": "CN-TRADE-JOINT20180519",
+    "title": "中美就经贸磋商发表联合声明",
+    "publisher": "US and Chinese negotiating delegations; Chinese text reproduced by PRC Consulate General in Chicago",
+    "url": "https://chicago.china-consulate.gov.cn/chn/zzxw/201805/t20180529_4611271.htm",
+    "document_date": "2018-05-19",
+    "event_date": "2018-05-17/2018-05-18 talks; statement 2018-05-19",
+    "hosting_page_date": "2018-05-21 23:00",
+    "access_date": "2026-09-08",
+    "read_date": "2026-09-08",
+    "source_type": "joint_public_statement",
+    "language": "zh",
+    "status": "acquired_and_read",
+    "full_read": true,
+    "read_scope": {
+      "sequential_coverage": "All seven statement paragraphs plus introducing sentence; extracted text lines 7–14.",
+      "excluded": "Navigation; no substantive attachment supplied on this page."
+    },
+    "locators": {
+      "participants": "paragraph 1",
+      "purchases_and_future_detail": "paragraphs 2–4",
+      "law_revision": "paragraph 5",
+      "continued_communication": "paragraph 7"
+    },
+    "limitations": [
+      "Published joint wording establishes text, not all oral or unpublished understandings.",
+      "No explicit tariff-pause clause, numerical purchase schedule or deadline appears in this text. Absence does not disprove an oral undertaking.",
+      "Use visible posting date, not May 29 embedded in migrated URL."
+    ],
+    "provenance": "Official public publication or official-host reproduction; no private archive or new interview.",
+    "local_path": "/Users/jorsc/.codex/.chatgpt-projects/g-p-6a94dd290a988191911d85ae8fe94a6c/tmp/pdfs/trade-2018-2026/chinese/joint-statement-20180519.html",
+    "sha256": "90da5f56c96addda2e856e5226538feb8add54e294619266f80dfd3ce69f3158",
+    "bytes": 3309,
+    "extracted_text_path": "/Users/jorsc/.codex/.chatgpt-projects/g-p-6a94dd290a988191911d85ae8fe94a6c/tmp/pdfs/trade-2018-2026/chinese/joint-statement-20180519.txt"
+  },
+  {
+    "id": "CN-TRADE-LIU20180519",
+    "title": "习近平主席特使、国务院副总理刘鹤接受媒体采访表示 中美达成共识，不打贸易战",
+    "publisher": "Xinhua; reporters 于佳欣、朱东阳",
+    "url": "https://www.xinhuanet.com/politics/leaders/2018-05/20/c_1122857996.htm",
+    "document_date": "2018-05-20",
+    "event_date": "2018-05-19 morning, Washington",
+    "hosting_page_date": "2018-05-20 03:45:38",
+    "access_date": "2026-09-08",
+    "read_date": "2026-09-08",
+    "source_type": "contemporaneous_state_news_report_of_participant_public_remarks",
+    "language": "zh",
+    "status": "acquired_and_read",
+    "full_read": true,
+    "read_scope": {
+      "sequential_coverage": "Complete six-paragraph article, extracted text lines 61–66.",
+      "excluded": "Navigation and photograph itself; caption checked."
+    },
+    "locators": {
+      "no_war_tariff_pause_claim": "paragraph 1",
+      "market_competitiveness_and_global_imports": "paragraph 4",
+      "future_fluctuations": "paragraph 6"
+    },
+    "limitations": [
+      "Direct contemporary reporting of Liu’s public claims, not a verbatim complete Q&A and not a bilateral written tariff agreement.",
+      "Reporter mediation and state-publication selection; statements about both parties’ consensus need counterpart control."
+    ],
+    "provenance": "Official public publication or official-host reproduction; no private archive or new interview.",
+    "local_path": "/Users/jorsc/.codex/.chatgpt-projects/g-p-6a94dd290a988191911d85ae8fe94a6c/tmp/pdfs/trade-2018-2026/chinese/liu-20180519.html",
+    "sha256": "363022e228a3526648695c8c082449de3567f331a00ce1c4cff68a3ab3fad1e3",
+    "bytes": 15018,
+    "extracted_text_path": "/Users/jorsc/.codex/.chatgpt-projects/g-p-6a94dd290a988191911d85ae8fe94a6c/tmp/pdfs/trade-2018-2026/chinese/liu-20180519.txt",
+    "primary_trace": "Original Xinhua account behind contemporary reports of a tariff truce; compared directly with CN-TRADE-JOINT20180519."
+  },
+  {
+    "id": "CN-TRADE-STATEMENT20180603",
+    "title": "中方就中美经贸磋商发表声明",
+    "publisher": "Chinese delegation statement; Xinhua by 于佳欣, reproduced by MOFCOM Americas and Oceania Department",
+    "url": "https://mds.mofcom.gov.cn/tpxw/art/2018/art_06bf885645c94d8c95bc4e037fea2fca.html",
+    "document_date": "2018-06-03",
+    "event_date": "2018-06-02/2018-06-03 Beijing talks",
+    "hosting_page_date": "2018-06-08",
+    "access_date": "2026-09-08",
+    "read_date": "2026-09-08",
+    "source_type": "unilateral_public_negotiating_statement",
+    "language": "zh",
+    "status": "web_text_read_download_failed",
+    "full_read": true,
+    "read_scope": {
+      "sequential_coverage": "Complete three substantive paragraphs read in official MOFCOM page through web text; no local artifact.",
+      "excluded": "Photographs and page navigation."
+    },
+    "locators": {
+      "details_await_confirmation": "paragraph 1",
+      "domestic_imports_and_reform": "paragraph 2",
+      "no_trade_war_condition_and_non_effectiveness": "paragraph 3"
+    },
+    "limitations": [
+      "Unilateral public condition, not a jointly authenticated package or final schedules.",
+      "Statement distinguishes progress from details needing final confirmation.",
+      "Direct HTTPS preservation failed with TLS EOF; web text was fully readable."
+    ],
+    "provenance": "Official public publication or official-host reproduction; no private archive or new interview.",
+    "local_path": null,
+    "sha256": null,
+    "bytes": null,
+    "extracted_text_path": null,
+    "acquisition_error": "<urlopen error [SSL: UNEXPECTED_EOF_WHILE_READING] EOF occurred in violation of protocol (_ssl.c:1010)>",
+    "primary_trace": "Original public condition behind reporting that US tariffs would invalidate negotiating outcomes; read from official-host reproduction."
+  },
+  {
+    "id": "CN-TRADE-WP2018",
+    "title": "关于中美经贸摩擦的事实与中方立场",
+    "publisher": "State Council Information Office; official Liaison Office in Hong Kong reproduction",
+    "url": "https://www.locpg.gov.cn/jsdt/2018-09/26/c_129961268.htm",
+    "document_date": "2018-09-24",
+    "event_date": null,
+    "hosting_page_date": "2018-09-26",
+    "access_date": "2026-09-08",
+    "read_date": "2026-09-08",
+    "source_type": "official_white_paper",
+    "language": "zh",
+    "status": "acquired_and_read",
+    "full_read": false,
+    "read_scope": {
+      "sequential_coverage": [
+        "Preface: all body paragraphs, extracted lines 23–28.",
+        "Section IV 美国政府的贸易霸凌主义行为: all five subsections’ body text, extracted lines 144–175.",
+        "Section VI 中国的立场: all eight subsections’ body text, extracted lines 199–218.",
+        "Notes 53–75: all read, extracted lines 271–293."
+      ],
+      "excluded": "Other sections not systematically read; all images/figures/boxed graphics, including Box 7, excluded. Source is not claimed fully read.",
+      "scoped_body_sections_complete": true
+    },
+    "locators": {
+      "May_consensus_and_US_responsibility_claim": "IV(v), paragraph preceding Box 7",
+      "tariff_pressure_and_negotiations": "VI(i)",
+      "IP_reform": "VI(iv)",
+      "pace_and_opening": "VI(vi)",
+      "other_trade_relationships": "VI(vii)"
+    },
+    "limitations": [
+      "Public advocacy and official account of responsibility, not internal bargaining instructions.",
+      "Economic and legal claims and cited third-party works were not independently audited in this pass.",
+      "Images are not captured by the plain-text extraction and no claim relies on them."
+    ],
+    "provenance": "Official public publication or official-host reproduction; no private archive or new interview.",
+    "local_path": "/Users/jorsc/.codex/.chatgpt-projects/g-p-6a94dd290a988191911d85ae8fe94a6c/tmp/pdfs/trade-2018-2026/chinese/whitepaper-2018.html",
+    "sha256": "0fc13f7c457075b9907d45286acf507787ea84a5b13040ce2f2056834ef0282c",
+    "bytes": 125394,
+    "extracted_text_path": "/Users/jorsc/.codex/.chatgpt-projects/g-p-6a94dd290a988191911d85ae8fe94a6c/tmp/pdfs/trade-2018-2026/chinese/whitepaper-2018.txt"
+  },
+  {
+    "id": "CN-TRADE-WANG20181201",
+    "title": "王毅：中美停止相互加征新的关税",
+    "publisher": "PRC Ministry of Foreign Affairs",
+    "url": "https://www.mfa.gov.cn/wjbz_673089/zyhd_673091/201812/t20181202_7579186.shtml",
+    "document_date": "2018-12-02",
+    "event_date": "2018-12-01 evening, Argentina",
+    "hosting_page_date": "2018-12-02 13:05",
+    "access_date": "2026-09-08",
+    "read_date": "2026-09-08",
+    "source_type": "official_readout_of_participant_press_briefing",
+    "language": "zh",
+    "status": "acquired_and_read",
+    "full_read": true,
+    "read_scope": {
+      "sequential_coverage": "Both substantive paragraphs, extracted text lines 96–97; full article text.",
+      "excluded": "Navigation, attachments/related links; no substantive attachment listed."
+    },
+    "locators": {
+      "new_tariffs_purchases_and_further_agreement": "paragraph 1",
+      "relations_justification": "paragraph 2"
+    },
+    "limitations": [
+      "Brief Chinese ministerial account, not a complete summit record or jointly approved negotiating schedule.",
+      "This readout contains neither numerical purchase figures nor a 90-day deadline; their absence does not negate other records or private understandings."
+    ],
+    "provenance": "Official public publication or official-host reproduction; no private archive or new interview.",
+    "local_path": "/Users/jorsc/.codex/.chatgpt-projects/g-p-6a94dd290a988191911d85ae8fe94a6c/tmp/pdfs/trade-2018-2026/chinese/wang-20181201.html",
+    "sha256": "6905248118ee6fc5f2a7431ca45ae02e487ccd0ac7d7eac39ab246f134e45943",
+    "bytes": 59305,
+    "extracted_text_path": "/Users/jorsc/.codex/.chatgpt-projects/g-p-6a94dd290a988191911d85ae8fe94a6c/tmp/pdfs/trade-2018-2026/chinese/wang-20181201.txt"
+  },
+  {
+    "id": "CN-TRADE-LIU201905",
+    "title": "刘鹤在第十一轮中美经贸高级别磋商结束时表示 合作是正确选择 重大原则决不让步 坚决反对加征关税",
+    "publisher": "Xinhua; reporters 韩洁、高攀",
+    "url": "https://www.xinhuanet.com/politics/2019-05/11/c_1124481543.htm",
+    "document_date": "2019-05-11",
+    "event_date": "After May 9–10 talks; exact date of reported remarks not separately specified",
+    "hosting_page_date": "2019-05-11 19:05:25",
+    "access_date": "2026-09-08",
+    "read_date": "2026-09-08",
+    "source_type": "contemporaneous_state_news_report_of_participant_public_remarks",
+    "language": "zh",
+    "status": "acquired_and_read",
+    "full_read": true,
+    "read_scope": {
+      "sequential_coverage": "Complete four-paragraph article, extracted text lines 59–62.",
+      "excluded": "Navigation."
+    },
+    "locators": {
+      "three_core_concerns_and_Argentina_numbers_claim": "paragraph 3",
+      "continuing_talks_and_tariff_opposition": "paragraph 2",
+      "normal_negotiating_fluctuation_argument": "paragraph 3"
+    },
+    "limitations": [
+      "Article reports Liu, not a complete verbatim press event.",
+      "No Argentine numerical schedule or disputed spring draft is supplied.",
+      "Local filename liu-20190510 is shorthand and must not be used as proof of the remarks’ exact event date."
+    ],
+    "provenance": "Official public publication or official-host reproduction; no private archive or new interview.",
+    "local_path": "/Users/jorsc/.codex/.chatgpt-projects/g-p-6a94dd290a988191911d85ae8fe94a6c/tmp/pdfs/trade-2018-2026/chinese/liu-20190510.html",
+    "sha256": "00ea8d5aa3b335f9288296ac26e50f25c3f3d5bd9f9039c7bf65a2ca25c69359",
+    "bytes": 16848,
+    "extracted_text_path": "/Users/jorsc/.codex/.chatgpt-projects/g-p-6a94dd290a988191911d85ae8fe94a6c/tmp/pdfs/trade-2018-2026/chinese/liu-20190510.txt",
+    "primary_trace": "Original Xinhua text establishing Liu’s three public conditions; source of the Argentina numerical-consensus claim."
+  },
+  {
+    "id": "CN-TRADE-WP2019",
+    "title": "关于中美经贸磋商的中方立场",
+    "publisher": "State Council Information Office; official PRC Mission to ASEAN reproduction",
+    "url": "https://asean.china-mission.gov.cn/chn/lmbf/zgsy/201906/t20190604_8875502.htm",
+    "document_date": "2019-06-02",
+    "event_date": null,
+    "hosting_page_date": "2019-06-04 16:00",
+    "access_date": "2026-09-08",
+    "read_date": "2026-09-08",
+    "source_type": "official_white_paper",
+    "language": "zh",
+    "status": "acquired_and_read",
+    "full_read": false,
+    "read_scope": {
+      "sequential_coverage": "All body text, contents, conclusion and all notes 1–13 read sequentially: extracted text lines 17–113. Sections II and III are completely read substantive sections.",
+      "excluded": "Two graphics embedded in Section I were not read; accordingly not marked complete full-work reading. No conclusions depend on graphics.",
+      "all_text_read": true,
+      "scoped_body_sections_complete": true
+    },
+    "locators": {
+      "three_US_reversals_narrative": "II(i)–(iii)",
+      "draft_revision_status_argument": "II(iv), first paragraph; extracted line 58",
+      "three_conditions": "II(iv), second paragraph; extracted line 59",
+      "sovereignty_and_equal_status": "III(i), second paragraph; extracted line 64",
+      "normal_compromise_and_change": "III(ii), first paragraph; extracted line 66",
+      "one_agreement_cannot_resolve_everything": "III(iii), first paragraph; extracted line 69"
+    },
+    "limitations": [
+      "Explicit official blame narrative, not independent evidence allocating responsibility.",
+      "Does not establish that China made no draft changes; defends legitimacy of revisions while bargaining remained open.",
+      "References are read as notes, not all independently retrieved.",
+      "Public text provides no internal authorization record or marked-up drafts."
+    ],
+    "provenance": "Official public publication or official-host reproduction; no private archive or new interview.",
+    "local_path": "/Users/jorsc/.codex/.chatgpt-projects/g-p-6a94dd290a988191911d85ae8fe94a6c/tmp/pdfs/trade-2018-2026/chinese/whitepaper-2019.html",
+    "sha256": "f1c8004a0179fe7468b6f17c18ec86cd7d7d828ef12bfc7fa37e177a1c531e50",
+    "bytes": 68566,
+    "extracted_text_path": "/Users/jorsc/.codex/.chatgpt-projects/g-p-6a94dd290a988191911d85ae8fe94a6c/tmp/pdfs/trade-2018-2026/chinese/whitepaper-2019.txt"
+  },
+  {
+    "id": "CN-TRADE-SCIO20191213",
+    "title": "王受文出席国新办发布会介绍中美经贸磋商有关进展情况",
+    "publisher": "State Council Information Office; complete published transcript reproduced by MOFCOM",
+    "url": "https://interview.mofcom.gov.cn/detail/201912/ff8080816e67e5c2016f0cb2a51c00b0.html",
+    "document_date": "2019-12-13/2019-12-14",
+    "event_date": "2019-12-13 23:00 through 2019-12-14 00:00:23, Beijing",
+    "hosting_page_date": "2019-12-13/2019-12-14",
+    "access_date": "2026-09-08",
+    "read_date": "2026-09-08",
+    "source_type": "official_published_press_conference_transcript",
+    "language": "zh",
+    "status": "acquired_and_read",
+    "full_read": true,
+    "read_scope": {
+      "sequential_coverage": "Entire published transcript, including all questions and answers and opening/closing, extracted text lines 26–105.",
+      "excluded": "Photographs and website navigation; live audio/video not checked."
+    },
+    "locators": {
+      "agreed_text_review_translation_signing": "Wang, 23:07:05; lines 31–35",
+      "partial_tariff_relief": "Liao, 23:16:23; lines 49–51",
+      "purchase_number_not_confirmed": "Ning, 23:16:45; line 53; Reuters question at 23:15:59 is not confirmation",
+      "agricultural_reciprocity_and_food_security": "Han, 23:29:00; lines 57–63",
+      "IP_and_own_reform_pace": "Wang, 23:38:27; lines 72–75",
+      "text_and_tariff_arrangements_distinguished": "Liao, 23:42:19; line 79",
+      "phase_two_timing_and_implementation": "Liao, 23:48:11; lines 89–91",
+      "unanswered_detailed_tariff_schedule_question": "Phoenix question 23:55:39; Zheng answer 23:57:50"
+    },
+    "limitations": [
+      "Public announcement of text agreement precedes completion of review and signing.",
+      "Questions contain unconfirmed figures and descriptions of US statements; do not code them as Chinese confirmation.",
+      "Published transcript contains apparent typo 终端解决; use signed agreement for authoritative chapter wording.",
+      "Official claims of WTO compatibility, market effects and counterpart commitments require separate checks."
+    ],
+    "provenance": "Official public publication or official-host reproduction; no private archive or new interview.",
+    "local_path": "/Users/jorsc/.codex/.chatgpt-projects/g-p-6a94dd290a988191911d85ae8fe94a6c/tmp/pdfs/trade-2018-2026/chinese/conference-20191213.html",
+    "sha256": "7b4ee54504a139221fffa9b46e467cb2197042a4221a4b992a53a17cf0809192",
+    "bytes": 33738,
+    "extracted_text_path": "/Users/jorsc/.codex/.chatgpt-projects/g-p-6a94dd290a988191911d85ae8fe94a6c/tmp/pdfs/trade-2018-2026/chinese/conference-20191213.txt"
+  },
+  {
+    "id": "CN-TRADE-LIU20200115",
+    "title": "坚持平等和相互尊重原则 解决双方关切 实现互利共赢——刘鹤就中美签署第一阶段经贸协议答记者问",
+    "publisher": "Xinhua; reporters 杨士龙、兴越、许缘",
+    "url": "https://www.xinhuanet.com/politics/leaders/2020-01/16/c_1125469423.htm",
+    "document_date": "2020-01-16",
+    "event_date": "2020-01-15 after signature, Washington",
+    "hosting_page_date": "2020-01-16 12:55:50",
+    "access_date": "2026-09-08",
+    "read_date": "2026-09-08",
+    "source_type": "published_participant_briefing_transcript",
+    "language": "zh",
+    "status": "acquired_and_read",
+    "full_read": true,
+    "read_scope": {
+      "sequential_coverage": "Complete published introduction, Liu’s opening remarks, and four Q&As, extracted lines 61–76.",
+      "excluded": "Photograph and navigation; linked news articles not treated as read."
+    },
+    "locators": {
+      "WTO_market_compatibility_claim": "opening paragraph; line 62",
+      "partial_tariff_removal": "answer to question 1; line 67",
+      "political_economic_justification": "answer to question 2; line 69",
+      "reform_and_Party_socialist_system": "answer to question 4; lines 74–76"
+    },
+    "limitations": [
+      "Xinhua labels this a transcript, but the event was a briefing to selected Chinese media; publication completeness does not establish unedited access to all discussions.",
+      "Official interpretation of agreement and reform plans, not evidence of implementation or internal reasons for accepting terms."
+    ],
+    "provenance": "Official public publication or official-host reproduction; no private archive or new interview.",
+    "local_path": "/Users/jorsc/.codex/.chatgpt-projects/g-p-6a94dd290a988191911d85ae8fe94a6c/tmp/pdfs/trade-2018-2026/chinese/liu-20200115.html",
+    "sha256": "9d2494016494d00e183ff35ad1f4516da9c869f69b8fab8ce6c682937132176c",
+    "bytes": 24145,
+    "extracted_text_path": "/Users/jorsc/.codex/.chatgpt-projects/g-p-6a94dd290a988191911d85ae8fe94a6c/tmp/pdfs/trade-2018-2026/chinese/liu-20200115.txt"
+  },
+  {
+    "id": "CN-TRADE-LEAD20191107",
+    "title": "商务部召开例行新闻发布会（2019年11月7日） [title identified in references; original not recovered]",
+    "publisher": "MOFCOM",
+    "url": "https://www.mofcom.gov.cn/xwfbh/20191107.shtml",
+    "document_date": "2019-11-07",
+    "access_date": "2026-09-08",
+    "read_date": null,
+    "source_type": "official_press_conference_lead",
+    "status": "original_unavailable_cataloged_from_references",
+    "full_read": false,
+    "read_scope": "Original not read; derivative search results mention phased proportional tariff relief. Not used as evidence in the memo.",
+    "local_path": null,
+    "sha256": null,
+    "acquisition_error": "HTTP Error 404: Not Found",
+    "limitations": [
+      "Primary URL returned 404; no date-specific substantive claims based on secondary reproductions were promoted into this primary reconstruction."
+    ],
+    "next_step": "Find preserved official transcript or authenticated contemporary recording; compare its reported phased relief language with December 13."
+  }
+]

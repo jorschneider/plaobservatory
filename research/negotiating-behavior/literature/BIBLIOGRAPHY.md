@@ -72,7 +72,7 @@ The current candidate registers contain **37 works**, adding Wei and Summers’ 
 
 - 屠新泉、石晓婧，2021，《重振WTO谈判功能的诸边协议路径探析》，《浙江大学学报（人文社会科学版）》51(5):211–226。 [Citation/source](https://doi.org/10.3785/j.issn.1008-942X.CN33-6000/C.2021.01.154). **Public route identified.** [Access route](https://ciwto.uibe.edu.cn/docs/2025-06/d355aacc923447b0a67bf3f077c07583.pdf). Type: scholarly journal article.
 
-- Tian, George Yijun, and Carrie Shu Shang. 2026. “A Co-regulatory Approach to Bilateral Trade: Assessing and Enhancing Enforceability of U.S.–China Phase One Agreement in the Trump 2.0 Era.” Journal of International Economic Law 29(2): 264–291. [Citation/source](https://doi.org/10.1093/jiel/jgag019). **Public route identified.** [Access route](https://academic.oup.com/jiel/article/29/2/264/8726689). Type: scholarly journal article; primarily legal/institutional analysis.
+- Tian, George Yijun, and Carrie Shu Shang. 2026. “A Co-regulatory Approach to Bilateral Trade: Assessing and Enhancing Enforceability of U.S.–China Phase One Agreement in the Trump 2.0 Era.” Journal of International Economic Law 29(2): 264–291. [Citation/source](https://doi.org/10.1093/jiel/jgag019). **Complete publisher HTML, 147 notes and four figures read 8 September 2026.** [Critical memo](readings/phase-one-enforceability.md). Type: scholarly journal article; primarily legal/institutional analysis.
 
 ## Security and major-power comparisons
 

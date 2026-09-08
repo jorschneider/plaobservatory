@@ -1,0 +1,352 @@
+{
+  "case": "U.S. bargaining sequence, 2018–2020",
+  "as_of": "2026-09-08",
+  "scope": "Public bargaining sequence through signing; final agreement design and implementation are separate workstreams.",
+  "reading_summary": {
+    "complete_primary_items": 11,
+    "complete_reported_versions": 3,
+    "partial_primary_items": 1,
+    "note": "Fourteen complete substantive items/versions, plus selected portions of the signing transcript. A prepared opening statement is not the entire hearing; the complete WITA republication is not a claim to have read the full publisher version."
+  },
+  "source_independence": "White House and USTR items document a common government’s actions and representations. Reuters syndications and WITA’s WSJ republication each count as one underlying reporting chain. Multiple briefed sources do not establish multiple independent inspections of the May draft.",
+  "book_claim_links": [
+    "S-P12",
+    "S-P23",
+    "S-P24",
+    "S-C18",
+    "S-C01",
+    "F13"
+  ],
+  "sources": [
+    {
+      "id": "TUS01",
+      "title": "Joint Statement of the United States and China Regarding Trade Consultations",
+      "author": "United States and China; published by White House",
+      "publication_date": "2018-05-19",
+      "source_type": "joint primary statement",
+      "url": "https://trumpwhitehouse.archives.gov/briefings-statements/joint-statement-united-states-china-regarding-trade-consultations/",
+      "retrieved_on": "2026-09-08",
+      "read_on": "2026-09-08",
+      "full_read": true,
+      "coverage": "Entire substantive statement, from delegation identification through continued high-level engagement.",
+      "asset": {
+        "local_path": "/Users/jorsc/.codex/.chatgpt-projects/g-p-6a94dd290a988191911d85ae8fe94a6c/tmp/pdfs/trade-2018-2026/us/2018-05-19-joint.html",
+        "sha256": "35f2129c1f61be2b3d78619da07f7419cef268c660ed2889339bcb24479311d1",
+        "bytes": 66093
+      },
+      "finding": "Joint framework, purchases, IP/legal changes and further work; no purchase total or tariff-pause clause.",
+      "caveat": "Joint text establishes the published understanding, not every oral assurance or private mandate."
+    },
+    {
+      "id": "TUS02",
+      "title": "U.S., China putting trade war on hold, Treasury’s Mnuchin says",
+      "author": "Lindsay Dunsmuir and Howard Schneider / Reuters",
+      "publication_date": "2018-05-20",
+      "source_type": "original reporting, syndicated copy",
+      "url": "https://www.business-standard.com/article/reuters/u-s-china-putting-trade-war-on-hold-treasury-s-mnuchin-says-118052000509_1.html",
+      "retrieved_on": "2026-09-08",
+      "read_on": "2026-09-08",
+      "full_read": true,
+      "coverage": "Complete Business Standard Reuters body, including final reporting/writing/editing credits. Host first publication May 21, 2018, 09:32 IST; updated 09:50.",
+      "asset": {
+        "local_path": "/Users/jorsc/.codex/.chatgpt-projects/g-p-6a94dd290a988191911d85ae8fe94a6c/tmp/pdfs/trade-2018-2026/us/2018-05-20-reuters-bs.html",
+        "sha256": "c49df1c6d21217531ae07bc214abc6d28fa17f499f8c35e3135732c0c5397811",
+        "bytes": 196243
+      },
+      "finding": "Mnuchin announced a pause; Kudlow and Lighthizer qualified the status and priorities.",
+      "caveat": "Interview reporting establishes attributed public positions, not a signed tariff-pause instrument; syndicated copy is not independent corroboration.",
+      "version_read": "Business Standard licensed Reuters feed, May 21 host version; underlying story reports May 20 events."
+    },
+    {
+      "id": "TUS03",
+      "title": "Statement on Steps to Protect Domestic Technology and Intellectual Property from China’s Discriminatory and Burdensome Trade Practices",
+      "author": "White House",
+      "publication_date": "2018-05-29",
+      "source_type": "unilateral primary statement",
+      "url": "https://trumpwhitehouse.archives.gov/briefings-statements/statement-steps-protect-domestic-technology-intellectual-property-chinas-discriminatory-burdensome-trade-practices/",
+      "retrieved_on": "2026-09-08",
+      "read_on": "2026-09-08",
+      "full_read": true,
+      "coverage": "Entire substantive statement.",
+      "asset": {
+        "local_path": "/Users/jorsc/.codex/.chatgpt-projects/g-p-6a94dd290a988191911d85ae8fe94a6c/tmp/pdfs/trade-2018-2026/us/2018-05-29-steps.html",
+        "sha256": "00130bc56a77bfd25b1815874436058564e32154a1279cdbd2ca7fcffe8c5cb5",
+        "bytes": 67446
+      },
+      "finding": "Announces tariff list and other measures while negotiations continue.",
+      "caveat": "Evidence of U.S. policy announcement; allegations about Chinese practices require separate evaluation."
+    },
+    {
+      "id": "TUS04",
+      "title": "Statement by the President Regarding Trade with China",
+      "author": "Donald Trump / White House",
+      "publication_date": "2018-06-15",
+      "source_type": "unilateral primary statement",
+      "url": "https://trumpwhitehouse.archives.gov/briefings-statements/statement-president-regarding-trade-china/",
+      "retrieved_on": "2026-09-08",
+      "read_on": "2026-09-08",
+      "full_read": true,
+      "coverage": "Entire substantive statement.",
+      "asset": {
+        "local_path": "/Users/jorsc/.codex/.chatgpt-projects/g-p-6a94dd290a988191911d85ae8fe94a6c/tmp/pdfs/trade-2018-2026/us/2018-06-15-president.html",
+        "sha256": "807db119ea73e020385038b7d0e591903983f87d3e153334331320146f63c49c",
+        "bytes": 65955
+      },
+      "finding": "Confirms 25 percent tariffs on $50 billion and threatens additional tariffs if China retaliates.",
+      "caveat": "Confirms announced action and conditional threat, not neutral attribution of responsibility."
+    },
+    {
+      "id": "TUS05",
+      "title": "Statement from the Press Secretary Regarding the President’s Working Dinner with China",
+      "author": "White House",
+      "publication_date": "2018-12-01",
+      "source_type": "unilateral primary readout",
+      "url": "https://trumpwhitehouse.archives.gov/briefings-statements/statement-press-secretary-regarding-presidents-working-dinner-china/",
+      "retrieved_on": "2026-09-08",
+      "read_on": "2026-09-08",
+      "full_read": true,
+      "coverage": "Entire substantive dinner readout, including its non-trade closing items.",
+      "asset": {
+        "local_path": "/Users/jorsc/.codex/.chatgpt-projects/g-p-6a94dd290a988191911d85ae8fe94a6c/tmp/pdfs/trade-2018-2026/us/2018-12-01-dinner.html",
+        "sha256": "24b3b41383f7ae3e3092d35b79cb6103f63ac495585ee23a80e53a97bbe07ac3",
+        "bytes": 66542
+      },
+      "finding": "Defers tariff increase for structural talks; describes purchase amount as not yet agreed.",
+      "caveat": "U.S. account of a leaders’ meeting, not a jointly signed concession schedule."
+    },
+    {
+      "id": "TUS06",
+      "title": "Opening Statement of USTR Robert Lighthizer to the House Ways and Means Committee",
+      "author": "Robert Lighthizer / USTR",
+      "publication_date": "2019-02-27",
+      "source_type": "primary prepared testimony",
+      "url": "https://ustr.gov/about-us/policy-offices/press-office/press-releases/2019/february/opening-statement-ustr-robert",
+      "retrieved_on": "2026-09-08",
+      "read_on": "2026-09-08",
+      "full_read": true,
+      "coverage": "Complete opening statement as published by USTR; this is not the complete hearing or question-and-answer record.",
+      "asset": {
+        "local_path": "/Users/jorsc/.codex/.chatgpt-projects/g-p-6a94dd290a988191911d85ae8fe94a6c/tmp/pdfs/trade-2018-2026/us/2019-02-27-lighthizer.html",
+        "sha256": "99daaf8c9afa852aa7227f95c289a39ffc8d86f45a690382bd80b4e02f0cbd65",
+        "bytes": 26282
+      },
+      "finding": "Enforcement and structural issues remain outstanding; an agreement is expressly conditional.",
+      "caveat": "Prepared public testimony reveals declared priorities, not the state of every draft paragraph."
+    },
+    {
+      "id": "TUS07",
+      "title": "Statement from the Press Secretary Regarding the Administration’s Trade Talks with China",
+      "author": "White House",
+      "publication_date": "2019-04-23",
+      "source_type": "unilateral primary statement",
+      "url": "https://trumpwhitehouse.archives.gov/briefings-statements/statement-press-secretary-regarding-administrations-trade-talks-china-2/",
+      "retrieved_on": "2026-09-08",
+      "read_on": "2026-09-08",
+      "full_read": true,
+      "coverage": "Entire substantive announcement.",
+      "asset": {
+        "local_path": "/Users/jorsc/.codex/.chatgpt-projects/g-p-6a94dd290a988191911d85ae8fe94a6c/tmp/pdfs/trade-2018-2026/us/2019-04-23-whitehouse.html",
+        "sha256": "e66c44ccd1237b83923bb8425c24141c8fc27fc58cbdde70cf775314fd3e3354",
+        "bytes": 65125
+      },
+      "finding": "Trump directs Lighthizer and Mnuchin to negotiate with Liu; announcement lists continuing subjects.",
+      "caveat": "Negotiator designation and authority to conduct talks are not evidence of approval of a final draft."
+    },
+    {
+      "id": "TUS08",
+      "title": "EXCLUSIVE-China backtracked on nearly all aspects of U.S. trade deal-sources",
+      "author": "David Lawder, Jeff Mason and Michael Martina / Reuters",
+      "publication_date": "2019-05-08",
+      "source_type": "original reporting, syndicated copy",
+      "url": "https://www.yahoo.com/news/exclusive-china-backtracked-nearly-aspects-084554623.html",
+      "retrieved_on": "2026-09-08",
+      "read_on": "2026-09-08",
+      "full_read": true,
+      "coverage": "Complete Yahoo Reuters article, through additional-reporting and editing credits. The Reuters publisher page itself was not read successfully.",
+      "asset": {
+        "local_path": "/Users/jorsc/.codex/.chatgpt-projects/g-p-6a94dd290a988191911d85ae8fe94a6c/tmp/pdfs/trade-2018-2026/us/2019-05-08-reuters-yahoo.html",
+        "sha256": "3decc81f4530811448d949311b577108ccd0a852ddd500da91b460ebe7adfd51",
+        "bytes": 551136
+      },
+      "finding": "Reports draft revisions through six described sources; includes a Chinese objection to the backtracking characterization.",
+      "caveat": "Reuters does not say it obtained the draft. Source independence, version history and final authorization remain unverified.",
+      "version_read": "Yahoo syndicated Reuters copy, updated May 8, 2019, 08:45 UTC.",
+      "original_url": "https://www.reuters.com/article/us-usa-trade-china-backtracking-exclusive/exclusive-china-backtracked-on-almost-all-aspects-of-u-s-trade-deal-sources-idUSKCN1SE0WJ",
+      "draft_provenance": {
+        "draft_obtained_by_project": false,
+        "article_claims_reporter_obtained_draft": false,
+        "reported_source_description": "Three U.S. government sources and three private-sector sources briefed on the talks.",
+        "reported_transmission": "May 3, 2019; source-attributed, not an inspected cable.",
+        "unverified": [
+          "Authenticated before-and-after text",
+          "Each source’s direct access and independence",
+          "Liu’s paragraph-specific authorization",
+          "Personal Xi instruction or veto",
+          "Which disputed terms had final, reciprocal approval"
+        ]
+      }
+    },
+    {
+      "id": "TUS09",
+      "title": "Notice of Modification of Section 301 Action: China’s Acts, Policies, and Practices Related to Technology Transfer, Intellectual Property, and Innovation",
+      "author": "Office of the United States Trade Representative; Joseph Barloon, General Counsel",
+      "publication_date": "2019-05-09",
+      "source_type": "primary official legal instrument",
+      "url": "https://www.govinfo.gov/content/pkg/FR-2019-05-09/pdf/2019-09681.pdf",
+      "retrieved_on": "2026-09-08",
+      "read_on": "2026-09-08",
+      "full_read": true,
+      "coverage": "Complete USTR notice and annex, 84 FR 20459–20460; both PDF pages rendered and visually inspected in sequence. Adjacent unrelated notices excluded.",
+      "asset": {
+        "local_path": "/Users/jorsc/.codex/.chatgpt-projects/g-p-6a94dd290a988191911d85ae8fe94a6c/tmp/pdfs/trade-2018-2026/us/2019-05-09-fr.pdf",
+        "sha256": "6be64d943c2351f2ddb9db12f1b2a110156c53e5883cf38e50e6ec90f9ce41f7",
+        "bytes": 179821
+      },
+      "finding": "Records the official retreat accusation and presidential tariff direction; annex sets entry and export conditions.",
+      "caveat": "The notice attaches no disputed draft or commitments; official adoption of an allegation does not independently prove it.",
+      "document_id": "2019-09681; 84 FR 20459–20460",
+      "visual_checks": [
+        "2019-05-09-fr-page-1.png",
+        "2019-05-09-fr-page-2.png"
+      ]
+    },
+    {
+      "id": "TUS10",
+      "title": "Statement By U.S. Trade Representative Robert Lighthizer on Section 301 Action",
+      "author": "Robert Lighthizer / USTR",
+      "publication_date": "2019-05-10",
+      "source_type": "unilateral primary statement",
+      "url": "https://ustr.gov/about-us/policy-offices/press-office/press-releases/2019/may/statement-us-trade-representative",
+      "retrieved_on": "2026-09-08",
+      "read_on": "2026-09-08",
+      "full_read": true,
+      "coverage": "Complete short statement.",
+      "asset": {
+        "local_path": "/Users/jorsc/.codex/.chatgpt-projects/g-p-6a94dd290a988191911d85ae8fe94a6c/tmp/pdfs/trade-2018-2026/us/2019-05-10-ustr.html",
+        "sha256": "41e61a8b5d311cfed23ba073bbbeeeee07c742d3444839590ed1002bc0d40b4c",
+        "bytes": 21764
+      },
+      "finding": "Announces presidential direction to begin tariff action on approximately $300 billion of remaining imports.",
+      "caveat": "Beginning the administrative process is distinct from duties taking effect."
+    },
+    {
+      "id": "TUS11",
+      "title": "China Seeks to Narrow Trade Talks With U.S. in Bid to Break Deadlock",
+      "author": "Lingling Wei and Chao Deng in WITA republication; publisher page also credits Josh Zumbrun",
+      "publication_date": "2019-09-12",
+      "source_type": "original WSJ reporting, WITA republication",
+      "url": "https://www.wita.org/trade-news/china-seeks-to-narrow-trade-talks-with-u-s-in-bid-to-break-deadlock/",
+      "original_url": "https://www.wsj.com/articles/china-seeks-to-narrow-trade-talks-with-u-s-in-bid-to-break-deadlock-11568284169",
+      "retrieved_on": "2026-09-08",
+      "read_on": "2026-09-08",
+      "full_read": true,
+      "publisher_full_read": false,
+      "version_read": "Complete WITA republication, not established to be identical to the later publisher version.",
+      "coverage": "WITA body read sequentially through contributor line; original WSJ page checked for title/byline/opening paragraphs only.",
+      "asset": null,
+      "asset_note": "Read through public web tool; no original local copy saved.",
+      "finding": "Reports a Chinese proposal to separate trade and national-security tracks, attributed to people familiar with the plan.",
+      "caveat": "Anonymous-source account, not a mandate or draft; WITA is a transmission of WSJ reporting, not independent confirmation. Version/byline difference retained explicitly."
+    },
+    {
+      "id": "TUS12",
+      "title": "Remarks by President Trump and Vice Premier Liu He of the People’s Republic of China in a Meeting",
+      "author": "White House transcript; Trump, Liu, Mnuchin and Lighthizer",
+      "publication_date": "2019-10-11",
+      "source_type": "primary public exchange",
+      "url": "https://trumpwhitehouse.archives.gov/briefings-statements/remarks-president-trump-vice-premier-liu-peoples-republic-china-meeting/",
+      "retrieved_on": "2026-09-08",
+      "read_on": "2026-09-08",
+      "full_read": true,
+      "coverage": "Complete transcript body, read sequentially in web and local text.",
+      "asset": {
+        "local_path": "/Users/jorsc/.codex/.chatgpt-projects/g-p-6a94dd290a988191911d85ae8fe94a6c/tmp/pdfs/trade-2018-2026/us/2019-10-11-oval.html",
+        "sha256": "6a24c7622543b8787e9d9c52b7b6250969c6f340ecc9cd1c5670399cbb340ae3",
+        "bytes": 105258
+      },
+      "finding": "Public acceptance of phases; enforcement and written text remain unfinished; distinct decisions for October and December tariffs.",
+      "caveat": "Public transcript, not private negotiating minutes. Trump’s qualified retrospective comment does not resolve the May draft dispute."
+    },
+    {
+      "id": "TUS13",
+      "title": "United States and China Reach Phase One Trade Agreement",
+      "author": "USTR",
+      "publication_date": "2019-12-13",
+      "source_type": "unilateral primary announcement",
+      "url": "https://ustr.gov/about-us/policy-offices/press-office/press-releases/2019/december/united-states-and-china-reach",
+      "retrieved_on": "2026-09-08",
+      "read_on": "2026-09-08",
+      "full_read": true,
+      "coverage": "Complete substantive announcement.",
+      "asset": {
+        "local_path": "/Users/jorsc/.codex/.chatgpt-projects/g-p-6a94dd290a988191911d85ae8fe94a6c/tmp/pdfs/trade-2018-2026/us/2019-12-13-ustr.html",
+        "sha256": "b9d4c4155f72edd6a89402fe09f2ee30b64cacb831273dbed284d7c30ccea291",
+        "bytes": 24740
+      },
+      "finding": "Announces agreement subjects and retention of 25 percent and 7.5 percent tariff bands.",
+      "caveat": "Summary is not a substitute for the signed agreement, tariff instruments or implementation evidence."
+    },
+    {
+      "id": "TUS14",
+      "title": "Statement From USTR and UST Spokesperson on behalf of Ambassador Lighthizer and Secretary Mnuchin",
+      "author": "USTR and U.S. Treasury",
+      "publication_date": "2019-12-15",
+      "source_type": "primary denial of reporting",
+      "url": "https://ustr.gov/about-us/policy-offices/press-office/press-releases/2019/december/statement-ustr-and-ust",
+      "retrieved_on": "2026-09-08",
+      "read_on": "2026-09-08",
+      "full_read": true,
+      "coverage": "Complete substantive statement. The disputed WSJ article was not obtained or fully read in this pass.",
+      "asset": {
+        "local_path": "/Users/jorsc/.codex/.chatgpt-projects/g-p-6a94dd290a988191911d85ae8fe94a6c/tmp/pdfs/trade-2018-2026/us/2019-12-15-ustr-denial.html",
+        "sha256": "88dfeabfd0d65959944d4e8afe38173147a4f3257aa078090f2b60b6e4fca194",
+        "bytes": 24048
+      },
+      "finding": "Denies the reported offer to halve tariffs across approximately $360 billion of imports.",
+      "caveat": "Records an official denial, not a resolution of competing accounts about private offers."
+    },
+    {
+      "id": "TUS15",
+      "title": "Remarks by President Trump at Signing of the U.S.–China Phase One Trade Agreement",
+      "author": "White House transcript; Trump, Lighthizer, Liu and Cui",
+      "publication_date": "2020-01-15",
+      "source_type": "primary public signing exchange",
+      "url": "https://trumpwhitehouse.archives.gov/briefings-statements/remarks-president-trump-signing-u-s-china-phase-one-trade-agreement-2/",
+      "retrieved_on": "2026-09-08",
+      "read_on": "2026-09-08",
+      "full_read": false,
+      "coverage": "Selected substantive trade passages, officials’ remarks, Xi message read by Liu, Liu/Cui statements and signing record. Some ceremonial acknowledgments not fully read.",
+      "asset": {
+        "local_path": "/Users/jorsc/.codex/.chatgpt-projects/g-p-6a94dd290a988191911d85ae8fe94a6c/tmp/pdfs/trade-2018-2026/us/2020-01-15-signing.html",
+        "sha256": "d6a88c9aad52ee12311032f27c54f467c1c84371bb473956a4d35e96ef59cf3a",
+        "bytes": 130354
+      },
+      "finding": "Records signature, Xi’s public support and Trump’s explanation of retained tariffs as leverage.",
+      "caveat": "Partial transcript reading. Public support does not expose private mandates; oral tariff figures should be checked against authoritative instruments."
+    }
+  ],
+  "unresolved_leads": [
+    {
+      "item": "May 2019 draft and redline, with authority and transmission trail",
+      "status": "Not obtained; no authenticated draft inspected."
+    },
+    {
+      "item": "Full hearing question-and-answer record, February 27, 2019",
+      "status": "Not read; only USTR’s prepared opening statement used."
+    },
+    {
+      "item": "Full final WSJ version, September 12, 2019",
+      "status": "Publisher preview and complete WITA republication read; version differences unresolved."
+    },
+    {
+      "item": "December 2019 private tariff offers and disputed WSJ reporting",
+      "status": "Only official denial fully read; no alleged offer or reporter source material obtained."
+    }
+  ],
+  "unused_duplicate": {
+    "url": "https://www.foxbusiness.com/economy/china-backtracked-on-nearly-all-aspects-of-us-trade-deal-sources",
+    "local_path": "/Users/jorsc/.codex/.chatgpt-projects/g-p-6a94dd290a988191911d85ae8fe94a6c/tmp/pdfs/trade-2018-2026/us/2019-05-08-reuters-fox.html",
+    "sha256": "6e008a9022c46d61c8848799f8ba1d11cbded3340df43f4085047cfec3fe463c",
+    "status": "Downloaded duplicate of Reuters May 8 reporting; not independently counted or treated as a complete additional reading."
+  }
+}

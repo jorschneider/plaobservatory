@@ -394,8 +394,8 @@
     "verification_urls": [
       "https://academic.oup.com/jiel/article/29/2/264/8726689"
     ],
-    "read_status": "abstract_introduction_and_selected_sections",
-    "read_scope": "Publisher metadata, abstract, introduction, selected institutional-design discussion and access-license statement read. Full article, citations and factual chronology not audited.",
+    "read_status": "full_publisher_html_read_and_critically_evaluated",
+    "read_scope": "Complete publisher HTML, all 147 notes and 4 figures read 8 September 2026; primary checks and limits in readings/phase-one-enforceability-evidence.json.",
     "access": {
       "status": "lawful_publisher_open_access",
       "lawful_open_full_text_url": "https://academic.oup.com/jiel/article/29/2/264/8726689",
@@ -404,13 +404,20 @@
       "request_scope": null,
       "caveat": "Publisher specifies CC-BY-NC 4.0. Volume issue dated June 2026 while publication timestamp is July 8, 2026; both precede audit September 5, 2026."
     },
-    "evidence_method_verified": "Abstract/introduction describe a legal and regulatory analysis of technology-transfer and IP provisions, compliance incentives and stakeholder participation. No original interviews or private negotiating records verified.",
+    "evidence_method_verified": "Conceptual and normative legal/institutional analysis using published sources; no original interviews or private draft records verified.",
     "research_questions": [
       "How did Phase One institutionalize consultation, enforcement and renegotiation?",
       "When does apparent nonimplementation reflect incentives, competing policies or agreement design rather than bargaining culture?"
     ],
     "purpose_and_caveat": "A recent supplementary framework for implementation and enforcement, selected for 2020–2026 relevance. Lower priority than process-rich fieldwork: it is not a reconstruction of the 2018–2020 or 2025–2026 negotiating room, and recent dates do not substitute for documentary verification.",
     "recommended_reading": "Read after the Phase One agreement and implementation records; use its references to identify gaps, and verify contemporary claims independently.",
-    "verified_on": "2026-09-05"
+    "verified_on": "2026-09-08",
+    "previous_read_status": {
+      "as_of": "2026-09-05",
+      "read_status": "abstract_introduction_and_selected_sections",
+      "read_scope": "Publisher metadata, abstract, introduction, selected institutional-design discussion and access-license statement read. Full article, citations and factual chronology not audited."
+    },
+    "reading_memo": "readings/phase-one-enforceability.md",
+    "evidence_register": "readings/phase-one-enforceability-evidence.json"
   }
 ]

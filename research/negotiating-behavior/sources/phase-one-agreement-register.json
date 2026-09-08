@@ -1,0 +1,124 @@
+{
+  "audit_date": "2026-09-08",
+  "memo": "phase-one-agreement-audit.md",
+  "sources": [
+    {
+      "retrieved_on": "2026-09-08",
+      "read_on": "2026-09-08",
+      "document_date": "2020-01-15",
+      "source_type": "published_bilateral_agreement",
+      "full_read": false,
+      "id": "POA-EN",
+      "title": "Economic and Trade Agreement between the United States of America and the People’s Republic of China",
+      "language": "en",
+      "url": "https://ustr.gov/sites/default/files/files/agreements/phase%20one%20agreement/Economic_And_Trade_Agreement_Between_The_United_States_And_China_Text.pdf",
+      "artifact": {
+        "local_path": "/Users/jorsc/.codex/.chatgpt-projects/g-p-6a94dd290a988191911d85ae8fe94a6c/tmp/pdfs/trade-2018-2026/agreement/phase-one-en.pdf",
+        "sha256": "4f1225d3efc8092b9d0142b65b00f8ed94a7eed4316019a3342275957f77036e",
+        "bytes": 6240494
+      },
+      "physical_pdf_pages": 91,
+      "read_scope": [
+        "Preamble PDF 1",
+        "Chapter 1 PDF 2–19, all articles and notes",
+        "Chapter 2 PDF 20–22",
+        "Chapter 4 PDF 46–49",
+        "Chapter 5 PDF 50–52",
+        "Chapter 6 body PDF 53–54; Annex 6.1 summary PDF 55 including notes",
+        "Attachment opening PDF 56 and final services page PDF 75",
+        "Chapters 7–8 and Annex 7-A PDF 76–84",
+        "Han Jun outgoing side letter PDF 85 visually read; final appended product page PDF 91 incidentally inspected"
+      ],
+      "excluded": [
+        "Chapter 3 PDF 23–45",
+        "Intermediate attachment commodity tables PDF 57–74",
+        "Appended scanned side letters and product schedules PDF 86–90; no complete bilateral side-letter chain verified"
+      ],
+      "visual_checks": [
+        54,
+        55,
+        56,
+        75,
+        78,
+        80,
+        84,
+        85,
+        91
+      ],
+      "limitations": [
+        "Published final terms do not identify authorship, draft changes or private approval history.",
+        "Image-only appendices are not blank pages.",
+        "No implementation findings inferred from formal obligations."
+      ]
+    },
+    {
+      "retrieved_on": "2026-09-08",
+      "read_on": "2026-09-08",
+      "document_date": "2020-01-15",
+      "source_type": "published_bilateral_agreement",
+      "full_read": false,
+      "id": "POA-CN",
+      "title": "中华人民共和国政府和美利坚合众国政府经济贸易协议",
+      "language": "zh",
+      "url": "https://www.gov.cn/guowuyuan/2020-01/16/5469650/files/0637e57d99ea4f968454206af8782dd7.pdf",
+      "artifact": {
+        "local_path": "/Users/jorsc/.codex/.chatgpt-projects/g-p-6a94dd290a988191911d85ae8fe94a6c/tmp/pdfs/trade-2018-2026/agreement/phase-one-cn.pdf",
+        "sha256": "af9be08570d6ca1be74d40eb918b2e9e554091d610f206b76fabd07d81846265",
+        "bytes": 1575882
+      },
+      "physical_pdf_pages": 88,
+      "read_scope": [
+        "Articles 1.34–1.36 PDF 18–19; adjacent 1.31–1.33 incidentally read",
+        "Chapter 6 body and summary appendix PDF 74–79",
+        "Chapter 7 and working procedures PDF 80–86",
+        "Chapter 8 PDF 87–88"
+      ],
+      "excluded": [
+        "Remaining earlier chapters",
+        "No full commodity attachment supplied in this edition; English-only authenticity qualification appears on PDF 79"
+      ],
+      "visual_checks": [
+        75,
+        79,
+        83,
+        86
+      ],
+      "limitations": [
+        "Bilingual checks restricted to listed provisions.",
+        "Subsequent mutually agreed Chinese attachment translation not acquired."
+      ]
+    },
+    {
+      "id": "POA-FIL",
+      "title": "Foreign Investment Law of the People’s Republic of China",
+      "url": "https://en.ndrc.gov.cn/policies/202105/t20210527_1281403.html",
+      "source_type": "official_English_law_text",
+      "full_read": false,
+      "read_scope": "Introductory adoption/effectiveness dates and Articles 1–38 displayed/read; analytical check Article 22. Final Articles 39–42 not read in this pass.",
+      "finding": "Adopted 15 March 2019; effective 1 January 2020, before 15 January 2020 agreement signature.",
+      "read_on": "2026-09-08"
+    },
+    {
+      "id": "POA-DS542",
+      "title": "DS542: China — Certain Measures Concerning the Protection of Intellectual Property Rights",
+      "url": "https://www.wto.org/english/tratop_e/dispu_e/cases_e/ds542_e.htm",
+      "source_type": "WTO_Secretariat_case_history",
+      "full_read": true,
+      "read_scope": "Complete substantive procedural chronology in public HTML; linked submissions/panel documents not read.",
+      "finding": "Consultations, panel establishment, agreed suspensions and lapse; no merits judgment.",
+      "read_on": "2026-09-08"
+    },
+    {
+      "id": "POA-DS543",
+      "title": "DS543: United States — Tariff Measures on Certain Goods from China",
+      "url": "https://www.wto.org/english/tratop_e/dispu_e/cases_e/ds543_e.htm",
+      "source_type": "WTO_Secretariat_case_history",
+      "full_read": true,
+      "read_scope": "Complete substantive HTML case history including panel-finding summary and26October2020 appeal. Full panel report not read.",
+      "finding": "Secretariat summarizes rejection of contention that bilateral process settled WTO matter; subsequent appeal limits claims of final legal outcome.",
+      "read_on": "2026-09-08"
+    }
+  ],
+  "independent_second_read": "Second researcher checked Chapter 7, working procedures and Article 8.6 in both languages, with visual checks on remedies, deadlines and attachment authenticity.",
+  "storage": "Full public texts, OCR and renderings remain outside Git; repository contains original analysis and metadata."
+}

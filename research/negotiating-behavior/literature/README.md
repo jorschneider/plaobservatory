@@ -1,6 +1,6 @@
 # Secondary literature: full-text research and reading priorities
 
-**Updated 8 September 2026.** Start with the [first substantive assessment](first-full-text-synthesis.md) and [reading ledger](readings/README.md). The online reading pass adds critical memos on direct negotiations, trade learning, institutions and audiences, and security. It follows selected citations into original official documents. Complete readings, author-manuscript versions, partial chapters and inaccessible texts are distinguished explicitly.
+**Updated 8 September 2026.** Start with the [first substantive assessment](first-full-text-synthesis.md) and [reading ledger](readings/README.md). The online reading pass adds critical memos on direct negotiations, trade learning, institutions and audiences, and security, followed by a [critical Phase One enforceability reading](readings/phase-one-enforceability.md) and the [2018–2026 trade reconstruction](../cases/us-trade-2018-2026-synthesis.md). It follows selected citations into original official documents. Complete readings, author-manuscript versions, partial chapters and inaccessible texts are distinguished explicitly.
 
 Research proceeds with texts available online. The acquisition list below is a background backlog, not a request for the user to supply copies or a condition for continuing. The registers preserve the original screening status alongside the later reading audit.
 

@@ -1,0 +1,88 @@
+{
+  "audit_date": "2026-09-08",
+  "memo": "phase-one-enforceability.md",
+  "work_id": "LIT-TRADE-TIAN-SHANG-2026",
+  "title": "A co-regulatory approach to bilateral trade: assessing and enhancing enforceability of U.S.–China Phase One Agreement in the Trump 2.0 era",
+  "authors": [
+    "George Yijun Tian",
+    "Carrie Shu Shang"
+  ],
+  "publication": "Journal of International Economic Law 29(2):264–291",
+  "issue_date": "2026-06",
+  "online_publication_date": "2026-07-08",
+  "doi": "10.1093/jiel/jgag019",
+  "canonical_url": "https://academic.oup.com/jiel/article/29/2/264/8726689",
+  "retrieval_url": "https://oup.silverchair-cdn.com/article-minimal/8726689",
+  "artifact": {
+    "local_path": "/Users/jorsc/.codex/.chatgpt-projects/g-p-6a94dd290a988191911d85ae8fe94a6c/tmp/pdfs/trade-2018-2026/agreement/tian-shang-2026.html",
+    "sha256": "4ba098119b80cf31b3bd869c9ba7d6b5da960464ebc1a839101881fc3c688c3c",
+    "bytes": 218279
+  },
+  "full_read": true,
+  "version_read": "Complete publisher HTML; all substantive text, 147 notes and 4 figures. Section and note locators; printed pagination not independently mapped.",
+  "read_on": "2026-09-08",
+  "figures": [
+    {
+      "figure": 1,
+      "local_path": "/Users/jorsc/.codex/.chatgpt-projects/g-p-6a94dd290a988191911d85ae8fe94a6c/tmp/pdfs/trade-2018-2026/agreement/tian-fig1.jpeg",
+      "sha256": "1646b0035bc1f4e105a2fc6c99b3013de6a91f7f1642c892b98e11dcbbe98080",
+      "bytes": 34581,
+      "visually_read": true
+    },
+    {
+      "figure": 2,
+      "local_path": "/Users/jorsc/.codex/.chatgpt-projects/g-p-6a94dd290a988191911d85ae8fe94a6c/tmp/pdfs/trade-2018-2026/agreement/tian-fig2.jpeg",
+      "sha256": "25205cf71b779e5b11ba01bb76920dc358ad990e1dbaabaf0433f50db61d6bcb",
+      "bytes": 21236,
+      "visually_read": true
+    },
+    {
+      "figure": 3,
+      "local_path": "/Users/jorsc/.codex/.chatgpt-projects/g-p-6a94dd290a988191911d85ae8fe94a6c/tmp/pdfs/trade-2018-2026/agreement/tian-fig3.jpeg",
+      "sha256": "8358cdeebbca73406320eda32dbad318d72b6487db42eb71c12ec2078cb78cf2",
+      "bytes": 41238,
+      "visually_read": true
+    },
+    {
+      "figure": 4,
+      "local_path": "/Users/jorsc/.codex/.chatgpt-projects/g-p-6a94dd290a988191911d85ae8fe94a6c/tmp/pdfs/trade-2018-2026/agreement/tian-fig4.jpeg",
+      "sha256": "257d1c0fe5bb5133f75f1c938c38956838f412bd0a9e0341cabf29f15a4717d9",
+      "bytes": 32181,
+      "visually_read": true
+    }
+  ],
+  "method": "Conceptual and normative legal/institutional analysis using published sources; no original interviews or private draft records verified.",
+  "checks": [
+    {
+      "locator": "Data on POA enforcement, notes 53–55",
+      "finding": "Purchase discussion risks conflating$200 billion increment with total benchmark; check Article 6.2.1 and coverage definitions.",
+      "source_ids": [
+        "POA-EN",
+        "POI08",
+        "POI09"
+      ]
+    },
+    {
+      "locator": "Data on POA enforcement, note 58; later legality discussion and note 107",
+      "finding": "Earlier paragraph misorders FIL effectiveness and signature; later text and own note give correct dates. Official law independently checked.",
+      "source_ids": [
+        "POA-FIL",
+        "POA-EN"
+      ]
+    },
+    {
+      "locator": "Legality discussion of DS542 and DS543",
+      "finding": "Reform and legal victory not equivalent; suspended/lapsed DS542 had no merits judgment; appealed DS543 panel finding does not automatically void agreement.",
+      "source_ids": [
+        "POA-DS542",
+        "POA-DS543"
+      ]
+    },
+    {
+      "locator": "Figures 1–4",
+      "finding": "Figure 1 conceptual causal arrows not measured participation; Figure 2 ends February 2020; Figures 3–4 through August 2020; Figure 3 product/month targets explicitly illustrative. Not 2026 outcomes."
+    }
+  ],
+  "unverified": "Underlying empirical datasets, all cited works, claimed USMCA design example and factual chronology beyond specified primary checks were not independently verified.",
+  "storage": "Full article and figures remain outside Git."
+}
