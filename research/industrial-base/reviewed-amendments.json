@@ -1,0 +1,11 @@
+{
+  "reviewedAt": "2026-09-04",
+  "scorecards": [{"id":"CNSCA-C250E60D20","maturity":"Unresolved","importance":null,"lowerBound":null,"rankEligible":false,"initialRank":null,"tier":"bounded","reviewNote":"Review: imported U3 conflicts with linked ledger U1/U2. Final awards establish selection, not installation or acceptance. Maturity and numeric triage are withheld pending reconciliation; original values remain in importedAssessment. See the Xirui dossier."}],
+  "scarcity": [
+    {"evidenceId":"CNSCE-F79AF16D26","state":"affirmative","reason":"Issuer says four finalized inertial-navigation variants are sole supplied; scope is those variants, not the entire market.","excerpt":"均为相关配套装备的唯一供应商","locator":"2025 interim report summary, printed p3","url":"https://static.cninfo.com.cn/finalpage/2025-08-29/1224606049.PDF"},
+    {"evidenceId":"CNSCE-075E8AC193","state":"negated","reason":"The caveat says no sole-source inference in a multi-supplier market."},
+    {"evidenceId":"CNSCE-151E36EEA3","state":"negated","reason":"The caveat explicitly disclaims a platform-specific sole-source claim."},
+    {"evidenceId":"CNSCE-2D42815629","state":"proposed","reason":"Intended sole-source public-security procurement; not a completed award or military dependency."}
+  ],
+  "notes": ["The workbook and extracted import are immutable. Reviewed overlays retain imported score values.","The claimed 1,841 sources and 19 new exact-name entities cannot be reproduced from this workbook and are excluded from current metrics.","Signals are counted from actual signal records; the original 11 included headings or tasks and is replaced by the derived count.","The identity queue is a suggested review set, not a reconstruction of the workbook's unsupported 19-entity flag."]
+}

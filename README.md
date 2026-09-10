@@ -34,6 +34,8 @@ Three further trackers (the 20th Central Committee cohort, event attendance, sea
 
 ## Get the data
 
+Robotics research: start with [Chinese autonomy: doctrine, technology and deployment](research/autonomy/README.md) and the [worked-case analyst brief](research/autonomy/cases/README.md). The package includes eight doctrine sources, ten technical examples, pinned Unitree dependencies, human-authority and passenger-aviation cases, and an evidence-linked collection queue. [Task-specific deployment economics](research/industrial-base/task-economics/README.md) contains four sourced cases, a cost-per-accepted-task method, a runnable ledger calculator and a workcell evidence request. The [relationship pilot](research/industrial-base/relationship-method.md) covers the wider supplier evidence, including updated Shuguang ownership and Jingpin software progress.
+
 - [Public JSON](https://pla-leadership-observatory.jordanschneider.chatgpt.site/data/pla-leadership-observatory-public.json): the full dataset, including positions, officers, claims, sources, the adverse ledger with its clock, trackers and the review log.
 - [Public CSV](https://pla-leadership-observatory.jordanschneider.chatgpt.site/data/pla-leadership-observatory-public.csv): one row per active officer.
 - [`app/data/observatory.json`](app/data/observatory.json): the same data as read by the interface.
