@@ -1,6 +1,6 @@
 {
-  "version": "robotics-relationships-1",
-  "reviewedAt": "2026-09-04",
+  "version": "robotics-relationships-2",
+  "reviewedAt": "2026-09-10",
   "scope": "Six case studies of civilian robotics, defense production, military use and ownership. Evidence dates vary; this is a selected collection, not a census or a current-state verification of every company.",
   "entities": [
     {
@@ -68,10 +68,11 @@
       "id": "E-JINGPIN",
       "name": "Beijing Jingpin Special Equipment",
       "nameZh": "北京晶品特装科技股份有限公司",
-      "identityScope": "Legal name in the FY2024 annual report; current registry not checked.",
+      "identityScope": "Legal name in reports through H1 2026; current registry not checked.",
       "role": "Robot and sensing systems producer",
       "sourceIds": [
-        "S-JINGPIN"
+        "S-JINGPIN",
+        "S-JINGPIN-2026H1"
       ]
     },
     {
@@ -104,7 +105,8 @@
       "role": "Automation company / historical indirect owner",
       "sourceIds": [
         "S-ESTUN-CLOSE",
-        "S-ESTUN-2026"
+        "S-ESTUN-2026",
+        "S-XINHONGYE-AGREEMENT"
       ]
     },
     {
@@ -121,21 +123,26 @@
       "id": "E-SHUGUANG",
       "name": "Yangzhou Shuguang",
       "nameZh": "扬州曙光光电自控有限责任公司",
-      "identityScope": "Legal name in issuer filings; historical identifier 91321091743733424L, not a current registry check.",
-      "role": "Historical military servo supplier",
+      "identityScope": "Legal name and 91321091743733424L in the 2025 agreement; buyer holding reviewed through 30 June 2026, not a current registry check.",
+      "role": "Servo and control systems producer; historical military business",
       "sourceIds": [
         "S-ESTUN-2017",
-        "S-ESTUN-2026"
+        "S-ESTUN-2026",
+        "S-XINHONGYE-2026H1",
+        "S-XINHONGYE-AGREEMENT",
+        "S-XINHONGYE-2025"
       ]
     },
     {
       "id": "E-XINHONGYE",
       "name": "Wuxi Xinhongye Wire & Cable Technology",
       "nameZh": "无锡鑫宏业线缆科技股份有限公司",
-      "identityScope": "Purchaser of Estun's remaining stake named in audited statements.",
-      "role": "Disclosed acquiring shareholder",
+      "identityScope": "Listed buyer legal name; direct 62% Shuguang holding reported at 30 June 2026.",
+      "role": "Cable producer / controlling Shuguang shareholder",
       "sourceIds": [
-        "S-ESTUN-2026"
+        "S-ESTUN-2026",
+        "S-XINHONGYE-2026H1",
+        "S-XINHONGYE-2025"
       ]
     },
     {
@@ -156,6 +163,36 @@
       "role": "Civil-aircraft research partner",
       "sourceIds": [
         "S-SIASUN"
+      ]
+    },
+    {
+      "id": "E-LIAODUN",
+      "name": "Shanghai Liaodun Intelligent Technology",
+      "nameZh": "上海料顿智能科技有限公司",
+      "identityScope": "Legal name in H1 2026 issuer disclosure; registry not independently checked.",
+      "role": "Warehouse and logistics subsidiary",
+      "sourceIds": [
+        "S-JINGPIN-2026H1"
+      ]
+    },
+    {
+      "id": "E-SHUGUANG-SOFTWARE",
+      "name": "Yangzhou Shuguang Software Technology",
+      "nameZh": "扬州曙光软件技术有限公司",
+      "identityScope": "Legal name in H1 2026 issuer disclosure; registry not independently checked.",
+      "role": "Software subsidiary; function unestablished",
+      "sourceIds": [
+        "S-XINHONGYE-2026H1"
+      ]
+    },
+    {
+      "id": "E-HUANYU-SOFTWARE",
+      "name": "Yangzhou Huanyu Software Technology",
+      "nameZh": "扬州寰宇软件技术有限公司",
+      "identityScope": "Legal name in H1 2026 issuer disclosure; registry not independently checked.",
+      "role": "Software subsidiary; function unestablished",
+      "sourceIds": [
+        "S-XINHONGYE-2026H1"
       ]
     }
   ],
@@ -254,10 +291,11 @@
         "N-ROBOT-MOTION"
       ],
       "claimIds": [
-        "C-JINGPIN-MODULES"
+        "C-JINGPIN-MODULES",
+        "C-JINGPIN-MODULES-2026"
       ],
       "technicalStage": "Research and development.",
-      "scope": "The FY2024 report describes external sales as possible after adaptation; actual external sales are not established."
+      "scope": "Conditional external-sales wording persists through H1 2026; actual external component sales remain unestablished."
     },
     {
       "id": "P-JINGPIN-CIVIL",
@@ -266,10 +304,13 @@
       "manufacturerId": "E-JINGPIN",
       "nodeIds": [],
       "claimIds": [
-        "C-JINGPIN-CIVIL"
+        "C-JINGPIN-CIVIL",
+        "C-JINGPIN-WAREHOUSE-2026",
+        "C-JINGPIN-LIAODUN",
+        "C-JINGPIN-WCS-SIMULATION"
       ],
-      "technicalStage": "Management-described emerging business.",
-      "scope": "Technology transfer and commercial outcomes require customer corroboration."
+      "technicalStage": "Issuer-described commercial activities; project stages differ.",
+      "scope": "Subsidiary revenue and system descriptions do not establish a shared military/civilian software release or accepted customer deployment."
     },
     {
       "id": "P-GRIND-SMALL",
@@ -308,10 +349,11 @@
         "N-SERVO"
       ],
       "claimIds": [
-        "C-SHUGUANG-CAPABILITY"
+        "C-SHUGUANG-CAPABILITY",
+        "C-SHUGUANG-2025"
       ],
-      "technicalStage": "Issuer-described defense business as of 2017.",
-      "scope": "Historical product family; current sales and technical performance not reviewed."
+      "technicalStage": "Business description updated in buyer FY2025 report.",
+      "scope": "Servo/control portfolio; autonomous software functionality and model-level deliveries remain unestablished."
     },
     {
       "id": "P-SIASUN-SLM",
@@ -324,6 +366,19 @@
       ],
       "technicalStage": "Planned research using SLM equipment.",
       "scope": "A manufacturing-process case; no robot deployment or military application is asserted."
+    },
+    {
+      "id": "P-JINGPIN-WMS",
+      "name": "Jingpin warehouse software project LTKY-202501",
+      "productClass": "Software and integration",
+      "manufacturerId": null,
+      "nodeIds": [],
+      "claimIds": [
+        "C-JINGPIN-WMS-2025",
+        "C-JINGPIN-WMS-2026"
+      ],
+      "technicalStage": "Software testing and updates reported at H1 2026.",
+      "scope": "Project reported by the Jingpin group; exact developing legal entity not established. Project ID is not a release version. Test installation/tender language remains an intended objective; named customer acceptance unestablished."
     }
   ],
   "sources": [
@@ -336,7 +391,7 @@
       "retrievedAt": "2026-09-04",
       "accessState": "Full PDF text reviewed at cited pages",
       "originId": "O-JINGPIN-2024",
-      "note": "Describes FY2024. The 2025 annual report has not been reviewed in this dossier."
+      "note": "Describes FY2024. Later FY2025 and H1 2026 disclosures are separately recorded; retain this historical revenue category and its labor-equivalent definition."
     },
     {
       "id": "S-XIRUI-SMALL",
@@ -457,7 +512,7 @@
       "retrievedAt": "2026-09-04",
       "accessState": "PDF text reviewed at Notes 15 and 35",
       "originId": "O-ESTUN-FINANCIALS",
-      "note": "Statements cover 2022–2024 and nine months to September 2025; Note 35 reports a subsequent event. Screenshot retrieval failed."
+      "note": "Statements cover 2022–2024 and nine months to September 2025; Note 35 reports the seller disposal. Buyer control/currentness are separately reviewed in later Xinhongye reports. Screenshot retrieval failed for this source."
     },
     {
       "id": "S-SIASUN",
@@ -469,6 +524,61 @@
       "accessState": "Full article including relevant paragraph reviewed",
       "originId": "O-SIASUN-CIVIL",
       "note": "The article distinguishes established cooperation from future equipment use."
+    },
+    {
+      "id": "S-JINGPIN-2025",
+      "title": "北京晶品特装科技股份有限公司2025年年度报告",
+      "publisher": "Beijing Jingpin / CNINFO",
+      "url": "https://static.cninfo.com.cn/finalpage/2026-04-28/1225210584.PDF",
+      "publicationDate": "2026-04-28",
+      "retrievedAt": "2026-09-10",
+      "accessState": "Relevant PDF text and table layout reviewed at cited pages",
+      "originId": "O-JINGPIN-2025",
+      "note": "FY2025; R&D table headers distinguish completed progress from intended objectives. Same issuer as prior reports, not independent corroboration."
+    },
+    {
+      "id": "S-JINGPIN-2026H1",
+      "title": "北京晶品特装科技股份有限公司2026年半年度报告",
+      "publisher": "Beijing Jingpin / CNINFO",
+      "url": "https://static.cninfo.com.cn/finalpage/2026-08-25/1225497124.PDF",
+      "publicationDate": "2026-08-25",
+      "retrievedAt": "2026-09-10",
+      "accessState": "Relevant PDF text and table layout reviewed at cited pages",
+      "originId": "O-JINGPIN-2026H1",
+      "note": "Unaudited period ending 30 June 2026. Relevant text and R&D headers/rows visually checked; no customer acceptance record reviewed."
+    },
+    {
+      "id": "S-XINHONGYE-AGREEMENT",
+      "title": "关于签订《股权转让协议》暨交易框架协议的进展公告（2025-085）",
+      "publisher": "Wuxi Xinhongye / CNINFO",
+      "url": "https://static.cninfo.com.cn/finalpage/2025-10-20/1224720253.PDF",
+      "publicationDate": "2025-10-20",
+      "retrievedAt": "2026-09-10",
+      "accessState": "Relevant PDF text reviewed at cited sections",
+      "originId": "O-XINHONGYE-AGREEMENT",
+      "note": "Signed transaction terms; prospective industrial robotics and embodied-intelligence cooperation requires separate detailed agreement. Completion of that cooperation is not established."
+    },
+    {
+      "id": "S-XINHONGYE-2025",
+      "title": "无锡鑫宏业线缆科技股份有限公司2025年年度报告（2026-024）",
+      "publisher": "Wuxi Xinhongye / CNINFO",
+      "url": "https://static.cninfo.com.cn/finalpage/2026-04-17/1225109422.PDF",
+      "publicationDate": "2026-04-17",
+      "retrievedAt": "2026-09-10",
+      "accessState": "Relevant PDF text and table layout reviewed at cited pages",
+      "originId": "O-XINHONGYE-2025",
+      "note": "Buyer-side report. Accounting purchase/control date is 4 November 2025; retain the seller's separately reported 3 November disposal date."
+    },
+    {
+      "id": "S-XINHONGYE-2026H1",
+      "title": "无锡鑫宏业线缆科技股份有限公司2026年半年度报告（2026-045）",
+      "publisher": "Wuxi Xinhongye issuer PDF / Sina mirror",
+      "url": "https://file.finance.sina.com.cn/211.154.219.97:9494/MRGG/CNSESZ_STOCK/2026/2026-8/2026-08-20/12504852.PDF",
+      "publicationDate": "2026-08-20",
+      "retrievedAt": "2026-09-10",
+      "accessState": "Relevant PDF text and table layout reviewed at cited pages",
+      "originId": "O-XINHONGYE-2026H1",
+      "note": "Ownership observed at 30 June 2026; printed page numbers differ from PDF page numbers by one. A third-party mirror of the issuer report, not independent reporting."
     }
   ],
   "claims": [
@@ -668,7 +778,7 @@
       "excerpt": "completed on 3 November 2025",
       "translation": null,
       "basis": "Audited statements, subsequent event",
-      "limitation": "Ends the disclosed holding; does not prove all commercial or technical relationships ended."
+      "limitation": "Ends the disclosed holding. Buyer control starts on its accounting date of 4 November; the cooperation clause is separately assessed."
     },
     {
       "id": "C-SIASUN-COOP",
@@ -691,6 +801,149 @@
       "translation": "Will use this equipment for three aircraft types including C919",
       "basis": "Announced research plan",
       "limitation": "The other two types are unidentified. Planned equipment use does not establish delivery, robot deployment or military application."
+    },
+    {
+      "id": "C-JINGPIN-MODULES-2026",
+      "caseId": "jingpin",
+      "sourceId": "S-JINGPIN-2026H1",
+      "text": "Upstream components remain described as internally used and externally saleable after adaptation.",
+      "locator": "Printed p10, special-robot section",
+      "excerpt": null,
+      "translation": null,
+      "basis": "Management description",
+      "limitation": "Potential external sale is not a documented outside customer, accepted product or revenue line."
+    },
+    {
+      "id": "C-JINGPIN-WCS-SIMULATION",
+      "caseId": "jingpin",
+      "sourceId": "S-JINGPIN-2025",
+      "text": "Management reports warehouse-scheduler simulation using historical orders at 5,000 simulated orders per day.",
+      "locator": "Printed p21, R&D item 3",
+      "excerpt": "模拟场景",
+      "translation": "Simulated scenario",
+      "basis": "Issuer-reported simulation",
+      "limitation": "Not customer-site throughput; no numeric utilization improvement or accepted deployment is established. The text does not explicitly identify this scheduler as LTKY-202501."
+    },
+    {
+      "id": "C-JINGPIN-WMS-2025",
+      "caseId": "jingpin",
+      "sourceId": "S-JINGPIN-2025",
+      "text": "LTKY-202501 reports completed four-direction and six-direction vehicle modules; test-environment operation and a tender win are intended objectives.",
+      "locator": "Printed pp25–26, R&D table header and row 14",
+      "excerpt": "拟达到目标",
+      "translation": "Intended objectives",
+      "basis": "Header-checked issuer R&D table",
+      "limitation": "The intended-objectives column must not be recoded as an achieved tender or installation."
+    },
+    {
+      "id": "C-JINGPIN-WMS-2026",
+      "caseId": "jingpin",
+      "sourceId": "S-JINGPIN-2026H1",
+      "text": "LTKY-202501 reports completed software testing and updates; the WMS test-environment and tender statements remain intended objectives.",
+      "locator": "Printed pp16–17, R&D table header and row 10",
+      "excerpt": "完成软件测试、更新",
+      "translation": "Software testing and updates completed",
+      "basis": "Header-checked issuer R&D table",
+      "limitation": "No named customer acceptance is established for this project."
+    },
+    {
+      "id": "C-JINGPIN-UNITS-2025",
+      "caseId": "jingpin",
+      "sourceId": "S-JINGPIN-2025",
+      "text": "FY2025 special-robot sales quantity of 12,248 is expressed in G001 standard-labor-hour equivalents.",
+      "locator": "Printed p33, production/sales table and note 1",
+      "excerpt": null,
+      "translation": null,
+      "basis": "Table definition",
+      "limitation": "Not 12,248 actual robots delivered; do not silently equate the special-robot label with the FY2024 military-robot category."
+    },
+    {
+      "id": "C-JINGPIN-WAREHOUSE-2026",
+      "caseId": "jingpin",
+      "sourceId": "S-JINGPIN-2026H1",
+      "text": "Management describes DMS, WCS and MES systems for warehouse, transfer and inbound workflows.",
+      "locator": "Printed pp10–12 and 15",
+      "excerpt": null,
+      "translation": null,
+      "basis": "Management description",
+      "limitation": "System classes are not versioned releases; shared military/civilian software lineage is unestablished."
+    },
+    {
+      "id": "C-JINGPIN-LIAODUN",
+      "caseId": "jingpin",
+      "sourceId": "S-JINGPIN-2026H1",
+      "text": "Shanghai Liaodun is a controlled subsidiary with warehouse/logistics R&D, production and sales; H1 revenue is RMB2.6267m.",
+      "locator": "Printed p4, definitions; p26, subsidiary table",
+      "excerpt": null,
+      "translation": null,
+      "basis": "Issuer corporate and financial disclosure",
+      "limitation": "Subsidiary revenue is not attributable solely to LTKY-202501 or to a named customer acceptance."
+    },
+    {
+      "id": "C-XINHONGYE-CONTROL",
+      "caseId": "estun",
+      "sourceId": "S-XINHONGYE-2025",
+      "text": "Xinhongye records acquiring 62% of Shuguang with an accounting purchase/control date of 4 November 2025.",
+      "locator": "Printed pp194–195, financial statements IX.1",
+      "excerpt": null,
+      "translation": null,
+      "basis": "Buyer financial statements",
+      "limitation": "Accounting control date is distinct from the seller's reported equity-disposal date of 3 November."
+    },
+    {
+      "id": "C-XINHONGYE-2026",
+      "caseId": "estun",
+      "sourceId": "S-XINHONGYE-2026H1",
+      "text": "Xinhongye reports a direct 62% Shuguang holding at 30 June 2026.",
+      "locator": "Printed p130 (PDF p131), financial statements X.1",
+      "excerpt": null,
+      "translation": null,
+      "basis": "Issuer ownership table",
+      "limitation": "Establishes ownership at the reporting date, not a perpetual present relationship."
+    },
+    {
+      "id": "C-SHUGUANG-2025",
+      "caseId": "estun",
+      "sourceId": "S-XINHONGYE-2025",
+      "text": "Shuguang develops and produces servo controllers, optomechanical-electronic systems, mechanical-microelectronic control systems and optical instruments.",
+      "locator": "Printed pp20–21, special-equipment servo systems",
+      "excerpt": null,
+      "translation": null,
+      "basis": "Buyer management description",
+      "limitation": "Function-level portfolio description; no identified autonomous software release or shared civilian/military component is established."
+    },
+    {
+      "id": "C-SHUGUANG-REVENUE",
+      "caseId": "estun",
+      "sourceId": "S-XINHONGYE-2025",
+      "text": "Shuguang revenue from the 4 November 2025 acquisition date to year-end was RMB33,496,772.42.",
+      "locator": "Printed pp194–195, financial statements IX.1",
+      "excerpt": null,
+      "translation": null,
+      "basis": "Buyer financial statements",
+      "limitation": "Short consolidation-period revenue; not full-year revenue, military-only revenue, software revenue or autonomous-system sales."
+    },
+    {
+      "id": "C-ESTUN-COOPERATION",
+      "caseId": "estun",
+      "sourceId": "S-XINHONGYE-AGREEMENT",
+      "text": "The buyer, Estun and Shuguang envisage industrial robotics and embodied-intelligence cooperation, with detailed terms to be separately agreed.",
+      "locator": "Printed p9, section 五（三）",
+      "excerpt": "另行签订协议",
+      "translation": "Sign a separate agreement",
+      "basis": "Signed transaction agreement: prospective cooperation",
+      "limitation": "Ownership exit does not prove all ties ended; signed intent does not prove implementation, code sharing or supply."
+    },
+    {
+      "id": "C-SHUGUANG-SOFTWARE",
+      "caseId": "estun",
+      "sourceId": "S-XINHONGYE-2026H1",
+      "text": "Xinhongye reports indirect 62% holdings in Yangzhou Shuguang Software Technology and Yangzhou Huanyu Software Technology, both classified as software businesses.",
+      "locator": "Printed p130 (PDF p131), financial statements X.1",
+      "excerpt": null,
+      "translation": null,
+      "basis": "Issuer ownership table",
+      "limitation": "Software-company ownership does not establish AI, autonomous navigation, military decision-making or a shared codebase."
     }
   ],
   "relationships": [
@@ -1029,7 +1282,7 @@
       "claimIds": [
         "C-ESTUN-EXIT"
       ],
-      "limitation": "Reports transfer to the buyer; continued technical or commercial ties need separate evidence."
+      "limitation": "Ends the disclosed holding; a separate agreement envisages future cooperation. Implementation and actual post-sale supply remain unverified."
     },
     {
       "id": "R-SIASUN-COOP",
@@ -1053,6 +1306,156 @@
         "C-SIASUN-PLAN"
       ],
       "limitation": "Civil C919-related research; neither military procurement nor completed deployment is established."
+    },
+    {
+      "id": "R-JINGPIN-MODULES-2026",
+      "caseId": "jingpin",
+      "subjectId": "E-JINGPIN",
+      "objectId": null,
+      "productIds": [
+        "P-JINGPIN-MODULES"
+      ],
+      "relation": "Reports internal component use and conditional external sale",
+      "connection": "Cross-application component development",
+      "transactionStage": "External sales not established",
+      "technicalStage": "Internally used; adaptation required",
+      "eventDate": "2026-06-30",
+      "dateLabel": "H1 2026 reporting date",
+      "effectiveStart": null,
+      "effectiveEnd": null,
+      "currentness": "Dated observation",
+      "claimIds": [
+        "C-JINGPIN-MODULES-2026"
+      ],
+      "limitation": "Do not transfer complete-robot maturity to externally sold components."
+    },
+    {
+      "id": "R-JINGPIN-WMS",
+      "caseId": "jingpin",
+      "subjectId": "E-JINGPIN",
+      "objectId": null,
+      "productIds": [
+        "P-JINGPIN-WMS"
+      ],
+      "relation": "Develops identified warehouse software project",
+      "connection": "Civilian coordination-software development",
+      "transactionStage": "Customer acceptance not established",
+      "technicalStage": "Software testing and updates reported",
+      "eventDate": "2026-06-30",
+      "dateLabel": "H1 2026; follows FY2025 R&D record",
+      "effectiveStart": null,
+      "effectiveEnd": null,
+      "currentness": "Dated observation",
+      "claimIds": [
+        "C-JINGPIN-WMS-2025",
+        "C-JINGPIN-WMS-2026"
+      ],
+      "limitation": "A tender win is an intended objective; a separate unnamed scheduler simulation is not identified as this project. Military software lineage is unestablished."
+    },
+    {
+      "id": "R-JINGPIN-LIAODUN",
+      "caseId": "jingpin",
+      "subjectId": "E-JINGPIN",
+      "objectId": "E-LIAODUN",
+      "productIds": [
+        "P-JINGPIN-CIVIL"
+      ],
+      "relation": "Reports controlled warehouse/logistics subsidiary",
+      "connection": "Civilian business within defense-related group",
+      "transactionStage": "Subsidiary revenue reported",
+      "technicalStage": "Product-level acceptance not established",
+      "eventDate": "2026-06-30",
+      "dateLabel": "Ownership and H1 revenue observed at 30 Jun 2026",
+      "effectiveStart": null,
+      "effectiveEnd": null,
+      "currentness": "Observed through 30 June 2026",
+      "claimIds": [
+        "C-JINGPIN-LIAODUN"
+      ],
+      "limitation": "Ownership and aggregate revenue do not identify LTKY-202501 sales or technical transfer."
+    },
+    {
+      "id": "R-XINHONGYE-CONTROL",
+      "caseId": "estun",
+      "subjectId": "E-XINHONGYE",
+      "objectId": "E-SHUGUANG",
+      "productIds": [
+        "P-SHUGUANG-SERVO"
+      ],
+      "relation": "62% direct controlling holding",
+      "connection": "Ownership of defense-related servo business",
+      "transactionStage": "Acquisition completed",
+      "technicalStage": "Functional portfolio; performance not assessed",
+      "eventDate": "2025-11-04",
+      "dateLabel": "Buyer accounting control: 4 Nov 2025; observed at 30 Jun 2026",
+      "effectiveStart": "2025-11-04",
+      "effectiveEnd": null,
+      "currentness": "Observed through 30 June 2026",
+      "claimIds": [
+        "C-XINHONGYE-CONTROL",
+        "C-XINHONGYE-2026"
+      ],
+      "limitation": "Seller records disposal on 3 November; buyer accounting control is a distinct date. Null end is not perpetual currentness."
+    },
+    {
+      "id": "R-ESTUN-COOPERATION",
+      "caseId": "estun",
+      "subjectId": "E-ESTUN",
+      "objectId": "E-XINHONGYE",
+      "productIds": [],
+      "relation": "Envisages cooperation with buyer and Shuguang",
+      "connection": "Prospective industrial robotics / embodied intelligence cooperation",
+      "transactionStage": "Signed intent; separate detailed agreement required",
+      "technicalStage": "Implementation unverified",
+      "eventDate": "2025-10-20",
+      "dateLabel": "Agreement signed 20 Oct 2025",
+      "effectiveStart": null,
+      "effectiveEnd": null,
+      "currentness": "Prospective terms; implementation unverified",
+      "claimIds": [
+        "C-ESTUN-COOPERATION"
+      ],
+      "limitation": "Includes Shuguang; not evidence of an implemented supply contract, shared software or continued ownership."
+    },
+    {
+      "id": "R-XINHONGYE-SHUGUANG-SOFTWARE",
+      "caseId": "estun",
+      "subjectId": "E-XINHONGYE",
+      "objectId": "E-SHUGUANG-SOFTWARE",
+      "productIds": [],
+      "relation": "62% indirect software-subsidiary holding",
+      "connection": "Organizational ownership; software function unknown",
+      "transactionStage": "Ownership reported",
+      "technicalStage": "Autonomy functionality unestablished",
+      "eventDate": "2026-06-30",
+      "dateLabel": "Ownership observed at 30 Jun 2026",
+      "effectiveStart": null,
+      "effectiveEnd": null,
+      "currentness": "Observed through 30 June 2026",
+      "claimIds": [
+        "C-SHUGUANG-SOFTWARE"
+      ],
+      "limitation": "No product or autonomy node is inferred from a software legal-entity classification."
+    },
+    {
+      "id": "R-XINHONGYE-HUANYU-SOFTWARE",
+      "caseId": "estun",
+      "subjectId": "E-XINHONGYE",
+      "objectId": "E-HUANYU-SOFTWARE",
+      "productIds": [],
+      "relation": "62% indirect software-subsidiary holding",
+      "connection": "Organizational ownership; software function unknown",
+      "transactionStage": "Ownership reported",
+      "technicalStage": "Autonomy functionality unestablished",
+      "eventDate": "2026-06-30",
+      "dateLabel": "Ownership observed at 30 Jun 2026",
+      "effectiveStart": null,
+      "effectiveEnd": null,
+      "currentness": "Observed through 30 June 2026",
+      "claimIds": [
+        "C-SHUGUANG-SOFTWARE"
+      ],
+      "limitation": "No product or autonomy node is inferred from a software legal-entity classification."
     }
   ],
   "cases": [
@@ -1118,36 +1521,46 @@
     },
     {
       "id": "jingpin",
-      "title": "Jingpin: complete robots, new modules and civilian transfer",
+      "title": "Jingpin: components, warehouse software and civilian business",
       "productClasses": [
         "Special-purpose robots",
         "Actuation and components",
-        "Manufacturing technology"
+        "Manufacturing technology",
+        "Software and integration"
       ],
-      "summary": "Split established business activity from component development and management's military-to-civilian account. The evidence describes FY2024.",
+      "summary": "Retains FY2024 business evidence and follows a named warehouse software project through H1 2026. Intended objectives and simulation remain distinct from customer deployment.",
       "entityIds": [
-        "E-JINGPIN"
+        "E-JINGPIN",
+        "E-LIAODUN"
       ],
       "productIds": [
         "P-JINGPIN-ROBOTS",
         "P-JINGPIN-MODULES",
-        "P-JINGPIN-CIVIL"
+        "P-JINGPIN-CIVIL",
+        "P-JINGPIN-WMS"
       ],
       "claimIds": [
         "C-JINGPIN-ROBOTS",
         "C-JINGPIN-MODULES",
         "C-JINGPIN-CIVIL",
         "C-JINGPIN-REVENUE",
-        "C-JINGPIN-UNITS"
+        "C-JINGPIN-UNITS",
+        "C-JINGPIN-MODULES-2026",
+        "C-JINGPIN-WCS-SIMULATION",
+        "C-JINGPIN-WMS-2025",
+        "C-JINGPIN-WMS-2026",
+        "C-JINGPIN-UNITS-2025",
+        "C-JINGPIN-WAREHOUSE-2026",
+        "C-JINGPIN-LIAODUN"
       ],
       "legacyAssessmentIds": [
         "CNSCA-A63BD1FF74"
       ],
-      "whatMatters": "Product families at different stages need separate assessments. Reported equivalent output cannot measure robot deliveries.",
-      "unknown": "Model-level unit counts, external module sales and independently confirmed civilian transfer remain unestablished.",
-      "nextEvidence": "Later annual filings and customer-side acceptance, separated into complete robots, external components and civilian manufacturing.",
-      "decision": "Would show whether module development became external supply and whether civilian transfer generated accepted products.",
-      "counterEvidence": "Discontinued development or customer rejection would weaken the transfer and component-commercialization assessments."
+      "whatMatters": "An identified software project provides functional specificity; table headings determine whether a tender or test installation is achieved or intended.",
+      "unknown": "Named customer acceptance, external component sales, software release lineage and actual task economics remain unestablished.",
+      "nextEvidence": "Customer acceptance and operating records tied to LTKY-202501 and a software version; separate external component contracts from internal use.",
+      "decision": "Would distinguish a commercial deployment from software development and test whether a specific artifact crosses civilian and military applications.",
+      "counterEvidence": "Failed acceptance, abandoned development or distinct codebases would weaken a claimed common software lineage. Civilian-business revenue alone cannot settle it."
     },
     {
       "id": "xirui",
@@ -1179,16 +1592,19 @@
     },
     {
       "id": "estun",
-      "title": "Estun: ownership enters, control ends, holding exits",
+      "title": "Estun / Shuguang: ownership exits; buyer control and prospective cooperation",
       "productClasses": [
-        "Actuation and components"
+        "Actuation and components",
+        "Software and integration"
       ],
-      "summary": "The ownership route is historical. Control ended in June 2025; the remaining stake was sold in November.",
+      "summary": "Estun control ended in June 2025 and its holding in November. Xinhongye reports 62% control through June 2026; a cooperation clause remains prospective.",
       "entityIds": [
         "E-ESTUN",
         "E-DINGKONG",
         "E-SHUGUANG",
-        "E-XINHONGYE"
+        "E-XINHONGYE",
+        "E-SHUGUANG-SOFTWARE",
+        "E-HUANYU-SOFTWARE"
       ],
       "productIds": [
         "P-SHUGUANG-SERVO"
@@ -1197,14 +1613,20 @@
         "C-SHUGUANG-CAPABILITY",
         "C-ESTUN-CLOSE",
         "C-ESTUN-CONTROL",
-        "C-ESTUN-EXIT"
+        "C-ESTUN-EXIT",
+        "C-XINHONGYE-CONTROL",
+        "C-XINHONGYE-2026",
+        "C-SHUGUANG-2025",
+        "C-SHUGUANG-REVENUE",
+        "C-ESTUN-COOPERATION",
+        "C-SHUGUANG-SOFTWARE"
       ],
       "legacyAssessmentIds": [],
-      "whatMatters": "Ownership is dated separately from supply. A former defense affiliate must not be presented as a current controlled subsidiary.",
-      "unknown": "Current product customers and any continuing Estun–Shuguang technical or supply ties require separate verification.",
-      "nextEvidence": "Buyer-side subsequent filings, current corporate registration and dated post-disposal supply contracts.",
-      "decision": "Would establish the post-sale ownership and distinguish historical affiliation from continuing commercial ties.",
-      "counterEvidence": "A later acquisition could change ownership again; the 2025 exit alone cannot settle later relationships."
+      "whatMatters": "Seller disposal, buyer accounting control, continuing ownership and prospective cooperation are different observations. Software subsidiaries do not establish autonomous software.",
+      "unknown": "Implementation of the separate cooperation terms, shared product or software lineage, and post-sale customer-level supply remain unestablished.",
+      "nextEvidence": "The detailed cooperation agreement envisaged in the October 2025 terms, plus dated post-sale supply/service contracts or identified shared releases.",
+      "decision": "Would show whether organizational connections produce actual commercial or technical transfer after Estun's equity exit.",
+      "counterEvidence": "Absent implementation, distinct software architectures or a later ownership change would alter the assessment; ownership exit alone does not prove all ties ended."
     },
     {
       "id": "siasun",
@@ -1259,6 +1681,24 @@
       "unit": "CNY",
       "scope": "Company-wide revenue; not SPock or military revenue",
       "claimId": "C-DEEP-REVENUE"
+    },
+    {
+      "id": "M-JINGPIN-EQUIVALENTS-2025",
+      "caseId": "jingpin",
+      "label": "FY2025 reported special-robot sales equivalents",
+      "value": 12248,
+      "unit": "G001 labor equivalents",
+      "scope": "Converted standard-labor-hour output; not actual robots or directly comparable military-robot unit count",
+      "claimId": "C-JINGPIN-UNITS-2025"
+    },
+    {
+      "id": "M-SHUGUANG-POSTACQUISITION-REVENUE",
+      "caseId": "estun",
+      "label": "Shuguang post-acquisition FY2025 revenue",
+      "value": 33496772.42,
+      "unit": "CNY",
+      "scope": "4 November–31 December 2025 consolidation period; not full-year, military-only or software revenue",
+      "claimId": "C-SHUGUANG-REVENUE"
     }
   ]
 }

@@ -1,6 +1,6 @@
-# Robotics analyst pilot, 4 September 2026
+# Robotics analyst pilot, updated 10 September 2026
 
-The first extension contains six dossiers, 16 dated or explicitly undated relationships, 20 claims, 13 source records, 15 actor records and 12 products or product families. It is a selected research pilot. It does not measure the size, concentration or completeness of China's robotics ecosystem.
+The reviewed extension contains six dossiers, 23 dated or explicitly undated relationships, 33 claims, 18 source records, 18 actor records, 13 products or product families and five scoped metrics. It is a selected research pilot. It does not measure the size, concentration or completeness of China's robotics ecosystem. The 10 September update follows Jingpin software development and Shuguang ownership through H1 2026.
 
 ## Analyst workflow
 
@@ -16,9 +16,9 @@ The first extension contains six dossiers, 16 dated or explicitly undated relati
 | --- | --- | --- |
 | DEEP Robotics / EGP / SP Group | Supplier-attributed integration chain, customer-reported civilian inspection use, issuer-reported follow-on deliveries | Independent customer identification of the OEM, unit count or full rollout |
 | Unitree / exercise observation | Public commercial product and developer resources; separately reported military quadruped appearance | A verified Unitree–PLA sale or model identification |
-| Jingpin | Military-robot business revenue, upstream development and management-described civilian transfer | A common maturity for every product or 3,197 actual robots |
+| Jingpin | Historical business revenue; later upstream development; identified warehouse software project LTKY-202501 with reported testing and updates | A tender win from the intended-objectives column; simulated orders as field throughput; 3,197 or 12,248 actual robots; shared civilian/military code |
 | Xirui / Waigaoqiao | Two final workstation awards totaling CNY10.37m | Installation, acceptance, naval application or company revenue |
-| Estun / Shuguang | Historical military-servo business and dated ownership changes | Current Estun control after June 2025 or ownership after November 2025 |
+| Estun / Shuguang / Xinhongye | Historical defense-related servo business; seller disposal on 3 November 2025; buyer accounting control on 4 November; 62% buyer holding through June 2026; prospective cooperation terms | Continuing Estun ownership; implemented cooperation from intent; autonomous software functionality from ownership of software subsidiaries |
 | Siasun / Shenfei civil aircraft | Reported cooperation and planned metal-printing research involving C919 | Delivered robotics, a military application or the identity of the other two aircraft types |
 
 ## Data dictionary
@@ -33,7 +33,9 @@ The first extension contains six dossiers, 16 dated or explicitly undated relati
 - `cases`: synthesis, actors/products/claims, links to legacy assessments, unknowns, next evidence, decision affected and counterevidence.
 - `metrics`: value, unit, business scope and supporting claim. Award values, consolidated revenue and labor-equivalent output are not interchangeable.
 
-Effective ownership intervals are start-inclusive and end-exclusive. A single documented historical observation does not establish a continuing present relationship. The interface does not compute probabilities or treat source counts as confidence.
+Effective ownership intervals are start-inclusive and end-exclusive. A single documented historical observation does not establish a continuing present relationship. A null end date means no end is established; the `currentness` field states the latest observed reporting date. Seller disposal and buyer accounting-control dates are separately sourced and may differ. The interface does not compute probabilities or treat source counts as confidence.
+
+Read R&D table headers before extracting milestones. Jingpin's LTKY-202501 test-environment and tender language sits under intended objectives; its H1 2026 progress column reports software testing and updates. The separate FY2025 warehouse-scheduler simulation is not explicitly identified as that project. Neither observation establishes accepted customer throughput. Similarly, Shuguang's post-acquisition revenue covers 4 November–31 December 2025 and cannot be read as full-year, military-only or software revenue. The October 2025 cooperation clause is a useful counterweight to assuming that equity exit ended all ties, while implementation remains unverified.
 
 ## Repairs to the legacy views
 

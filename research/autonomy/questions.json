@@ -1,14 +1,213 @@
 {
   "reviewedAt": "2026-09-10",
-  "status": "Collection questions, not confirmed findings or outreach",
+  "status": "Open collection questions with bounded progress from worked cases; no outreach sent",
   "questions": [
-    {"id":"AQ01","question":"What authority is actually delegated for a named autonomous function?","doctrineIds":["D03","D04","D07","D08"],"stackIds":["AS03","AS09"],"request":"Public operating rule or acceptance protocol specifying task authorization, supervision, exception intervention, override and responsibility.","wouldChange":"Distinguish policy commitments from implemented authority boundaries.","alternativeExplanation":"Human-control language may coexist with extensive task automation; it does not specify continuous human input."},
-    {"id":"AQ02","question":"Which external dependencies are present in the customer's actual configuration?","doctrineIds":["D05"],"stackIds":["AS02","AS03","AS04","AS05"],"request":"Versioned hardware/software inventory, deployment architecture, license/support terms and evidence for substitution cost.","wouldChange":"Identify a concrete dependency and switching burden without treating nationality as a complete stack description.","alternativeExplanation":"A public research repository may not be the shipping controller; an optional processor is not installed in every model."},
-    {"id":"AQ03","question":"How much human work remains per accepted task?","doctrineIds":["D06","D07"],"stackIds":["AS06","AS08","AS09"],"economicsIds":["TE-BYD-S1","TE-ZEEKR-SLITE","TE-SP-X30"],"request":"Matched task, intervention and person-hour logs; separate training, commissioning, live control, recovery and fallback.","wouldChange":"Calculate bounded workflow economics and characterize the actual division of work.","alternativeExplanation":"Labor may move to integration or recovery rather than disappear; data-collection teleoperation does not imply live teleoperation."},
-    {"id":"AQ04","question":"Does performance survive the stated operating envelope?","doctrineIds":["D08"],"stackIds":["AS01","AS02","AS05","AS07"],"request":"Civilian field results with version, load/posture, temperature, duration, sensor configuration, failure counts and accepted outputs.","wouldChange":"Separate laboratory or peak capability from repeatable use under customer conditions.","alternativeExplanation":"A favorable demonstration may omit cooling, charging, difficult inputs or recovery time."},
-    {"id":"AQ05","question":"Who creates and owns the integration that makes the workflow useful?","doctrineIds":["D05","D08"],"stackIds":["AS03","AS08","AS09"],"economicsIds":["TE-SP-X30","TE-ZEEKR-SLITE"],"request":"Dated integrator/customer scope of work, interface responsibilities, acceptance criteria and support contract.","wouldChange":"Attribute value and recurring work across OEM, integrator, software provider and customer.","alternativeExplanation":"A successful deployment may depend on extensive site-specific engineering rather than a general-purpose model."},
-    {"id":"AQ06","question":"What specific artifact or capability crossed the civil–military boundary?","doctrineIds":["D05"],"stackIds":["AS01","AS03","AS06","AS09"],"request":"A public dated procurement, collaboration, acceptance or ownership record naming the organizations, version/artifact and role.","wouldChange":"Promote a technical-relevance hypothesis into a bounded relationship; operating capability still requires separate evidence.","alternativeExplanation":"Similar technologies or institutions may have no documented transfer relationship."},
-    {"id":"AQ07","question":"Which claims are backed by a formal requirement and which by actual testing?","doctrineIds":["D02","D04","D08"],"stackIds":["AS10"],"request":"Accessible requirement text and separate configuration-specific test/acceptance report; identify issuer, assessor and effective date.","wouldChange":"Distinguish an authoritative rule, a draft, a participant list and tested conformity.","alternativeExplanation":"A standard's existence or a company's drafting participation does not establish conformity."},
-    {"id":"AQ08","question":"Do newer learned policies reduce adaptation and recovery work at a new site?","doctrineIds":["D07","D08"],"stackIds":["AS04","AS05","AS06"],"request":"Held-out task/site evaluation with adaptation data, training time, human recovery, compute configuration and pre/post release comparison.","wouldChange":"Connect model progress to deployment effort and accepted output.","alternativeExplanation":"A benchmark gain can depend on extra demonstrations, a different embodiment or compute unavailable in the deployed configuration."}
+    {
+      "id": "AQ01",
+      "question": "What authority is actually delegated for a named autonomous function?",
+      "doctrineIds": [
+        "D03",
+        "D04",
+        "D07",
+        "D08"
+      ],
+      "stackIds": [
+        "AS03",
+        "AS09"
+      ],
+      "request": "Named system's final operating rule and acceptance record specifying authorization, supervision, intervention, override and responsibility; do not substitute intent specifications.",
+      "wouldChange": "Distinguish policy commitments from implemented authority boundaries.",
+      "alternativeExplanation": "Human-control language may coexist with extensive task automation; it does not specify continuous human input.",
+      "progress": {
+        "state": "Partially answered",
+        "reviewedAt": "2026-09-10",
+        "casePaths": [
+          "cases/human-authority.md",
+          "cases/ehang-operations.md"
+        ],
+        "finding": "Reported remote control and human task assignment; one buyer's requested modes; civilian remote-pilot training subjects. No universal PLA authority rule or tested override established."
+      }
+    },
+    {
+      "id": "AQ02",
+      "question": "Which external dependencies are present in the customer's actual configuration?",
+      "doctrineIds": [
+        "D05"
+      ],
+      "stackIds": [
+        "AS02",
+        "AS03",
+        "AS04",
+        "AS05"
+      ],
+      "request": "Purchased configuration and firmware inventory, locked environment for one result, and a migration record with engineering time, retraining, regressions and qualification.",
+      "wouldChange": "Identify a concrete dependency and switching burden without treating nationality as a complete stack description.",
+      "alternativeExplanation": "A public research repository may not be the shipping controller; an optional processor is not installed in every model.",
+      "progress": {
+        "state": "Partially answered",
+        "reviewedAt": "2026-09-10",
+        "casePaths": [
+          "cases/unitree-dependencies.md"
+        ],
+        "finding": "Six official Unitree repositories inspected at pinned commits; dependencies, binary boundaries and alternative interfaces/simulators identified. Shipping configuration and switching cost remain unverified."
+      }
+    },
+    {
+      "id": "AQ03",
+      "question": "How much human work remains per accepted task?",
+      "doctrineIds": [
+        "D06",
+        "D07"
+      ],
+      "stackIds": [
+        "AS06",
+        "AS08",
+        "AS09"
+      ],
+      "economicsIds": [
+        "TE-BYD-S1",
+        "TE-ZEEKR-SLITE",
+        "TE-SP-X30"
+      ],
+      "request": "Matched accepted-task, intervention and person-hour logs; separate training, commissioning, live control, recovery, ground support and fallback.",
+      "wouldChange": "Calculate bounded workflow economics and characterize the actual division of work.",
+      "alternativeExplanation": "Labor may move to integration or recovery rather than disappear; data-collection teleoperation does not imply live teleoperation.",
+      "progress": {
+        "state": "Partially answered",
+        "reviewedAt": "2026-09-10",
+        "casePaths": [
+          "cases/human-authority.md",
+          "cases/ehang-operations.md"
+        ],
+        "finding": "Concrete human jobs identified across task entry, piloting, ground operations and training. Public labor/utilization claims lack matched task, period and cost records."
+      }
+    },
+    {
+      "id": "AQ04",
+      "question": "Does performance survive the stated operating envelope?",
+      "doctrineIds": [
+        "D08"
+      ],
+      "stackIds": [
+        "AS01",
+        "AS02",
+        "AS05",
+        "AS07"
+      ],
+      "request": "Civilian field results with version, load/posture, temperature, duration, sensor/compute configuration, support infrastructure, failures and accepted outputs.",
+      "wouldChange": "Separate laboratory or peak capability from repeatable use under customer conditions.",
+      "alternativeExplanation": "A favorable demonstration may omit cooling, charging, difficult inputs or recovery time.",
+      "progress": {
+        "state": "Partially answered",
+        "reviewedAt": "2026-09-10",
+        "casePaths": [
+          "cases/ehang-operations.md",
+          "cases/unitree-dependencies.md"
+        ],
+        "finding": "Cooling support and configuration distinctions expose why autonomy performance depends on the surrounding system. No matched independent field envelope established."
+      }
+    },
+    {
+      "id": "AQ05",
+      "question": "Who creates and owns the integration that makes the workflow useful?",
+      "doctrineIds": [
+        "D05",
+        "D08"
+      ],
+      "stackIds": [
+        "AS03",
+        "AS08",
+        "AS09"
+      ],
+      "economicsIds": [
+        "TE-SP-X30",
+        "TE-ZEEKR-SLITE"
+      ],
+      "request": "Named integrator/customer scope of work, software version, acceptance criteria and support contract; compare engineering hours across repeat deployments.",
+      "wouldChange": "Attribute value and recurring work across OEM, integrator, software provider and customer.",
+      "alternativeExplanation": "A successful deployment may depend on extensive site-specific engineering rather than a general-purpose model.",
+      "progress": {
+        "state": "Partially answered",
+        "reviewedAt": "2026-09-10",
+        "casePaths": [
+          "cases/human-authority.md",
+          "cases/ownership-and-software.md"
+        ],
+        "finding": "A naval warehouse report names civilian-team collaboration without identifying the team. Jingpin's dated software project shows development progress but leaves customer acceptance open."
+      }
+    },
+    {
+      "id": "AQ06",
+      "question": "What specific artifact or capability crossed the civil–military boundary?",
+      "doctrineIds": [
+        "D05"
+      ],
+      "stackIds": [
+        "AS01",
+        "AS03",
+        "AS06",
+        "AS09"
+      ],
+      "request": "Separate post-sale cooperation agreement or delivered work; identify the warehouse civilian team and actual artifact; verify any common military/civil software version rather than infer it from ownership.",
+      "wouldChange": "Promote a technical-relevance hypothesis into a bounded relationship; operating capability still requires separate evidence.",
+      "alternativeExplanation": "Similar technologies or institutions may have no documented transfer relationship.",
+      "progress": {
+        "state": "Partially answered",
+        "reviewedAt": "2026-09-10",
+        "casePaths": [
+          "cases/human-authority.md",
+          "cases/ownership-and-software.md"
+        ],
+        "finding": "Buyer-side Shuguang ownership verified through June 2026; separate prospective cooperation terms located. Warehouse collaboration is reported at team level. Shared software lineage or an accepted transferred autonomous capability remains unestablished."
+      }
+    },
+    {
+      "id": "AQ07",
+      "question": "Which claims are backed by a formal requirement and which by actual testing?",
+      "doctrineIds": [
+        "D02",
+        "D04",
+        "D08"
+      ],
+      "stackIds": [
+        "AS10"
+      ],
+      "request": "Operator-specific approved program/permissions or final procurement specification, plus separate configuration-specific test and acceptance records.",
+      "wouldChange": "Distinguish an authoritative rule, a draft, a participant list and tested conformity.",
+      "alternativeExplanation": "A standard's existence or a company's drafting participation does not establish conformity.",
+      "progress": {
+        "state": "Partially answered",
+        "reviewedAt": "2026-09-10",
+        "casePaths": [
+          "cases/human-authority.md",
+          "cases/ehang-operations.md"
+        ],
+        "finding": "Final CAAC remote-pilot training standard and military procurement intent inspected. The former concerns civilian training; the latter requested functions. Neither supplies named-system acceptance."
+      }
+    },
+    {
+      "id": "AQ08",
+      "question": "Do newer learned policies reduce adaptation and recovery work at a new site?",
+      "doctrineIds": [
+        "D07",
+        "D08"
+      ],
+      "stackIds": [
+        "AS04",
+        "AS05",
+        "AS06"
+      ],
+      "request": "Held-out task/site evaluation with adaptation data, training time, human recovery, compute configuration and pre/post release comparison.",
+      "wouldChange": "Connect model progress to deployment effort and accepted output.",
+      "alternativeExplanation": "A benchmark gain can depend on extra demonstrations, a different embodiment or compute unavailable in the deployed configuration.",
+      "progress": {
+        "state": "Open",
+        "reviewedAt": "2026-09-10",
+        "casePaths": [
+          "cases/unitree-dependencies.md"
+        ],
+        "finding": "Multiple development routes are documented, but no matched evidence of reduced adaptation or recovery work was obtained."
+      }
+    }
   ]
 }

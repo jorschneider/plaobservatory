@@ -12,6 +12,8 @@ The most useful research object is **a bounded function under a specified alloca
 
 There is no sound basis here for one national autonomy ladder. One signed 2024 article uses loop terminology in an unusual order, and its own highest-autonomy category still includes human monitoring and takeover. Preserve source wording and code concrete human functions separately.
 
+The [worked support cases](cases/human-authority.md) now supply concrete examples: reported human roles in logistics and warehouse handling, and a medical-transport buyer's requested modes. They are different evidence from the eight policy/concept sources below. These unarmed support examples do not establish compliance with weapon-specific human-control commitments or a tested ability to intervene. No acceptance record was obtained.
+
 ## Eight core source records
 
 ### D01 — 2019 national-defense white paper

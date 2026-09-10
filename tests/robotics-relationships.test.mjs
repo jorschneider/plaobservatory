@@ -56,6 +56,51 @@ test("Estun ownership ends in two documented stages", () => {
   assert.equal(associate.effectiveStart, control.effectiveEnd);
   assert.equal(associate.effectiveEnd, "2025-11-03");
 });
+test("buyer accounting control does not overwrite seller disposal or imply perpetual currentness", () => {
+  const exit = d.relationships.find((r) => r.id === "R-ESTUN-EXIT");
+  const buyer = d.relationships.find((r) => r.id === "R-XINHONGYE-CONTROL");
+  assert.equal(exit.eventDate, "2025-11-03");
+  assert.equal(buyer.effectiveStart, "2025-11-04");
+  assert.equal(buyer.effectiveEnd, null);
+  assert.match(buyer.currentness, /30 June 2026/);
+  assert.match(buyer.relation, /62% direct/);
+  const revenue = d.metrics.find((m) => m.id === "M-SHUGUANG-POSTACQUISITION-REVENUE");
+  assert.equal(revenue.value, 33496772.42);
+  assert.match(revenue.scope, /4 November–31 December 2025/);
+  assert.match(revenue.scope, /not full-year, military-only or software revenue/);
+});
+test("post-sale cooperation and software ownership do not establish implemented autonomy", () => {
+  const cooperation = d.relationships.find((r) => r.id === "R-ESTUN-COOPERATION");
+  assert.equal(cooperation.eventDate, "2025-10-20");
+  assert.deepEqual(cooperation.productIds, []);
+  assert.match(cooperation.transactionStage, /separate detailed agreement required/);
+  assert.equal(cooperation.technicalStage, "Implementation unverified");
+  for (const id of ["R-XINHONGYE-SHUGUANG-SOFTWARE", "R-XINHONGYE-HUANYU-SOFTWARE"]) {
+    const ownership = d.relationships.find((r) => r.id === id);
+    assert.match(ownership.relation, /62% indirect/);
+    assert.deepEqual(ownership.productIds, []);
+    assert.equal(ownership.technicalStage, "Autonomy functionality unestablished");
+  }
+});
+test("Jingpin completed software work remains separate from tender objectives and unnamed simulation", () => {
+  const software = d.relationships.find((r) => r.id === "R-JINGPIN-WMS");
+  assert.equal(d.products.find((p) => p.id === "P-JINGPIN-WMS").manufacturerId, null);
+  assert.equal(software.transactionStage, "Customer acceptance not established");
+  assert.equal(software.eventDate, "2026-06-30");
+  assert.ok(!software.claimIds.includes("C-JINGPIN-WCS-SIMULATION"));
+  const progress = d.claims.find((c) => c.id === "C-JINGPIN-WMS-2026");
+  assert.match(progress.text, /completed software testing and updates/);
+  assert.match(progress.text, /tender statements remain intended objectives/);
+  assert.match(progress.locator, /header and row 10/);
+  const simulation = d.claims.find((c) => c.id === "C-JINGPIN-WCS-SIMULATION");
+  assert.match(simulation.text, /5,000 simulated orders/);
+  assert.match(simulation.limitation, /Not customer-site throughput/);
+  assert.ok(!d.metrics.some((m) => m.claimId === simulation.id));
+  const equivalents = d.metrics.find((m) => m.id === "M-JINGPIN-EQUIVALENTS-2025");
+  assert.equal(equivalents.value, 12248);
+  assert.equal(equivalents.unit, "G001 labor equivalents");
+  assert.match(equivalents.scope, /not actual robots/);
+});
 test("metrics preserve units and business scope; manufacturing research stays distinct", () => {
   const equivalents = d.metrics.find((m) => m.id === "M-JINGPIN-EQUIVALENTS");
   assert.equal(equivalents.value, 3197); assert.equal(equivalents.unit, "G001 labor equivalents");

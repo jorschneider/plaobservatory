@@ -1,6 +1,6 @@
 # The Chinese autonomy stack: an analyst's evidence map
 
-Research cut-off and source check: 2026-09-10. This is a selected foundation of ten cases, not a claim to cover every model or supplier released by that date. Only original papers, maintainers' repositories, manufacturers, a customer and government standards records support the factual claims below. Product pages and default GitHub branches are mutable; these are dated observations, not archived snapshots. arXiv version links identify the reviewed text.
+Research cut-off and source check: 2026-09-10. This is a selected foundation of ten cases, not a claim to cover every model or supplier released by that date. Only original papers, maintainers' repositories, manufacturers, a customer and government standards records support the factual claims below. Product pages and default GitHub branches are mutable; these are dated observations unless a commit is pinned. The [Unitree dependency case](cases/unitree-dependencies.md) records six inspected commits and file-level evidence. arXiv version links identify the reviewed text.
 
 ## The organizing idea
 
@@ -30,39 +30,39 @@ These processes are an analytical decomposition. The examples below are not a cl
 
 ### AS02 — Onboard compute and physical limits: Unitree G1/G1 EDU
 
-**Evidence:** The official comparison distinguishes an eight-core base CPU from the EDU's selectable additional compute, listing Orin as one option. It also specifies depth camera plus 3D LiDAR, local air cooling, different maximum joint torque/load values by configuration, and approximately two hours of battery life. Its footnote explicitly says arm load changes substantially with extension posture.
+**Evidence:** The official comparison lists an eight-core CPU for both G1 and G1 EDU, with additional compute options including Orin for EDU. It marks secondary development for EDU, with no corresponding entry for base G1. The page also specifies depth camera plus 3D LiDAR, local air cooling, configuration-dependent maximum joint torque/load, and approximately two hours of battery life. Its footnote says arm load changes substantially with extension posture.
 
 **Stage:** Manufacturer specification; not measured sustained performance.
 
-**Dependency/boundary:** Do not assign an Orin to every G1, infer a fixed TOPS figure from the current page, or turn maximum torque into continuous torque. The page does not establish task-level inference latency, thermal derating, accepted output or sustained utilization. It expressly says some displayed functions remain under development/testing.
+**Dependency/boundary:** Match developer access and compute to the purchased configuration. Neither an optional Orin nor a development workstation's GPU establishes the onboard inference hardware. Do not infer a fixed TOPS figure or turn maximum torque into continuous torque. Task-level latency, thermal derating, accepted output and sustained utilization remain unmeasured here. Some displayed functions remain under development/testing.
 
 **Analyst question:** For the actual purchased configuration, what runs on which processor, at what power/latency, and under what posture/load/temperature envelope?
 
-**Source/locator:** [Unitree G1](https://www.unitree.com/g1/), “Unitree G1 Parameter,” electrical characteristics, accessories and footnotes [1], [2], [5], [8]; undated live page checked 2026-09-10.
+**Source/locator:** [Unitree G1](https://www.unitree.com/g1/), “Unitree G1 Parameter,” electrical characteristics, accessories, secondary development and footnotes [1], [2], [3], [5], [8]; undated live page checked 2026-09-10. See [dependency case UP01](cases/unitree-dependencies.md#up01--commercial-configuration-gates-the-developer-claim).
 
 ### AS03 — Runtime and communications: Unitree SDK2 and ROS2
 
-**Evidence:** Unitree's maintained SDK documentation identifies Eclipse CycloneDDS as its robot communications mechanism. The ROS2 repository documents message compatibility and tested operating-system/distribution combinations. The Python SDK identifies a CycloneDDS dependency and describes request/response and publish/subscribe interfaces.
+**Evidence:** The pinned Python SDK manifest requires CycloneDDS 0.10.2, and its communications code imports that package directly. Unitree also documents a ROS2 message interface that can operate without an SDK wrapper; G1 examples and build targets establish G1 coverage beyond the README's incomplete opening model list. The C++ SDK build imports an architecture-specific prebuilt Unitree library and DDS libraries.
 
-**Stage:** Public developer interface and dependency documentation.
+**Stage:** Public developer interfaces, manifests and build definitions; source inspection, not an executed compatibility test.
 
-**Dependency/boundary:** This is direct evidence that a Chinese robot vendor exposes an interface built on internationally maintained middleware. It does not show that all internal software is open, that every model/configuration exposes identical interfaces, or that the interface is a fleet-level decision maker. Compatibility is not a cybersecurity or functional-safety certification.
+**Dependency/boundary:** These are documented interface options, not a mandatory ROS2-plus-SDK chain. A public repository does not establish source-rebuildability of every binary or disclose the complete shipping controller. Interface parity, purchased-firmware compatibility and switching costs remain unverified. Message compatibility is neither fleet decision-making nor a cybersecurity or functional-safety certification.
 
 **Analyst question:** Which runtime versions, update authority, interface permissions and support commitments apply to the customer's configuration?
 
-**Sources/locators:** [Unitree ROS2 README](https://github.com/unitreerobotics/unitree_ros2), introduction and system requirements; [Python SDK README](https://github.com/unitreerobotics/unitree_sdk2_python), dependencies and usage. Both mutable repositories checked 2026-09-10.
+**Sources/locators:** Pinned [Python manifest](https://github.com/unitreerobotics/unitree_sdk2_python/blob/65691c8a8bc53b98d3976dba4dbf9d5d20b2e7f5/setup.py#L15-L20), [ROS2 README](https://github.com/unitreerobotics/unitree_ros2/blob/668d1ec5a05d1c38d3306bdca7d59f2ba3581a88/README.md), introduction/system requirements and G1 example inventory; [C++ SDK build definition](https://github.com/unitreerobotics/unitree_sdk2/blob/9754cd153af3da471b0fe5f3aa535e426fb11db3/CMakeLists.txt#L37-L58). [Dependency case UP02–UP04](cases/unitree-dependencies.md) supplies commit dates and further file locators.
 
-### AS04 — Training, simulation and locomotion: Unitree RL Gym
+### AS04 — Training, simulation and locomotion: Unitree learning environments
 
-**Evidence:** Unitree's public reinforcement-learning repository explicitly separates training, replay, testing in a second simulator and transfer to a physical robot. It names Isaac Gym and MuJoCo and credits legged_gym and RSL-RL. Its setup documentation identifies PyTorch/CUDA and NVIDIA Isaac Gym dependencies.
+**Evidence:** Unitree RL Gym separates training, replay, a second-simulator check and physical deployment; its setup specifies PyTorch/CUDA, Isaac Gym and RSL-RL. Unitree also publishes G1 environments using Isaac Lab and a MuJoCo-based route, RL Mjlab. The latter pins `mjlab==1.2.0` and `mujoco-warp==3.5.0` but still specifies an NVIDIA GPU. NVIDIA now describes Isaac Gym as unsupported legacy software and recommends Isaac Lab.
 
 **Stage:** Vendor research/development workflow with physical demonstrations; no customer uptime evidence.
 
-**Dependency/boundary:** The repository establishes a concrete international software dependency chain. It does not establish that this is the proprietary shipping controller, that every trained policy works reliably outside its evaluation envelope, or that locomotion solves perception, manipulation and work orchestration. A simulator-to-simulator check is a useful engineering step, not production qualification.
+**Dependency/boundary:** Alternative simulators are documented; equivalent performance, conversion effort and qualification costs are not. Changing the simulator does not establish independence from NVIDIA hardware, and development GPU requirements do not identify onboard compute. These repositories are not a complete dependency lock or evidence of the shipping controller. Locomotion demonstrations do not establish perception, manipulation, work orchestration or customer reliability; a simulator check is not production qualification.
 
 **Analyst question:** Which parts of the pipeline are replaceable, who maintains them, and what independent evidence shows performance surviving a new task, environment or hardware revision?
 
-**Sources/locators:** [Unitree RL Gym README](https://github.com/unitreerobotics/unitree_rl_gym), process overview and acknowledgments; [official setup document](https://github.com/unitreerobotics/unitree_rl_gym/blob/main/doc/setup_en.md), §§2.1–2.3. Mutable repositories checked 2026-09-10.
+**Sources/locators:** Pinned [RL Gym setup](https://github.com/unitreerobotics/unitree_rl_gym/blob/276801e46c5d433564f24658bac64f254b7d2d4b/doc/setup_en.md), §§2.1–2.5; [RL Lab overview](https://github.com/unitreerobotics/unitree_rl_lab/blob/4960b84732b0c2ec593dccbfe963fda1bcd7b1e3/README.md#L9-L13); [RL Mjlab manifest](https://github.com/unitreerobotics/unitree_rl_mjlab/blob/1425b15f73bd4095f0df53709d7c389c3eb9e790/setup.py#L5-L9) and [GPU requirement](https://github.com/unitreerobotics/unitree_rl_mjlab/blob/1425b15f73bd4095f0df53709d7c389c3eb9e790/doc/setup_en.md#L3-L7); [NVIDIA support-status notice](https://developer.nvidia.com/isaac-gym), checked 2026-09-10. See [dependency case UP05–UP07](cases/unitree-dependencies.md) for the snapshots' dates and limits.
 
 ### AS05 — Learned task policies: UniVLA from HKU/OpenDriveLab/AgiBot
 
@@ -138,7 +138,7 @@ These processes are an analytical decomposition. The examples below are not a cl
 
 ## What this changes for the analyst
 
-**Use a dependency ledger, not a national label.** These cases directly document overseas-origin processors, middleware and simulation tools inside some Chinese research/development interfaces. They do not quantify sector-wide dependence, prove irreplaceability, or establish that an alternative can be substituted without cost. Track the particular product/version, the evidence for its dependency, available alternatives and the cost of switching separately.
+**Use a dependency ledger, not a national label.** These cases directly document overseas-origin processors, middleware and simulation tools inside some Chinese research/development interfaces. They do not quantify sector-wide dependence, prove irreplaceability, or establish that an alternative can be substituted without cost. Track the particular product/version, the evidence for its dependency, available alternatives and the cost of switching separately. Distinguish a required package in one implementation from a required function across all implementations, and keep development compute separate from the customer's onboard runtime. The [Unitree case](cases/unitree-dependencies.md) shows why these distinctions change the assessment.
 
 **Separate a demonstrated skill from a deployed process.** A lab robot's task success rate, a manufacturer's payload limit, an AMR scheduler's capacity and a utility's inspection deployment answer different questions. Rank evidence within a common task and operating envelope before comparing vendors.
 

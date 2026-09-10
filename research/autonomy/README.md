@@ -1,6 +1,6 @@
 # Understanding Chinese autonomy: authority, capability and deployment
 
-Research edition: 10 September 2026. Read this synthesis first, then the [doctrine sourcebook](doctrine.md), [technical evidence map](stack.md) and [deployment economics](../industrial-base/task-economics/README.md). The [research queue](questions.json) specifies the evidence that would change the analysis.
+Research edition: 10 September 2026. Read this synthesis and the [worked-case analyst brief](cases/README.md), then the [doctrine sourcebook](doctrine.md), [technical evidence map](stack.md) and [deployment economics](../industrial-base/task-economics/README.md). The [research queue](questions.json) records progress and the evidence that would change the analysis.
 
 **The productive unit of analysis is a function, performed under stated conditions, with a stated division of human and machine responsibility.** A company or a chassis is too broad. A robot can balance autonomously, receive its destination from a person, flag an anomaly with uncertain accuracy, and require a technician to recover after a fault. Calling the whole system autonomous conceals the questions an analyst needs to answer.
 
@@ -85,6 +85,12 @@ Maintain three separate claims:
 
 The national plan supports a policy preference for transfer. The civilian stack cases establish particular research, product and integration capabilities. Neither establishes the missing transaction or military result. Similar vocabulary, a recognizable quadruped or a shared institution cannot close those gaps. The existing [relationship dossiers](../industrial-base/relationship-method.md) provide the model for preserving attribution and transaction stage.
 
+## Worked cases advance the evidence
+
+The [analyst brief](cases/README.md) brings seven observations together: three public military support cases, Unitree's pinned developer dependencies, EHang's passenger operations, Shuguang ownership/cooperation and Jingpin's warehouse software. The strongest new transfer evidence is an explicit report of a civilian team collaborating on a military warehouse system, although the team is unnamed. Buyer filings close an ownership gap; a software-development table exposes the difference between progress and intended goals. These findings are integrated into the relationship dossiers and collection queue.
+
+The cases make different human roles visible without yielding a universal doctrine or a common autonomy score. They also show why software alternatives, ownership and operating readiness require separate records. See the brief for industrial hypotheses, their remaining evidence gaps and questions suitable for a robotics analyst interview.
+
 ## Turn understanding into original reporting
 
 **Follow one complete civilian workflow and one bounded authority question.** For the workflow, seek the Zeekr CTU workcell or SP Group inspection records described in the economics package. Map the robot, sensors, compute, software interfaces, integrator, human roles and accepted output. That connects supply-chain questions to evidence of useful work.
@@ -93,4 +99,4 @@ For the authority question, collect publicly available rules, standards or accep
 
 The resulting analyst brief should show where a claim is strongest and where the chain breaks: policy → proposed role → technical artifact → integration → acceptance → operation. These are evidence categories, not an automatic maturity ladder. A system can have strong locomotion evidence and no measured task success. The [research queue](questions.json) gives eight specific questions, disconfirming explanations and evidence requests.
 
-This release is a selected public-source foundation. It does not establish classified doctrine, sector-wide dependence, representative vendor rankings or combat effectiveness. Economics sources retain their 5 September review date; this autonomy extension is checked through 10 September. Source-level access and version limits are retained in the two sourcebooks.
+This release is a selected public-source foundation. It does not establish classified doctrine, sector-wide dependence, representative vendor rankings or combat effectiveness. Economics sources retain their 5 September review date; this autonomy extension is checked through 10 September. Source-level access and version limits are retained in the sourcebooks and worked cases.
