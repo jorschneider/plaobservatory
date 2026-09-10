@@ -1,8 +1,8 @@
 # Full-text reading ledger
 
-**10 September 2026.** The program has completed **twelve scholarly readings of the versions specified below**, with additional bounded readings and selected primary-source checks. These are twelve works, not twelve independent evidentiary samples. Policy reports and industry chapters are listed separately. The 2023 Gao chapter is counted once as a version of the previously screened 2022 article. Shared authorship, reused interviews and repeated documentary sources are recorded in the memos.
+**10 September 2026.** The program has completed **thirteen scholarly readings of the versions specified below**, with additional bounded readings and selected primary-source checks. These are thirteen works, not thirteen independent evidentiary samples. Policy reports and industry chapters are listed separately. The 2023 Gao chapter is counted once as a version of the previously screened 2022 article. Shared authorship, reused interviews and repeated documentary sources are recorded in the memos.
 
-Start with the [latest implementation and major-power reassessment](../../cases/implementation-and-major-power-reassessment.md), following the [first substantive assessment](../first-full-text-synthesis.md) and [2018–2026 trade-case synthesis](../../cases/us-trade-2018-2026-synthesis.md). This ledger documents their reading base and limits; it is not a claim that the entire literature or the history through 2026 has been covered.
+Start with the [latest Russian and scope reassessment](../../cases/russia-and-scope-reassessment.md), following the [implementation comparison](../../cases/implementation-and-major-power-reassessment.md), [first substantive assessment](../first-full-text-synthesis.md) and [2018–2026 trade-case synthesis](../../cases/us-trade-2018-2026-synthesis.md). This ledger documents their reading base and limits; it is not a claim that the entire literature or the history through 2026 has been covered.
 
 ## Completed scholarly readings
 
@@ -20,6 +20,7 @@ Start with the [latest implementation and major-power reassessment](../../cases/
 | Liang, “外交谈判战略浅析” (2008) | All thirteen publisher-PDF pages, printed 108–120, visually read with notes, two tables and figure | General negotiation theory and small classroom exercise; direct engagement with Solomon, not a professional-diplomat sample. |
 | Tu and Shi, “重振WTO谈判功能的诸边协议路径探析” (2021) | Complete institutional PDF, printed 211–226, footnotes, 28 references and English abstract; selected visual checks | Institutional argument and recommendations; original WTO positions and US-report attribution checked separately. |
 | Cabestan, “China’s foreign and security policy institutions and decision-making under Xi Jinping” (2021) | Complete author-uploaded article HTML, printed 319–336, including references | Institutional description and inferred effects distinguished; selected source chains and official chronology independently checked. |
+| Fravel, “Regime Insecurity and International Cooperation” (2005) | Complete published article, 46–83, all 125 notes; both tables visually inspected | Compromise and its conditions; bounded original-document checks establish public package sequencing, leaving the internal decision and motive unresolved. |
 
 ## Completed policy and participant readings
 
@@ -29,8 +30,16 @@ These are useful additional readings, not additions to the scholarly-article cou
 - **Lardy and Huang (2020), “China’s Financial Opening Accelerates”:** complete twelve-page PIIE brief, all 22 notes, references and five figures. Economic and policy synthesis, not the firm's private approval record. See the [finance case](../../cases/financial-access-implementation.md).
 - **Mark Austen (2022), “Continued Acceleration of the Reform of China’s Capital Markets Still Needed”:** complete substantive chapter and further-reading section in publisher HTML. Industry participant advocacy remains distinguished from an independent causal study despite its academic publisher. See the [finance register, FIN-32](../../sources/financial-access-register.json).
 
+- **Yermakov and Meidan (2022), “Russia and China Expand Their Gas Deal: Key Implications”:** complete 13-page OIES paper, all 30 notes and seven figures read, with every figure visually inspected. Forecasts, inferred pricing parameters and route labels are audited in the [gas case](../../cases/russia-gas-bargaining.md). This is specialist policy research, outside the scholarly count above.
+
+- **Corbeau, Downs and Mitrova (2025), “Power of Siberia 2: Russia’s Pivot, China’s Leverage, and Global Gas Implications”:** complete Columbia CGEP article, including all opening bullets, three analytical sections, conclusion and the sole two-paragraph numbered note. Linked sources were not all independently read. Its generic discussion of memorandum obligations does not establish the unpublished agreement’s clauses. See [RUS-G20](../../sources/russia-gas-register.json).
+- **Hashimoto (2025), “The New Pipeline Agreement Between Russia and China”:** complete six-page IEEJ commentary, including the final timeline, which was visually inspected. Its reconstruction mixes announcements and targets; original dated records supply the case chronology. See [RUS-G21](../../sources/russia-gas-register.json).
+
 ## Bounded and related readings
 
+- **Paik (2015), OIES WPM 59:** front matter i–iv and printed 1–3, 7–10, 32–35, 40–41, including notes; p. 35 visually inspected. Selected reading, not the full 52-page PDF.
+- **Iwashita, subsequent Japanese university essay:** complete short essay read; discusses the October 2004 settlement, but exact publication date remains unverified. Commentary, not a new set of internal negotiations or a completed monograph.
+- **Iwashita (2004):** complete preface ix–xiii, introduction 1–7, Chapters 1 (9–31), 3 (57–90), 6 (155–175), conclusion 177–197 and references/newspaper/interview inventory 198–205. Selected maps visually checked. Chapters 2, 4, 5 and the index remain unread; this is substantial chapter reading, not a completed monograph. See the [Russian border case](../../cases/russia-border-settlement.md).
 - **Zhang Qingmin (2008):** complete chapter body at printed 153–171, but the university teaching packet cuts off during note 5. Pages 172–175 are missing. It is **not a complete chapter reading** under our notes-inclusive standard.
 - **Chadha (2026), “Threading the Needle”:** selected border and negotiation-hierarchy sections and specified notes; not the entire July 2026 follow-up. Its underlying interviews and military observations have their own earlier dates.
 - **Lombardi and Malkin (2017):** selected publisher-indexed sections; full article not retrieved. The domestic-reform mechanism is a hypothesis for the financial case, not independent evidence of JPMorgan-specific decisions.
@@ -49,13 +58,14 @@ These are useful additional readings, not additions to the scholarly-article cou
 | Phase One enforceability and participation | [Critical 2026 reading](phase-one-enforceability.md) | [JSON audit](phase-one-enforceability-evidence.json) |
 | Chinese negotiation theory and institutional choice | [Liang; Tu and Shi; paired official positions](chinese-negotiation-and-institutions.md) | [JSON audit](chinese-negotiation-and-institutions-evidence.json) |
 | Xi-era authority and institutional coordination | [Cabestan critical reading](cabestan-institutions.md) | [JSON audit](cabestan-institutions-evidence.json) |
+| Territorial compromise and a paired 1989 document audit | [Fravel and the Sino-Soviet record](fravel-compromise-and-1989-records.md) | [JSON audit](fravel-compromise-and-1989-evidence.json) |
 
 The primary-source follow-up includes Jiang’s complete **published** February 2002 speech, a complete 2003 WTO negotiating communication, the complete publicly released 2014 and 2025 WTO-compliance texts, selected 2018 institutional-reform clauses, the 2023 Foreign Relations Law, paired January 2010 MFA statements, and China’s intervention in a July 1974 UN Law of the Sea meeting. The 2025 text is expressly abridged; the published Jiang speech is not an unedited transcript. Exact scopes and additional checks are in the registers. A selected passage check is never upgraded to a complete archive or white-paper reading.
 
 ## What remains to establish
 
-The first pass gives a defensible interpretation of available scholarship and several direct documentary findings. The later US trade case now has its own reconstruction and source registers. Major gaps remain in its private draft and approval record, a Russian comparison, additional matched counterpart cases, and the effectiveness of newer procedures. A 2026 publication can examine 1984 or 2012; an observation window must be recorded independently of the date on the cover.
+The first pass gives a defensible interpretation of available scholarship and several direct documentary findings. The later US trade, India and Russian cases have their own reconstructions and source registers. Major gaps remain in private drafts and approval records, additional matched counterpart cases, and the effectiveness of newer procedures. A 2026 publication can examine 1984 or 2012; an observation window must be recorded independently of the date on the cover.
 
-The latest pass supplies selected successful and delayed implementation sequences and an India comparator. It is not a statistically matched causal study. The next step is to recover the application, authorization and verification records identified in those cases. The new Hong Kong study supplies archive leads for a separate major-power baseline check. Missing commercial texts remain useful acquisition leads, but the project proceeds with the online evidence available.
+The later passes supply selected successful and delayed implementation sequences and comparisons with India and Russia. It is not a statistically matched causal study. The next step is to recover the application, authorization and verification records identified in those cases. The new Hong Kong study supplies archive leads for a separate major-power baseline check. Missing commercial texts remain useful acquisition leads, but the project proceeds with the online evidence available.
 
 Full source PDFs, OCR, HTML and rendered source pages remain outside Git. The repository contains original analysis, bibliographic metadata, source locators and the audit of what was read. There has been no new outreach, interview or private archive access.

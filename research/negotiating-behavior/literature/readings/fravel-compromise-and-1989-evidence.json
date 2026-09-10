@@ -1,0 +1,126 @@
+{
+  "title": "Fravel 2005: full reading and bounded 1989 documentary audit",
+  "research_date": "2026-09-10",
+  "sources": [
+    {
+      "id": "FRA-01",
+      "url": "https://www.taylorfravel.com/documents/research/fravel.2005.IS.regime.insecurity.pdf",
+      "type": "scholarly article",
+      "read_scope": "Complete published article pp. 46–83, all 38 physical pages and 125 notes; Table 1 (two pages) and Table 2 visually read.",
+      "local_snapshot": "/Users/jorsc/.codex/.chatgpt-projects/g-p-6a94dd290a988191911d85ae8fe94a6c/tmp/pdfs/research-2026-09-10-russia/scholarship/fravel-2005.pdf",
+      "sha256": "249db99f789d9ac5b15d033ab06e38351ffad3317e754655c6ed117a64f28087",
+      "bytes": 173038
+    },
+    {
+      "id": "FRA-02",
+      "url": "https://www.gov.cn/gongbao/shuju/1989/gwyb198909.pdf",
+      "type": "contemporaneous Chinese official publication",
+      "read_scope": "Complete May 18, 1989 communiqué only, printed 412–415/PDF 28–31, visually read. Other gazette items unread.",
+      "local_snapshot": "/Users/jorsc/.codex/.chatgpt-projects/g-p-6a94dd290a988191911d85ae8fe94a6c/tmp/pdfs/research-2026-09-10-russia/scholarship/gazette-1989-09.pdf",
+      "sha256": "3aeddfe3fc966903fbbc8c72ec1771ce20ace5b1da9b0ffd78a0b8612b3386ee",
+      "bytes": 1454769
+    },
+    {
+      "id": "FRA-03",
+      "url": "https://massline.org/PekingReview/PR1989/PR1989-22.pdf",
+      "type": "contemporary official English publication, third-party scan",
+      "read_scope": "Complete English communiqué printed/PDF 11–13 only; p. 12 visually checked. Entire issue not read.",
+      "local_snapshot": "/Users/jorsc/.codex/.chatgpt-projects/g-p-6a94dd290a988191911d85ae8fe94a6c/tmp/pdfs/research-2026-09-10-russia/scholarship/beijing-review-1989-22.pdf",
+      "sha256": "89ace5dd8e71769cbfb15eb4d15702ca64c3b36ca519c5911b00112ca4bb337c",
+      "bytes": 7483161
+    },
+    {
+      "id": "FRA-04",
+      "url": "https://web.unica.it/static/resources/cms/documents/MeetingGorbachevandDengMAY1989.pdf",
+      "type": "retrospective participant memoir excerpt, archival-portal translation",
+      "read_scope": "All five PDF pages including provenance. English translation by Sergey Radchenko of memoir excerpts; Russian original and other cited editions not read.",
+      "local_snapshot": "/Users/jorsc/.codex/.chatgpt-projects/g-p-6a94dd290a988191911d85ae8fe94a6c/tmp/pdfs/research-2026-09-10-russia/scholarship/gorbachev-deng-1989.pdf",
+      "sha256": "40ffed5ac13c8266e2a62860aa280a7f41eb59e94a72ded0b8789af0723f6dec",
+      "bytes": 80586
+    },
+    {
+      "id": "FRA-DENG-291",
+      "url": "https://ebook.theorychina.org.cn/ebook/upload/storage/files/2022/07/26/b7469def27f222558b43b4f322630ac465633/files/basic-html/page307.html",
+      "type": "official selected-works publication",
+      "read_scope": "Complete substantive printed page 291 via web; selected conversation body 291–295 complete as a group. Separate volume endnotes not read.",
+      "local_snapshot": "/Users/jorsc/.codex/.chatgpt-projects/g-p-6a94dd290a988191911d85ae8fe94a6c/tmp/pdfs/research-2026-09-10-russia/scholarship/deng-1989-page307.html",
+      "sha256": "540fe366485ae826e0c823c815a6ae85e642e63f65417695ce15af89aa1b911e",
+      "bytes": 9231
+    },
+    {
+      "id": "FRA-DENG-292",
+      "url": "https://ebook.theorychina.org.cn/ebook/upload/storage/files/2022/07/26/b7469def27f222558b43b4f322630ac465633/files/basic-html/page308.html",
+      "type": "official selected-works publication",
+      "read_scope": "Complete substantive printed page 292 via web; selected conversation body 291–295 complete as a group. Separate volume endnotes not read.",
+      "local_snapshot": "/Users/jorsc/.codex/.chatgpt-projects/g-p-6a94dd290a988191911d85ae8fe94a6c/tmp/pdfs/research-2026-09-10-russia/scholarship/deng-1989-page308.html",
+      "sha256": "a9c797629416d51b5b273fb30d84dc692b0fd459b8fd549cfa2d2ff03e4286cb",
+      "bytes": 9871
+    },
+    {
+      "id": "FRA-DENG-293",
+      "url": "https://ebook.theorychina.org.cn/ebook/upload/storage/files/2022/07/26/b7469def27f222558b43b4f322630ac465633/files/basic-html/page309.html",
+      "type": "official selected-works publication",
+      "read_scope": "Complete substantive printed page 293 via web; selected conversation body 291–295 complete as a group. Separate volume endnotes not read.",
+      "local_snapshot": null,
+      "capture_limit": "Direct HTML preservation timed out; page read through web."
+    },
+    {
+      "id": "FRA-DENG-294",
+      "url": "https://ebook.theorychina.org.cn/ebook/upload/storage/files/2022/07/26/b7469def27f222558b43b4f322630ac465633/files/basic-html/page310.html",
+      "type": "official selected-works publication",
+      "read_scope": "Complete substantive printed page 294 via web; selected conversation body 291–295 complete as a group. Separate volume endnotes not read.",
+      "local_snapshot": "/Users/jorsc/.codex/.chatgpt-projects/g-p-6a94dd290a988191911d85ae8fe94a6c/tmp/pdfs/research-2026-09-10-russia/scholarship/deng-1989-page310.html",
+      "sha256": "3d3860b34af3e68b69c82c528970b975e92ccfbab7155bd0c3f7ebbe88420bf2",
+      "bytes": 9884
+    },
+    {
+      "id": "FRA-DENG-295",
+      "url": "https://ebook.theorychina.org.cn/ebook/upload/storage/files/2022/07/26/b7469def27f222558b43b4f322630ac465633/files/basic-html/page311.html",
+      "type": "official selected-works publication",
+      "read_scope": "Complete substantive printed page 295 via web; selected conversation body 291–295 complete as a group. Separate volume endnotes not read.",
+      "local_snapshot": null,
+      "capture_limit": "Direct HTML preservation timed out; page read through web."
+    },
+    {
+      "id": "FRA-05",
+      "url": "https://www.mfa.gov.cn/web/wjb_673085/zzjg_673183/bjhysws_674671/bhgjty/ldbjty/202303/P020230320538669617544.pdf",
+      "type": "official treaty",
+      "read_scope": "Title and signature/entry-into-force dates checked by root; substantive coverage separately recorded in the Russian border register."
+    }
+  ],
+  "source_chain_audit": [
+    {
+      "locator": "Fravel p. 76, note 104",
+      "claim": "Package separation and timing",
+      "status": "Primary May 18, 1989 public simultaneity wording recovered; no internal authorization date or causal motive established."
+    },
+    {
+      "locator": "Fravel p. 78",
+      "claim": "Eastern agreement signature",
+      "status": "Correct April 1991 to May 16, 1991 using official treaty."
+    },
+    {
+      "locator": "Fravel p. 64, note 52",
+      "claim": "2004 settlement explanation",
+      "status": "Article explicitly marks exception to domestic-insecurity account. Cited NTV/Lavrov 2004 interview remains unacquired in this root audit."
+    },
+    {
+      "locator": "Gorbachev document cover",
+      "claim": "Provenance",
+      "status": "1995 memoir pp. 435–440 excerpts, translated; not contemporaneous verbatim minutes."
+    }
+  ],
+  "proposition_links": [
+    "S-C01",
+    "S-C18",
+    "S-C19",
+    "S-P05",
+    "S-P12"
+  ],
+  "limits": [
+    "Full reading of references does not mean full reading of cited sources.",
+    "No private Chinese instructions or new interviews acquired.",
+    "Same communiqué in Chinese and English is one negotiated document, not two independent decisions.",
+    "Separate authored accounts do not authenticate every word of the conversation."
+  ]
+}

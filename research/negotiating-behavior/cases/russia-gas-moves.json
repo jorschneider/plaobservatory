@@ -1,0 +1,703 @@
+{
+  "case": "Russia–China eastern gas implementation and deferred western/PS2 bargaining",
+  "research_date": "2026-09-10",
+  "record_count": 30,
+  "date_policy": "Dates distinguish event and publication. Slash intervals denote known event/report windows, not continuous bargaining. Year/month-only observations retain that precision.",
+  "classification_policy": "Policy texts, forecasts and operating observations are included as context or tests, not automatically coded as negotiating moves. A claimed binding instrument does not imply all commercial terms are settled.",
+  "moves": [
+    {
+      "id": "RUS-M01",
+      "event_date": "2013-09-05",
+      "record_type": "reported partial binding agreement and target",
+      "actor": "Gazprom/CNPC; Putin and Xi witness",
+      "project": "Eastern route",
+      "setting_channel_audience": "Public record; no private instruction or bargaining channel inferred",
+      "observed_move_or_state": "Principal terms agreed; price left open; Gazprom expects final contract before year-end.",
+      "next_observable_response_or_state": "Final sale not signed until May 2014.",
+      "source_references": [
+        {
+          "source_id": "RUS-G01",
+          "locator": "Complete article"
+        }
+      ],
+      "confidence": "high for public stages",
+      "inference_limit": "Underlying agreement unavailable; leader attendance is not price agreement.",
+      "solomon_ids": [
+        "S-P12",
+        "S-P24"
+      ]
+    },
+    {
+      "id": "RUS-M02",
+      "event_date": "2014-05-20",
+      "record_type": "unresolved round during leader visit",
+      "actor": "Peskov/Gazprom; Chinese counterparts not directly quoted",
+      "project": "Eastern route",
+      "setting_channel_audience": "Public record; no private instruction or bargaining channel inferred",
+      "observed_move_or_state": "Public account says price remains unresolved; negotiations continue.",
+      "next_observable_response_or_state": "Sales contract signed next day.",
+      "source_references": [
+        {
+          "source_id": "RUS-G02",
+          "locator": "Complete two-page PDF"
+        }
+      ],
+      "confidence": "high for continued talks; lower for anonymous claims",
+      "inference_limit": "One day without signature is not a failed visit; reported financing disagreement not an authenticated offer.",
+      "solomon_ids": [
+        "S-P23",
+        "S-P24"
+      ]
+    },
+    {
+      "id": "RUS-M03",
+      "event_date": "2014-05-21",
+      "record_type": "sales contract signature",
+      "actor": "CNPC and Gazprom",
+      "project": "Eastern route",
+      "setting_channel_audience": "Public record; no private instruction or bargaining channel inferred",
+      "observed_move_or_state": "Chinese account reports thirty-year contract, annual ramp to 38 bcm, separate national construction responsibilities.",
+      "next_observable_response_or_state": "Government decisions and infrastructure implementation remain.",
+      "source_references": [
+        {
+          "source_id": "RUS-G04",
+          "locator": "Complete signing article"
+        }
+      ],
+      "confidence": "high for signing/announced obligations",
+      "inference_limit": "2018 proposed supply start not treated as final amended commencement date.",
+      "solomon_ids": [
+        "S-P24",
+        "S-P25"
+      ]
+    },
+    {
+      "id": "RUS-M04",
+      "event_date": "2014-05-21",
+      "record_type": "presidential account of agreement",
+      "actor": "Putin",
+      "project": "Eastern route",
+      "setting_channel_audience": "Public record; no private instruction or bargaining channel inferred",
+      "observed_move_or_state": "Describes overnight work, reciprocal compromise, remaining government decisions, estimated investment and oil/petroleum-linked formula.",
+      "next_observable_response_or_state": "Financing option remains under discussion.",
+      "source_references": [
+        {
+          "source_id": "RUS-G03",
+          "locator": "Opening gas answers and final correction"
+        }
+      ],
+      "confidence": "high for statements",
+      "inference_limit": "Private concessions and coefficients unknown; investment estimates are not Chinese prepayment.",
+      "solomon_ids": [
+        "S-C18",
+        "S-P24"
+      ]
+    },
+    {
+      "id": "RUS-M05",
+      "event_date": "2014-05-21",
+      "record_type": "corporate valuation announcement",
+      "actor": "Alexei Miller",
+      "project": "Eastern route",
+      "setting_channel_audience": "Public record; no private instruction or bargaining channel inferred",
+      "observed_move_or_state": "Announces 400-billion-dollar lifetime valuation.",
+      "next_observable_response_or_state": "Reported price debate continues in contemporary reporting.",
+      "source_references": [
+        {
+          "source_id": "RUS-G06",
+          "locator": "Complete report"
+        },
+        {
+          "source_id": "RUS-G05",
+          "locator": "Price-floor and expert-assessment paragraphs"
+        }
+      ],
+      "confidence": "high for valuation claim",
+      "inference_limit": "Arithmetic average is not fixed actual price or measured concession.",
+      "solomon_ids": [
+        "S-C18"
+      ]
+    },
+    {
+      "id": "RUS-M06",
+      "event_date": "2014-05-23",
+      "record_type": "conditional financing announcement",
+      "actor": "Alexander Medvedev, Gazprom Export CEO",
+      "project": "Eastern route",
+      "setting_channel_audience": "Public record; no private instruction or bargaining channel inferred",
+      "observed_move_or_state": "Says 25-billion-dollar advance agreed in principle, with details still discussed.",
+      "next_observable_response_or_state": "November account drops advance option.",
+      "source_references": [
+        {
+          "source_id": "RUS-G07",
+          "locator": "Complete Reuters story"
+        }
+      ],
+      "confidence": "high for conditional statement",
+      "inference_limit": "Not prime minister Dmitry Medvedev; no signed financing agreement or transfer proved.",
+      "solomon_ids": [
+        "S-P12",
+        "S-P25"
+      ]
+    },
+    {
+      "id": "RUS-M07",
+      "event_date": "2014-11-09/2014-11-10",
+      "record_type": "reported financing option withdrawn",
+      "actor": "Miller, as reported by Interfax and Panin",
+      "project": "Eastern route",
+      "setting_channel_audience": "Public record; no private instruction or bargaining channel inferred",
+      "observed_move_or_state": "Advance-price-reduction option no longer considered after price settlement; Chinese bank loans discussed without concrete agreement.",
+      "next_observable_response_or_state": "Project proceeds without demonstrated 25-billion-dollar prepayment.",
+      "source_references": [
+        {
+          "source_id": "RUS-G08",
+          "locator": "Financing paragraphs"
+        },
+        {
+          "source_id": "RUS-G09",
+          "locator": "Printed p.35 and notes 116–118"
+        }
+      ],
+      "confidence": "medium-high",
+      "inference_limit": "Date interval distinguishes quoted weekend remarks from Nov 10 article. No breach of binding prepayment established.",
+      "solomon_ids": [
+        "S-P25"
+      ]
+    },
+    {
+      "id": "RUS-M08",
+      "event_date": "2014-11-09",
+      "record_type": "framework agreement",
+      "actor": "Gazprom/CNPC; senior political backing",
+      "project": "Original western/Altai route",
+      "setting_channel_audience": "Public record; no private instruction or bargaining channel inferred",
+      "observed_move_or_state": "Framework for initial 30 bcm western supply.",
+      "next_observable_response_or_state": "Heads of agreement in May 2015; commercial talks still ahead in December.",
+      "source_references": [
+        {
+          "source_id": "RUS-G09",
+          "locator": "Printed pp. 1–3,7–10"
+        }
+      ],
+      "confidence": "medium-high",
+      "inference_limit": "Framework is not sales agreement; original text unavailable.",
+      "solomon_ids": [
+        "S-P12",
+        "S-P24"
+      ]
+    },
+    {
+      "id": "RUS-M09",
+      "event_date": "2015-04",
+      "record_type": "specialist forecast, not negotiating move",
+      "actor": "Keun-Wook Paik",
+      "project": "Original western/Altai route",
+      "setting_channel_audience": "Public record; no private instruction or bargaining channel inferred",
+      "observed_move_or_state": "Interprets Chinese senior support as strengthening prospect of western deal.",
+      "next_observable_response_or_state": "Later record does not show anticipated prompt commercial closure.",
+      "source_references": [
+        {
+          "source_id": "RUS-G09",
+          "locator": "Printed pp. 9–10,40–41"
+        }
+      ],
+      "confidence": "high for forecast; not outcome",
+      "inference_limit": "Month-precision publication date; assess prediction against failed/deferred round.",
+      "solomon_ids": [
+        "S-P24"
+      ]
+    },
+    {
+      "id": "RUS-M10",
+      "event_date": "2015-05-08",
+      "record_type": "heads of agreement",
+      "actor": "Gazprom/CNPC",
+      "project": "Original western/Altai route",
+      "setting_channel_audience": "Public record; no private instruction or bargaining channel inferred",
+      "observed_move_or_state": "Heads of agreement signed for western supply, initially 30 bcm/year.",
+      "next_observable_response_or_state": "December release explicitly schedules further commercial talks.",
+      "source_references": [
+        {
+          "source_id": "RUS-G10",
+          "locator": "Background, May 8 heads of agreement"
+        }
+      ],
+      "confidence": "high for company-reported signing",
+      "inference_limit": "Same name Power of Siberia 2 later used for different Mongolia route.",
+      "solomon_ids": [
+        "S-P12"
+      ]
+    },
+    {
+      "id": "RUS-M11",
+      "event_date": "2015-12-17",
+      "record_type": "implementation instruments and unfinished parallel negotiation",
+      "actor": "Gazprom/CNPC; Medvedev and Li witness",
+      "project": "Eastern route; western comparison",
+      "setting_channel_audience": "Public record; no private instruction or bargaining channel inferred",
+      "observed_move_or_state": "Eastern cross-border design/construction and communications arrangements signed; western commercial round planned for January 2016.",
+      "next_observable_response_or_state": "Eastern delivery date later fixed; western sale not demonstrated.",
+      "source_references": [
+        {
+          "source_id": "RUS-G10",
+          "locator": "Release paragraphs on cross-border agreement and western commercial talks"
+        }
+      ],
+      "confidence": "high for corporate record",
+      "inference_limit": "Technical instruments do not publish private decisions or later compliance.",
+      "solomon_ids": [
+        "S-P24",
+        "S-P25"
+      ]
+    },
+    {
+      "id": "RUS-M12",
+      "event_date": "2017-07-04",
+      "record_type": "agreed commencement announcement",
+      "actor": "Gazprom/CNPC; Miller public remarks",
+      "project": "Eastern route",
+      "setting_channel_audience": "Public record; no private instruction or bargaining channel inferred",
+      "observed_move_or_state": "Announces December 20,2019 start in Xi visit setting.",
+      "next_observable_response_or_state": "Actual first supply on December 2,2019.",
+      "source_references": [
+        {
+          "source_id": "RUS-G11",
+          "locator": "Complete July 5 report of July 4 remarks"
+        }
+      ],
+      "confidence": "high for announcement",
+      "inference_limit": "Underlying supplemental instrument not independently acquired.",
+      "solomon_ids": [
+        "S-P24",
+        "S-P25"
+      ]
+    },
+    {
+      "id": "RUS-M13",
+      "event_date": "2019-12-02",
+      "record_type": "first operating supply",
+      "actor": "Gazprom/CNPC",
+      "project": "Eastern route",
+      "setting_channel_audience": "Public record; no private instruction or bargaining channel inferred",
+      "observed_move_or_state": "First Russian pipeline deliveries to China begin.",
+      "next_observable_response_or_state": "Annual ramp and subsequent increases in actual flow.",
+      "source_references": [
+        {
+          "source_id": "RUS-G12",
+          "locator": "Notes on 2014 SPA and December 2,2019 ceremony"
+        }
+      ],
+      "confidence": "high",
+      "inference_limit": "First flow does not equal full 38 bcm annual plateau.",
+      "solomon_ids": [
+        "S-P25"
+      ]
+    },
+    {
+      "id": "RUS-M14",
+      "event_date": "2022-01",
+      "record_type": "engineering feasibility milestone",
+      "actor": "Gazprom/Soyuz Vostok",
+      "project": "Mongolia-transit PS2",
+      "setting_channel_audience": "Public record; no private instruction or bargaining channel inferred",
+      "observed_move_or_state": "Soyuz Vostok feasibility study completed.",
+      "next_observable_response_or_state": "Chinese supply agreement remains a separate requirement.",
+      "source_references": [
+        {
+          "source_id": "RUS-G12",
+          "locator": "Final Notes paragraph"
+        },
+        {
+          "source_id": "RUS-G13",
+          "locator": "Printed pp. 4–5"
+        }
+      ],
+      "confidence": "high for reported milestone",
+      "inference_limit": "Month only supplied; engineering progress is not Chinese committed offtake.",
+      "solomon_ids": [
+        "S-P12"
+      ]
+    },
+    {
+      "id": "RUS-M15",
+      "event_date": "2022-02-04",
+      "record_type": "second sales agreement",
+      "actor": "Gazprom/CNPC",
+      "project": "Far Eastern route",
+      "setting_channel_audience": "Public record; no private instruction or bargaining channel inferred",
+      "observed_move_or_state": "Second long-term SPA adds prospective 10 bcm/year at full capacity.",
+      "next_observable_response_or_state": "Distinct from ongoing Mongolia-route negotiations.",
+      "source_references": [
+        {
+          "source_id": "RUS-G12",
+          "locator": "Complete release"
+        }
+      ],
+      "confidence": "high for reported SPA",
+      "inference_limit": "Original release supplies neither contract duration nor start date.",
+      "solomon_ids": [
+        "S-P24",
+        "S-P25"
+      ]
+    },
+    {
+      "id": "RUS-M16",
+      "event_date": "2023-03-21",
+      "record_type": "contrasting unilateral and joint public formulations",
+      "actor": "Putin; China–Russia joint statement",
+      "project": "Mongolia-transit PS2",
+      "setting_channel_audience": "Public record; no private instruction or bargaining channel inferred",
+      "observed_move_or_state": "Putin describes nearly agreed parameters; joint Chinese text calls for research and consultation on trilateral pipeline.",
+      "next_observable_response_or_state": "2024 reporting identifies continuing price/volume dispute.",
+      "source_references": [
+        {
+          "source_id": "RUS-G14",
+          "locator": "Complete report"
+        },
+        {
+          "source_id": "RUS-G15",
+          "locator": "SectionIII energy/trilateral paragraphs"
+        }
+      ],
+      "confidence": "high for wording",
+      "inference_limit": "Joint statement posted March 22; no final SPA obtained.",
+      "solomon_ids": [
+        "S-P07",
+        "S-P12",
+        "S-P24"
+      ]
+    },
+    {
+      "id": "RUS-M17",
+      "event_date": "2024-06-02",
+      "record_type": "reported unresolved bargaining",
+      "actor": "FT unnamed sources, summarized by Reuters",
+      "project": "Mongolia-transit PS2",
+      "setting_channel_audience": "Public record; no private instruction or bargaining channel inferred",
+      "observed_move_or_state": "Reports Chinese domestic-price and limited-purchase demands.",
+      "next_observable_response_or_state": "Construction memorandum announced September 2025.",
+      "source_references": [
+        {
+          "source_id": "RUS-G16",
+          "locator": "Four-paragraph Reuters summary"
+        }
+      ],
+      "confidence": "medium for dispute; low for exact private terms",
+      "inference_limit": "FT is one source chain; full original not read; no numerical take-or-pay percentage verified.",
+      "solomon_ids": [
+        "S-P23",
+        "S-C18"
+      ]
+    },
+    {
+      "id": "RUS-M18",
+      "event_date": "2024",
+      "record_type": "observed annual throughput",
+      "actor": "Gazprom figures reported by Interfax",
+      "project": "Eastern route",
+      "setting_channel_audience": "Public record; no private instruction or bargaining channel inferred",
+      "observed_move_or_state": "Reported annual deliveries 31.12 bcm.",
+      "next_observable_response_or_state": "2025 annual 38.8 bcm.",
+      "source_references": [
+        {
+          "source_id": "RUS-G26",
+          "locator": "Final substantive paragraph"
+        }
+      ],
+      "confidence": "medium-high",
+      "inference_limit": "Calendar-year amount, not nameplate capacity or independent audit.",
+      "solomon_ids": [
+        "S-P25"
+      ]
+    },
+    {
+      "id": "RUS-M19",
+      "event_date": "2025-09-02",
+      "record_type": "reported construction MOU and separate contract expansions",
+      "actor": "Miller/Gazprom; CNPC counterpart",
+      "project": "PS2; eastern and Far Eastern routes",
+      "setting_channel_audience": "Public record; no private instruction or bargaining channel inferred",
+      "observed_move_or_state": "Reports legally binding 50 bcm construction MOU; separate annual increases 38→44 and 10→12.",
+      "next_observable_response_or_state": "Commercial parameters remain undisclosed and later openly under discussion.",
+      "source_references": [
+        {
+          "source_id": "RUS-G17",
+          "locator": "Complete Miller account"
+        }
+      ],
+      "confidence": "high for announcement; unknown actual clauses",
+      "inference_limit": "Binding MOU may have legal effects without a complete sale; no imported generic clauses.",
+      "solomon_ids": [
+        "S-P12",
+        "S-P24"
+      ]
+    },
+    {
+      "id": "RUS-M20",
+      "event_date": "2025-09-02",
+      "record_type": "spokesperson referral",
+      "actor": "Guo Jiakun, MFA",
+      "project": "PS2",
+      "setting_channel_audience": "Public record; no private instruction or bargaining channel inferred",
+      "observed_move_or_state": "Refers project details to competent authorities, affirms broader energy cooperation.",
+      "next_observable_response_or_state": "Putin supplies unilateral market-pricing rationale next day.",
+      "source_references": [
+        {
+          "source_id": "RUS-G18",
+          "locator": "Complete gas Q&A"
+        }
+      ],
+      "confidence": "high",
+      "inference_limit": "Referral neither confirms final commercial terms nor proves deliberate signalling.",
+      "solomon_ids": [
+        "S-P07",
+        "F09"
+      ]
+    },
+    {
+      "id": "RUS-M21",
+      "event_date": "2025-09-03",
+      "record_type": "presidential interpretation",
+      "actor": "Putin",
+      "project": "PS2",
+      "setting_channel_audience": "Public record; no private instruction or bargaining channel inferred",
+      "observed_move_or_state": "Defends long-term market formula and political consensus.",
+      "next_observable_response_or_state": "Company-contract completion remains in 2026 public statements.",
+      "source_references": [
+        {
+          "source_id": "RUS-G19",
+          "locator": "Complete gas question and answer"
+        }
+      ],
+      "confidence": "high for remarks",
+      "inference_limit": "No disclosed coefficients, financing package or Chinese reservation price.",
+      "solomon_ids": [
+        "S-C18",
+        "S-P24"
+      ]
+    },
+    {
+      "id": "RUS-M22",
+      "event_date": "2025",
+      "record_type": "observed annual throughput",
+      "actor": "Gazprom figures reported by Interfax",
+      "project": "Eastern route",
+      "setting_channel_audience": "Public record; no private instruction or bargaining channel inferred",
+      "observed_move_or_state": "Reported annual delivery 38.8 bcm.",
+      "next_observable_response_or_state": "Continued coordinated flows during spring 2026 maintenance.",
+      "source_references": [
+        {
+          "source_id": "RUS-G26",
+          "locator": "Final substantive paragraph"
+        }
+      ],
+      "confidence": "medium-high",
+      "inference_limit": "Annual actual exceeds original 38 plateau; not evidence that 44-year target already attained.",
+      "solomon_ids": [
+        "S-P25"
+      ]
+    },
+    {
+      "id": "RUS-M23",
+      "event_date": "2026-03-13",
+      "record_type": "national planning distinction, not sales move",
+      "actor": "Chinese national plan published by Xinhua",
+      "project": "Far Eastern and middle routes",
+      "setting_channel_audience": "Public record; no private instruction or bargaining channel inferred",
+      "observed_move_or_state": "Build Far Eastern line; advance preparatory work on middle route.",
+      "next_observable_response_or_state": "July sector plan gives additional domestic portfolio context.",
+      "source_references": [
+        {
+          "source_id": "RUS-G22",
+          "locator": "Chapter 7 section 2, box 5 item 07, PDF p.14"
+        },
+        {
+          "source_id": "RUS-G23",
+          "locator": "Energy infrastructure gas paragraph"
+        }
+      ],
+      "confidence": "high for policy wording",
+      "inference_limit": "Middle route not a published commercial agreement or full route map.",
+      "solomon_ids": [
+        "S-P12"
+      ]
+    },
+    {
+      "id": "RUS-M24",
+      "event_date": "2026-03-26/2026-04-03",
+      "record_type": "implementation adjustment",
+      "actor": "Gazprom/CNPC",
+      "project": "Eastern route",
+      "setting_channel_audience": "Public record; no private instruction or bargaining channel inferred",
+      "observed_move_or_state": "Maintenance with continuing deliveries at specially agreed amounts.",
+      "next_observable_response_or_state": "Ongoing operation alongside separate PS2 dispute.",
+      "source_references": [
+        {
+          "source_id": "RUS-G26",
+          "locator": "Opening maintenance paragraphs"
+        }
+      ],
+      "confidence": "high for company-reported operation",
+      "inference_limit": "Does not audit all obligations or identify private adjustments.",
+      "solomon_ids": [
+        "S-P25"
+      ]
+    },
+    {
+      "id": "RUS-M25",
+      "event_date": "2026-05-20/2026-05-21",
+      "record_type": "political support and stated incomplete contracts",
+      "actor": "Joint leaders; Novak; MFA",
+      "project": "PS2",
+      "setting_channel_audience": "Public record; no private instruction or bargaining channel inferred",
+      "observed_move_or_state": "Joint energy cooperation text; Novak says political decisions previously made while companies finalize contracts; Chinese Q&A adds no terms.",
+      "next_observable_response_or_state": "September Novak still identifies commercial negotiation.",
+      "source_references": [
+        {
+          "source_id": "RUS-G27",
+          "locator": "Energy paragraph"
+        },
+        {
+          "source_id": "RUS-G28",
+          "locator": "Complete reported Vesti interview excerpt"
+        },
+        {
+          "source_id": "RUS-G29",
+          "locator": "Complete Reuters gas Q&A"
+        },
+        {
+          "source_id": "RUS-G30",
+          "locator": "Peskov/TASS chain and expert interviews"
+        }
+      ],
+      "confidence": "high for stated stages",
+      "inference_limit": "Public optimism/near-completion is not fixed deadline; route consensus reporting not final surveyed alignment.",
+      "solomon_ids": [
+        "S-P24"
+      ]
+    },
+    {
+      "id": "RUS-M26",
+      "event_date": "2026-07-03",
+      "record_type": "sector planning document, not negotiating instruction",
+      "actor": "NDRC/NEA",
+      "project": "Chinese gas portfolio and domestic pipelines",
+      "setting_channel_audience": "Public record; no private instruction or bargaining channel inferred",
+      "observed_move_or_state": "Plan supports domestic output, diversified/flexible imports, existing-route expansion and Far Eastern connections; annex permits adjustments.",
+      "next_observable_response_or_state": "Continued differentiated commercial work in September.",
+      "source_references": [
+        {
+          "source_id": "RUS-G24",
+          "locator": "Complete notice"
+        },
+        {
+          "source_id": "RUS-G25",
+          "locator": "pp. 2,7–8,15–16 and annex notes"
+        }
+      ],
+      "confidence": "high",
+      "inference_limit": "Domestic annex not exhaustive international project list; domestic power contracts not import mandate.",
+      "solomon_ids": [
+        "S-C18",
+        "F09"
+      ]
+    },
+    {
+      "id": "RUS-M27",
+      "event_date": "2026-08-31",
+      "record_type": "leader meeting",
+      "actor": "Xi and Putin",
+      "project": "Bilateral relationship",
+      "setting_channel_audience": "Public record; no private instruction or bargaining channel inferred",
+      "observed_move_or_state": "Official Chinese account supports continuing cooperation, including energy.",
+      "next_observable_response_or_state": "September commission and ongoing company-contract work.",
+      "source_references": [
+        {
+          "source_id": "RUS-G31",
+          "locator": "Complete official account"
+        }
+      ],
+      "confidence": "high for public relationship",
+      "inference_limit": "Warmth cannot establish agreement on undisclosed gas terms.",
+      "solomon_ids": [
+        "S-C01",
+        "S-P24"
+      ]
+    },
+    {
+      "id": "RUS-M28",
+      "event_date": "2026-09-03",
+      "record_type": "explicit admission of outstanding commercial terms",
+      "actor": "Alexander Novak",
+      "project": "PS2 / Power of Baikal",
+      "setting_channel_audience": "Public record; no private instruction or bargaining channel inferred",
+      "observed_move_or_state": "Final routing depends on company agreement; commercial terms remain under discussion.",
+      "next_observable_response_or_state": "Next-day account calls for continued contract preparation.",
+      "source_references": [
+        {
+          "source_id": "RUS-G32",
+          "locator": "Complete article and direct remarks"
+        }
+      ],
+      "confidence": "high",
+      "inference_limit": "No precise new route or agreed offer disclosed; newer name does not itself change commitment.",
+      "solomon_ids": [
+        "S-P24",
+        "S-C18"
+      ]
+    },
+    {
+      "id": "RUS-M29",
+      "event_date": "2026-09-04",
+      "record_type": "continued contract preparation and signed meeting minutes",
+      "actor": "Novak and Ding Xuexiang",
+      "project": "PS2 within broader energy cooperation",
+      "setting_channel_audience": "Public record; no private instruction or bargaining channel inferred",
+      "observed_move_or_state": "Novak says continue preparing contract; Chinese account records enterprise requests, sustainable trade and signed commission minutes.",
+      "next_observable_response_or_state": "September 9 anonymous reporting says price gap continues.",
+      "source_references": [
+        {
+          "source_id": "RUS-G33",
+          "locator": "Complete article"
+        },
+        {
+          "source_id": "RUS-G34",
+          "locator": "Complete six-paragraph Chinese account"
+        },
+        {
+          "source_id": "RUS-G36",
+          "locator": "Commission remarks, route-label discrepancy"
+        }
+      ],
+      "confidence": "high for public stage",
+      "inference_limit": "Commission numbering differs 17/23; identify by date and parties. Minutes not SPA; Ding route/date quotation not used for start date.",
+      "solomon_ids": [
+        "S-P12",
+        "S-P24"
+      ]
+    },
+    {
+      "id": "RUS-M30",
+      "event_date": "2026-09-09",
+      "record_type": "partial-access original reporting of continuing dispute",
+      "actor": "Kandy Wong/SCMP and unnamed sources",
+      "project": "PS2",
+      "setting_channel_audience": "Public record; no private instruction or bargaining channel inferred",
+      "observed_move_or_state": "Public portion reports persisting price disagreement.",
+      "next_observable_response_or_state": "Latest report at research cutoff; no future outcome assumed.",
+      "source_references": [
+        {
+          "source_id": "RUS-G35",
+          "locator": "Public opening portion, web lines 22–30"
+        }
+      ],
+      "confidence": "medium for continued dispute; low for exact offers",
+      "inference_limit": "Full article unavailable; sources unknown; no independently verified price or motivation.",
+      "solomon_ids": [
+        "S-P23",
+        "S-C18"
+      ]
+    }
+  ]
+}

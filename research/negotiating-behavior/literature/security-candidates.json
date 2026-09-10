@@ -76,15 +76,15 @@
       "https://journals.sagepub.com/doi/10.1177/000944551104700204"
     ],
     "metadata_note": "Citation checked on author/institutional pages and article title page; DOI appears as the Crossref target in the Garver article's publisher reference list.",
-    "read_status": "selected_full_text",
-    "read_scope": "Introduction pp.46–47; source discussion p.51; selected Soviet/Russian case passages, particularly pp.73–76. Other search-returned passages were inspected but do not constitute complete reading.",
+    "read_status": "full_published_article_read",
+    "read_scope": "Complete pp. 46–83, all 38 pages and 125 notes; both tables including continuation visually inspected.",
     "access": {
       "status": "author_and_institutional_open_full_text",
       "lawful_open_full_text_url": "https://www.taylorfravel.com/documents/research/fravel.2005.IS.regime.insecurity.pdf",
       "preview_url": "https://www.belfercenter.org/sites/default/files/pantheon_files/files/publication/is3002_pp046-083_fravel.pdf",
       "user_full_text_needed": false,
       "request_scope": null,
-      "caveat": "Read the complete article and notes before coding its cases."
+      "caveat": "Complete article read; underlying references remain separately bounded."
     },
     "evidence_method_verified": "Comparative territorial-dispute study using party histories, oral histories, memoirs, government training materials, gazetteers and nonattributed interviews. Selected Soviet passages trace draft agreements, leadership interventions and changing willingness to separate eastern and western settlements.",
     "research_questions": [
@@ -93,7 +93,48 @@
     ],
     "purpose_and_caveat": "Direct challenge to treating sovereignty claims as inherently nonnegotiable or rigidity as sufficient evidence of leadership conflict. Regime insecurity is not identical to elite factional conflict; retrospective and anonymous evidence needs claim-level checking.",
     "recommended_reading": "Read all pp.46–83, then use the Soviet case references to acquire underlying Chinese and Russian records.",
-    "verified_on": "2026-09-05"
+    "verified_on": "2026-09-10",
+    "before_2026_09_10_full_reading": {
+      "id": "LIT-SEC-FRAVEL-2005",
+      "priority": 2,
+      "authors": [
+        "M. Taylor Fravel"
+      ],
+      "year": 2005,
+      "title": "Regime Insecurity and International Cooperation: Explaining China's Compromises in Territorial Disputes",
+      "type": "scholarly journal article",
+      "language": "en",
+      "citation": "Fravel, M. Taylor. 2005. ‘Regime Insecurity and International Cooperation: Explaining China's Compromises in Territorial Disputes.’ International Security 30(2), Fall: 46–83.",
+      "doi": "10.1162/016228805775124534",
+      "isbn": null,
+      "verification_urls": [
+        "https://ssp.mit.edu/publications/2005/regime-insecurity-and-international-cooperation-explaining-china-s-compromises-in",
+        "https://www.belfercenter.org/publication/regime-insecurity-and-international-cooperation-explaining-chinas-compromises",
+        "https://www.taylorfravel.com/documents/research/fravel.2005.IS.regime.insecurity.pdf",
+        "https://journals.sagepub.com/doi/10.1177/000944551104700204"
+      ],
+      "metadata_note": "Citation checked on author/institutional pages and article title page; DOI appears as the Crossref target in the Garver article's publisher reference list.",
+      "read_status": "selected_full_text",
+      "read_scope": "Introduction pp.46–47; source discussion p.51; selected Soviet/Russian case passages, particularly pp.73–76. Other search-returned passages were inspected but do not constitute complete reading.",
+      "access": {
+        "status": "author_and_institutional_open_full_text",
+        "lawful_open_full_text_url": "https://www.taylorfravel.com/documents/research/fravel.2005.IS.regime.insecurity.pdf",
+        "preview_url": "https://www.belfercenter.org/sites/default/files/pantheon_files/files/publication/is3002_pp046-083_fravel.pdf",
+        "user_full_text_needed": false,
+        "request_scope": null,
+        "caveat": "Read the complete article and notes before coding its cases."
+      },
+      "evidence_method_verified": "Comparative territorial-dispute study using party histories, oral histories, memoirs, government training materials, gazetteers and nonattributed interviews. Selected Soviet passages trace draft agreements, leadership interventions and changing willingness to separate eastern and western settlements.",
+      "research_questions": [
+        "Can domestic insecurity produce compromise rather than rigidity?",
+        "When do changed external conditions make package separation and concessions possible?"
+      ],
+      "purpose_and_caveat": "Direct challenge to treating sovereignty claims as inherently nonnegotiable or rigidity as sufficient evidence of leadership conflict. Regime insecurity is not identical to elite factional conflict; retrospective and anonymous evidence needs claim-level checking.",
+      "recommended_reading": "Read all pp.46–83, then use the Soviet case references to acquire underlying Chinese and Russian records.",
+      "verified_on": "2026-09-05"
+    },
+    "reading_memo": "readings/fravel-compromise-and-1989-records.md",
+    "reading_evidence": "readings/fravel-compromise-and-1989-evidence.json"
   },
   {
     "id": "LIT-SEC-IWASHITA-2004",
@@ -113,8 +154,8 @@
       "https://src-h.slav.hokudai.ac.jp/coe21/publish/no3_ses/4000km-1.pdf"
     ],
     "metadata_note": "Publisher contents and copyright page checked. English version of the author's 2003 Japanese book. No DOI located.",
-    "read_status": "front_matter_and_introduction",
-    "read_scope": "Contents, bibliographic front matter, preface pp.ix–xiii, introduction pp.2–7. Substantive chapters remain unread; their headings are not findings.",
+    "read_status": "selected_complete_chapters_and_conclusion",
+    "read_scope": "Complete preface ix–xiii, introduction 1–7, Chapters 1 (9–31), 3 (57–90), 6 (155–175), conclusion 177–197, references/newspaper/interview inventory 198–205. Selected maps pp. 16, 70, 158–159 visually inspected. Chapters 2, 4, 5 and index unread.",
     "access": {
       "status": "publisher_open_full_book_by_chapter",
       "lawful_open_full_text_url": "https://src-h.slav.hokudai.ac.jp/coe21/publish/no3_ses/contents.html",
@@ -130,7 +171,45 @@
     ],
     "purpose_and_caveat": "Strong Russia comparison and a concrete model for source triangulation. Author describes correcting his own prior assumptions. Local evidence still cannot automatically establish confidential central mandates; 2004 publication cannot cover subsequent evolution.",
     "recommended_reading": "Read Chapter 1 on 1991–1997 negotiations, Chapters 2–4 on disputed localities, and conclusion; then complete the book and acquire its cited local records.",
-    "verified_on": "2026-09-05"
+    "verified_on": "2026-09-10",
+    "before_2026_09_10_chapter_reading": {
+      "id": "LIT-SEC-IWASHITA-2004",
+      "priority": 3,
+      "authors": [
+        "Akihiro Iwashita"
+      ],
+      "year": 2004,
+      "title": "A 4,000 Kilometer Journey Along the Sino-Russian Border",
+      "type": "scholarly monograph",
+      "language": "en",
+      "citation": "Iwashita, Akihiro. 2004. A 4,000 Kilometer Journey Along the Sino-Russian Border. Slavic Eurasian Studies 3. Sapporo: Slavic Research Center, Hokkaido University. xiv + 210 pp.",
+      "doi": null,
+      "isbn": "4-938637-32-4",
+      "verification_urls": [
+        "https://src-h.slav.hokudai.ac.jp/coe21/publish/no3_ses/contents.html",
+        "https://src-h.slav.hokudai.ac.jp/coe21/publish/no3_ses/4000km-1.pdf"
+      ],
+      "metadata_note": "Publisher contents and copyright page checked. English version of the author's 2003 Japanese book. No DOI located.",
+      "read_status": "front_matter_and_introduction",
+      "read_scope": "Contents, bibliographic front matter, preface pp.ix–xiii, introduction pp.2–7. Substantive chapters remain unread; their headings are not findings.",
+      "access": {
+        "status": "publisher_open_full_book_by_chapter",
+        "lawful_open_full_text_url": "https://src-h.slav.hokudai.ac.jp/coe21/publish/no3_ses/contents.html",
+        "preview_url": null,
+        "user_full_text_needed": false,
+        "request_scope": null,
+        "caveat": "Publisher provides individual chapter PDFs; no redistribution license inferred."
+      },
+      "evidence_method_verified": "Preface documents fieldwork on both border sides, Chinese local administrative records, Russian maps, interviews and local corroboration. Introduction describes reconstructing negotiations from published fragments and unpublished material; it distinguishes technical boundary work from potentially substantive changes.",
+      "research_questions": [
+        "How did local resistance and implementation alter a centrally negotiated settlement?",
+        "Which apparent negotiating habits instead reflect Russian and Chinese domestic constraints?"
+      ],
+      "purpose_and_caveat": "Strong Russia comparison and a concrete model for source triangulation. Author describes correcting his own prior assumptions. Local evidence still cannot automatically establish confidential central mandates; 2004 publication cannot cover subsequent evolution.",
+      "recommended_reading": "Read Chapter 1 on 1991–1997 negotiations, Chapters 2–4 on disputed localities, and conclusion; then complete the book and acquire its cited local records.",
+      "verified_on": "2026-09-05"
+    },
+    "reading_memo": "../cases/russia-border-settlement.md"
   },
   {
     "id": "LIT-SEC-MASTRO-2019",

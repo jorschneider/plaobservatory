@@ -1,0 +1,682 @@
+{
+  "title": "Agricultural2017 documentary follow-up: sources, reading and unresolved-record audit",
+  "research_date": "2026-09-10",
+  "memo": "reporting/agricultural-2017-documentary-followup.md",
+  "scope": "2017 documentary chain deliberately chosen from recovered Dow correspondence; no complete cohort, no matched causal design, no new2026implementation assessment.",
+  "coverage_policy": "Full_read true means complete specified source, including substantive notes/tables. Selected text and keyword search are distinguished; no917-page full-read claim. Dates of application, NBC evaluation, administrative decision, certificate effective period, notification, publication and launch are separate.",
+  "source_independence_policy": "Joint Chinese/English texts are one instrument. MOA lists are primary decisions; FAS approval tables derivative. Agri-Pulse interviews, industry releases, BIO advocacy and USTR claims can share applicant information. Chinese-language Zhang interview remains US trade-association evidence. FOIApart1pp46–47 andpart2pp140–141 duplicate one communication.",
+  "sources": [
+    {
+      "id": "AGF01",
+      "title": "2017年农业转基因生物安全证书（进口）批准清单",
+      "url": "https://www.moa.gov.cn/ztzl/zjyqwgz/spxx/201706/P020170614440581688832.pdf",
+      "publication_date": "2017-06-14",
+      "source_type": "MOA original administrative list",
+      "read_date": "2026-09-10",
+      "read_scope": "Both PDF pages/all 16 rows read as extracted text; page 1 visually checked. Publication evidenced by contemporary AGF13.",
+      "full_read": true,
+      "locators": [
+        "PDF p.1 rows1–2; pp.1–2 rows3–16"
+      ],
+      "supports": [
+        "Two originals, 14 explicit renewals; effective periods; three five-year cotton renewals"
+      ],
+      "limitations": [
+        "No application receipts, NBC recommendations, decision-signing or service dates"
+      ],
+      "dependency_group": "moa-2017-import-certificates",
+      "asset": {
+        "local_path_external_to_git": "/Users/jorsc/.codex/.chatgpt-projects/g-p-6a94dd290a988191911d85ae8fe94a6c/tmp/pdfs/research-2026-09-10-russia/agriculture/moa-2017-import-1.pdf",
+        "bytes": 98891,
+        "sha256": "da1ff3fcbd02244fee47801b625d79f351d4d29ac27f054dba0f5aa01ae21836"
+      }
+    },
+    {
+      "id": "AGF02",
+      "title": "2017年农业转基因生物安全证书（进口）批准清单（二）",
+      "url": "https://www.moa.gov.cn/ztzl/zjyqwgz/spxx/201706/P020170718540353447719.pdf",
+      "publication_date": null,
+      "source_type": "MOA original administrative list",
+      "read_date": "2026-09-10",
+      "read_scope": "Complete one-page/two-row list read and visually checked.",
+      "full_read": true,
+      "locators": [
+        "PDF p.1 rows1–2, certificates033–034"
+      ],
+      "supports": [
+        "5307 and MON87427 originals effective2017-07-16 to2020-07-16"
+      ],
+      "limitations": [
+        "Filename contains20170718; not proof of first publication. AGF06 establishes corporate notification by July 17; precise posting/service dates unknown."
+      ],
+      "dependency_group": "moa-2017-import-certificates",
+      "asset": {
+        "local_path_external_to_git": "/Users/jorsc/.codex/.chatgpt-projects/g-p-6a94dd290a988191911d85ae8fe94a6c/tmp/pdfs/research-2026-09-10-russia/agriculture/moa-2017-import-2.pdf",
+        "bytes": 66658,
+        "sha256": "9473dd3322d21da9e4251838d37d0c3ca6b9a08eeafc9cc949c346e102c1d85e"
+      }
+    },
+    {
+      "id": "AGF03",
+      "title": "US-China agreement spurs cautious optimism from seed companies — Agri-Pulse May 24 newsletter",
+      "url": "https://www.agri-pulse.com/ext/resources/Archives-Newsletters/Agri-Pulse-05242017.pdf",
+      "publication_date": "2017-05-24",
+      "source_type": "Contemporary original reporting, Steve Davies",
+      "read_date": "2026-09-10",
+      "read_scope": "Complete article on PDF/printed pp.4–5 read through web extracted text, including company quotations; other newsletter articles not fully read. Direct download403; article HTML fetch failed.",
+      "full_read": false,
+      "locators": [
+        "PDF/printed pp.4–5; same article https://www.agri-pulse.com/articles/9283-us-china-agreement-spurs-cautious-optimism-from-seed-companies"
+      ],
+      "supports": [
+        "Reported corn2011/unspecified soybean2012 submissions; applicant identifies Qrome asDP4114"
+      ],
+      "limitations": [
+        "Not application receipts; soybean event unspecified; interviews may repeat company material."
+      ],
+      "dependency_group": "agri-pulse-2017-company-interviews",
+      "asset": {
+        "status": "Read through web; no local original retained"
+      }
+    },
+    {
+      "id": "AGF04",
+      "title": "Enlist corn on the way as China approves trait",
+      "url": "https://www.agri-pulse.com/articles/9384-enlist-corn-on-the-way-as-china-approves-trait",
+      "publication_date": "2017-06-14",
+      "source_type": "Contemporary original reporting, Steve Davies",
+      "read_date": "2026-09-10",
+      "read_scope": "Full substantive article through #30 read; navigation/sidebar excluded.",
+      "full_read": true,
+      "locators": [
+        "Article paragraphs1–19;17:22 timestamp"
+      ],
+      "supports": [
+        "Dow corn launch announcement; Vertin reports NBC soybean questions"
+      ],
+      "limitations": [
+        "Original technical correspondence absent; company statements are attributed."
+      ],
+      "dependency_group": "agri-pulse-2017-company-interviews",
+      "asset": {
+        "status": "Read through web; no local original retained"
+      }
+    },
+    {
+      "id": "AGF05",
+      "title": "China OKs two GMO products for import",
+      "url": "https://www.agri-pulse.com/articles/9566-china-oks-two-gmo-products-for-import",
+      "publication_date": "2017-07-17",
+      "source_type": "Contemporary original reporting, Steve Davies",
+      "read_date": "2026-09-10",
+      "read_scope": "Full substantive article through #30 read; navigation/sidebar excluded.",
+      "full_read": true,
+      "locators": [
+        "Opening Dow comments; BIO remaining-products description;14:45 timestamp"
+      ],
+      "supports": [
+        "Attributed coverage dispute; industry reconstruction"
+      ],
+      "limitations": [
+        "Underlying MOA/Commerce communications absent."
+      ],
+      "dependency_group": "agri-pulse-2017-company-interviews",
+      "asset": {
+        "status": "Read through web; no local original retained"
+      }
+    },
+    {
+      "id": "AGF06",
+      "title": "Syngenta receives China import approval for Agrisure Duracade corn trait, expands corn hybrid portfolio",
+      "url": "https://www.syngenta-us.com/newsroom/syngenta-receives-china-import-approval-for-agrisure-duracade-corn-trait-expands-corn-hybrid-portfolio",
+      "publication_date": "2017-07-17",
+      "source_type": "Applicant original release",
+      "read_date": "2026-09-10",
+      "read_scope": "Full substantive release read including study footnote, forward-looking statement and stewardship notes.",
+      "full_read": true,
+      "locators": [
+        "Opening paragraph, Event5307; grain-use marketing program paragraphs"
+      ],
+      "supports": [
+        "Applicant had received MOA notification; continuing commercial stewardship"
+      ],
+      "limitations": [
+        "Notification date not necessarilyJuly 17; performance claims not independently tested; same release quoted by AGF05."
+      ],
+      "dependency_group": "syngenta-2017-approval-release",
+      "asset": {
+        "local_path_external_to_git": "/Users/jorsc/.codex/.chatgpt-projects/g-p-6a94dd290a988191911d85ae8fe94a6c/tmp/pdfs/research-2026-09-10-russia/agriculture/syngenta-2017-07-17.html",
+        "bytes": 172632,
+        "sha256": "15f441d6747f9f70755dbf720d34bbbf8b2e5328b71560a3cb9a31cf235a5803"
+      }
+    },
+    {
+      "id": "AGF07",
+      "title": "中美经济合作百日计划早期收获联合新闻稿",
+      "url": "https://wjb.mof.gov.cn/gongzuodongtai/201705/t20170512_2599646.htm",
+      "publication_date": "2017-05-12",
+      "source_type": "Chinese-hosted bilateral joint text",
+      "read_date": "2026-09-10",
+      "read_scope": "All substantive introductory text and ten numbered items plus final unnumbered paragraph read from cached Chinese page.",
+      "full_read": true,
+      "locators": [
+        "Attachment item3"
+      ],
+      "supports": [
+        "Conditional evaluation/information/certificate procedure; eight events unnamed"
+      ],
+      "limitations": [
+        "Same instrument asAGF08; establishes promises not implementation."
+      ],
+      "dependency_group": "2017-bilateral-100-day-plan",
+      "asset": {
+        "local_path_external_to_git": "/Users/jorsc/.codex/.chatgpt-projects/g-p-6a94dd290a988191911d85ae8fe94a6c/tmp/pdfs/research-2026-09-10/agriculture/mof-2017-joint.html",
+        "bytes": 19575,
+        "sha256": "9b1a69bf95e365c19ee8341ba73e6ce3e0511a78ec04530cc58bcdb2c996409a"
+      }
+    },
+    {
+      "id": "AGF08",
+      "title": "Fact Sheet: Initial Actions of the U.S.–China Economic Cooperation 100-Day Plan",
+      "url": "https://www.commerce.gov/news/fact-sheets/2017/05/fact-sheet-initial-actions-us-china-economic-cooperation-100-day-plan",
+      "publication_date": "2017-05-11",
+      "source_type": "US-hosted bilateral joint text",
+      "read_date": "2026-09-10",
+      "read_scope": "Prior full English reading retained; item 3 rechecked in USTR 2017 Appendix3 PDF 160 and in contemporaneous embargoed three-page release hosted by Agri-Pulse. No whole-USTR-report claim.",
+      "full_read": true,
+      "locators": [
+        "Item3; USTR2017 PDF160; https://www.agri-pulse.com/ext/resources/pdfs/Briefing-with-Secretary-Ross.pdf p.2"
+      ],
+      "supports": [
+        "Eight unnamed applications, conditional20-working-day certificate clock"
+      ],
+      "limitations": [
+        "Embargo copy datedMay 10 is not proof public release onMay10; AGF07 same negotiation."
+      ],
+      "dependency_group": "2017-bilateral-100-day-plan",
+      "asset": {
+        "status": "Read through web; no local original retained"
+      }
+    },
+    {
+      "id": "AGF09",
+      "title": "2017 Report to Congress on China’s WTO Compliance",
+      "url": "https://ustr.gov/sites/default/files/files/Press/Reports/China%202017%20WTO%20Report.pdf",
+      "publication_date": "2018-01",
+      "source_type": "USTR original report",
+      "read_date": "2026-09-10",
+      "read_scope": "Title and PDF 106–109/printed 98–101 read; complete biotechnology subsection from PDF 106 through first paragraph109; Appendix3 PDF 160 inspected including item 3. Rest not fully read.",
+      "full_read": false,
+      "locators": [
+        "PDF108–109 / printed100–101; PDF160 Appendix3"
+      ],
+      "supports": [
+        "US allegation of irrelevant information requests and stalled remaining reviews"
+      ],
+      "limitations": [
+        "Government position, not Chinese requests/minutes; may incorporate industry information."
+      ],
+      "dependency_group": "ustr-biotechnology-compliance-assessment",
+      "asset": {
+        "local_path_external_to_git": "/Users/jorsc/.codex/.chatgpt-projects/g-p-6a94dd290a988191911d85ae8fe94a6c/tmp/pdfs/research-2026-09-10-russia/agriculture/ustr-2017-china-wto.pdf",
+        "bytes": 1943701,
+        "sha256": "d9a70f1ee21b1178622bad8772f29193b8a0bfa7bf6c29e2bb60d0077abb2d26"
+      },
+      "additional_root_check": "USTR2017 report PDFpage160, Appendix3, complete items1–4 read; LNGitem4 compared with gas-case commitment stages. This does not upgrade whole-report reading."
+    },
+    {
+      "id": "AGF10",
+      "title": "2018 Report to Congress on China’s WTO Compliance",
+      "url": "https://ustr.gov/sites/default/files/2018-USTR-Report-to-Congress-on-China%27s-WTO-Compliance.pdf",
+      "publication_date": "2019-02",
+      "source_type": "USTR original report",
+      "read_date": "2026-09-10",
+      "read_scope": "Title and complete biotechnology subsection on PDF 54/printed 46 read across both columns; other sections not fully read.",
+      "full_read": false,
+      "locators": [
+        "PDF54 / printed46"
+      ],
+      "supports": [
+        "Retrospective May/June 2017 NBC meeting chronology"
+      ],
+      "limitations": [
+        "No exact days or original recommendations; later USTR reports repeat this account rather than independently verify it."
+      ],
+      "dependency_group": "ustr-biotechnology-compliance-assessment",
+      "asset": {
+        "local_path_external_to_git": "/Users/jorsc/.codex/.chatgpt-projects/g-p-6a94dd290a988191911d85ae8fe94a6c/tmp/pdfs/research-2026-09-10-russia/agriculture/ustr-2018-china-wto.pdf",
+        "bytes": 2199932,
+        "sha256": "69aac469127bff89990eff6d69cd846794ebed5df3b606258a113b2062c03099"
+      }
+    },
+    {
+      "id": "AGF11",
+      "title": "Testimony of Joseph Damond, Biotechnology Innovation Organization, before USCC",
+      "url": "https://www.uscc.gov/sites/default/files/USCC%20Hearing%20on%20China%20Agriculture%20-%20Testimony%20of%20the%20Biotechnology%20Innovation%20Organization.pdf",
+      "publication_date": "2018-04-26",
+      "source_type": "Industry original written hearing testimony",
+      "read_date": "2026-09-10",
+      "read_scope": "PDF pp.1–6 complete text and footnotes read. Page7 chart labels encountered in extraction but chart not visually inspected; not a full seven-page read.",
+      "full_read": false,
+      "locators": [
+        "PDFpp.5–6; titlep.1"
+      ],
+      "supports": [
+        "Industry account of repeated procedural bargains and no subsequent meeting since June 2017"
+      ],
+      "limitations": [
+        "Industry position; no event-level technical demands or government minutes attached; generalized impact claims not adopted as causal findings."
+      ],
+      "dependency_group": "bio-biotechnology-advocacy",
+      "asset": {
+        "local_path_external_to_git": "/Users/jorsc/.codex/.chatgpt-projects/g-p-6a94dd290a988191911d85ae8fe94a6c/tmp/pdfs/research-2026-09-10-russia/agriculture/bio-2018-uscc-testimony.pdf",
+        "bytes": 320168,
+        "sha256": "ec2a5bed8c0397082a54b8982c998c05a72bf029d20580952ac3bf16aaec818f"
+      }
+    },
+    {
+      "id": "AGF12",
+      "title": "Agricultural Biotechnology Annual — China2017",
+      "url": "https://apps.fas.usda.gov/newgainapi/api/report/downloadreportbyfilename?filename=Agricultural+Biotechnology+Annual_Beijing_China+-+Peoples+Republic+of_12-29-2017.pdf",
+      "publication_date": "2017-12-29",
+      "source_type": "USDA FAS original report with derivative approval table",
+      "read_date": "2026-09-10",
+      "read_scope": "PDF pp.2,5–7,16 read; other pages not fully read. Appendix table treated as derivative ofMOA.",
+      "full_read": false,
+      "locators": [
+        "PDFpp.5–7 procedural description; p.16 table"
+      ],
+      "supports": [
+        "Procedure separates developer certificates, trader shipment permits and domestic cultivation"
+      ],
+      "limitations": [
+        "Table is not independent decision evidence; contains apparent crop-label errors, e.g.FG72 calledcorn; use Chinese original for identity."
+      ],
+      "dependency_group": "fas-biotech-procedure-and-moa-derived-table",
+      "asset": {
+        "local_path_external_to_git": "/Users/jorsc/.codex/.chatgpt-projects/g-p-6a94dd290a988191911d85ae8fe94a6c/tmp/pdfs/research-2026-09-10-russia/agriculture/fas-2017-annual.pdf",
+        "bytes": 478459,
+        "sha256": "0823df87e1cf364831aa6363a89799aac5d3e00718aecb94f67aff58f2920e35"
+      }
+    },
+    {
+      "id": "AGF13",
+      "title": "农业部发布转基因生物安全证书进口清单，含大豆、玉米、棉花",
+      "url": "https://m.thepaper.cn/newsDetail_forward_1708523",
+      "publication_date": "2017-06-14",
+      "source_type": "Contemporary original Chinese reporting, WangCan",
+      "read_date": "2026-09-10",
+      "read_scope": "Full article body read; embedded table image not independently inspected on this page (official list read separately).",
+      "full_read": false,
+      "locators": [
+        "13:03 timestamp; ZhangXiaoping interview; certificate-duration paragraph"
+      ],
+      "supports": [
+        "MOA list public byJune14; attributed two-soy/four-corn/two-alfalfa grouping"
+      ],
+      "limitations": [
+        "US trade-association interview is not Chinese government acceptance. All-three-year assertion contradicted by AGF01."
+      ],
+      "dependency_group": "thepaper-ussec-interview",
+      "asset": {
+        "status": "Read through web; no local original retained"
+      }
+    },
+    {
+      "id": "AGF14",
+      "title": "农业部办公厅关于贯彻落实《国务院关于第三批清理规范国务院部门行政审批中介服务事项的决定》的通知",
+      "url": "https://bgt.moa.gov.cn/zcjd/201702/t20170224_5495469.htm",
+      "publication_date": "2017-02-24",
+      "source_type": "MOA original procedural notice",
+      "read_date": "2026-09-10",
+      "read_scope": "Complete substantive notice read; signed2017-02-22. Linked .ceb and.doc attachments not read.",
+      "full_read": false,
+      "locators": [
+        "Paragraphs1–4; signeddate; underlying2017-01-13 StateCouncildecision"
+      ],
+      "supports": [
+        "Agency commissioning of required testing replaces applicant-provided acceptance condition"
+      ],
+      "limitations": [
+        "Text does not show applicant-specific implementation or eliminate testing; attachments unread."
+      ],
+      "dependency_group": "moa-2017-procedural-reform",
+      "asset": {
+        "local_path_external_to_git": "/Users/jorsc/.codex/.chatgpt-projects/g-p-6a94dd290a988191911d85ae8fe94a6c/tmp/pdfs/research-2026-09-10-russia/agriculture/moa-2017-02-24.html",
+        "bytes": 55421,
+        "sha256": "feab7caf12f42ff8231bcc0429313563b03ac9ab7d8c26485e9b88c21cacfb2d"
+      }
+    },
+    {
+      "id": "AGF15",
+      "title": "USDA public FOIA2019-DA-05664-F, Rony part1",
+      "url": "https://cdn.muckrock.com/foia_files/2019/09/17/2019-DA-05664-F20Rony201.pdf",
+      "publication_date": "2019-09-17",
+      "source_type": "FOIA-released original US-side email records",
+      "read_date": "2026-09-10",
+      "read_scope": "Follow-up complete physical pp.45–47 read; remaining62-page part keyword-searched, not fully read.",
+      "full_read": false,
+      "locators": [
+        "pp.45–47; no visible numbered production stamp on these pages"
+      ],
+      "supports": [
+        "Syngenta FAQ transmission and forwardedBIO statement"
+      ],
+      "limitations": [
+        "Zero embedded files detected; all 917 pages searched as extracted text only, possible image/OCR omissions. Source emails retain their own2017 dates."
+      ],
+      "dependency_group": "usda-2019-DA-05664-public-production",
+      "asset": {
+        "local_path_external_to_git": "/Users/jorsc/.codex/.chatgpt-projects/g-p-6a94dd290a988191911d85ae8fe94a6c/tmp/pdfs/research-2026-09-10/agriculture/usda-adcock-1.pdf",
+        "bytes": 3538566,
+        "sha256": "3edbcd6c7cf7e10925ffa828fe62d95206d54f759d7c4cb751e765e503593c4d"
+      }
+    },
+    {
+      "id": "AGF16",
+      "title": "USDA public FOIA2019-DA-05664-F, Rony part2",
+      "url": "https://cdn.muckrock.com/foia_files/2019/09/17/2019-DA-05664-F20Rony202.pdf",
+      "publication_date": "2019-09-17",
+      "source_type": "FOIA-released original US-side email records",
+      "read_date": "2026-09-10",
+      "read_scope": "Follow-up complete physical pp.139–141 read; remaining164-page part keyword-searched, not fully read.",
+      "full_read": false,
+      "locators": [
+        "pp.140–141 = printed000831–000832; stamp2018-OSEC-05830-F"
+      ],
+      "supports": [
+        "Duplicate of part1 May 12 email, not additional event"
+      ],
+      "limitations": [
+        "Zero embedded files detected; all 917 pages searched as extracted text only, possible image/OCR omissions. Source emails retain their own2017 dates."
+      ],
+      "dependency_group": "usda-2019-DA-05664-public-production",
+      "asset": {
+        "local_path_external_to_git": "/Users/jorsc/.codex/.chatgpt-projects/g-p-6a94dd290a988191911d85ae8fe94a6c/tmp/pdfs/research-2026-09-10/agriculture/usda-adcock-2.pdf",
+        "bytes": 9259591,
+        "sha256": "d793577051bd72cbea2d9a5d9af1173065fe78806e4b8f281685b27f46411d59"
+      }
+    },
+    {
+      "id": "AGF17",
+      "title": "USDA public FOIA2019-DA-05664-F, Rony part3",
+      "url": "https://cdn.muckrock.com/foia_files/2019/09/17/2019-DA-05664-F20Rony203.pdf",
+      "publication_date": "2019-09-17",
+      "source_type": "FOIA-released original US-side email records",
+      "read_date": "2026-09-10",
+      "read_scope": "42-page part keyword-searched only during follow-up; no whole-source reading claim.",
+      "full_read": false,
+      "locators": [
+        "No substantive new passage used"
+      ],
+      "supports": [
+        "Bounded missing-attachment search"
+      ],
+      "limitations": [
+        "Zero embedded files detected; all 917 pages searched as extracted text only, possible image/OCR omissions. Source emails retain their own2017 dates."
+      ],
+      "dependency_group": "usda-2019-DA-05664-public-production",
+      "asset": {
+        "local_path_external_to_git": "/Users/jorsc/.codex/.chatgpt-projects/g-p-6a94dd290a988191911d85ae8fe94a6c/tmp/pdfs/research-2026-09-10/agriculture/usda-adcock-3.pdf",
+        "bytes": 1884350,
+        "sha256": "62da3c501787a51b731bb17a3df5f1bed7b557d778a323e3e1a4ad87185e77b8"
+      }
+    },
+    {
+      "id": "AGF18",
+      "title": "USDA public FOIA2019-DA-05664-F, Rony part4",
+      "url": "https://cdn.muckrock.com/foia_files/2019/09/17/2019-DA-05664-F20Rony204.pdf",
+      "publication_date": "2019-09-17",
+      "source_type": "FOIA-released original US-side email records",
+      "read_date": "2026-09-10",
+      "read_scope": "Follow-up physical pp.110–111,139,167,264–265,322–326,546 read. Prior selected reading ofpp.197–199,204–206,506–509,603–605,644–649 retained inAG25. All 649 pages keyword-searched, not fully read.",
+      "full_read": false,
+      "locators": [
+        "pp.110–111 = stamped000110–000111; May9attachments p.507; Hassinger pp.205–206; stamp2018-OSEC-05938-F"
+      ],
+      "supports": [
+        "DuPont meeting preparations; prior Dow access and corporate attribution"
+      ],
+      "limitations": [
+        "Zero embedded files detected; all 917 pages searched as extracted text only, possible image/OCR omissions. Source emails retain their own2017 dates."
+      ],
+      "dependency_group": "usda-2019-DA-05664-public-production",
+      "asset": {
+        "local_path_external_to_git": "/Users/jorsc/.codex/.chatgpt-projects/g-p-6a94dd290a988191911d85ae8fe94a6c/tmp/pdfs/research-2026-09-10/agriculture/usda-adcock-4.pdf",
+        "bytes": 23835075,
+        "sha256": "b5aedc6fa39356cb5615a05dc68c7bf17bd73c4e88f5ad70bbea25c0f53fcd5d"
+      }
+    },
+    {
+      "id": "AGF19",
+      "title": "USDA final response to Alexander Rony, FOIA 2019-DA-05664-F",
+      "publication_date": "2019-08-02",
+      "url": "https://cdn.muckrock.com/foia_files/2019/09/17/2019-DA-05664-F20Signed20Final20Response20Letter.pdf",
+      "source_type": "Signed agency FOIA release letter",
+      "perspective": "USDA Departmental FOIA Office, Alexis Graves",
+      "retrieved_or_read_date": "2026-09-10",
+      "read_scope": "All three pages including release scope, exemptions, appeal instructions and signature read as text.",
+      "full_read": true,
+      "locators": [
+        "p. 1: substituted April 1, 2017–August 31, 2018 records and 917-page count",
+        "p. 2: Exemptions 4 and 6",
+        "p. 3: signature and enclosure"
+      ],
+      "supports": [
+        "Provenance and limits of public release"
+      ],
+      "limitations": [
+        "Final response is dated August 2; archive posting occurred later; release is not complete unredacted correspondence or the originally requested broader search"
+      ],
+      "dependency_group": "usda-adcock-foia-release",
+      "asset": {
+        "local_path_external_to_git": "/Users/jorsc/.codex/.chatgpt-projects/g-p-6a94dd290a988191911d85ae8fe94a6c/tmp/pdfs/research-2026-09-10/agriculture/usda-adcock-release-letter.pdf",
+        "bytes": 152580,
+        "sha256": "751663c039e87774c51fa844c5a9b24e5ac52399c6f8229b5fb0a1f76f06e5a7",
+        "version": "FOIA-released public PDF downloaded from MuckRock CDN"
+      },
+      "cross_register_source": "agricultural-approvals-register.json#AG26",
+      "read_date": "2026-09-10"
+    },
+    {
+      "id": "AGF20",
+      "title": "Rebeckah Adcock External Emails, MuckRock request 77518",
+      "publication_date": "2019-07-16",
+      "url": "https://www.muckrock.com/foi/united-states-of-america-10/rebeckah-adcock-external-emails-77518/",
+      "source_type": "Public FOIA request and agency correspondence docket",
+      "perspective": "Alexander Rony/Sierra Club requester, MuckRock host and USDA replies",
+      "retrieved_or_read_date": "2026-09-10",
+      "read_scope": "All 13 visible docket communications and attachment inventory read; underlying PDFs separately qualified in AG25–26.",
+      "full_read": true,
+      "locators": [
+        "August 1–2 scope substitution exchange",
+        "September 3–11 delivery and inaccessible-attachment correspondence",
+        "File inventory dated September 17, 2019"
+      ],
+      "supports": [
+        "Public release provenance and scope; direct download links to four parts and signed response"
+      ],
+      "limitations": [
+        "Docket page and letter are related provenance records, not independent witnesses to the 2017 policy decisions",
+        "Email receipt, re-sending and website file-posting dates differ"
+      ],
+      "dependency_group": "usda-adcock-foia-release",
+      "asset": {
+        "status": "Read via web; direct HTML download blocked; originals separately preserved"
+      },
+      "cross_register_source": "agricultural-approvals-register.json#AG27",
+      "read_date": "2026-09-10"
+    },
+    {
+      "id": "AGF21",
+      "title": "State of the Rural Economy: Secretary of Agriculture Sonny Perdue — House Agriculture hearing, Serial No. 115–6",
+      "publication_date": "2017",
+      "hearing_date": "2017-05-17",
+      "url": "https://agriculture.house.gov/UploadedFiles/115-06_-_25545.pdf",
+      "source_type": "Published congressional hearing transcript",
+      "perspective": "Representative Rodney Davis and Secretary Sonny Perdue, public questioning and response",
+      "retrieved_or_read_date": "2026-09-10",
+      "read_scope": "Title page and contents; complete Davis exchange on physical PDF pp. 64–65 / printed pp. 60–61 read, with p. 65 visually checked. Not all 105 physical pages read; no full hearing-video verification.",
+      "full_read": false,
+      "locators": [
+        "PDF p. 1: hearing May 17, 2017, Serial 115–6; typesetting footer September 7, 2017 is not hearing date",
+        "PDF pp. 64–65 / printed 60–61: complete Davis exchange",
+        "Compare AG25 part 4 physical/printed pp. 603–605"
+      ],
+      "supports": [
+        "Proposed-question/public-question comparison and actual secretary reply"
+      ],
+      "limitations": [
+        "Delivered question shares premise and some language but differs substantially; does not identify who revised it or prove official feedback caused changes",
+        "Perdue policy claims remain attributable; does not establish a named Chinese approval",
+        "Publication year is printed 2017; exact public release date not recovered"
+      ],
+      "dependency_group": "house-2017-hearing-independent-public-record-linked-to-foia-proposal",
+      "asset": {
+        "local_path_external_to_git": "/Users/jorsc/.codex/.chatgpt-projects/g-p-6a94dd290a988191911d85ae8fe94a6c/tmp/pdfs/research-2026-09-10/agriculture/house-ag-2017-05-17.pdf",
+        "bytes": 2275152,
+        "sha256": "0f0a318c1e2f2520f6581aef3193e0c979570c02114b677efd37c55bf7d298c5",
+        "version": "Published House Agriculture Committee PDF"
+      },
+      "cross_register_source": "agricultural-approvals-register.json#AG29",
+      "read_date": "2026-09-10"
+    }
+  ],
+  "bounded_search_log": [
+    {
+      "target": "Three named May 9, 2017 Word attachments",
+      "queries": [
+        "\"Enlist Corn China Regulatory Summary\"",
+        "\"Enlist Soybean China Regulatory Summary\" \"2017\"",
+        "\"China Biotech Approval Backgrounder\" \"May 2017\"",
+        "\"Enlist Corn China Regulatory Summary\" docx",
+        "\"2018-OSEC-05938\" USDA"
+      ],
+      "result": "No contents recovered through public exact-title/request-number searches. Part4p507 identifies names only.",
+      "limits": "Not proof of absence from other archives, withheld records or unindexed copies."
+    },
+    {
+      "target": "917-page public production",
+      "method": "Case-insensitive extracted-text search for Enlist, ChinaBiotechApproval, biosafety,100-day,100day,40278,68416,44406, plus selective China-related chain reading; pdfdetach-list for each of 4 files.",
+      "result": "Only known Enlist thank-you and attachment-name hits; two copies ofBIO release. All 4 PDFs have 0 embedded files. Further June 8–12 DuPont preparations read.",
+      "limits": "No sequential full read; OCR/image-only content may escape search. Underlying originals differ across component productions."
+    },
+    {
+      "target": "NBC2017recommendations and agreed eight-event list",
+      "method": "Chinese/English searches for2017农业转基因生物安全委员会,安委会,5月,6月,评审,百日计划,8项; originalMOA lists and US report retrospective comparison.",
+      "result": "Precise meeting days, original recommendations, votes, event-specific correspondence and bilateral named schedule not recovered. USTRreportsMay/June meetings; company reports soybean questions.",
+      "limits": "Do not infer July NBC meeting fromJuly certificates or unilateral rewrite from company allegation."
+    },
+    {
+      "target": "Contemporaneous Dow launch release",
+      "urls": [
+        "https://www.dow.com/en-us/news/press-releases/dow-announces-launch-of-enlist-corn-in-us-and-canada",
+        "https://corporate.dow.com/en-us/news/press-releases/dow-announces-launch-of-enlist-corn-in-us-and-canada.html",
+        "https://www.corteva.com/resources/media-center/dow-announces-launch-of-enlist-corn-in-us-and-canada.html"
+      ],
+      "result": "Original URLs not recovered inwebfetch; third-party transcription discovery-only. Memo relies on contemporaneous reporting plus actualFOIAemail; not labeled original-release full-read."
+    },
+    {
+      "target": "DowDuPont2017Form10K",
+      "url": "https://www.sec.gov/Archives/edgar/data/1666700/000166670018000009/a2017dwdp10-k.htm",
+      "result": "Selected indexed Enlist product paragraph seen; fullwebfetch rejected as too large. Not used to identify the2017unnamedsoybean and not labeled read in full."
+    },
+    {
+      "target": "USCCJuly2017TradeBulletin",
+      "url": "https://www.uscc.gov/sites/default/files/Research/July%202017%20Trade%20Bulletin.pdf",
+      "asset": {
+        "local_path_external_to_git": "/Users/jorsc/.codex/.chatgpt-projects/g-p-6a94dd290a988191911d85ae8fe94a6c/tmp/pdfs/research-2026-09-10-russia/agriculture/uscc-july-2017.pdf",
+        "sha256": "556f625f011f72ce5660bd186d378aedb2061da097d595ce8dcf5fdae7285f40"
+      },
+      "read_scope": "PDFp3biotechnology section and notes read; rest not fully read. Discovery/corroborative only; not independent official decision evidence."
+    }
+  ],
+  "event_observations": [
+    {
+      "date": "2017-06-12",
+      "date_type": "certificate_effective_start",
+      "event": "DAS-40278-9",
+      "original_spelling": "DAS-4Ø278-9",
+      "crop": "corn",
+      "brand": "Enlist corn",
+      "certificate": "农基安证字（2017）第002号",
+      "renewal": false,
+      "use": "加工原料",
+      "expiry": "2020-06-12",
+      "sources": [
+        "AGF01",
+        "AGF04",
+        "AGF18"
+      ],
+      "not_established": [
+        "submission_receipt",
+        "NBC_success_date",
+        "decision_signing_date",
+        "service_date"
+      ]
+    },
+    {
+      "date": "2017-06-12",
+      "date_type": "certificate_effective_start",
+      "event": "MON87705",
+      "crop": "soybean",
+      "brand": "Vistive Gold",
+      "certificate": "农基安证字（2017）第001号",
+      "renewal": false,
+      "use": "加工原料",
+      "expiry": "2020-06-12",
+      "sources": [
+        "AGF01",
+        "AGF04"
+      ]
+    },
+    {
+      "date": "2017-07-16",
+      "date_type": "certificate_effective_start",
+      "event": "5307",
+      "crop": "corn",
+      "brand": "Agrisure Duracade",
+      "certificate": "农基安证字（2017）第033号",
+      "renewal": false,
+      "use": "加工原料",
+      "expiry": "2020-07-16",
+      "notification_by": "2017-07-17",
+      "sources": [
+        "AGF02",
+        "AGF06"
+      ]
+    },
+    {
+      "date": "2017-07-16",
+      "date_type": "certificate_effective_start",
+      "event": "MON87427",
+      "crop": "corn",
+      "certificate": "农基安证字（2017）第034号",
+      "renewal": false,
+      "use": "加工原料",
+      "expiry": "2020-07-16",
+      "sources": [
+        "AGF02",
+        "AGF05"
+      ]
+    },
+    {
+      "date": "2017-07-17",
+      "date_type": "report_publication",
+      "event": null,
+      "crop": "soybean",
+      "brand_in_source": "Enlist soybeans",
+      "observation": "Dow attributed exclusion from100-dayplan toMOA and contrary inclusion understanding toUSCommerce.",
+      "sources": [
+        "AGF05"
+      ],
+      "not_established": [
+        "exact_event_identifier",
+        "underlyingMOAmessage",
+        "USCommercelist",
+        "priorjointinclusion",
+        "reasonfordisagreement"
+      ]
+    }
+  ]
+}

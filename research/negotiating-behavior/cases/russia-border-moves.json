@@ -1,0 +1,441 @@
+{
+  "title": "China–Soviet/Russian border negotiation moves and obligation stages",
+  "research_date": "2026-09-10",
+  "scope": "1986/1987 background through October 14, 2008 implementation; source availability as of research date, not a comprehensive 2026 border-status audit.",
+  "source_register": "sources/russia-border-register.json",
+  "case_memo": "cases/russia-border-settlement.md",
+  "coding_rules": [
+    "Separate claimed territory, actual control, legal delimitation, ratification, field demarcation and access.",
+    "An explicit reservation is part of the bargain, not inferred nonperformance.",
+    "Agreement and handover do not identify causal motive or bargaining skill.",
+    "Reported arguments remain attributed; no uniform Russian or Chinese interest is presumed.",
+    "Full S-P24 combines concrete drafting and senior intervention. S-P25 arena evidence does not automatically establish asymmetric demands."
+  ],
+  "moves": [
+    {
+      "id": "RUS-BM-01",
+      "date": "1986–1987",
+      "actors": [
+        "Gorbachev",
+        "Chinese and Soviet negotiators"
+      ],
+      "stage": "relationship initiative and renewed talks",
+      "observed_or_attributed_move": "Iwashita traces reopening in February 1987 after Vladivostok initiative and reports renewed convergence around constructive 1964 results.",
+      "obligation_or_position": "Attribution includes main-channel approach with particular unresolved exceptions.",
+      "implementation_or_subsequent_record": "Substantive convergence predates 1989; formal agreement followed in 1991.",
+      "inference_limit": "Source is retrospective scholarship drawing on participant memoirs, not recovered 1987 instructions or complete offers.",
+      "sources": [
+        "RUS-IW-2",
+        "RUS-IW-4"
+      ],
+      "propositions": [
+        "S-C01",
+        "S-P05"
+      ]
+    },
+    {
+      "id": "RUS-BM-02",
+      "date": "1989-05-18",
+      "actors": [
+        "Chinese and Soviet governments"
+      ],
+      "stage": "public sequencing objective",
+      "observed_or_attributed_move": "Joint communiqué seeks simultaneous resolution of eastern and western sectors and authorizes foreign-minister talks.",
+      "obligation_or_position": "Simultaneous objective stated in contemporary Chinese and English publications.",
+      "implementation_or_subsequent_record": "Eastern agreement signed separately May 16, 1991.",
+      "inference_limit": "Does not prove every Chinese offer required indivisible package or identify motive for later separation. Parent primary audit supplies precise scope.",
+      "sources": [
+        "RUS-1989-AUDIT"
+      ],
+      "propositions": [
+        "S-P05",
+        "S-P12"
+      ]
+    },
+    {
+      "id": "RUS-BM-03",
+      "date": "1991-05-16",
+      "actors": [
+        "Qian Qichen",
+        "Aleksandr Bessmertnykh"
+      ],
+      "stage": "signature: eastern delimitation",
+      "observed_or_attributed_move": "Signed eastern boundary agreement; Article III reserves points 7–8 and 10–11.",
+      "obligation_or_position": "Equal joint commission, channel criteria, field documents and maps; specified navigation provisions.",
+      "implementation_or_subsequent_record": "Effective March 16, 1992; implementation followed for covered sections while reserved islands remained.",
+      "inference_limit": "Coordinate Article II only partially read, original maps missing. Claim settlement does not establish new physical control at every island.",
+      "sources": [
+        "RUS-T1991-CN",
+        "RUS-IW-2",
+        "RUS-IW-4"
+      ],
+      "propositions": [
+        "S-P05",
+        "S-P12",
+        "S-P25"
+      ]
+    },
+    {
+      "id": "RUS-BM-04",
+      "date": "1992-03-16",
+      "actors": [
+        "China",
+        "Russian Federation"
+      ],
+      "stage": "entry into force",
+      "observed_or_attributed_move": "Official Chinese treaty metadata/editorial note dates effectiveness.",
+      "obligation_or_position": "1991 eastern treaty operative after ratification exchange.",
+      "implementation_or_subsequent_record": "Demarcation work proceeded during 1990s.",
+      "inference_limit": "Effective date does not itself mean all marking or handover completed. No five-year sunset in provisions read.",
+      "sources": [
+        "RUS-T1991-CN"
+      ],
+      "propositions": [
+        "S-P25"
+      ]
+    },
+    {
+      "id": "RUS-BM-05",
+      "date": "1994-09-03",
+      "actors": [
+        "Qian Qichen",
+        "Andrei Kozyrev"
+      ],
+      "stage": "signature: western delimitation",
+      "observed_or_attributed_move": "Signed eight-article western-sector agreement.",
+      "obligation_or_position": "Equal commission; actual watershed determination; separate three-party junction arrangement with Kazakhstan.",
+      "implementation_or_subsequent_record": "Western boundary handled separately from remaining eastern islands.",
+      "inference_limit": "Complete signed Russian body read, map and exact entry-into-force date not verified.",
+      "sources": [
+        "RUS-T1994-RU"
+      ],
+      "propositions": [
+        "S-P12",
+        "S-P25"
+      ]
+    },
+    {
+      "id": "RUS-BM-06",
+      "date": "1995–1997",
+      "actors": [
+        "Russian federal government",
+        "Primorye leadership",
+        "other regional executives",
+        "demarcation officials",
+        "Chinese counterparts"
+      ],
+      "stage": "contested implementation",
+      "observed_or_attributed_move": "Iwashita reconstructs Primorye resistance, Rozov resignation and federal/local negotiations over demarcation.",
+      "obligation_or_position": "Local security and economic interests advanced as reasons to resist or modify practical arrangements.",
+      "implementation_or_subsequent_record": "Accommodation and 1997 completion announcement for 1991-covered sections.",
+      "inference_limit": "Not all governors shared one position. Iwashita expiry argument unverified and excluded from causal coding.",
+      "sources": [
+        "RUS-IW-2"
+      ],
+      "propositions": [
+        "S-C11",
+        "S-C12",
+        "F09",
+        "S-P25"
+      ]
+    },
+    {
+      "id": "RUS-BM-07",
+      "date": "1994–1997",
+      "actors": [
+        "Chita regional and border authorities",
+        "Chinese counterparts"
+      ],
+      "stage": "local-use accommodation proposal",
+      "observed_or_attributed_move": "Iwashita attributes proposal for continuing traditional use under Chinese sovereignty to Russian local/border authorities.",
+      "obligation_or_position": "Separate sovereignty from bounded local economic access.",
+      "implementation_or_subsequent_record": "1997 guiding agreement and detailed 1999 agreement.",
+      "inference_limit": "Origin story remains scholarship-based; contemporaneous Chinese instructions not acquired.",
+      "sources": [
+        "RUS-IW-7"
+      ],
+      "propositions": [
+        "S-P12",
+        "S-P25"
+      ]
+    },
+    {
+      "id": "RUS-BM-08",
+      "date": "1997-11-10",
+      "actors": [
+        "Chinese and Russian governments"
+      ],
+      "stage": "covered-sector completion and guiding use agreement",
+      "observed_or_attributed_move": "Iwashita describes completion of demarcation for 1991-covered sections and guiding joint-use accord.",
+      "obligation_or_position": "Outstanding islands remain reserved; guiding framework enables traditional local use.",
+      "implementation_or_subsequent_record": "Boundary description and detailed use agreement signed December 9, 1999.",
+      "inference_limit": "Not completion of entire Sino-Russian boundary. Full 1997 guiding text absent; existence also referenced in 1999 preamble.",
+      "sources": [
+        "RUS-IW-2",
+        "RUS-IW-7",
+        "RUS-USE1999"
+      ],
+      "propositions": [
+        "S-P12",
+        "S-P25"
+      ]
+    },
+    {
+      "id": "RUS-BM-09",
+      "date": "1999-12-09",
+      "actors": [
+        "Chinese and Russian governments"
+      ],
+      "stage": "detailed implementation agreement",
+      "observed_or_attributed_move": "Sign reciprocal local economic use agreement alongside boundary-description protocol referenced in its preamble.",
+      "obligation_or_position": "Sovereign permission for established foreign local users; restricted activities, nonincreasing users, permits, host law, inspections and at least twice-yearly consultation; five-year use period with dates diplomatically agreed.",
+      "implementation_or_subsequent_record": "Editorial note dates effectiveness January 19, 2000.",
+      "inference_limit": "Complete published twelve-article body read; two annexes absent. Neither actual user numbers nor actual later expiration established.",
+      "sources": [
+        "RUS-USE1999"
+      ],
+      "propositions": [
+        "S-P12",
+        "S-P25"
+      ]
+    },
+    {
+      "id": "RUS-BM-10",
+      "date": "2001-07-16",
+      "actors": [
+        "Jiang Zemin",
+        "Vladimir Putin"
+      ],
+      "stage": "broader relationship treaty",
+      "observed_or_attributed_move": "Sign friendship treaty; Article 6 states no mutual territorial claims while acknowledging unagreed boundary alignments.",
+      "obligation_or_position": "Continue negotiation and maintain status quo until settlement; regular contacts and existing security arrangements.",
+      "implementation_or_subsequent_record": "Outstanding sections settled in 2004.",
+      "inference_limit": "No-mutual-claims clause cannot be isolated to infer all territorial alignment already settled.",
+      "sources": [
+        "RUS-T2001"
+      ],
+      "propositions": [
+        "S-C01",
+        "S-P05",
+        "S-P12"
+      ]
+    },
+    {
+      "id": "RUS-BM-11",
+      "date": "2004-10-13",
+      "actors": [
+        "Vladimir Putin",
+        "Russian Foreign Ministry",
+        "relevant federal executives",
+        "Khabarovsk, Chita and Jewish Autonomous Region executives"
+      ],
+      "stage": "concrete draft authorization",
+      "observed_or_attributed_move": "Presidential order 479-rp approves coordinated proposal and attached drafts; delegates negotiation/signature and nonprincipled changes.",
+      "obligation_or_position": "Specific boundary draft, navigation protocol draft and existing-agreements memorandum draft.",
+      "implementation_or_subsequent_record": "Foreign ministers sign following day.",
+      "inference_limit": "Private legal reproduction of primary order; Chinese mandate not available. Order date alone does not establish contemporary outside accessibility or predictive usefulness.",
+      "sources": [
+        "RUS-AUTH2004"
+      ],
+      "propositions": [
+        "S-P24",
+        "S-C10",
+        "F09"
+      ]
+    },
+    {
+      "id": "RUS-BM-12",
+      "date": "2004-10-14",
+      "actors": [
+        "Li Zhaoxing",
+        "Sergei Lavrov"
+      ],
+      "stage": "signature: remaining eastern delimitation",
+      "observed_or_attributed_move": "Sign supplementary boundary agreement with coordinates through Abagaitui and Bolshoi Ussuriisky.",
+      "obligation_or_position": "Equal joint commission to determine exact channels/islands, erect markers and produce maps; permanent boundary despite natural changes except agreement.",
+      "implementation_or_subsequent_record": "Ratified 2005; final descriptive protocol and handover 2008.",
+      "inference_limit": "Published schematics show claims and settlement, not original 1:100,000 treaty maps. Area labels 335/62 km² describe entire disputed regions, not Chinese awards.",
+      "sources": [
+        "RUS-T2004",
+        "RUS-NPC2005"
+      ],
+      "propositions": [
+        "S-P05",
+        "S-P12",
+        "S-P25"
+      ]
+    },
+    {
+      "id": "RUS-BM-13",
+      "date": "2004-10-14",
+      "actors": [
+        "Li Zhaoxing",
+        "Sergei Lavrov"
+      ],
+      "stage": "parallel implementing memorandum",
+      "observed_or_attributed_move": "Signed memorandum extends existing bilateral border cooperation agreements to newly delimited sections after boundary agreement effectiveness.",
+      "obligation_or_position": "Existing cooperation regime made applicable to new jurisdictional areas.",
+      "implementation_or_subsequent_record": "Effective June 2, 2005 per metadata.",
+      "inference_limit": "Final memorandum acquired; Russian navigation draft only anticipates future agreement, not final regime proof.",
+      "sources": [
+        "RUS-MEMO2004",
+        "RUS-AUTH2004"
+      ],
+      "propositions": [
+        "S-P25"
+      ]
+    },
+    {
+      "id": "RUS-BM-14",
+      "date": "2004-10-14",
+      "actors": [
+        "Hu Jintao",
+        "Vladimir Putin"
+      ],
+      "stage": "public endorsement and relationship statement",
+      "observed_or_attributed_move": "Joint statement presents boundary result as balanced and beneficial to strategic partnership/local cooperation.",
+      "obligation_or_position": "Jointly announced objectives coexist with other economic and security priorities.",
+      "implementation_or_subsequent_record": "Ratification and field demarcation still required.",
+      "inference_limit": "Co-location with energy and WTO announcements does not establish particular quid pro quo or private motive.",
+      "sources": [
+        "RUS-JOINT2004"
+      ],
+      "propositions": [
+        "S-C01",
+        "S-C18"
+      ]
+    },
+    {
+      "id": "RUS-BM-15",
+      "date": "2004-10-21–2004-11-04",
+      "actors": [
+        "Khabarovsk legislators",
+        "Viktor Ishaev",
+        "local protest participants",
+        "Russian federal representatives"
+      ],
+      "stage": "contested domestic reception",
+      "observed_or_attributed_move": "Original reporting records legislative opposition, governor defense of retained local interests, protests and uneven access to agreement detail.",
+      "obligation_or_position": "Competing interpretations of local economic/security costs and legitimacy.",
+      "implementation_or_subsequent_record": "Federal ratification proceeds May 2005.",
+      "inference_limit": "Reported public claims and estimated protest numbers, not independent legal adjudication or representative opinion measurement.",
+      "sources": [
+        "RUS-KOM-LOCAL",
+        "RUS-KOM-PUB"
+      ],
+      "propositions": [
+        "S-C11",
+        "F09"
+      ]
+    },
+    {
+      "id": "RUS-BM-16",
+      "date": "2005-04-27",
+      "actors": [
+        "NPC Standing Committee"
+      ],
+      "stage": "Chinese approval",
+      "observed_or_attributed_move": "NPC Standing Committee approves supplementary agreement signed by Li Zhaoxing.",
+      "obligation_or_position": "Domestic approval recorded in Gazette and Xinhua reproduction.",
+      "implementation_or_subsequent_record": "Entry into force June 2, 2005.",
+      "inference_limit": "Xinhua release May 27 is not the decision date; no internal debate recovered.",
+      "sources": [
+        "RUS-NPC2005",
+        "RUS-NPC-NEWS"
+      ],
+      "propositions": [
+        "S-C10",
+        "S-P24"
+      ]
+    },
+    {
+      "id": "RUS-BM-17",
+      "date": "2005-05-20",
+      "actors": [
+        "State Duma",
+        "Lavrov",
+        "Kosachev",
+        "border service",
+        "General Staff"
+      ],
+      "stage": "Russian ratification debate",
+      "observed_or_attributed_move": "Kommersant reports 307–80 vote, agency disagreements over local threat and explanations of compromise.",
+      "obligation_or_position": "Public defense of settlement emphasizes legal clarification and retained interests; competing threat claims aired.",
+      "implementation_or_subsequent_record": "Federation Council May 25, presidential law May 31.",
+      "inference_limit": "Journalist report not complete official stenogram; force and channel-manipulation claims unverified.",
+      "sources": [
+        "RUS-KOM-RAT",
+        "RUS-RAT2005"
+      ],
+      "propositions": [
+        "S-C11",
+        "F09"
+      ]
+    },
+    {
+      "id": "RUS-BM-18",
+      "date": "2005-05-25–2005-06-02",
+      "actors": [
+        "Federation Council",
+        "Vladimir Putin",
+        "Chinese and Russian governments"
+      ],
+      "stage": "approval and entry into force",
+      "observed_or_attributed_move": "Russian law records Council approval May 25 and Putin signature May 31; Chinese treaty publication dates effectiveness June 2.",
+      "obligation_or_position": "Supplementary agreement legally operative; memorandum likewise effective.",
+      "implementation_or_subsequent_record": "Demarcation work continues until 2008 instruments.",
+      "inference_limit": "Entry into force distinct from physical handover; full ratification-exchange record not independently acquired.",
+      "sources": [
+        "RUS-RAT2005",
+        "RUS-T2004",
+        "RUS-MEMO2004"
+      ],
+      "propositions": [
+        "S-P25"
+      ]
+    },
+    {
+      "id": "RUS-BM-19",
+      "date": "2008-07-21",
+      "actors": [
+        "Yang Jiechi",
+        "Sergei Lavrov",
+        "joint demarcation officials"
+      ],
+      "stage": "descriptive protocol signature",
+      "observed_or_attributed_move": "Official report records supplementary descriptive protocol and annex signatures, completion of field demarcation and domestic procedures still pending.",
+      "obligation_or_position": "Government approval and exchange of notes to complete legal implementation step.",
+      "implementation_or_subsequent_record": "October 14 exchange of notes and ceremony.",
+      "inference_limit": "Complete protocol and annexes absent; announcement does not independently inspect all pillars.",
+      "sources": [
+        "RUS-PROTOCOL2008"
+      ],
+      "propositions": [
+        "S-P25"
+      ]
+    },
+    {
+      "id": "RUS-BM-20",
+      "date": "2008-10-14",
+      "actors": [
+        "Chinese and Russian foreign ministries",
+        "Zhao Xidi",
+        "Vladimir Malyshev",
+        "central and local agencies"
+      ],
+      "stage": "effective descriptive protocol and handover",
+      "observed_or_attributed_move": "Chinese transcript records exchange of notes and boundary-marker ceremony; original reporting corroborates Tarabarov/Yinlong and western Bolshoi Ussuriisky handover.",
+      "obligation_or_position": "2008 descriptive protocol and annexes effective.",
+      "implementation_or_subsequent_record": "Bounded reconstruction ends here.",
+      "inference_limit": "English transcript mistranslates title as Supplementary Agreement: do not conflate with 2004 instrument. RFA media-exclusion claim attributed to Russian media, not direct independent verification.",
+      "sources": [
+        "RUS-QIN-CN",
+        "RUS-QIN-EN",
+        "RUS-RFA2008"
+      ],
+      "propositions": [
+        "S-P25"
+      ]
+    }
+  ]
+}
