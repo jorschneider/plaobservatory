@@ -93,23 +93,38 @@
       "https://journals.sagepub.com/doi/10.1177/1369148120974881",
       "https://scholars.hkbu.edu.hk/en/publications/chinas-foreign-and-security-policy-institutions-and-decision-maki-2/"
     ],
-    "read_status": "abstract_metadata_and_references_only",
-    "read_scope": "Publisher abstract, access label and references; university bibliographic record. Complete body not obtained.",
+    "read_status": "complete_author_uploaded_article_text_read",
+    "read_scope": "Complete author-uploaded article HTML with printed319–336 markers and entire bibliography; no separate numbered endnotes. PDF download unavailable; no PDF visual inspection. Nine selected primary audits recorded separately.",
     "access": {
-      "status": "publisher_restricted_access",
-      "lawful_open_full_text_url": null,
-      "user_full_text_needed": true,
+      "status": "author_uploaded_full_article_html_read",
+      "lawful_open_full_text_url": "https://www.researchgate.net/publication/347816666_China%27s_foreign_and_security_policy_institutions_and_decision-making_under_Xi_Jinping",
+      "user_full_text_needed": false,
       "request_scope": "Complete article, pp. 319–336, including notes and references.",
-      "caveat": "No authorized open full text verified in this search; this does not establish that none exists."
+      "caveat": "Complete author-uploaded web text read. Original HTML/PDF direct download403; overlapping web text captures preserved with hash, not represented as original publisher bytes."
     },
-    "evidence_method_verified": "Institutional analysis indicated by the abstract; actual evidence collection must be audited in the full text.",
+    "evidence_method_verified": "Institutional mapping using public documents, reporting and existing scholarship, with explicit inferences and uncertainty. Faster/better coordination not established by a comparative decision dataset; May2019 deciding body and votes remain uncertain.",
     "research_questions": [
       "Has centralization eliminated fragmentation or altered where it occurs?",
       "How should apparent mandate limits under Xi be tested?"
     ],
     "purpose_and_caveat": "Abstract argues that coordination and centralization coexist with continuing fragmentation. Compare with Zhao and Taylor–Garlick rather than taking one institutional characterization as settled. Distinguish issue-year 2021 from online-year 2020.",
     "request_priority": "first_batch",
-    "verified_on": "2026-09-05"
+    "verified_on": "2026-09-05",
+    "screening_snapshot_2026_09_05": {
+      "read_status": "abstract_metadata_and_references_only",
+      "read_scope": "Publisher abstract, access label and references; university bibliographic record. Complete body not obtained.",
+      "evidence_method_verified": "Institutional analysis indicated by the abstract; actual evidence collection must be audited in the full text.",
+      "access": {
+        "status": "publisher_restricted_access",
+        "lawful_open_full_text_url": null,
+        "user_full_text_needed": true,
+        "request_scope": "Complete article, pp. 319–336, including notes and references.",
+        "caveat": "No authorized open full text verified in this search; this does not establish that none exists."
+      }
+    },
+    "read_on": "2026-09-10",
+    "reading_memo": "readings/cabestan-institutions.md",
+    "reading_evidence": "readings/cabestan-institutions-evidence.json"
   },
   {
     "id": "LIT-INST-ZHAO-2023",

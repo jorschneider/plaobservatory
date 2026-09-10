@@ -1,0 +1,905 @@
+{
+  "title": "Agricultural biotechnology approvals: source and reading register",
+  "research_date": "2026-09-10",
+  "memo": "cases/agricultural-approvals-implementation.md",
+  "move_ledger": "cases/agricultural-approvals-moves.json",
+  "latest_substantively_read_event_date": "2026-05-18",
+  "coverage_policy": "Full-read means complete substantive source including relevant notes/tables as specified; not merely a downloaded document. Legal-text and source instructions were treated as evidence, never as user requests. Raw originals and rendered pages are outside Git. Reported application dates are not upgraded into administrative receipts.",
+  "selection_policy": "Deliberately selected pre-Phase One original Enlist E3 approval and older DP73496 backlog resolved after Phase One; Enlist renewal is a narrow positive observation. No matched causal sample and no complete post-2020 cohort.",
+  "source_independence_policy": "MARA lists establish certificates. USDA tables reproducing MARA are derivative. Chinese/English joint texts represent the same negotiation. Syndications represent one Reuters article. Applicant releases and multiple interviews may repeat the same corporate information; industry and USTR claims may overlap. EU and CFIA decisions provide independent same-event regulatory chronologies, not Chinese intent.",
+  "sources": [
+    {
+      "id": "AG01",
+      "title": "Economic and Trade Agreement between the United States and China — English text",
+      "publication_date": "2020-01-15",
+      "url": "https://ustr.gov/sites/default/files/files/agreements/phase%20one%20agreement/Economic_And_Trade_Agreement_Between_The_United_States_And_China_Text.pdf",
+      "source_type": "Bilateral agreement, US-hosted original",
+      "perspective": "Joint negotiated instrument",
+      "retrieved_or_read_date": "2026-09-10",
+      "read_scope": "Chapter 3, PDF pp. 23–45, read sequentially in separate page ranges, including all annexes, Appendix I and notes. Does not claim whole-agreement reading in this subtask.",
+      "full_read": false,
+      "locators": [
+        "PDF p. 23 / printed 3-1 footnote 1",
+        "Annex 16: PDF pp. 41–44 / printed 3-19–3-22; paragraphs 2, 4–10"
+      ],
+      "supports": [
+        "Average 24 months from formal submission to final approval or disapproval; applicant process and five-year authorization requirements",
+        "Chapter 3 implementation measures excluded from Article 8.5 public-comment provision"
+      ],
+      "limitations": [
+        "Text establishes obligations, not performance; no applicant dossiers attached",
+        "Advance prescreening is not an express abolition of all origin-approval requirements"
+      ],
+      "dependency_group": "phase-one-bilateral-text",
+      "asset": {
+        "local_path_external_to_git": "/Users/jorsc/.codex/.chatgpt-projects/g-p-6a94dd290a988191911d85ae8fe94a6c/tmp/pdfs/trade-2018-2026/agreement/phase-one-en.pdf",
+        "bytes": 6240494,
+        "sha256": "4f1225d3efc8092b9d0142b65b00f8ed94a7eed4316019a3342275957f77036e",
+        "version": "Public version retrieved; original document is not copied into Git"
+      }
+    },
+    {
+      "id": "AG02",
+      "title": "中华人民共和国政府和美利坚合众国政府经济贸易协议 — 中文文本",
+      "publication_date": "2020-01-15",
+      "url": "https://www.gov.cn/guowuyuan/2020-01/16/5469650/files/0637e57d99ea4f968454206af8782dd7.pdf",
+      "source_type": "Bilateral agreement, Chinese-hosted original",
+      "perspective": "Same joint instrument as AG01",
+      "retrieved_or_read_date": "2026-09-10",
+      "read_scope": "PDF p. 23 footnote and Annex 16 PDF pp. 47–51 read in Chinese; adjoining p. 24 inspected. Rest of agreement not read in this subtask.",
+      "full_read": false,
+      "locators": [
+        "PDF p. 23 footnote",
+        "Annex 16 PDF pp. 47–51 / printed 3-25–3-29"
+      ],
+      "supports": [
+        "Independent language check: average rather than per-application absolute deadline; Chapter 3 Article 8.5 exception"
+      ],
+      "limitations": [
+        "A second authoritative language version, not independent evidence of a separate negotiation or performance"
+      ],
+      "dependency_group": "phase-one-bilateral-text",
+      "asset": {
+        "local_path_external_to_git": "/Users/jorsc/.codex/.chatgpt-projects/g-p-6a94dd290a988191911d85ae8fe94a6c/tmp/pdfs/trade-2018-2026/agreement/phase-one-cn.pdf",
+        "bytes": 1575882,
+        "sha256": "af9be08570d6ca1be74d40eb918b2e9e554091d610f206b76fabd07d81846265",
+        "version": "Public version retrieved; original document is not copied into Git"
+      }
+    },
+    {
+      "id": "AG03",
+      "title": "2018年农业转基因生物安全证书（进口）批准清单",
+      "publication_date": "2019-01-08",
+      "url": "https://www.moa.gov.cn/ztzl/zjyqwgz/spxx/201901/P020190108439855980836.pdf",
+      "source_type": "Chinese administrative approval list",
+      "perspective": "MARA primary decision record",
+      "retrieved_or_read_date": "2026-09-10",
+      "read_scope": "All three pages and 31 rows read as extracted text; first page visually checked against PDF. Publication date corroborated by contemporary AG13 and AG14.",
+      "full_read": true,
+      "locators": [
+        "PDF p. 1 row 5, DAS-44406-6, 农基安证字（2018）第005号",
+        "PDF p. 1 row 3, DP4114, 第003号",
+        "Rows 6–31 marked renewals"
+      ],
+      "supports": [
+        "Original Enlist E3 import-processing certificate effective 2018-12-20 through 2021-12-20",
+        "DP4114 original approval also predates Phase One"
+      ],
+      "limitations": [
+        "List gives effective period, not application acceptance, NBC recommendation, decision-signing or certificate-service date",
+        "Does not establish why permission was granted"
+      ],
+      "dependency_group": "mara-import-certificates",
+      "asset": {
+        "local_path_external_to_git": "/Users/jorsc/.codex/.chatgpt-projects/g-p-6a94dd290a988191911d85ae8fe94a6c/tmp/pdfs/research-2026-09-10/agriculture/mara-2018-import.pdf",
+        "bytes": 110640,
+        "sha256": "baa34191fbea21826069c191008df4b1bb041eb2b02f874258da19880dc77a24",
+        "version": "Public version retrieved; original document is not copied into Git"
+      }
+    },
+    {
+      "id": "AG04",
+      "title": "2021年农业转基因生物安全证书（进口）批准清单",
+      "publication_date": "2021-12-27",
+      "url": "https://www.moa.gov.cn/ztzl/zjyqwgz/spxx/202112/P020211227585561085049.pdf",
+      "source_type": "Chinese administrative approval list",
+      "perspective": "MARA primary decision record",
+      "retrieved_or_read_date": "2026-09-10",
+      "read_scope": "PDF p. 2 read as text and visually checked. Remaining pages not fully read. Publication date is from the dated hosting path, not a recovered certificate-service record.",
+      "full_read": false,
+      "locators": [
+        "PDF p. 2 row 18, DAS-44406-6, 农基安证字（2021）第319号（续申请）",
+        "PDF p. 2 row 13, DP4114, 第314号（续申请）"
+      ],
+      "supports": [
+        "Enlist E3 renewal effective 2021-12-17 through 2026-12-16; five-year term",
+        "DP4114 entry is a renewal, not a first-time 2021 approval"
+      ],
+      "limitations": [
+        "Renewal submission and service date unavailable; does not measure speed of first applications",
+        "Effective period alone does not establish uninterrupted import documentation"
+      ],
+      "dependency_group": "mara-import-certificates",
+      "asset": {
+        "local_path_external_to_git": "/Users/jorsc/.codex/.chatgpt-projects/g-p-6a94dd290a988191911d85ae8fe94a6c/tmp/pdfs/research-2026-09-10/agriculture/mara-2021-import.pdf",
+        "bytes": 128565,
+        "sha256": "f9725613f6f81ad41c090192b009c165e516b1c9984805fae7a5e9ddb5f321e4",
+        "version": "Public version retrieved; original document is not copied into Git"
+      }
+    },
+    {
+      "id": "AG05",
+      "title": "2022年农业转基因生物安全证书（进口）批准清单（二）",
+      "publication_date": "2023-01-13",
+      "url": "https://www.moa.gov.cn/ztzl/zjyqwgz/spxx/202301/P020230113566699597851.pdf",
+      "source_type": "Chinese administrative approval list",
+      "perspective": "MARA primary decision record",
+      "retrieved_or_read_date": "2026-09-10",
+      "read_scope": "All two pages and ten rows read as extracted text; first page visually checked. Publication date corroborated by AG17.",
+      "full_read": true,
+      "locators": [
+        "PDF p. 1 row 6, DP73496, 农基安证字（2022）第053号",
+        "PDF pp. 1–2: eight new events, two cotton renewals"
+      ],
+      "supports": [
+        "DP73496 original import-processing authorization effective 2023-01-05 through 2028-01-04",
+        "Batch includes Brazilian sugarcane developers; cannot classify every entry as US concession"
+      ],
+      "limitations": [
+        "List year, effective year and publication year differ",
+        "No dossier chronology, technical reasoning or diplomatic instruction"
+      ],
+      "dependency_group": "mara-import-certificates",
+      "asset": {
+        "local_path_external_to_git": "/Users/jorsc/.codex/.chatgpt-projects/g-p-6a94dd290a988191911d85ae8fe94a6c/tmp/pdfs/research-2026-09-10/agriculture/mara-2022-import-2.pdf",
+        "bytes": 103032,
+        "sha256": "63a216f87bc3122c618d5dce97c7b593c632cff2dc02a2228a5a82a030e361d5",
+        "version": "Public version retrieved; original document is not copied into Git"
+      }
+    },
+    {
+      "id": "AG06",
+      "title": "中美经济合作百日计划早期收获成果",
+      "publication_date": "2017-05-12",
+      "url": "https://wjb.mof.gov.cn/gongzuodongtai/201705/t20170512_2599646.htm",
+      "source_type": "Chinese-hosted joint outcome text",
+      "perspective": "Joint negotiated 100-day plan",
+      "retrieved_or_read_date": "2026-09-10",
+      "read_scope": "Full substantive Chinese joint text and numbered annex items read, including final investment passage.",
+      "full_read": true,
+      "locators": [
+        "Item 3: agricultural biotechnology"
+      ],
+      "supports": [
+        "Eight pending applications scheduled for NBC evaluation by end-May; relevant written information requests and 20-working-day certificate issuance after safety passed"
+      ],
+      "limitations": [
+        "Eight events not named; commitment to evaluate is not guarantee to approve all",
+        "No implementation receipts or minutes"
+      ],
+      "dependency_group": "2017-bilateral-100-day-plan",
+      "asset": {
+        "local_path_external_to_git": "/Users/jorsc/.codex/.chatgpt-projects/g-p-6a94dd290a988191911d85ae8fe94a6c/tmp/pdfs/research-2026-09-10/agriculture/mof-2017-joint.html",
+        "bytes": 19575,
+        "sha256": "9b1a69bf95e365c19ee8341ba73e6ce3e0511a78ec04530cc58bcdb2c996409a",
+        "version": "Public version retrieved; original document is not copied into Git"
+      }
+    },
+    {
+      "id": "AG07",
+      "title": "Fact Sheet: Initial Actions of the U.S.–China Economic Cooperation 100-Day Plan",
+      "publication_date": "2017-05-11",
+      "url": "https://www.commerce.gov/news/fact-sheets/2017/05/fact-sheet-initial-actions-us-china-economic-cooperation-100-day-plan",
+      "source_type": "US-hosted joint outcome text",
+      "perspective": "Same instrument as AG06",
+      "retrieved_or_read_date": "2026-09-10",
+      "read_scope": "Full substantive English text including eleven numbered items read through web.",
+      "full_read": true,
+      "locators": [
+        "Item 3"
+      ],
+      "supports": [
+        "English cross-check of pre-Phase One procedural obligations"
+      ],
+      "limitations": [
+        "AG06 and AG07 are not independent evidence of implementation"
+      ],
+      "dependency_group": "2017-bilateral-100-day-plan",
+      "asset": {
+        "status": "Read through web tool; no local original retained"
+      }
+    },
+    {
+      "id": "AG08",
+      "title": "2016 U.S.–China Strategic and Economic Dialogue: Economic Track Fact Sheet",
+      "publication_date": "2016-06-07",
+      "url": "https://home.treasury.gov/news/press-releases/jl0484",
+      "source_type": "US-hosted joint economic outcomes",
+      "perspective": "Joint diplomatic commitments as published by Treasury",
+      "retrieved_or_read_date": "2026-09-10",
+      "read_scope": "Agricultural biotechnology passage and adjacent science/poultry material read; not full long fact sheet.",
+      "full_read": false,
+      "locators": [
+        "Agricultural biotechnology passage, beginning with science-based decision-making and risk analysis"
+      ],
+      "supports": [
+        "Timely, ongoing regulatory review and NBC-based decisions already negotiated in 2016; regulatory revision and asynchronous-approval work"
+      ],
+      "limitations": [
+        "No record of execution; not all earlier 2014–2015 commitments independently recovered"
+      ],
+      "dependency_group": "2016-sed-joint-outcomes",
+      "asset": {
+        "local_path_external_to_git": "/Users/jorsc/.codex/.chatgpt-projects/g-p-6a94dd290a988191911d85ae8fe94a6c/tmp/pdfs/research-2026-09-10/agriculture/treasury-2016.html",
+        "bytes": 115397,
+        "sha256": "c65ebb8991f36214e4da54278fcb38075a6e88fbd90dd65a148161e79c24b3f3",
+        "version": "Public version retrieved; original document is not copied into Git"
+      }
+    },
+    {
+      "id": "AG09",
+      "title": "农业转基因生物进口安全管理办法",
+      "publication_date": "2018-01-30",
+      "url": "https://kjs.moa.gov.cn/zcjd/201904/t20190418_6184802.htm",
+      "source_type": "Chinese regulation, historical amended text",
+      "perspective": "MARA legal framework",
+      "retrieved_or_read_date": "2026-09-10",
+      "read_scope": "Full 22-article web text read; attached RAR/annex forms not opened. Page URL dated April 2019 hosts text displaying January 2018 and amendments through November 2017.",
+      "full_read": false,
+      "locators": [
+        "Articles 3–4",
+        "Articles 13–16",
+        "Article 18"
+      ],
+      "supports": [
+        "Different import uses; origin-country permissions and safety materials; NBC assessment versus ministry approval; repeat applications and processing controls"
+      ],
+      "limitations": [
+        "Historical version, not complete 2026 legal guidance",
+        "Article 18 270-day wording not reconciled with all technical-testing/clock rules; no claim that treaty relaxes it"
+      ],
+      "dependency_group": "mara-import-regulation",
+      "asset": {
+        "local_path_external_to_git": "/Users/jorsc/.codex/.chatgpt-projects/g-p-6a94dd290a988191911d85ae8fe94a6c/tmp/pdfs/research-2026-09-10/agriculture/mara-import-rules.html",
+        "bytes": 77619,
+        "sha256": "596019ce4d48ae1c0ab8dec7775a55c2ba5cca24e262e37d3b8de56759fd93a7",
+        "version": "Public version retrieved; original document is not copied into Git"
+      }
+    },
+    {
+      "id": "AG10",
+      "title": "Agricultural Biotechnology Annual: China, CH2024-0001",
+      "publication_date": "2024-11-21",
+      "url": "https://apps.fas.usda.gov/newgainapi/api/Report/DownloadReportByFileName?fileName=Agricultural+Biotechnology+Annual_Beijing_China+-+People%27s+Republic+of_CH2024-0001.pdf",
+      "source_type": "USDA FAS country report",
+      "perspective": "US government analysis of foreign regulation; some industry sourcing",
+      "retrieved_or_read_date": "2026-09-10",
+      "read_scope": "PDF title, contents, p. 4 executive summary, p. 10 trade barriers, pp. 11–16, p. 19 and Appendix 2 p. 38 read; p. 14 flowchart visually inspected. Not all 49 pages or appendices read.",
+      "full_read": false,
+      "locators": [
+        "PDF pp. 11–16 institutions, approval stages, import and cultivation procedures",
+        "PDF p. 14 flowchart",
+        "PDF p. 19",
+        "Appendix 2 PDF p. 38 rows 1–14"
+      ],
+      "supports": [
+        "Operational description of dossier, verification, NBC and ministerial steps; distinct domestic cultivation and consignment procedures"
+      ],
+      "limitations": [
+        "Political influence assessment is FAS interpretation, not internal Chinese instruction",
+        "Approval table derives from MARA; not an independent witness to approval",
+        "Executive summary abbreviates treaty average; use agreement for exact obligation",
+        "Import crop taxonomy on p. 16 does not capture all products listed in its own appendix"
+      ],
+      "dependency_group": "fas-regulatory-analysis-and-mara-derived-data",
+      "asset": {
+        "local_path_external_to_git": "/Users/jorsc/.codex/.chatgpt-projects/g-p-6a94dd290a988191911d85ae8fe94a6c/tmp/pdfs/research-2026-09-10/agriculture/fas-2024-annual.pdf",
+        "bytes": 1319495,
+        "sha256": "f609002f005850507d160b60dcd6b6e31a0c67f83eb3408621fe4acb4080b7a4",
+        "version": "Public version retrieved; original document is not copied into Git"
+      }
+    },
+    {
+      "id": "AG11",
+      "title": "Testimony of the Biotechnology Innovation Organization: China and U.S. Agriculture",
+      "publication_date": "2018-04-26",
+      "url": "https://www.uscc.gov/sites/default/files/USCC%20Hearing%20on%20China%20Agriculture%20-%20Testimony%20of%20the%20Biotechnology%20Innovation%20Organization.pdf",
+      "source_type": "Industry testimony to USCC",
+      "perspective": "Joseph Damond, BIO, advocates member interests",
+      "retrieved_or_read_date": "2026-09-10",
+      "read_scope": "All seven pages read including four notes; final appendix chart visually inspected. No exact data reconstructed from chart.",
+      "full_read": true,
+      "locators": [
+        "PDF pp. 3–6",
+        "Appendix chart p. 7"
+      ],
+      "supports": [
+        "Industry pending-case age claims and desired procedural reforms; lobbying before Phase One"
+      ],
+      "limitations": [
+        "Pending age is not completed-approval mean; ten-case underlying dossier dataset not published here",
+        "Industry testimony not independent technical audit or Chinese official reasoning"
+      ],
+      "dependency_group": "biotech-industry-advocacy",
+      "asset": {
+        "local_path_external_to_git": "/Users/jorsc/.codex/.chatgpt-projects/g-p-6a94dd290a988191911d85ae8fe94a6c/tmp/pdfs/research-2026-09-10/agriculture/bio-2018-testimony.pdf",
+        "bytes": 320168,
+        "sha256": "ec2a5bed8c0397082a54b8982c998c05a72bf029d20580952ac3bf16aaec818f",
+        "version": "Public version retrieved; original document is not copied into Git"
+      }
+    },
+    {
+      "id": "AG12",
+      "title": "US wants China to approve more biotech crops under trade deal: sources",
+      "publication_date": "2018-05-23",
+      "url": "https://www.businesstimes.com.sg/international/us-wants-china-approve-more-biotech-crops-under-trade-deal-sources",
+      "source_type": "Contemporary Reuters original reporting, syndicated",
+      "perspective": "Reporters using unnamed knowledgeable and industry sources; agencies did not respond",
+      "retrieved_or_read_date": "2026-09-10",
+      "read_scope": "Full substantive syndicated article body through Reuters credit read.",
+      "full_read": true,
+      "locators": [
+        "Passages on US trade package demands",
+        "Enlist E3 2013 application and hoped-for 2015 launch"
+      ],
+      "supports": [
+        "Specific biotech pressure was reported within bilateral bargaining; Enlist reported application year and constrained launch"
+      ],
+      "limitations": [
+        "Original dossier receipt not recovered; specific negotiating proposal not known; source claims not official confirmation",
+        "Syndicator is not independent corroboration"
+      ],
+      "dependency_group": "reuters-ag-biotech-reporting",
+      "asset": {
+        "local_path_external_to_git": "/Users/jorsc/.codex/.chatgpt-projects/g-p-6a94dd290a988191911d85ae8fe94a6c/tmp/pdfs/research-2026-09-10/agriculture/reuters-2018.html",
+        "bytes": 189210,
+        "sha256": "acdfc17a7cebba0fe8f005d12b5e5de47f98ca727740584d5eae7baddae2f77f",
+        "version": "Public version retrieved; original document is not copied into Git"
+      }
+    },
+    {
+      "id": "AG13",
+      "title": "Factbox: China approves GMO soybean, corn, canola traits",
+      "publication_date": "2019-01-08",
+      "url": "https://finance.yahoo.com/news/factbox-china-approves-gmo-soybean-corn-canola-traits-163125348--finance.html",
+      "source_type": "Contemporary Reuters original reporting, syndicated",
+      "perspective": "Reuters commodity/agricultural reporting",
+      "retrieved_or_read_date": "2026-09-10",
+      "read_scope": "Full substantive factbox through reporting/editing credits read.",
+      "full_read": true,
+      "locators": [
+        "Pending applications: DP73496 submitted July 2012",
+        "Five new approvals announced during January talks"
+      ],
+      "supports": [
+        "DP73496 reported submission month and continued pending status in January 2019; publication context"
+      ],
+      "limitations": [
+        "No copy of submission; absent from approval batch does not mean denied",
+        "Later Reuters repeats may share same industry provenance"
+      ],
+      "dependency_group": "reuters-ag-biotech-reporting",
+      "asset": {
+        "local_path_external_to_git": "/Users/jorsc/.codex/.chatgpt-projects/g-p-6a94dd290a988191911d85ae8fe94a6c/tmp/pdfs/research-2026-09-10/agriculture/reuters-2019-factbox.html",
+        "bytes": 956974,
+        "sha256": "cb56be0ce967f95ccfe3d4dd63af4904c9afda9bf371614528230af7f3cf57a5",
+        "version": "Public version retrieved; original document is not copied into Git"
+      }
+    },
+    {
+      "id": "AG14",
+      "title": "China Approves Five Crop Traits, Including Enlist E3 Soybeans",
+      "publication_date": "2019-01-08",
+      "url": "https://www.dtnpf.com/agriculture/web/ag/crops/article/2019/01/08/china-approves-five-crop-traits-e3-2",
+      "source_type": "Contemporary original agricultural reporting",
+      "perspective": "Emily Unglesbee, DTN; interviews with Corteva spokespeople",
+      "retrieved_or_read_date": "2026-09-10",
+      "read_scope": "Full substantive article body and credits read through web.",
+      "full_read": true,
+      "locators": [
+        "Gregg Schmidt awaiting official certificates",
+        "Mike Dillon account of launch preparations and restricted channels"
+      ],
+      "supports": [
+        "Announcement was not necessarily service of certificate; prior commercial preparation"
+      ],
+      "limitations": [
+        "Company statements are interested participant evidence; no Chinese internal sources",
+        "Headline commercialization inference needs subsequent Philippine approval qualification"
+      ],
+      "dependency_group": "dtn-original-reporting-company-interviews",
+      "asset": {
+        "status": "Read through web tool; no local original retained"
+      }
+    },
+    {
+      "id": "AG15",
+      "title": "Corteva Agriscience and MS Technologies Announce 2019 U.S. Enlist E3 Soybean Launch",
+      "publication_date": "2019-02-21",
+      "url": "https://www.corteva.com/us/press-releases/corteva-and-ms-tech-announce-2019-us-enlist-e3-soybean-launch.html",
+      "source_type": "Applicant/company joint release",
+      "perspective": "Corteva and MS Technologies commercial announcement",
+      "retrieved_or_read_date": "2026-09-10",
+      "read_scope": "Full substantive release, regulatory/launch-policy notes and boilerplate read through web.",
+      "full_read": true,
+      "locators": [
+        "Opening launch announcement and Philippine authorization",
+        "Notes on commercialization policy and relevant import approvals"
+      ],
+      "supports": [
+        "Broad US launch announcement after Philippine authorization; distinguishes cultivation countries from import countries"
+      ],
+      "limitations": [
+        "Projected acreage and commercial claims not independently verified; announcement not measured plantings"
+      ],
+      "dependency_group": "corteva-enlist-participant-account",
+      "asset": {
+        "local_path_external_to_git": "/Users/jorsc/.codex/.chatgpt-projects/g-p-6a94dd290a988191911d85ae8fe94a6c/tmp/pdfs/research-2026-09-10/agriculture/corteva-enlist-launch.html",
+        "bytes": 195147,
+        "sha256": "ac3310568bea4fb705002e6f0439dd145b6ece2bd655e641487fa198e25b81c5",
+        "version": "Public version retrieved; original document is not copied into Git"
+      }
+    },
+    {
+      "id": "AG16",
+      "title": "Commission Implementing Decision (EU) 2022/529 authorising products containing, consisting of or produced from genetically modified oilseed rape 73496",
+      "publication_date": "2022-03-31",
+      "url": "https://eur-lex.europa.eu/eli/dec_impl/2022/529/oj/eng/pdf",
+      "source_type": "EU legal decision",
+      "perspective": "European Commission administrative authorization",
+      "retrieved_or_read_date": "2026-09-10",
+      "read_scope": "All six pages, recitals, articles and annex read as extracted text, with initially truncated passages re-read separately.",
+      "full_read": true,
+      "locators": [
+        "OJ L105, 4 April 2022, pp. 39–44",
+        "Recitals 1, 3, 16",
+        "Articles 2–3, 9"
+      ],
+      "supports": [
+        "Application 2012-05-15; EFSA opinion 2021-06-17; Commission approval 2022-03-31; cultivation excluded; committees gave no opinion"
+      ],
+      "limitations": [
+        "English publication says only Dutch text authentic",
+        "Does not explain all intervening delay; cited EFSA 57-page opinion not read",
+        "Same event comparison is not a causal estimate of net Chinese launch delay"
+      ],
+      "dependency_group": "eu-canola-primary-decision",
+      "asset": {
+        "local_path_external_to_git": "/Users/jorsc/.codex/.chatgpt-projects/g-p-6a94dd290a988191911d85ae8fe94a6c/tmp/pdfs/research-2026-09-10/agriculture/eu-2022-canola.pdf",
+        "bytes": 423685,
+        "sha256": "0ed24d18bbbc3e128642c1f4c8522e41d12b340f41eba65aba6b80486c70f772",
+        "version": "Public version retrieved; original document is not copied into Git"
+      }
+    },
+    {
+      "id": "AG17",
+      "title": "China approves import of Bayer GMO alfalfa, Corteva canola after a decade",
+      "publication_date": "2023-01-13",
+      "url": "https://www.agriculture.com/markets/newswire/update-2-china-approves-import-of-bayers-gmo-alfalfa-corteva-canola-after-a-decade",
+      "source_type": "Contemporary Reuters original reporting, syndicated",
+      "perspective": "Dominique Patton and Tom Polansek; company, US official, industry and consultant interviews",
+      "retrieved_or_read_date": "2026-09-10",
+      "read_scope": "Full substantive article body through final credits read via web. Direct download returned 403; no local full original retained.",
+      "full_read": true,
+      "locators": [
+        "DP73496 July 2012 submission and Jan 2023 approval",
+        "Kris Allen company response",
+        "John Baize goodwill interpretation"
+      ],
+      "supports": [
+        "Publication date; contemporary response; approval versus remaining commercial preparations"
+      ],
+      "limitations": [
+        "Consultant goodwill explanation is interpretation, not evidence of an instruction or negotiated quid pro quo",
+        "MARA approval details derivative; reported application month may share provenance with AG13"
+      ],
+      "dependency_group": "reuters-ag-biotech-reporting",
+      "asset": {
+        "status": "Read through web tool; no local original retained"
+      }
+    },
+    {
+      "id": "AG18",
+      "title": "Chinese approval opens door for new HT canola",
+      "publication_date": "2023-01-26",
+      "url": "https://www.producer.com/news/chinese-approval-opens-door-for-new-ht-canola/",
+      "source_type": "Contemporary original agricultural reporting",
+      "perspective": "Sean Pratt, Western Producer; interview with Corteva’s Jeff Loessin",
+      "retrieved_or_read_date": "2026-09-10",
+      "read_scope": "Full substantive article body read via web; article notes update 2023-01-27, 10:37 Central. Direct download returned 403.",
+      "full_read": true,
+      "locators": [
+        "China as final needed global regulatory approval",
+        "EU 2022 approval and post-approval stewardship preparations"
+      ],
+      "supports": [
+        "Company-specific multi-market launch gate and operational work following approval"
+      ],
+      "limitations": [
+        "Article updated without recovered changelog; original interview but same interested corporate perspective as releases",
+        "Company claim that delay improved hybrids is not independent benefit calculation"
+      ],
+      "dependency_group": "western-producer-original-corteva-interview",
+      "asset": {
+        "status": "Read through web tool; no local original retained"
+      }
+    },
+    {
+      "id": "AG19",
+      "title": "Corteva Announces Commercial Launch of Optimum GLY Canola",
+      "publication_date": "2023-02-14",
+      "url": "https://www.corteva.com/ca-en/about-corteva/media-centre/corteva-announces-commercial-launch-optimum-gly.html",
+      "source_type": "Applicant/company release",
+      "perspective": "Corteva commercial announcement",
+      "retrieved_or_read_date": "2026-09-10",
+      "read_scope": "Full substantive release including regulatory notes and boilerplate read through web.",
+      "full_read": true,
+      "locators": [
+        "Launch geography and 2023/2024 planting plans",
+        "Launch-policy and stewardship note"
+      ],
+      "supports": [
+        "Canada/US 2023 launch; Australian demonstrations 2023/full 2024 announcement"
+      ],
+      "limitations": [
+        "Planned availability not independently measured planting, revenue or shipment outcome"
+      ],
+      "dependency_group": "corteva-canola-participant-account",
+      "asset": {
+        "local_path_external_to_git": "/Users/jorsc/.codex/.chatgpt-projects/g-p-6a94dd290a988191911d85ae8fe94a6c/tmp/pdfs/research-2026-09-10/agriculture/corteva-canola-launch.html",
+        "bytes": 205426,
+        "sha256": "218b628b7c0ef76d648992b407d7a7dcccd6fd26deb37876368c03454f2b57a8",
+        "version": "Public version retrieved; original document is not copied into Git"
+      }
+    },
+    {
+      "id": "AG20",
+      "title": "Decision Document DD2012-88: Pioneer Hi-Bred Production Limited’s Canola Event 73496",
+      "publication_date": "2012-05-03",
+      "url": "https://inspection.canada.ca/en/plant-varieties/plants-novel-traits/approved-under-review/decision-documents/dd-2012-88",
+      "source_type": "Canadian regulatory decision document",
+      "perspective": "CFIA environmental/feed authorization",
+      "retrieved_or_read_date": "2026-09-10",
+      "read_scope": "Introduction, identification/background, selected risk passages and decision conclusion read through web; not every scientific assessment subsection.",
+      "full_read": false,
+      "locators": [
+        "Decision date and authorization conclusion",
+        "Identity of modified plant material and proposed use"
+      ],
+      "supports": [
+        "Canadian unconfined environmental release and livestock-feed permission on 2012-05-03"
+      ],
+      "limitations": [
+        "Date field is decision date; current web version publication history not established",
+        "Separate food authorization not established from this record; no inference about China application acceptance"
+      ],
+      "dependency_group": "cfia-canola-primary-decision",
+      "asset": {
+        "status": "Read through web tool; no local original retained"
+      }
+    },
+    {
+      "id": "AG21",
+      "title": "Section 301 public hearing on China’s Phase One implementation — transcript",
+      "publication_date": "2025-12-16",
+      "url": "https://ustr.gov/sites/default/files/files/Issue_Areas/Enforcement/Section%20301/Hearing%20transcript%20full%20without%20index.pdf",
+      "source_type": "Official transcript of stakeholder testimony",
+      "perspective": "ASTA applicant-industry advocacy, with US officials questioning; ASA contrasting policy view",
+      "retrieved_or_read_date": "2026-09-10",
+      "read_scope": "PDF p. 2 witness list, pp. 8–19, 25–28 and 32–35 read. Rest of 100-page transcript not fully read.",
+      "full_read": false,
+      "locators": [
+        "Sam Crowell opening pp. 8–13",
+        "Follow-up questions pp. 25–28",
+        "ASA policy position pp. 18–19"
+      ],
+      "supports": [
+        "ASTA claims 69-month average and two nine-year pending cases; uncertainty and launch mechanism",
+        "Questioning exposes absence of a demonstrated approval-linked seed-theft case in this testimony"
+      ],
+      "limitations": [
+        "Underlying cohort/dossier dataset not supplied; averages not independently replicated",
+        "Industry and USTR claims may rely on overlapping members; hearing is not an adjudicated finding"
+      ],
+      "dependency_group": "biotech-industry-advocacy",
+      "asset": {
+        "local_path_external_to_git": "/Users/jorsc/.codex/.chatgpt-projects/g-p-6a94dd290a988191911d85ae8fe94a6c/tmp/pdfs/trade-2018-2026/implementation/ustr-2025-hearing.pdf",
+        "bytes": 523413,
+        "sha256": "1f01915b1bcfc92b6dc086e36a62d92c5cd5187d2df08ff3ed560ae044008081",
+        "version": "Public version retrieved; original document is not copied into Git"
+      }
+    },
+    {
+      "id": "AG22",
+      "title": "2026 National Trade Estimate Report on Foreign Trade Barriers",
+      "publication_date": "2026-03-31",
+      "url": "https://ustr.gov/sites/default/files/files/Press/Releases/2026/National%20Trade%20Estimate%20Report%202026.pdf",
+      "source_type": "US official annual assessment",
+      "perspective": "USTR assessment and complaints about foreign barriers",
+      "retrieved_or_read_date": "2026-09-10",
+      "read_scope": "Agricultural Biotechnology Approvals section in full: printed pp. 82–83 / PDF pp. 90–91, read on web and extracted text. Adjacent non-biotech text inspected; not complete report.",
+      "full_read": false,
+      "locators": [
+        "Printed pp. 82–83, Agricultural Biotechnology Approvals"
+      ],
+      "supports": [
+        "USTR says average 24-month promise unmet and 2025 NBC results unpublished; acknowledges some new foreign approvals"
+      ],
+      "limitations": [
+        "US government allegation, not internal Chinese process record; no complete cohort disclosed",
+        "Publication absence is not proof of absence of approvals; domestic cultivation counts not matched foreign import comparison"
+      ],
+      "dependency_group": "ustr-regulatory-assessment-industry-overlap",
+      "asset": {
+        "local_path_external_to_git": "/Users/jorsc/.codex/.chatgpt-projects/g-p-6a94dd290a988191911d85ae8fe94a6c/tmp/pdfs/research-2026-09-10/agriculture/ustr-2026-nte.pdf",
+        "bytes": 5561842,
+        "sha256": "b5aff347c87bb8f15f870209df028920dced42c37e59d83c5feb376102f8f30b",
+        "version": "Public version retrieved; original document is not copied into Git"
+      }
+    },
+    {
+      "id": "AG23",
+      "title": "关于中美经贸关系若干问题的中方立场",
+      "publication_date": "2025-04-09",
+      "url": "https://chinawto.mofcom.gov.cn/article/ap/p/202504/20250403576920.shtml",
+      "source_type": "Chinese official white paper",
+      "perspective": "State Council Information Office retrospective defense, hosted by MOFCOM",
+      "retrieved_or_read_date": "2026-09-10",
+      "read_scope": "Section II(3), food/agricultural market access, read completely in Chinese in this subtask. Other snippets encountered not credited as full reading.",
+      "full_read": false,
+      "locators": [
+        "II(3) 扩大食品和农产品市场准入"
+      ],
+      "supports": [
+        "China’s selected public account emphasizes restored product access; no selected-event biotech dossier account in this subsection"
+      ],
+      "limitations": [
+        "Do not infer the entire white paper lacks biotech discussion based solely on this section",
+        "Retrospective assertions not independently adjudicated; no response to 2026 accusations possible in a 2025 document"
+      ],
+      "dependency_group": "china-2025-whitepaper",
+      "asset": {
+        "local_path_external_to_git": "/Users/jorsc/.codex/.chatgpt-projects/g-p-6a94dd290a988191911d85ae8fe94a6c/tmp/pdfs/trade-2018-2026/implementation/china-whitepaper-2025.html",
+        "bytes": 144003,
+        "sha256": "f97c2bf908d99a042982d06ab886fae6f4065fce916fca9e22ff97b6859e1faa",
+        "version": "Public version retrieved; original document is not copied into Git"
+      }
+    },
+    {
+      "id": "AG24",
+      "title": "President Trump’s State Visit to China Delivers Historic Deals and Greater Market Access for American Businesses",
+      "publication_date": "2026-05-18",
+      "url": "https://ustr.gov/about/policy-offices/press-office/press-releases/2026/may/president-trumps-state-visit-china-delivers-historic-deals-and-greater-market-access-american",
+      "source_type": "US official compilation of published interview excerpts",
+      "perspective": "USTR / Ambassador Jamieson Greer account of summit outcomes",
+      "retrieved_or_read_date": "2026-09-10",
+      "read_scope": "Full substantive web release read, including agricultural excerpt attributed to ABC This Week; underlying full broadcast not watched.",
+      "full_read": true,
+      "locators": [
+        "Agriculture section: scientific review of biotechnology traits"
+      ],
+      "supports": [
+        "Biotech review publicly described as summit commitment in 2026"
+      ],
+      "limitations": [
+        "No events, decision dates or new certificates identified; not a joint text or proof of delivery",
+        "Edited highlights rather than complete interview"
+      ],
+      "dependency_group": "ustr-2026-summit-account",
+      "asset": {
+        "status": "Read through web tool; no local original retained"
+      }
+    },
+    {
+      "id": "AG25",
+      "title": "USDA FOIA release 2019-DA-05664-F, Rony part 4; underlying record stamp 2018-OSEC-05938-F",
+      "publication_date": "2019-09-17",
+      "document_dates": "Selected emails 2017-05-02 through 2017-06-14; signed agency release 2019-08-02",
+      "url": "https://cdn.muckrock.com/foia_files/2019/09/17/2019-DA-05664-F20Rony204.pdf",
+      "source_type": "Publicly released government-held email correspondence",
+      "perspective": "Messages by USDA adviser Adcock, corporate CEO Hassinger and lobbyists Shipman/Bischoff; authored claims remain attributable",
+      "retrieved_or_read_date": "2026-09-10",
+      "read_scope": "Selected part-4 PDF pages 110, 197–199, 204–206, 506–509, 603–605 and 644–649 read fully as text. Pages 205, 506 and 604 visually checked. All four parts searched for China/biotech/Shipman; search hits are not full reading. No claim to read all 649 part-4 pages or all 917 released pages.",
+      "full_read": false,
+      "locators": [
+        "Physical PDF pages match printed six-digit stamps: e.g. p. 205 = 000205; p. 506 = 000506; p. 604 = 000604",
+        "197–199: May 2 / May 8 Dow CEO meeting chain",
+        "506–509: May 9 background/talking-points and staffing chain",
+        "603–605: May 16 proposed hearing questions and reactions",
+        "205–206: June 14 Hassinger message and Adcock reply"
+      ],
+      "supports": [
+        "Dated US-side policy access, preparation and feedback; participant attribution rather than inferred Chinese instruction"
+      ],
+      "limitations": [
+        "Acquired files contain attachment filenames but not the named Enlist regulatory summaries; no embedded attachments in any of four PDFs",
+        "Corn and unnamed soybean materials must not be relabeled Enlist E3; Chinese event identifier not supplied in these messages",
+        "June 14 message salutes the secretary but quoted envelope does not show the original recipient list; Adcock says she forwarded it",
+        "Requested May 10 meeting date is not independently established as actual date; June message recalls a meeting in May",
+        "Proposed hearing questions compared with delivered Davis question in AG29: related premise with substantial rewriting, not verbatim adoption; authorship of changes not established",
+        "FOIA withholding and substituted search scope in AG26; source instructions treated solely as quoted records"
+      ],
+      "dependency_group": "usda-adcock-foia-release",
+      "asset": {
+        "local_path_external_to_git": "/Users/jorsc/.codex/.chatgpt-projects/g-p-6a94dd290a988191911d85ae8fe94a6c/tmp/pdfs/research-2026-09-10/agriculture/usda-adcock-4.pdf",
+        "bytes": 23835075,
+        "sha256": "b5aedc6fa39356cb5615a05dc68c7bf17bd73c4e88f5ad70bbea25c0f53fcd5d",
+        "version": "FOIA-released public PDF downloaded from MuckRock CDN"
+      }
+    },
+    {
+      "id": "AG26",
+      "title": "USDA final response to Alexander Rony, FOIA 2019-DA-05664-F",
+      "publication_date": "2019-08-02",
+      "url": "https://cdn.muckrock.com/foia_files/2019/09/17/2019-DA-05664-F20Signed20Final20Response20Letter.pdf",
+      "source_type": "Signed agency FOIA release letter",
+      "perspective": "USDA Departmental FOIA Office, Alexis Graves",
+      "retrieved_or_read_date": "2026-09-10",
+      "read_scope": "All three pages including release scope, exemptions, appeal instructions and signature read as text.",
+      "full_read": true,
+      "locators": [
+        "p. 1: substituted April 1, 2017–August 31, 2018 records and 917-page count",
+        "p. 2: Exemptions 4 and 6",
+        "p. 3: signature and enclosure"
+      ],
+      "supports": [
+        "Provenance and limits of public release"
+      ],
+      "limitations": [
+        "Final response is dated August 2; archive posting occurred later; release is not complete unredacted correspondence or the originally requested broader search"
+      ],
+      "dependency_group": "usda-adcock-foia-release",
+      "asset": {
+        "local_path_external_to_git": "/Users/jorsc/.codex/.chatgpt-projects/g-p-6a94dd290a988191911d85ae8fe94a6c/tmp/pdfs/research-2026-09-10/agriculture/usda-adcock-release-letter.pdf",
+        "bytes": 152580,
+        "sha256": "751663c039e87774c51fa844c5a9b24e5ac52399c6f8229b5fb0a1f76f06e5a7",
+        "version": "FOIA-released public PDF downloaded from MuckRock CDN"
+      }
+    },
+    {
+      "id": "AG27",
+      "title": "Rebeckah Adcock External Emails, MuckRock request 77518",
+      "publication_date": "2019-07-16",
+      "url": "https://www.muckrock.com/foi/united-states-of-america-10/rebeckah-adcock-external-emails-77518/",
+      "source_type": "Public FOIA request and agency correspondence docket",
+      "perspective": "Alexander Rony/Sierra Club requester, MuckRock host and USDA replies",
+      "retrieved_or_read_date": "2026-09-10",
+      "read_scope": "All 13 visible docket communications and attachment inventory read; underlying PDFs separately qualified in AG25–26.",
+      "full_read": true,
+      "locators": [
+        "August 1–2 scope substitution exchange",
+        "September 3–11 delivery and inaccessible-attachment correspondence",
+        "File inventory dated September 17, 2019"
+      ],
+      "supports": [
+        "Public release provenance and scope; direct download links to four parts and signed response"
+      ],
+      "limitations": [
+        "Docket page and letter are related provenance records, not independent witnesses to the 2017 policy decisions",
+        "Email receipt, re-sending and website file-posting dates differ"
+      ],
+      "dependency_group": "usda-adcock-foia-release",
+      "asset": {
+        "status": "Read via web; direct HTML download blocked; originals separately preserved"
+      }
+    },
+    {
+      "id": "AG28",
+      "title": "These Emails Show a Trump Official Helping Her Former Chemical Industry Colleagues",
+      "publication_date": "2020-01-14",
+      "url": "https://www.propublica.org/article/these-emails-show-a-trump-official-helping-her-former-chemical-industry-colleagues",
+      "source_type": "Investigative reporting; discovery lead",
+      "perspective": "Derek Kravitz / ProPublica and Emily Holden / The Guardian",
+      "retrieved_or_read_date": "2026-09-10",
+      "read_scope": "Full article text read; embedded document-image excerpts not read as originals. Subsequent substantive claims derive from acquired FOIA release instead.",
+      "full_read": false,
+      "locators": [
+        "Article body and referenced records"
+      ],
+      "supports": [
+        "Discovery route only"
+      ],
+      "limitations": [
+        "Keep article paraphrase within 25-word source budget; no substantive memo claim relies on its characterization"
+      ],
+      "dependency_group": "journalism-derived-from-usda-adcock-release",
+      "asset": {
+        "local_path_external_to_git": "/Users/jorsc/.codex/.chatgpt-projects/g-p-6a94dd290a988191911d85ae8fe94a6c/tmp/pdfs/research-2026-09-10/agriculture/propublica-2020.html",
+        "bytes": 282353,
+        "sha256": "704f1b3efe0ea318e6f23fb9b0432daf588660575c82b8935a632ab1b4be78b1",
+        "version": "Public article HTML; discovery lead only"
+      }
+    },
+    {
+      "id": "AG29",
+      "title": "State of the Rural Economy: Secretary of Agriculture Sonny Perdue — House Agriculture hearing, Serial No. 115–6",
+      "publication_date": "2017",
+      "hearing_date": "2017-05-17",
+      "url": "https://agriculture.house.gov/UploadedFiles/115-06_-_25545.pdf",
+      "source_type": "Published congressional hearing transcript",
+      "perspective": "Representative Rodney Davis and Secretary Sonny Perdue, public questioning and response",
+      "retrieved_or_read_date": "2026-09-10",
+      "read_scope": "Title page and contents; complete Davis exchange on physical PDF pp. 64–65 / printed pp. 60–61 read, with p. 65 visually checked. Not all 105 physical pages read; no full hearing-video verification.",
+      "full_read": false,
+      "locators": [
+        "PDF p. 1: hearing May 17, 2017, Serial 115–6; typesetting footer September 7, 2017 is not hearing date",
+        "PDF pp. 64–65 / printed 60–61: complete Davis exchange",
+        "Compare AG25 part 4 physical/printed pp. 603–605"
+      ],
+      "supports": [
+        "Proposed-question/public-question comparison and actual secretary reply"
+      ],
+      "limitations": [
+        "Delivered question shares premise and some language but differs substantially; does not identify who revised it or prove official feedback caused changes",
+        "Perdue policy claims remain attributable; does not establish a named Chinese approval",
+        "Publication year is printed 2017; exact public release date not recovered"
+      ],
+      "dependency_group": "house-2017-hearing-independent-public-record-linked-to-foia-proposal",
+      "asset": {
+        "local_path_external_to_git": "/Users/jorsc/.codex/.chatgpt-projects/g-p-6a94dd290a988191911d85ae8fe94a6c/tmp/pdfs/research-2026-09-10/agriculture/house-ag-2017-05-17.pdf",
+        "bytes": 2275152,
+        "sha256": "0f0a318c1e2f2520f6581aef3193e0c979570c02114b677efd37c55bf7d298c5",
+        "version": "Published House Agriculture Committee PDF"
+      }
+    }
+  ],
+  "unresolved_records": [
+    "Original China application receipts and exact accepted dates for DAS-44406-6 and DP73496",
+    "All additional-data requests, applicant responses and commissioned-test dates",
+    "NBC agenda, recommendations and MARA decision/service dates for each event",
+    "Event-specific bilateral intervention or senior Chinese authorization record",
+    "Enlist renewal submission/service date and independently measured launch/planting outcomes",
+    "Complete first-time import application cohort including rejections and pending cases for average-duration audit",
+    "Named Enlist Corn China Regulatory Summary (2017 May).docx, Enlist Soybean China Regulatory Summary (2017 May).docx and China Biotech Approval Backgrounder May 2017.docx attachments",
+    "Actual May 2017 Hassinger–Perdue meeting date, briefing materials and bilateral follow-through",
+    "Congressional staff drafting/receipt record explaining changes between May 16 proposal and May 17 Davis question"
+  ],
+  "search_leads_not_claimed_read": [
+    {
+      "description": "Corteva 2019 earnings-call PDF",
+      "url": "https://investors.corteva.com/static-files/27fc5504-228b-44f9-98b6-3a89fc68c2e3",
+      "status": "Download timed out; search snippets not used as substantive evidence"
+    },
+    {
+      "description": "EFSA assessment cited in EU DP73496 decision",
+      "url": "https://doi.org/10.2903/j.efsa.2021.6610",
+      "status": "Referenced in read decision; assessment not independently read or relied on for technical safety conclusions"
+    },
+    {
+      "description": "DBN9004 as possible prompt import comparator",
+      "status": "No formal Chinese submission date recovered; interval from Argentine authorization must not be represented as Chinese review duration"
+    }
+  ],
+  "additional_downloaded_but_not_fully_read_assets": [
+    {
+      "source_group": "usda-adcock-foia-release",
+      "read_scope": "Keyword search only; isolated search-result lines inspected, no substantive claim from this part",
+      "asset": {
+        "local_path_external_to_git": "/Users/jorsc/.codex/.chatgpt-projects/g-p-6a94dd290a988191911d85ae8fe94a6c/tmp/pdfs/research-2026-09-10/agriculture/usda-adcock-1.pdf",
+        "bytes": 3538566,
+        "sha256": "3edbcd6c7cf7e10925ffa828fe62d95206d54f759d7c4cb751e765e503593c4d",
+        "version": "FOIA-released public PDF downloaded from MuckRock CDN"
+      }
+    },
+    {
+      "source_group": "usda-adcock-foia-release",
+      "read_scope": "Keyword search only; isolated search-result lines inspected, no substantive claim from this part",
+      "asset": {
+        "local_path_external_to_git": "/Users/jorsc/.codex/.chatgpt-projects/g-p-6a94dd290a988191911d85ae8fe94a6c/tmp/pdfs/research-2026-09-10/agriculture/usda-adcock-2.pdf",
+        "bytes": 9259591,
+        "sha256": "d793577051bd72cbea2d9a5d9af1173065fe78806e4b8f281685b27f46411d59",
+        "version": "FOIA-released public PDF downloaded from MuckRock CDN"
+      }
+    },
+    {
+      "source_group": "usda-adcock-foia-release",
+      "read_scope": "Keyword search only; isolated search-result lines inspected, no substantive claim from this part",
+      "asset": {
+        "local_path_external_to_git": "/Users/jorsc/.codex/.chatgpt-projects/g-p-6a94dd290a988191911d85ae8fe94a6c/tmp/pdfs/research-2026-09-10/agriculture/usda-adcock-3.pdf",
+        "bytes": 1884350,
+        "sha256": "62da3c501787a51b731bb17a3df5f1bed7b557d778a323e3e1a4ad87185e77b8",
+        "version": "FOIA-released public PDF downloaded from MuckRock CDN"
+      }
+    }
+  ]
+}

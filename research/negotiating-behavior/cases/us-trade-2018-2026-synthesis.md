@@ -1,5 +1,7 @@
 # Updating Solomon: the US trade negotiations and Phase One's afterlife
 
+**Subsequent research, 10 September:** the [implementation and major-power reassessment](implementation-and-major-power-reassessment.md) follows the financial and agricultural priorities below and adds an India security comparison. The text here preserves the preceding 8 September assessment.
+
 **Research pass: 8 September 2026.** This case reconstructs the 2018–2020 bargaining sequence and selected implementation episodes through July 2, 2026. It adds contemporary reporting, Chinese white papers, paired official statements, a bilingual agreement reading and implementation evidence to the [1999 WTO pilot](wto-1999-synthesis.md). The latest date is a boundary of substantive coverage, not a claim that every intervening negotiation or all of 2026 has been researched.
 
 **The strongest conclusion is continuity in political control and bargaining after signature, operating through detailed legal, regulatory and economic instruments.** China accepted precise obligations and formal procedures while preserving domestic implementation choices and avenues for further negotiation. The United States also used provisional understandings, shifting deadlines, senior intervention and retained pressure. Neither a timeless cultural account nor a simple transition from politics to rules adequately explains the observed combination.

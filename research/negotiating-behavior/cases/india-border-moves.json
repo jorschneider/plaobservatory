@@ -1,0 +1,348 @@
+{
+  "title": "China–India negotiating moves and inference boundaries",
+  "research_date": "2026-09-10",
+  "source_register": "../sources/india-border-register.json",
+  "event_date_policy": "Event dates separated from publication dates; date intervals denote linked observations, not uninterrupted negotiations.",
+  "moves": [
+    {
+      "id": "IND-M01",
+      "event_date": "2020-09-10",
+      "actors": "Foreign ministers",
+      "observed_or_attributed_move": "Agree five-point framework",
+      "source_ids": [
+        "IND-MEA-32962"
+      ],
+      "inference": "Political framework precedes location-specific execution.",
+      "not_established": "Unpublished concessions or single-meeting causation",
+      "solomon_claim_ids": [
+        "S-P05",
+        "S-P24"
+      ]
+    },
+    {
+      "id": "IND-M02",
+      "event_date": "2020-09-21",
+      "actors": "Corps commanders",
+      "observed_or_attributed_move": "Joint military commitments and further talks",
+      "source_ids": [
+        "IND-MEA-33047"
+      ],
+      "inference": "Additional operational layer",
+      "not_established": "Complete withdrawal or finalized boundaries",
+      "solomon_claim_ids": [
+        "S-P01",
+        "S-P25"
+      ]
+    },
+    {
+      "id": "IND-M03",
+      "event_date": "2021-02-20",
+      "actors": "Corps commanders",
+      "observed_or_attributed_move": "Welcome Pangong completion; reserve other matters",
+      "source_ids": [
+        "IND-MEA-33557"
+      ],
+      "inference": "Partial agreement explicit",
+      "not_established": "End of entire confrontation",
+      "solomon_claim_ids": [
+        "S-P12"
+      ]
+    },
+    {
+      "id": "IND-M04",
+      "event_date": "2021-10-10",
+      "actors": "Corps commanders / Indian ministry",
+      "observed_or_attributed_move": "India attributes failure to China rejecting proposals",
+      "source_ids": [
+        "IND-MEA-34372"
+      ],
+      "inference": "Public blame accompanies continuing mechanism",
+      "not_established": "Chinese private reasons or leadership conflict",
+      "solomon_claim_ids": [
+        "S-C19",
+        "S-P11"
+      ]
+    },
+    {
+      "id": "IND-M05",
+      "event_date": "2022-03-25",
+      "actors": "Wang Yi / Jaishankar",
+      "observed_or_attributed_move": "Senior discussion; Indian briefing rejects broader normality",
+      "source_ids": [
+        "IND-MEA-35076"
+      ],
+      "inference": "Relational conditionality is also Indian behavior",
+      "not_established": "Senior visit necessarily changes ground situation",
+      "solomon_claim_ids": [
+        "S-P24",
+        "S-C01"
+      ]
+    },
+    {
+      "id": "IND-M06",
+      "event_date": "2022-07-17",
+      "actors": "Corps commanders",
+      "observed_or_attributed_move": "Jointly promise work on remaining matters",
+      "source_ids": [
+        "IND-MEA-35496"
+      ],
+      "inference": "General public commitment precedes later PP15 announcement",
+      "not_established": "Public text contains full operative agreement",
+      "solomon_claim_ids": [
+        "S-P05"
+      ]
+    },
+    {
+      "id": "IND-M07",
+      "event_date": "2022-09-08/2022-09-12",
+      "actors": "Military and diplomatic channels",
+      "observed_or_attributed_move": "Planned reciprocal PP15 disengagement, subsequent official completion report",
+      "source_ids": [
+        "IND-PIB-PP15",
+        "IND-CN-2022-PP15",
+        "IND-MEA-35691",
+        "IND-MEA-35808"
+      ],
+      "inference": "Timed duties and mutual verification publicly described",
+      "not_established": "All routes restored, all force concentrations removed, independent verification of every duty",
+      "solomon_claim_ids": [
+        "S-P12",
+        "S-P25"
+      ]
+    },
+    {
+      "id": "IND-M08",
+      "event_date": "2022-09-13",
+      "actors": "Commercial imagery / IndiaToday analyst",
+      "observed_or_attributed_move": "Reported camp removal on imagery",
+      "source_ids": [
+        "IND-IT-20220917"
+      ],
+      "inference": "Limited external check on one physical change",
+      "not_established": "Comprehensive bilateral compliance",
+      "solomon_claim_ids": [
+        "S-P25"
+      ]
+    },
+    {
+      "id": "IND-M09",
+      "event_date": "2022-09-27/2022-10-07",
+      "actors": "Sun Weidong / Indian spokesperson",
+      "observed_or_attributed_move": "Different judgments of readiness for normality",
+      "source_ids": [
+        "IND-CN-2022-SUN",
+        "IND-MEA-35739"
+      ],
+      "inference": "Political meaning of local progress contested",
+      "not_established": "PP15 withdrawal absent or relationship already normal",
+      "solomon_claim_ids": [
+        "S-C01",
+        "S-P19"
+      ]
+    },
+    {
+      "id": "IND-M10",
+      "event_date": "2023-07-24/2023-08-23",
+      "actors": "Doval/Wang, commanders, Modi/Xi",
+      "observed_or_attributed_move": "Senior contacts and positive military meeting",
+      "source_ids": [
+        "IND-MEA-36876",
+        "IND-MEA-37010",
+        "IND-MEA-37049",
+        "IND-CN-2023-MODI"
+      ],
+      "inference": "Multiple levels active before continued impasse",
+      "not_established": "Nearagreement drafts or final authorization independently established",
+      "solomon_claim_ids": [
+        "S-P24"
+      ]
+    },
+    {
+      "id": "IND-M11",
+      "event_date": "2023-10-09/2023-10-12",
+      "actors": "Commanders and spokesperson",
+      "observed_or_attributed_move": "Remaining issues persist; India declines no-consensus label",
+      "source_ids": [
+        "IND-MEA-37185",
+        "IND-MEA-37187"
+      ],
+      "inference": "Format/tone of press output is weak settlement indicator",
+      "not_established": "No progress whatsoever",
+      "solomon_claim_ids": [
+        "S-P11",
+        "S-P24"
+      ]
+    },
+    {
+      "id": "IND-M12",
+      "event_date": "2024-07-04/2024-07-25",
+      "actors": "Foreign ministers",
+      "observed_or_attributed_move": "Intensification and resumed-mechanism direction",
+      "source_ids": [
+        "IND-MEA-37922",
+        "IND-CN-2024-JULY4",
+        "IND-CN-2024-JULY25"
+      ],
+      "inference": "Visible political supervision",
+      "not_established": "Specific final patrol terms already authorized",
+      "solomon_claim_ids": [
+        "S-P24"
+      ]
+    },
+    {
+      "id": "IND-M13",
+      "event_date": "2024-07-31/2024-08-29",
+      "actors": "WMCC",
+      "observed_or_attributed_move": "Narrow differences citing minister guidance",
+      "source_ids": [
+        "IND-MEA-38052",
+        "IND-MEA-38241",
+        "IND-CN-2024-WMCC31"
+      ],
+      "inference": "Cross-level linkage explicit",
+      "not_established": "Exact reciprocal concessions",
+      "solomon_claim_ids": [
+        "S-P24"
+      ]
+    },
+    {
+      "id": "IND-M14",
+      "event_date": "2024-09-12",
+      "actors": "Doval / Wang",
+      "observed_or_attributed_move": "Review progress with different public emphases",
+      "source_ids": [
+        "IND-MEA-38287",
+        "IND-CN-2024-DOVAL-ZH"
+      ],
+      "inference": "Senior continuation of tracked process",
+      "not_established": "Private formulations identical; unique causal intervention",
+      "solomon_claim_ids": [
+        "S-P05",
+        "S-P24"
+      ]
+    },
+    {
+      "id": "IND-M15",
+      "event_date": "2024-10-21/2024-10-22",
+      "actors": "Diplomatic and military negotiators / public briefers",
+      "observed_or_attributed_move": "Announce arrangement; withhold operational particulars",
+      "source_ids": [
+        "IND-MEA-38441",
+        "IND-MEA-38449",
+        "IND-CN-2024-OCT22"
+      ],
+      "inference": "Reticence bilateral; earlier bargains preserved",
+      "not_established": "Full protocol public or all prior restrictions removed",
+      "solomon_claim_ids": [
+        "S-P05",
+        "S-P12"
+      ]
+    },
+    {
+      "id": "IND-M16",
+      "event_date": "2024-10-22",
+      "actors": "Original IndianExpress reporting",
+      "observed_or_attributed_move": "Anonymous-source coordination details",
+      "source_ids": [
+        "IND-IE-20241022"
+      ],
+      "inference": "Restored access may operate through encounter-prevention rules",
+      "not_established": "Authenticated map or terms for other sectors",
+      "solomon_claim_ids": [
+        "S-P25"
+      ]
+    },
+    {
+      "id": "IND-M17",
+      "event_date": "2024-10-23",
+      "actors": "Modi / Xi",
+      "observed_or_attributed_move": "Welcome prior agreement and commission next work",
+      "source_ids": [
+        "IND-MEA-38457",
+        "IND-MEA-38459",
+        "IND-CN-2024-KAZAN"
+      ],
+      "inference": "Public endorsement after announcement",
+      "not_established": "Summit itself causes prior deal; Russian mediation",
+      "solomon_claim_ids": [
+        "S-P24",
+        "S-P23"
+      ]
+    },
+    {
+      "id": "IND-M18",
+      "event_date": "2024-12-03",
+      "actors": "Jaishankar / Lok Sabha",
+      "observed_or_attributed_move": "Official report on verification and regular patrols; future military adjustment",
+      "source_ids": [
+        "IND-MEA-38665"
+      ],
+      "inference": "Implementation account with outcome categories separated",
+      "not_established": "Independent full-LAC verification",
+      "solomon_claim_ids": [
+        "S-P12",
+        "S-P25"
+      ]
+    },
+    {
+      "id": "IND-M19",
+      "event_date": "2025-08-19",
+      "actors": "Special Representatives",
+      "observed_or_attributed_move": "New expert/working/general-level mechanisms and de-escalation discussion mandate",
+      "source_ids": [
+        "IND-MEA-40016",
+        "IND-CN-2025-SR24"
+      ],
+      "inference": "Institutional adaptation and continued bargaining",
+      "not_established": "Completed de-escalation or treaty amendment",
+      "solomon_claim_ids": [
+        "S-P24",
+        "S-P25"
+      ]
+    },
+    {
+      "id": "IND-M20",
+      "event_date": "2025-09-13",
+      "actors": "IndianExpress unnamed sources",
+      "observed_or_attributed_move": "Report technical surveillance and continued coordination",
+      "source_ids": [
+        "IND-IE-20250913"
+      ],
+      "inference": "Process reporting extends beyond ceremonial outcomes",
+      "not_established": "New2026 force census or independently counted troops",
+      "solomon_claim_ids": [
+        "S-P25"
+      ]
+    },
+    {
+      "id": "IND-M21",
+      "event_date": "2025-10-25",
+      "actors": "Corps commanders",
+      "observed_or_attributed_move": "Discuss ground issues under continuing mechanism",
+      "source_ids": [
+        "IND-MEA-40239"
+      ],
+      "inference": "Military implementation arena remains active",
+      "not_established": "Every claimed friction resolved",
+      "solomon_claim_ids": [
+        "S-P25"
+      ]
+    },
+    {
+      "id": "IND-M22",
+      "event_date": "2026-05-27",
+      "actors": "WMCC",
+      "observed_or_attributed_move": "Discuss delimitation and management; prepare next SR talks",
+      "source_ids": [
+        "IND-MEA-41241",
+        "IND-CN-2026-WMCC35"
+      ],
+      "inference": "Newly commissioned functions observable",
+      "not_established": "Final boundary settlement or general force drawdown",
+      "solomon_claim_ids": [
+        "S-P24",
+        "S-P25"
+      ]
+    }
+  ]
+}

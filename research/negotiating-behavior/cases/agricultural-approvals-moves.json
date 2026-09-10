@@ -1,0 +1,660 @@
+{
+  "title": "Agricultural biotechnology approval and bargaining move ledger",
+  "research_date": "2026-09-10",
+  "source_register": "../sources/agricultural-approvals-register.json",
+  "memo": "agricultural-approvals-implementation.md",
+  "unit_policy": "A move may be an administrative act, publication, negotiated undertaking, company response or attributed allegation. Event type and evidentiary status prevent counting every row as a Chinese concession.",
+  "date_policy": "Validity-period starts, signing, publication and launch announcements are distinct. Reported application months/years retain their limited precision. No invented exact day.",
+  "selection_policy": "Purposive pre/post comparison of two old applications and one renewal; not a matched sample, no complete post-2020 cohort, no standalone estimate of causal delay.",
+  "moves": [
+    {
+      "id": "AGM01",
+      "date": "2012-05-03",
+      "date_precision": "day",
+      "actor": "Canadian Food Inspection Agency",
+      "event": "Authorizes unconfined environmental release and livestock-feed use of canola event 73496.",
+      "product_event": "DP73496",
+      "permission_use": "Canadian cultivation/environment and feed; not Chinese import permission",
+      "evidentiary_status": "official decision",
+      "sources": [
+        {
+          "source_id": "AG20",
+          "locator": "Decision conclusion"
+        }
+      ],
+      "interpretive_limit": "Same-event regulatory comparison; does not establish when China accepted a dossier.",
+      "missing_records": [
+        "Separate food permission not established from this source"
+      ]
+    },
+    {
+      "id": "AGM02",
+      "date": "2012-05-15",
+      "date_precision": "day",
+      "actor": "Pioneer Overseas Corporation / Netherlands competent authority",
+      "event": "EU food/feed and related-use application filed, as recounted in final 2022 EU decision.",
+      "product_event": "DP73496",
+      "permission_use": "EU food/feed and other uses excluding cultivation",
+      "evidentiary_status": "date stated in later official decision",
+      "sources": [
+        {
+          "source_id": "AG16",
+          "locator": "Recital 1"
+        }
+      ],
+      "interpretive_limit": "Not a Chinese application and not an EU approval date.",
+      "missing_records": [
+        "Full intervening application correspondence"
+      ]
+    },
+    {
+      "id": "AGM03",
+      "date": "2012-07",
+      "date_precision": "month",
+      "actor": "Pioneer, later part of Corteva",
+      "event": "Chinese application reportedly first submitted.",
+      "product_event": "DP73496",
+      "permission_use": "Chinese processing-import safety authorization",
+      "evidentiary_status": "contemporary 2019 reporting of earlier submission; repeated in 2023",
+      "sources": [
+        {
+          "source_id": "AG13",
+          "locator": "Pending applications factbox"
+        },
+        {
+          "source_id": "AG17",
+          "locator": "Canola submission paragraph"
+        }
+      ],
+      "interpretive_limit": "Exact day, completeness and formal acceptance not recovered; reports may share corporate source.",
+      "missing_records": [
+        "Original submission",
+        "Chinese receipt/acceptance notice"
+      ]
+    },
+    {
+      "id": "AGM04",
+      "date": "2013",
+      "date_precision": "year",
+      "actor": "Dow AgroSciences / Enlist developers",
+      "event": "Chinese Enlist E3 application reportedly submitted.",
+      "product_event": "DAS-44406-6",
+      "permission_use": "Chinese processing-import safety authorization",
+      "evidentiary_status": "2018 reporting of earlier submission",
+      "sources": [
+        {
+          "source_id": "AG12",
+          "locator": "Enlist chronology"
+        }
+      ],
+      "interpretive_limit": "No exact date or application receipt; reported hoped-for 2015 commercial launch is a corporate plan, not foregone realized output.",
+      "missing_records": [
+        "Original submission",
+        "Receipt and completeness notice"
+      ]
+    },
+    {
+      "id": "AGM05",
+      "date": "2016-06-07",
+      "date_precision": "day",
+      "actor": "US and Chinese governments, Strategic and Economic Dialogue",
+      "event": "Agree on timely continuing science-based review and decisions following NBC evaluation, regulatory revision and further asynchronous-approval work.",
+      "product_event": "Sector-wide",
+      "permission_use": "Agricultural biotech review",
+      "evidentiary_status": "joint published diplomatic outcome",
+      "sources": [
+        {
+          "source_id": "AG08",
+          "locator": "Agricultural biotechnology passage"
+        }
+      ],
+      "interpretive_limit": "Establishes pre-2017 procedural bargaining, not implementation or inclusion of a named event.",
+      "missing_records": [
+        "Implementation exchanges",
+        "Named-event instructions"
+      ]
+    },
+    {
+      "id": "AGM25",
+      "date": "2017-05-02",
+      "date_precision": "day; quoted times where available, timezone unspecified",
+      "actor": "Hunt Shipman and Rebeckah Adcock",
+      "event": "Shipman requests help arranging Hassinger meetings on May 10; Adcock directs him to the scheduler. May 8 follow-up prompts an offer to nudge again.",
+      "product_event": "Dow AgroSciences / Enlist products, event identity unspecified",
+      "permission_use": "Chinese import approval / US commercialization, as characterized by email authors",
+      "evidentiary_status": "Acquired public FOIA-released correspondence; authorial assertions distinguished from independently established outcomes",
+      "sources": [
+        {
+          "source_id": "AG25",
+          "locator": "Part 4 physical PDF pages 197–199; identical printed six-digit stamps"
+        },
+        {
+          "source_id": "AG26",
+          "locator": "Release scope pp. 1–3"
+        }
+      ],
+      "interpretive_limit": "Meeting scheduled/requested for May 10, not independently confirmed to have occurred that day.",
+      "missing_records": [
+        "Actual appointment/calendar and briefing"
+      ]
+    },
+    {
+      "id": "AGM26",
+      "date": "2017-05-09",
+      "date_precision": "day; quoted times where available, timezone unspecified",
+      "actor": "Rebeckah Adcock and Hunt Shipman",
+      "event": "Adcock requests background at 13:26 and talking points at 16:05; Shipman supplies corn/soybean summaries and China backgrounder at 16:18; Adcock acknowledges at 16:34.",
+      "product_event": "Enlist corn and unnamed Enlist soybean",
+      "permission_use": "Chinese import approval / US commercialization, as characterized by email authors",
+      "evidentiary_status": "Acquired public FOIA-released correspondence; authorial assertions distinguished from independently established outcomes",
+      "sources": [
+        {
+          "source_id": "AG25",
+          "locator": "Part 4 physical PDF pages 506–509; identical printed six-digit stamps"
+        },
+        {
+          "source_id": "AG26",
+          "locator": "Release scope pp. 1–3"
+        }
+      ],
+      "interpretive_limit": "Times as displayed; no timezone inferred. Attachment titles survive, contents absent. Cannot identify soybean event as E3.",
+      "missing_records": [
+        "Named attachments",
+        "Actual briefing delivered"
+      ]
+    },
+    {
+      "id": "AGM06",
+      "date": "2017-05-11",
+      "date_precision": "day, US publication; Chinese counterpart 2017-05-12",
+      "actor": "US and Chinese governments, 100-day economic plan",
+      "event": "Schedule eight pending applications for NBC evaluation by end-May; specify relevant written information requests, meeting follow-up and certificates within 20 working days after safety passed.",
+      "product_event": "Eight unnamed applications",
+      "permission_use": "Agricultural biotech import review",
+      "evidentiary_status": "joint published commitment",
+      "sources": [
+        {
+          "source_id": "AG06",
+          "locator": "Item 3"
+        },
+        {
+          "source_id": "AG07",
+          "locator": "Item 3"
+        }
+      ],
+      "interpretive_limit": "Not guarantee of eight approvals; selected events not automatically assigned to unnamed eight. Two publications are one instrument.",
+      "missing_records": [
+        "Identity of eight applications",
+        "NBC recommendations and certificate-service dates"
+      ]
+    },
+    {
+      "id": "AGM27",
+      "date": "2017-05-16",
+      "date_precision": "day; quoted times where available, timezone unspecified",
+      "actor": "Joe Bischoff and Rebeckah Adcock",
+      "event": "Bischoff sends two proposed hearing questions at 14:00 and says they were shared with committee and Davis office; Adcock questions framing at 14:27 following China announcement; Bischoff says Dow still wanted it sent and he had softened it.",
+      "product_event": "Sector-wide biotech approvals",
+      "permission_use": "Chinese import approval / US commercialization, as characterized by email authors",
+      "evidentiary_status": "Acquired public FOIA-released correspondence; authorial assertions distinguished from independently established outcomes",
+      "sources": [
+        {
+          "source_id": "AG25",
+          "locator": "Part 4 physical PDF pages 603–605; identical printed six-digit stamps"
+        },
+        {
+          "source_id": "AG26",
+          "locator": "Release scope pp. 1–3"
+        }
+      ],
+      "interpretive_limit": "Preparation and disagreement are directly observed. Related but substantially rewritten delivered question and response independently checked in AGM29; authorship of revisions unestablished.",
+      "missing_records": [
+        "Actual delivery receipt and congressional drafting history"
+      ]
+    },
+    {
+      "id": "AGM29",
+      "date": "2017-05-17",
+      "date_precision": "day, hearing date; publication separately dated 2017",
+      "actor": "Representative Rodney Davis and Agriculture Secretary Sonny Perdue",
+      "event": "Davis asks about US-approved technology encountering foreign barriers and about holding China accountable under the 100-day plan. Perdue pairs biotech with beef and discusses persuading other markets after Chinese clearance.",
+      "product_event": "Sector-wide, no event named",
+      "permission_use": "Agricultural biotechnology imports and US commercial access",
+      "evidentiary_status": "Published congressional transcript compared with independently acquired prior-day proposal",
+      "sources": [
+        {
+          "source_id": "AG29",
+          "locator": "Physical PDF pp. 64–65; printed pp. 60–61"
+        },
+        {
+          "source_id": "AG25",
+          "locator": "Part 4 pp. 603–605"
+        }
+      ],
+      "interpretive_limit": "Same central premise and some language, with substantial rewriting and explicit new-plan acknowledgment. No verbatim adoption or proven author of changes; no additional deadline/enforcement procedure in this exchange.",
+      "missing_records": [
+        "Congressional drafting and revision history",
+        "Full video cross-check"
+      ]
+    },
+    {
+      "id": "AGM28",
+      "date": "2017-06-14",
+      "date_precision": "day; quoted times where available, timezone unspecified",
+      "actor": "Tim Hassinger and Rebeckah Adcock",
+      "event": "Hassinger at 18:44 recounts a May meeting with Perdue, credits the 100-day agreement for Enlist corn approval and promises more work on remaining traits. At 21:05 Adcock says she has passed news to secretary.",
+      "product_event": "Enlist corn; remaining traits unnamed",
+      "permission_use": "Chinese import approval / US commercialization, as characterized by email authors",
+      "evidentiary_status": "Acquired public FOIA-released correspondence; authorial assertions distinguished from independently established outcomes",
+      "sources": [
+        {
+          "source_id": "AG25",
+          "locator": "Part 4 physical PDF pages 205–206; identical printed six-digit stamps"
+        },
+        {
+          "source_id": "AG26",
+          "locator": "Release scope pp. 1–3"
+        }
+      ],
+      "interpretive_limit": "CEO’s causal attribution, not an internal Chinese instruction; original message recipient list absent from quoted envelope. Not Enlist E3 approval.",
+      "missing_records": [
+        "Original Chinese corn certificate",
+        "Named remaining events",
+        "Bilateral intervention record"
+      ]
+    },
+    {
+      "id": "AGM07",
+      "date": "2018-04-26",
+      "date_precision": "day",
+      "actor": "Joseph Damond / Biotechnology Innovation Organization",
+      "event": "Testifies that ten pending Chinese applications average five years and four months; advocates procedural reforms.",
+      "product_event": "Unnamed industry cases",
+      "permission_use": "Import review and broad commercialization",
+      "evidentiary_status": "interested industry testimony",
+      "sources": [
+        {
+          "source_id": "AG11",
+          "locator": "pp. 3–6"
+        }
+      ],
+      "interpretive_limit": "Age of pending stock is not duration of completed approvals; cannot reproduce cohort.",
+      "missing_records": [
+        "Event-level underlying dataset",
+        "Applicant correspondence"
+      ]
+    },
+    {
+      "id": "AGM08",
+      "date": "2018-05-23",
+      "date_precision": "day",
+      "actor": "US negotiators, as described by Reuters sources",
+      "event": "US pressure for further Chinese biotechnology approvals reported as part of trade-deal discussions.",
+      "product_event": "Sector-wide; Enlist E3 discussed as example",
+      "permission_use": "Import review",
+      "evidentiary_status": "contemporary reporting based on unnamed sources",
+      "sources": [
+        {
+          "source_id": "AG12",
+          "locator": "Opening trade-package paragraphs"
+        }
+      ],
+      "interpretive_limit": "Issue linkage is reported; specific negotiating demands and official Chinese confirmation were unavailable.",
+      "missing_records": [
+        "Negotiating proposal",
+        "Readout naming individual event and response"
+      ]
+    },
+    {
+      "id": "AGM09",
+      "date": "2018-12-20",
+      "date_precision": "day, certificate period begins",
+      "actor": "MARA",
+      "event": "Original Enlist E3 processing-import certificate effective; listed as 2018 No. 005.",
+      "product_event": "DAS-44406-6",
+      "permission_use": "Chinese processing import only",
+      "evidentiary_status": "official certificate-list validity date",
+      "sources": [
+        {
+          "source_id": "AG03",
+          "locator": "p. 1 row 5"
+        }
+      ],
+      "interpretive_limit": "Effective date is not necessarily signing, NBC recommendation or delivery date. Predates Phase One.",
+      "missing_records": [
+        "NBC recommendation",
+        "Ministerial signing date",
+        "Certificate service"
+      ]
+    },
+    {
+      "id": "AGM10",
+      "date": "2019-01-08",
+      "date_precision": "day",
+      "actor": "MARA publication; Reuters and DTN reporting; Corteva response",
+      "event": "Five new approvals publicly reported; Corteva says it awaits official certificates. DP73496 still appears in Reuters pending list.",
+      "product_event": "DAS-44406-6 and DP73496",
+      "permission_use": "Chinese processing import only",
+      "evidentiary_status": "official list plus contemporaneous participant reporting",
+      "sources": [
+        {
+          "source_id": "AG03",
+          "locator": "p. 1"
+        },
+        {
+          "source_id": "AG13",
+          "locator": "Pending applications"
+        },
+        {
+          "source_id": "AG14",
+          "locator": "Gregg Schmidt response"
+        }
+      ],
+      "interpretive_limit": "January talks coincide with publication; cannot assume they caused an authorization already effective in December. Pending does not mean denied.",
+      "missing_records": [
+        "Publication-to-service interval",
+        "Event-specific diplomatic instruction"
+      ]
+    },
+    {
+      "id": "AGM11",
+      "date": "2019-02-21",
+      "date_precision": "day, announcement",
+      "actor": "Corteva and MS Technologies",
+      "event": "Announce 2019 broad US Enlist E3 launch following Philippine import authorization.",
+      "product_event": "DAS-44406-6",
+      "permission_use": "US seed commercialization following multi-market authorizations",
+      "evidentiary_status": "company launch announcement",
+      "sources": [
+        {
+          "source_id": "AG15",
+          "locator": "Opening and regulatory notes"
+        }
+      ],
+      "interpretive_limit": "Establishes company’s announced launch gate; does not independently measure seed sales, planting or economic loss. China was not the last reported permission.",
+      "missing_records": [
+        "Actual sales and planted acreage",
+        "Philippine original decision and service record"
+      ]
+    },
+    {
+      "id": "AGM12",
+      "date": "2020-01-15",
+      "date_precision": "day, signing",
+      "actor": "United States and China",
+      "event": "Sign Phase One; Annex 16 sets average 24-month formal submission-to-final-decision obligation and detailed administrative obligations; Chapter 3 footnote excludes Article 8.5 application to implementing measures.",
+      "product_event": "Sector-wide",
+      "permission_use": "Feed/processing review plus specified other biotechnology provisions",
+      "evidentiary_status": "joint legal instrument",
+      "sources": [
+        {
+          "source_id": "AG01",
+          "locator": "p. 23 footnote; Annex 16 pp. 41–44"
+        },
+        {
+          "source_id": "AG02",
+          "locator": "p. 23 footnote; Annex 16 pp. 47–51"
+        }
+      ],
+      "interpretive_limit": "Average covers approving or disapproving decisions, not guaranteed approval of each event. Earlier obligations already detailed. No application cohort inferred.",
+      "missing_records": [
+        "Implementing practice and complete cohort"
+      ]
+    },
+    {
+      "id": "AGM13",
+      "date": "2021-06-17",
+      "date_precision": "day",
+      "actor": "European Food Safety Authority",
+      "event": "Favorable DP73496 assessment adopted, as recorded in final EU decision.",
+      "product_event": "DP73496",
+      "permission_use": "EU food/feed and specified non-cultivation uses",
+      "evidentiary_status": "official later decision recites assessment date",
+      "sources": [
+        {
+          "source_id": "AG16",
+          "locator": "Recital 3"
+        }
+      ],
+      "interpretive_limit": "Original scientific assessment not independently read; event timing only, not new safety conclusion.",
+      "missing_records": [
+        "All 2012–2021 European procedural history"
+      ]
+    },
+    {
+      "id": "AGM14",
+      "date": "2021-12-17",
+      "date_precision": "day, certificate period begins",
+      "actor": "MARA",
+      "event": "Five-year Enlist E3 renewal period begins, ending 2026-12-16; No. 319 explicitly marked renewal.",
+      "product_event": "DAS-44406-6",
+      "permission_use": "Chinese processing import only",
+      "evidentiary_status": "official certificate list",
+      "sources": [
+        {
+          "source_id": "AG04",
+          "locator": "p. 2 row 18"
+        }
+      ],
+      "interpretive_limit": "Bounded positive evidence consistent with five-year authorization provision. Neither first-time approval nor evidence about new-application speed.",
+      "missing_records": [
+        "Renewal submission",
+        "Signing/service date"
+      ]
+    },
+    {
+      "id": "AGM15",
+      "date": "2021-12-27",
+      "date_precision": "day inferred from dated official hosting path",
+      "actor": "MARA",
+      "event": "Publishes/hosts December 2021 import list containing Enlist E3 renewal.",
+      "product_event": "DAS-44406-6",
+      "permission_use": "Chinese processing import only",
+      "evidentiary_status": "dated official hosting path",
+      "sources": [
+        {
+          "source_id": "AG04",
+          "locator": "URL timestamp and p. 2 row 18"
+        }
+      ],
+      "interpretive_limit": "Publication after old expiry does not establish delayed delivery or disrupted trade; validity starts before old expiry.",
+      "missing_records": [
+        "Independent publication log",
+        "Actual certificate service and shipment documentation"
+      ]
+    },
+    {
+      "id": "AGM16",
+      "date": "2022-03-31",
+      "date_precision": "day, decision; OJ publication 2022-04-04",
+      "actor": "European Commission",
+      "event": "Authorizes DP73496 after 2012 application; decision records no opinion from Standing and Appeal Committees and excludes cultivation.",
+      "product_event": "DP73496",
+      "permission_use": "EU food/feed and other non-cultivation uses",
+      "evidentiary_status": "official legal decision",
+      "sources": [
+        {
+          "source_id": "AG16",
+          "locator": "Recitals 1 and 16; Articles 2–3"
+        }
+      ],
+      "interpretive_limit": "Long same-event EU process prevents attributing the entire development-to-launch interval exclusively to Chinese review. Final-decision gap is not a causal delay estimate.",
+      "missing_records": [
+        "Reasons for all intervening delay",
+        "Complete company readiness calendar"
+      ]
+    },
+    {
+      "id": "AGM17",
+      "date": "2023-01-05",
+      "date_precision": "day, certificate period begins",
+      "actor": "MARA",
+      "event": "Original DP73496 import-processing certificate takes effect through 2028-01-04, listed under 2022 No. 053.",
+      "product_event": "DP73496",
+      "permission_use": "Chinese processing import only",
+      "evidentiary_status": "official certificate list",
+      "sources": [
+        {
+          "source_id": "AG05",
+          "locator": "p. 1 row 6"
+        }
+      ],
+      "interpretive_limit": "Reported submission-to-validity interval roughly ten and a half years, but no individual dossier or net launch-delay estimate.",
+      "missing_records": [
+        "NBC recommendation",
+        "Data request/reply sequence",
+        "Decision and service dates"
+      ]
+    },
+    {
+      "id": "AGM18",
+      "date": "2023-01-13",
+      "date_precision": "day, public announcement/report",
+      "actor": "MARA publication; Corteva and US officials respond",
+      "event": "Publishes eight new import event approvals and two renewals; Reuters reports DP73496 and company work toward remaining approvals.",
+      "product_event": "DP73496 and other named batch events",
+      "permission_use": "Chinese processing import only",
+      "evidentiary_status": "official list and original reporting",
+      "sources": [
+        {
+          "source_id": "AG05",
+          "locator": "pp. 1–2"
+        },
+        {
+          "source_id": "AG17",
+          "locator": "Company response and Baize comment"
+        }
+      ],
+      "interpretive_limit": "Consultant’s goodwill-after-Bali explanation is an interpretation, not a recovered political instruction. Batch includes non-US developers.",
+      "missing_records": [
+        "Named-event bilateral exchange",
+        "Remaining approvals identified by company"
+      ]
+    },
+    {
+      "id": "AGM19",
+      "date": "2023-01-26",
+      "date_precision": "day; article updated 2023-01-27",
+      "actor": "Corteva’s Jeff Loessin, interviewed by Western Producer",
+      "event": "Says China was final needed global approval and describes stewardship/industry communication before launch.",
+      "product_event": "DP73496",
+      "permission_use": "Global commercialization planning after regulatory clearance",
+      "evidentiary_status": "original interview with interested participant",
+      "sources": [
+        {
+          "source_id": "AG18",
+          "locator": "Main interview"
+        }
+      ],
+      "interpretive_limit": "Separates final clearance from actual launch; updated article has no recovered changelog.",
+      "missing_records": [
+        "Internal launch decision and readiness records"
+      ]
+    },
+    {
+      "id": "AGM20",
+      "date": "2023-02-14",
+      "date_precision": "day, announcement",
+      "actor": "Corteva",
+      "event": "Announces Canadian and US 2023 commercial launch; Australia 2023 demonstrations and 2024 full launch.",
+      "product_event": "DP73496",
+      "permission_use": "Seed commercialization in specified countries",
+      "evidentiary_status": "company release",
+      "sources": [
+        {
+          "source_id": "AG19",
+          "locator": "Launch announcement and notes"
+        }
+      ],
+      "interpretive_limit": "Announced plans are not independent evidence of realized planting or revenues.",
+      "missing_records": [
+        "Actual market launch and planting data"
+      ]
+    },
+    {
+      "id": "AGM21",
+      "date": "2025-04-09",
+      "date_precision": "day",
+      "actor": "State Council Information Office / MOFCOM-hosted white paper",
+      "event": "Defends agricultural implementation through examples of restored food and crop access.",
+      "product_event": "Sector-wide",
+      "permission_use": "Food and agricultural market access",
+      "evidentiary_status": "Chinese official retrospective advocacy",
+      "sources": [
+        {
+          "source_id": "AG23",
+          "locator": "II(3)"
+        }
+      ],
+      "interpretive_limit": "Selected subsection offers no event-level adjudication of these biotech cases; not a response to later 2026 claims.",
+      "missing_records": [
+        "Biotech-specific Chinese implementation assessment"
+      ]
+    },
+    {
+      "id": "AGM22",
+      "date": "2025-12-16",
+      "date_precision": "day",
+      "actor": "Sam Crowell / ASTA; USTR questioners",
+      "event": "Claims 69-month average approval time and two products pending at least nine years; describes process uncertainty and multi-market launch gates.",
+      "product_event": "Unnamed industry cases",
+      "permission_use": "Foreign biotech import review",
+      "evidentiary_status": "official transcript of interested testimony",
+      "sources": [
+        {
+          "source_id": "AG21",
+          "locator": "pp. 8–13 and 25–28"
+        }
+      ],
+      "interpretive_limit": "No disclosed cohort; no independently established approval-linked theft in answers. Repetition of industry complaints is not independent proof of Chinese intent.",
+      "missing_records": [
+        "Underlying application dataset",
+        "Specific correspondence and alleged appropriation evidence"
+      ]
+    },
+    {
+      "id": "AGM23",
+      "date": "2026-03-31",
+      "date_precision": "day",
+      "actor": "USTR",
+      "event": "Reports continuing failure of average-time obligation, opaque procedures and nonpublication of 2025 NBC meeting outcomes; acknowledges some foreign approvals.",
+      "product_event": "Sector-wide",
+      "permission_use": "Agricultural biotech imports",
+      "evidentiary_status": "US official assessment",
+      "sources": [
+        {
+          "source_id": "AG22",
+          "locator": "Printed pp. 82–83 / PDF pp. 90–91"
+        }
+      ],
+      "interpretive_limit": "Publication gap limits reconstruction; not proof there were no approvals. Domestic cultivation counts not matched import-approval comparator.",
+      "missing_records": [
+        "2025 outcomes",
+        "Complete denominator and measurement method",
+        "Chinese event-level response"
+      ]
+    },
+    {
+      "id": "AGM24",
+      "date": "2026-05-18",
+      "date_precision": "day, USTR publication",
+      "actor": "USTR / Ambassador Greer",
+      "event": "Publishes summit account saying China agreed to scientific review of biotechnology traits.",
+      "product_event": "Traits unnamed",
+      "permission_use": "Agricultural biotechnology review",
+      "evidentiary_status": "official published interview excerpt",
+      "sources": [
+        {
+          "source_id": "AG24",
+          "locator": "Agriculture section"
+        }
+      ],
+      "interpretive_limit": "Evidence that approval remains senior bargaining subject; no named certificate, deadline or fulfilled commitment. Underlying full broadcast not watched.",
+      "missing_records": [
+        "Joint text",
+        "Named event list",
+        "Subsequent decisions"
+      ]
+    }
+  ]
+}

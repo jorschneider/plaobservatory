@@ -1,8 +1,8 @@
 # Full-text reading ledger
 
-**8 September 2026.** The program has completed **nine scholarly readings of the versions specified below**, with additional bounded readings and selected primary-source checks. These are nine works, not nine independent evidentiary samples. The 2023 Gao chapter is counted once as a version of the previously screened 2022 article. Shared authorship, reused interviews and repeated documentary sources are recorded in the memos.
+**10 September 2026.** The program has completed **twelve scholarly readings of the versions specified below**, with additional bounded readings and selected primary-source checks. These are twelve works, not twelve independent evidentiary samples. Policy reports and industry chapters are listed separately. The 2023 Gao chapter is counted once as a version of the previously screened 2022 article. Shared authorship, reused interviews and repeated documentary sources are recorded in the memos.
 
-Read the [first substantive assessment](../first-full-text-synthesis.md) and the subsequent [2018–2026 trade-case synthesis](../../cases/us-trade-2018-2026-synthesis.md). This ledger documents their reading base and limits; it is not a claim that the entire literature or the history through 2026 has been covered.
+Start with the [latest implementation and major-power reassessment](../../cases/implementation-and-major-power-reassessment.md), following the [first substantive assessment](../first-full-text-synthesis.md) and [2018–2026 trade-case synthesis](../../cases/us-trade-2018-2026-synthesis.md). This ledger documents their reading base and limits; it is not a claim that the entire literature or the history through 2026 has been covered.
 
 ## Completed scholarly readings
 
@@ -17,11 +17,23 @@ Read the [first substantive assessment](../first-full-text-synthesis.md) and the
 | Mokry, “What is Lost in Translation?” (2022) | Complete publisher HTML, notes, references, tables and all eight figures | Paired-language method; underlying corpus/coding not replicated. Use section/table locators. |
 | Wei and Summers, “The Chinese Government’s Negotiating Strategy Over the Future of Hong Kong…” (online 2025; issue 2026) | Complete publisher article including 138 notes; *International History Review* 48(1):134–151 | Later historical scholarship on negotiations culminating in 1984; publication date is not the empirical period. |
 | Tian and Shang, “A co-regulatory approach to bilateral trade…” (2026) | Complete publisher HTML, all 147 notes and four figures; issue June, online July 8 | Legal/institutional proposals, not private bargaining reconstruction. Purchase baseline, law chronology, WTO outcomes and figure dates independently checked within stated limits. |
+| Liang, “外交谈判战略浅析” (2008) | All thirteen publisher-PDF pages, printed 108–120, visually read with notes, two tables and figure | General negotiation theory and small classroom exercise; direct engagement with Solomon, not a professional-diplomat sample. |
+| Tu and Shi, “重振WTO谈判功能的诸边协议路径探析” (2021) | Complete institutional PDF, printed 211–226, footnotes, 28 references and English abstract; selected visual checks | Institutional argument and recommendations; original WTO positions and US-report attribution checked separately. |
+| Cabestan, “China’s foreign and security policy institutions and decision-making under Xi Jinping” (2021) | Complete author-uploaded article HTML, printed 319–336, including references | Institutional description and inferred effects distinguished; selected source chains and official chronology independently checked. |
+
+## Completed policy and participant readings
+
+These are useful additional readings, not additions to the scholarly-article count above.
+
+- **Chadha (2024):** complete main report, printed 1–43 and 45–65, all 279 notes and timeline figure. Separate 2024 and 2026 annex inventories inspected; the full statement compilations were not read. Individual originals supply the [India reconstruction](../../cases/india-border-2020-2024.md). No Chinese official interviews in the report.
+- **Lardy and Huang (2020), “China’s Financial Opening Accelerates”:** complete twelve-page PIIE brief, all 22 notes, references and five figures. Economic and policy synthesis, not the firm's private approval record. See the [finance case](../../cases/financial-access-implementation.md).
+- **Mark Austen (2022), “Continued Acceleration of the Reform of China’s Capital Markets Still Needed”:** complete substantive chapter and further-reading section in publisher HTML. Industry participant advocacy remains distinguished from an independent causal study despite its academic publisher. See the [finance register, FIN-32](../../sources/financial-access-register.json).
 
 ## Bounded and related readings
 
 - **Zhang Qingmin (2008):** complete chapter body at printed 153–171, but the university teaching packet cuts off during note 5. Pages 172–175 are missing. It is **not a complete chapter reading** under our notes-inclusive standard.
-- **Chadha (2024):** printed 1–7 and 13–20, plus the relevant notes. The rest of the report and meeting annexure remain unread. Its Chinese internal-process evidence is limited by the absence of Chinese official interviews.
+- **Chadha (2026), “Threading the Needle”:** selected border and negotiation-hierarchy sections and specified notes; not the entire July 2026 follow-up. Its underlying interviews and military observations have their own earlier dates.
+- **Lombardi and Malkin (2017):** selected publisher-indexed sections; full article not retrieved. The domestic-reform mechanism is a hypothesis for the financial case, not independent evidence of JPMorgan-specific decisions.
 - **Faure–Zartman (2025):** the lawful preview includes the full introduction at 1–7 and only part of the following chapter. It does not provide the requested Celico chapter or the complete volume.
 - **Taylor–Garlick (2025):** the scholarly article could not be retrieved. The authors’ separate April 2025 *Australian Outlook* brief was read completely and treated as an authored summary, not an independent study.
 - **Chubb (2026), “Authoritarian Public Opinion, Vividness, and International Crisis Signaling”:** abstract and metadata only; preserved as a forward-citation lead, not a completed reading or a finding about 2026 negotiations.
@@ -35,13 +47,15 @@ Read the [first substantive assessment](../first-full-text-synthesis.md) and the
 | Institutions, domestic audiences and translation | [Institutions and audiences](institutions-and-audiences.md) | [JSON audit](institutions-and-audiences-evidence.json) |
 | Security bargaining and measurement of change | [Security and change](security-change.md) | [JSON audit](security-change-evidence.json) |
 | Phase One enforceability and participation | [Critical 2026 reading](phase-one-enforceability.md) | [JSON audit](phase-one-enforceability-evidence.json) |
+| Chinese negotiation theory and institutional choice | [Liang; Tu and Shi; paired official positions](chinese-negotiation-and-institutions.md) | [JSON audit](chinese-negotiation-and-institutions-evidence.json) |
+| Xi-era authority and institutional coordination | [Cabestan critical reading](cabestan-institutions.md) | [JSON audit](cabestan-institutions-evidence.json) |
 
 The primary-source follow-up includes Jiang’s complete **published** February 2002 speech, a complete 2003 WTO negotiating communication, the complete publicly released 2014 and 2025 WTO-compliance texts, selected 2018 institutional-reform clauses, the 2023 Foreign Relations Law, paired January 2010 MFA statements, and China’s intervention in a July 1974 UN Law of the Sea meeting. The 2025 text is expressly abridged; the published Jiang speech is not an unedited transcript. Exact scopes and additional checks are in the registers. A selected passage check is never upgraded to a complete archive or white-paper reading.
 
 ## What remains to establish
 
-The first pass gives a defensible interpretation of available scholarship and several direct documentary findings. The later US trade case now has its own reconstruction and source registers. Major gaps remain in its private draft and approval record, matching Russian and additional Indian cases, and the effectiveness of newer procedures. A 2026 publication can examine 1984 or 2012; an observation window must be recorded independently of the date on the cover.
+The first pass gives a defensible interpretation of available scholarship and several direct documentary findings. The later US trade case now has its own reconstruction and source registers. Major gaps remain in its private draft and approval record, a Russian comparison, additional matched counterpart cases, and the effectiveness of newer procedures. A 2026 publication can examine 1984 or 2012; an observation window must be recorded independently of the date on the cover.
 
-The next trade step is a matched study of successful and delayed implementation, building on the reconstructed later rounds. The new Hong Kong study supplies archive leads for a separate major-power baseline check. Missing commercial texts remain useful acquisition leads, but the project proceeds with the online evidence available.
+The latest pass supplies selected successful and delayed implementation sequences and an India comparator. It is not a statistically matched causal study. The next step is to recover the application, authorization and verification records identified in those cases. The new Hong Kong study supplies archive leads for a separate major-power baseline check. Missing commercial texts remain useful acquisition leads, but the project proceeds with the online evidence available.
 
 Full source PDFs, OCR, HTML and rendered source pages remain outside Git. The repository contains original analysis, bibliographic metadata, source locators and the audit of what was read. There has been no new outreach, interview or private archive access.

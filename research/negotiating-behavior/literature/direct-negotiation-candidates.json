@@ -357,17 +357,17 @@
       "https://ccj.pku.edu.cn/Article/DownLoad?id=297793048&type=ArticleFile",
       "https://www.jis.pku.edu.cn/publish418/2008/index.htm"
     ],
-    "read_status": "abstract_metadata_and_partial_pdf_extraction",
-    "read_scope": "Publisher abstract, journal archive, and PDF extraction showing 13 pages, printed folios 108–120 and a Solomon reference at printed p.118. Chinese PDF extraction is incomplete; substantive body not read reliably.",
+    "read_status": "complete_specified_version_read",
+    "read_scope": "All thirteen publisher-PDF pages 108–120 visually read, including footnotes, Tables 1–2 and Figure 1; unreliable extraction not used as substitute.",
     "access": {
       "status": "publisher_open_pdf",
       "lawful_open_full_text_url": "https://ccj.pku.edu.cn/Article/DownLoad?id=297793048&type=ArticleFile",
       "preview_url": "https://ccj.pku.edu.cn/article/info?aid=297793048",
       "user_full_text_needed": false,
       "request_scope": null,
-      "caveat": "Full publisher PDF is available. Visual verification remains necessary because Chinese text extraction is defective and the catalogue pagination conflicts with the PDF. No DOI verified."
+      "caveat": "All pages now visually read. Catalogue pagination discrepancy retained; citations use printed108–120. No DOI verified."
     },
-    "evidence_method_verified": "Abstract advances an argument about competitive versus cooperative strategy and relations as an interest. Extracted notes cite historical diplomatic episodes and Solomon pp.31–32; no systematic empirical test verified.",
+    "evidence_method_verified": "General negotiation-theory argument, historical illustrations using published sources, and a small classroom coalition exercise. No diplomat sample or private negotiating instructions.",
     "book_claims": [
       "S-P05",
       "S-P13",
@@ -380,7 +380,23 @@
     ],
     "purpose_and_caveat": "A Chinese-language theoretical counterpoint to reducing relationship management to manipulation. It addresses diplomacy generally and cannot itself establish Chinese national distinctiveness or change over time.",
     "recommended_reading": "Read the complete short article visually, especially its treatment of relations and Solomon, before attributing an agreement or critique to the author.",
-    "verified_on": "2026-09-05"
+    "verified_on": "2026-09-05",
+    "screening_snapshot_2026_09_05": {
+      "read_status": "abstract_metadata_and_partial_pdf_extraction",
+      "read_scope": "Publisher abstract, journal archive, and PDF extraction showing 13 pages, printed folios 108–120 and a Solomon reference at printed p.118. Chinese PDF extraction is incomplete; substantive body not read reliably.",
+      "evidence_method_verified": "Abstract advances an argument about competitive versus cooperative strategy and relations as an interest. Extracted notes cite historical diplomatic episodes and Solomon pp.31–32; no systematic empirical test verified.",
+      "access": {
+        "status": "publisher_open_pdf",
+        "lawful_open_full_text_url": "https://ccj.pku.edu.cn/Article/DownLoad?id=297793048&type=ArticleFile",
+        "preview_url": "https://ccj.pku.edu.cn/article/info?aid=297793048",
+        "user_full_text_needed": false,
+        "request_scope": null,
+        "caveat": "Full publisher PDF is available. Visual verification remains necessary because Chinese text extraction is defective and the catalogue pagination conflicts with the PDF. No DOI verified."
+      }
+    },
+    "read_on": "2026-09-10",
+    "reading_memo": "readings/chinese-negotiation-and-institutions.md",
+    "reading_evidence": "readings/chinese-negotiation-and-institutions-evidence.json"
   },
   {
     "id": "LIT-DIRECT-KUMAR-WORM-2004",

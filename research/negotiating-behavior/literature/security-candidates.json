@@ -350,8 +350,8 @@
       "https://assets.carnegieendowment.org/static/files/Negotiating%20the%20India-China%20Standoff%202020_2024.pdf"
     ],
     "metadata_note": "Title, author, institution and December 2024 date verified in original institutional PDF. Not represented as a peer-reviewed journal article; no DOI located. Corrected 8 September: substantive text printed pp.1–42, author p.43, notes pp.45–65, institution p.67. Total74 PDF pages.",
-    "read_status": "bounded_full_text_read",
-    "read_scope": "Printed pp.1–7 and 13–20, with notes1–34 and64–139; remaining report and meeting annexure not read. Physical PDF74pages; substantive text pp.1–42, notes45–65.",
+    "read_status": "complete_main_report_and_notes_read_annex_partly_read",
+    "read_scope": "Printed1–43 and45–65,all279notes andtimelinefigure; separate2024annex64nonemptyrows inventoried,but fullstatementcompilation notread. Selected originalrecords independently acquired. 2026follow-on selectedsections only.",
     "access": {
       "status": "institutional_open_full_text",
       "lawful_open_full_text_url": "https://assets.carnegieendowment.org/static/files/Negotiating%20the%20India-China%20Standoff%202020_2024.pdf",
@@ -360,7 +360,7 @@
       "request_scope": null,
       "caveat": "Open institutional PDF; complete reading pending."
     },
-    "evidence_method_verified": "Both sides' official statements, reporting and interviews with serving/retired Indian military, diplomatic and security officials. Author explicitly lacks Chinese-official interviews. Distinguishes strategic, diplomatic and military channels, including Indian pre-meeting mandate preparation.",
+    "evidence_method_verified": "Original interviews and documentary chronology; no Chinese official interviews. Repeated anonymized stakeholders tracked as shared source chains; original official records correct two one-day date errors.",
     "research_questions": [
       "How did multiple negotiation channels divide authority and implementation during 2020–2024?",
       "How did linkage between border arrangements and the wider relationship affect the bargaining sequence?"
@@ -386,6 +386,14 @@
       "memo": "readings/security-change.md",
       "evidence_register": "readings/security-change-evidence.json",
       "full_read_of_named_version": false
-    }
+    },
+    "reading_snapshot_2026_09_08": {
+      "read_status": "bounded_full_text_read",
+      "read_scope": "Printed pp.1–7 and 13–20, with notes1–34 and64–139; remaining report and meeting annexure not read. Physical PDF74pages; substantive text pp.1–42, notes45–65.",
+      "evidence_method_verified": "Both sides' official statements, reporting and interviews with serving/retired Indian military, diplomatic and security officials. Author explicitly lacks Chinese-official interviews. Distinguishes strategic, diplomatic and military channels, including Indian pre-meeting mandate preparation."
+    },
+    "read_on": "2026-09-10",
+    "reading_memo": "../cases/india-border-2020-2024.md",
+    "reading_evidence": "../sources/india-border-register.json"
   }
 ]

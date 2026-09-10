@@ -1,0 +1,651 @@
+{
+  "case": "JPMorgan Securities (China) financial-access implementation",
+  "research_date": "2026-09-10",
+  "case_period": "2017–2022; narrow January2023 fund-company contrast",
+  "scope_note": "Company/regulator records prove stages; reporting probes process; policy analysis and selected scholarship supply rival explanations. A downloaded document is not automatically fully read.",
+  "source_count": 33,
+  "sources": [
+    {
+      "id": "FIN-01",
+      "title": "互利共赢 影响深远——财政部副部长朱光耀详解中美经济领域合作成果",
+      "creator": "新华社",
+      "document_date": "2017-11-10",
+      "url": "https://www.xinhuanet.com/world/2017-11/10/c_1121938058.htm",
+      "source_type": "official-media report of public official briefing",
+      "language": "zh",
+      "read_date": "2026-09-10",
+      "read_scope": "Complete substantive article, all subheadings and closing paragraphs; site navigation excluded.",
+      "provenance_and_independence": "Xinhua reporting Zhu Guangyao; primary evidence of the public briefing, not a transcript or bilateral agreed instrument.",
+      "limitations": "Government messaging does not establish private motives or the weight of US pressure.",
+      "evidentiary_use": "51% then no ceiling; summit context; application to other countries; Chinese reciprocal requests.",
+      "preserved_copy": {
+        "path": "/Users/jorsc/.codex/.chatgpt-projects/g-p-6a94dd290a988191911d85ae8fe94a6c/tmp/pdfs/research-2026-09-10/finance/2017-opening-xinhua.html",
+        "sha256": "bd1f437a89bfc2e15468b1cc023fbe20de044ca1bdcdfccde824fedf07363df4",
+        "bytes": 22243,
+        "retrieved": "2026-09-10"
+      }
+    },
+    {
+      "id": "FIN-02",
+      "title": "China lifts foreign ownership limits on financial firms",
+      "creator": "Reuters; syndicated by Arab News",
+      "document_date": "2017-11-10",
+      "url": "https://www.arabnews.com/node/1191146/world",
+      "source_type": "contemporary wire reporting",
+      "language": "en",
+      "read_date": "2026-09-10",
+      "read_scope": "Complete syndicated story, paragraphs beginning BEIJING through three/five-year schedule; caption read, photograph not inspected.",
+      "provenance_and_independence": "Reuters credited by publisher; report draws on Zhu briefing and Trump public remarks, rather than independent private instructions.",
+      "limitations": "Syndicated short version; no claim to have recovered a longer Reuters version.",
+      "evidentiary_use": "Contemporary international-pressure context and announced reform.",
+      "download_status": "No local source copy preserved in this finance directory; read through web tool."
+    },
+    {
+      "id": "FIN-03",
+      "title": "证监会正式发布《外商投资证券公司管理办法》",
+      "creator": "中国证监会",
+      "document_date": "2018-04-28",
+      "url": "https://www.csrc.gov.cn/csrc/c100028/c1001309/content.shtml",
+      "source_type": "original regulator policy announcement",
+      "language": "zh",
+      "read_date": "2026-09-10",
+      "read_scope": "Complete substantive announcement, five changes and consultation account.",
+      "provenance_and_independence": "Original CSRC website; policy description by issuing regulator.",
+      "limitations": "Consultation tally does not reveal full submissions or who influenced final wording. The full original 2018 rule version was not separately acquired.",
+      "evidentiary_use": "Majority control and expanded business scope; stated 2017 policy antecedents; consultation participants/comments.",
+      "preserved_copy": {
+        "path": "/Users/jorsc/.codex/.chatgpt-projects/g-p-6a94dd290a988191911d85ae8fe94a6c/tmp/pdfs/research-2026-09-10/finance/csrc-rule2018-announcement.html",
+        "sha256": "51e9b571de06633f330e446191533b53740987f8e6df1fd7b862dc6dd74ffc4d",
+        "bytes": 17050,
+        "retrieved": "2026-09-10"
+      }
+    },
+    {
+      "id": "FIN-04",
+      "title": "China receives JPMorgan application to set up JV brokerage",
+      "creator": "Reuters; syndicated by Business Recorder",
+      "document_date": "2018-05-10",
+      "url": "https://www.brecorder.com/news/417205/china-receives-jpmorgan-application-to-set-up-jv-brokerage",
+      "source_type": "contemporary wire reporting",
+      "language": "en",
+      "read_date": "2026-09-10",
+      "read_scope": "Complete short syndicated text available in web result.",
+      "provenance_and_independence": "Reuters attributed report of CSRC application receipt.",
+      "limitations": "Original application unavailable; receipt is not acceptance or a complete-file date. Group applicant name differs from final shareholder entity; no inference about the reason.",
+      "evidentiary_use": "Received application for 51% securities venture.",
+      "download_status": "No local source copy preserved in this finance directory; read through web tool."
+    },
+    {
+      "id": "FIN-05",
+      "title": "JPMorgan submits application for majority-owned China securities business",
+      "creator": "Sumeet Chatterjee, Reuters; syndicated by Investing.com",
+      "document_date": "2018-05-14",
+      "url": "https://www.investing.com/news/stock-market-news/jpmorgan-submits-application-for-majorityowned-china-securities-business-1444971",
+      "source_type": "contemporary wire reporting",
+      "language": "en",
+      "read_date": "2026-09-10",
+      "read_scope": "Complete substantive Reuters story read in web view, including stated application and future ownership objective.",
+      "provenance_and_independence": "Reuters coverage relies on company statement for application and intent; distinct from regulator receipt reporting but not independent proof of complete filing.",
+      "limitations": "Company intentions do not establish approved ownership or regulators' requested changes.",
+      "evidentiary_use": "51% application and publicly stated eventual 100% objective.",
+      "download_status": "HTTP Error 403: Forbidden; substantive text accessible through web tool unless read_scope says otherwise"
+    },
+    {
+      "id": "FIN-06",
+      "title": "摩根大通申请设立证券公司获受理",
+      "creator": "苏长春，北京商报; syndicated by TOM",
+      "document_date": "2018-10-16",
+      "url": "https://biz.tom.com/syzx/201810/1155092624.html",
+      "source_type": "original reporting available in syndication",
+      "language": "zh",
+      "read_date": "2026-09-10",
+      "read_scope": "Complete three-paragraph story, body lines47–50 of web extraction.",
+      "provenance_and_independence": "Named reporter says CSRC administrative-licensing docket published October12 shows same-day acceptance.",
+      "limitations": "Original docket not recovered; acceptance date medium confidence. No private explanations for elapsed May–October interval.",
+      "evidentiary_use": "Formal acceptance reportedly October12,2018; distinct from receipt.",
+      "download_status": "No local source copy preserved in this finance directory; read through web tool."
+    },
+    {
+      "id": "FIN-07",
+      "title": "关于核准设立摩根大通证券（中国）有限公司的批复",
+      "creator": "中国证监会",
+      "document_date": "2019-03-13",
+      "url": "https://www.csrc.gov.cn/csrc/c101841/c1022649/content.shtml",
+      "source_type": "original administrative decision",
+      "language": "zh",
+      "read_date": "2026-09-10",
+      "read_scope": "Complete decision, addressees, cited applications/rules, all five numbered clauses, shareholder table and signature.",
+      "provenance_and_independence": "Original issuing-regulator copy, document 证监许可〔2019〕513号; strongest source for terms and signature date.",
+      "limitations": "Application JPMB〔2018〕第1号 and corrective submission JPMIFL〔2018〕第1号 are named but not attached; no acceptance/complete-file dates. Signature date differs from company-reported March29 receipt.",
+      "evidentiary_use": "Establishment authorization; capital/shareholders/scope; correction existed; subsequent certificate, incorporation and operating-permit requirements.",
+      "preserved_copy": {
+        "path": "/Users/jorsc/.codex/.chatgpt-projects/g-p-6a94dd290a988191911d85ae8fe94a6c/tmp/pdfs/research-2026-09-10/finance/csrc-establishment.html",
+        "sha256": "d68323d86afc7d7b258ea33b54f722de7628d73f0528a58824dc0b55ac533eb9",
+        "bytes": 42888,
+        "retrieved": "2026-09-10"
+      }
+    },
+    {
+      "id": "FIN-08",
+      "title": "摩根大通证券（中国）有限公司2019年年度报告公开披露信息",
+      "creator": "摩根大通证券（中国）有限公司",
+      "document_date": "2020 (2019 reporting year; filename dated 20200429)",
+      "url": "https://www.jpmorganchina.com/content/dam/jpm/fenix/documents/2019%E5%B9%B4%E5%B9%B4%E5%BA%A6%E6%8A%A5%E5%91%8A%E5%85%AC%E5%BC%80%E4%BF%A1%E6%81%AF%E6%8A%AB%E9%9C%B2-20200429.pdf",
+      "source_type": "original company annual disclosure",
+      "language": "zh",
+      "read_date": "2026-09-10",
+      "read_scope": "Selected pages only. Physical PDF pp8–10 / printed pp5–7 visually read completely; includes business preparation, investment banking and brokerage outlook. Images rendered directly from PDF because extraction largely empty.",
+      "provenance_and_independence": "Company-hosted original disclosure; contemporaneous management account, not independent verification of every operational assertion.",
+      "limitations": "NOT full annual-report reading. Broker start around mid2020 is a forecast contingent on systems testing, not confirmed first trade.",
+      "evidentiary_use": "Preparatory 2019 state; onsite inspection, technical connections and staffing as implementation stages.",
+      "preserved_copy": {
+        "path": "/Users/jorsc/.codex/.chatgpt-projects/g-p-6a94dd290a988191911d85ae8fe94a6c/tmp/pdfs/research-2026-09-10/finance/jpm2019.pdf",
+        "sha256": "5cbe19afd2730261ec539b4a02bb4f521f886b6f38556fabc9142a9182950ee3",
+        "bytes": 6888448,
+        "retrieved": "2026-09-10"
+      }
+    },
+    {
+      "id": "FIN-09",
+      "title": "摩根大通证券（中国）有限公司获准开业",
+      "creator": "J.P. Morgan",
+      "document_date": "2019-12-18 internal dateline; webpage header 2020-04-10",
+      "url": "https://www.jpmorganchina.com/CN/zh/news-announcements/jpm-securities-china-company-limited-permitted-to-open-for-business",
+      "source_type": "original company announcement",
+      "language": "zh",
+      "read_date": "2026-09-10",
+      "read_scope": "Complete substantive release, three paragraphs, internal dateline and migrated header checked.",
+      "provenance_and_independence": "Participant announcement; license date independently consistent with company annual histories, which are same institutional chain.",
+      "limitations": "The operating permit image/original CSRC issuance record was not acquired; website header must not substitute for event date.",
+      "evidentiary_use": "December18 operating authorization before Phase One signature.",
+      "preserved_copy": {
+        "path": "/Users/jorsc/.codex/.chatgpt-projects/g-p-6a94dd290a988191911d85ae8fe94a6c/tmp/pdfs/research-2026-09-10/finance/jpm-permitted.html",
+        "sha256": "df0722085d6caa68437a148dc9be84d03be3553faab230a7de8940a0c2a4dc4e",
+        "bytes": 41392,
+        "retrieved": "2026-09-10"
+      }
+    },
+    {
+      "id": "FIN-10",
+      "title": "证监会有关负责人就提前至2020年取消合资证券公司、基金管理公司、期货公司外资股比限制答记问",
+      "creator": "中国证监会",
+      "document_date": "2019-07-20",
+      "url": "https://www.csrc.gov.cn/csrc/c100028/c1000951/content.shtml",
+      "source_type": "original regulator Q&A",
+      "language": "zh",
+      "read_date": "2026-09-10",
+      "read_scope": "Complete introduction, question and three answer paragraphs (web lines36–42).",
+      "provenance_and_independence": "Issuing-regulator explanation of FSDC Office policy announcement.",
+      "limitations": "Public reform justification, not disclosure of internal coalition or international negotiation.",
+      "evidentiary_use": "General opening accelerated 2021→2020; competition/development justification and continued risk supervision.",
+      "download_status": "<urlopen error _ssl.c:1063: The handshake operation timed out>; substantive text accessible through web tool unless read_scope says otherwise"
+    },
+    {
+      "id": "FIN-11",
+      "title": "证监会明确取消证券公司、基金管理公司外资股比限制时点",
+      "creator": "中国证监会",
+      "document_date": "2019-10-11",
+      "url": "https://www.csrc.gov.cn/csrc/c100028/c1000907/content.shtml",
+      "source_type": "original regulator timetable",
+      "language": "zh",
+      "read_date": "2026-09-10",
+      "read_scope": "Complete substantive single-paragraph announcement.",
+      "provenance_and_independence": "Original CSRC website.",
+      "limitations": "An announced future schedule, not the final implemented securities date.",
+      "evidentiary_use": "December1,2020 securities and April1,2020 fund management baseline.",
+      "download_status": "<urlopen error _ssl.c:1063: The handshake operation timed out>; substantive text accessible through web tool unless read_scope says otherwise"
+    },
+    {
+      "id": "FIN-12",
+      "title": "Economic and Trade Agreement Between the United States of America and the People’s Republic of China",
+      "creator": "United States and People’s Republic of China; USTR-hosted English text",
+      "document_date": "2020-01-15",
+      "url": "https://ustr.gov/sites/default/files/files/agreements/phase%20one%20agreement/Economic_And_Trade_Agreement_Between_The_United_States_And_China_Text.pdf",
+      "source_type": "signed agreement, official English text",
+      "language": "en",
+      "read_date": "2026-09-10",
+      "read_scope": "For this case: complete Chapter4 in extracted web text; Article4.7 on printed4-3–4-4 / physical48–49 checked, including visual inspection of both pages. Broader agreement separately audited in repository, not claimed fully read by this case.",
+      "provenance_and_independence": "Official USTR copy; matched relevant Chinese clauses in FIN-13.",
+      "limitations": "Agreement establishes obligations, not private negotiating history or firm compliance.",
+      "evidentiary_use": "Ownership deadline; qualified applications/non-discrimination; retention of existing licenses; reciprocal CICC request.",
+      "preserved_copy": {
+        "path": "/Users/jorsc/.codex/.chatgpt-projects/g-p-6a94dd290a988191911d85ae8fe94a6c/tmp/pdfs/trade-2018-2026/agreement/phase-one-en.pdf",
+        "sha256": "4f1225d3efc8092b9d0142b65b00f8ed94a7eed4316019a3342275957f77036e",
+        "bytes": 6240494,
+        "note": "Existing project agreement corpus reused; newly read selected scope recorded above."
+      }
+    },
+    {
+      "id": "FIN-13",
+      "title": "中华人民共和国政府和美利坚合众国政府经济贸易协议",
+      "creator": "中华人民共和国政府和美利坚合众国政府; 中国政府网",
+      "document_date": "2020-01-15",
+      "url": "https://www.gov.cn/guowuyuan/2020-01/16/5469650/files/0637e57d99ea4f968454206af8782dd7.pdf",
+      "source_type": "signed agreement, official Chinese text",
+      "language": "zh",
+      "read_date": "2026-09-10",
+      "read_scope": "Article4.7 complete, printed4-4–4-5 / physical69–70 read in local extraction; English consequential page visually checked in FIN-12.",
+      "provenance_and_independence": "Official government-hosted Chinese text preserved in existing agreement corpus; same jointly negotiated instrument, not independent event confirmation.",
+      "limitations": "No claim full Chinese agreement reading by this case; Chinese pages here text-read, not newly rendered.",
+      "evidentiary_use": "Cross-language check on deadline, retained licenses and reciprocity.",
+      "preserved_copy": {
+        "path": "/Users/jorsc/.codex/.chatgpt-projects/g-p-6a94dd290a988191911d85ae8fe94a6c/tmp/pdfs/trade-2018-2026/agreement/phase-one-cn.pdf",
+        "sha256": "af9be08570d6ca1be74d40eb918b2e9e554091d610f206b76fabd07d81846265",
+        "bytes": 1575882,
+        "note": "Existing project agreement corpus reused; newly read selected scope recorded above."
+      }
+    },
+    {
+      "id": "FIN-14",
+      "title": "央行发布中美第一阶段经贸协议金融服务章节情况说明",
+      "creator": "中国人民银行 text attributed by 新京报",
+      "document_date": "2020-01-16",
+      "url": "https://m.bjnews.com.cn/detail/157914791515208.html",
+      "source_type": "official explanation reproduced by newspaper",
+      "language": "zh",
+      "read_date": "2026-09-10",
+      "read_scope": "Complete reproduced explanation, all three substantive sections.",
+      "provenance_and_independence": "Beijing News attributes text to PBOC; original PBOC URL unsuccessful. Treat as attributed reproduction, not retrieved original.",
+      "limitations": "Not independently compared against PBOC source copy; self-interested presentation of reform continuity.",
+      "evidentiary_use": "Existing autonomous-reform account, reciprocity and regulatory authority retained.",
+      "preserved_copy": {
+        "path": "/Users/jorsc/.codex/.chatgpt-projects/g-p-6a94dd290a988191911d85ae8fe94a6c/tmp/pdfs/research-2026-09-10/finance/pbocexplainer2020.html",
+        "sha256": "80d34944547724c3638d026a48616e21cb92564dbe0d6540a0c4216d66a021ac",
+        "bytes": 47329,
+        "retrieved": "2026-09-10"
+      }
+    },
+    {
+      "id": "FIN-15",
+      "title": "证监会明确取消证券公司外资股比限制",
+      "creator": "中国证监会",
+      "document_date": "2020-03-13",
+      "url": "https://www.csrc.gov.cn/csrc/c100028/c1000819/content.shtml",
+      "source_type": "original regulator implementation notice",
+      "language": "zh",
+      "read_date": "2026-09-10",
+      "read_scope": "Complete two substantive paragraphs including explicit Phase One reference.",
+      "provenance_and_independence": "Original implementing agency text.",
+      "limitations": "Express treaty-to-timetable connection establishes administrative rationale, not who negotiated date or coercion counterfactual.",
+      "evidentiary_use": "Securities cap ends April1,2020 expressly to implement Phase One; applications remain required.",
+      "preserved_copy": {
+        "path": "/Users/jorsc/.codex/.chatgpt-projects/g-p-6a94dd290a988191911d85ae8fe94a6c/tmp/pdfs/research-2026-09-10/finance/csrc-march2020.html",
+        "sha256": "2eb5234e53a9338f544bff10cc45d4960e75486ca5ec42ba2471ec534bb9bef9",
+        "bytes": 12341,
+        "retrieved": "2026-09-10"
+      }
+    },
+    {
+      "id": "FIN-16",
+      "title": "外商投资证券公司管理办法",
+      "creator": "中国证监会",
+      "document_date": "2018-04-28; consolidated revision 2020-03-20",
+      "url": "https://www.csrc.gov.cn/csrc/c106256/c1653966/content.shtml",
+      "source_type": "original regulator consolidated rules",
+      "language": "zh",
+      "read_date": "2026-09-10",
+      "read_scope": "All26 articles and revision header read completely.",
+      "provenance_and_independence": "Official consolidated text: Order140 revised by Order166.",
+      "limitations": "Must not represent this as unchanged 2018 text. No completed-file date permits calculating case deadline compliance. Articles14–19 concern specified conversions, not necessarily all steps of an existing51% foreign-controlled firm becoming100%.",
+      "evidentiary_use": "Application/document conditions; separate licensing; complete-file decision clock; supplements, Chinese translation and security review.",
+      "preserved_copy": {
+        "path": "/Users/jorsc/.codex/.chatgpt-projects/g-p-6a94dd290a988191911d85ae8fe94a6c/tmp/pdfs/research-2026-09-10/finance/csrc-rule2020.html",
+        "sha256": "9af477813610a6709afd7472a7987af4297e8df39e166bf64e2319c2cba277bc",
+        "bytes": 37017,
+        "retrieved": "2026-09-10"
+      }
+    },
+    {
+      "id": "FIN-17",
+      "title": "J.P. Morgan Securities (China) Company Limited Opens For Business",
+      "creator": "J.P. Morgan",
+      "document_date": "2020-03-20",
+      "url": "https://www.jpmorganchina.com.cn/en/about-us/2020/jpmorgan-securities-china-company-limited-opens-for-business",
+      "source_type": "original company announcement",
+      "language": "en",
+      "read_date": "2026-09-10",
+      "read_scope": "Complete release and leadership descriptions; navigation excluded.",
+      "provenance_and_independence": "Company participant statement; corporate communications are not independent regulator records.",
+      "limitations": "Commencement claim not first transaction of every business line.",
+      "evidentiary_use": "March20 corporate commencement announcement.",
+      "preserved_copy": {
+        "path": "/Users/jorsc/.codex/.chatgpt-projects/g-p-6a94dd290a988191911d85ae8fe94a6c/tmp/pdfs/research-2026-09-10/finance/jpm-launch.html",
+        "sha256": "2a4d9976b153dd5d1d907d8b63ecd18985c933776d9827dc9f067c7d390911be",
+        "bytes": 174053,
+        "retrieved": "2026-09-10"
+      }
+    },
+    {
+      "id": "FIN-18",
+      "title": "独家| 疫情下开业，详解摩根大通证券的“中国生意经”",
+      "creator": "周艾琳，第一财经",
+      "document_date": "2020-03-25; interview 2020-03-23",
+      "url": "https://www.yicai.com/news/100565060.html",
+      "source_type": "original contemporary reporting and named participant interview",
+      "language": "zh",
+      "read_date": "2026-09-10",
+      "read_scope": "Complete substantive article, web lines20–57; illustrative photograph not inspected.",
+      "provenance_and_independence": "Reporter interviewed China CEO 梁治文 / Mark Leung; ceremony reporting and direct interview distinct access from press release but motives remain participant statements.",
+      "limitations": "No independently documented internal CSRC or bilateral discussion; desired integration is a corporate ask.",
+      "evidentiary_use": "Virtual opening; staged activities; group-integration interest and future business aspirations.",
+      "preserved_copy": {
+        "path": "/Users/jorsc/.codex/.chatgpt-projects/g-p-6a94dd290a988191911d85ae8fe94a6c/tmp/pdfs/research-2026-09-10/finance/yicai2020.html",
+        "sha256": "214fadded1ffc6fa2369f2f64b4dc85df0efebac577e28357b9453ddfc258346",
+        "bytes": 26108,
+        "retrieved": "2026-09-10"
+      }
+    },
+    {
+      "id": "FIN-19",
+      "title": "摩根大通证券（中国）有限公司2020年年度报告公开披露信息",
+      "creator": "摩根大通证券（中国）有限公司",
+      "document_date": "2021 (2020 reporting year)",
+      "url": "https://www.jpmorganchina.com/content/dam/jpm/fenix/documents/2020.pdf",
+      "source_type": "original company annual disclosure",
+      "language": "zh",
+      "read_date": "2026-09-10",
+      "read_scope": "Selected image-only pages: physical5–6 / printed2–3 and physical8–9 / printed5–6 visually read in full, including shareholder table, corporate history, organization chart and page footnotes.",
+      "provenance_and_independence": "Original company-hosted PDF, not newspaper paraphrase.",
+      "limitations": "NOT full annual-report reading. Exact first trades and ownership transaction conditions absent from read pages.",
+      "evidentiary_use": "51%/20% shareholder table; registration/permit dates; 2020 business development and two investment-banking projects.",
+      "preserved_copy": {
+        "path": "/Users/jorsc/.codex/.chatgpt-projects/g-p-6a94dd290a988191911d85ae8fe94a6c/tmp/pdfs/research-2026-09-10/finance/jpm2020.pdf",
+        "sha256": "fb6837c64994e22c2d2ee2b6d6245e9bfccc93cde57ae5a791c781fadd277e33",
+        "bytes": 4715940,
+        "retrieved": "2026-09-10"
+      }
+    },
+    {
+      "id": "FIN-20",
+      "title": "首家外商独资券商呼之欲出摩根大通增持旗下券商股权",
+      "creator": "闫晶滢，证券时报; syndicated by 新浪财经",
+      "document_date": "2020-11-02",
+      "url": "https://finance.sina.com.cn/roll/2020-11-02/doc-iiznezxr9350006.shtml",
+      "source_type": "original newspaper reporting in syndication",
+      "language": "zh",
+      "read_date": "2026-09-10",
+      "read_scope": "Complete substantive article through final company outlook quotation; local HTML extraction read.",
+      "provenance_and_independence": "Named reporter cites Shanghai United Assets and Equity Exchange October23 transaction and waiver of preemption; original transaction notice/contract not retrieved.",
+      "limitations": "Future-tense71% should not become completed ownership. Newspaper original-page PDF located but download timed out; full syndicated text accessible.",
+      "evidentiary_use": "20% commercial sale step; reported price and anticipated71%; future ownership distinguished from registration.",
+      "preserved_copy": {
+        "path": "/Users/jorsc/.codex/.chatgpt-projects/g-p-6a94dd290a988191911d85ae8fe94a6c/tmp/pdfs/research-2026-09-10/finance/securities-times-20201102.html",
+        "sha256": "e40e9cdbb89782f185e7fe0f40b99bd75a97ac21e01bfc28fc4e55e44f073a8e",
+        "bytes": 108824,
+        "retrieved": "2026-09-10"
+      }
+    },
+    {
+      "id": "FIN-21",
+      "title": "上海外高桥集团股份有限公司2020年年度报告",
+      "creator": "上海外高桥集团股份有限公司",
+      "document_date": "2021 (2020 reporting year; acquired PDF filename 20210501)",
+      "url": "https://pdf.dfcfw.com/pdf/H2_AN202105011488837074_1.pdf",
+      "source_type": "issuer annual report reproduced by financial-data host",
+      "language": "zh",
+      "read_date": "2026-09-10",
+      "read_scope": "Keyword-search excerpts from pp48,136,217; full physical/printed p217 visually inspected including complete investment table and note. Other pages not fully read.",
+      "provenance_and_independence": "Issuer-produced accounts, downloaded from Eastmoney rather than issuer/exchange host; independent corporate reporting chain from JPMorgan.",
+      "limitations": "NOT full224-page report reading; precise transaction conditions unavailable. Retrieval/version date not asserted as original publication date.",
+      "evidentiary_use": "Investment remained recognized at 2020 yearend; undermines completed2020 disposal assumption.",
+      "preserved_copy": {
+        "path": "/Users/jorsc/.codex/.chatgpt-projects/g-p-6a94dd290a988191911d85ae8fe94a6c/tmp/pdfs/research-2026-09-10/finance/waigaoqiao2020.pdf",
+        "sha256": "a7cefb8119734e8fb020c66a0a9d932566367f46bc67d2d1e7bc3a5b83884c6b",
+        "bytes": 4962489,
+        "retrieved": "2026-09-10"
+      }
+    },
+    {
+      "id": "FIN-22",
+      "title": "上海外高桥集团股份有限公司2021年年度报告",
+      "creator": "上海外高桥集团股份有限公司; 新浪财经 reproduction",
+      "document_date": "2022-03-31",
+      "url": "https://vip.stock.finance.sina.com.cn/corp/view/vCB_AllBulletinDetail.php?id=7943257&stockid=600648",
+      "source_type": "issuer annual report in HTML reproduction",
+      "language": "zh",
+      "read_date": "2026-09-10",
+      "read_scope": "Selected HTML sections: all occurrences of 摩根 with surrounding paragraphs; consolidated note17 and parent-company long-term-equity-investment table including headers; investment-income commentary and nonrecurring-items table.",
+      "provenance_and_independence": "Issuer disclosure reproduced by Sina; downloadable PDF not recovered in this pass. Separate issuer evidence of disposal year.",
+      "limitations": "NOT full annual reading; HTML table whitespace does not preserve all empty cells. Used to establish2021 disposal through narrative and investment table, not exact closing date or detailed amount attribution.",
+      "evidentiary_use": "Seller recognizes equity disposal in2021, corroborating stage distinction.",
+      "preserved_copy": {
+        "path": "/Users/jorsc/.codex/.chatgpt-projects/g-p-6a94dd290a988191911d85ae8fe94a6c/tmp/pdfs/research-2026-09-10/finance/waigaoqiao2021.html",
+        "sha256": "1a07be99c7b3812b04b92d0850a29f07ae70bc9c7364bba932568563b18cbfa0",
+        "bytes": 1177828,
+        "retrieved": "2026-09-10"
+      }
+    },
+    {
+      "id": "FIN-23",
+      "title": "摩根大通已申请全资控股合资券商:期货独资也落子 基金还远吗？",
+      "creator": "证券时报·券商中国; syndicated by 新浪财经",
+      "document_date": "2021-06-04",
+      "url": "https://finance.sina.com.cn/stock/quanshang/qsyj/2021-06-04/doc-ikqcfnaz9004739.shtml",
+      "source_type": "contemporary reporting with conflicting attributions",
+      "language": "zh",
+      "read_date": "2026-09-10",
+      "read_scope": "Complete substantive article in web view, lines53–85; illustrative images not inspected.",
+      "provenance_and_independence": "Repeats foreign-media application claim; reporter also solicits company response, which says no related disclosure.",
+      "limitations": "Application date unconfirmed;71% retrospective assertion conflicts with stronger company/yearend accounting evidence.",
+      "evidentiary_use": "Preserve dispute over application status; example of anticipated transaction converted into accomplished ownership.",
+      "preserved_copy": {
+        "path": "/Users/jorsc/.codex/.chatgpt-projects/g-p-6a94dd290a988191911d85ae8fe94a6c/tmp/pdfs/research-2026-09-10/finance/securities-times-20210604.html",
+        "sha256": "45a56aec485b576ce63d757d53070dc2309bd73309b043d176b734a384ddd525",
+        "bytes": 110263,
+        "retrieved": "2026-09-10"
+      }
+    },
+    {
+      "id": "FIN-24",
+      "title": "J.P. Morgan Receives Approval From The China Securities Regulatory Commission For Registration Of Full Ownership Of J.P. Morgan Securities (China) Company Limited, The Bank’s Securities Venture",
+      "creator": "J.P. Morgan",
+      "document_date": "2021-08-06",
+      "url": "https://www.jpmorganchina.com/CN/en/news-announcements/jpmorgan-receives-approval-from-the-china-securities-regulatory-commission",
+      "source_type": "original company announcement, English",
+      "language": "en",
+      "read_date": "2026-09-10",
+      "read_scope": "Complete substantive release.",
+      "provenance_and_independence": "English corporate version paired with Chinese FIN-25; same source chain.",
+      "limitations": "Approval headline is not original CSRC decision; does not establish completed ownership registration on announcement date.",
+      "evidentiary_use": "Group publicly announces administrative clearance for full ownership.",
+      "preserved_copy": {
+        "path": "/Users/jorsc/.codex/.chatgpt-projects/g-p-6a94dd290a988191911d85ae8fe94a6c/tmp/pdfs/research-2026-09-10/finance/jpm-whollyowned.html",
+        "sha256": "6271fbd713bfe2b4046eef412eaab58a8a51b47785acdd5aa9d2dfd65e2d6f71",
+        "bytes": 42980,
+        "retrieved": "2026-09-10"
+      }
+    },
+    {
+      "id": "FIN-25",
+      "title": "摩根大通已完成备案将全资控股旗下合资证券公司",
+      "creator": "J.P. Morgan",
+      "document_date": "2021-08-06 internal dateline; webpage header 2021-08-09",
+      "url": "https://www.jpmorganchina.com/CN/zh/news-announcements/jpmorgan-receives-approval-from-the-china-securities-regulatory-commission",
+      "source_type": "original company announcement, Chinese",
+      "language": "zh",
+      "read_date": "2026-09-10",
+      "read_scope": "Complete substantive release, dateline and header checked.",
+      "provenance_and_independence": "Chinese corporate statement uses 准予备案; names acquisition from five domestic shareholders. Same underlying company announcement as FIN-24.",
+      "limitations": "Original CSRC filing response missing. Future-tense ownership claim not completed registry change.",
+      "evidentiary_use": "Filing/approval terminology and fullfive-shareholder transaction.",
+      "download_status": "No local source copy preserved in this finance directory; read through web tool."
+    },
+    {
+      "id": "FIN-26",
+      "title": "摩根大通证券（中国）有限公司2021年年度报告公开披露信息",
+      "creator": "摩根大通证券（中国）有限公司",
+      "document_date": "2022 (2021 reporting year)",
+      "url": "https://www.jpmorganchina.com/content/dam/jpm/fenix/documents/disclosure-report.pdf",
+      "source_type": "original company annual disclosure",
+      "language": "zh",
+      "read_date": "2026-09-10",
+      "read_scope": "Selected physical PDF pp5–13 / printed2–10 read as text including tables; physical6 / printed3 visually inspected with organization chart; physical23 income statement visually read completely, all rows/column headers.",
+      "provenance_and_independence": "Original company-hosted PDF; contemporaneous annual disclosure of history and income, same company chain as press releases.",
+      "limitations": "NOT full25-page public disclosure reading. Underlying financial notes referenced on income statement not fully acquired/read; no allocation of total fees/revenue to outside vs affiliate customers.",
+      "evidentiary_use": "Receipt/registration/permit histories; August25,2021 ownership registration; capital; disaggregated2020/2021 securities-service fees.",
+      "preserved_copy": {
+        "path": "/Users/jorsc/.codex/.chatgpt-projects/g-p-6a94dd290a988191911d85ae8fe94a6c/tmp/pdfs/research-2026-09-10/finance/jpm2021.pdf",
+        "sha256": "686ddfc1edcdac56e2d82e9ec4f507579734f4b7a84f1d43f74731f09d9dc00a",
+        "bytes": 3433536,
+        "retrieved": "2026-09-10"
+      }
+    },
+    {
+      "id": "FIN-27",
+      "title": "专访摩根大通证券（中国）董事长朴学谦：第一条战略，是把摩根大通的优势实现最佳落地效果",
+      "creator": "刘超凤，财联社; syndicated by 新浪财经",
+      "document_date": "2021-10-19",
+      "url": "https://finance.sina.com.cn/roll/2021-10-19/doc-iktzscyy0605387.shtml",
+      "source_type": "original reporting and named executive interview",
+      "language": "zh",
+      "read_date": "2026-09-10",
+      "read_scope": "Complete substantive text, web lines50–102; portrait not inspected.",
+      "provenance_and_independence": "Named reporter interviews chairman 朴学谦 / Park Hakyum; direct participant explanation.",
+      "limitations": "Management interpretation/promotional setting, no counterfactual or internal regulator evidence.",
+      "evidentiary_use": "Proposed benefit of sole ownership: group support and execution; operational integration goals.",
+      "preserved_copy": {
+        "path": "/Users/jorsc/.codex/.chatgpt-projects/g-p-6a94dd290a988191911d85ae8fe94a6c/tmp/pdfs/research-2026-09-10/finance/cls2021.html",
+        "sha256": "2649d3d031510f9007ba8fd8c393e5215a63b297ede7b540fcb740cd1f628f2a",
+        "bytes": 106006,
+        "retrieved": "2026-09-10"
+      }
+    },
+    {
+      "id": "FIN-28",
+      "title": "摩根大通证券（中国）有限公司2022年年度报告公开披露信息",
+      "creator": "摩根大通证券（中国）有限公司",
+      "document_date": "2023 (2022 reporting year)",
+      "url": "https://www.jpmorganchina.com/content/dam/jpm/fenix/documents/disclosure-report-2022.pdf",
+      "source_type": "original company annual disclosure",
+      "language": "zh",
+      "read_date": "2026-09-10",
+      "read_scope": "Selected physical PDF pp5–7 / printed2–4 visually read completely including shareholder/history/organization/branch tables; physical23 income statement visually read completely.",
+      "provenance_and_independence": "Original company-hosted PDF.",
+      "limitations": "NOT full25-page report reading. Branch permit pending describes disclosure status, not reason or breach; accounting figures do not identify ownership effect.",
+      "evidentiary_use": "2022 brokerage and investment-banking fees; Beijing branch registration with operating permit still being processed.",
+      "preserved_copy": {
+        "path": "/Users/jorsc/.codex/.chatgpt-projects/g-p-6a94dd290a988191911d85ae8fe94a6c/tmp/pdfs/research-2026-09-10/finance/jpm2022.pdf",
+        "sha256": "5c859c5debc48620d121ce917fd224ec96aa75040b1370f455afbfbacc1d20a1",
+        "bytes": 6097429,
+        "retrieved": "2026-09-10"
+      }
+    },
+    {
+      "id": "FIN-29",
+      "title": "关于核准上投摩根基金管理有限公司变更股东、实际控制人的批复",
+      "creator": "中国证监会",
+      "document_date": "2023-01-19",
+      "url": "https://www.csrc.gov.cn/csrc/c101881/c7007757/content.shtml",
+      "source_type": "original administrative decision",
+      "language": "zh",
+      "read_date": "2026-09-10",
+      "read_scope": "Complete decision including cited application and three clauses/signature.",
+      "provenance_and_independence": "Original CSRC publication, 证监许可〔2023〕151号.",
+      "limitations": "2020 application document number is not acceptance/compliant-file date. Approval not closing; distinct fund transaction not matched processing-speed control.",
+      "evidentiary_use": "Within-group contrast; cybersecurity/cross-border investor-data requirements retained.",
+      "preserved_copy": {
+        "path": "/Users/jorsc/.codex/.chatgpt-projects/g-p-6a94dd290a988191911d85ae8fe94a6c/tmp/pdfs/research-2026-09-10/finance/csrc-fund2023.html",
+        "sha256": "fa700103b021483e9a2503e155bd3af6bf0777c5d4535f2c75175316d238ebc4",
+        "bytes": 16238,
+        "retrieved": "2026-09-10"
+      }
+    },
+    {
+      "id": "FIN-30",
+      "title": "Did the US-China phase one deal deliver a win for US financial services?",
+      "creator": "Martin Chorzempa, PIIE",
+      "document_date": "2020-01-27; HTML metadata modified 2022-03-21",
+      "url": "https://www.piie.com/blogs/trade-and-investment-policy-watch/did-us-china-phase-one-deal-deliver-win-us-financial",
+      "source_type": "secondary policy analysis",
+      "language": "en",
+      "read_date": "2026-09-10",
+      "read_scope": "Complete substantive body, reform-comparison table and note read; embedded bar figure NOT visually inspected.",
+      "provenance_and_independence": "Contemporaneous analyst synthesis based on public policy and reporting; not peer-reviewed negotiation study.",
+      "limitations": "Mistaken August2017 Trump-visit month corrected against contemporary sources. Pressure attribution explicitly uncertain. Local archive filename piie-kirkegaard.html is a filename error: author is Chorzempa.",
+      "evidentiary_use": "Prior reform vs marginal acceleration; caution about practical market access.",
+      "preserved_copy": {
+        "path": "/Users/jorsc/.codex/.chatgpt-projects/g-p-6a94dd290a988191911d85ae8fe94a6c/tmp/pdfs/research-2026-09-10/finance/piie-kirkegaard.html",
+        "sha256": "7d326152af7c376dbc73696173bfc44aa7d80dd2eb1550d7d3bb9e0c4cbcddca",
+        "bytes": 81476,
+        "retrieved": "2026-09-10"
+      }
+    },
+    {
+      "id": "FIN-31",
+      "title": "China’s Financial Opening Accelerates, Policy Brief20-17",
+      "creator": "Nicholas R. Lardy and Tianlei Huang, PIIE",
+      "document_date": "2020-12",
+      "url": "https://www.piie.com/sites/default/files/documents/pb20-17.pdf",
+      "source_type": "secondary research policy brief",
+      "language": "en",
+      "read_date": "2026-09-10",
+      "read_scope": "FULL12-page brief: complete body,22 footnotes, references and disclosures read in text; all five figures visually inspected on physicalpp4,5,8,9 with axes, legends, annotations and notes.",
+      "provenance_and_independence": "Public-source policy and economic-data synthesis; no independent interview/archival licensing research.",
+      "limitations": "Own2020 forecasts are not2026 facts. Early corporate approval/intent examples need stage verification before use; not causal identification of tariff effects.",
+      "evidentiary_use": "Asymmetric financial integration; distinct capital flow and institutional-ownership dimensions.",
+      "preserved_copy": {
+        "path": "/Users/jorsc/.codex/.chatgpt-projects/g-p-6a94dd290a988191911d85ae8fe94a6c/tmp/pdfs/research-2026-09-10/finance/piie2020.pdf",
+        "sha256": "c8ca93977926b1c31e0b05b2eff65d01de46a8240cedf918c5275f7badfbb5e9",
+        "bytes": 513766,
+        "retrieved": "2026-09-10"
+      }
+    },
+    {
+      "id": "FIN-32",
+      "title": "Continued Acceleration of the Reform of China’s Capital Markets Still Needed",
+      "creator": "Mark Austen, ASIFMA; in Huiyao Wang and Lu Miao, eds., Transition and Opportunity",
+      "document_date": "2022-02-17 publication; examples largely2020–2021",
+      "url": "https://link.springer.com/chapter/10.1007/978-981-16-8603-0_12",
+      "source_type": "industry participant/advocacy chapter in edited academic-publisher volume",
+      "language": "en",
+      "read_date": "2026-09-10",
+      "read_scope": "Complete substantive chapter sections1–6, introduction, Further Reading and author/editor metadata read in HTML. No substantive figures/tables in chapter body.",
+      "provenance_and_independence": "ASIFMA perspective representing member financial firms; academic publisher does not make this an independent peer-reviewed causal study.",
+      "limitations": "Political-linkage and deliberate-opacity claims presented without case-level proof; future expectations and prepublication conditions dated separately.",
+      "evidentiary_use": "Entity fragmentation, consultation/implementation timing and data constraints after ownership opening.",
+      "preserved_copy": {
+        "path": "/Users/jorsc/.codex/.chatgpt-projects/g-p-6a94dd290a988191911d85ae8fe94a6c/tmp/pdfs/research-2026-09-10/finance/austen2022.html",
+        "sha256": "ee2c9020dc3bb1b32ad58d425d6a12bf64621d783dbf63928323dce006d510c1",
+        "bytes": 276744,
+        "retrieved": "2026-09-10"
+      }
+    },
+    {
+      "id": "FIN-33",
+      "title": "Domestic Politics and External Financial Liberalization in China: The Capacity and Fragility of External Market Pressure",
+      "creator": "Domenico Lombardi and Anton Malkin; Journal of Contemporary China26(108),785–800",
+      "document_date": "2017-06-21 online; November2017 issue",
+      "url": "https://doi.org/10.1080/10670564.2017.1337291",
+      "source_type": "peer-reviewed secondary research article",
+      "language": "en",
+      "read_date": "2026-09-10",
+      "read_scope": "SELECTED publisher-indexed text only: abstract; sectionII literature review; parts of sectionV on foreign listings after2004; sectionVI conclusion; contributor/disclosure text and selected displayed notes1–9,56–69. Full direct HTML/PDF fetch403; remaining sections, figures and complete notes NOT read.",
+      "provenance_and_independence": "Original journal article indexed from publisher; no derivative reviews used for theory. Earlier foreign-listing and Shanghai Free Trade Zone cases.",
+      "limitations": "Not a full reading and not evidence of2017–2021 JPMorgan decision. Its domestic-coalition mechanism is a hypothesis to test, not an inferred fact about Xi-era licensing.",
+      "evidentiary_use": "Alternative mechanism linking external pressure to domestic reform and persistent state control.",
+      "download_status": "No local source copy preserved in this finance directory; read through web tool."
+    }
+  ],
+  "unsuccessful_or_unused_access": [
+    {
+      "url": "https://finance.yahoo.com/news/jpmorgan-gets-beijings-approval-first-164934739.html",
+      "status": "Large HTML downloaded but accessible extraction did not reveal complete Reuters body. Not used as substantive corroboration."
+    },
+    {
+      "url": "https://epaper.stcn.com/att/202011/02/bf9b8c6c-1d5e-4f56-9875-5a7413659430.pdf",
+      "status": "Original newspaper-page PDF located; download timed out. Complete original story read through Sina syndication FIN-20."
+    },
+    {
+      "url": "https://www.tandfonline.com/doi/pdf/10.1080/10670564.2017.1337291",
+      "status": "403; selected publisher-indexed text only, FIN-33."
+    }
+  ],
+  "missing_decisive_records": [
+    "2018 original and corrective applications and dated regulator feedback",
+    "Administrative acceptance and compliant-file records",
+    "Original December2019 operating permit and inspection file",
+    "Waigaoqiao2020 equity sale contract and closing conditions",
+    "Original CSRC2021 filing response and complete submission chronology",
+    "Private US/Chinese negotiating records on April2020 deadline; any company-specific bilateral escalation"
+  ]
+}

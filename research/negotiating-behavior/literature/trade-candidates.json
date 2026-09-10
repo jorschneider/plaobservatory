@@ -358,8 +358,8 @@
       "https://www.zjujournals.com/soc/CN/abstract/abstract32823.shtml",
       "https://ciwto.uibe.edu.cn/docs/2025-06/d355aacc923447b0a67bf3f077c07583.pdf"
     ],
-    "read_status": "abstract_and_opening_only",
-    "read_scope": "Journal metadata, Chinese abstract and institutional PDF first-page introduction read. Main legal/historical argument not yet read in full.",
+    "read_status": "complete_specified_version_read",
+    "read_scope": "Complete sixteen-page institutional PDF, printed211–226, including footnotes,28 references and English abstract; visual checks211,221,224. No figures or tables in article.",
     "access": {
       "status": "lawful_journal_and_author_institution_full_text",
       "lawful_open_full_text_url": "https://ciwto.uibe.edu.cn/docs/2025-06/d355aacc923447b0a67bf3f077c07583.pdf",
@@ -368,14 +368,30 @@
       "request_scope": null,
       "caveat": "Journal also linksPDF/Rich HTML. Institutional file folder 2025-06 is a hosting date; article published September 2021, online-first August 12, 2021. No broad reuse license verified."
     },
-    "evidence_method_verified": "Abstract describes historical and contemporary institutional/legal analysis of plurilateral agreements; no original interviews or access to private negotiation files verified.",
+    "evidence_method_verified": "Conceptual, institutional and normative argument using published literature and documents; no original interviews or private instructions verified.",
     "research_questions": [
       "How do Chinese trade scholars justify changing negotiation format and decision rules?",
       "Is increased institutional/legal flexibility observable in Chinese policy proposals and actual participation?"
     ],
     "purpose_and_caveat": "A substantive Chinese-language account of negotiating institutions and a useful source of hypotheses about procedural adaptation. It is scholarly analysis and prescription, not an authorized Chinese government position or evidence of confidential instructions.",
     "recommended_reading": "Read full article and follow cited GATT/WTO provisions and Chinese proposals; compare prescriptions with actual negotiating behavior.",
-    "verified_on": "2026-09-05"
+    "verified_on": "2026-09-05",
+    "screening_snapshot_2026_09_05": {
+      "read_status": "abstract_and_opening_only",
+      "read_scope": "Journal metadata, Chinese abstract and institutional PDF first-page introduction read. Main legal/historical argument not yet read in full.",
+      "evidence_method_verified": "Abstract describes historical and contemporary institutional/legal analysis of plurilateral agreements; no original interviews or access to private negotiation files verified.",
+      "access": {
+        "status": "lawful_journal_and_author_institution_full_text",
+        "lawful_open_full_text_url": "https://ciwto.uibe.edu.cn/docs/2025-06/d355aacc923447b0a67bf3f077c07583.pdf",
+        "preview_url": "https://www.zjujournals.com/soc/CN/abstract/abstract32823.shtml",
+        "user_full_text_needed": false,
+        "request_scope": null,
+        "caveat": "Journal also linksPDF/Rich HTML. Institutional file folder 2025-06 is a hosting date; article published September 2021, online-first August 12, 2021. No broad reuse license verified."
+      }
+    },
+    "read_on": "2026-09-10",
+    "reading_memo": "readings/chinese-negotiation-and-institutions.md",
+    "reading_evidence": "readings/chinese-negotiation-and-institutions-evidence.json"
   },
   {
     "id": "LIT-TRADE-TIAN-SHANG-2026",

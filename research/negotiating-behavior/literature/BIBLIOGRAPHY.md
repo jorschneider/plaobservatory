@@ -1,6 +1,6 @@
 # Candidate bibliography and access routes
 
-Initial screen: 5 September 2026, **36 works; none fully read during that screen.** The 8 September [full-text ledger](readings/README.md) and [assessment](first-full-text-synthesis.md) supersede that reading status; current registers preserve both stages. See the [reading and acquisition plan](README.md) for priorities. Each linked register records reading scope, verified methods and limitations. Publication year can differ from online release and from the period studied.
+Initial screen: 5 September 2026, **36 works; none fully read during that screen.** The current [full-text ledger](readings/README.md) and [latest comparative assessment](../cases/implementation-and-major-power-reassessment.md) supersede that reading status; current registers preserve both stages. See the [reading and acquisition plan](README.md) for priorities. Each linked register records reading scope, verified methods and limitations. Publication year can differ from online release and from the period studied.
 
 “Public route” includes publisher or author copies and institutional records with downloads; it does not assert successful complete retrieval. “Copy useful” means no usable full text obtained in this search. Acquisition priorities are in the reading plan, not the order of this complete bibliography.
 
@@ -24,7 +24,7 @@ The current candidate registers contain **37 works**, adding Wei and Summers’ 
 
 - Faure, Guy Olivier. 1998. ‘Negotiation: The Chinese Concept.’ Negotiation Journal 14 (2): 137–148. [Citation/source](https://doi.org/10.1111/j.1571-9979.1998.tb00154.x). **Public route identified.** [Access route](https://direct.mit.edu/ngtn/article/14/2/137/122439/Negotiation-The-Chinese-Concept). Type: scholarly journal article.
 
-- 梁晓君（Liang Xiaojun）. 2008. 〈外交谈判战略浅析〉. 《国际政治研究》第2期：108–120（publisher PDF printed folios; catalogue instead lists 112–124）. [Citation/source](https://ccj.pku.edu.cn/article/info?aid=297793048). **Public route identified.** [Access route](https://ccj.pku.edu.cn/Article/DownLoad?id=297793048&type=ArticleFile). Type: scholarly journal article; general diplomatic negotiation theory.
+- 梁晓君（Liang Xiaojun）. 2008. 〈外交谈判战略浅析〉. 《国际政治研究》第2期：108–120（publisher PDF printed folios; catalogue instead lists 112–124）. [Citation/source](https://ccj.pku.edu.cn/article/info?aid=297793048). **Complete publisher PDF visually read 10 September 2026.** [Access route](https://ccj.pku.edu.cn/Article/DownLoad?id=297793048&type=ArticleFile). Type: scholarly journal article; general diplomatic negotiation theory. [Critical memo](readings/chinese-negotiation-and-institutions.md).
 
 - Kumar, Rajesh, and Verner Worm. 2004. ‘Institutional Dynamics and the Negotiation Process: Comparing India and China.’ International Journal of Conflict Management 15 (3): 304–334. [Citation/source](https://doi.org/10.1108/eb022916). **Public route identified.** [Access route](https://citeseerx.ist.psu.edu/document?doi=2490b1149c14ddaf4967236b6047bcce5a0392ee&repid=rep1&type=pdf). Type: scholarly journal article; business/institutional comparison.
 
@@ -38,7 +38,7 @@ The current candidate registers contain **37 works**, adding Wei and Summers’ 
 
 - Cabestan, Jean-Pierre. 2009. ‘China’s Foreign- and Security-policy Decision-making Processes under Hu Jintao.’ Journal of Current Chinese Affairs 38(3): 63–97. [Citation/source](https://doi.org/10.1177/186810260903800304). **Public route identified.** [Access route](https://journals.sub.uni-hamburg.de/giga/jcca/article/view/61/). Type: scholarly journal article.
 
-- Cabestan, Jean-Pierre. 2021. ‘China’s foreign and security policy institutions and decision-making under Xi Jinping.’ The British Journal of Politics and International Relations 23(2): 319–336. [Citation/source](https://doi.org/10.1177/1369148120974881). **Copy useful.** [Access route](https://journals.sagepub.com/doi/10.1177/1369148120974881). Type: scholarly journal article.
+- Cabestan, Jean-Pierre. 2021. ‘China’s foreign and security policy institutions and decision-making under Xi Jinping.’ The British Journal of Politics and International Relations 23(2): 319–336. [Citation/source](https://doi.org/10.1177/1369148120974881). **Complete author-uploaded article HTML, including references, read 10 September 2026.** [Access route](https://journals.sagepub.com/doi/10.1177/1369148120974881). Type: scholarly journal article. [Critical memo and version](readings/cabestan-institutions.md).
 
 - Zhao, Suisheng. 2023. ‘Top-Level Design and Enlarged Diplomacy: Foreign and Security Policymaking in Xi Jinping’s China.’ Journal of Contemporary China 32(139): 73–86. [Citation/source](https://doi.org/10.1080/10670564.2022.2052440). **Copy useful.** [Access route](https://www.tandfonline.com/doi/abs/10.1080/10670564.2022.2052440). Type: scholarly journal article.
 
@@ -70,7 +70,7 @@ The current candidate registers contain **37 works**, adding Wei and Summers’ 
 
 - Lim, Darren J., and Victor A. Ferguson. 2022. “Informal Economic Sanctions: The Political Economy of Chinese Coercion during the THAAD Dispute.” Review of International Political Economy 29(5): 1525–1548. [Citation/source](https://doi.org/10.1080/09692290.2021.1918746). **Public route identified.** [Access route](https://www.tandfonline.com/doi/pdf/10.1080/09692290.2021.1918746). Type: peer-reviewed journal article.
 
-- 屠新泉、石晓婧，2021，《重振WTO谈判功能的诸边协议路径探析》，《浙江大学学报（人文社会科学版）》51(5):211–226。 [Citation/source](https://doi.org/10.3785/j.issn.1008-942X.CN33-6000/C.2021.01.154). **Public route identified.** [Access route](https://ciwto.uibe.edu.cn/docs/2025-06/d355aacc923447b0a67bf3f077c07583.pdf). Type: scholarly journal article.
+- 屠新泉、石晓婧，2021，《重振WTO谈判功能的诸边协议路径探析》，《浙江大学学报（人文社会科学版）》51(5):211–226。 [Citation/source](https://doi.org/10.3785/j.issn.1008-942X.CN33-6000/C.2021.01.154). **Complete institutional PDF, notes and references read 10 September 2026.** [Access route](https://ciwto.uibe.edu.cn/docs/2025-06/d355aacc923447b0a67bf3f077c07583.pdf). Type: scholarly journal article. [Critical memo](readings/chinese-negotiation-and-institutions.md).
 
 - Tian, George Yijun, and Carrie Shu Shang. 2026. “A Co-regulatory Approach to Bilateral Trade: Assessing and Enhancing Enforceability of U.S.–China Phase One Agreement in the Trump 2.0 Era.” Journal of International Economic Law 29(2): 264–291. [Citation/source](https://doi.org/10.1093/jiel/jgag019). **Complete publisher HTML, 147 notes and four figures read 8 September 2026.** [Critical memo](readings/phase-one-enforceability.md). Type: scholarly journal article; primarily legal/institutional analysis.
 
@@ -94,4 +94,14 @@ The current candidate registers contain **37 works**, adding Wei and Summers’ 
 
 - Zhang, Ketian. 2023. ‘Explaining Chinese Military Coercion in Sino-Indian Border Disputes.’ Journal of Contemporary China 32(141): 399–416. [Citation/source](https://doi.org/10.1080/10670564.2022.2090081). **Copy useful.** [Access route](https://www.tandfonline.com/doi/abs/10.1080/10670564.2022.2090081). Type: scholarly journal article.
 
-- Chadha, Saheb Singh. 2024. Negotiating the India-China Standoff: 2020–2024. Carnegie India / Carnegie Endowment for International Peace, December. 74 PDF pages. [Citation/source](https://assets.carnegieendowment.org/static/files/Negotiating%20the%20India-China%20Standoff%202020_2024.pdf). **Public route identified.** [Access route](https://assets.carnegieendowment.org/static/files/Negotiating%20the%20India-China%20Standoff%202020_2024.pdf). Type: institutional policy research report; supplemental to scholarly shortlist.
+- Chadha, Saheb Singh. 2024. Negotiating the India-China Standoff: 2020–2024. Carnegie India / Carnegie Endowment for International Peace, December. 74 PDF pages. [Citation/source](https://assets.carnegieendowment.org/static/files/Negotiating%20the%20India-China%20Standoff%202020_2024.pdf). **Complete main report and all 279 notes read 10 September 2026; annex inventory and selected originals, not the whole statement compilation.** [Access route](https://assets.carnegieendowment.org/static/files/Negotiating%20the%20India-China%20Standoff%202020_2024.pdf). Type: institutional policy research report; supplemental to scholarly shortlist. [Case and audit](../cases/india-border-2020-2024.md).
+
+## Additional case-specific policy and participant texts
+
+These supporting texts sit outside the 37-work candidate register; complete and selected readings are not added indiscriminately to the scholarly count.
+
+- Lardy, Nicholas R., and Tianlei Huang. 2020. *China’s Financial Opening Accelerates*. PIIE Policy Brief 20-17. Complete brief, notes and five figures read. [Full text](https://www.piie.com/sites/default/files/documents/pb20-17.pdf); [case evaluation](../cases/financial-access-implementation.md).
+
+- Austen, Mark. 2022. “Continued Acceleration of the Reform of China’s Capital Markets Still Needed.” In Huiyao Wang and Lu Miao, eds., *Transition and Opportunity*. Complete chapter HTML read; industry advocacy. [Publisher chapter](https://link.springer.com/chapter/10.1007/978-981-16-8603-0_12); [reading scope, FIN-32](../sources/financial-access-register.json).
+
+- Chadha, Saheb Singh. 2026. *Threading the Needle: India’s Path Forward with China*. Carnegie India, July. Selected border and negotiation-hierarchy sections and specified notes only. [Report](https://carnegieendowment.org/india/research/2026/07/threading-the-needle-indias-path-forward-with-china); [reading scope](../sources/india-border-register.json).

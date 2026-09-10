@@ -120,5 +120,26 @@
     }
   ],
   "independent_second_read": "Second researcher checked Chapter 7, working procedures and Article 8.6 in both languages, with visual checks on remedies, deadlines and attachment authenticity.",
-  "storage": "Full public texts, OCR and renderings remain outside Git; repository contains original analysis and metadata."
+  "storage": "Full public texts, OCR and renderings remain outside Git; repository contains original analysis and metadata.",
+  "latest_followup_date": "2026-09-10",
+  "followup_readings": [
+    {
+      "date": "2026-09-10",
+      "source_id": "POA-EN",
+      "read_scope": "Complete English Chapter3, physical PDF23–45, all17annexes,AppendixI andnotes, read by agricultural case researcher. Root independently rechecked Chapter3opening/footnote1 and fullAnnex16 PDF41–44, plusArticle8.5 PDF82–83.",
+      "register": "agricultural-approvals-register.json",
+      "case_source_id": "AG01",
+      "findings": [
+        "Average24months to approval OR disapproval for feed/further-processing products, not absolute per-filedeadline",
+        "Chapter3footnote1 excludes implementing measures fromArticle8.5; specific Annex16duties remain relevant"
+      ]
+    },
+    {
+      "date": "2026-09-10",
+      "source_id": "POA-CN",
+      "read_scope": "Chapter3opening PDF23includingfootnote1; fullAnnex16 PDF47–51(printed3-25–3-29); adjoiningPDF24inspected. NotcompleteearlierChineselanguagechapters.",
+      "register": "agricultural-approvals-register.json",
+      "case_source_id": "AG02"
+    }
+  ]
 }

@@ -1,0 +1,538 @@
+{
+  "case": "JPMorgan Securities (China),2017–2022",
+  "research_date": "2026-09-10",
+  "record_count": 25,
+  "date_policy": "Dates distinguish signature, receipt, publication, effectiveness, registration and observation. Slash intervals do not imply a continuous negotiation or statutory processing clock.",
+  "classification_policy": "A policy/administrative/corporate observation is not automatically a bilateral bargaining move. Private authority, motives and requests remain unknown unless evidenced.",
+  "moves": [
+    {
+      "id": "FIN-M01",
+      "event_date": "2017-11-10",
+      "record_type": "policy announcement in bilateral summit setting",
+      "actor": "Vice Finance Minister Zhu Guangyao",
+      "setting_channel_audience": "Public policy/administrative/corporate record; no private channel inferred",
+      "issue_and_baseline": "Foreign-control restrictions",
+      "observed_move_or_state": "Announces prospective51% ceiling, then abolition three years after implementation; opening applies beyond US.",
+      "next_observable_response": "CSRC rules implemented April2018.",
+      "authority_evidence": "Public vice-minister briefing on Trump–Xi economic results; internal approval papers unavailable.",
+      "source_references": [
+        {
+          "source_id": "FIN-01",
+          "locator": "Full article, securities opening and WTO-beneficiary discussion"
+        },
+        {
+          "source_id": "FIN-02",
+          "locator": "Full wire story"
+        }
+      ],
+      "confidence": "high for announcement",
+      "inference_limit": "Predates2018 tariff war but not bilateral negotiation/pressure."
+    },
+    {
+      "id": "FIN-M02",
+      "event_date": "2018-03-09/2018-04-28",
+      "record_type": "regulatory consultation and rule issuance",
+      "actor": "CSRC",
+      "setting_channel_audience": "Public policy/administrative/corporate record; no private channel inferred",
+      "issue_and_baseline": "Proposed majority ownership requires implementing rules",
+      "observed_move_or_state": "Consultation followed by rule issuance; announcement describes52 comments from11 organizations and5 individuals.",
+      "next_observable_response": "New application received in May.",
+      "authority_evidence": "Issuing regulator and published consultation account.",
+      "source_references": [
+        {
+          "source_id": "FIN-03",
+          "locator": "Consultation paragraph and five listed rule changes"
+        }
+      ],
+      "confidence": "high",
+      "inference_limit": "Contributors' identities and influence unavailable; consultation counts do not establish balanced access."
+    },
+    {
+      "id": "FIN-M03",
+      "event_date": "2018-05-10",
+      "record_type": "reported application receipt",
+      "actor": "CSRC; JPMorgan group",
+      "setting_channel_audience": "Public policy/administrative/corporate record; no private channel inferred",
+      "issue_and_baseline": "Majority-control rules now available",
+      "observed_move_or_state": "Reuters reports regulator received application for51% venture.",
+      "next_observable_response": "Company confirms application and eventual100% aspiration May14.",
+      "authority_evidence": "Reuters attributes receipt to CSRC.",
+      "source_references": [
+        {
+          "source_id": "FIN-04",
+          "locator": "Complete short report"
+        }
+      ],
+      "confidence": "medium-high",
+      "inference_limit": "Not formal acceptance or complete-file date; exact submission date not supplied."
+    },
+    {
+      "id": "FIN-M04",
+      "event_date": "2018-05-14",
+      "record_type": "corporate statement of application and objective",
+      "actor": "JPMorgan",
+      "setting_channel_audience": "Public policy/administrative/corporate record; no private channel inferred",
+      "issue_and_baseline": "51% legally available;100% prospectively permitted later",
+      "observed_move_or_state": "Publicly states application and future full-ownership goal.",
+      "next_observable_response": "Formal acceptance reportedly October12.",
+      "authority_evidence": "Company statement quoted in Reuters.",
+      "source_references": [
+        {
+          "source_id": "FIN-05",
+          "locator": "Company-statement paragraphs"
+        }
+      ],
+      "confidence": "high for company statement",
+      "inference_limit": "Intent not approval; group application identity cannot substitute for final shareholder documentation."
+    },
+    {
+      "id": "FIN-M05",
+      "event_date": "2018 (exact date unavailable)",
+      "record_type": "application correction",
+      "actor": "JPMorgan and proposed Chinese shareholders",
+      "setting_channel_audience": "Public policy/administrative/corporate record; no private channel inferred",
+      "issue_and_baseline": "Initial establishment application JPMB〔2018〕第1号",
+      "observed_move_or_state": "Corrective submission JPMIFL〔2018〕第1号 exists, named in final decision.",
+      "next_observable_response": "CSRC issues establishment decision in March2019.",
+      "authority_evidence": "Original administrative decision cites both submissions.",
+      "source_references": [
+        {
+          "source_id": "FIN-07",
+          "locator": "Opening paragraph"
+        }
+      ],
+      "confidence": "high for existence; unknown timing/content",
+      "inference_limit": "No recovered request, grounds, proposed terms, or sequence relative to acceptance."
+    },
+    {
+      "id": "FIN-M06",
+      "event_date": "2018-10-12",
+      "record_type": "reported formal application acceptance",
+      "actor": "CSRC",
+      "setting_channel_audience": "Public policy/administrative/corporate record; no private channel inferred",
+      "issue_and_baseline": "May receipt does not establish formal acceptance",
+      "observed_move_or_state": "Acceptance date reported from licensing docket.",
+      "next_observable_response": "Establishment decision signed March13,2019.",
+      "authority_evidence": "Beijing Business Daily reporter cites dated CSRC docket; docket not acquired.",
+      "source_references": [
+        {
+          "source_id": "FIN-06",
+          "locator": "First substantive paragraph"
+        }
+      ],
+      "confidence": "medium",
+      "inference_limit": "Do not infer reason for May–October interval or statutory clock compliance."
+    },
+    {
+      "id": "FIN-M07",
+      "event_date": "2019-03-13",
+      "record_type": "administrative establishment authorization",
+      "actor": "CSRC",
+      "setting_channel_audience": "Public policy/administrative/corporate record; no private channel inferred",
+      "issue_and_baseline": "Pending corrected JV application",
+      "observed_move_or_state": "Decision513 authorizes51% venture and four business categories, subject to organization/registration/licensing steps.",
+      "next_observable_response": "Company reports receipt March29; registers August22.",
+      "authority_evidence": "Original decision signed by CSRC.",
+      "source_references": [
+        {
+          "source_id": "FIN-07",
+          "locator": "All clauses and signature"
+        }
+      ],
+      "confidence": "high",
+      "inference_limit": "Authorization to establish is not permission to conduct securities business."
+    },
+    {
+      "id": "FIN-M08",
+      "event_date": "2019-03-29",
+      "record_type": "receipt of decision",
+      "actor": "JPMorgan Securities (China)",
+      "setting_channel_audience": "Public policy/administrative/corporate record; no private channel inferred",
+      "issue_and_baseline": "Decision signed March13",
+      "observed_move_or_state": "Company later records receipt on March29.",
+      "next_observable_response": "Company registered August22.",
+      "authority_evidence": "Company annual history.",
+      "source_references": [
+        {
+          "source_id": "FIN-26",
+          "locator": "Printed2 / physical5"
+        }
+      ],
+      "confidence": "high",
+      "inference_limit": "Signature and receipt dates are distinct; neither should overwrite the other."
+    },
+    {
+      "id": "FIN-M09",
+      "event_date": "2019-07-20",
+      "record_type": "general policy acceleration",
+      "actor": "FSDC Office; CSRC explanation",
+      "setting_channel_audience": "Public policy/administrative/corporate record; no private channel inferred",
+      "issue_and_baseline": "Full ownership scheduled2021",
+      "observed_move_or_state": "Announces ownership-cap abolition during2020.",
+      "next_observable_response": "CSRC specifies securities December1 on October11.",
+      "authority_evidence": "Public FSDC policy attributed and explained by CSRC.",
+      "source_references": [
+        {
+          "source_id": "FIN-10",
+          "locator": "Introduction and complete answer"
+        }
+      ],
+      "confidence": "high",
+      "inference_limit": "Stated domestic-development motive is public justification, not exclusive causal finding."
+    },
+    {
+      "id": "FIN-M10",
+      "event_date": "2019-08-22",
+      "record_type": "business registration",
+      "actor": "Shanghai market regulator; company",
+      "setting_channel_audience": "Public policy/administrative/corporate record; no private channel inferred",
+      "issue_and_baseline": "Establishment approval requires incorporation",
+      "observed_move_or_state": "Company obtains business registration.",
+      "next_observable_response": "Operating permit follows December18.",
+      "authority_evidence": "Annual disclosure history.",
+      "source_references": [
+        {
+          "source_id": "FIN-19",
+          "locator": "Printed3 / physical6"
+        }
+      ],
+      "confidence": "high",
+      "inference_limit": "Separate securities operating permit still required."
+    },
+    {
+      "id": "FIN-M11",
+      "event_date": "2019-10-11",
+      "record_type": "specified general timetable",
+      "actor": "CSRC",
+      "setting_channel_audience": "Public policy/administrative/corporate record; no private channel inferred",
+      "issue_and_baseline": "Abolition sometime2020",
+      "observed_move_or_state": "Securities cap to end December1,2020; funds April1.",
+      "next_observable_response": "Phase One securities date becomes April1.",
+      "authority_evidence": "Original regulator notice.",
+      "source_references": [
+        {
+          "source_id": "FIN-11",
+          "locator": "Complete substantive paragraph"
+        }
+      ],
+      "confidence": "high",
+      "inference_limit": "This is superseded announced timetable, not implemented final date."
+    },
+    {
+      "id": "FIN-M12",
+      "event_date": "2019-12-18",
+      "record_type": "operating permit",
+      "actor": "CSRC; company recipient",
+      "setting_channel_audience": "Public policy/administrative/corporate record; no private channel inferred",
+      "issue_and_baseline": "Incorporated but no automatic authority to trade",
+      "observed_move_or_state": "Company receives securities/futures operating permit.",
+      "next_observable_response": "Technical preparation and March2020 corporate launch.",
+      "authority_evidence": "Company permit announcement plus annual history.",
+      "source_references": [
+        {
+          "source_id": "FIN-09",
+          "locator": "Internal dateline and substantive release"
+        },
+        {
+          "source_id": "FIN-19",
+          "locator": "Printed3 / physical6"
+        }
+      ],
+      "confidence": "high",
+      "inference_limit": "Original permit not recovered. Event predates signed Phase One; page headerApril2020 is misleading metadata."
+    },
+    {
+      "id": "FIN-M13",
+      "event_date": "2019 yearend / 2020 forecast",
+      "record_type": "operational preparation observation",
+      "actor": "Company management",
+      "setting_channel_audience": "Public policy/administrative/corporate record; no private channel inferred",
+      "issue_and_baseline": "Operating permit issued; business ramp-up incomplete",
+      "observed_move_or_state": "Brokerage plans formal operation around mid2020 after institutional system connectivity/testing.",
+      "next_observable_response": "2020 disclosure reports business development; fee income subsequently observed.",
+      "authority_evidence": "Contemporaneous annual business discussion.",
+      "source_references": [
+        {
+          "source_id": "FIN-08",
+          "locator": "Printed5–7 / physical8–10"
+        }
+      ],
+      "confidence": "high for stated preparation/forecast",
+      "inference_limit": "Projected start not actual first trade; specific business lines may differ."
+    },
+    {
+      "id": "FIN-M14",
+      "event_date": "2020-01-15",
+      "record_type": "bilateral agreement commitment",
+      "actor": "US and China",
+      "setting_channel_audience": "Public policy/administrative/corporate record; no private channel inferred",
+      "issue_and_baseline": "CSRC securities cap scheduledDecember1",
+      "observed_move_or_state": "Article4.7 sets latest cap-removal dateApril1; qualified non-discriminatory licensing and license retention also addressed.",
+      "next_observable_response": "CSRC expressly implementsApril1 on March13.",
+      "authority_evidence": "Signed agreement, English/Chinese texts.",
+      "source_references": [
+        {
+          "source_id": "FIN-12",
+          "locator": "Article4.7 printed4-3–4-4"
+        },
+        {
+          "source_id": "FIN-13",
+          "locator": "Article4.7 printed4-4–4-5"
+        }
+      ],
+      "confidence": "high",
+      "inference_limit": "Obligation does not imply every pending company application approvedApril1."
+    },
+    {
+      "id": "FIN-M15",
+      "event_date": "2020-03-13 (effective 2020-04-01)",
+      "record_type": "regulatory implementation of bilateral commitment",
+      "actor": "CSRC",
+      "setting_channel_audience": "Public policy/administrative/corporate record; no private channel inferred",
+      "issue_and_baseline": "Published securities deadlineDecember1,2020",
+      "observed_move_or_state": "Announces April1 end of cap, expressly citing implementation of Phase One requirements.",
+      "next_observable_response": "Eligible foreign investors may pursue required applications.",
+      "authority_evidence": "Original CSRC notice.",
+      "source_references": [
+        {
+          "source_id": "FIN-15",
+          "locator": "Both substantive paragraphs"
+        }
+      ],
+      "confidence": "high",
+      "inference_limit": "Eight-month schedule acceleration documented; sole tariff causation and negotiator attribution unresolved."
+    },
+    {
+      "id": "FIN-M16",
+      "event_date": "2020-03-20",
+      "record_type": "company launch",
+      "actor": "JPMorgan Securities (China)",
+      "setting_channel_audience": "Public policy/administrative/corporate record; no private channel inferred",
+      "issue_and_baseline": "Licensed business completing operational preparation",
+      "observed_move_or_state": "Company announces commencement; reported virtual ceremony.",
+      "next_observable_response": "CEO interviewed March23 on operating priorities.",
+      "authority_evidence": "Original company announcement plus named reporter interview.",
+      "source_references": [
+        {
+          "source_id": "FIN-17",
+          "locator": "Complete release"
+        },
+        {
+          "source_id": "FIN-18",
+          "locator": "Opening account of ceremony/interview"
+        }
+      ],
+      "confidence": "high for launch",
+      "inference_limit": "Not first trade in all business lines or newly issued operating permit."
+    },
+    {
+      "id": "FIN-M17",
+      "event_date": "2020-03-23 interview; published 2020-03-25",
+      "record_type": "commercial advocacy",
+      "actor": "Mark Leung, JPMorgan China CEO",
+      "setting_channel_audience": "Public policy/administrative/corporate record; no private channel inferred",
+      "issue_and_baseline": "Different onshore group businesses legally fragmented",
+      "observed_move_or_state": "Describes preference for integrated group operations and future capabilities as regulation permits.",
+      "next_observable_response": "No specific regulator response recovered.",
+      "authority_evidence": "Named executive interview in Yicai.",
+      "source_references": [
+        {
+          "source_id": "FIN-18",
+          "locator": "Group-operation and future-opening passages"
+        }
+      ],
+      "confidence": "high for stated preference",
+      "inference_limit": "Not evidence of government demand for reciprocal US concession or formal dispute escalation."
+    },
+    {
+      "id": "FIN-M18",
+      "event_date": "2020-09-03/2020-10-23",
+      "record_type": "reported equity-sale process",
+      "actor": "Waigaoqiao; JPMorgan; Shanghai equity exchange",
+      "setting_channel_audience": "Public policy/administrative/corporate record; no private channel inferred",
+      "issue_and_baseline": "JPMorgan51%; Waigaoqiao20%",
+      "observed_move_or_state": "Listed20% sale reported; October23 successful transaction reported atRMB178m. Novemberstory forecasts71%.",
+      "next_observable_response": "Yearend company ownership still51%/20%; seller retains investment in2020 accounts.",
+      "authority_evidence": "Original named-reporting account cites exchange; contract not acquired.",
+      "source_references": [
+        {
+          "source_id": "FIN-20",
+          "locator": "Equity-exchange transaction and listing passages"
+        },
+        {
+          "source_id": "FIN-19",
+          "locator": "Printed2 shareholder table"
+        },
+        {
+          "source_id": "FIN-21",
+          "locator": "p217"
+        }
+      ],
+      "confidence": "medium-high for reported transaction; not completed ownership",
+      "inference_limit": "Do not code71% registered ownership in2020. Contractual/economic-rights timing remains unknown."
+    },
+    {
+      "id": "FIN-M19",
+      "event_date": "2020-12-31 reporting period",
+      "record_type": "ownership/accounting observation",
+      "actor": "JPMorgan Securities (China); Waigaoqiao",
+      "setting_channel_audience": "Public policy/administrative/corporate record; no private channel inferred",
+      "issue_and_baseline": "News predicts intermediate71% ownership",
+      "observed_move_or_state": "Company discloses51%/20%; seller continues recognizing investment.",
+      "next_observable_response": "Seller records disposal in2021; company registers100% August2021.",
+      "authority_evidence": "Two original corporate reporting chains.",
+      "source_references": [
+        {
+          "source_id": "FIN-19",
+          "locator": "Printed2 / physical5"
+        },
+        {
+          "source_id": "FIN-21",
+          "locator": "p217"
+        },
+        {
+          "source_id": "FIN-22",
+          "locator": "Long-term equity investment and income commentary"
+        }
+      ],
+      "confidence": "high for disclosed yearend state",
+      "inference_limit": "No claim every transaction right remained unchanged; stronger evidence for registered/accounting distinction than press headline."
+    },
+    {
+      "id": "FIN-M20",
+      "event_date": "2021-06-04 publication; filing date unknown",
+      "record_type": "conflicting application reporting",
+      "actor": "Securities Times/券商中国; JPMorgan response",
+      "setting_channel_audience": "Public policy/administrative/corporate record; no private channel inferred",
+      "issue_and_baseline": "Full ownership legally possible; acquisition process not fully recovered",
+      "observed_move_or_state": "Report repeats foreign claim of application; company says no related disclosure.",
+      "next_observable_response": "August6 company confirms CSRC filing acceptance.",
+      "authority_evidence": "Article records both report and company reply.",
+      "source_references": [
+        {
+          "source_id": "FIN-23",
+          "locator": "Application paragraph and company-response paragraph"
+        }
+      ],
+      "confidence": "low for application date; high for published contradiction",
+      "inference_limit": "June4 must not become confirmed filing date."
+    },
+    {
+      "id": "FIN-M21",
+      "event_date": "2021-08-06 announcement; administrative response date unspecified",
+      "record_type": "accepted ownership filing reported",
+      "actor": "CSRC; JPMorgan International Finance Limited",
+      "setting_channel_audience": "Public policy/administrative/corporate record; no private channel inferred",
+      "issue_and_baseline": "51% shareholder acquiring allfive Chinese partners",
+      "observed_move_or_state": "Company announces CSRC 准予备案; English describes approval for registration.",
+      "next_observable_response": "Shareholder registration August25.",
+      "authority_evidence": "Paired Chinese and English company releases.",
+      "source_references": [
+        {
+          "source_id": "FIN-24",
+          "locator": "Headline and opening paragraph"
+        },
+        {
+          "source_id": "FIN-25",
+          "locator": "InternalAugust6 dateline and firstparagraph"
+        }
+      ],
+      "confidence": "high for public announcement; underlying filing response unavailable",
+      "inference_limit": "Filing acceptance is distinct from original establishment/operating approval and from completed registry change."
+    },
+    {
+      "id": "FIN-M22",
+      "event_date": "2021-08-25",
+      "record_type": "completed ownership registration",
+      "actor": "Shanghai market regulator; JPMorgan Securities (China)",
+      "setting_channel_audience": "Public policy/administrative/corporate record; no private channel inferred",
+      "issue_and_baseline": "Clearance reported August6",
+      "observed_move_or_state": "Registers sole JPMorgan shareholder and increased capital.",
+      "next_observable_response": "Company continues securities business;2021/2022 income disclosed.",
+      "authority_evidence": "Company2021 annual history.",
+      "source_references": [
+        {
+          "source_id": "FIN-26",
+          "locator": "Printed3 / physical6"
+        }
+      ],
+      "confidence": "high",
+      "inference_limit": "No exact private closing conditions or initial full-ownership application date recovered."
+    },
+    {
+      "id": "FIN-M23",
+      "event_date": "2020–2022 reporting periods",
+      "record_type": "operating outcome observation",
+      "actor": "JPMorgan Securities (China)",
+      "setting_channel_audience": "Public policy/administrative/corporate record; no private channel inferred",
+      "issue_and_baseline": "Launch/license alone insufficient evidence of usable business",
+      "observed_move_or_state": "Statements show positive brokerage and investment-banking fee income; brokerage grows while2022 investment-banking fees decline.",
+      "next_observable_response": "Operating capability established within observed years.",
+      "authority_evidence": "Original published income statements.",
+      "source_references": [
+        {
+          "source_id": "FIN-26",
+          "locator": "Physical23,2020/2021 columns"
+        },
+        {
+          "source_id": "FIN-28",
+          "locator": "Physical23,2021/2022 columns"
+        }
+      ],
+      "confidence": "high for disclosed figures",
+      "inference_limit": "Not causal estimate of ownership change; total revenue not assumed external client business."
+    },
+    {
+      "id": "FIN-M24",
+      "event_date": "2022-08-02 registration; permit pending in2022 disclosure",
+      "record_type": "branch implementation boundary",
+      "actor": "Company Beijing branch; local registration/licensing authorities",
+      "setting_channel_audience": "Public policy/administrative/corporate record; no private channel inferred",
+      "issue_and_baseline": "Wholly owned parent already operating",
+      "observed_move_or_state": "Beijing branch registered; securities permit listed as being processed.",
+      "next_observable_response": "No subsequent branch outcome researched in this case.",
+      "authority_evidence": "2022 annual branch table.",
+      "source_references": [
+        {
+          "source_id": "FIN-28",
+          "locator": "Printed4 / physical7"
+        }
+      ],
+      "confidence": "high for disclosed stage",
+      "inference_limit": "No completed-file date, no finding of discriminatory delay."
+    },
+    {
+      "id": "FIN-M25",
+      "event_date": "2023-01-19",
+      "record_type": "limited within-group comparison: fund-company approval",
+      "actor": "CSRC; China International Fund Management; JPMorgan Asset Management",
+      "setting_channel_audience": "Public policy/administrative/corporate record; no private channel inferred",
+      "issue_and_baseline": "Separate fund-company ownership application numbered2020",
+      "observed_move_or_state": "Approves shareholder/controller change; requires registration and cross-border-data compliance.",
+      "next_observable_response": "Actual closing/renaming not reconstructed here.",
+      "authority_evidence": "Original CSRC decision151.",
+      "source_references": [
+        {
+          "source_id": "FIN-29",
+          "locator": "Complete decision"
+        }
+      ],
+      "confidence": "high for authorization",
+      "inference_limit": "Application-number year not complete-file date. Different transaction structure precludes simple duration comparison."
+    }
+  ],
+  "causal_assessment": {
+    "supported": [
+      "PhaseOne advanced published securities-cap timetable by eightmonths.",
+      "Initial operating permit preceded PhaseOne signature.",
+      "Full ownership required a separate commercial/administrative sequence.",
+      "Published service-fee income establishes substantive operation."
+    ],
+    "unresolved": [
+      "Who proposedApril1 and relative contributions of coercion/domestic reform.",
+      "Private decision/feedback contents and statutory clock compliance.",
+      "Original2021 filing response and precise share-sale closing conditions.",
+      "Effect of100% versus51% ownership on commercial performance."
+    ]
+  }
+}

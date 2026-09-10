@@ -1,0 +1,160 @@
+{
+  "title": "Cabestan2021: full-text reading and selected primary verification",
+  "research_date": "2026-09-10",
+  "source": {
+    "id": "CAB2021",
+    "citation": "Jean-Pierre Cabestan, British Journal of Politics and International Relations23(2),319–336",
+    "doi": "10.1177/1369148120974881",
+    "url": "https://www.researchgate.net/publication/347816666_China%27s_foreign_and_security_policy_institutions_and_decision-making_under_Xi_Jinping",
+    "reading_status": "full_article_text_and_bibliography_read",
+    "scope": "Printed319–336, including entire bibliography. No separate numbered endnotes. Author-uploaded HTML with page markers; no PDF visual inspection. Web text ends at Zhu2013 reference; subsequent ResearchGate recommendation/citation material excluded.",
+    "publication_year": 2021,
+    "online_publication": "2020-12",
+    "author_upload_date": "2021-12-07",
+    "local_web_capture": "/Users/jorsc/.codex/.chatgpt-projects/g-p-6a94dd290a988191911d85ae8fe94a6c/tmp/pdfs/research-2026-09-10/india/cabestan-web-capture.json",
+    "capture_sha256": "2e2028b73705c6a70228e3b7604ce99a77513f871db058239226523473a33c15",
+    "capture_format": "Four overlapping web-tool text captures, not original publisher HTML/PDF bytes. Direct HTML download returned403.",
+    "rights_handling": "No full text checked intoGit; memo is original critical analysis with short attributed summary."
+  },
+  "primary_audits": [
+    {
+      "file": "cab-nsc-2013",
+      "url": "https://cpc.people.com.cn/n/2013/1112/c368480-23518979.html",
+      "bytes": 28816,
+      "sha256": "0eb8d4d655e7bdeac46e1c033e6dbb497d45252647ea29be0eb837516f3f8655",
+      "text_chars": 1074,
+      "read_scope": "Complete one-paragraph contemporaneous plenum excerpt; not entire plenum communiqué. Original GB18030 decoded correctly.",
+      "local_snapshot": "/Users/jorsc/.codex/.chatgpt-projects/g-p-6a94dd290a988191911d85ae8fe94a6c/tmp/pdfs/research-2026-09-10/india/cab-nsc-2013.html"
+    },
+    {
+      "file": "cab-nsc-2014-jan",
+      "url": "https://www.xinhuanet.com/politics/2014-01/24/c_119122483.htm",
+      "bytes": 31389,
+      "sha256": "22d86fda1450ec164c1f293732a03c56b31c78b566f0d95ee25601fc2b6eb05f",
+      "text_chars": 2173,
+      "read_scope": "Complete substantive Xinhua article; NSC paragraph is the evidentiary focus.",
+      "local_snapshot": "/Users/jorsc/.codex/.chatgpt-projects/g-p-6a94dd290a988191911d85ae8fe94a6c/tmp/pdfs/research-2026-09-10/india/cab-nsc-2014-jan.html"
+    },
+    {
+      "file": "cab-nsc-2014-apr",
+      "url": "https://www.hunan.gov.cn/topic/zgmhnm/zyjs49752/zyjc/201404/t20140416_1068997.html",
+      "error": "<urlopen error [SSL: BAD_ECPOINT] bad ecpoint (_ssl.c:1129)>",
+      "read_scope": "Complete substantive article read through web; direct archival download failed SSL.",
+      "local_snapshot": null
+    },
+    {
+      "file": "cab-cyber-2014",
+      "url": "https://www.cac.gov.cn/2014-02/28/c_126397488.htm",
+      "error": "<urlopen error _ssl.c:1112: The handshake operation timed out>",
+      "read_scope": "Complete substantive article read through web; direct archival download timed out.",
+      "local_snapshot": null
+    },
+    {
+      "file": "cab-reform-2018",
+      "url": "https://www.cac.gov.cn/2018-03/21/c_1122571024.htm",
+      "bytes": 70957,
+      "sha256": "1032cdf51fd8581cf26d72416d1c952b661b24cdfe203360d7d8517c80be62fa",
+      "text_chars": 19584,
+      "read_scope": "Only sections IV, XVII, XXXVIII read; not whole reform plan.",
+      "local_snapshot": "/Users/jorsc/.codex/.chatgpt-projects/g-p-6a94dd290a988191911d85ae8fe94a6c/tmp/pdfs/research-2026-09-10/india/cab-reform-2018.html"
+    },
+    {
+      "file": "cab-fac-2018",
+      "url": "http://www.xinhuanet.com/politics/leaders/2018-05/15/c_1122836914.htm",
+      "bytes": 16054,
+      "sha256": "8383f7331d3bb46a9750e0c22fdd9d46479d88ba1e82a095ff7ef2b2c8556328",
+      "text_chars": 1792,
+      "read_scope": "Complete substantive Xinhua article read.",
+      "local_snapshot": "/Users/jorsc/.codex/.chatgpt-projects/g-p-6a94dd290a988191911d85ae8fe94a6c/tmp/pdfs/research-2026-09-10/india/cab-fac-2018.html"
+    },
+    {
+      "file": "cab-cyber-first-meeting",
+      "url": "https://www.cac.gov.cn/2014-02/27/c_133148354.htm",
+      "read_scope": "Complete substantive article through web",
+      "local_snapshot": null
+    },
+    {
+      "file": "finkelstein-2015",
+      "url": "https://www.brookings.edu/wp-content/uploads/2015/02/20150227_china_japan_transcript.pdf",
+      "read_scope": "Cover and contents; printed p.22 Finkelstein NSC answer and adjoining context. Not full46-page transcript.",
+      "local_snapshot": "/Users/jorsc/.codex/.chatgpt-projects/g-p-6a94dd290a988191911d85ae8fe94a6c/tmp/pdfs/research-2026-09-10/india/finkelstein-2015.pdf",
+      "sha256": "8b40c8a70b2334be12d1e3359833dc400c02d9bc3354ff4b35e70430ec31bf4a",
+      "event_date": "2015-02-27",
+      "date_audit": "Cover says2014; recurring headers and organizer event page establish2015."
+    },
+    {
+      "file": "brookings-event",
+      "url": "https://www.brookings.edu/events/chinas-security-and-foreign-policies-comparing-american-and-japanese-perspectives/",
+      "read_scope": "Event date, agenda and organizer description; media not played."
+    }
+  ],
+  "article_claim_audit": [
+    {
+      "locator": "pp.320,331–333",
+      "object": "Integrated fragmentation",
+      "classification": "Institutional hypothesis",
+      "use": "Generate alternative mechanisms; distinguish coordination intention from measured effectiveness."
+    },
+    {
+      "locator": "p.323",
+      "object": "May2019 deciding body",
+      "classification": "Attributed reporting, acknowledged uncertainty",
+      "use": "No independent identification of individual votes or factional veto."
+    },
+    {
+      "locator": "pp.324–326",
+      "object": "Membership, frequency, office influence",
+      "classification": "Mix of announcements, reporting and explicit inference",
+      "use": "Do not assign equal confidence to all nodes of an organization chart."
+    },
+    {
+      "locator": "pp.327,332",
+      "object": "Military information and autonomy",
+      "classification": "Hypothesis requiring decision-level tracing",
+      "use": "Check what reached civilian principals and how it changed a specific choice."
+    },
+    {
+      "locator": "p.325; bibliography p.333",
+      "object": "NSC60/40 allocation",
+      "classification": "Traceable attributed expectation",
+      "use": "Original Finkelstein answer read; not administrative time-use data."
+    },
+    {
+      "locator": "p.322",
+      "object": "NSC and cyber institutional dates",
+      "classification": "Primary timeline audit required",
+      "use": "Use separately dated decision, organization and first meeting rather than a single ambiguous establishment date."
+    }
+  ],
+  "next_reads_not_claimed_complete": [
+    {
+      "source": "Nakazawa2019 original Nikkei account",
+      "purpose": "Verify May2019 evidentiary basis and independence from existing trade-reporting chain."
+    },
+    {
+      "source": "Wuthnow2017, China’s new black box",
+      "purpose": "Inspect NSC evidence and stated uncertainty; not read anew in this subtask."
+    },
+    {
+      "source": "Saunders and Wuthnow2019, pp.519–555",
+      "purpose": "Test information-sharing and military-control mechanisms; not read anew in this subtask."
+    },
+    {
+      "source": "Lampton2015, Xi Jinping and the NSC",
+      "purpose": "Reconstruct institutional origins and coalition explanations; not read in this subtask."
+    }
+  ],
+  "proposition_links": [
+    "S-C09",
+    "S-C10",
+    "S-C11",
+    "S-C12",
+    "S-C19",
+    "S-P24"
+  ],
+  "limits": [
+    "Article is a pre2021 institutional account, not a current2026 personnel roster.",
+    "Complete bibliography reading does not imply full reading of cited publications.",
+    "No new Chinese internal minutes, mandates, or first-hand elite interviews acquired."
+  ]
+}

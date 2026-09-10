@@ -1,5 +1,7 @@
 # Phase One after signature: implementation becomes another negotiation
 
+**Follow-up, 10 September:** the [financial-access case](financial-access-implementation.md) and [biotechnology case](agricultural-approvals-implementation.md) now reconstruct decisions behind two implementation sequences; the latter includes FOIA-released USDA correspondence. See the [comparative reassessment](implementation-and-major-power-reassessment.md).
+
 Research date: 8 September 2026. This is a bounded process study, with a latest substantively examined public statement dated **2 July 2026**. It does not establish a complete 2026 chronology or a final disposition of the renewed US investigation. The [source register](../sources/phase-one-implementation-register.json) records exact reading coverage, versions, and limitations. Most recent statements are negotiating parties’ accounts, not independently verified implementation records.
 
 The provisional finding is **continuity in bargaining over reciprocal conditions, combined with much more elaborate legal and administrative machinery than Solomon’s principal historical cases**. Signature did not end bargaining: implementation reviews, licensing decisions, purchases, tariff relief, and later investigations became connected negotiating arenas. This does not show a timeless Chinese propensity to evade agreements. Outcomes vary within the same agreement; US objectives and instruments also changed.
