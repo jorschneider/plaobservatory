@@ -11,7 +11,7 @@ import caseIndex from "../../research/military-robotics/case-index.json";
 import collection from "../../research/autonomy/questions.json";
 
 // Sourcebooks are pinned to the reviewed research edition.
-const repository = "https://github.com/jorschneider/plaobservatory/blob/d308b3e3602dd514ac626f9f3427f12580a33acb/research/";
+const repository = "https://github.com/jorschneider/plaobservatory/blob/3e922b221409cfeb4f47b143f4fa8d0b6c77f8e2/research/";
 const sourcebook = (path: string, directory = "") => new URL(path, `${repository}${directory}`).href;
 const titleCase = (text: string) => text.charAt(0).toUpperCase() + text.slice(1);
 const domains = [...new Set(caseIndex.cases.map((item) => item.domain))];
@@ -19,6 +19,7 @@ const readings = [
   { title: "Civilian industrial base", path: "military-robotics/civilian-base.md", question: "What do production, installations and supplier sourcing actually measure?" },
   { title: "What civilian robotics makes reusable", path: "military-robotics/civilian-reuse.md", question: "Which components, software and engineering experience can another organization draw on?" },
   { title: "Adoption and business models", path: "military-robotics/adoption-routes.md", question: "How do different buying and development routes shape who creates and captures value?" },
+  { title: "The customer’s operating capability", path: "military-robotics/customer-capability.md", question: "How do users build the skills to operate, integrate and maintain robots?" },
   { title: "Doctrine", path: "autonomy/doctrine.md", question: "What do the different sources say about human and machine authority?" },
   { title: "Institutions", path: "military-robotics/institutions.md", question: "Which organizations research, coordinate, finance and develop systems?" },
   { title: "Autonomy stack", path: "autonomy/stack.md", question: "Which functions and dependencies make a useful system?" },
@@ -65,14 +66,14 @@ export default function Research() {
         <h2 id="research-title">Connect doctrine, institutions and documented systems</h2>
         <p>Compare {caseIndex.cases.length} selected cases, follow their sourcebooks, and review {collection.questions.length} collection questions.</p>
       </div>
-      <Button asChild variant="outline"><a href={sourcebook("military-robotics/README.md")} target="_blank" rel="noreferrer">Read the full brief <ArrowUpRight aria-hidden="true" /></a></Button>
+      <Button asChild variant="outline"><a href={sourcebook("military-robotics/assessment.md")} target="_blank" rel="noreferrer">Start with the assessment <ArrowUpRight aria-hidden="true" /></a></Button>
     </div>
     <p className="eco-meta">Selected military, development and civilian comparison cases. This is not a fleet inventory or a common maturity ranking.</p>
 
     <section aria-labelledby="research-judgments-title">
       <h3 id="research-judgments-title">Three working judgments</h3>
       <div className="eco-collection">
-        <article><h4>Human responsibility leaves several choices open</h4><p>Track who is accountable, which people can decide, what machines may do and when supervision occurs. Organizational proposals, unit training and system requirements provide different evidence about those choices.</p><a href={sourcebook("military-robotics/README.md#what-the-cases-show")} target="_blank" rel="noreferrer">Read the doctrine interpretation <ArrowUpRight aria-hidden="true" /></a></article>
+        <article><h4>Autonomy also changes the customer</h4><p>Military organizations develop operators, maintainers and internal software teams alongside unmanned equipment. Human responsibility, delegated authority and machine functions can change separately; the customer’s skills affect what suppliers contribute.</p><a href={sourcebook("military-robotics/assessment.md#the-public-autonomy-agenda-is-also-an-organizational-agenda")} target="_blank" rel="noreferrer">Read the organizational assessment <ArrowUpRight aria-hidden="true" /></a></article>
         <article><h4>Civilian capabilities enter through several routes</h4><p>Existing components, tools and integration experience give downstream organizations resources to draw on. Research reuse, commercial purchasing and factory integration establish different relationships; their cost advantages require separate measurement.</p><a href={sourcebook("military-robotics/adoption-routes.md")} target="_blank" rel="noreferrer">Compare adoption routes <ArrowUpRight aria-hidden="true" /></a></article>
         <article><h4>Product growth can diverge from defense demand</h4><p>Deepinfar&apos;s underwater-system product revenue rose from 2023 to 2025 while its disclosed defense-customer revenue fell. Product categories and customer mix change the meaning of growth.</p><a href={sourcebook("military-robotics/scale.md")} target="_blank" rel="noreferrer">Examine the revenue evidence <ArrowUpRight aria-hidden="true" /></a></article>
       </div>
