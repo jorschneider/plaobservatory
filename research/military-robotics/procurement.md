@@ -1,22 +1,73 @@
-# Procurement and qualification: a named transaction and a governance boundary
+# Procurement: commercial products, operated services and failed packages
 
-Reviewed 15 September 2026. This adds a public buying record to the platform and institutional maps. A procurement project can reveal competition even when it does not reveal a model or its operating autonomy.
+Reviewed 15 September 2026. These records connect named suppliers, quote denominators and hardware quantities to the military-robotics map. It establishes **one matched primary notice/correction sequence and two substantive primary result records with incomplete earlier trails**. It does not establish three complete acquisition histories.
 
-## P01 — Emergency UAV procurement: provisional selections and a failed package
+The strongest new hardware finding is a public-health support package listing two named practice UAV models. The strongest service finding is a rental whose initial supplier withdrew. Neither is a fleet census. In all three cases the buyer's exact institutional name is withheld; project codes and contact addresses have not been decoded.
 
-Military Procurement Network published **应急无人机采购结果公示**, project **2026-JK01-W3043（01-03）**, on **16 June 2026 at 14:03:43**, with a 16–17 June notice period. It reports competitive negotiation and provisional supplier rankings:
+## P01 — Emergency UAVs: 2026-JK01-W3043（01-03）
 
-| Package | First-ranked supplier / result | Other ranked participants |
-|---|---|---|
-| 1 | 深圳光启尖端技术有限责任公司 | 中航金城无人系统有限公司; 福建新诺机器人自动化有限公司; 清华大学天津电子信息研究院, in that order |
-| 2 | 福建新诺机器人自动化有限公司 | 西安羚控电子科技有限公司; 江苏金陵光电有限公司, in that order |
-| 3 | Failed: no supplier passed qualification/conformity review | No qualifying supplier identified |
+The full indexed result includes a supplementary section specifying provisional package amounts.
 
-The buyer is unnamed. This notice does not identify models, quantities, autonomous functions, final contracts or accepted deliveries. Candidate status is not a completed sale; the failed package does not establish a technical impossibility. Keep the named institute distinct from Tsinghua University itself. [Original notice, sections I–IV](https://www.plap.mil.cn/freecms/site/juncai/ggxx/info/2026/8a1d03399e921220019ecdfa3eae7546.html).
+| Package | First-ranked provisional supplier | Provisional amount, RMB | Other result |
+|---|---|---:|---|
+| 1 | 深圳光启尖端技术有限责任公司 | 1,618,570.82 | Three other ranked bidders |
+| 2 | 福建新诺机器人自动化有限公司 | 946,000.00 | Two other ranked bidders |
+| 3 | No qualifying supplier | — | Failed qualification/conformity review |
 
-**Access:** substantive indexed official text reviewed, including date, project identifier and rankings; direct origin retrieval timed out. No original file was archived. This is an attributed public-notice record with an access limitation.
+Other ranked candidates were 中航金城无人系统有限公司, 福建新诺机器人自动化有限公司 and 清华大学天津电子信息研究院 for package 1; 西安羚控电子科技有限公司 and 江苏金陵光电有限公司 for package 2, in the stated order. Keep the named institute distinct from Tsinghua University itself.
 
-**Analyst inference:** this is a concrete starting point for studying the supplier pool and unsuccessful buying processes alongside famous aircraft. Follow the project identifier through corrections, final results and acceptance before estimating revenue or adoption. The identifier alone is insufficient to assign a service, operating unit or location.
+These are **package-level provisional amounts**, not UAV unit prices or completed revenue. Neither models, quantities, OEMs nor automated functions are disclosed. Named supplier status does not establish manufacturing responsibility. Buyer: unnamed “我部.”
+
+**Primary source:** Military Procurement Network, [应急无人机采购结果公示(2026-JK01-W3043（01-03）)(第1、2、3包)](https://www.plap.mil.cn/freecms/site/juncai/ggxx/info/2026/8a1d03399e921220019ecdfa3eae7546.html), **16 June 2026, 14:03:43**; notice period 16–17 June. Locators: sections I–IV; **“其他补充事宜,”** first paragraph under each package. Short exact excerpt: **“第一预成交供应商，预成交金额1618570.82元”**.
+
+**Acquisition trail:** exact-ID searches found a [secondary initial-notice lead](https://boertala.hangnian.com/info-6a226f4f734f0000b00041f2.html) dated **5 June 2026**; its full text/original link remained unavailable. This date is a lead, not a primary-verified tender event. No later contract, correction or acceptance located.
+
+**What changes the assessment:** an accepted-delivery schedule identifying quantities/model; a cancellation or replacement supplier; scope clarifying what distinguishes packages.
+
+## P02 — UAV rental with pilots: 2024-JKCNEW-F3003
+
+### Matched primary sequence
+
+**1 April 2025, 16:21:19:** [无人机租赁服务项目竞争性谈判公告（2024-JKCNEW-F3003）](https://www.plap.mil.cn/freecms/site/juncai/ggxx/info/2025/8a1d04b695320c370195ef0687347f8f.html). Section III requests fixed-wing aircraft **and pilots**, with buyer-assigned flight services; planned service period is three years from signing. It sets a **RMB340,000 ceiling and 170-sortie estimated maximum**, expressly without guaranteed minimum volume, settling actual sorties. Section IV requires a civil UAV operating qualification. No aircraft model or aircraft ownership transfer appears. Exact excerpt: **“提供固定翼无人机及相应无人机飞手”**.
+
+**8 January 2026, 15:36:40:** [无人机飞行投掷租赁服务采购项目采购结果更正公告(2024-JKCNEW-F3003)(第1包)](https://www.plap.mil.cn/freecms/site/juncai/ggxx/info/2026/8a1d04059afc00c1019b9c7fc32c00f5.html?channel=e0172398-23dd-47be-a092-14c67a92bd4f&noticeType=001032). Body title: “某部无人机租赁服务项目快捷简易询价 / 结果变更公示.” Section I now sets an **85-sortie estimated maximum** and RMB340,000 budget. Section II says first candidate **珠海空飞智能科技有限公司** withdrew; **珠海翔顺智能科技有限公司** is the proposed replacement. Whole quote changes **RMB227,800 (2,680/sortie)** to **RMB242,250 (2,850/sortie)**. Notice period: 8–13 January. The final sentence makes determination conditional on no objection. Exact excerpt: **“自愿放弃该项目中标资格”**.
+
+**Interpretation:** this is a purchase of operated flight service with an observable human-labor requirement, not evidence of 85 or 170 aircraft. The replacement quote is 6.34% higher than the withdrawn quote, but no payment or completed volume is documented. Neither supplier is identified as OEM.
+
+**Sequence gap:** identical ID connects the notices, but the procurement method and sortie ceiling changed. Intermediate revisions were not retrieved. Do not apply the April terms indiscriminately to the January scope, derive an April-to-January unit-price trend, or assign an end use from the generic service description. The title's “投掷” is not enough to classify end use.
+
+**What changes the assessment:** intervening scope revision; signed service order; actual sortie settlement; evidence that flight personnel were supplied. These would turn a buying intention into measurable service consumption.
+
+## P03 — Public-health support: 2024-JQ05-W1838
+
+The provisional package identifies **北京元业恒兴国际贸易有限公司** at **RMB6,257,800**. The appended table contains:
+
+| Table row | Printed brand | Printed model | Quantity | Printed role |
+|---|---|---|---:|---|
+| 12 | 大疆 | DJI AIR 3S | 1 | Practice UAV with motion control |
+| 13 | 极飞科技 | P150 pro | 1 | Practice spraying UAV |
+| 16 | 极飞科技 | R150 | 2 | Unmanned spraying vehicle |
+
+**Primary source:** Military Procurement Network, [现场公共卫生应急处置相关模块2024-JQ05-W1838中标（成交）结果公示](https://www.plap.mil.cn/freecms/site/juncai/ggxx/info/2025/8a1d009f93e3724501942b3b3c9533c9.html), **6 January 2025, 15:01:37**; notice period 7–9 January. Locators: V, provisional supplier/quote; VI, rows 12, 13 and 16. Exact excerpt: **“练习用体感控制无人机”**.
+
+This is direct public evidence of named commercial brands within a military support procurement, mediated by a separately named supplier. It does not establish direct OEM sales, unit prices, autonomous operation or accepted delivery. The price covers a much larger public-health equipment package. “Practice” is the notice's classification, not observed training. Models and roles are transcribed as printed; product compatibility was not independently checked.
+
+**Acquisition trail:** full primary result recovered; initial notice, contract and acceptance not located. No buyer institutional name printed.
+
+**What changes the assessment:** accepted-delivery inventory, itemized prices and subsequent replacement/maintenance purchases.
+
+## Access and collection trail
+
+Access cut-off: **15 September 2026, 14:14 UTC**. Exact-ID and exact-title searches were followed by military procurement origin-page opens and bounded public downloads.
+
+For all four primary notices above, the research tool returned the **substantive indexed official article body**, not just headline snippets: titles, timestamps, identifiers, operative tables/paragraphs and closing sections were available. Direct origin opens were unreliable and public HTTP(S) downloads to PLAP timed out. No original HTML/PDF was successfully archived. The evidence is therefore attributed official indexed text, with original-server retrieval limits; it is not independent corroboration or a later-state check.
+
+The emergency initial notice remains a secondary, truncated lead. Search labels on aggregation pages were not used to assign a buyer, military service or location. Similar training notices **2026-JLXLDA-F4003** (result) and **F4004** (initial) were explicitly excluded from any joined quantity/price calculation because the identifiers differ.
+
+## Analyst consequence
+
+The analyst comparison needs three separate denominators: **hardware quantities in provisional packages, quoted service sorties, and actual accepted/settled quantities**. Track named intermediaries alongside printed brands. The new records show civil products and personnel entering public military purchasing channels, while the adoption ceiling remains precisely the public procurement stage. The next valuable collection target is an acceptance or settlement event for these IDs—not another count of tenders.
+
 
 ## A regulation announcement is an institutional anchor, not the operating rulebook
 

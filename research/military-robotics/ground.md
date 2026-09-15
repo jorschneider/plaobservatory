@@ -35,6 +35,8 @@ The company markets multiple public-safety and industrial applications. Those ma
 | A civilian team integrates a military workflow | [Naval warehouse report](../autonomy/cases/human-authority.md#case-c--naval-aviation-warehouse-human-requests-automated-bounded-replanning) explicitly describes collaboration. | Identity of the team and delivered software, with a matched operating record. |
 | Military robot rental | The previously retained PLAP lead remains inaccessible in this sweep. Secondary listings now expose a possible follow-up under project 2025-JLDJBK-F3011. | Obtain and match the original notices before recording a supplier, amount or completed service. |
 
+A further [public-health procurement record](procurement.md#p03--public-health-support-2024-jq05-w1838) prints two XAG R150 ground vehicles alongside practice UAVs in a provisional package supplied by a trading company. It adds a commercial-product route at a purchasing stage; no accepted delivery is established.
+
 These are different routes into an ecosystem, not mutually exclusive company categories. A platform company can work through an institute or integrator; the procurement record may name only a service provider.
 
 ## Access and unresolved attribution

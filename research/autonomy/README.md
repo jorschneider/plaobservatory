@@ -97,6 +97,12 @@ The [15 September military ecosystem guide](../military-robotics/README.md) adds
 
 The [institutional map](../military-robotics/institutions.md) distinguishes research mandates, academic exchange, joint laboratories, affiliation and legal ownership. The [procurement record](../military-robotics/procurement.md) retains provisional selections and a failed package. Together they broaden the evidence behind the questions below without supplying a common national software architecture. Older sources retain their original review dates.
 
+## Human authority does not determine labor intensity
+
+The [contrary cases](../military-robotics/thesis-tests.md) require separating authority allocation from all-party labor, deployment repeatability and commercial value. Civilian mining provides reported repeat deployment and low direct staffing; a customer coordinates competing vendors; a PLA transport trial develops software internally and moves staff toward exception review. These observations keep deployment learning and customer control of interfaces alongside scarce-integration expertise as competing explanations. They do not establish military transfer from mining or force-wide adoption of the trial.
+
+The [scale study](../military-robotics/scale.md) likewise shows why company revenue, defense-customer revenue, sales quantities and accepted operating capacity need separate records. Concrete repeat purchases strengthen the evidence of adoption while leaving national market size unresolved.
+
 ## Turn understanding into original reporting
 
 **Follow one complete civilian workflow and one bounded authority question.** For the workflow, seek the Zeekr CTU workcell or SP Group inspection records described in the economics package. Map the robot, sensors, compute, software interfaces, integrator, human roles and accepted output. That connects supply-chain questions to evidence of useful work.

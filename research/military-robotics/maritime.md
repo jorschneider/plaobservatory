@@ -65,6 +65,10 @@ The December 18, 2020 contract announcement identifies **中国舰船研究设�
 
 **Analyst implication — inference:** A mechanism-level record can answer a question that a “civil–military fusion” label cannot: which institution supplied rights, to which enterprise, for what product scope, and with what disclosed commercial activity. This establishes a research-to-commercial transfer, with no military destination established in the reviewed record.
 
+## Sales and customer mix extend the adoption evidence
+
+The [scale study](scale.md) adds three-year product-series data, issuer-classified defense-customer revenue, repeat-purchase records and a dated shipment/recognition example. The [data panel](scale-panel.json) preserves these different scopes. This goes beyond the merged main-customer cells discussed above: named scientific and anonymized defense customers have separately disclosed repeat-purchase records. It does not assign all Haiyi sales to a military destination or turn cumulative accessory-inclusive quantities into a fleet count.
+
 ## Collection priorities that would change the assessment
 
 1. **Resolve military identities with documents:** model-specific acceptance, purchaser or developer announcements that connect an observed identifier to a legal supplier. Preserve official service claims meanwhile.

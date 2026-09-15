@@ -25,9 +25,10 @@
           "cases/human-authority.md",
           "cases/ehang-operations.md",
           "../military-robotics/air.md",
-          "../military-robotics/maritime.md"
+          "../military-robotics/maritime.md",
+          "../military-robotics/thesis-tests.md"
         ],
-        "finding": "Earlier cases identify remote control, task entry and requested modes. CH-4’s civilian customer reports ground-station takeoff/return commands; Zhuhai Yun’s operating institute supplies crew and survey managers. These add system-specific human roles, without a universal PLA authority rule or tested override."
+        "finding": "Earlier cases identify remote control, task entry and requested modes. CH-4’s civilian customer reports ground-station takeoff/return commands; Zhuhai Yun’s operating institute supplies crew and survey managers. These add system-specific human roles, without a universal PLA authority rule or tested override. A reported Air Force transport-scheduling trial shifts people toward exception review; its observed simulation does not establish an adopted authority rule."
       }
     },
     {
@@ -81,9 +82,11 @@
           "cases/human-authority.md",
           "cases/ehang-operations.md",
           "../military-robotics/air.md",
-          "../military-robotics/maritime.md"
+          "../military-robotics/maritime.md",
+          "../military-robotics/thesis-tests.md",
+          "../military-robotics/procurement.md"
         ],
-        "finding": "Concrete jobs now include military aircraft assembly/maintenance/test work, civilian ground-station commands and research-vessel crew/operations. Retained work is observable; matched task, person-hour, intervention and cost records remain absent."
+        "finding": "Concrete jobs now include military aircraft assembly/maintenance/test work, civilian ground-station commands and research-vessel crew/operations. Retained work is observable; matched task, person-hour, intervention and cost records remain absent. EACON reports a named quarry with 23 autonomous trucks and two on-site staff per shift, but off-site and customer work remain outside that count. A military rental notice explicitly buys aircraft plus pilots."
       }
     },
     {
@@ -103,12 +106,13 @@
       "alternativeExplanation": "A favorable demonstration may omit cooling, charging, difficult inputs or recovery time.",
       "progress": {
         "state": "Partially answered",
-        "reviewedAt": "2026-09-10",
+        "reviewedAt": "2026-09-15",
         "casePaths": [
           "cases/ehang-operations.md",
-          "cases/unitree-dependencies.md"
+          "cases/unitree-dependencies.md",
+          "../military-robotics/thesis-tests.md"
         ],
-        "finding": "Cooling support and configuration distinctions expose why autonomy performance depends on the surrounding system. No matched independent field envelope established."
+        "finding": "Cooling support and configuration distinctions expose why autonomy performance depends on the surrounding system. No matched independent field envelope established. EACON reports an initial quarry fleet operating for more than 23 months; this is positive deployment-history evidence without a matched independent operating-envelope evaluation."
       }
     },
     {
@@ -137,9 +141,10 @@
           "cases/human-authority.md",
           "cases/ownership-and-software.md",
           "../military-robotics/maritime.md",
-          "../military-robotics/institutions.md"
+          "../military-robotics/institutions.md",
+          "../military-robotics/thesis-tests.md"
         ],
-        "finding": "The naval warehouse collaboration and Jingpin software progress are supplemented by Zhuhai Yun’s separately named owner, designer, builder, supplier and operating institute. Joint-laboratory governance identifies institutional bridges; neither supplies repeat-deployment engineering costs or complete IP ownership."
+        "finding": "The naval warehouse collaboration and Jingpin software progress are supplemented by Zhuhai Yun’s separately named owner, designer, builder, supplier and operating institute. Joint-laboratory governance identifies institutional bridges; neither supplies repeat-deployment engineering costs or complete IP ownership. Baishihu reports customer-led interoperability across three vendors, and a PLA transport trial reports internal software development. Retained integration work does not identify which organization captures its value."
       }
     },
     {
@@ -165,9 +170,10 @@
           "cases/ownership-and-software.md",
           "../military-robotics/ground.md",
           "../military-robotics/maritime.md",
-          "../military-robotics/institutions.md"
+          "../military-robotics/institutions.md",
+          "../military-robotics/procurement.md"
         ],
-        "finding": "Five Eight claims a military robot-wolf platform contribution; warehouse reporting identifies civilian collaboration. Haiyi’s disclosed license/IP sale establishes a bounded research-to-commercial mechanism, with no military destination established. NUDT’s private-firm exhibition establishes contact only. Exact shared military/civilian software or accepted transferred autonomy remains unresolved."
+        "finding": "Five Eight claims a military robot-wolf platform contribution; warehouse reporting identifies civilian collaboration. Haiyi’s disclosed license/IP sale establishes a bounded research-to-commercial mechanism, with no military destination established. NUDT’s private-firm exhibition establishes contact only. Exact shared military/civilian software or accepted transferred autonomy remains unresolved. A provisional military public-health package lists DJI/XAG models through a trading supplier: concrete commercial-product procurement evidence, with acceptance and autonomy functions unverified."
       }
     },
     {
@@ -192,9 +198,10 @@
           "cases/ehang-operations.md",
           "../military-robotics/procurement.md",
           "../military-robotics/air.md",
-          "../military-robotics/maritime.md"
+          "../military-robotics/maritime.md",
+          "../military-robotics/scale.md"
         ],
-        "finding": "Prior training-standard and procurement-intent records are joined by CH-4 aircraft-specific qualification reporting, Zhuhai Yun’s reported classification/trials, and a UAV provisional selection with a failed package. Original model-specific acceptance records remain missing; the equipment-research regulation was reviewed only through its promulgation announcement."
+        "finding": "Prior training-standard and procurement-intent records are joined by CH-4 aircraft-specific qualification reporting, Zhuhai Yun’s reported classification/trials, and a UAV provisional selection with a failed package. Original model-specific acceptance records remain missing; the equipment-research regulation was reviewed only through its promulgation announcement. Issuer recognition policies and a glider shipment-to-recognition example distinguish accepted business from shipping and routine operation; they are not system-specific autonomy acceptance tests."
       }
     },
     {
