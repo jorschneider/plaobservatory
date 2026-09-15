@@ -1,0 +1,46 @@
+{
+  "id": "SYNTHETIC-ARITHMETIC-ONLY",
+  "kind": "scenario",
+  "mode": "service",
+  "scope": {
+    "robotModel": "Imaginary robot; no company estimate",
+    "revision": "Fictional revision A",
+    "customer": "Fictional customer",
+    "site": "Fictional workcell",
+    "robotPool": "One imaginary robot",
+    "task": "One imaginary transfer",
+    "acceptanceRule": "One unique item accepted undamaged at its specified station by the end of this period",
+    "periodStart": "2026-01-01",
+    "periodEnd": "2026-01-02",
+    "currency": "TEST_UNITS (fictional currency)",
+    "taxTreatment": "No tax in synthetic arithmetic",
+    "costBoundary": "Complete fictional customer workflow including human assistance and fallback; no financing"
+  },
+  "scopeReference": "All values are deliberately invented round numbers to demonstrate arithmetic; no company, task performance or price estimate.",
+  "robotCount": {"value":1,"basis":"assumed","reference":"One imaginary robot"},
+  "outcomes": {
+    "demanded": {"value":100,"basis":"assumed","reference":"Synthetic closed cohort"},
+    "accepted_unassisted": {"value":60,"basis":"assumed","reference":"Synthetic unique tasks"},
+    "accepted_assisted": {"value":20,"basis":"assumed","reference":"Synthetic unique tasks"},
+    "accepted_manual": {"value":10,"basis":"assumed","reference":"Synthetic fallback tasks; labor included"},
+    "failed": {"value":5,"basis":"assumed","reference":"Synthetic known failures"},
+    "unresolved": {"value":5,"basis":"assumed","reference":"Synthetic unresolved tasks"}
+  },
+  "time": {
+    "scheduled": {"value":10,"basis":"assumed","reference":"Synthetic robot-hours"},
+    "active": {"value":6,"basis":"assumed","reference":"Synthetic robot-hours"},
+    "idle": {"value":1,"basis":"assumed","reference":"Synthetic robot-hours"},
+    "charging": {"value":1,"basis":"assumed","reference":"Synthetic robot-hours"},
+    "planned_maintenance": {"value":1,"basis":"assumed","reference":"Synthetic robot-hours"},
+    "unplanned_downtime": {"value":1,"basis":"assumed","reference":"Synthetic robot-hours"}
+  },
+  "costs": [
+    {"category":"equipment_or_service","state":"known","value":100,"basis":"assumed","reference":"Synthetic period service fee, no other categories bundled"},
+    {"category":"integration","state":"known","value":20,"basis":"assumed","reference":"Synthetic period allocation; not upfront cash plus allocation"},
+    {"category":"labor","state":"known","value":50,"basis":"assumed","reference":"Synthetic complete period labor including supervision, recovery and fallback"},
+    {"category":"maintenance","state":"known","value":10,"basis":"assumed","reference":"Synthetic parts only; labor already in labor line"},
+    {"category":"energy","state":"known","value":5,"basis":"assumed","reference":"Synthetic period energy"},
+    {"category":"software_connectivity","state":"known","value":5,"basis":"assumed","reference":"Synthetic period software and connectivity"},
+    {"category":"other","state":"known","value":10,"basis":"assumed","reference":"Synthetic remaining attributable costs"}
+  ]
+}

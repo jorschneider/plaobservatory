@@ -1,0 +1,257 @@
+{
+  "reviewedAt": "2026-09-15",
+  "status": "Open collection questions with bounded progress from worked cases and military-domain research; no outreach sent",
+  "questions": [
+    {
+      "id": "AQ01",
+      "question": "What authority is actually delegated for a named autonomous function?",
+      "doctrineIds": [
+        "D03",
+        "D04",
+        "D07",
+        "D08",
+        "D10",
+        "D11"
+      ],
+      "stackIds": [
+        "AS03",
+        "AS09"
+      ],
+      "request": "Named system's final operating rule, human role/authority assignments, training record and acceptance result specifying authorization, supervision, intervention, override and responsibility; distinguish requested arrangements from implemented ones.",
+      "wouldChange": "Separate responsibility, delegation among people, delegation to machines and the timing of supervision; test which arrangements were implemented.",
+      "alternativeExplanation": "Human-control commitments permit different human hierarchies and supervision schedules; independent planning by a human unit leader is not machine autonomy.",
+      "progress": {
+        "state": "Partially answered",
+        "reviewedAt": "2026-09-15",
+        "casePaths": [
+          "doctrine.md#three-organization-and-training-records-added-on-15-september",
+          "cases/human-authority.md",
+          "cases/ehang-operations.md",
+          "../military-robotics/air.md",
+          "../military-robotics/maritime.md",
+          "../military-robotics/thesis-tests.md",
+          "../military-robotics/assurance.md"
+        ],
+        "finding": "Support and civilian comparison cases identify task entry, ground commands, exception review and operating personnel. D10 adds a signed organizational proposal; D11 reports authority delegated to junior human leaders in unit training. These are distinct from machine permissions and force-wide rules. Final civil conditions for the Wing Loong-2 meteorological model specify operator workload, automatic-flight interruption and control handover. System-specific PLA acceptance results and tested override remain unresolved."
+      }
+    },
+    {
+      "id": "AQ02",
+      "question": "Which external dependencies are present in the customer's actual configuration?",
+      "doctrineIds": [
+        "D05"
+      ],
+      "stackIds": [
+        "AS02",
+        "AS03",
+        "AS04",
+        "AS05"
+      ],
+      "request": "Purchased configuration and firmware inventory, locked environment for one result, and a migration record with engineering time, retraining, regressions and qualification.",
+      "wouldChange": "Identify a concrete dependency and switching burden without treating nationality as a complete stack description.",
+      "alternativeExplanation": "A public research repository may not be the shipping controller; an optional processor is not installed in every model.",
+      "progress": {
+        "state": "Partially answered",
+        "reviewedAt": "2026-09-15",
+        "casePaths": [
+          "cases/unitree-dependencies.md",
+          "../military-robotics/lineage.md",
+          "stack.md",
+          "../military-robotics/civilian-base.md#unitree-specify-the-production-boundary-behind-vertical-integration"
+        ],
+        "finding": "Six official Unitree repositories inspected at pinned commits; dependencies, binary boundaries and alternative interfaces/simulators identified. Shipping configuration and switching cost remain unverified. Named civilian software and a commercial sensor are documented in military-university research. Exact historical software commits and operating military configurations remain unknown. Shenzhen’s 2026 plan calls for ROS toolkit migration; completed substitutions and switching costs are not established."
+      }
+    },
+    {
+      "id": "AQ03",
+      "question": "How much human work remains per accepted task?",
+      "doctrineIds": [
+        "D06",
+        "D07"
+      ],
+      "stackIds": [
+        "AS06",
+        "AS08",
+        "AS09"
+      ],
+      "economicsIds": [
+        "TE-BYD-S1",
+        "TE-ZEEKR-SLITE",
+        "TE-SP-X30"
+      ],
+      "request": "Matched accepted-task, intervention and person-hour logs; separate training, commissioning, live control, recovery, ground support and fallback.",
+      "wouldChange": "Calculate bounded workflow economics and characterize the actual division of work.",
+      "alternativeExplanation": "Labor may move to integration or recovery rather than disappear; data-collection teleoperation does not imply live teleoperation.",
+      "progress": {
+        "state": "Partially answered",
+        "reviewedAt": "2026-09-15",
+        "casePaths": [
+          "cases/human-authority.md",
+          "cases/ehang-operations.md",
+          "../military-robotics/air.md",
+          "../military-robotics/maritime.md",
+          "../military-robotics/thesis-tests.md",
+          "../military-robotics/procurement.md",
+          "../military-robotics/hospital-logistics.md",
+          "../military-robotics/customer-capability.md"
+        ],
+        "finding": "Military aircraft, warehouse and maritime records identify operators, maintainers and other support work. EACON adds a bounded on-site staffing observation, with off-site and customer work outside the count; a military rental notice requests aircraft plus pilots. Hospital delivery separates staff handoffs from automated movement. The historical hospital ledger adds a modeled recurring saving, with corrected arithmetic, but omits capital recovery and some work and has no matching accepted-task denominator. Military personnel records show that users can build skills and absorb repair work; they measure neither all-party labor savings nor force-wide coverage."
+      }
+    },
+    {
+      "id": "AQ04",
+      "question": "Does performance survive the stated operating envelope?",
+      "doctrineIds": [
+        "D08"
+      ],
+      "stackIds": [
+        "AS01",
+        "AS02",
+        "AS05",
+        "AS07"
+      ],
+      "request": "Civilian field results with version, load/posture, temperature, duration, sensor/compute configuration, support infrastructure, failures and accepted outputs.",
+      "wouldChange": "Separate laboratory or peak capability from repeatable use under customer conditions.",
+      "alternativeExplanation": "A favorable demonstration may omit cooling, charging, difficult inputs or recovery time.",
+      "progress": {
+        "state": "Partially answered",
+        "reviewedAt": "2026-09-15",
+        "casePaths": [
+          "cases/ehang-operations.md",
+          "cases/unitree-dependencies.md",
+          "../military-robotics/thesis-tests.md"
+        ],
+        "finding": "Cooling support and configuration distinctions expose why autonomy performance depends on the surrounding system. No matched independent field envelope established. EACON reports an initial quarry fleet operating for more than 23 months; this is positive deployment-history evidence without a matched independent operating-envelope evaluation."
+      }
+    },
+    {
+      "id": "AQ05",
+      "question": "Who creates and owns the integration that makes the workflow useful?",
+      "doctrineIds": [
+        "D05",
+        "D08"
+      ],
+      "stackIds": [
+        "AS03",
+        "AS08",
+        "AS09"
+      ],
+      "economicsIds": [
+        "TE-SP-X30",
+        "TE-ZEEKR-SLITE"
+      ],
+      "request": "Compare successive deployments of the same product generation: inherited artifacts, new work, responsible organization, commissioning and site-readiness milestones, acceptance and all-party costs. Obtain the integrator/customer scope and support contract.",
+      "wouldChange": "Attribute value and recurring work across OEM, integrator, software provider and customer.",
+      "alternativeExplanation": "A successful deployment may depend on extensive site-specific engineering rather than a general-purpose model.",
+      "progress": {
+        "state": "Partially answered",
+        "reviewedAt": "2026-09-15",
+        "casePaths": [
+          "cases/human-authority.md",
+          "cases/ownership-and-software.md",
+          "../military-robotics/maritime.md",
+          "../military-robotics/institutions.md",
+          "../military-robotics/thesis-tests.md",
+          "../military-robotics/lineage.md",
+          "../military-robotics/defense-production.md",
+          "../military-robotics/adoption-routes.md",
+          "../military-robotics/civilian-deployment.md",
+          "../military-robotics/hospital-logistics.md",
+          "../military-robotics/customer-capability.md"
+        ],
+        "finding": "The warehouse collaboration, named Zhuhai Yun participants and joint-laboratory governance identify distinct contributors. Consys ground-computing arrangements and Rifa’s factory project add supplied products and joint implementation. Baishihu’s customer-led interoperability and internal PLA software development show integration knowledge accumulating with users. EACON’s Australian project exposes local readiness work around a reused product; hospital suppliers expose separate brand, seller, partner and support roles. The new hospital project history supplies participant-attributed development workshare and funding acknowledgment. Military repair training provides a separate route for users to absorb expertise. These records identify contributions without establishing complete IP ownership, integration margins, or a measured decline in total work."
+      }
+    },
+    {
+      "id": "AQ06",
+      "question": "What specific artifact or capability crossed the civil–military boundary?",
+      "doctrineIds": [
+        "D05"
+      ],
+      "stackIds": [
+        "AS01",
+        "AS03",
+        "AS06",
+        "AS09"
+      ],
+      "request": "Connect named research artifacts to an integrated military product using versioned evidence, distribution or contracting mechanism and acceptance. For a reuse claim, compare work inherited with new engineering and qualification work; distinguish research use from direct supply.",
+      "wouldChange": "Promote a technical-relevance hypothesis into a bounded relationship; operating capability still requires separate evidence.",
+      "alternativeExplanation": "Research reuse can save some development work while leaving substantial integration; shared technologies or institutional contact alone do not establish a transfer relationship.",
+      "progress": {
+        "state": "Partially answered",
+        "reviewedAt": "2026-09-15",
+        "casePaths": [
+          "cases/human-authority.md",
+          "cases/ownership-and-software.md",
+          "../military-robotics/ground.md",
+          "../military-robotics/maritime.md",
+          "../military-robotics/institutions.md",
+          "../military-robotics/procurement.md",
+          "../military-robotics/lineage.md",
+          "../military-robotics/defense-production.md",
+          "../military-robotics/adoption-routes.md",
+          "../military-robotics/civilian-reuse.md"
+        ],
+        "finding": "Five Eight claims a military robot-wolf platform contribution; warehouse reporting identifies civilian collaboration. Haiyi’s disclosed license/IP sale establishes a bounded research-to-commercial mechanism, with no military destination established. NUDT’s private-firm exhibition establishes contact only. Exact shared shipping military/civilian software or accepted transferred autonomy remains unresolved. A provisional military public-health package lists DJI/XAG models through a trading supplier: concrete commercial-product procurement evidence, with acceptance and autonomy functions unverified. Research-stage software evaluation and commercial-component use are now explicit. Those links establish neither direct vendor military contracts nor accepted fielded software; the separate Consys procurement case does not prove civilian technology origin. Rifa’s Hanzhong assembly-system case establishes a historical commercial-supplier connection to military production, with named factory software at the award stage. Its later staged-acceptance report does not verify that software configuration or an airborne-autonomy transfer."
+      }
+    },
+    {
+      "id": "AQ07",
+      "question": "Which claims are backed by a formal requirement and which by actual testing?",
+      "doctrineIds": [
+        "D02",
+        "D04",
+        "D08"
+      ],
+      "stackIds": [
+        "AS10"
+      ],
+      "request": "Operator-specific approved program/permissions or final procurement specification, plus separate configuration-specific test and acceptance records.",
+      "wouldChange": "Distinguish an authoritative rule, a draft, a participant list and tested conformity.",
+      "alternativeExplanation": "A standard's existence or a company's drafting participation does not establish conformity.",
+      "progress": {
+        "state": "Partially answered",
+        "reviewedAt": "2026-09-15",
+        "casePaths": [
+          "cases/human-authority.md",
+          "cases/ehang-operations.md",
+          "../military-robotics/procurement.md",
+          "../military-robotics/air.md",
+          "../military-robotics/maritime.md",
+          "../military-robotics/scale.md",
+          "../military-robotics/assurance.md",
+          "../military-robotics/lineage.md",
+          "../military-robotics/adoption-governance.md",
+          "../military-robotics/customer-capability.md"
+        ],
+        "finding": "Prior training-standard and procurement-intent records are joined by CH-4 aircraft-specific qualification reporting, Zhuhai Yun’s reported classification/trials, and a UAV provisional selection with a failed package. Original model-specific acceptance records remain missing; the equipment-research regulation was reviewed only through its promulgation announcement. Issuer recognition policies and a glider shipment-to-recognition example distinguish accepted business from shipping and routine operation; they are not system-specific autonomy acceptance tests. Effective civil model-specific conditions, an issuer conformity-progress statement, military-export approval reporting and ground-equipment qualification reporting now have separate records. No original PLA function-specific acceptance result was obtained. Public equipment-quality provisions now identify software evaluation and acceptance roles; a 2026 proposed revision remains a consultation draft. A hospital-logistics tender requests prior acceptance evidence, without proving this purchase was fulfilled. Military personnel certification is now separately documented; it is not product qualification or an autonomy acceptance test."
+      }
+    },
+    {
+      "id": "AQ08",
+      "question": "Do newer learned policies reduce adaptation and recovery work at a new site?",
+      "doctrineIds": [
+        "D07",
+        "D08"
+      ],
+      "stackIds": [
+        "AS04",
+        "AS05",
+        "AS06"
+      ],
+      "request": "Held-out task/site evaluation with adaptation data, training time, human recovery, compute configuration and pre/post release comparison.",
+      "wouldChange": "Connect model progress to deployment effort and accepted output.",
+      "alternativeExplanation": "A benchmark gain can depend on extra demonstrations, a different embodiment or compute unavailable in the deployed configuration.",
+      "progress": {
+        "state": "Open",
+        "reviewedAt": "2026-09-15",
+        "casePaths": [
+          "cases/unitree-dependencies.md",
+          "../military-robotics/civilian-reuse.md#training-software-and-data-adaptation-advantage-can-be-tested",
+          "../military-robotics/civilian-deployment.md"
+        ],
+        "finding": "UniVLA reports a data-efficiency advantage on a simulated civilian benchmark, adding measured research progress to the documented development workflows. That comparison does not isolate project cost or demonstrate reduced field recovery and new-site engineering. No matched customer deployment comparison was obtained; this question remains open."
+      }
+    }
+  ]
+}

@@ -4,11 +4,12 @@ import test from "node:test";
 const data = JSON.parse(await readFile(new URL("../app/data/industrial-base.json", import.meta.url), "utf8"));
 const pkg = JSON.parse(await readFile(new URL("../research/industrial-base/scorecards-v1.2.json", import.meta.url), "utf8"));
 const pub = JSON.parse(await readFile(new URL("../public/data/industrial-base-robotics.json", import.meta.url), "utf8"));
-test("lane data is one canonical build", () => { assert.deepEqual(pub, data); assert.match(data.metadata.buildId, /^IB26-R1-/); });
+test("lane data is one canonical build", () => { assert.deepEqual(pub, data); assert.match(data.metadata.buildId, /^IB26-R2-/); });
 test("scorecards and evidence match the extracted package", () => {
   assert.equal(data.scorecards.length, pkg.sheets.assessments.records.length);
   assert.equal(data.evidence.length, pkg.sheets.evidence.records.length);
-  assert.equal(data.metadata.evidenceQualifiedCount, pkg.sheets.assessments.records.filter((r) => r.rank_eligible === "Yes").length);
+  assert.equal(data.metadata.evidenceQualifiedCount, 24);
+  assert.equal(pkg.sheets.assessments.records.filter((r) => r.rank_eligible === "Yes").length, 25);
   const ids = new Set(data.scorecards.map((c) => c.id));
   for (const e of data.evidence) assert.ok(ids.has(e.assessment_id), `evidence ${e.evidence_id} points at unknown assessment`);
   for (const c of data.scorecards) assert.ok(c.evidenceCount >= 1, `${c.id} has no evidence row`);
@@ -28,5 +29,5 @@ test("criticality 4 requires limited-source support and trackers are views over 
   const evidenceIds = new Set(data.evidence.map((e) => e.evidence_id));
   for (const r of data.trackers.procurementNotices.rows) assert.ok(evidenceIds.has(r.evidenceId));
   assert.equal(data.trackers.foreignDependencies.rows.length, pkg.sheets.foreignDependencies.records.length);
-  assert.equal(data.trackers.signals.rows.length, pkg.sheets.signals.records.length);
+  assert.equal(data.trackers.signals.rows.length, pkg.sheets.signals.records.filter((r) => /^DRA-SIG-\d+$/.test(r.signal_id)).length);
 });

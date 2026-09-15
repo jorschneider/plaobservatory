@@ -34,6 +34,8 @@ Three further trackers (the 20th Central Committee cohort, event attendance, sea
 
 ## Get the data
 
+Robotics research: start with the [industrial assessment](research/military-robotics/assessment.md) for the main findings, actor map and commercial implications. The [ecosystem guide](research/military-robotics/README.md) links military systems, institutions, civilian capabilities, procurement and operating work. [Customer capability](research/military-robotics/customer-capability.md) explains military operator/maintainer development alongside a separate hospital co-development and cost comparison. [Doctrine and autonomy](research/autonomy/README.md) distinguish authority, technical functions and deployment; the [technical map](research/autonomy/stack.md) includes pinned software dependencies and human support. [Deployment economics](research/industrial-base/task-economics/README.md) supplies four initial workcell cases, a calculation method and evidence request. The [relationship pilot](research/industrial-base/relationship-method.md) retains the wider supplier evidence and its original scorecard audit.
+
 - [Public JSON](https://pla-leadership-observatory.jordanschneider.chatgpt.site/data/pla-leadership-observatory-public.json): the full dataset, including positions, officers, claims, sources, the adverse ledger with its clock, trackers and the review log.
 - [Public CSV](https://pla-leadership-observatory.jordanschneider.chatgpt.site/data/pla-leadership-observatory-public.csv): one row per active officer.
 - [`app/data/observatory.json`](app/data/observatory.json): the same data as read by the interface.

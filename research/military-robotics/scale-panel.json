@@ -1,0 +1,375 @@
+{
+  "title": "Selected issuer evidence: revenue, product mix and recognition timing",
+  "reviewedAt": "2026-09-15",
+  "scope": "Two separately scoped issuer panels. Do not sum to a market estimate, infer a fleet, or treat company revenue as military robotics revenue.",
+  "deepinfar": {
+    "title": "Deepinfar selected maritime robotics sales panel",
+    "reviewedAt": "2026-09-15",
+    "scope": "Three named product series, 2023–2025; issuer disclosures, not market totals or military inventory.",
+    "source": {
+      "id": "DF20260515",
+      "issuer": "深之蓝海洋科技股份有限公司",
+      "title": "关于深之蓝海洋科技股份有限公司首次公开发行股票并在科创板上市申请文件的审核问询函的回复",
+      "url": "https://static.sse.com.cn/stock/disclosure/announcement/c/202605/002155_20260515_R7G5.pdf",
+      "versionDate": "2026-05-15",
+      "dateBasis": "SSE filename date",
+      "accessedAt": "2026-09-15",
+      "sha256": "94b5b2d2db87bee05a60bcc37e1ef3bfcd490330936731d2a0a3946127e06735"
+    },
+    "definitions": {
+      "revenueUnit": "CNY 10,000 (万元); multiply by 0.01 for CNY million.",
+      "productQuantityUnit": "Sets (套), retaining the issuer’s product-series denominator.",
+      "productSeriesScope": "Excludes the separately booked customized-product category and parts revenue; does not exclude customization within named series. Scope note: printed 8-1-55 / PDF p.56.",
+      "dashHandling": "Null with sourceDash=true preserves an issuer dash; no positive sales are reported in those cells. Not an independently measured zero fleet.",
+      "endUseScope": "Issuer final-use classification for each purchase; marine security (海洋安全) is not the customer-type category defense customers (国防客户).",
+      "customerTypeScope": "All ROV and autonomous-underwater-robot product revenue, including categories and parts outside the three selected series; excludes technical services and consumer propulsion products. Printed 8-1-263 / PDF p.264.",
+      "repeatPurchaseScope": "2023–2025 cumulative sales to repeated-purchase customers exceeding CNY1m ex tax; mixed source quantity units 台/个/套 retained. Not annual product-series deliveries."
+    },
+    "series": [
+      {
+        "id": "haiyi",
+        "nameZh": "海翼",
+        "nameEn": "Haiyi",
+        "productClass": "Underwater glider",
+        "locator": {
+          "printed": "8-1-72",
+          "pdfPage": 73,
+          "visualChecked": true
+        },
+        "endUseLocator": {
+          "printed": "8-1-63",
+          "pdfPage": 64,
+          "visualChecked": true
+        },
+        "years": [
+          {
+            "year": 2023,
+            "productionSets": 3,
+            "salesSets": 5,
+            "revenueWan": 272.12,
+            "marineSecurityRevenueWan": null,
+            "marineScienceRevenueWan": 272.12
+          },
+          {
+            "year": 2024,
+            "productionSets": 32,
+            "salesSets": 19,
+            "revenueWan": 1737.61,
+            "marineSecurityRevenueWan": 91.06,
+            "marineScienceRevenueWan": 1646.55
+          },
+          {
+            "year": 2025,
+            "productionSets": 19,
+            "salesSets": 24,
+            "revenueWan": 1665.13,
+            "marineSecurityRevenueWan": 123.89,
+            "marineScienceRevenueWan": 1541.24
+          }
+        ]
+      },
+      {
+        "id": "orange-shark",
+        "nameZh": "橙鲨",
+        "nameEn": "Orange Shark",
+        "productClass": "Conventional AUV",
+        "locator": {
+          "printed": "8-1-70",
+          "pdfPage": 71,
+          "visualChecked": true
+        },
+        "endUseLocator": {
+          "printed": "8-1-63",
+          "pdfPage": 64,
+          "visualChecked": true
+        },
+        "years": [
+          {
+            "year": 2023,
+            "productionSets": 7,
+            "salesSets": 4,
+            "revenueWan": 694.56,
+            "marineSecurityRevenueWan": 449.42,
+            "marineScienceRevenueWan": 245.13,
+            "roundingNote": "End-use amounts sum to 694.55 versus product revenue 694.56; CNY100 source rounding difference retained."
+          },
+          {
+            "year": 2024,
+            "productionSets": 21,
+            "salesSets": 21,
+            "revenueWan": 5732.15,
+            "marineSecurityRevenueWan": 5089.67,
+            "marineScienceRevenueWan": 642.48
+          },
+          {
+            "year": 2025,
+            "productionSets": 19,
+            "salesSets": 24,
+            "revenueWan": 5341.43,
+            "marineSecurityRevenueWan": 1686.21,
+            "marineScienceRevenueWan": 3655.22
+          }
+        ]
+      },
+      {
+        "id": "black-shark",
+        "nameZh": "黑鲨",
+        "nameEn": "Black Shark",
+        "productClass": "AUV",
+        "locator": {
+          "printed": "8-1-71",
+          "pdfPage": 72,
+          "visualChecked": true
+        },
+        "endUseLocator": {
+          "printed": "8-1-63",
+          "pdfPage": 64,
+          "visualChecked": true
+        },
+        "years": [
+          {
+            "year": 2023,
+            "productionSets": 1,
+            "salesSets": 1,
+            "revenueWan": 265.49,
+            "marineSecurityRevenueWan": 265.49,
+            "marineScienceRevenueWan": null
+          },
+          {
+            "year": 2024,
+            "productionSets": null,
+            "salesSets": null,
+            "revenueWan": null,
+            "marineSecurityRevenueWan": null,
+            "marineScienceRevenueWan": null,
+            "sourceDash": true
+          },
+          {
+            "year": 2025,
+            "productionSets": null,
+            "salesSets": null,
+            "revenueWan": null,
+            "marineSecurityRevenueWan": null,
+            "marineScienceRevenueWan": null,
+            "sourceDash": true
+          }
+        ]
+      }
+    ],
+    "customerTypePanel": [
+      {
+        "year": 2023,
+        "rovAuvRevenueWan": 13847.28,
+        "defenseCustomerRevenueWan": 6943.66,
+        "defenseCustomerSharePct": 50.14
+      },
+      {
+        "year": 2024,
+        "rovAuvRevenueWan": 16409.99,
+        "defenseCustomerRevenueWan": 4554.16,
+        "defenseCustomerSharePct": 27.75
+      },
+      {
+        "year": 2025,
+        "rovAuvRevenueWan": 23414.15,
+        "defenseCustomerRevenueWan": 2839.67,
+        "defenseCustomerSharePct": 12.13
+      }
+    ],
+    "customerTypeLocator": {
+      "printed": "8-1-263",
+      "pdfPage": 264,
+      "visualChecked": true
+    },
+    "repeatPurchases": [
+      {
+        "customer": "中国科学院南海海洋研究所",
+        "seriesId": "haiyi",
+        "revenueWan": 825.04,
+        "reportedQuantity": 12,
+        "quantityUnit": "台/个/套",
+        "attribution": "Named CAS research customer; purchases vary by use and payload.",
+        "printedPage": "8-1-269",
+        "pdfPage": 270
+      },
+      {
+        "customer": "湖南必凯智能科技有限公司",
+        "seriesId": "haiyi",
+        "revenueWan": 123.89,
+        "reportedQuantity": 3,
+        "quantityUnit": "台/个/套",
+        "attribution": "Issuer describes a sales-channel company buying after winning downstream orders; ultimate users unspecified here.",
+        "printedPage": "8-1-269",
+        "pdfPage": 270
+      },
+      {
+        "customer": "HGD",
+        "seriesId": "orange-shark",
+        "revenueWan": 1198.98,
+        "reportedQuantity": 10,
+        "quantityUnit": "台/个/套",
+        "attribution": "Issuer explicitly lists HGD under defense customers; identity remains anonymized.",
+        "printedPage": "8-1-268; 8-1-266",
+        "pdfPages": [
+          269,
+          267
+        ]
+      }
+    ],
+    "deliveryTimingExample": {
+      "customer": "ZC7K9",
+      "product": "Underwater gliders; model not named in this passage",
+      "quantity": 5,
+      "quantityUnit": "台",
+      "orderDate": "2024-09-27",
+      "shipmentDate": "2025-06-24",
+      "revenueRecognitionDate": "2025-11-24",
+      "recognizedRevenueWan": 413.27,
+      "paymentWindow": "2024-12 through 2025-02, as reported at 2026-03-31",
+      "explanation": "Issuer attributes the long acceptance interval to the customer’s overall project schedule.",
+      "printedPages": [
+        "8-1-322",
+        "8-1-323"
+      ],
+      "pdfPages": [
+        323,
+        324
+      ],
+      "visualChecked": true
+    }
+  },
+  "jingpin": {
+    "issuer": "北京晶品特装科技股份有限公司",
+    "revenueUnit": "CNY",
+    "sources": [
+      {
+        "id": "JP24",
+        "title": "2024年年度报告",
+        "publishedAt": "2025-04-29",
+        "url": "https://static.cninfo.com.cn/finalpage/2025-04-29/1223380866.PDF",
+        "downloadedCopy": "https://file.finance.sina.com.cn/211.154.219.97:9494/MRGG/CNSESH_STOCK/2025/2025-4/2025-04-29/11038471.PDF",
+        "sha256": "df92d8aa4af22fed1326026e86357e698669db52f4a31f9253e7dda97ffe99ad",
+        "visualPages": [
+          35
+        ]
+      },
+      {
+        "id": "JP25",
+        "title": "2025年年度报告",
+        "publishedAt": "2026-04-28",
+        "url": "https://static.cninfo.com.cn/finalpage/2026-04-28/1225210584.PDF",
+        "downloadedCopy": "https://pdf.dfcfw.com/pdf/H2_AN202604271821625898_1.pdf",
+        "sha256": "09dfbbaf0664a0958878b3bf762b3ac1cadebe4e69c095789d0613bff2531863",
+        "visualPages": [
+          7,
+          8,
+          32,
+          141,
+          229
+        ]
+      },
+      {
+        "id": "JP26H1",
+        "title": "2026年半年度报告",
+        "publishedAt": "2026-08-25",
+        "url": "https://static.cninfo.com.cn/finalpage/2026-08-25/1225497124.PDF",
+        "downloadedCopy": "https://file.finance.sina.com.cn/211.154.219.97:9494/MRGG/CNSESH_STOCK/2026/2026-8/2026-08-25/12523914.PDF",
+        "sha256": "ef610d2727fc610952115349948f7f4002b79665db1c8206a851523af408e493",
+        "audited": false,
+        "visualPages": [
+          6,
+          154
+        ]
+      }
+    ],
+    "consolidatedRevenue": [
+      {
+        "period": "2024",
+        "amount": 163739027.03,
+        "sourceId": "JP25",
+        "page": 7
+      },
+      {
+        "period": "2025",
+        "amount": 292331645.4,
+        "sourceId": "JP25",
+        "page": 7
+      },
+      {
+        "period": "2025-H1",
+        "amount": 76653862.19,
+        "sourceId": "JP26H1",
+        "page": 6
+      },
+      {
+        "period": "2026-H1",
+        "amount": 74203181.83,
+        "sourceId": "JP26H1",
+        "page": 6
+      }
+    ],
+    "robotCategoryRevenue": [
+      {
+        "period": "2024",
+        "scope": "consolidated",
+        "labelZh": "军用机器人",
+        "amount": 39840135.5,
+        "sourceId": "JP24",
+        "page": 35
+      },
+      {
+        "period": "2025",
+        "scope": "consolidated",
+        "labelZh": "特种机器人",
+        "amount": 140215605.81,
+        "sourceId": "JP25",
+        "page": 32
+      },
+      {
+        "period": "2025",
+        "scope": "parent_company",
+        "labelZh": "特种机器人",
+        "amount": 127553766.24,
+        "sourceId": "JP25",
+        "page": 229
+      },
+      {
+        "period": "2026-H1",
+        "scope": "consolidated",
+        "labelZh": "特种机器人",
+        "amount": 16130071.95,
+        "sourceId": "JP26H1",
+        "page": 154
+      }
+    ],
+    "quarterlyRevenue2025": [
+      {
+        "quarter": 1,
+        "amount": 26408803.6
+      },
+      {
+        "quarter": 2,
+        "amount": 50245058.59
+      },
+      {
+        "quarter": 3,
+        "amount": 135483074.38
+      },
+      {
+        "quarter": 4,
+        "amount": 80194708.83
+      }
+    ],
+    "quarterlySource": {
+      "sourceId": "JP25",
+      "page": 8,
+      "scope": "consolidated company revenue, all business"
+    },
+    "comparability": "2024 and 2025 product-category labels differ. Retain issuer-reported growth without treating the 2025 category as verified exclusively military. No annualization of half-year figures or conversion from labor-equivalent volume into robot units.",
+    "recognitionNote": {
+      "sourceId": "JP25",
+      "page": 141,
+      "finding": "One disclosed route recognizes revenue after customer-representative acceptance and designated storage at the company warehouse, before pickup. Another requires receipt confirmation. Later price-review documents can cause current-period revenue adjustments."
+    }
+  }
+}
