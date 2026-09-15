@@ -10,6 +10,8 @@ import { Select, SelectContent, SelectItem, SelectTrigger, SelectValue } from "@
 import { Table, TableBody, TableCell, TableHead, TableHeader, TableRow } from "@/components/ui/table";
 import { Tabs, TabsContent, TabsList, TabsTrigger } from "@/components/ui/tabs";
 import Ecosystem from "./ecosystem";
+import ResearchBrief from "./research";
+import researchIndex from "../../research/military-robotics/case-index.json";
 import { filterScorecards } from "./filters.mjs";
 import industrialJson from "../data/industrial-base.json";
 import { findings, framework, limits, researchQuestions } from "../data/industrial-base-assessment";
@@ -43,7 +45,7 @@ const vars = { scorecards: m.scorecardCount, evidenceQualified: m.evidenceQualif
 const progress: Record<string, string> = { procurementNotices: `${m.trackerCounts.procurementNotices} evidence rows rest on a procurement notice.`, limitedSource: `${m.trackerCounts.limitedSource} rows use limited-source language; ${data.trackers.limitedSource.criticalityFour.length} scorecard reaches criticality 4.`, identityQueue: `${m.trackerCounts.identityQueue} watchlist entities await identity resolution.`, foreignDependencies: `${m.trackerCounts.foreignDependencies} named relationships, all marked historical or bounded.`, noRecord: `${vars.noRecordNodes} of ${m.nodeCount} nodes have no imported assessment mapping.` };
 
 export default function RoboticsLane() {
-  const [tab, setTab] = useState("ecosystem");
+  const [tab, setTab] = useState("research");
   const [lane, setLane] = useState("all");
   const [tierFilter, setTierFilter] = useState("all");
   const [query, setQuery] = useState("");
@@ -56,19 +58,20 @@ export default function RoboticsLane() {
   const cardById = new Map(data.scorecards.map((c) => [c.id, c]));
 
   return (
-    <main className="site-shell">
+    <main className="site-shell robotics-lane">
       <header className="topbar">
         <Link className="brand" href="/" aria-label="Back to the leadership observatory"><span className="brand-mark" aria-hidden="true"><Network /></span><span><strong>PLA Leadership</strong><small>Observatory · Robotics lane</small></span></Link>
-        <div className="topbar-meta"><Link className="lane-link" href="/">Leadership lane <ArrowUpRight aria-hidden="true" /></Link><span className="data-cutoff"><span className="live-dot" />Cutoff {m.cutoff}</span><span className="build-id mono">{m.buildId}</span></div>
+        <div className="topbar-meta"><Link className="lane-link" href="/">Leadership lane <ArrowUpRight aria-hidden="true" /></Link><span className="data-cutoff"><span className="live-dot" />Research edition {researchIndex.date}</span><span className="build-id mono">Legacy scorecards {m.cutoff}</span></div>
       </header>
       <div id="top" className="workspace">
         <section className="briefing-header">
-          <div className="briefing-copy"><p className="eyebrow">Civil-military industrial base · robotics and unmanned systems</p><h1>Who supplies the robots, and how do we know?</h1><p>{framework.plain}</p></div>
-          <aside className="editorial-note"><Scale aria-hidden="true" /><div><strong>Start with the evidence boundary</strong><p>Award, delivery, use and ownership are separate claims. Revenue keeps its reported business scope. Unknown links remain unknown.</p></div></aside>
+          <div className="briefing-copy"><p className="eyebrow">Civil-military industrial base · robotics and unmanned systems</p><h1>How China&apos;s military robotics ecosystem works</h1><p>Connect military priorities, research institutions, commercial suppliers and operating systems. Compare what the evidence establishes for each product and function.</p></div>
+          <aside className="editorial-note"><Scale aria-hidden="true" /><div><strong>Read across the stack</strong><p>Compare what machines do, who directs them, and what reaches routine use. Follow each case into its sources.</p></div></aside>
         </section>
         <Tabs value={tab} onValueChange={setTab} className="main-tabs">
-          <div className="tabs-bar"><TabsList variant="line" className="tabs-list"><TabsTrigger value="ecosystem">Ecosystem</TabsTrigger><TabsTrigger value="overview">Corpus review</TabsTrigger><TabsTrigger value="nodes">Nodes</TabsTrigger><TabsTrigger value="scorecards">Legacy scorecards</TabsTrigger><TabsTrigger value="evidence">Evidence</TabsTrigger><TabsTrigger value="trackers">Trackers</TabsTrigger><TabsTrigger value="method">Method</TabsTrigger></TabsList></div>
+          <div className="tabs-bar"><TabsList variant="line" className="tabs-list"><TabsTrigger value="research">Research brief</TabsTrigger><TabsTrigger value="ecosystem">Supplier relationships</TabsTrigger><TabsTrigger value="overview">Corpus review</TabsTrigger><TabsTrigger value="nodes">Nodes</TabsTrigger><TabsTrigger value="scorecards">Legacy scorecards</TabsTrigger><TabsTrigger value="evidence">Evidence</TabsTrigger><TabsTrigger value="trackers">Trackers</TabsTrigger><TabsTrigger value="method">Method</TabsTrigger></TabsList></div>
 
+          <TabsContent value="research" className="tab-panel"><ResearchBrief /></TabsContent>
           <TabsContent value="ecosystem" className="tab-panel"><Ecosystem openCard={openCard} /></TabsContent>
           <TabsContent value="overview" className="tab-panel">
             <section className="metric-grid" aria-label="Lane summary">
@@ -95,7 +98,7 @@ export default function RoboticsLane() {
           <TabsContent value="nodes" className="tab-panel">
             <section className="panel-heading"><div><p className="section-kicker">Capability chart</p><h2>Legacy capability chart and sourced product mappings</h2><p>{data.chart.plain}</p></div><Badge variant="outline">{m.nodeCount} nodes · chart {m.chartVersion}</Badge></section>
             <section className="coverage-key" aria-label="Coverage states">{["evidence_qualified", "provisional_only", "no_record"].map((k) => <div key={k} className="coverage-chip"><span className={`status-pill ${coverageTone[k]}`}>{coverageLabel[k]}</span><strong className="mono">{m.nodeCoverageCounts.find((c) => c.key === k)?.count ?? 0}</strong><small>{coveragePlain[k]}</small></div>)}</section>
-            {data.chart.tiers.map((t) => <section key={t.id} className="position-tier"><div className="section-heading-row"><div><p className="section-kicker">{t.id.replaceAll("_", " ")}</p><h3>{t.label}</h3><p>{t.plain}</p></div></div><div className="node-board">{data.chart.nodes.filter((n) => n.tier === t.id).map((n) => <article key={n.id} id={n.id} className={`node-row ${n.coverage === "no_record" ? "no-record" : ""} ${highlight === n.id ? "highlight" : ""}`}><div className="node-name"><strong>{n.label}</strong><small>{n.plain}</small></div><div className="node-suppliers">{n.suppliers.length ? n.suppliers.map((sp) => <button key={sp.id} className={`supplier-chip ${sp.tier === "evidence_qualified" ? "qualified" : ""}`} onClick={() => openCard(sp.id)}><b>{sp.englishName || sp.supplier}</b><small lang="zh-Hans">{sp.supplier}</small><small>{tierLabel[sp.tier]} · importance {sp.importance} · {laneLabel[sp.lane]}</small></button>) : <span className="supplier-chip empty">No legacy assessment mapped here</span>}</div><div className="node-state"><p>{n.productIds.length} sourced product mappings in the Ecosystem dossiers</p><span className={`status-pill ${coverageTone[n.coverage]}`}>{coverageLabel[n.coverage]}</span><p>{n.capabilityFamilies.length ? `Capability families: ${n.capabilityFamilies.map(fam).join("; ")}` : "Where to look: listed-company filings naming a defense customer, procurement notices with this scope, or export-control records naming a counterparty."}</p></div></article>)}</div></section>)}
+            {data.chart.tiers.map((t) => <section key={t.id} className="position-tier"><div className="section-heading-row"><div><p className="section-kicker">{t.id.replaceAll("_", " ")}</p><h3>{t.label}</h3><p>{t.plain}</p></div></div><div className="node-board">{data.chart.nodes.filter((n) => n.tier === t.id).map((n) => <article key={n.id} id={n.id} className={`node-row ${n.coverage === "no_record" ? "no-record" : ""} ${highlight === n.id ? "highlight" : ""}`}><div className="node-name"><strong>{n.label}</strong><small>{n.plain}</small></div><div className="node-suppliers">{n.suppliers.length ? n.suppliers.map((sp) => <button key={sp.id} className={`supplier-chip ${sp.tier === "evidence_qualified" ? "qualified" : ""}`} onClick={() => openCard(sp.id)}><b>{sp.englishName || sp.supplier}</b><small lang="zh-Hans">{sp.supplier}</small><small>{tierLabel[sp.tier]} · importance {sp.importance} · {laneLabel[sp.lane]}</small></button>) : <span className="supplier-chip empty">No legacy assessment mapped here</span>}</div><div className="node-state"><p>{n.productIds.length} sourced product mappings in the Supplier relationships dossiers</p><span className={`status-pill ${coverageTone[n.coverage]}`}>{coverageLabel[n.coverage]}</span><p>{n.capabilityFamilies.length ? `Capability families: ${n.capabilityFamilies.map(fam).join("; ")}` : "Where to look: listed-company filings naming a defense customer, procurement notices with this scope, or export-control records naming a counterparty."}</p></div></article>)}</div></section>)}
           </TabsContent>
 
           <TabsContent value="scorecards" className="tab-panel">
@@ -110,7 +113,7 @@ export default function RoboticsLane() {
           </TabsContent>
 
           <TabsContent value="evidence" className="tab-panel">
-            <section className="panel-heading"><div><p className="section-kicker">Evidence ledger</p><h2>Every scorecard links here</h2><p>Imported evidence rows retain their original wording. The Ecosystem dossiers carry newly reviewed claims, source locations and corrections.</p></div><Badge variant="outline">{evidence.length} of {m.evidenceRowCount}</Badge></section>
+            <section className="panel-heading"><div><p className="section-kicker">Evidence ledger</p><h2>Every scorecard links here</h2><p>Imported evidence rows retain their original wording. The Supplier relationships dossiers carry newly reviewed claims, source locations and corrections.</p></div><Badge variant="outline">{evidence.length} of {m.evidenceRowCount}</Badge></section>
             <div className="filter-bar"><div className="search-field"><Search aria-hidden="true" /><Input value={evidenceQuery} onChange={(e) => setEvidenceQuery(e.target.value)} placeholder="Search claim, supplier, source or status" aria-label="Search evidence" /></div></div>
             <div className="architecture-table scorecard-table"><Table><TableHeader><TableRow><TableHead>Date</TableHead><TableHead>Supplier · capability</TableHead><TableHead>Status</TableHead><TableHead>Claim</TableHead><TableHead>Does not establish</TableHead><TableHead>Source</TableHead></TableRow></TableHeader><TableBody>{evidence.map((e) => <TableRow key={s(e.evidence_id)}><TableCell className="mono">{s(e.date)}</TableCell><TableCell><strong lang="zh-Hans">{s(e.supplier)}</strong><br /><small>{fam(s(e.capability))}</small>{cardById.get(s(e.assessment_id)) ? <><br /><button className="position-link" onClick={() => openCard(s(e.assessment_id))}>scorecard</button></> : null}</TableCell><TableCell><small>{s(e.evidence_status).replaceAll("_", " ")}<br />{s(e.state).replaceAll("_", " ")} · {s(e.confidence)}</small></TableCell><TableCell><small>{s(e.claim)}</small></TableCell><TableCell><small>{s(e.caveat)}</small></TableCell><TableCell>{e.source_url ? <a href={s(e.source_url)} target="_blank" rel="noreferrer" className="position-link">{s(e.source_title) || host(s(e.source_url))} <ArrowUpRight /></a> : "—"}</TableCell></TableRow>)}</TableBody></Table></div>
           </TabsContent>
@@ -134,7 +137,7 @@ export default function RoboticsLane() {
           </TabsContent>
         </Tabs>
       </div>
-      <footer><div><strong>PLA Leadership Observatory · Robotics lane</strong><p>{m.package} · cutoff {m.cutoff}</p></div><p>Scorecards, evidence rows, dependency records and signals are separate collections. No ranking without qualifying evidence.</p></footer>
+      <footer><div><strong>PLA Leadership Observatory · Robotics lane</strong><p>Research edition {researchIndex.date} · legacy scorecards {m.cutoff}</p></div><p>Selected cases with dated sources. Follow each claim to its product, organization and evidence.</p></footer>
     </main>
   );
 }

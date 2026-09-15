@@ -4560,6 +4560,9 @@ tr.clock-not_yet_collected td { opacity: 0.85; }
 .eco-table td { min-width: 180px; max-width: 320px; white-space: normal; vertical-align: top; padding: 1.1rem; font-size: 16px; }
 .eco-table button { height: auto; padding: .3rem 0; font-size: 14px; }
 .eco-filters { margin: 1.5rem 0; }
+@media (max-width: 520px) {
+  .robotics-lane .topbar-meta { display: none; }
+}
 .eco-filters [data-slot="select-trigger"] { min-width: 180px; max-width: 250px; }
 .eco-dossier-selector { max-width: 620px; margin: 1.5rem 0; }
 .eco-dossier-selector [data-slot="select-trigger"] { width: 100%; margin-top: .5rem; }

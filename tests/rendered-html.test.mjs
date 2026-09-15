@@ -58,14 +58,28 @@ test("keeps the editorial redesign above the readability floor", () => {
   assert.match(css, /\.metric-icon\s*\{\s*display:\s*none/);
 });
 
-test("robotics route renders the sourced relationship workspace", async () => {
+test("robotics route opens with research cases, evidence boundaries and sourcebook links", async () => {
   const { default: worker } = await import(new URL("../dist/server/index.js", import.meta.url).href);
   const response = await worker.fetch(new Request("http://localhost/robotics", { headers: { accept: "text/html" } }), { ASSETS: { fetch: async () => new Response("Not found", { status: 404 }) } }, { waitUntil() {}, passThroughOnException() {} });
   assert.equal(response.status, 200);
-  const html = (await response.text()).replace(/<!--.*?-->/gs, "");
-  assert.match(html, /Follow the product, buyer and date/);
-  assert.match(html, /Collection priorities/);
-  assert.match(html, /DEEP Robotics/);
-  assert.match(html, /Read 1 claim/);
-  assert.match(html, /6 dossiers/);
+  const html = (await response.text()).replace(/<script\b[^>]*>.*?<\/script>/gis, "").replace(/<!--.*?-->/gs, "");
+  const index = JSON.parse(readFileSync(new URL("../research/military-robotics/case-index.json", import.meta.url), "utf8"));
+  const questions = JSON.parse(readFileSync(new URL("../research/autonomy/questions.json", import.meta.url), "utf8"));
+  const escapeHtml = (value) => value.replaceAll("&", "&amp;").replaceAll("<", "&lt;").replaceAll(">", "&gt;").replaceAll('"', "&quot;").replaceAll("'", "&#x27;");
+  assert.match(html, /Connect doctrine, institutions and documented systems/);
+  assert.match(html, /Search research cases/);
+  assert.match(html, /What to collect next/);
+  assert.match(html, /Supplier relationships/);
+  assert.match(html, /Legacy scorecards/);
+  assert.ok(html.includes(`${index.cases.length} of ${index.cases.length} cases shown.`));
+  for (const item of index.cases) {
+    for (const field of ["nameEn", "nameZh", "strongestEvidence", "autonomyEvidence", "unresolved"]) {
+      assert.ok(html.includes(escapeHtml(item[field])), `${item.id}: visible ${field}`);
+    }
+    const destination = new URL(item.dossierPath, "https://github.com/jorschneider/plaobservatory/blob/4dfd33380e440e214b255769d79b25d762aab2f5/research/military-robotics/").href;
+    assert.ok(html.includes(`href="${escapeHtml(destination)}"`), `${item.id}: sourcebook destination`);
+  }
+  for (const item of questions.questions) {
+    assert.ok(html.includes(escapeHtml(item.question)), `${item.id}: visible collection question`);
+  }
 });
