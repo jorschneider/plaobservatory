@@ -59,3 +59,9 @@ In the initial appendix pass, read its framing and status definitions, every ent
 The conclusion's qualifications generally earn their space because they change the interpretation of a particular observation. The text could later compress repeated methodological reminders shared with the introduction and chapter endings, but this is an editorial economy issue, not a reason to dilute the findings. The useful analytical questions, cautions about diagnostic use and institution-specific developments provide a readable answer to what stays and what changes. Further refinement should preserve that answer rather than replacing it with a longer catalogue of future research.
 
 The review leaves whole-book work outside its scope: reconciliation of all chapter and apparatus status statements, a complete chronology and bibliography check, consistent note presentation, document export and a final continuous reader pass. These are separate from the substantive conclusion review and should not be confused with new evidence requirements that indefinitely prevent completion of the manuscript.
+
+## Final integration check
+
+A subsequent separate reader checked the introduction, conclusion, current manuscript index and assessment framing for delivery. The integrating editor removed two unmeasured comparisons: “unusually detailed” became “detailed,” and “Public rigidity rarely chooses among them” became “Public rigidity alone does not identify which explanation applies.” The chapter’s revision-status footer was also brought up to date. These are scope-preserving edits, with no new sources or empirical classifications. The previously separate export, apparatus and reader-edit work is recorded in the [edition completion record](edition-completion-2026-09-15.md).
+
+Conclusion SHA-256 after final integration: `1f7b1d7ab67b2defb3eb6fe093cd50e96bc2aba81b47a3f5999391f82957d502`.

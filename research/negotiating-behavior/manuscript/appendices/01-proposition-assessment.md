@@ -1,6 +1,6 @@
 # Appendix 1. What remains of the 59 baseline propositions
 
-**Assessment date: 15 September 2026. First complete assessment for author review; not approval of a finished book.**
+**Assessment date: 15 September 2026. Complete assessment, revised after the separate proposition audit.**
 
 This appendix preserves all 34 context/Freeman propositions and all 25 process propositions in the unchanged research inventory. Its task is to make every current judgment traceable to a tested component, the strongest relevant support, contrary or limiting evidence, and the remaining uncertainty. The accompanying [assessment data](../proposition-assessment-2026.json) preserve each entire baseline record, including its initial proposed test and original evidence description.
 

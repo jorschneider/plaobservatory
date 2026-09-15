@@ -23,3 +23,5 @@ Reviewed chapter SHA-256: `0dea094227b17be0b8798048fdb9051e146d7ca66be34434119db
 A separate reader/editor pass identified two additional status formulations: consultation was solicited rather than demonstrated to have supplied inputs, and unfinished Russian commercial terms remained unresolved rather than proved unacceptable. Root applied these corrections, moved repeated source-limit details to existing notes, and checked that the empirical qualifications remain. The Chapter 6 opening now states the mixed implementation findings directly. These editorial changes add no new evidence.
 
 Current revised chapter SHA-256: `e476a8028f531faf29d60b4a4b8a1f7548576af4b1fc4ba4a419ec362bf0e334`.
+
+Final integration changed only the editorial footer from pre-review to reviewed status and retained the case endpoints and source-access limits. Narrative and notes are unchanged by this status update. SHA-256: `10571d4f4f707e61f661053de962266047a15df971d868a29dd756d3cc684223`.
