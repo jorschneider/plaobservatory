@@ -2,6 +2,8 @@
 
 Research foundation: 10 September 2026; military-domain and organizational-doctrine extensions added 15 September. Start with the [military ecosystem guide](../military-robotics/README.md) for the institution, platform and procurement map. Read this synthesis and the [worked-case analyst brief](cases/README.md), then the [doctrine sourcebook](doctrine.md), [technical evidence map](stack.md) and [deployment economics](../industrial-base/task-economics/README.md). The [research queue](questions.json) records progress and the evidence that would change the analysis.
 
+The [analyst assessment](../military-robotics/assessment.md) connects the findings to industrial roles and commercial hypotheses. [Customer capability](../military-robotics/customer-capability.md) adds the training, maintenance and workflow skills that the receiving organization contributes.
+
 Two companion readings connect the stack to industry: the [civilian production and sourcing baseline](../military-robotics/civilian-base.md) compares production, installations, supplier share and Unitree sourcing; the [five-layer reuse study](../military-robotics/civilian-reuse.md) examines components, interfaces, training resources, task integration and assurance.
 
 **The productive unit of analysis is a function, performed under stated conditions, with a stated division of human and machine responsibility.** A company or a chassis is too broad. A robot can balance autonomously, receive its destination from a person, flag an anomaly with uncertain accuracy, and require a technician to recover after a fault. Calling the whole system autonomous conceals the questions an analyst needs to answer.

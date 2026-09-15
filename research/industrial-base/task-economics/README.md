@@ -17,6 +17,8 @@ This develops the task-economics research proposed for ChinaTalk's SemiAnalysis 
 
 These are selected disclosures, not comparable performance observations. Missing economics is a limit of this review, not proof that a deployment is uneconomic.
 
+A separate [historical hospital cost account](../../military-robotics/customer-capability.md#a-historical-cost-account-with-a-checkable-arithmetic-error) supplies reported investment, maintenance, electricity and a modeled wage baseline. Its corrected subtraction illustrates what a partial ledger can establish, while preserving omitted work and unmatched output periods. It does not fill the missing inputs for the four cases above.
+
 ## Three findings worth taking to an analyst
 
 **The newest success figure is explicitly a laboratory result.** UBTECH's August 28, 2026 release reports 75% end-to-end loading/unloading success in the laboratory. It supplies no named customer, version, sample size or intervention denominator. Applying it to BYD's S1 or Zeekr's S Lite would turn an unrelated test into a field-performance estimate. Ask how that definition changes under shift conditions. [2026 interim release, p11; control approaches on p13](https://owebsite-cdn.ubtrobot.com/resources/file/2026/09/02/844628127543365.pdf).

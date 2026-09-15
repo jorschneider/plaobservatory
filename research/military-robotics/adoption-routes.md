@@ -23,6 +23,8 @@ WZ-7 was reported comprehensively incorporated into PLA training in November 202
 
 **Inference:** this route creates potential demand for complete systems and continuing support, but the OEM's share of that work cannot be inferred from an aircraft's appearance. The reviewed reports establish AVIC-level attribution separately from use; exact legal manufacturers, service contracts and autonomous-function configurations remain open in the [air study](air.md).
 
+[Customer capability](customer-capability.md) examines whether military users can absorb skills from suppliers, changing which support work they perform internally and which they continue to purchase.
+
 Export business exposes another decision boundary. CASC reported a CH-4 contract exceeding US$100 million signed on 31 August 2022 between a named manufacturer and **航天长征国际贸易有限公司**, an export intermediary. The final customer and delivered quantities were undisclosed. A manufacturer's concentrated sales to an authorized exporter can therefore aggregate demand from several ultimate users; it is not automatically evidence of one end customer's buying power. [CASC contract account](https://www.spacechina.com/n25/n2018089/n2530233/c3618488/content.html); [air study, CH-4](air.md#ch-4-a-military-export-industrial-family-with-observable-civilian-work).
 
 ## 2. Institutes and integrators: the platform is one contribution to a system

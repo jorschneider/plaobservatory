@@ -6,7 +6,7 @@ Research edition: 15 September 2026. This guide connects military organizations 
 
 The central analytical distinction is between **a capability, a relationship and a result**. A company can possess a relevant capability without a documented military sale. An institute can transfer intellectual property without demonstrating a military application. A force can operate an unmanned aircraft without disclosing its degree of autonomous decision-making.
 
-Start with [adoption routes and business models](adoption-routes.md) for the explanation: who defines the task, buys the equipment, integrates it and operates it—and why those roles change the commercial opportunity. Then use the sourcebooks below to inspect the supporting cases.
+Start with the [analyst assessment](assessment.md) for the main conclusions, actor map and commercial implications. Then read [customer capability](customer-capability.md) for military skills and sustainment, and [adoption routes](adoption-routes.md) for who defines, buys, integrates and operates the system. The sourcebooks below hold the supporting evidence.
 
 ## Read the ecosystem in layers
 
@@ -17,6 +17,7 @@ Start with [adoption routes and business models](adoption-routes.md) for the exp
 | Civilian industrial base | What do production, installations, supplier share and sourcing reveal? | [Civilian baseline](civilian-base.md), preserving national measures and Unitree's company-specific sourcing scope. |
 | Reusable civilian assets | Which previously developed work can another organization draw on? | [Five-layer comparison](civilian-reuse.md): components, interfaces, training resources, task integration and assurance. |
 | Procurement and qualification | Who defines requirements, supervises the contract and accepts delivery? | [Adoption governance](adoption-governance.md), [procurement records](procurement.md) and [distinct qualification decisions](assurance.md). |
+| Customer capability | How does the receiving organization learn to operate and sustain equipment? | [Military training and maintenance study](customer-capability.md), with a separate civilian co-development and historical cost comparison. |
 | Defense production | How does commercial automation enter military manufacturing? | [Historical aircraft-production case](defense-production.md), linking a joint award to reported shipment and staged acceptance. |
 | Ground systems | Who supplies the mobile platform and who integrates the military system? | [Ground sourcebook](ground.md), including Five Eight's platform claim and existing special-purpose/support cases. |
 | Air systems | Which named systems have service evidence, and which remain development or export propositions? | [Air sourcebook](air.md), distinguishing observed military systems and issuer development statements. |
@@ -85,7 +86,7 @@ The [hospital-logistics comparison](hospital-logistics.md) holds the broad suppo
 
 These are interpretations of the selected evidence. They are not estimates of national prevalence or ranked supplier recommendations.
 
-## What a comprehensive assessment still needs
+## Follow-up questions beyond this first assessment
 
 | Unresolved part | Why it changes the answer | Evidence that would advance it |
 |---|---|---|

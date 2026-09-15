@@ -18,6 +18,8 @@ The [worked support cases](cases/human-authority.md) now supply concrete example
 
 The [15 September qualification extension](../military-robotics/assurance.md) adds a civil model's final operator requirements and an issuer's military-export approval claim. This advances the comparison between policy, requirements and qualification while leaving system-specific PLA implementation unverified.
 
+[Customer capability](../military-robotics/customer-capability.md) examines how organizations develop the skills to use unmanned equipment. Its training and maintenance records concern organizational practice; they do not establish implementation of a particular signed doctrine article.
+
 ## Eight policy and concept records reviewed on 10 September
 
 ### D01 — 2019 national-defense white paper

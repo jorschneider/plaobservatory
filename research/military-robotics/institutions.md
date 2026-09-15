@@ -76,6 +76,8 @@ The useful analyst distinction is between a mandate, participation, an operating
 
 The [artifact-lineage extension](lineage.md) provides research uses of named civilian software and a commercial component involving NUDT. These are stronger implementation links than attendance at the humanoid event, while still distinct from institution-wide adoption or accepted military equipment. Keep these research relationships separate from the seven institutional records above.
 
+[Customer capability](customer-capability.md) covers the separate roles of training organizers, academies, military units and manufacturers. Those roles retain the dates given in each report.
+
 Use dated relationship types: `historical_mandate`, `institutional_decision_announced`, `reported_joint_research`, `academic_exchange`, `joint_lab_governance`, `affiliation_reported`, `strategic_agreement_signed`, and `control_change_reported_pending`. Do not collapse these into one “military link” score. Keep the underlying Chinese institution name and source wording alongside an English display name.
 
 These seven records support a distributed network of research, information support and commercialization. They do not identify one master robotics organization, one shared autonomous software stack, one military customer, or automatic movement from a civilian laboratory to operational use. The next useful evidence would be a named contracting entity and award, a joint-lab project/deliverable, a published software or data licensing arrangement, or a corporate registry/issuer transaction-completion disclosure. Any individual university procurement notice would establish that buyer and transaction only.
