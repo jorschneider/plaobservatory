@@ -136,6 +136,12 @@ These processes are an analytical decomposition. The examples below are not a cl
 
 **Sources/locators:** [GB/T 45502-2025 official record](https://std.samr.gov.cn/gb/search/gbDetailed?id=31DA5F377BB58F08E06397BE0A0A4CFB), status/basic information; [20261658-T-604 official plan](https://std.samr.gov.cn/gb/search/gbDetailed?id=4E645DFFD63A7395E06397BE0A0AE96A), project progress/basic information. Checked 2026-09-10; technical clauses were not evaluated.
 
+## Policy extension: domestic runtime migration is a task, not a completed substitution
+
+Reviewed 15 September 2026. Shenzhen's 2026–2028 robotics work plan explicitly calls for migrating ROS core-toolkit functions and deploying robots adapted to domestic operating systems, initially through lightweight applications. It identifies the municipal industry/information and science/technology bureaus as responsible. This is a municipal implementation agenda; it names no completed port, military customer or accepted configuration. [Official full text, work task (4)](https://gxj.sz.gov.cn/gkmlpt/content/12/12960/post_12960913.html).
+
+The plan makes software compatibility a concrete collection target alongside domestic hardware. A useful follow-up would compare a named toolkit migration's functionality, support and qualification burden with its prior implementation. This interpretation connects to AS03–AS04; the plan does not establish that Unitree participates. Publication is 2 September 2026. The notice body is dated 28 August while the metadata gives a document date of 31 August; preserve that discrepancy.
+
 ## What this changes for the analyst
 
 **Use a dependency ledger, not a national label.** These cases directly document overseas-origin processors, middleware and simulation tools inside some Chinese research/development interfaces. They do not quantify sector-wide dependence, prove irreplaceability, or establish that an alternative can be substituted without cost. Track the particular product/version, the evidence for its dependency, available alternatives and the cost of switching separately. Distinguish a required package in one implementation from a required function across all implementations, and keep development compute separate from the customer's onboard runtime. The [Unitree case](cases/unitree-dependencies.md) shows why these distinctions change the assessment.
@@ -149,6 +155,8 @@ These processes are an analytical decomposition. The examples below are not a cl
 ## Civil–military interpretation boundary
 
 The reviewed records establish civilian products, research capability, developer dependencies and one civilian field integration. They establish **no military procurement, deployment or transfer for these specific examples**. Their general technological relevance can generate hypotheses, but should not be entered as confirmed military relationships.
+
+The separate [15 September lineage extension](../military-robotics/lineage.md) adds named artifacts in military-university research and a military ground-computing supplier. The [qualification extension](../military-robotics/assurance.md) adds model-specific civil conditions and military-export approval reporting. These new records do not change the military-use status of AS01–AS10.
 
 An analyst can ask whether localization expertise, robust hardware, data-production infrastructure, integration teams or assurance processes might be reusable across sectors. Confirming such a relationship requires separate dated evidence identifying the organizations, product/version, transaction or collaboration, and actual role. A paper's potential relevance, a shared institution, a demonstration or a recognizable chassis is insufficient. Doctrine describing an aspiration also does not establish the maturity of this technical stack.
 

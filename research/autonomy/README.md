@@ -85,6 +85,8 @@ Maintain three separate claims:
 
 The national plan supports a policy preference for transfer. The civilian stack cases establish particular research, product and integration capabilities. Neither establishes the missing transaction or military result. Similar vocabulary, a recognizable quadruped or a shared institution cannot close those gaps. The existing [relationship dossiers](../industrial-base/relationship-method.md) provide the model for preserving attribution and transaction stage.
 
+The subsequent [lineage study](../military-robotics/lineage.md) documents particular research uses of civilian software and a commercial sensor, plus a separate military ground-computing supply relationship. This partially closes the artifact gap. Research participation, direct supply and shipping software still require different evidence.
+
 ## Worked cases advance the evidence
 
 The [analyst brief](cases/README.md) brings seven observations together: three public military support cases, Unitree's pinned developer dependencies, EHang's passenger operations, Shuguang ownership/cooperation and Jingpin's warehouse software. In that seven-observation packet, the strongest explicit civil–military transfer evidence is a report of a civilian team collaborating on a military warehouse system, although the team is unnamed. Buyer filings close an ownership gap; a software-development table exposes the difference between progress and intended goals. These findings are integrated into the relationship dossiers and collection queue.
@@ -108,6 +110,8 @@ The [scale study](../military-robotics/scale.md) likewise shows why company reve
 **Follow one complete civilian workflow and one bounded authority question.** For the workflow, seek the Zeekr CTU workcell or SP Group inspection records described in the economics package. Map the robot, sensors, compute, software interfaces, integrator, human roles and accepted output. That connects supply-chain questions to evidence of useful work.
 
 For the authority question, collect publicly available rules, standards or acceptance documents describing authorization, intervention and auditability for a named system. A formal requirement and a tested implementation are different evidence. Adding more essays about intelligent warfare will not substitute for either.
+
+The [qualification study](../military-robotics/assurance.md) now supplies a concrete civil comparison: final model-specific conditions, named institutions and a later issuer conformity statement. It keeps these separate from an achieved military-export approval claim and from unverified PLA implementation of human-control policy.
 
 The resulting analyst brief should show where a claim is strongest and where the chain breaks: policy → proposed role → technical artifact → integration → acceptance → operation. These are evidence categories, not an automatic maturity ladder. A system can have strong locomotion evidence and no measured task success. The [research queue](questions.json) gives eight specific questions, disconfirming explanations and evidence requests.
 

@@ -26,9 +26,10 @@
           "cases/ehang-operations.md",
           "../military-robotics/air.md",
           "../military-robotics/maritime.md",
-          "../military-robotics/thesis-tests.md"
+          "../military-robotics/thesis-tests.md",
+          "../military-robotics/assurance.md"
         ],
-        "finding": "Earlier cases identify remote control, task entry and requested modes. CH-4’s civilian customer reports ground-station takeoff/return commands; Zhuhai Yun’s operating institute supplies crew and survey managers. These add system-specific human roles, without a universal PLA authority rule or tested override. A reported Air Force transport-scheduling trial shifts people toward exception review; its observed simulation does not establish an adopted authority rule."
+        "finding": "Earlier cases identify remote control, task entry and requested modes. CH-4’s civilian customer reports ground-station takeoff/return commands; Zhuhai Yun’s operating institute supplies crew and survey managers. These add system-specific human roles, without a universal PLA authority rule or tested override. A reported Air Force transport-scheduling trial shifts people toward exception review; its observed simulation does not establish an adopted authority rule. Final civil conditions for the Wing Loong-2 meteorological model specify operator workload, automatic-flight interruption and control handover. These are requirements, without original test results or a demonstrated PLA override."
       }
     },
     {
@@ -48,11 +49,13 @@
       "alternativeExplanation": "A public research repository may not be the shipping controller; an optional processor is not installed in every model.",
       "progress": {
         "state": "Partially answered",
-        "reviewedAt": "2026-09-10",
+        "reviewedAt": "2026-09-15",
         "casePaths": [
-          "cases/unitree-dependencies.md"
+          "cases/unitree-dependencies.md",
+          "../military-robotics/lineage.md",
+          "stack.md"
         ],
-        "finding": "Six official Unitree repositories inspected at pinned commits; dependencies, binary boundaries and alternative interfaces/simulators identified. Shipping configuration and switching cost remain unverified."
+        "finding": "Six official Unitree repositories inspected at pinned commits; dependencies, binary boundaries and alternative interfaces/simulators identified. Shipping configuration and switching cost remain unverified. Named civilian software and a commercial sensor are documented in military-university research. Exact historical software commits and operating military configurations remain unknown. Shenzhen’s 2026 plan calls for ROS toolkit migration; completed substitutions and switching costs are not established."
       }
     },
     {
@@ -142,9 +145,10 @@
           "cases/ownership-and-software.md",
           "../military-robotics/maritime.md",
           "../military-robotics/institutions.md",
-          "../military-robotics/thesis-tests.md"
+          "../military-robotics/thesis-tests.md",
+          "../military-robotics/lineage.md"
         ],
-        "finding": "The naval warehouse collaboration and Jingpin software progress are supplemented by Zhuhai Yun’s separately named owner, designer, builder, supplier and operating institute. Joint-laboratory governance identifies institutional bridges; neither supplies repeat-deployment engineering costs or complete IP ownership. Baishihu reports customer-led interoperability across three vendors, and a PLA transport trial reports internal software development. Retained integration work does not identify which organization captures its value."
+        "finding": "The naval warehouse collaboration and Jingpin software progress are supplemented by Zhuhai Yun’s separately named owner, designer, builder, supplier and operating institute. Joint-laboratory governance identifies institutional bridges; neither supplies repeat-deployment engineering costs or complete IP ownership. Baishihu reports customer-led interoperability across three vendors, and a PLA transport trial reports internal software development. Retained integration work does not identify which organization captures its value. Consys filings distinguish a competed ground-computing product from a separate commission, with later category-level supply reporting. They do not disclose integration margins or identify a common software implementation."
       }
     },
     {
@@ -159,7 +163,7 @@
         "AS06",
         "AS09"
       ],
-      "request": "Separate post-sale cooperation agreement or delivered work; identify the warehouse civilian team and actual artifact; verify any common military/civil software version rather than infer it from ownership.",
+      "request": "Versioned evidence connecting the documented research artifacts to an integrated military product; identify distribution or contracting mechanism, acceptance and any common civil/military implementation. Keep institutional participation and research use separate from direct supply.",
       "wouldChange": "Promote a technical-relevance hypothesis into a bounded relationship; operating capability still requires separate evidence.",
       "alternativeExplanation": "Similar technologies or institutions may have no documented transfer relationship.",
       "progress": {
@@ -171,9 +175,10 @@
           "../military-robotics/ground.md",
           "../military-robotics/maritime.md",
           "../military-robotics/institutions.md",
-          "../military-robotics/procurement.md"
+          "../military-robotics/procurement.md",
+          "../military-robotics/lineage.md"
         ],
-        "finding": "Five Eight claims a military robot-wolf platform contribution; warehouse reporting identifies civilian collaboration. Haiyi’s disclosed license/IP sale establishes a bounded research-to-commercial mechanism, with no military destination established. NUDT’s private-firm exhibition establishes contact only. Exact shared military/civilian software or accepted transferred autonomy remains unresolved. A provisional military public-health package lists DJI/XAG models through a trading supplier: concrete commercial-product procurement evidence, with acceptance and autonomy functions unverified."
+        "finding": "Five Eight claims a military robot-wolf platform contribution; warehouse reporting identifies civilian collaboration. Haiyi’s disclosed license/IP sale establishes a bounded research-to-commercial mechanism, with no military destination established. NUDT’s private-firm exhibition establishes contact only. Exact shared shipping military/civilian software or accepted transferred autonomy remains unresolved. A provisional military public-health package lists DJI/XAG models through a trading supplier: concrete commercial-product procurement evidence, with acceptance and autonomy functions unverified. Research-stage software evaluation and commercial-component use are now explicit. Those links establish neither direct vendor military contracts nor accepted fielded software; the separate Consys procurement case does not prove civilian technology origin."
       }
     },
     {
@@ -199,9 +204,11 @@
           "../military-robotics/procurement.md",
           "../military-robotics/air.md",
           "../military-robotics/maritime.md",
-          "../military-robotics/scale.md"
+          "../military-robotics/scale.md",
+          "../military-robotics/assurance.md",
+          "../military-robotics/lineage.md"
         ],
-        "finding": "Prior training-standard and procurement-intent records are joined by CH-4 aircraft-specific qualification reporting, Zhuhai Yun’s reported classification/trials, and a UAV provisional selection with a failed package. Original model-specific acceptance records remain missing; the equipment-research regulation was reviewed only through its promulgation announcement. Issuer recognition policies and a glider shipment-to-recognition example distinguish accepted business from shipping and routine operation; they are not system-specific autonomy acceptance tests."
+        "finding": "Prior training-standard and procurement-intent records are joined by CH-4 aircraft-specific qualification reporting, Zhuhai Yun’s reported classification/trials, and a UAV provisional selection with a failed package. Original model-specific acceptance records remain missing; the equipment-research regulation was reviewed only through its promulgation announcement. Issuer recognition policies and a glider shipment-to-recognition example distinguish accepted business from shipping and routine operation; they are not system-specific autonomy acceptance tests. Effective civil model-specific conditions, an issuer conformity-progress statement, military-export approval reporting and ground-equipment qualification reporting now have separate records. No original PLA function-specific acceptance result was obtained."
       }
     },
     {

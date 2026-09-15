@@ -14,6 +14,8 @@ There is no sound basis here for one national autonomy ladder. One signed 2024 a
 
 The [worked support cases](cases/human-authority.md) now supply concrete examples: reported human roles in logistics and warehouse handling, and a medical-transport buyer's requested modes. They are different evidence from the eight policy/concept sources below. These unarmed support examples do not establish compliance with weapon-specific human-control commitments or a tested ability to intervene. No acceptance record was obtained.
 
+The [15 September qualification extension](../military-robotics/assurance.md) adds a civil model's final operator requirements and an issuer's military-export approval claim. This advances the comparison between policy, requirements and qualification while leaving system-specific PLA implementation unverified.
+
 ## Eight core source records
 
 ### D01 — 2019 national-defense white paper
@@ -139,6 +141,8 @@ The [worked support cases](cases/human-authority.md) now supply concrete example
 | 自主可控 | Independently controllable / under domestic control, depending on context | In industrial policy passages often concerns technological dependence; do not automatically translate as autonomous robot behavior. |
 
 These are analytical working distinctions, not a claim that all authors use these terms consistently.
+
+**A concrete reading check, added 15 September 2026:** Siasun president Zhang Jin's signed industry essay connects 自主可控 to supply-chain control and domestic chips/operating systems, while separately discussing robots' task execution. This makes the two meanings distinguishable within one text. The author is a company executive; hosting on MIIT does not make the essay a ministry rule. [Essay, sections I–II and V](https://www.miit.gov.cn/ztzl/rdzt/xxgyhqk/tjyd/tssj/art/2025/art_e9e2283779e94646a5c30b1473e57b55.html), published online 14 January 2025 from the journal's 2024 issue 4; full page inspected.
 
 ## How this should change the dataset
 

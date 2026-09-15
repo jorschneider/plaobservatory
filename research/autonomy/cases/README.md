@@ -6,6 +6,8 @@ Research edition: 10 September 2026. This brief connects the [doctrine sourceboo
 
 For an industrial analyst, the next useful question is who can make that workflow repeatable at another site, and at what cost. Chassis output, model benchmarks and demonstration videos each leave much of that question unanswered.
 
+The [15 September contrary cases](../../military-robotics/thesis-tests.md) test this thesis against repeated mining deployments, customer-led interoperability and internal PLA software development. An organized workflow can become less labor-intensive or leave integration value with the buyer. Human authority, total labor and supplier margins therefore require separate evidence.
+
 ## Seven observations that change the map
 
 | Case | Concrete evidence gained | What the analyst can now say | Evidence still needed |

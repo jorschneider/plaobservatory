@@ -12,11 +12,11 @@ The central analytical distinction is between **a capability, a relationship and
 |---|---|---|
 | Authority and priorities | Who sets the direction and what kind of document governs the claim? | [Doctrine](../autonomy/doctrine.md) separates national plans, regulations, international positions and signed analysis. |
 | Institutions and capital | Who owns, researches, coordinates and funds the work? | [Institutional map](institutions.md), including organizational affiliation and unresolved legal-control boundaries. |
-| Procurement and qualification | Which organizations competed, and what stage did the project reach? | [Procurement record and research-governance announcement](procurement.md). |
+| Procurement and qualification | Which organizations competed, and what stage did the project reach? | [Procurement records](procurement.md) and [distinct qualification decisions](assurance.md). |
 | Ground systems | Who supplies the mobile platform and who integrates the military system? | [Ground sourcebook](ground.md), including Five Eight's platform claim and existing special-purpose/support cases. |
 | Air systems | Which named systems have service evidence, and which remain development or export propositions? | [Air sourcebook](air.md), distinguishing observed military systems and issuer development statements. |
 | Maritime systems | What belongs to the Navy, a scientific institute, a shipowner, a builder or an operator? | [Maritime sourcebook](maritime.md), including a bounded institute-to-company IP transfer. |
-| Enabling technology | What runs on which hardware, and which dependencies have alternatives? | [Technical map](../autonomy/stack.md) and [pinned Unitree study](../autonomy/cases/unitree-dependencies.md). |
+| Enabling technology | What runs on which hardware, and which dependencies have alternatives? | [Technical map](../autonomy/stack.md), [pinned Unitree study](../autonomy/cases/unitree-dependencies.md) and [military research/supply lineages](lineage.md). |
 | Integration and labor | Who turns movement into useful work, and what do people still do? | [Military support cases](../autonomy/cases/human-authority.md) and [EHang operations](../autonomy/cases/ehang-operations.md). |
 | Scale and economics | What do revenue, repeat sales and operating work actually measure? | [Issuer scale study](scale.md), [contrary operating cases](thesis-tests.md) and [task-economics method](../industrial-base/task-economics/method.md). |
 
@@ -53,6 +53,20 @@ The [three procurement records](procurement.md) add different routes into milita
 
 The [issuer-scale study](scale.md) also changes the interpretation. Deepinfar’s ROV/AUV product revenue grew while its disclosed defense-customer revenue declined. Jingpin’s strong 2025 robot-category growth coexists with changing category labels, seasonal acceptance and weaker H1 2026 company revenue. The first task is to explain those different denominators and dates; an unmanned-company growth rate cannot substitute for military market growth.
 
+The [lineage study](lineage.md) now moves beyond institutional contact: it documents identifiable civilian software and a commercial sensor in military-university research, alongside a separate defense ground-computing supplier. This supports several routes into the ecosystem, with different evidence of reuse and delivery. The [qualification study](assurance.md) likewise distinguishes an issuer's achieved export-approval claim from a civil model's explicit operator requirements and reported progress toward certification.
+
+## Working judgments for an analyst
+
+| Judgment | Evidence that makes it useful | What would change the assessment |
+|---|---|---|
+| Unmanned military use is more directly documented in this sample than the allocation of autonomous decisions. | Named air-system service reports coexist with undisclosed control arrangements. | System-specific authority and acceptance records. |
+| Civilian technology enters military-associated work through several mechanisms. | Open research tools, a commercial component, integration collaboration and equipment procurement have distinct documented paths. | A versioned chain connecting these inputs to an accepted operating military system. |
+| Commercial robotics growth is an unreliable proxy for defense demand. | Deepinfar's product growth and defense-customer revenue move in opposite directions. | Reconciled end-customer and product data across a broader supplier sample. |
+| Integration expertise may be reusable, absorbed by buyers or persist as custom work. | Repeated mining deployments, buyer-led interfaces and internal military software development keep all three explanations live. | Matched engineering and support costs across successive deployments. |
+| Qualification must be attributed to its exact object and purpose. | Export approval, civil requirements, conformity progress and customer acceptance answer different questions. | Original decisions and tested configurations, linked to operating records. |
+
+These are interpretations of the selected evidence. They are not estimates of national prevalence or ranked supplier recommendations.
+
 ## What a comprehensive assessment still needs
 
 | Unresolved part | Why it changes the answer | Evidence that would advance it |
@@ -60,9 +74,9 @@ The [issuer-scale study](scale.md) also changes the interpretation. Deepinfar’
 | Small UAVs and commercial support equipment | The new named-model package is one provisional observation, not a representative demand sample. | Matched tender-to-acceptance histories and a broader search frame. |
 | Model-specific adoption and scale | Repeat purchases are documented, but selected issuer series are not a national fleet. | Additional suppliers and matched delivery/acceptance/operator records, removing intermediary double counting. |
 | Production capacity and financial scope | Financing, designed capacity, output and military revenue are different quantities. | Company/plant/product reconciliation across filings, contracts and deliveries. |
-| Military software and component lineage | A shared institution or technology category does not establish a shared implementation. | Named components, versions, interfaces or transferred IP tied to actual products and customers. |
-| Qualification and procurement institutions | A public notice exposes only part of the buying process. | Accessible rules, responsible organizations and a complete public project sequence. |
+| Military production software and component lineage | Research use and ground-equipment supply are now documented; a shared shipping implementation is not. | Named versions and interfaces tied to integrated military products and customers. |
+| Qualification and procurement institutions | Export and civil gates are partly visible; the PLA function-level acceptance chain remains unresolved. | Responsible organizations, requirements and results for the same military system/configuration. |
 | Operator burden and reliability | Remote labor and recovery can determine whether autonomy creates useful capacity. | Matched task, intervention, failure and support records under stated conditions. |
 | Breadth and source bias | Public firms, export products and photogenic demonstrations are easier to observe. | A documented search frame covering unsuccessful projects, unnamed systems, institutions and civilian comparison cases. |
 
-These gaps limit the present assessment; they are not evidence that the corresponding capability is absent. The strongest conclusions concern documented organizational relationships and particular functions. Company-level scale and civilian deployment histories are now more concrete; sector-wide totals, military software lineage and all-party operating economics remain less observable. The [research queue](../autonomy/questions.json) links those questions to the evidence already collected.
+These gaps limit the present assessment; they are not evidence that the corresponding capability is absent. The strongest conclusions concern documented organizational relationships and particular functions. Company-level scale, research lineages and civilian deployment histories are now more concrete; sector-wide totals, shipping military software and all-party operating economics remain less observable. The [research queue](../autonomy/questions.json) links those questions to the evidence already collected.

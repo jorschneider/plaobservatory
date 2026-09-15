@@ -16,6 +16,8 @@ The useful autonomy questions concern task authorization, ground control, superv
 
 ## Per-system records
 
+The separate [qualification study](assurance.md) adds Wing Loong-X's reported military-export approval and Wing Loong-2 meteorological model civil requirements. These records preserve variant and purpose boundaries; they do not resolve the control configuration of the military aircraft below.
+
 | System | Strongest observation here | Attributable industrial organization | Human role actually supported | Ceiling |
 |---|---|---|---|---|
 | WZ-7 / 无侦-7 | Officially reported PLA training by November 2021; explicitly described as in-service in November 2022 | 中国航空工业集团有限公司 / AVIC, group level | Aircraft takes off following an order; information goes to a command post | Military use established at report level; control architecture, acceptance records and availability unknown |
