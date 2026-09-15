@@ -93,7 +93,7 @@
           "../military-robotics/thesis-tests.md",
           "../military-robotics/procurement.md"
         ],
-        "finding": "Concrete jobs now include military aircraft assembly/maintenance/test work, civilian ground-station commands and research-vessel crew/operations. Retained work is observable; matched task, person-hour, intervention and cost records remain absent. EACON reports a named quarry with 23 autonomous trucks and two on-site staff per shift, but off-site and customer work remain outside that count. A military rental notice explicitly buys aircraft plus pilots."
+        "finding": "Concrete jobs now include military aircraft assembly/maintenance/test work, civilian ground-station commands and research-vessel crew/operations. Retained work is observable; matched task, person-hour, intervention and cost records remain absent. EACON reports a named quarry with 23 autonomous trucks and two on-site staff per shift, but off-site and customer work remain outside that count. A military rental notice explicitly requests aircraft plus pilots."
       }
     },
     {
@@ -138,7 +138,7 @@
         "TE-SP-X30",
         "TE-ZEEKR-SLITE"
       ],
-      "request": "Named integrator/customer scope of work, software version, acceptance criteria and support contract; compare engineering hours across repeat deployments.",
+      "request": "Compare successive deployments of the same product generation: inherited artifacts, new work, responsible organization, commissioning and site-readiness milestones, acceptance and all-party costs. Obtain the integrator/customer scope and support contract.",
       "wouldChange": "Attribute value and recurring work across OEM, integrator, software provider and customer.",
       "alternativeExplanation": "A successful deployment may depend on extensive site-specific engineering rather than a general-purpose model.",
       "progress": {
@@ -152,9 +152,10 @@
           "../military-robotics/thesis-tests.md",
           "../military-robotics/lineage.md",
           "../military-robotics/defense-production.md",
-          "../military-robotics/adoption-routes.md"
+          "../military-robotics/adoption-routes.md",
+          "../military-robotics/civilian-deployment.md"
         ],
-        "finding": "The naval warehouse collaboration and Jingpin software progress are supplemented by Zhuhai Yun’s separately named owner, designer, builder, supplier and operating institute. Joint-laboratory governance identifies institutional bridges; neither supplies repeat-deployment engineering costs or complete IP ownership. Baishihu reports customer-led interoperability across three vendors, and a PLA transport trial reports internal software development. Retained integration work does not identify which organization captures its value. Consys filings distinguish a competed ground-computing product from a separate commission, with later category-level supply reporting. They do not disclose integration margins or identify a common software implementation. A historical Rifa/AVIC institute factory project adds joint supply and reported staged acceptance, while leaving partner workshare and margins unresolved."
+        "finding": "The naval warehouse collaboration and Jingpin software progress are supplemented by Zhuhai Yun’s separately named owner, designer, builder, supplier and operating institute. Joint-laboratory governance identifies institutional bridges; neither supplies repeat-deployment engineering costs or complete IP ownership. Baishihu reports customer-led interoperability across three vendors, and a PLA transport trial reports internal software development. Retained integration work does not identify which organization captures its value. Consys filings distinguish a competed ground-computing product from a separate commission, with later category-level supply reporting. They do not disclose integration margins or identify a common software implementation. A historical Rifa/AVIC institute factory project adds joint supply and reported staged acceptance, while leaving partner workshare and margins unresolved. EACON’s Australian project now identifies local infrastructure, validation and operating-readiness work around a reused product; its detailed cost and responsibility split remains undisclosed."
       }
     },
     {
@@ -215,9 +216,10 @@
           "../military-robotics/maritime.md",
           "../military-robotics/scale.md",
           "../military-robotics/assurance.md",
-          "../military-robotics/lineage.md"
+          "../military-robotics/lineage.md",
+          "../military-robotics/adoption-governance.md"
         ],
-        "finding": "Prior training-standard and procurement-intent records are joined by CH-4 aircraft-specific qualification reporting, Zhuhai Yun’s reported classification/trials, and a UAV provisional selection with a failed package. Original model-specific acceptance records remain missing; the equipment-research regulation was reviewed only through its promulgation announcement. Issuer recognition policies and a glider shipment-to-recognition example distinguish accepted business from shipping and routine operation; they are not system-specific autonomy acceptance tests. Effective civil model-specific conditions, an issuer conformity-progress statement, military-export approval reporting and ground-equipment qualification reporting now have separate records. No original PLA function-specific acceptance result was obtained."
+        "finding": "Prior training-standard and procurement-intent records are joined by CH-4 aircraft-specific qualification reporting, Zhuhai Yun’s reported classification/trials, and a UAV provisional selection with a failed package. Original model-specific acceptance records remain missing; the equipment-research regulation was reviewed only through its promulgation announcement. Issuer recognition policies and a glider shipment-to-recognition example distinguish accepted business from shipping and routine operation; they are not system-specific autonomy acceptance tests. Effective civil model-specific conditions, an issuer conformity-progress statement, military-export approval reporting and ground-equipment qualification reporting now have separate records. No original PLA function-specific acceptance result was obtained. Public equipment-quality provisions now identify software evaluation and acceptance roles; a 2026 proposed revision remains a consultation draft. A hospital-logistics tender requests prior acceptance evidence, without proving this purchase was fulfilled."
       }
     },
     {
@@ -240,7 +242,8 @@
         "reviewedAt": "2026-09-15",
         "casePaths": [
           "cases/unitree-dependencies.md",
-          "../military-robotics/civilian-reuse.md#training-software-and-data-adaptation-advantage-can-be-tested"
+          "../military-robotics/civilian-reuse.md#training-software-and-data-adaptation-advantage-can-be-tested",
+          "../military-robotics/civilian-deployment.md"
         ],
         "finding": "UniVLA reports a data-efficiency advantage on a simulated civilian benchmark, adding measured research progress to the documented development workflows. That comparison does not isolate project cost or demonstrate reduced field recovery and new-site engineering. No matched customer deployment comparison was obtained; this question remains open."
       }

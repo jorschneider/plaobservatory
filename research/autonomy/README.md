@@ -113,6 +113,8 @@ The [15 September military ecosystem guide](../military-robotics/README.md) adds
 
 The [institutional map](../military-robotics/institutions.md) distinguishes organizational decisions, research mandates, academic exchange, joint laboratories, affiliation and legal ownership. The [procurement record](../military-robotics/procurement.md) retains provisional selections and a failed package. Together they broaden the evidence behind the questions below without supplying a common national software architecture. Older sources retain their original review dates.
 
+The [adoption-governance map](../military-robotics/adoption-governance.md) now supplies public quality roles and distinguishes equipment ordering from other purchasing routes. Its enacted-text/draft distinction matters when interpreting how software iteration could enter institutional practice.
+
 ## Human authority does not determine labor intensity
 
 The [contrary cases](../military-robotics/thesis-tests.md) require separating authority allocation from all-party labor, deployment repeatability and commercial value. Civilian mining provides reported repeat deployment and low direct staffing; a customer coordinates competing vendors; a PLA transport trial develops software internally and moves staff toward exception review. These observations keep deployment learning and customer control of interfaces alongside scarce-integration expertise as competing explanations. They do not establish military transfer from mining or force-wide adoption of the trial.
@@ -122,6 +124,8 @@ The [scale study](../military-robotics/scale.md) likewise shows why company reve
 ## Turn understanding into original reporting
 
 **Follow one repeat-deployment comparison and one bounded authority question.** Start with the named mining operations in the [contrary cases](../military-robotics/thesis-tests.md): compare deployments to find where commissioning effort and support work decline, persist or move to the customer. The Zeekr CTU and SP Group inspection cases remain useful secondary workflows in the [economics package](../industrial-base/task-economics/README.md). Map the robot, sensors, compute, software interfaces, integrator, human roles and accepted output. That connects supply-chain questions to evidence of useful work.
+
+The [civilian deployment comparison](../military-robotics/civilian-deployment.md) follows a product into local implementation and distinguishes commissioning from site readiness. This is a concrete way to investigate which work a reusable autonomy stack actually saves.
 
 For the authority question, collect publicly available rules, standards or acceptance documents describing authorization, intervention and auditability for a named system. A formal requirement and a tested implementation are different evidence. Adding more essays about intelligent warfare will not substitute for either.
 

@@ -30,6 +30,10 @@ In its [19 August 2026 H1 action-plan assessment, PDF p.2](https://file.finance.
 
 **The comparison sharpens the doctrine question.** Public civil documents can specify staffing and interruption at the level of an integrated aircraft, ground station and link. Establishing analogous implementation in a military system requires its own evidence. A shared manufacturer or platform family cannot transfer the scope of this civil instrument to a military variant.
 
+## Public quality governance supplies an additional institutional anchor
+
+The [adoption-governance study](adoption-governance.md) distinguishes full enacted quality provisions from announcements and a 2026 consultation draft addressing digital development. The hospital-logistics [P04 requirement](procurement.md#p04--prior-hospital-deployments-as-a-qualification-requirement-2024-jl1303-w10136) adds a buyer requesting evidence of earlier accepted projects. These make evaluation and prior experience explicit institutional concerns; the product/configuration and result still need their own records.
+
 ## What an analyst should collect next
 
 | Existing evidence | The next record that would change the assessment |

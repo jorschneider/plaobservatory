@@ -1,8 +1,8 @@
 # Procurement: commercial products, operated services and failed packages
 
-Reviewed 15 September 2026. These records connect named suppliers, quote denominators and hardware quantities to the military-robotics map. It establishes **one matched primary notice/correction sequence and two substantive primary result records with incomplete earlier trails**. It does not establish three complete acquisition histories.
+Reviewed 15 September 2026. These four records connect suppliers, quote denominators, quantities and qualification requirements to the military-robotics map: **one matched primary notice/correction sequence, two substantive primary result records with incomplete earlier trails, and one requirements record**. They do not establish four complete acquisition histories.
 
-The strongest new hardware finding is a public-health support package listing two named practice UAV models. The strongest service finding is a rental whose initial supplier withdrew. Neither is a fleet census. In all three cases the buyer's exact institutional name is withheld; project codes and contact addresses have not been decoded.
+The strongest new hardware finding is a public-health support package listing two named practice UAV models. The strongest service finding is a rental whose initial supplier withdrew. Neither is a fleet census. In all four cases the buyer's exact institutional name is unstated; project codes and contact addresses have not been decoded.
 
 ## P01 — Emergency UAVs: 2026-JK01-W3043（01-03）
 
@@ -56,11 +56,25 @@ This is direct public evidence of named commercial brands within a military supp
 
 **What changes the assessment:** accepted-delivery inventory, itemized prices and subsequent replacement/maintenance purchases.
 
+## P04 — Prior hospital deployments as a qualification requirement: 2024-JL13（03）-W10136
+
+The tender requests one hospital-logistics system: **RMB2 million budget; RMB1.9537 million bid ceiling**. Delivery, installation and commissioning are due within **150 calendar days of the buyer's written site-entry notice**. Quotes include training, after-sales service and spares.
+
+Offered products must have **at least two tertiary Grade-A hospital use cases**, supported by project contracts and acceptance reports; each robot hardware/software portion must be **at least RMB500,000**. This clause specifies no civilian/military distinction. Exact excerpt: **“至少2家三甲医院使用案例”**.
+
+This is a qualification requirement, not proof of qualifying deployments, successful selection or acceptance for this purchase. Buyer and model are unnamed.
+
+**Primary source:** Military Procurement Network, [智慧医院物流机器人系统招标公告2024-JL13（03）-W10136](https://www.plap.mil.cn/freecms/site/juncai/ggxx/info/2024/8a1d03ff928063e40192ad32ea455e0d.html), **21 October 2024**; section III, table/notes and budget/ceiling; IV(八), special qualification.
+
+**Follow-up:** a [secondary index](https://www.bidcenter.com.cn/zhaobiao/zbkeyw-105654-500000.html) lists a 20 November 2024 result, but its original was not recovered. No matched contract or acceptance was located. The similarly numbered **2024-JL13(04)-W10136** concerns another product and is excluded.
+
 ## Access and collection trail
 
-Access cut-off: **15 September 2026, 14:14 UTC**. Exact-ID and exact-title searches were followed by military procurement origin-page opens and bounded public downloads.
+P01–P03 access cut-off: **15 September 2026, 14:14 UTC**. Exact-ID and exact-title searches were followed by military procurement origin-page opens and bounded public downloads.
 
-For all four primary notices above, the research tool returned the **substantive indexed official article body**, not just headline snippets: titles, timestamps, identifiers, operative tables/paragraphs and closing sections were available. Direct origin opens were unreliable and public HTTP(S) downloads to PLAP timed out. No original HTML/PDF was successfully archived. The evidence is therefore attributed official indexed text, with original-server retrieval limits; it is not independent corroboration or a later-state check.
+For all four primary notices in P01–P03, the research tool returned the **substantive indexed official article body**, not just headline snippets: titles, timestamps, identifiers, operative tables/paragraphs and closing sections were available. Direct origin opens were unreliable and public HTTP(S) downloads to PLAP timed out. No original HTML/PDF was successfully archived. The evidence is therefore attributed official indexed text, with original-server retrieval limits; it is not independent corroboration or a later-state check.
+
+P04 was separately checked **15 September 2026** against the full indexed official body. Direct origin opening timed out and a public HTTPS download failed DNS resolution; no original artifact was archived. Its November result remains a secondary lead. These access observations do not establish the project's subsequent status.
 
 The emergency initial notice remains a secondary, truncated lead. Search labels on aggregation pages were not used to assign a buyer, military service or location. Similar training notices **2026-JLXLDA-F4003** (result) and **F4004** (initial) were explicitly excluded from any joined quantity/price calculation because the identifiers differ.
 
