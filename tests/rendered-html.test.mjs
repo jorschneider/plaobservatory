@@ -76,7 +76,7 @@ test("robotics route opens with research cases, evidence boundaries and sourcebo
     for (const field of ["nameEn", "nameZh", "strongestEvidence", "autonomyEvidence", "unresolved"]) {
       assert.ok(html.includes(escapeHtml(item[field])), `${item.id}: visible ${field}`);
     }
-    const destination = new URL(item.dossierPath, "https://github.com/jorschneider/plaobservatory/blob/aad66f814e6da8efe7c7a26da7f2e2b9fe51f7a5/research/military-robotics/").href;
+    const destination = new URL(item.dossierPath, "https://github.com/jorschneider/plaobservatory/blob/d308b3e3602dd514ac626f9f3427f12580a33acb/research/military-robotics/").href;
     assert.ok(html.includes(`href="${escapeHtml(destination)}"`), `${item.id}: sourcebook destination`);
   }
   for (const item of questions.questions) {
