@@ -1,0 +1,114 @@
+{
+  "purpose": "Navigation and comparison for nine selected platform cases. Evidence summaries retain military, development and civilian-comparator distinctions; this is not an inventory or a common maturity ranking. Dossier paths are relative to this index and contain the source ledgers.",
+  "date": "2026-09-15",
+  "cases": [
+    {
+      "id": "G01",
+      "nameZh": "五八智能四足平台（机器狼配套）",
+      "nameEn": "Five Eight quadruped platform for the robot-wolf system",
+      "domain": "ground",
+      "role": "Company-attributed platform contribution to a military system; Q20A identified for the 2024 exhibition, 2025 configuration unresolved.",
+      "strongestEvidence": "Official 2025 parade appearance and aggregate in-service statement; Five Eight separately claims its platform contribution.",
+      "autonomyEvidence": "A 2024 signed assessment says complex activity requires human operation; no configuration-specific operating test reviewed.",
+      "unresolved": "Contracting chain, 2025 platform configuration, supplied subsystems and current human intervention requirements.",
+      "dossierPath": "ground.md#g01--five-eight-intelligent-and-the-robot-wolf-platform",
+      "reviewedAt": "2026-09-15"
+    },
+    {
+      "id": "WZ-7",
+      "nameZh": "无侦-7",
+      "nameEn": "WZ-7",
+      "domain": "air",
+      "role": "Military unmanned aircraft with reported PLA training and in-service status.",
+      "strongestEvidence": "PLA Daily reported realistic training in November 2021 and explicitly described WZ-7 as in-service in November 2022.",
+      "autonomyEvidence": "Reported ordered takeoff and information transmission to a command post; allocation of flight decisions is unspecified.",
+      "unresolved": "Exact legal OEM, model-specific acceptance, operating availability and division of responsibility between people and software.",
+      "dossierPath": "air.md#wz-7-distinguish-in-service-evidence-from-autonomy-attribution",
+      "reviewedAt": "2026-09-15"
+    },
+    {
+      "id": "GJ-2",
+      "nameZh": "攻击-2",
+      "nameEn": "GJ-2",
+      "domain": "air",
+      "role": "Military unmanned aircraft with PLA unit activity and an external observation.",
+      "strongestEvidence": "PLA-operated flying display and maintenance reported in November 2022; Japan's Joint Staff identified a GJ-2 flight on 2025-02-26.",
+      "autonomyEvidence": "Military personnel performed assembly, maintenance and test flights; the record does not allocate remote and automated flight control.",
+      "unresolved": "Exact legal OEM, configuration relationship to Wing Loong-2, operator authority and demonstrated autonomous functions.",
+      "dossierPath": "air.md#gj-2-military-personnel-and-an-observed-aircraft-with-a-variant-boundary",
+      "reviewedAt": "2026-09-15"
+    },
+    {
+      "id": "CH-4",
+      "nameZh": "彩虹-4",
+      "nameEn": "CH-4",
+      "domain": "air",
+      "role": "Military-export product family with documented civilian mapping use; model-specific PLA service not established here.",
+      "strongestEvidence": "Manufacturer reports a named exporter/producer contract in August 2022; civilian customer reports continuing use and an October 2025 qualification test.",
+      "autonomyEvidence": "Manufacturer reports automated flight functions for a 2022 upgrade; civilian customer describes ground-station takeoff and return commands.",
+      "unresolved": "Configuration equivalence across records, full flight-control responsibility, PLA acceptance and ultimate export users.",
+      "dossierPath": "air.md#ch-4-a-military-export-industrial-family-with-observable-civilian-work",
+      "reviewedAt": "2026-09-15"
+    },
+    {
+      "id": "FH-97A",
+      "nameZh": "飞鸿-97A",
+      "nameEn": "FH-97A",
+      "domain": "air",
+      "role": "Military-oriented aircraft development; operational adoption unverified in the reviewed records.",
+      "strongestEvidence": "Issuer's 2025-04-02 model-specific answer reports prototype test validation; broader H1 2026 disclosures do not establish model acceptance.",
+      "autonomyEvidence": "No model-specific operator workflow or demonstrated allocation of autonomous decisions reviewed.",
+      "unresolved": "Subsequent flight-test milestones, exact contractual manufacturer, customer, acceptance and human supervision arrangements.",
+      "dossierPath": "air.md#fh-97a-keep-the-aircrafts-milestone-separate-from-company-level-delivery",
+      "reviewedAt": "2026-09-15"
+    },
+    {
+      "id": "MM01",
+      "nameZh": "HSU001（水下无人潜航器）",
+      "nameEn": "HSU001",
+      "domain": "maritime",
+      "role": "Military underwater vehicle with official Navy association; OEM unassigned.",
+      "strongestEvidence": "HSU001 marking visually verified in a 2019 Xinhua parade photograph; organizers' aggregate in-service statement covers displayed equipment.",
+      "autonomyEvidence": "Officially attributed reconnaissance and surveillance functions; no observed at-sea autonomy test or human-control workflow.",
+      "unresolved": "Designer, manufacturer, model-specific acceptance, fleet quantity, human intervention and field performance.",
+      "dossierPath": "maritime.md#mm01--hsu001-keep-the-positive-service-claim-and-the-oem-unknown",
+      "reviewedAt": "2026-09-15"
+    },
+    {
+      "id": "MM02",
+      "nameZh": "虎鲸号",
+      "nameEn": "Orca",
+      "domain": "maritime",
+      "role": "Military-oriented uncrewed surface-vessel demonstrator; separate from the dossier's unnamed 2021 export offering.",
+      "strongestEvidence": "CSSC reports a first public appearance in November 2024 and identifies 716 Research Institute as development lead with unnamed partners.",
+      "autonomyEvidence": "Uncrewed-vessel designation; no model-specific autonomous mission or human supervision arrangement demonstrated in the cited report.",
+      "unresolved": "Manufacturing legal entity, partner workshare, domestic acceptance, export customer and human/machine division.",
+      "dossierPath": "maritime.md#mm02--orca-program-lead-exhibition-stage-and-a-distinct-export-comparator",
+      "reviewedAt": "2026-09-15"
+    },
+    {
+      "id": "MM03",
+      "nameZh": "珠海云",
+      "nameEn": "Zhuhai Yun",
+      "domain": "maritime",
+      "role": "Civilian comparator: laboratory-owned research mother ship with separately documented operating and industrial partners.",
+      "strongestEvidence": "Reported classification milestone, January 2023 delivery, subsequent specialist trials and scientific operations.",
+      "autonomyEvidence": "Operator reports autonomous-navigation trials with professional crews; original project targets include open-water autonomy and remote control with crew aboard.",
+      "unresolved": "Repeated-mission intervention and staffing measures, tested cross-platform coordination and scope beyond recorded trials.",
+      "dossierPath": "maritime.md#mm03--zhuhai-yun-the-operating-organization-is-part-of-the-autonomy-stack",
+      "reviewedAt": "2026-09-15"
+    },
+    {
+      "id": "MM04",
+      "nameZh": "海翼",
+      "nameEn": "Haiyi",
+      "domain": "maritime",
+      "role": "Research/commercial comparator: scientific glider family with a bounded institute-to-company transfer; military destination unestablished.",
+      "strongestEvidence": "Published scientific observations; issuer-disclosed 2023 rights transfer for products of 2,000 metres or shallower and 2025 product sales.",
+      "autonomyEvidence": "Glider collects oceanographic measurements; a manufacturer-reported 2025 scientific activity identifies human deployment and recovery.",
+      "unresolved": "Variant mapping, original transfer schedule, contract-level end-use and intervention logs; military transfer not established.",
+      "dossierPath": "maritime.md#mm04--haiyi-a-concrete-research-to-commercial-mechanism-with-a-defined-boundary",
+      "reviewedAt": "2026-09-15"
+    }
+  ]
+}

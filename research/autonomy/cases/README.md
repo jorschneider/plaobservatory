@@ -1,6 +1,6 @@
 # What the worked cases tell an analyst
 
-Research edition: 10 September 2026. This brief connects the [doctrine sourcebook](../doctrine.md), [technical map](../stack.md) and [deployment economics](../../industrial-base/task-economics/README.md) to specific records. It is a selected sample, not a census of Chinese autonomy.
+Research edition: 10 September 2026. This brief connects the [doctrine sourcebook](../doctrine.md), [technical map](../stack.md) and [deployment economics](../../industrial-base/task-economics/README.md) to specific records. It is a selected sample, not a census of Chinese autonomy. The subsequent [military ecosystem guide](../../military-robotics/README.md), dated 15 September, adds named ground, air and maritime systems, institutions and procurement evidence.
 
 **The strongest working thesis is that useful autonomy is a property of an organized workflow.** The machine may execute movement, a person may define the task, and another organization may supply the integration, training and recovery. Chinese policy encourages this broader system of capabilities. The cases below show several of its parts in practice; they do not establish a single integrated national stack.
 

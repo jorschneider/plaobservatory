@@ -1,6 +1,6 @@
 {
-  "reviewedAt": "2026-09-10",
-  "status": "Open collection questions with bounded progress from worked cases; no outreach sent",
+  "reviewedAt": "2026-09-15",
+  "status": "Open collection questions with bounded progress from worked cases and military-domain research; no outreach sent",
   "questions": [
     {
       "id": "AQ01",
@@ -20,12 +20,14 @@
       "alternativeExplanation": "Human-control language may coexist with extensive task automation; it does not specify continuous human input.",
       "progress": {
         "state": "Partially answered",
-        "reviewedAt": "2026-09-10",
+        "reviewedAt": "2026-09-15",
         "casePaths": [
           "cases/human-authority.md",
-          "cases/ehang-operations.md"
+          "cases/ehang-operations.md",
+          "../military-robotics/air.md",
+          "../military-robotics/maritime.md"
         ],
-        "finding": "Reported remote control and human task assignment; one buyer's requested modes; civilian remote-pilot training subjects. No universal PLA authority rule or tested override established."
+        "finding": "Earlier cases identify remote control, task entry and requested modes. CH-4’s civilian customer reports ground-station takeoff/return commands; Zhuhai Yun’s operating institute supplies crew and survey managers. These add system-specific human roles, without a universal PLA authority rule or tested override."
       }
     },
     {
@@ -74,12 +76,14 @@
       "alternativeExplanation": "Labor may move to integration or recovery rather than disappear; data-collection teleoperation does not imply live teleoperation.",
       "progress": {
         "state": "Partially answered",
-        "reviewedAt": "2026-09-10",
+        "reviewedAt": "2026-09-15",
         "casePaths": [
           "cases/human-authority.md",
-          "cases/ehang-operations.md"
+          "cases/ehang-operations.md",
+          "../military-robotics/air.md",
+          "../military-robotics/maritime.md"
         ],
-        "finding": "Concrete human jobs identified across task entry, piloting, ground operations and training. Public labor/utilization claims lack matched task, period and cost records."
+        "finding": "Concrete jobs now include military aircraft assembly/maintenance/test work, civilian ground-station commands and research-vessel crew/operations. Retained work is observable; matched task, person-hour, intervention and cost records remain absent."
       }
     },
     {
@@ -128,12 +132,14 @@
       "alternativeExplanation": "A successful deployment may depend on extensive site-specific engineering rather than a general-purpose model.",
       "progress": {
         "state": "Partially answered",
-        "reviewedAt": "2026-09-10",
+        "reviewedAt": "2026-09-15",
         "casePaths": [
           "cases/human-authority.md",
-          "cases/ownership-and-software.md"
+          "cases/ownership-and-software.md",
+          "../military-robotics/maritime.md",
+          "../military-robotics/institutions.md"
         ],
-        "finding": "A naval warehouse report names civilian-team collaboration without identifying the team. Jingpin's dated software project shows development progress but leaves customer acceptance open."
+        "finding": "The naval warehouse collaboration and Jingpin software progress are supplemented by Zhuhai Yun’s separately named owner, designer, builder, supplier and operating institute. Joint-laboratory governance identifies institutional bridges; neither supplies repeat-deployment engineering costs or complete IP ownership."
       }
     },
     {
@@ -153,12 +159,15 @@
       "alternativeExplanation": "Similar technologies or institutions may have no documented transfer relationship.",
       "progress": {
         "state": "Partially answered",
-        "reviewedAt": "2026-09-10",
+        "reviewedAt": "2026-09-15",
         "casePaths": [
           "cases/human-authority.md",
-          "cases/ownership-and-software.md"
+          "cases/ownership-and-software.md",
+          "../military-robotics/ground.md",
+          "../military-robotics/maritime.md",
+          "../military-robotics/institutions.md"
         ],
-        "finding": "Buyer-side Shuguang ownership verified through June 2026; separate prospective cooperation terms located. Warehouse collaboration is reported at team level. Shared software lineage or an accepted transferred autonomous capability remains unestablished."
+        "finding": "Five Eight claims a military robot-wolf platform contribution; warehouse reporting identifies civilian collaboration. Haiyi’s disclosed license/IP sale establishes a bounded research-to-commercial mechanism, with no military destination established. NUDT’s private-firm exhibition establishes contact only. Exact shared military/civilian software or accepted transferred autonomy remains unresolved."
       }
     },
     {
@@ -177,12 +186,15 @@
       "alternativeExplanation": "A standard's existence or a company's drafting participation does not establish conformity.",
       "progress": {
         "state": "Partially answered",
-        "reviewedAt": "2026-09-10",
+        "reviewedAt": "2026-09-15",
         "casePaths": [
           "cases/human-authority.md",
-          "cases/ehang-operations.md"
+          "cases/ehang-operations.md",
+          "../military-robotics/procurement.md",
+          "../military-robotics/air.md",
+          "../military-robotics/maritime.md"
         ],
-        "finding": "Final CAAC remote-pilot training standard and military procurement intent inspected. The former concerns civilian training; the latter requested functions. Neither supplies named-system acceptance."
+        "finding": "Prior training-standard and procurement-intent records are joined by CH-4 aircraft-specific qualification reporting, Zhuhai Yun’s reported classification/trials, and a UAV provisional selection with a failed package. Original model-specific acceptance records remain missing; the equipment-research regulation was reviewed only through its promulgation announcement."
       }
     },
     {
