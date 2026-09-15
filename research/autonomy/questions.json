@@ -91,9 +91,10 @@
           "../military-robotics/air.md",
           "../military-robotics/maritime.md",
           "../military-robotics/thesis-tests.md",
-          "../military-robotics/procurement.md"
+          "../military-robotics/procurement.md",
+          "../military-robotics/hospital-logistics.md"
         ],
-        "finding": "Concrete jobs now include military aircraft assembly/maintenance/test work, civilian ground-station commands and research-vessel crew/operations. Retained work is observable; matched task, person-hour, intervention and cost records remain absent. EACON reports a named quarry with 23 autonomous trucks and two on-site staff per shift, but off-site and customer work remain outside that count. A military rental notice explicitly requests aircraft plus pilots."
+        "finding": "Concrete jobs now include military aircraft assembly/maintenance/test work, civilian ground-station commands and research-vessel crew/operations. Retained work is observable; matched task, person-hour, intervention and cost records remain absent. EACON reports a named quarry with 23 autonomous trucks and two on-site staff per shift, but off-site and customer work remain outside that count. A military rental notice explicitly requests aircraft plus pilots. Hospital delivery cases now separate staff loading and receipt from automated transport; task-level labor and recovery measurements are still missing."
       }
     },
     {
@@ -153,9 +154,10 @@
           "../military-robotics/lineage.md",
           "../military-robotics/defense-production.md",
           "../military-robotics/adoption-routes.md",
-          "../military-robotics/civilian-deployment.md"
+          "../military-robotics/civilian-deployment.md",
+          "../military-robotics/hospital-logistics.md"
         ],
-        "finding": "The naval warehouse collaboration and Jingpin software progress are supplemented by Zhuhai Yun’s separately named owner, designer, builder, supplier and operating institute. Joint-laboratory governance identifies institutional bridges; neither supplies repeat-deployment engineering costs or complete IP ownership. Baishihu reports customer-led interoperability across three vendors, and a PLA transport trial reports internal software development. Retained integration work does not identify which organization captures its value. Consys filings distinguish a competed ground-computing product from a separate commission, with later category-level supply reporting. They do not disclose integration margins or identify a common software implementation. A historical Rifa/AVIC institute factory project adds joint supply and reported staged acceptance, while leaving partner workshare and margins unresolved. EACON’s Australian project now identifies local infrastructure, validation and operating-readiness work around a reused product; its detailed cost and responsibility split remains undisclosed."
+        "finding": "The naval warehouse collaboration and Jingpin software progress are supplemented by Zhuhai Yun’s separately named owner, designer, builder, supplier and operating institute. Joint-laboratory governance identifies institutional bridges; neither supplies repeat-deployment engineering costs or complete IP ownership. Baishihu reports customer-led interoperability across three vendors, and a PLA transport trial reports internal software development. Retained integration work does not identify which organization captures its value. Consys filings distinguish a competed ground-computing product from a separate commission, with later category-level supply reporting. They do not disclose integration margins or identify a common software implementation. A historical Rifa/AVIC institute factory project adds joint supply and reported staged acceptance, while leaving partner workshare and margins unresolved. EACON’s Australian project now identifies local infrastructure, validation and operating-readiness work around a reused product; its detailed cost and responsibility split remains undisclosed. Hospital logistics adds a comparison of brand, contract seller, partner and proposed maintenance supplier. It exposes commercial roles without establishing software ownership, integration margins or replacement costs."
       }
     },
     {

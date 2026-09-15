@@ -68,6 +68,8 @@ This is a qualification requirement, not proof of qualifying deployments, succes
 
 **Follow-up:** a [secondary index](https://www.bidcenter.com.cn/zhaobiao/zbkeyw-105654-500000.html) lists a 20 November 2024 result, but its original was not recovered. No matched contract or acceptance was located. The similarly numbered **2024-JL13(04)-W10136** concerns another product and is excluded.
 
+The [hospital-logistics supplier comparison](hospital-logistics.md) supplies related commercial evidence. Its military-hospital award claims remain attributed to the supplier and unjoined to this project; they do not close P04's result or acceptance gap.
+
 ## Access and collection trail
 
 P01–P03 access cut-off: **15 September 2026, 14:14 UTC**. Exact-ID and exact-title searches were followed by military procurement origin-page opens and bounded public downloads.

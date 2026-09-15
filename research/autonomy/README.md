@@ -127,6 +127,8 @@ The [scale study](../military-robotics/scale.md) likewise shows why company reve
 
 The [civilian deployment comparison](../military-robotics/civilian-deployment.md) follows a product into local implementation and distinguishes commissioning from site readiness. This is a concrete way to investigate which work a reusable autonomy stack actually saves.
 
+The [hospital-logistics comparison](../military-robotics/hospital-logistics.md) then holds the broad function constant across suppliers. It separates movement, human handoffs, building interfaces and continuing support, linking the technical stack to the organizations that purchase and maintain it.
+
 For the authority question, collect publicly available rules, standards or acceptance documents describing authorization, intervention and auditability for a named system. A formal requirement and a tested implementation are different evidence. Adding more essays about intelligent warfare will not substitute for either.
 
 The [qualification study](../military-robotics/assurance.md) now supplies a concrete civil comparison: final model-specific conditions, named institutions and a later issuer conformity statement. It keeps these separate from an achieved military-export approval claim and from unverified PLA implementation of human-control policy.

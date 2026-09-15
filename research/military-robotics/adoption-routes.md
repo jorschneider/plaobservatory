@@ -70,4 +70,6 @@ The [civilian deployment comparison](civilian-deployment.md) then makes implemen
 
 ## The next discriminating work
 
+The [hospital-logistics comparison](hospital-logistics.md) adds a narrower commercial test: distinguish the robot brand, contract seller, integration partner and maintenance counterparty within one support function. That helps identify where a customer relationship sits, while keeping budget, award, warranty obligation and actual operating results separate.
+
 Follow three chains: the rental project into actual settlement; one commercial artifact through receiving-team integration and qualification; and repeated mining installations through engineering and all-party support costs. The new deployment case supplies a starting account of work categories; the next comparison should hold product generation and milestone definitions constant. Those observations would connect demand, reusable capability and economic value. The present evidence already supports distributed adoption and several routes for civilian capability to enter military-associated work. It does not require one central robotics buyer, one national software architecture or one business model to explain every case.

@@ -23,6 +23,7 @@ Start with [adoption routes and business models](adoption-routes.md) for the exp
 | Maritime systems | What belongs to the Navy, a scientific institute, a shipowner, a builder or an operator? | [Maritime sourcebook](maritime.md), including a bounded institute-to-company IP transfer. |
 | Enabling technology | What runs on which hardware, and which dependencies have alternatives? | [Technical map](../autonomy/stack.md), [pinned Unitree study](../autonomy/cases/unitree-dependencies.md) and [military research/supply lineages](lineage.md). |
 | Integration and labor | What is reusable, what changes locally, and who performs the work? | [Military support cases](../autonomy/cases/human-authority.md), [EHang operations](../autonomy/cases/ehang-operations.md) and [EACON’s deployment comparison](civilian-deployment.md). |
+| Comparable support suppliers | Who sells, integrates and supports the same broad delivery function? | [Hospital-logistics comparison](hospital-logistics.md), distinguishing EPS, Saite and Tami's customer evidence and commercial roles. |
 | Scale and economics | What do revenue, repeat sales and operating work actually measure? | [Issuer scale study](scale.md), [contrary operating cases](thesis-tests.md) and [task-economics method](../industrial-base/task-economics/method.md). |
 
 The [case index](case-index.json) is a navigation and comparison aid. It deliberately includes civilian comparison cases where military transfer is not established. It is not a fleet inventory, a supplier ranking or a count of distinct systems in service.
@@ -68,6 +69,8 @@ The [civilian baseline](civilian-base.md) supplies context for these particular 
 
 The [Australian deployment comparison](civilian-deployment.md) follows a reused autonomy offering into a new operating environment. Its central lesson is to measure vehicle commissioning and site readiness separately. A short interval at one stage can coexist with infrastructure, validation and training elsewhere in the project. The useful economic question is which work disappears, which is repeated and which moves to the buyer or local partner.
 
+The [hospital-logistics comparison](hospital-logistics.md) holds the broad support function constant across three supplier families. It makes purchase scope, continuing support and customer relationships separately visible. Its industrial contribution is a comparison of commercial roles and evidence stages; it does not establish interchangeable products or a performance ranking.
+
 ## Working judgments for an analyst
 
 | Judgment | Evidence that makes it useful | What would change the assessment |
@@ -92,7 +95,7 @@ These are interpretations of the selected evidence. They are not estimates of na
 | Military production software and component lineage | Research use and ground-equipment supply are now documented; a shared shipping implementation is not. | Named versions and interfaces tied to integrated military products and customers. |
 | Project authority and funding | Public quality roles and purchasing routes are mapped; a current project’s funding, workshare and acceptance chain remain only partly visible. | Match sponsor, buyer, integrator, funding scope and acceptance evidence within one project. |
 | Repeat-deployment work and reliability | The Australian case separates commissioning from site preparation; it does not isolate a learning curve. | Compare successive deployments of the same generation, including all-party engineering, support and accepted output. |
-| Comparable suppliers and stack costs | Existing examples span different functions; they do not show which suppliers are alternatives or which layer consumes the most work. | Compare several offers for one support function and account for components, software, adaptation and support. |
+| Comparable suppliers and stack costs | Hospital logistics now compares three suppliers within one function, but configurations, commercial stages and cost scopes differ. | Obtain complete same-function offers and contracts, then account for components, software, adaptation and support under comparable conditions. |
 | Breadth and source bias | Public firms, export products and photogenic demonstrations are easier to observe. | A documented search frame covering unsuccessful projects, unnamed systems, institutions and civilian comparison cases. |
 
 The positive picture is an ecosystem with operating military systems, identifiable civilian inputs, repeat commercial deployment and several ways to buy, build and integrate capability. **The civilian contribution includes reusable work, not only finished platforms.** This supports an industrial explanation based on components, software and accumulated application experience. It does not yet measure a national or military cost advantage. The next step is to trace what those assets change in a receiving project's engineering, qualification and operating results. The [research queue](../autonomy/questions.json) links that work to the evidence already collected.
