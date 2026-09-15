@@ -67,5 +67,15 @@
     "Downloaded HTML preserved outside Git.",
     "A contemporary American meeting record and a later Chinese biography have different provenance.",
     "Full treaty negotiations and original Chinese appointment records are not audited here."
+  ],
+  "archive_leads": [
+    {
+      "title": "January 8, 1980, 8 a.m. McGiffert–Hanson–Chai conversation",
+      "discovery_source": "FRUS 1977–1980 XIII, document292, source note1",
+      "url": "https://history.state.gov/historicaldocuments/frus1977-80v13/d292",
+      "locator": "Carter Library, National Security Affairs, Staff Material, Far East, Oksenberg Subject File, Brown (Harold) 1/80 Trip Memcons:1/80; surrounding FRUS document source places its own10a.m. meeting in Box26.",
+      "reading_status": "Editorial source note1 read in browser September15. Underlying8a.m. memorandum not acquired. Full10a.m. conversation not read in this workstream.",
+      "preservation": "Browser read only for this lead; no claim of a saved underlying memorandum."
+    }
   ]
 }

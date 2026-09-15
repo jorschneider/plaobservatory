@@ -1,0 +1,258 @@
+{
+  "title": "DS379: legal process, implementation and reading register",
+  "research_date": "2026-09-15",
+  "case": "../cases/wto-ds379-legal-process.md",
+  "latest_substantive_event_examined": "2012-10-30 correction notice; selected retrospective analysis published 2013",
+  "sources": [
+    {
+      "id": "DS379-01",
+      "title": "United States — Definitive Anti-Dumping and Countervailing Duties on Certain Products from China: dispute DS379",
+      "author_or_institution": "WTO Secretariat",
+      "publication_date": "Undated living case page; consulted 2026-09-15",
+      "source_type": "Official informational case history",
+      "url": "https://www.wto.org/english/tratop_e/dispu_e/cases_e/ds379_e.htm",
+      "read_date": "2026-09-15",
+      "reading_status": "Read within explicitly bounded scope",
+      "read_scope": "Entire substantive case summary and procedural chronology, from consultations through China’s 28 September 2012 objection. Navigation not treated as substantive material.",
+      "evidentiary_use": "Dates of consultation, panel, appeal, adoption, implementation-period agreements, and competing compliance assertions; cross-check on report findings.",
+      "limits": "Secretariat explicitly says informational summary does not affect rights or obligations. No internal bargaining details; final listed objection is not a compliance ruling. No DS379 compliance-panel disposition or retaliation award listed on the examined page.",
+      "source_dependence": "Summarizes reports and member notifications rather than providing an independent witness. USTR repeats much of this chronology.",
+      "preserved_copy": {
+        "path": "/Users/jorsc/.codex/.chatgpt-projects/g-p-6a94dd290a988191911d85ae8fe94a6c/tmp/pdfs/research-2026-09-15/ds379/wto-case.html",
+        "bytes": 32614,
+        "sha256": "bfcbd600280a4f739d60f1fe9511c7ee7c72176154b2821b2899abe0cc380390"
+      }
+    },
+    {
+      "id": "DS379-02",
+      "title": "United States — Anti-Dumping and Countervailing Duties (China), Report of the Panel, WT/DS379/R",
+      "author_or_institution": "WTO dispute panel",
+      "publication_date": "2010-10-22",
+      "source_type": "Primary adjudicative report",
+      "url": "https://www.wto.org/english/tratop_e/dispu_e/379r_e.pdf",
+      "read_date": "2026-09-15",
+      "reading_status": "Read within explicitly bounded scope",
+      "read_scope": "¶¶1.1–1.7, printed p. 1/PDF p. 21; ¶¶14.11–14.42, printed pp. 209–219/PDF pp. 229–239, read completely. Contents screened. Not a reading of the entire 303-page PDF.",
+      "evidentiary_use": "Actual consultation and panel sequence; China’s proposed as-such omission challenge, US procedural objection, China’s precedent-based response, and panel exclusion from terms of reference.",
+      "limits": "The report establishes legal reasoning and the litigation record, not China’s internal reason for omitting the general measure from its consultation request. Exclusion does not itself prove incompetence or a tactic.",
+      "source_dependence": "Quotes and summarizes party submissions; those quotations are not independent corroboration of the underlying administrative facts.",
+      "preserved_copy": {
+        "path": "/Users/jorsc/.codex/.chatgpt-projects/g-p-6a94dd290a988191911d85ae8fe94a6c/tmp/pdfs/research-2026-09-15/ds379/panel.pdf",
+        "bytes": 2058596,
+        "sha256": "87a132a707f4e54aa61309e88396c3fed1bf6cb45ff606cc0ec7b5d9cf49bc6a"
+      }
+    },
+    {
+      "id": "DS379-03",
+      "title": "WT/DS379/R/Add.1, Annex A-1: Executive Summary of the First Written Submission of China, 27 April 2009",
+      "author_or_institution": "Delegation of China; reproduced by WTO panel",
+      "publication_date": "Submission 2009-04-27; annex circulated with panel report 2010-10-22",
+      "source_type": "Primary litigant submission in official annex",
+      "url": "https://www.wto.org/english/tratop_e/dispu_e/379r_a_e.pdf",
+      "read_date": "2026-09-15",
+      "reading_status": "Read within explicitly bounded scope",
+      "read_scope": "Annex A-1 complete, ¶¶1–37, printed A-2–A-10/PDF pp. 2–10. Contents p. A-1 screened. Other Annex A materials not counted as read.",
+      "evidentiary_use": "China’s own public-body/ILC arguments; benefit and benchmark claims; categorical double-remedy claim; administrative procedural objections.",
+      "limits": "Executive summary, not full first written submission or exhibits. Advocacy is not an adjudicated factual finding or evidence of internal authorization. Does not identify who originated arguments or allocate work between officials and counsel.",
+      "source_dependence": "Same dispute file as DS379-02/04 but direct party voice; tribunal summaries of this text are not another witness.",
+      "preserved_copy": {
+        "path": "/Users/jorsc/.codex/.chatgpt-projects/g-p-6a94dd290a988191911d85ae8fe94a6c/tmp/pdfs/research-2026-09-15/ds379/panel-annex-a.pdf",
+        "bytes": 201300,
+        "sha256": "5c0636318ed06d5880ce00bafab23860c0d8aafa3907206e036f627b1eb373ea"
+      }
+    },
+    {
+      "id": "DS379-04",
+      "title": "United States — Anti-Dumping and Countervailing Duties (China), Report of the Appellate Body, WT/DS379/AB/R",
+      "author_or_institution": "WTO Appellate Body",
+      "publication_date": "2011-03-11",
+      "source_type": "Primary adjudicative report",
+      "url": "https://www.wto.org/english/tratop_e/dispu_e/379abr_e.pdf",
+      "read_date": "2026-09-15",
+      "reading_status": "Read within explicitly bounded scope",
+      "read_scope": "¶¶285–319, printed pp. 110–124/PDF pp. 122–136; ¶¶343–359, printed pp. 131–138/PDF pp. 143–150; ¶¶531–606, printed pp. 197–223/PDF pp. 209–235, read completely including footnotes. Contents/metadata screened. No claim to read all 244 PDF pages.",
+      "evidentiary_use": "Ownership versus governmental authority; relevant meaningful-control evidence; SOE input-supplier result versus SOCB result; China’s administrative benchmark proposals; technical and evidentiary limits on appellate completion; double-remedy interpretation and affirmative investigation obligation.",
+      "limits": "Not a finding that SOEs are generally private or never public bodies. China failed to establish inconsistency for SOCBs. AB did not complete legality of RMB benchmark. Double remedies likely rather than inevitable in every instance; no correct duty amount calculated. ILC reasoning does not conclusively classify entire Article 5 as customary law.",
+      "source_dependence": "Depends on panel findings, party submissions, and administrative records; adjudicative review is not an independent reconstruction of private bargaining.",
+      "preserved_copy": {
+        "path": "/Users/jorsc/.codex/.chatgpt-projects/g-p-6a94dd290a988191911d85ae8fe94a6c/tmp/pdfs/research-2026-09-15/ds379/appellate.pdf",
+        "bytes": 1692522,
+        "sha256": "9729502dc1f872071d2ad0552250d5bf31746fd80caf28ce84ab6dc5523e57ee"
+      },
+      "visual_verification": "Rendered and visually read printed p. 123/PDF p. 135 (¶318), and printed p. 223/PDF p. 235 (¶¶604–606 and notes). PNGs preserved beside PDF."
+    },
+    {
+      "id": "DS379-05",
+      "title": "US statement at DSB adoption of WT/DS379/AB/R and WT/DS379/R",
+      "author_or_institution": "United States delegation; published by USTR",
+      "publication_date": "2011-03-25, as identified in USTR case-page index",
+      "source_type": "Primary contemporary party statement",
+      "url": "https://ustr.gov/sites/default/files/uploads/Mar25%20Stmt%20US%20AD-CVD%20fin.pdf",
+      "read_date": "2026-09-15",
+      "reading_status": "Read within explicitly bounded scope",
+      "read_scope": "Entire six-page statement, including footnotes. Public-body section PDF pp. 1–3; concurrent-duty section pp. 3–6; conclusion p. 6.",
+      "evidentiary_use": "US objections to interpretation, evidentiary characterization and administrative burdens; evidence that adoption did not mean substantive convergence.",
+      "limits": "Losing-party advocacy. Its characterizations of the report and record are attributed, not adopted as controlling law or independently verified facts. Date supplied by original USTR index because PDF lacks a separate cover date.",
+      "source_dependence": "Direct US statement, also referring to the same report and record. Not independent evidence of how Chinese policy was made.",
+      "preserved_copy": {
+        "path": "/Users/jorsc/.codex/.chatgpt-projects/g-p-6a94dd290a988191911d85ae8fe94a6c/tmp/pdfs/research-2026-09-15/ds379/us-adoption-statement.pdf",
+        "bytes": 33094,
+        "sha256": "d04f4d5524d0a261a271ddab63aa90230b9d21c77cd378b495a62876e49c538c"
+      }
+    },
+    {
+      "id": "DS379-06",
+      "title": "Status Report by the United States, WT/DS379/12",
+      "author_or_institution": "United States delegation; circulated by WTO",
+      "publication_date": "Communication 2012-01-09; circulated 2012-01-10",
+      "source_type": "Primary implementation-status notification",
+      "url": "https://docs.wto.org/dol2fe/Pages/SS/directdoc.aspx?filename=Q:/WT/DS/379-12.pdf&Open=True",
+      "read_date": "2026-09-15",
+      "reading_status": "Read within explicitly bounded scope",
+      "read_scope": "Entire one-page report. Local filename is a retrieval-label mistake: cover and text verify this is STATUS REPORT 12, not the agreed-procedures document 14.",
+      "evidentiary_use": "US account of section 129 request, questionnaires, Chinese extension requests granted and response review; original agreed implementation endpoint.",
+      "limits": "Party report does not independently establish adequacy or necessity of questionnaire demands or replies. Cannot infer deliberate delay from report timing.",
+      "source_dependence": "Official member notification, subsequently summarized on case pages. Not a neutral operational audit.",
+      "preserved_copy": {
+        "path": "/Users/jorsc/.codex/.chatgpt-projects/g-p-6a94dd290a988191911d85ae8fe94a6c/tmp/pdfs/research-2026-09-15/ds379/agreed-procedures.pdf",
+        "bytes": 9314,
+        "sha256": "44af7cddda4f5ef9932642ee12d9d8d5b3137ab45bc6404f1add9ba83fb826a9"
+      }
+    },
+    {
+      "id": "DS379-07",
+      "title": "Understanding between China and the United States Regarding Procedures under Articles 21 and 22 of the DSU, WT/DS379/14",
+      "author_or_institution": "Chinese and US delegations; published by WTO",
+      "publication_date": "Signed/communication 2012-05-11; circulated 2012-05-16",
+      "source_type": "Official published bilateral procedural agreement",
+      "url": "https://docs.wto.org/dol2fe/Pages/SS/directdoc.aspx?filename=Q:/WT/DS/379-14.pdf&Open=True",
+      "read_date": "2026-09-15",
+      "reading_status": "Read within explicitly bounded scope",
+      "read_scope": "All three pages: transmittal p. 1; preamble and operative ¶¶1–12 pp. 2–3; signature names/date p. 3.",
+      "evidentiary_use": "Procedural bargain including optional consultations, acceptance at first DSB meeting, proposed panel/appeal timelines, sequence before suspension authorization, US timing waiver and arbitration rights, replacement adjudicators and preserved rights.",
+      "limits": "WTO-issued text states Signed in Geneva, 11 May 2012 and names Yi Xiaozhun/Michael Punke; it does not reproduce handwritten signatures. No draft history or mandates. Contemplated panel/arbitration/retaliation are not actual proceedings or awards.",
+      "source_dependence": "Direct published agreement by both parties; more probative of accepted terms than unilateral summaries, but not a transcript of negotiations.",
+      "preserved_copy": {
+        "path": "/Users/jorsc/.codex/.chatgpt-projects/g-p-6a94dd290a988191911d85ae8fe94a6c/tmp/pdfs/research-2026-09-15/ds379/agreed-procedures-14.pdf",
+        "bytes": 14019,
+        "sha256": "19981c819ab4782b32c1de3e0f0d30e142524ada64f6ff28c69a781adfef9bda"
+      }
+    },
+    {
+      "id": "DS379-08",
+      "title": "Implementation of Determinations Under Section 129: OTR Tires, CWP, Laminated Woven Sacks, and Light-Walled Rectangular Pipe and Tube from China, FR Doc. 2012-21322",
+      "author_or_institution": "US Department of Commerce, International Trade Administration",
+      "publication_date": "Signed 2012-08-23; published 2012-08-30; effective 2012-08-21",
+      "source_type": "Primary administrative implementation notice",
+      "url": "https://www.govinfo.gov/content/pkg/FR-2012-08-30/pdf/2012-21322.pdf",
+      "read_date": "2026-09-15",
+      "reading_status": "Read within explicitly bounded scope",
+      "read_scope": "Entire target notice, Federal Register 77:52683–52688, PDF pp. 1–6, including all rate tables and notes. Adjacent unrelated notices sharing first/last pages excluded.",
+      "evidentiary_use": "Dates and issues of redeterminations; matched original/revised CVD rates; separately labeled investigation dumping margins versus revised AD deposits; implementation date and superseding-review qualification.",
+      "limits": "Notice is not underlying reasoning memorandum, customs entry record or compliance judgment. AD margin versus deposit columns are not comparable before/after deposit rates. No aggregate benefit, refund, final assessment or universal application inferred. Target notice is 2012-21322; 2012-21447 shares p. 52683 but is unrelated.",
+      "source_dependence": "Commerce action is independent evidence of implementation, though conformity language is the implementing party’s claim. USTR and WTO summaries rely on these actions.",
+      "preserved_copy": {
+        "path": "/Users/jorsc/.codex/.chatgpt-projects/g-p-6a94dd290a988191911d85ae8fe94a6c/tmp/pdfs/research-2026-09-15/ds379/fr-implementation.pdf",
+        "bytes": 197001,
+        "sha256": "7f3fa8bd9ff59f1da843be5a89d787cf11f7cc21b5320e5e4bd2def19b3caa4a"
+      },
+      "visual_verification": "Visually checked PDF pp. 3, 5, 6 / printed 52685, 52687–52688 for column labels, figures and qualifications. Full Federal Register daily issue also preserved as fr-2012-08-30.pdf, target at PDF pp. 105–110; canonical register hash is shorter six-page notice."
+    },
+    {
+      "id": "DS379-09",
+      "title": "Correction to Notice of Implementation of Determinations Under Section 129: Circular Welded Carbon Quality Steel Pipe, FR Doc. 2012-26668",
+      "author_or_institution": "US Department of Commerce, International Trade Administration",
+      "publication_date": "Signed 2012-10-19; published 2012-10-30; effective 2012-08-21",
+      "source_type": "Primary correction notice",
+      "url": "https://www.govinfo.gov/content/pkg/FR-2012-10-30/pdf/2012-26668.pdf",
+      "read_date": "2026-09-15",
+      "reading_status": "Read within explicitly bounded scope",
+      "read_scope": "Entire target notice at Federal Register 77:65672–65673/PDF pp. 1–2; adjacent unrelated notices excluded.",
+      "evidentiary_use": "Correction adds Shanghai Metals & Minerals Import & Export / Huludao Steel Pipe exporter–producer combination; 69.20% original dumping margin versus 45.35% revised deposit; published rates otherwise unchanged.",
+      "limits": "Clerical correction, not another merits ruling or resolution of China’s compliance objection. Same margin/deposit distinction applies.",
+      "source_dependence": "Direct follow-up to DS379-08, not independent evidence of the legal sufficiency of implementation.",
+      "preserved_copy": {
+        "path": "/Users/jorsc/.codex/.chatgpt-projects/g-p-6a94dd290a988191911d85ae8fe94a6c/tmp/pdfs/research-2026-09-15/ds379/fr-correction.pdf",
+        "bytes": 190279,
+        "sha256": "bd4b90dec1f275da0ca0a8af4ad94d8e39105b4aa93826517230439a376e8f1e"
+      }
+    },
+    {
+      "id": "DS379-10",
+      "title": "United States – Definitive Anti-Dumping and Countervailing Duties on Certain Products from China: Passing the Buck on Pass-Through",
+      "author_or_institution": "Thomas J. Prusa and Edwin Vermulst",
+      "publication_date": "2013; online 2013-04-10; World Trade Review 12(2):197–234",
+      "source_type": "Authored peer-reviewed legal/economic analysis",
+      "url": "https://doi.org/10.1017/S1474745612000560",
+      "read_date": "2026-09-15",
+      "reading_status": "Read within explicitly bounded scope",
+      "read_scope": "Selected text pp. 197–199/PDF pp. 1–3; complete §§4.2–4.3 pp. 214–228/PDF pp. 18–32 including tables 1–2 and caveats; concluding section pp. 232–234/PDF pp. 36–38, with preceding benchmark paragraph on p. 232. Not whole article; §§2–3, 4.1, 4.4–4.5 not fully read.",
+      "evidentiary_use": "Pass-through mechanism and distinction between US-specific NME methodology and general empirical issues; critique of AB measurement approach; public-body evidence and possible new determinations.",
+      "limits": "Not a participant account of negotiation. Predictions about post-2016 Chinese market-economy treatment not treated as realized facts. Formal examples are analytic illustrations, not actual exporters’ outcomes. Authors generally favor the AB result but criticize parts of reasoning.",
+      "source_dependence": "Analyzes the same official reports and US measures; not an additional independent witness to underlying events. Prusa economics and Vermulst practitioner expertise supply analytic triangulation, not evidence of Chinese motives.",
+      "preserved_copy": {
+        "path": "/Users/jorsc/.codex/.chatgpt-projects/g-p-6a94dd290a988191911d85ae8fe94a6c/tmp/pdfs/research-2026-09-15/ds379/prusa-vermulst-published.pdf",
+        "bytes": 276589,
+        "sha256": "c460df1f273241a4fbe28a765d93338cbb8e8698aba02eeba6cbcaa4f241280e"
+      },
+      "download_url": "https://www.cambridge.org/core/services/aop-cambridge-core/content/view/B4BD02D4DDDE7BD8FE2A07976D528C6E/S1474745612000560a.pdf/united_states_definitive_antidumping_and_countervailing_duties_on_certain_products_from_china_passing_the_buck_on_passthrough.pdf"
+    },
+    {
+      "id": "DS379-11",
+      "title": "Definitive Anti-Dumping and Countervailing Duties on Certain Products from China: USTR case page",
+      "author_or_institution": "Office of the US Trade Representative",
+      "publication_date": "Undated living case page; consulted 2026-09-15",
+      "source_type": "Official party case summary and submissions index",
+      "url": "https://ustr.gov/issue-areas/enforcement/dispute-settlement-proceedings/wto-dispute-settlement/definitive-anti-dump-1",
+      "read_date": "2026-09-15",
+      "reading_status": "Read within explicitly bounded scope",
+      "read_scope": "Entire substantive narrative from consultation request through August 2012 implementation, status label and submission/adoption index; site navigation excluded.",
+      "evidentiary_use": "US implementation account, concluded label, original statement location/date.",
+      "limits": "Concluded is a party website status, not a WTO compliance determination. Subject metadata labels Agricultural Products despite named industrial products; use actual case text. Some narrative compresses mixed appellate outcomes.",
+      "source_dependence": "Largely repeats official chronology and reports; not independent corroboration. Links to original submissions better evidence for party arguments.",
+      "preserved_copy": {
+        "path": "/Users/jorsc/.codex/.chatgpt-projects/g-p-6a94dd290a988191911d85ae8fe94a6c/tmp/pdfs/research-2026-09-15/ds379/ustr-case.html",
+        "bytes": 40181,
+        "sha256": "c2210faa5944b224a88f6d48cd82b99baa8c0bfbfb26a4ee7bc79b5d08230f07"
+      }
+    }
+  ],
+  "acquisition_cautions": [
+    {
+      "file": "cwp-section129-final.pdf",
+      "url": "https://enforcement.trade.gov/download/section129/prc-cwcq-steel-pipe-Final-129-Determination-20120830.pdf",
+      "result": "HTTP success returned unrelated modern ITA-338P duty-free scientific-instrument form. Identity checked; EXCLUDED as Section 129 evidence. No underlying final memorandum claimed acquired/read."
+    },
+    {
+      "file": "prusa-vermulst.pdf",
+      "url": "https://econweb.rutgers.edu/prusa/cv/53%20-%20US%20AD%20CVD%20China.pdf",
+      "result": "Returned Rutgers HTML instead of paper; excluded. Correct publisher PDF independently acquired and registered DS379-10."
+    },
+    {
+      "url": "https://access.trade.gov/Resources/frn/summary/prc/2012-21322-1.pdf",
+      "result": "Attempted replacement path returned 404; no evidence."
+    },
+    {
+      "url": "https://ia.ita.doc.gov/download/section129/prc-cwcq-steel-pipe-Final-129-Determination-20120830.pdf",
+      "result": "Original cited host retrieval failed with 502 tunnel error; no evidence."
+    },
+    {
+      "file": "agreed-procedures.pdf",
+      "result": "Document 12 identity established as January 2012 US status report, registered accurately DS379-06. Actual agreed procedures are document 14, separate preserved file DS379-07."
+    },
+    {
+      "file": "panel-annex-b.pdf",
+      "result": "Third-party annex acquired, contents/initial Argentina paragraphs screened only; not used or counted among substantive sources."
+    }
+  ],
+  "remaining_gaps": [
+    "Full Chinese written submissions and exhibits beyond executive summary; verified division of work among officials/counsel/firms.",
+    "Internal case-selection, strategy and mandate records; interviews matched to documentary episodes.",
+    "Drafts/proposals leading to May 2012 agreed procedures.",
+    "Complete four section 129 final memoranda and Chinese responses; original September 2012 Chinese statement or full DSB minutes.",
+    "Customs deposit instructions, intervening reviews and entry-level final assessments for commercial-effect analysis."
+  ],
+  "method_note": "The source count measures distinct documents/publications, not independent witnesses. No report, annex volume or scholarly article is credited as fully read beyond the stated scope. Full captures remain outside Git; only original analysis and bibliographic/reading metadata enter the repository.",
+  "source_count": 11,
+  "review_status": "Bounded independent review completed 2026-09-15: signed procedural text, public-body and double-remedy holdings, implementation table labels and qualifications, correction and scholarship caveats checked. Unsupported claim of unusual precision removed. Expertise origin, bargaining authorship and a historical learning mechanism remain unresolved."
+}

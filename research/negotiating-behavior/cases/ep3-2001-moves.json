@@ -1,0 +1,545 @@
+{
+  "case": "EP-3 crisis, 2001: limited agreement and reserved disputes",
+  "research_date": "2026-09-15",
+  "latest_substantive_event": "2001-07-03",
+  "record_count": 16,
+  "classification_policy": "Mixed record ledger: public demands, diplomatic instrument, acceptance, internal preparation, implementation and retrospective claims are explicitly distinguished. Internal guidance is not a bilateral offer; retrospective accounts are not independently observed moves.",
+  "date_policy": "Publication, recollection and intended action dates are separate. Exact date remains unknown where unestablished. Sun’s published timestamp does not establish the time of the oral briefing. April 11 authorization is not physical crew departure.",
+  "commitment_policy": "Responsibility, reconnaissance, crew departure, aircraft inspection, disposition, technical execution and payment are separate objects. April 29 inspection is not aircraft return; acknowledging an agenda item is not accepting a substantive concession.",
+  "moves": [
+    {
+      "id": "EP3-M01",
+      "event_date": "2001-04-03",
+      "record_type": "contemporary public demand",
+      "actor": "PRC Ministry of Foreign Affairs",
+      "setting_channel_and_audience": "Public statement directed to United States and domestic/international audiences",
+      "issue_and_baseline": "Collision responsibility, apology, reconnaissance, entry and immunity",
+      "package_and_version": "April 3 statement with five numbered positions; not bilateral agreed facts",
+      "observed_move_or_state": "Demands US responsibility, explanation, apology and prevention; advances factual and legal allegations.",
+      "authority_evidence_and_unknowns": "Public MFA position established; original leadership instructions and fact-finding record absent.",
+      "next_observable_response_or_state": "US public demand retains crew-plus-aircraft return; China later accepts narrower crew arrangement without relinquishing responsibility claims.",
+      "source_references": [
+        {
+          "source_id": "EP301",
+          "locator": "Entire body, collision account and numbered positions 1–5"
+        },
+        {
+          "source_id": "EP305",
+          "locator": "Departure and unfinished-incident clauses"
+        }
+      ],
+      "interpretation": {
+        "proposed_mechanism": "Link responsibility and relationship repair to crisis demands.",
+        "strongest_rival": "Sincere but inaccurate initial assessment or domestic public justification rather than calculated maximalist tactic.",
+        "discriminating_evidence_needed": "Dated instructions, initial reports and evidence of beliefs before public demands."
+      },
+      "confidence": "high for statement, unresolved for beliefs and tactic",
+      "solomon_freeman_ids": [
+        "S-P04",
+        "S-P17",
+        "S-C09"
+      ]
+    },
+    {
+      "id": "EP3-M02",
+      "event_date": "2001-04-03 16:03 America/New_York",
+      "record_type": "contemporary public demand",
+      "actor": "George W. Bush",
+      "setting_channel_and_audience": "Rose Garden, Washington; US and Chinese public audiences",
+      "issue_and_baseline": "Return of 24 crew and damaged aircraft",
+      "package_and_version": "Published presidential remarks, printed p. 364",
+      "observed_move_or_state": "Calls for both crew and aircraft to return and warns of harm to bilateral relationship.",
+      "authority_evidence_and_unknowns": "President speaks publicly; actual mandate and conditional fallback options not acquired.",
+      "next_observable_response_or_state": "April 11 letter stages immediate crew departure separately from future aircraft-return planning.",
+      "source_references": [
+        {
+          "source_id": "EP302",
+          "locator": "Printed p.364, target remarks and editorial note"
+        },
+        {
+          "source_id": "EP303",
+          "locator": "Paragraphs 5–7"
+        }
+      ],
+      "interpretation": {
+        "proposed_mechanism": "Public urgency plus relationship costs; initial objects later follow different schedules.",
+        "strongest_rival": "Public bargaining position may differ from fallback instructions already available to US delegation.",
+        "discriminating_evidence_needed": "Decision memoranda and proposals showing when separation became acceptable."
+      },
+      "confidence": "high for public demand; unknown initial private fallback",
+      "solomon_freeman_ids": [
+        "S-C16",
+        "S-C18",
+        "S-P12"
+      ]
+    },
+    {
+      "id": "EP3-M03",
+      "event_date": "2001-04-06",
+      "record_type": "internal legal preparation, not a bilateral offer",
+      "actor": "Daniel J. Dell’Orto; DoD/Chairman’s legal offices with State Legal Adviser consultation",
+      "setting_channel_and_audience": "Memo to defense secretary and deputy secretary; internal audience",
+      "issue_and_baseline": "Regret, factual uncertainty, emergency landing, aircraft and crew status",
+      "package_and_version": "Signed cover and four enclosure groups, 21 physical pages; not Prueher-letter drafts",
+      "observed_move_or_state": "Transmits legal papers combining sympathy for Chinese loss with preserved US legal positions; distinguishes crew/aircraft legal status while demanding aircraft release immediately.",
+      "authority_evidence_and_unknowns": "Cover records consultation; informational memorandum, not presidential authorization or Chinese acceptance.",
+      "next_observable_response_or_state": "Released April 11 letter combines sympathetic language with emergency context, but textual transmission from this packet is unproved.",
+      "source_references": [
+        {
+          "source_id": "EP321",
+          "locator": "Physical pp.1–3 / OSD1809–1811; pp.5–8 / OSD1813–1816"
+        },
+        {
+          "source_id": "EP303",
+          "locator": "Paragraphs 2–3"
+        }
+      ],
+      "interpretation": {
+        "proposed_mechanism": "Institutional preparation permits sympathetic expression without conceded responsibility.",
+        "strongest_rival": "Routine legal defense with no material effect on negotiation language.",
+        "discriminating_evidence_needed": "Draft circulation and decision records linking packet to actual proposed/accepted text."
+      },
+      "confidence": "high for internal positions and consultation; causal role unresolved",
+      "solomon_freeman_ids": [
+        "S-C20",
+        "S-P12"
+      ]
+    },
+    {
+      "id": "EP3-M04",
+      "event_date": "2001-04-06",
+      "record_type": "internal communications clearance, not observed public delivery",
+      "actor": "State/DoD/JCS legal and regional officials",
+      "setting_channel_and_audience": "State legal press guidance; oral/off-camera response if pressed",
+      "issue_and_baseline": "Aircraft immunity and level of public legal explanation",
+      "package_and_version": "Tab C guidance and its clearance sheet",
+      "observed_move_or_state": "Clears specific guidance and restricts its intended presentation; multiple office entries marked OK.",
+      "authority_evidence_and_unknowns": "Clearance applies to this guidance, not all policy or final Prueher letter. Whether wording was used in actual press encounter unknown.",
+      "next_observable_response_or_state": "April 11 public letter contains limited operational wording rather than the whole legal argument.",
+      "source_references": [
+        {
+          "source_id": "EP321",
+          "locator": "Physical p.9 / OSD1817 and p.14 / OSD1822"
+        },
+        {
+          "source_id": "EP303",
+          "locator": "Complete letter"
+        }
+      ],
+      "interpretation": {
+        "proposed_mechanism": "Audience-specific presentation can coexist with retained internal legal claims.",
+        "strongest_rival": "Routine press management unrelated to bargaining flexibility.",
+        "discriminating_evidence_needed": "Use logs, actual public statements and proposed letter versions."
+      },
+      "confidence": "high for designated use/clearances; no inference of actual delivery",
+      "solomon_freeman_ids": [
+        "S-P17",
+        "S-C17",
+        "S-C20"
+      ]
+    },
+    {
+      "id": "EP3-M05",
+      "event_date": "Early April 2001; exact day unestablished",
+      "record_type": "retrospectively reported process change",
+      "actor": "Joseph Prueher, Kenneth Lieberthal and Colin Powell as recalled by Prueher",
+      "setting_channel_and_audience": "Private advice, US approval and Beijing negotiation, recollected in 2019",
+      "issue_and_baseline": "Stalemate over physical fault versus a negotiable path to crew return",
+      "package_and_version": "2019 Georgetown interview, not contemporary memcon",
+      "observed_move_or_state": "Prueher recalls advice and approval to move past fault arguments.",
+      "authority_evidence_and_unknowns": "First-person account of US approval; no original instruction or Chinese response record acquired.",
+      "next_observable_response_or_state": "Final public letter reserves causes for later discussion, consistent with but not proof of recalled causal sequence.",
+      "source_references": [
+        {
+          "source_id": "EP313",
+          "locator": "EP-3 discussion around local text lines 504–534"
+        },
+        {
+          "source_id": "EP303",
+          "locator": "Paragraphs 3 and 7"
+        }
+      ],
+      "interpretation": {
+        "proposed_mechanism": "Reframe immediate objective while leaving attribution unresolved.",
+        "strongest_rival": "Later participant reconstructs successful outcome as effect of chosen approach.",
+        "discriminating_evidence_needed": "Contemporaneous dated advice/instructions and draft changes before/after."
+      },
+      "confidence": "participant claim; independent chronology incomplete",
+      "solomon_freeman_ids": [
+        "S-P12",
+        "S-P08"
+      ]
+    },
+    {
+      "id": "EP3-M06",
+      "event_date": "2001-04-11 around 17:30 Asia/Shanghai",
+      "record_type": "released diplomatic letter and publicly reported delivery",
+      "actor": "Joseph W. Prueher on behalf of US Government; addressed to Tang Jiaxuan",
+      "setting_channel_and_audience": "Beijing MFA; formal diplomatic channel with public release",
+      "issue_and_baseline": "Crew departure, collision causes, aircraft return, reconnaissance and prevention",
+      "package_and_version": "Official released English letter; typed name, not inspected original signature",
+      "observed_move_or_state": "Expresses sorrow, retains emergency-account context, records meeting agreement and US expectation of prompt crew departure; schedules April 18 talks including an aircraft-return plan and acknowledges China’s intended reconnaissance topic.",
+      "authority_evidence_and_unknowns": "Fleischer says Bush approved whole letter and signed-copy delivery; clearance record and drafts not acquired.",
+      "next_observable_response_or_state": "Tang announces permission for crew departure after formalities; cause and aircraft questions continue.",
+      "source_references": [
+        {
+          "source_id": "EP303",
+          "locator": "Complete letter, especially paragraphs 2–7"
+        },
+        {
+          "source_id": "EP304",
+          "locator": "Opening delivery paragraph"
+        },
+        {
+          "source_id": "EP307",
+          "locator": "Delivery and approval exchanges"
+        }
+      ],
+      "interpretation": {
+        "proposed_mechanism": "Limited instrument separates immediate action from disputed attribution/policy.",
+        "strongest_rival": "Agreement chiefly driven by wider relationship costs, with language implementing an already authorized decision.",
+        "discriminating_evidence_needed": "Successive drafts and authorization timestamps for both sides."
+      },
+      "confidence": "high for published terms and paired delivery reports",
+      "solomon_freeman_ids": [
+        "S-P04",
+        "S-P12",
+        "S-P24"
+      ]
+    },
+    {
+      "id": "EP3-M07",
+      "event_date": "2001-04-11 afternoon Asia/Shanghai",
+      "record_type": "official acceptance and crew-departure authorization",
+      "actor": "Tang Jiaxuan / PRC Government",
+      "setting_channel_and_audience": "MFA public account of formal acceptance",
+      "issue_and_baseline": "Crew departure after receipt of letter; Chinese responsibility position retained",
+      "package_and_version": "Acceptance announcement, not comprehensive settlement",
+      "observed_move_or_state": "Accepts letter as 致歉信 and announces that 24 crew members may depart after necessary formalities on stated humanitarian grounds; declares the incident unfinished.",
+      "authority_evidence_and_unknowns": "Government decision announced by foreign minister; internal release-order timing and deliberation not acquired.",
+      "next_observable_response_or_state": "Further talks publicly announced April 18; aircraft disposition remains unresolved.",
+      "source_references": [
+        {
+          "source_id": "EP305",
+          "locator": "Complete body, crew clause and unfinished-incident passage"
+        },
+        {
+          "source_id": "EP308",
+          "locator": "Both body paragraphs"
+        }
+      ],
+      "interpretation": {
+        "proposed_mechanism": "Public justification accommodates immediate action without abandoning all claims.",
+        "strongest_rival": "Humanitarian/relationship decision would have occurred with other tolerable wording.",
+        "discriminating_evidence_needed": "Chinese decision and proposed alternatives with approval timing."
+      },
+      "confidence": "high for announced authorization; motivation unproved",
+      "solomon_freeman_ids": [
+        "S-P12",
+        "S-P17"
+      ]
+    },
+    {
+      "id": "EP3-M08",
+      "event_date": "2001-04-11 19:40 Asia/Shanghai (publication)",
+      "record_type": "official public interpretation of diplomatic instrument",
+      "actor": "PRC Ministry of Foreign Affairs",
+      "setting_channel_and_audience": "Domestic/international public account; selected Chinese letter excerpts",
+      "issue_and_baseline": "Public meaning of US expressions and remaining Chinese demands",
+      "package_and_version": "Delivery report, not a complete Chinese parallel translation",
+      "observed_move_or_state": "Labels letter 致歉信 and renders selected expressions 深表歉意; item does not reproduce the complete English letter.",
+      "authority_evidence_and_unknowns": "Official publication demonstrates authorized public framing; jointly authenticated bilingual text not obtained.",
+      "next_observable_response_or_state": "Sun Q&A explicitly addresses the distinction between 道歉 and 深表歉意; substantive disputes remain.",
+      "source_references": [
+        {
+          "source_id": "EP304",
+          "locator": "All four body paragraphs"
+        },
+        {
+          "source_id": "EP306",
+          "locator": "Question 1"
+        }
+      ],
+      "interpretation": {
+        "proposed_mechanism": "Maintain a publicly acceptable account alongside limited negotiated action.",
+        "strongest_rival": "Ordinary selective news reporting; no deliberate deception or linguistic misunderstanding demonstrated.",
+        "discriminating_evidence_needed": "Publication instructions and complete authenticated Chinese version, if one existed."
+      },
+      "confidence": "High for text; interpretation intent unresolved",
+      "solomon_freeman_ids": [
+        "S-P17",
+        "S-C17"
+      ]
+    },
+    {
+      "id": "EP3-M09",
+      "event_date": "2001-04-11 (published 19:05 Asia/Shanghai)",
+      "record_type": "official public clarification",
+      "actor": "Sun Yuxi",
+      "setting_channel_and_audience": "MFA press Q&A; domestic and international audiences",
+      "issue_and_baseline": "Question contrasts 道歉 with 深表歉意 and asks about compromise",
+      "package_and_version": "Eight exchanges; publication time does not prove the briefing preceded delivery",
+      "observed_move_or_state": "Affirms official letter and humanitarian departure, reserves investigation and aircraft disposition, and repeats the reconnaissance demand.",
+      "authority_evidence_and_unknowns": "Spokesman’s public position; investigative findings and private instructions absent.",
+      "next_observable_response_or_state": "April 18 talks continue on unresolved issues.",
+      "source_references": [
+        {
+          "source_id": "EP306",
+          "locator": "Questions 1–4 and 6–8"
+        },
+        {
+          "source_id": "EP308",
+          "locator": "Announcement"
+        }
+      ],
+      "interpretation": {
+        "proposed_mechanism": "Clarify immediate action while protecting unresolved positions.",
+        "strongest_rival": "Public justification could conceal a greater private concession or internal disagreement.",
+        "discriminating_evidence_needed": "Instructions and actual bilateral record of reserved commitments."
+      },
+      "confidence": "High for published answers; exact time of speaking unestablished",
+      "solomon_freeman_ids": [
+        "S-P12",
+        "S-P17",
+        "S-P22"
+      ]
+    },
+    {
+      "id": "EP3-M10",
+      "event_date": "2001-04-11 09:55–10:02 America/New_York",
+      "record_type": "Contemporary public chronology of earlier authorizations",
+      "actor": "Ari Fleischer",
+      "setting_channel_and_audience": "Air Force One press gaggle",
+      "issue_and_baseline": "Final delivery and US approval behind the letter",
+      "package_and_version": "Spokesperson chronology, not actual clearance cable",
+      "observed_move_or_state": "Reports signed-copy delivery around 05:00–06:00 and verbal release assurances; says President approved the entire letter.",
+      "authority_evidence_and_unknowns": "Direct public attribution of presidential approval; underlying approval record unacquired.",
+      "next_observable_response_or_state": "Publicly announced arrangement proceeds; ambassador’s signature alone cannot establish lack of presidential authorization.",
+      "source_references": [
+        {
+          "source_id": "EP307",
+          "locator": "Opening chronology and approval question"
+        },
+        {
+          "source_id": "EP304",
+          "locator": "17:30 Beijing delivery"
+        }
+      ],
+      "interpretation": {
+        "proposed_mechanism": "Formal agency and top-level authorization can be split across different actors without lessening commitment.",
+        "strongest_rival": "Public spokesperson compresses a more complex or contested clearance process.",
+        "discriminating_evidence_needed": "Presidential/NSC clearances, embassy report and signed original."
+      },
+      "confidence": "High for public statement; clearance process not reconstructed",
+      "solomon_freeman_ids": [
+        "S-C10",
+        "S-P24"
+      ]
+    },
+    {
+      "id": "EP3-M11",
+      "event_date": "2001-04-18 afternoon Asia/Shanghai",
+      "record_type": "Public account of negotiating round",
+      "actor": "Lu Shumin-led PRC delegation; US delegation not named in item",
+      "setting_channel_and_audience": "Beijing bilateral talks",
+      "issue_and_baseline": "Collision causes, reconnaissance, prevention and later aircraft arrangements",
+      "package_and_version": "MFA announcement, not minutes",
+      "observed_move_or_state": "Repeats Chinese full-responsibility and reconnaissance-cessation demands; announces continuation April 19.",
+      "authority_evidence_and_unknowns": "Delegation head identified; text of US response and instructions missing.",
+      "next_observable_response_or_state": "April 29 statement separately records inspection permission and continuing disposition talks.",
+      "source_references": [
+        {
+          "source_id": "EP308",
+          "locator": "Both paragraphs"
+        },
+        {
+          "source_id": "EP309",
+          "locator": "Complete body"
+        }
+      ],
+      "interpretation": {
+        "proposed_mechanism": "Reserved disputes continue after limited agreement.",
+        "strongest_rival": "Public line could overstate private intransigence or conceal incremental progress.",
+        "discriminating_evidence_needed": "Meeting minutes, April 18 State cable and Chinese record."
+      },
+      "confidence": "High for public position; private exchanges unknown",
+      "solomon_freeman_ids": [
+        "S-P12",
+        "S-P25"
+      ]
+    },
+    {
+      "id": "EP3-M12",
+      "event_date": "2001-04-29",
+      "record_type": "Official inspection authorization and progress report",
+      "actor": "PRC Ministry of Foreign Affairs",
+      "setting_channel_and_audience": "Public announcement following Beijing consultations",
+      "issue_and_baseline": "Aircraft evidence collection, inspection, payments and final disposition",
+      "package_and_version": "Single official announcement",
+      "observed_move_or_state": "Announces inspection permission after evidence collection; reports discussion of payment and MMCA; final disposition remains under negotiation.",
+      "authority_evidence_and_unknowns": "Inspection authorization public; technical access conditions and payment proposal texts not acquired.",
+      "next_observable_response_or_state": "May 29 agreement in principle on commercial transport of the disassembled aircraft.",
+      "source_references": [
+        {
+          "source_id": "EP309",
+          "locator": "Complete body"
+        },
+        {
+          "source_id": "EP310",
+          "locator": "Complete Q&A"
+        }
+      ],
+      "interpretation": {
+        "proposed_mechanism": "Separate access from final removal decision and payment settlement.",
+        "strongest_rival": "Inspection itself may have formed part of an unpublished larger package.",
+        "discriminating_evidence_needed": "Inspection agreement, technical reports and financial terms."
+      },
+      "confidence": "High for announced stage; unpublished package unknown",
+      "solomon_freeman_ids": [
+        "S-P12",
+        "S-P25"
+      ]
+    },
+    {
+      "id": "EP3-M13",
+      "event_date": "2001-05-29",
+      "record_type": "Official agreement-in-principle announcement",
+      "actor": "Zhu Bangzao / PRC Ministry of Foreign Affairs",
+      "setting_channel_and_audience": "Public Q&A about aircraft return",
+      "issue_and_baseline": "Removal method for EP-3",
+      "package_and_version": "原则同意 commercial An-124 transport of disassembled aircraft; technical details open",
+      "observed_move_or_state": "Announces principle of return in pieces with further technical negotiation.",
+      "authority_evidence_and_unknowns": "MFA announces government position; original signed technical arrangement not acquired.",
+      "next_observable_response_or_state": "June 7 US briefing describes runway assessment and disassembly planning.",
+      "source_references": [
+        {
+          "source_id": "EP310",
+          "locator": "Entire answer"
+        },
+        {
+          "source_id": "EP311",
+          "locator": "EP-3 section"
+        }
+      ],
+      "interpretation": {
+        "proposed_mechanism": "Bounded political acceptance precedes engineering and logistical specification.",
+        "strongest_rival": "Technical detail may also contain remaining political conditions.",
+        "discriminating_evidence_needed": "Technical agreement versions and access/timing requirements."
+      },
+      "confidence": "High for principle; no inference that final terms were already complete",
+      "solomon_freeman_ids": [
+        "S-P25",
+        "S-P12"
+      ]
+    },
+    {
+      "id": "EP3-M14",
+      "event_date": "2001-06-07",
+      "record_type": "Contemporary implementation-planning briefing",
+      "actor": "Rear Admiral Craig Quigley / US Department of Defense",
+      "setting_channel_and_audience": "Pentagon public briefing; State Washington File reproduction on historical mirror",
+      "issue_and_baseline": "Aircraft disassembly, runway limits, transport and communications",
+      "package_and_version": "Complete EP-3 section; estimates conditional",
+      "observed_move_or_state": "Explains dependence on load assessment and remaining logistics; estimates weeks before component departure and reports no communications hindrance under the team’s arrangements.",
+      "authority_evidence_and_unknowns": "Public technical account; commercial contracts and work instructions not acquired.",
+      "next_observable_response_or_state": "July 3 China reports completed disassembly and return; payments remain open.",
+      "source_references": [
+        {
+          "source_id": "EP311",
+          "locator": "Browser lines 24–91"
+        },
+        {
+          "source_id": "EP312",
+          "locator": "Complete body"
+        }
+      ],
+      "interpretation": {
+        "proposed_mechanism": "Material implementation constraints create elapsed time independently of deliberate delay.",
+        "strongest_rival": "Some constraints or access conditions may have been politically imposed; briefing cannot exclude leverage.",
+        "discriminating_evidence_needed": "Work logs, Chinese access conditions, contractor records and critical-path assessment."
+      },
+      "confidence": "High for published explanation; underlying measurements not verified",
+      "solomon_freeman_ids": [
+        "S-P23",
+        "S-P25",
+        "S-C16"
+      ]
+    },
+    {
+      "id": "EP3-M15",
+      "event_date": "2001-07-03",
+      "record_type": "Official completion announcement with reserved financial issue",
+      "actor": "PRC Ministry of Foreign Affairs",
+      "setting_channel_and_audience": "Public announcement",
+      "issue_and_baseline": "Disassembly/removal versus payment settlement",
+      "package_and_version": "Single Chinese completion statement",
+      "observed_move_or_state": "Reports completed disassembly and US-chartered An-124 return while payments remain under negotiation.",
+      "authority_evidence_and_unknowns": "Official account; exact component-flight and US arrival records not acquired.",
+      "next_observable_response_or_state": "Payment resolution not examined beyond this cutoff.",
+      "source_references": [
+        {
+          "source_id": "EP312",
+          "locator": "Complete body"
+        }
+      ],
+      "interpretation": {
+        "proposed_mechanism": "Different issues reach completion on different schedules.",
+        "strongest_rival": "Unpublished settlement may have determined remaining payment more than the public statement reveals.",
+        "discriminating_evidence_needed": "Payment settlement and actual transport logs."
+      },
+      "confidence": "High for announced completion/payment status; no expanded later coverage",
+      "solomon_freeman_ids": [
+        "S-P12",
+        "S-P25"
+      ]
+    },
+    {
+      "id": "EP3-M16",
+      "event_date": "April–May 2001; offer date unknown; reported intended flight date May 30",
+      "record_type": "Retrospective contested aircraft-option claim",
+      "actor": "Joseph Prueher, recalling Chinese permission and later US policy change",
+      "setting_channel_and_audience": "2019 oral history; refers to earlier private arrangements",
+      "issue_and_baseline": "Possibility of flying repaired aircraft out versus removal in pieces",
+      "package_and_version": "Participant recollection only; exact offer, conditions and authority unavailable",
+      "observed_move_or_state": "Recalls an earlier fly-out option lost after changed US approach; self-corrects May 31 to May 30.",
+      "authority_evidence_and_unknowns": "Not established as binding Chinese commitment; no original authorization or withdrawal record.",
+      "next_observable_response_or_state": "Official May 29 announcement supports disassembled return but does not resolve earlier option history.",
+      "source_references": [
+        {
+          "source_id": "EP313",
+          "locator": "Aircraft-return passage around local text lines 535–553"
+        },
+        {
+          "source_id": "EP310",
+          "locator": "May 29 answer"
+        }
+      ],
+      "interpretation": {
+        "proposed_mechanism": "Interagency handoff or policy change may alter feasible arrangements.",
+        "strongest_rival": "Earlier option was technical, provisional, differently conditioned or retrospectively misremembered.",
+        "discriminating_evidence_needed": "Original offer, approval scope, dated repair plan and subsequent negotiating messages."
+      },
+      "confidence": "Unresolved participant claim; not coded as proven repudiation",
+      "solomon_freeman_ids": [
+        "S-C20",
+        "S-P25"
+      ]
+    }
+  ],
+  "new_propositions": [
+    {
+      "id": "EP3-N01",
+      "claim": "Separating immediate humanitarian action from attribution and policy questions may have made an otherwise unacceptable package feasible in this episode.",
+      "status": "Mechanism hypothesis: structure observed, causation unproved.",
+      "supporting_test": "A dated draft or instruction links the change in scope to acceptance.",
+      "disconfirming_or_weakening_test": "Release was already authorized independently, or acceptance depended on a different concession."
+    },
+    {
+      "id": "EP3-N02",
+      "claim": "A channel’s informational value for resolution depends on whether reporting reaches and can be evaluated by the officials who authorize change.",
+      "status": "Mechanism hypothesis: independent channel-effect record missing.",
+      "supporting_test": "Trace a message into an assessment and resulting instruction.",
+      "disconfirming_or_weakening_test": "The decision predates the message, the report was unused, or another channel provided the same information and caused the change."
+    }
+  ]
+}

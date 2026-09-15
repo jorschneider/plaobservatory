@@ -1,0 +1,748 @@
+{
+  "case": "2001 EP-3 crisis: bounded reconstruction and source-access audit",
+  "research_date": "2026-09-15",
+  "latest_contemporary_event": "2001-07-03",
+  "source_count": 21,
+  "counts": {
+    "contemporary_official_documents_or_sections_read": 13,
+    "complete_original_captures_of_contemporary_texts": 12,
+    "contemporary_text_on_mirror_with_browser_extract_only": 1,
+    "full_participant_transcripts_read": 1,
+    "archival_administrative_records_read_in_defined_scope": 4,
+    "underlying_documents_from_2017_0023_F_obtained_or_read": 0,
+    "contemporaneous_internal_US_guidance_packets_read": 1,
+    "scholarly_articles_read_in_selected_scope": 1,
+    "scholarly_appendices_read_in_selected_scope": 1,
+    "full_scholarly_articles_read_in_browser_with_later_original_PDF_capture": 1
+  },
+  "publication_policy": "Original analysis, metadata and brief necessary quotations only in Git; full captures and extracts outside Git.",
+  "source_independence": "Document count is not independent-witness count. MFA items share a publicity chain; White House letter and briefing are related; mirror is a reproduction. Archival administrative records form one institutional chain.",
+  "access_policy": "Two State archive URLs returned identical Technical Difficulties HTML despite HTTP 200; excluded from the source count. The DoD mirror download returned HTTP 406, the initial Gries PDF request returned HTTP 403, and the full US-government Chinese translation returned HTTP 406. DoD and Gries reading uses preserved browser text. During case reconstruction, the Gries PDF was recovered from the author’s Berkeley laboratory. Relevant Jost article sections were read through the MUSE browser, but the local HTML download is a verification page and excluded as a source capture. The Jost appendix and Dell’Orto’s 21-page memorandum are valid preserved PDFs. The CIA link redirected to the reading-room homepage. Additional State links for Powell’s April 3 and Boucher’s April 10 briefings returned technical-error pages.",
+  "new_interviews_or_archival_requests": false,
+  "sources": [
+    {
+      "id": "EP301",
+      "title": "发言人谈美国军用侦察机撞毁中国军用飞机事件真相和中方有关立场",
+      "creator": "PRC Ministry of Foreign Affairs",
+      "publication_date": "2001-04-03",
+      "event_date_or_period": "2001-04-01/2001-04-03",
+      "source_type": "contemporary government position",
+      "reading_status": "complete article body and all five numbered positions read",
+      "locators": "Body following 打印; numbered points 1–5",
+      "source_chain": "PRC MFA publicity chain",
+      "interpretation_limits": "Aviation sequence, responsibility, EEZ and sovereign-immunity arguments are attributed Chinese claims; not independent fact finding or legal adjudication.",
+      "versions": [
+        {
+          "url": "https://www.fmprc.gov.cn/web/ziliao_674904/zt_674979/ywzt_675099/2355_676073/2379_676137/200104/t20010403_9289942.shtml",
+          "language": "zh",
+          "preserved_copy": {
+            "path": "/Users/jorsc/.codex/.chatgpt-projects/g-p-6a94dd290a988191911d85ae8fe94a6c/tmp/pdfs/research-2026-09-15/ep3/mfa-demands-20010403.html",
+            "sha256": "60cc0386947b1ca116ff8cbcc2fa5b35b2df8fd4506fc5223740a28dec4c0ffb",
+            "bytes": 65845,
+            "capture_kind": "complete source capture",
+            "outside_git": true
+          }
+        }
+      ],
+      "retrieved": "2026-09-15"
+    },
+    {
+      "id": "EP302",
+      "title": "Remarks Calling on China To Return the United States Military Crew and Surveillance Aircraft",
+      "creator": "George W. Bush; Public Papers of the Presidents / GPO",
+      "publication_date": "2001-04-03 (remarks); later compilation",
+      "event_date_or_period": "2001-04-03 16:03 America/New_York",
+      "source_type": "contemporary public presidential remarks",
+      "reading_status": "complete target remarks and editorial note read and visually checked; adjacent April 4 tax statement not used",
+      "locators": "Printed p.364, physical PDF p.1, top item and its note",
+      "source_chain": "US presidential public-position chain",
+      "interpretation_limits": "Public demand for crew and aircraft return; not private instructions. Editorial note says recording was unavailable for verification.",
+      "versions": [
+        {
+          "url": "https://www.govinfo.gov/content/pkg/PPP-2001-book1/pdf/PPP-2001-book1-doc-pg364.pdf",
+          "language": "en",
+          "preserved_copy": {
+            "path": "/Users/jorsc/.codex/.chatgpt-projects/g-p-6a94dd290a988191911d85ae8fe94a6c/tmp/pdfs/research-2026-09-15/ep3/bush-20010403.pdf",
+            "sha256": "4853c6a7ff23aae47696102001fcd818f78e95837c1819e5477e36acfdc85a1d",
+            "bytes": 121913,
+            "capture_kind": "complete source capture",
+            "outside_git": true
+          }
+        }
+      ],
+      "retrieved": "2026-09-15"
+    },
+    {
+      "id": "EP303",
+      "title": "Letter from Ambassador Prueher to Chinese Minister of Foreign Affairs Tang",
+      "creator": "US Government; Ambassador Joseph W. Prueher; White House release",
+      "publication_date": "2001-04-11",
+      "event_date_or_period": "2001-04-11",
+      "source_type": "official released diplomatic-letter text",
+      "reading_status": "complete letter body read",
+      "locators": "Seven substantive paragraphs, after salutation and before typed signature; especially paragraphs 2–3 and 5–7",
+      "source_chain": "Official US release of letter delivered to Chinese MFA",
+      "interpretation_limits": "Typeset released transcript bearing typed name, not original signed facsimile. Crew expectation, meeting agenda and acknowledgment of Chinese intended topic have different status; responsibility and aircraft return not settled here.",
+      "versions": [
+        {
+          "url": "https://georgewbush-whitehouse.archives.gov/news/releases/2001/04/20010411-1.html",
+          "language": "en",
+          "preserved_copy": {
+            "path": "/Users/jorsc/.codex/.chatgpt-projects/g-p-6a94dd290a988191911d85ae8fe94a6c/tmp/pdfs/research-2026-09-15/ep3/letter-us-20010411.html",
+            "sha256": "ca680eaea25e66af0372f87e7a7679142bbc977bab790123d1fdf51f0cc2e67f",
+            "bytes": 18875,
+            "capture_kind": "complete source capture",
+            "outside_git": true
+          }
+        }
+      ],
+      "retrieved": "2026-09-15"
+    },
+    {
+      "id": "EP304",
+      "title": "美国大使普理赫就撞机事件向唐家璇外长递交致歉信",
+      "creator": "PRC Ministry of Foreign Affairs",
+      "publication_date": "2001-04-11 19:40 Asia/Shanghai",
+      "event_date_or_period": "2001-04-11 17:30 Asia/Shanghai",
+      "source_type": "official account and selected Chinese letter excerpts",
+      "reading_status": "all four body paragraphs read",
+      "locators": "Delivery paragraph; paragraph 2 深表歉意 phrases; final paragraph on remaining negotiations",
+      "source_chain": "PRC MFA report of same letter as EP303; overlaps EP305 and EP306",
+      "interpretation_limits": "Authoritative Chinese public rendering of excerpts, not a full parallel translation or jointly authenticated bilingual instrument. Omissions cannot simply be labeled mistranslation of a complete text.",
+      "versions": [
+        {
+          "url": "https://www.fmprc.gov.cn/web/ziliao_674904/zt_674979/ywzt_675099/2355_676073/2379_676137/200104/t20010411_7965451.shtml",
+          "language": "zh",
+          "preserved_copy": {
+            "path": "/Users/jorsc/.codex/.chatgpt-projects/g-p-6a94dd290a988191911d85ae8fe94a6c/tmp/pdfs/research-2026-09-15/ep3/letter-zh-20010411.html",
+            "sha256": "0ec5b8d0647276052dbe70be92b71799d2389158bc598b990307b040b0989b0c",
+            "bytes": 59487,
+            "capture_kind": "complete source capture",
+            "outside_git": true
+          }
+        }
+      ],
+      "retrieved": "2026-09-15"
+    },
+    {
+      "id": "EP305",
+      "title": "外交部长唐家璇接受美国政府就撞机事件给中国人民的致歉信",
+      "creator": "PRC Ministry of Foreign Affairs, reporting Tang Jiaxuan",
+      "publication_date": "2001-04-11",
+      "event_date_or_period": "2001-04-11 afternoon Asia/Shanghai",
+      "source_type": "official acceptance and crew-departure announcement",
+      "reading_status": "entire body read",
+      "locators": "Crew clause 在履行必要手续后; responsibility and unfinished-incident paragraphs",
+      "source_chain": "PRC MFA publicity chain; repeats selected letter text",
+      "interpretation_limits": "Departure announced after necessary formalities, on stated humanitarian grounds and receipt of letter. Continuing Chinese responsibility allegations do not establish their US acceptance.",
+      "versions": [
+        {
+          "url": "https://www.fmprc.gov.cn/web/ziliao_674904/zt_674979/ywzt_675099/2355_676073/2379_676137/200104/t20010411_7965445.shtml",
+          "language": "zh",
+          "preserved_copy": {
+            "path": "/Users/jorsc/.codex/.chatgpt-projects/g-p-6a94dd290a988191911d85ae8fe94a6c/tmp/pdfs/research-2026-09-15/ep3/tang-accept-20010411.html",
+            "sha256": "1ca09dbadc36a43cf7f31faa1c3da16c952956a2a7cca5af5d15dc4569d1bfab",
+            "bytes": 61764,
+            "capture_kind": "complete source capture",
+            "outside_git": true
+          }
+        }
+      ],
+      "retrieved": "2026-09-15"
+    },
+    {
+      "id": "EP306",
+      "title": "外交部发言人孙玉玺就美国政府给中国人民的致歉信答记者问",
+      "creator": "PRC Ministry of Foreign Affairs; Sun Yuxi",
+      "publication_date": "2001-04-11",
+      "event_date_or_period": "2001-04-11",
+      "source_type": "official spokesperson Q&A",
+      "reading_status": "all eight questions and answers read",
+      "locators": "Q1 道歉 versus 深表歉意 and compromise; Q3 continuing investigation; Q4 aircraft disposition; Q6 reconnaissance demand",
+      "source_chain": "PRC MFA publicity chain; contemporaneous explicit discussion of semantic compromise question",
+      "interpretation_limits": "Question premises are not admissions by speaker. Answers reserve Chinese claims and future disposition; they do not supply private instructions, actual investigation results or a complete Chinese letter.",
+      "versions": [
+        {
+          "url": "https://www.fmprc.gov.cn/web/gjhdq_676201/gj_676203/bmz_679954/1206_680528/fyrygth_680536/200104/t20010411_9361186.shtml",
+          "language": "zh",
+          "preserved_copy": {
+            "path": "/Users/jorsc/.codex/.chatgpt-projects/g-p-6a94dd290a988191911d85ae8fe94a6c/tmp/pdfs/research-2026-09-15/ep3/mfa-sun-20010411.html",
+            "sha256": "3a32aa55e1071c268da8f0173ec27a9c16b02375b5cd95335b88103547604609",
+            "bytes": 64001,
+            "capture_kind": "complete source capture",
+            "outside_git": true
+          }
+        }
+      ],
+      "retrieved": "2026-09-15"
+    },
+    {
+      "id": "EP307",
+      "title": "Press Gaggle by Ari Fleischer aboard Air Force One en route Concord, North Carolina",
+      "creator": "White House Office of the Press Secretary; Ari Fleischer",
+      "publication_date": "2001-04-11",
+      "event_date_or_period": "2001-04-10 22:30/2001-04-11 09:55–10:02 America/New_York",
+      "source_type": "contemporary public chronology",
+      "reading_status": "complete briefing body read",
+      "locators": "Opening chronology; question on presidential approval of letter; final logistics discussion",
+      "source_chain": "US White House publicity chain; related to EP303",
+      "interpretation_limits": "Public report says signed-letter copy delivered, verbal crew assurance received and President approved entire letter. Does not preserve signed original, draft history or underlying approval message. Times are Washington time.",
+      "versions": [
+        {
+          "url": "https://georgewbush-whitehouse.archives.gov/news/briefings/20010411.html",
+          "language": "en",
+          "preserved_copy": {
+            "path": "/Users/jorsc/.codex/.chatgpt-projects/g-p-6a94dd290a988191911d85ae8fe94a6c/tmp/pdfs/research-2026-09-15/ep3/fleischer-20010411.html",
+            "sha256": "45d5bb9a4f943e1bae0f4641a0abb56f7f92650551f04cbed1c41adea19d930e",
+            "bytes": 24583,
+            "capture_kind": "complete source capture",
+            "outside_git": true
+          }
+        }
+      ],
+      "retrieved": "2026-09-15"
+    },
+    {
+      "id": "EP308",
+      "title": "中美就美军侦察机撞毁中方飞机事件及相关问题举行谈判",
+      "creator": "PRC Ministry of Foreign Affairs",
+      "publication_date": "2001-04-18",
+      "event_date_or_period": "2001-04-18 afternoon Asia/Shanghai",
+      "source_type": "official negotiation announcement",
+      "reading_status": "both body paragraphs read",
+      "locators": "Lu Shumin delegation identification and reiterated demands; April 19 continuation sentence",
+      "source_chain": "PRC MFA publicity chain",
+      "interpretation_limits": "No minutes or substantive US replies; public assertion of full US responsibility is not an agreed conclusion.",
+      "versions": [
+        {
+          "url": "https://www.fmprc.gov.cn/web/ziliao_674904/zt_674979/ywzt_675099/2355_676073/2379_676137/200104/t20010418_7965460.shtml",
+          "language": "zh",
+          "preserved_copy": {
+            "path": "/Users/jorsc/.codex/.chatgpt-projects/g-p-6a94dd290a988191911d85ae8fe94a6c/tmp/pdfs/research-2026-09-15/ep3/mfa-talks-20010418.html",
+            "sha256": "0650aa0f9d5ac69d1fa81a466a874db5e509db98b8c59256362396e5e71cf255",
+            "bytes": 59219,
+            "capture_kind": "complete source capture",
+            "outside_git": true
+          }
+        }
+      ],
+      "retrieved": "2026-09-15"
+    },
+    {
+      "id": "EP309",
+      "title": "中方同意美方人员察看美方飞机",
+      "creator": "PRC Ministry of Foreign Affairs",
+      "publication_date": "2001-04-29",
+      "event_date_or_period": "2001-04-29; preceding rounds undated in item",
+      "source_type": "official inspection and continuing-negotiation statement",
+      "reading_status": "complete single-paragraph body read",
+      "locators": "Payment, MMCA, completed evidence collection, inspection permission and final-disposition clauses",
+      "source_chain": "PRC MFA publicity chain",
+      "interpretation_limits": "Inspection authorized; final aircraft disposition and payment amount/items remain unresolved. Not a return/release of aircraft on April 29.",
+      "versions": [
+        {
+          "url": "https://www.fmprc.gov.cn/web/ziliao_674904/zt_674979/ywzt_675099/2355_676073/2379_676137/200104/t20010429_9289948.shtml",
+          "language": "zh",
+          "preserved_copy": {
+            "path": "/Users/jorsc/.codex/.chatgpt-projects/g-p-6a94dd290a988191911d85ae8fe94a6c/tmp/pdfs/research-2026-09-15/ep3/mfa-inspect-20010429.html",
+            "sha256": "7eba8119cdd794352b67709e61901af2122c0ea6bb3592e018a3de6b0ed85134",
+            "bytes": 58930,
+            "capture_kind": "complete source capture",
+            "outside_git": true
+          }
+        }
+      ],
+      "retrieved": "2026-09-15"
+    },
+    {
+      "id": "EP310",
+      "title": "发言人朱邦造就美EP-3侦察机返还问题答记者问",
+      "creator": "PRC Ministry of Foreign Affairs; Zhu Bangzao",
+      "publication_date": "2001-05-29",
+      "event_date_or_period": "2001-05-29",
+      "source_type": "official spokesperson Q&A",
+      "reading_status": "complete question and answer read",
+      "locators": "原则同意; commercial An-124 removal of disassembled aircraft; continuing technical talks",
+      "source_chain": "PRC MFA publicity chain",
+      "interpretation_limits": "Agreement in principle, not evidence of completed technical arrangements or actual departure. Does not settle whether an earlier alternative was privately offered.",
+      "versions": [
+        {
+          "url": "https://www.fmprc.gov.cn/web/ziliao_674904/zt_674979/ywzt_675099/2355_676073/2379_676137/200105/t20010529_7965465.shtml",
+          "language": "zh",
+          "preserved_copy": {
+            "path": "/Users/jorsc/.codex/.chatgpt-projects/g-p-6a94dd290a988191911d85ae8fe94a6c/tmp/pdfs/research-2026-09-15/ep3/mfa-aircraft-20010529.html",
+            "sha256": "03151774f1a6ff2c35c930c9594f02507530b23a7cde10092685004d4c5a3539",
+            "bytes": 58754,
+            "capture_kind": "complete source capture",
+            "outside_git": true
+          }
+        }
+      ],
+      "retrieved": "2026-09-15"
+    },
+    {
+      "id": "EP311",
+      "title": "Transcript: Pentagon Spokesman’s Briefing, June 7, 2001",
+      "creator": "US Department of Defense; Rear Admiral Craig Quigley; Department of State Washington File reprint",
+      "publication_date": "2001-06-07",
+      "event_date_or_period": "2001-06-07",
+      "source_type": "contemporary government briefing reproduced on historical mirror",
+      "reading_status": "complete opening EP-3 section read; subsequent unrelated briefing subjects not read systematically",
+      "locators": "Browser lines 24–91, ending New subject; runway assessment, support, communications and return-to-service questions",
+      "source_chain": "DoD testimony republished by State Washington File, now on nongovernmental usinfo.org mirror",
+      "interpretation_limits": "Primary-source text on secondary host; download returned HTTP 406. Browser extracts preserved, not original HTML. Technical estimates conditional; no inference that every delay was political or that political constraints were absent.",
+      "versions": [
+        {
+          "url": "https://usinfo.org/wf-archive/2001/010607/epf403.htm",
+          "language": "en",
+          "preserved_copy": {
+            "path": "/Users/jorsc/.codex/.chatgpt-projects/g-p-6a94dd290a988191911d85ae8fe94a6c/tmp/pdfs/research-2026-09-15/ep3/ep3_final_web.txt",
+            "sha256": "3a7caf52e408f6eccd1f76bbda53803cd9d265b4f17737210ce453228f9ddad9",
+            "bytes": 32703,
+            "capture_kind": "browser-rendered text excerpt, shared capture also contains scholarly article",
+            "outside_git": true
+          }
+        }
+      ],
+      "retrieved": "2026-09-15",
+      "additional_captures": [
+        {
+          "path": "/Users/jorsc/.codex/.chatgpt-projects/g-p-6a94dd290a988191911d85ae8fe94a6c/tmp/pdfs/research-2026-09-15/ep3/ep3_dod_gries_web.txt",
+          "sha256": "a8fe0e5c828a0bde1136b943ad0e531a8c29651303fd10e4d672ae6ec8494a30",
+          "bytes": 32287,
+          "capture_kind": "earlier browser-rendered excerpt; shared capture",
+          "outside_git": true
+        }
+      ]
+    },
+    {
+      "id": "EP312",
+      "title": "美国EP－3侦察机于7月3日拆解完毕",
+      "creator": "PRC Ministry of Foreign Affairs",
+      "publication_date": "2001-07-03",
+      "event_date_or_period": "2001-07-03",
+      "source_type": "official completion announcement",
+      "reading_status": "complete body paragraph read",
+      "locators": "Disassembly and An-124 removal sentence; payment negotiation sentence",
+      "source_chain": "PRC MFA publicity chain",
+      "interpretation_limits": "Reports return/removal arrangements and completion; does not independently establish exact component-flight dates or arrival in United States. Payments still under negotiation.",
+      "versions": [
+        {
+          "url": "https://www.fmprc.gov.cn/web/ziliao_674904/zt_674979/ywzt_675099/2355_676073/2379_676137/200107/t20010703_7965467.shtml",
+          "language": "zh",
+          "preserved_copy": {
+            "path": "/Users/jorsc/.codex/.chatgpt-projects/g-p-6a94dd290a988191911d85ae8fe94a6c/tmp/pdfs/research-2026-09-15/ep3/mfa-return-20010703.html",
+            "sha256": "8858098ee2be26eb475464214b541bde19bf69ad0468ffe1f6ab7fba7b86793b",
+            "bytes": 58582,
+            "capture_kind": "complete source capture",
+            "outside_git": true
+          }
+        }
+      ],
+      "retrieved": "2026-09-15"
+    },
+    {
+      "id": "EP313",
+      "title": "Joseph Prueher",
+      "creator": "Joseph W. Prueher, interviewed by James Green; Georgetown US–China Dialogue on Global Issues",
+      "publication_date": "2019-05-06",
+      "event_date_or_period": "Retrospective career interview; EP-3 April–May 2001 recollections",
+      "source_type": "participant oral-history transcript",
+      "reading_status": "entire published transcript read; audio not listened to",
+      "locators": "Local text lines 425–583, especially 432, 504–535 and later alternative-channel discussion; conclusion at 617 onward",
+      "source_chain": "First-person American ambassador account; explicitly informed by Solomon’s book",
+      "interpretation_limits": "Retrospective, prompted and partly self-exculpatory. Letter wording checked against EP303; aircraft-permission and private-channel claims remain uncorroborated.",
+      "versions": [
+        {
+          "url": "https://uschinadialogue.georgetown.edu/podcasts/joseph-prueher",
+          "language": "en",
+          "preserved_copy": {
+            "path": "/Users/jorsc/.codex/.chatgpt-projects/g-p-6a94dd290a988191911d85ae8fe94a6c/tmp/pdfs/research-2026-09-15/ep3/prueher-2019.html",
+            "sha256": "96a12c451c6c41aeda5072d6edf6b36d3935f8b417c1932a6042c2a6aeebc175",
+            "bytes": 126350,
+            "capture_kind": "complete source capture",
+            "outside_git": true
+          }
+        }
+      ],
+      "retrieved": "2026-09-15"
+    },
+    {
+      "id": "EP314",
+      "title": "Culture Clash? Apologies East and West",
+      "creator": "Peter Hays Gries and Kaiping Peng",
+      "publication_date": "2002; author upload 2014-09-29",
+      "event_date_or_period": "2001-04 episode; earlier psychology studies",
+      "source_type": "peer-reviewed interpretive scholarly essay",
+      "reading_status": "all six pages and fifteen notes read through author-uploaded browser text; university-hosted original six-page PDF subsequently obtained, first page visually verified",
+      "locators": "Journal of Contemporary China 11(30), pp.173–178; DOI 10.1080/106705601200912000; browser lines 48–540",
+      "source_chain": "Independent scholarly interpretation relying on public commentary and earlier psychology, not new access to EP-3 negotiating instructions",
+      "interpretation_limits": "Not an EP-3 decision-maker experiment or archival reconstruction; proposed culture mechanisms not identified causally by this case. Initial ResearchGate PDF download HTTP 403; subsequent author-laboratory Berkeley PDF valid and preserved.",
+      "versions": [
+        {
+          "url": "https://www.researchgate.net/publication/261693139_Culture_Clash_Apologies_East_and_West",
+          "language": "en",
+          "preserved_copy": {
+            "path": "/Users/jorsc/.codex/.chatgpt-projects/g-p-6a94dd290a988191911d85ae8fe94a6c/tmp/pdfs/research-2026-09-15/ep3/ep3_final_web.txt",
+            "sha256": "3a7caf52e408f6eccd1f76bbda53803cd9d265b4f17737210ce453228f9ddad9",
+            "bytes": 32703,
+            "capture_kind": "browser-rendered article text, first part; shared capture",
+            "outside_git": true
+          }
+        },
+        {
+          "url": "https://culcog.berkeley.edu/Publications/2002Cultureclash.pdf",
+          "language": "en",
+          "preserved_copy": {
+            "path": "/Users/jorsc/.codex/.chatgpt-projects/g-p-6a94dd290a988191911d85ae8fe94a6c/tmp/pdfs/research-2026-09-15/ep3/gries-peng-2002-berkeley.pdf",
+            "sha256": "bb37cacc7ea0ff3273f0773114c19756d03fd8b96f0e60b25375c3763d504175",
+            "bytes": 92522,
+            "capture_kind": "complete source capture",
+            "outside_git": true
+          }
+        }
+      ],
+      "retrieved": "2026-09-15",
+      "additional_captures": [
+        {
+          "path": "/Users/jorsc/.codex/.chatgpt-projects/g-p-6a94dd290a988191911d85ae8fe94a6c/tmp/pdfs/research-2026-09-15/ep3/ep3_gries_end.txt",
+          "sha256": "7e0dc377477364596c52799f8500d490166d51a07b193e045554c305c75449e5",
+          "bytes": 32388,
+          "capture_kind": "browser-rendered article text, remainder and notes; also later unrelated page content",
+          "outside_git": true
+        }
+      ],
+      "bibliographic_confirmation": {
+        "url": "https://research.manchester.ac.uk/en/publications/culture-clash-apologies-east-and-west",
+        "reading_status": "publication metadata read; not a separate full-text version"
+      }
+    },
+    {
+      "id": "EP315",
+      "title": "Inventory for FOIA Request 2017-0023-F: National Security Council Records on the April 2001 United States EP-3 Collision with a People’s Republic of China Aircraft",
+      "creator": "George W. Bush Presidential Library and Museum",
+      "publication_date": "2025-11-17 last modified; processed 2025",
+      "event_date_or_period": "Records requested 2001-03-15/2001-04-30",
+      "source_type": "archival finding aid; administrative record",
+      "reading_status": "both pages read; not underlying records",
+      "locators": "p.1 scope, unprocessed classified material; p.2 ARMS counts 215/177/22/16",
+      "source_chain": "Bush Library/NARA administrative provenance chain",
+      "interpretation_limits": "Selective collection; some classified records unprocessed. Counts assets, not pages or letter versions. Underlying release documents obtained/read: zero.",
+      "versions": [
+        {
+          "url": "https://www.georgewbushlibrary.gov/sites/default/files/2025-11/20170023f-findingaid.pdf",
+          "language": "en",
+          "preserved_copy": {
+            "path": "/Users/jorsc/.codex/.chatgpt-projects/g-p-6a94dd290a988191911d85ae8fe94a6c/tmp/pdfs/research-2026-09-15/ep3/archive/20170023f-findingaid.pdf",
+            "sha256": "1bdac8bcbe653c6f2efb9e8b23298281f00f7fcc80bc6a54a4ad419dbe199172",
+            "bytes": 195074,
+            "capture_kind": "complete source capture",
+            "outside_git": true
+          }
+        }
+      ],
+      "retrieved": "2026-09-15"
+    },
+    {
+      "id": "EP316",
+      "title": "Freedom of Information Act Requests 2017",
+      "creator": "George W. Bush Presidential Library and Museum",
+      "publication_date": "undated current webpage; checked 2026-09-15",
+      "event_date_or_period": "Current advertised access route",
+      "source_type": "official archival access instructions",
+      "reading_status": "opening access instructions and 2017-0023-F entry read; HTML destination inspected; unrelated entries not read",
+      "locators": "Introduction on born-digital records; entry 2017-0023-F direct finding-aid link",
+      "source_chain": "Same institutional provenance as EP315",
+      "interpretation_limits": "Born-digital records not online unless indicated. Entry offers finding aid only; research room or reproduction order is advertised route. Bounded search found no underlying package, not proof no copies exist elsewhere.",
+      "versions": [
+        {
+          "url": "https://www.georgewbushlibrary.gov/research/finding-aids/freedom-information-act-requests/FOIA-requests-2017",
+          "language": "en",
+          "preserved_copy": {
+            "path": "/Users/jorsc/.codex/.chatgpt-projects/g-p-6a94dd290a988191911d85ae8fe94a6c/tmp/pdfs/research-2026-09-15/ep3/archive/bush-library-foia-2017.html",
+            "sha256": "f1fb9795e68d1e8f17a91735b49457a832742b3c1252ccab2a2c135b7a980d63",
+            "bytes": 644985,
+            "capture_kind": "complete source capture",
+            "outside_git": true
+          }
+        }
+      ],
+      "retrieved": "2026-09-15"
+    },
+    {
+      "id": "EP317",
+      "title": "Notification of Intent to Release Presidential Records: PA 2025-076",
+      "creator": "National Archives and Records Administration",
+      "publication_date": "2025-08-18",
+      "event_date_or_period": "Proposed opening 2025-11-13 subject to review; EP-3 records from 2001",
+      "source_type": "archival release notification",
+      "reading_status": "letter physical pp.1–2 and EP-3 table entry physical p.4 read; p.4 visually checked by delegated archive researcher; rest not read",
+      "locators": "Physical PDF pp.1–2,4 of 34",
+      "source_chain": "Same NARA/Bush Library administrative provenance as EP315–EP316",
+      "interpretation_limits": "Prospective November 13 date is not independent verification of actual opening. Matching counts do not add an independent event witness.",
+      "versions": [
+        {
+          "url": "https://www.archives.gov/files/foia/pra-notifications/pdf/bush43/rn-plgwb-2025-076.pdf",
+          "language": "en",
+          "preserved_copy": {
+            "path": "/Users/jorsc/.codex/.chatgpt-projects/g-p-6a94dd290a988191911d85ae8fe94a6c/tmp/pdfs/research-2026-09-15/ep3/archive/rn-plgwb-2025-076.pdf",
+            "sha256": "751f4167af4c7554f612789218f39153aa8aeaa33e290663691b332b389dc3bb",
+            "bytes": 588911,
+            "capture_kind": "complete source capture",
+            "outside_git": true
+          }
+        }
+      ],
+      "retrieved": "2026-09-15"
+    },
+    {
+      "id": "EP318",
+      "title": "George W. Bush Library FOIA Log, 2014–2022",
+      "creator": "National Archives and Records Administration",
+      "publication_date": "undated released log spanning 2014–2022",
+      "event_date_or_period": "Request 2016-11-01; narrowing date unspecified",
+      "source_type": "archival request log",
+      "reading_status": "only row 2017-0023-F on physical PDF p.156 of 393 read and visually verified by delegated archive researcher",
+      "locators": "Physical p.156; requester Tyler Jost; narrowed scope excludes PC/DC meetings and limits dates to 2001-03-15/2001-04-30",
+      "source_chain": "NARA/Bush Library administrative provenance chain",
+      "interpretation_limits": "Log has no current release status for this request. Narrowed scope excludes top-level committee records; original broader request wording is not the final search scope.",
+      "versions": [
+        {
+          "url": "https://www.archives.gov/files/foia/pdf/lp-gwb-foia-log-2014-2022-redacted.pdf",
+          "language": "en",
+          "preserved_copy": {
+            "path": "/Users/jorsc/.codex/.chatgpt-projects/g-p-6a94dd290a988191911d85ae8fe94a6c/tmp/pdfs/research-2026-09-15/ep3/archive/bush-foia-log-2014-2022.pdf",
+            "sha256": "529b1980e1fa062f80b5c3567191a6fc41b846c80a4871f62d7b461d1da24b03",
+            "bytes": 1629383,
+            "capture_kind": "complete source capture",
+            "outside_git": true
+          }
+        }
+      ],
+      "retrieved": "2026-09-15"
+    },
+    {
+      "id": "EP319",
+      "title": "The Institutional Origins of Miscalculation in China’s International Crises",
+      "creator": "Tyler Jost",
+      "publication_date": "2023 Summer; MUSE launch 2023-08-09",
+      "event_date_or_period": "comparative framework 1949–2012; EP-3 case April 2001",
+      "source_type": "peer-reviewed scholarly article using original interviews and archival/publication sources",
+      "reading_status": "Selected theory and methods prose on pp. 47–63, the full reform-period/EP-3 and alternative-explanation discussion on pp. 80–88, and relevant notes 142–190 read through the browser; not the whole 44-page article. Image-only main tables were not visually verified.",
+      "locators": "International Security 48(1), pp. 47–90; DOI 10.1162/isec_a_00464; EP-3 discussion pp. 82–86, notes 157–183; MUSE browser lines 271–323 and notes at lines 570–650.",
+      "source_chain": "Author’s mixed-source synthesis; key EP-3 claims combine State cables, Chinese memoirs/biography, later scholarship and coded interviews; underlying Chinese private records not independently acquired in this project",
+      "interpretation_limits": "Reading is selected, not complete. The internal Chinese information-flow mechanism is a scholarly inference requiring underlying-source checks. The description on p. 83 names a Powell-to-Qian letter, while note 167 describes the two expressions and clearance language found in the released Prueher-to-Tang instrument (EP303). This appears to misidentify the instrument whose wording is described; the letters must be disentangled. It does not establish that no separate Powell–Qian correspondence existed or refute the institutional hypothesis. The April 17 CIA assessment cannot date an earlier decision without its underlying chronology.",
+      "versions": [
+        {
+          "url": "https://muse.jhu.edu/pub/6/article/904029",
+          "language": "en",
+          "preserved_copy": {
+            "path": "/Users/jorsc/.codex/.chatgpt-projects/g-p-6a94dd290a988191911d85ae8fe94a6c/tmp/pdfs/research-2026-09-15/ep3/jost-case-browser.txt",
+            "sha256": "49900e92982a027813cb689a6ed48c297e60a793c39cbc7b6de6ae4b17994da2",
+            "bytes": 41015,
+            "capture_kind": "selected browser-rendered article text; no full HTML/PDF obtained",
+            "outside_git": true
+          }
+        }
+      ],
+      "additional_captures": [
+        {
+          "path": "/Users/jorsc/.codex/.chatgpt-projects/g-p-6a94dd290a988191911d85ae8fe94a6c/tmp/pdfs/research-2026-09-15/ep3/ep3_jost_method.txt",
+          "sha256": "5990e53c03865b198f1e670d8424dbb10a62b1b5db357d212f5c20b154bb54b9",
+          "bytes": 40656,
+          "capture_kind": "selected browser-rendered method text; image tables not preserved as scans",
+          "outside_git": true
+        },
+        {
+          "path": "/Users/jorsc/.codex/.chatgpt-projects/g-p-6a94dd290a988191911d85ae8fe94a6c/tmp/pdfs/research-2026-09-15/ep3/jost-notes-browser.txt",
+          "sha256": "d3e8ecb87643c021731e0a8d6bf38599c53f12766fda0ed1693f6ca4548f45fb",
+          "bytes": 27130,
+          "capture_kind": "browser-rendered references and notes; unrelated references also included",
+          "outside_git": true
+        }
+      ],
+      "retrieved": "2026-09-15"
+    },
+    {
+      "id": "EP320",
+      "title": "The Institutional Origins of Miscalculation in China’s International Crises: Online Appendix",
+      "creator": "Tyler Jost",
+      "publication_date": "2023 associated article; author-hosted appendix undated",
+      "event_date_or_period": "Methods covering 1949–2012; EP-3 coding for 2001",
+      "source_type": "author-posted supplementary scholarly methods and case coding",
+      "reading_status": "Selected institutional-method text on printed pp. 3–5 and 10–14, EP-3 subsection 3.2.23 on printed p. 41, and case-study materials on p. 44 read. Printed p. 41 was visually checked. The full 52-page PDF was not read.",
+      "locators": "Physical pp. 5–7, 12–16, 43 and 46; printed page numbers are lower by 2.",
+      "source_chain": "Same research as EP319, not independent corroboration",
+      "interpretation_limits": "Four-goal failure coding is analytical, not an observed concession or a complete bargaining utility function. Earlier meeting data are not a log of Jiang’s 2001 deliberations. The appendix cites FOIA source collections; this project has not acquired all underlying documents.",
+      "versions": [
+        {
+          "url": "https://www.tylerjost.com/uploads/1/1/0/4/110425699/appendix_-_final.pdf",
+          "language": "en",
+          "preserved_copy": {
+            "path": "/Users/jorsc/.codex/.chatgpt-projects/g-p-6a94dd290a988191911d85ae8fe94a6c/tmp/pdfs/research-2026-09-15/ep3/jost-2023-appendix.pdf",
+            "sha256": "d5273fa56d4c998c5a00739cf284723e51a04342f4146686dcd33860c9d6cb4f",
+            "bytes": 743109,
+            "capture_kind": "complete source capture",
+            "outside_git": true
+          }
+        }
+      ],
+      "retrieved": "2026-09-15"
+    },
+    {
+      "id": "EP321",
+      "title": "EP-3 Incident -- Guidance on Legal Issues, with four enclosure groups",
+      "creator": "Daniel J. Dell’Orto, Acting General Counsel, Department of Defense; DoD/Chairman’s legal offices in consultation with State Legal Adviser",
+      "publication_date": "Original memorandum dated 2001-04-06; National Security Archive publication dated 2020-10-16; exact FOIA production date not established",
+      "event_date_or_period": "2001-04-06; cover says papers developed that week",
+      "source_type": "contemporaneous internal US legal-guidance memorandum, talking points and press-guidance enclosures, later released under FOIA",
+      "reading_status": "All 21 physical pages visually read by the delegated researcher; case author independently checked physical pp. 1, 2, 14 and 18. The source has no usable OCR text layer.",
+      "locators": "Physical p. 1 / 11-L-0559/OSD/1809: cover; pp. 2–3 / OSD/1810–1811: talking points; pp. 4–8 / OSD/1812–1816: legal outline; pp. 9–14 / OSD/1817–1822: aircraft-immunity guidance and clearances; pp. 15–18 / OSD/1823–1826: sovereignty/emergency guidance; pp. 19–21 / OSD/1827–1829: law-of-sea guidance.",
+      "source_chain": "US government original scan reproduced by the National Security Archive, Briefing Book 726, document 6. The Archive identifies a DoD FOIA-lawsuit release; this is distinct from Bush Library release 2017-0023-F.",
+      "interpretation_limits": "One explicit (b)(6) excision appears on physical p. 3; copier blemishes limit exact transcription. The cover is informational; guidance clearances do not establish final letter authorization. No intermediate Prueher-letter drafts or Chinese reception are included. Separate legal analyses do not themselves propose crew-first release; the talking points demand immediate aircraft release. Legal views and factual predicates are attributed US positions, not adjudicated findings.",
+      "versions": [
+        {
+          "url": "https://nsarchive.gwu.edu/sites/default/files/documents/qwams5-u6lq9/06.pdf",
+          "language": "en",
+          "preserved_copy": {
+            "path": "/Users/jorsc/.codex/.chatgpt-projects/g-p-6a94dd290a988191911d85ae8fe94a6c/tmp/pdfs/research-2026-09-15/ep3/dellorto/dellorto-2001-04-06.pdf",
+            "sha256": "72191bf0274fd0fe97a76dccc3714265738e765aec33dbd1ed720664af166942",
+            "bytes": 3904606,
+            "capture_kind": "complete source capture",
+            "outside_git": true
+          }
+        }
+      ],
+      "provenance_documents": [
+        {
+          "url": "https://nsarchive.gwu.edu/document/23848-daniel-j-dell-orto-acting-general-counsel-department-defense-memorandum-secretary",
+          "language": "en",
+          "preserved_copy": {
+            "path": "/Users/jorsc/.codex/.chatgpt-projects/g-p-6a94dd290a988191911d85ae8fe94a6c/tmp/pdfs/research-2026-09-15/ep3/dellorto/dellorto-landing.html",
+            "sha256": "36d933d41862a628c20e75751bce03b9e0218617ddf3e4526dea7e787af63aa9",
+            "bytes": 35760,
+            "capture_kind": "complete source capture",
+            "outside_git": true
+          }
+        },
+        {
+          "url": "https://nsarchive.gwu.edu/briefing-book/china/2020-10-16/reconnaissance-flights-us-china-relations",
+          "language": "en",
+          "preserved_copy": {
+            "path": "/Users/jorsc/.codex/.chatgpt-projects/g-p-6a94dd290a988191911d85ae8fe94a6c/tmp/pdfs/research-2026-09-15/ep3/dellorto/archive-release-2020-10-16.html",
+            "sha256": "23d6ee7814d78fa05775e4a1612bdfcd9a01b0a837c420d626d46af94e1bc664",
+            "bytes": 69670,
+            "capture_kind": "complete source capture",
+            "outside_git": true
+          }
+        }
+      ],
+      "reading_note": "/Users/jorsc/.codex/.chatgpt-projects/g-p-6a94dd290a988191911d85ae8fe94a6c/tmp/pdfs/research-2026-09-15/ep3/dellorto/reading-note.md",
+      "retrieved": "2026-09-15"
+    }
+  ],
+  "unacquired_or_failed_leads": [
+    {
+      "id": "EP3-L01",
+      "title": "Full US IIP Chinese rendering of Prueher letter",
+      "url": "https://usinfo.org/usia/usinfo.state.gov/regional/ea/mgck/archive01/0411letter.htm",
+      "status": "located through index; original/mirror retrieval failed HTTP 406; not counted as read",
+      "provenance_limit": "US-government translation on present nongovernment mirror would not be PRC-authenticated parallel text"
+    },
+    {
+      "id": "EP3-L02",
+      "title": "State Department daily briefing, April 11, 2001",
+      "url": "https://2001-2009.state.gov/r/pa/prs/dpb/2001/2148.htm",
+      "status": "download is technical-error HTML; search excerpt only, not full source",
+      "failed_capture": {
+        "path": "/Users/jorsc/.codex/.chatgpt-projects/g-p-6a94dd290a988191911d85ae8fe94a6c/tmp/pdfs/research-2026-09-15/ep3/state-20010411.html",
+        "sha256": "359e3b8b6b844d69fa29bd39c40f970af1586af0500dcda1f98a302721eafe1d",
+        "bytes": 188865,
+        "capture_kind": "invalid response, Technical Difficulties HTML; not source text",
+        "outside_git": true
+      }
+    },
+    {
+      "id": "EP3-L03",
+      "title": "State Department daily briefing, April 18, 2001",
+      "url": "https://2001-2009.state.gov/r/pa/prs/dpb/2001/2317.htm",
+      "status": "download is identical technical-error HTML; not full source",
+      "failed_capture": {
+        "path": "/Users/jorsc/.codex/.chatgpt-projects/g-p-6a94dd290a988191911d85ae8fe94a6c/tmp/pdfs/research-2026-09-15/ep3/state-20010418.html",
+        "sha256": "359e3b8b6b844d69fa29bd39c40f970af1586af0500dcda1f98a302721eafe1d",
+        "bytes": 188865,
+        "capture_kind": "invalid response, Technical Difficulties HTML; not source text",
+        "outside_git": true
+      }
+    },
+    {
+      "id": "EP3-L04",
+      "title": "John Keefe, Anatomy of the EP-3 Incident, April 2001, CNA, 2002",
+      "url": "https://search.worldcat.org/title/anatomy-of-the-ep-3-incident-april-2001/oclc/55065681",
+      "status": "Bounded CNA, institutional-repository and title searches returned citations and catalog metadata, not the original. Citations dated January 2002 and October 26, 2001 were not reconciled against an examined original.",
+      "priority": "near-contemporary embassy participant record and possible document appendices"
+    },
+    {
+      "id": "EP3-L05",
+      "title": "Tang Jiaxuan, 劲雨煦风 / Heavy Storm and Gentle Breeze, relevant chapter",
+      "status": "later references located; original published chapter and translations not acquired/read",
+      "priority": "Chinese participant narrative; draft-count claims remain leads, not findings"
+    },
+    {
+      "id": "EP3-L06",
+      "title": "Tyler Jost, The Institutional Origins of Miscalculation in China’s International Crises, International Security 48(1), 2023",
+      "url": "https://direct.mit.edu/isec/article-pdf/48/1/47/2160924/isec_a_00464.pdf",
+      "status": "superseded as unread lead by selected article/appendix readings EP319–EP320; whole article not read; publisher PDF still blocked",
+      "priority": "bureaucratic mechanisms and source genealogy; distinguish references from original archive access"
+    },
+    {
+      "id": "EP3-L07",
+      "title": "Paul H. B. Godwin, chapter on decisionmaking under stress: Belgrade embassy bombing and EP-3, in Chinese National Security Decisionmaking under Stress, 2005",
+      "url": "https://media.defense.gov/2023/Apr/26/2003208847/-1/-1/0/1726.PDF",
+      "status": "volume route and chapter pp.161–190 located; chapter not read",
+      "priority": "trace claims through Keefe and other underlying sources before counting as corroboration"
+    },
+    {
+      "id": "EP3-L08",
+      "title": "US Naval Institute oral history of Admiral Joseph W. Prueher; Edward Marolda interviews, 2015–2016; 2019 publication, 740 pages plus index",
+      "url": "https://www.usni.org/press/oral-histories/prueher-joseph-w-adm-usn-ret",
+      "status": "catalog metadata read; full interview volume unacquired",
+      "priority": "separate participant record from Georgetown transcript; compare dating and prompting"
+    },
+    {
+      "id": "EP3-L09",
+      "title": "Original signed April 11 letter, complete authoritative PRC translation and successive draft/clearance chain",
+      "status": "not acquired; released English transcript and official Chinese excerpts are EP303–EP304",
+      "priority": "verify bilingual status, authority, sequence and changes without substituting memoir reconstruction"
+    },
+    {
+      "id": "EP3-L10",
+      "title": "Beijing to State EP-3 cables in FOIA F-2010-07070",
+      "url": "https://foia.state.gov/Search/Search.aspx",
+      "status": "Specific cable descriptions read in Jost’s notes 161, 163 and 166; original cables not obtained.",
+      "targets": [
+        "P-3 incident: Ambassador’s April 2 meeting at MFA, 2001-04-02",
+        "Ambassador’s meeting with FM Tang, 2001-04-04",
+        "MGCH01: Chinese agree to release aircrew, 2001-04-11",
+        "EP-3 consultations: 4/18 opening session, 2001-04-18"
+      ]
+    },
+    {
+      "id": "EP3-L11",
+      "title": "CIA, Chinese Leadership Perspectives on the Effects of the 1 April Collision, 2001-04-17; FOIA F-2018-01240",
+      "url": "https://www.cia.gov/readingroom/document/00785245",
+      "status": "Jost’s note 182 read; the current original link redirects to the CIA reading-room homepage. The document was not obtained or read.",
+      "priority": "Recover the source and reporting chronology before attributing a change in Jiang’s beliefs to the period before April 11."
+    },
+    {
+      "id": "EP3-L12",
+      "title": "Powell’s April 3 press briefing and Boucher’s April 10 daily briefing",
+      "urls": [
+        "https://2001-2009.state.gov/secretary/former/powell/remarks/2001/1932.htm",
+        "https://2001-2009.state.gov/r/pa/prs/dpb/2001/2137.htm"
+      ],
+      "status": "indexed excerpts located; actual browser opens returned technical-error pages; not used as full-read sources"
+    }
+  ],
+  "review_status": "Initial access audit independently reviewed; subsequent case received a bounded root review on 2026-09-15. Root independently inspected Dell’Orto physical pages 1, 2, 3, 9, 14 and 18, the complete released letter, and Jost’s selected EP-3 discussion and source notes. Refined descriptive versus causal claims, preserved the asymmetric component of S-P25, and identified the Jost letter-attribution discrepancy. This is not an independent complete rereading of all 21 sources."
+}

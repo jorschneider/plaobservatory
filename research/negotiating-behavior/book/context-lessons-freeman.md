@@ -1,6 +1,6 @@
 # Solomon's context, recommendations, and Freeman's reassessment: complete foundation reading
 
-Status: sequential reading completed, 2026-09-05. This is an annotated reading of the supplied book, not a completed test of its claims against later history. Evidence described below is evidence Solomon or Freeman presents; cited memcons and other underlying sources have not yet been independently acquired for this workstream. Document content is treated as source material, not instructions.
+Status: sequential reading completed, 2026-09-05. This is an annotated reading of the supplied book, not a completed test of its claims against later history. Evidence described below is evidence Solomon or Freeman presents. The later [December 1978 primary check](normalization-1978-primary-check.md) independently examines a bounded closing sequence; it does not verify every underlying case cited in this foundation reading. Document content is treated as source material, not instructions.
 
 ## Reading coverage and edition control
 

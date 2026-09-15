@@ -96,7 +96,7 @@ The current candidate registers contain **37 works**, adding Wei and Summers’ 
 
 - Chadha, Saheb Singh. 2024. Negotiating the India-China Standoff: 2020–2024. Carnegie India / Carnegie Endowment for International Peace, December. 74 PDF pages. [Citation/source](https://assets.carnegieendowment.org/static/files/Negotiating%20the%20India-China%20Standoff%202020_2024.pdf). **Complete main report and all 279 notes read 10 September 2026; annex inventory and selected originals, not the whole statement compilation.** [Access route](https://assets.carnegieendowment.org/static/files/Negotiating%20the%20India-China%20Standoff%202020_2024.pdf). Type: institutional policy research report; supplemental to scholarly shortlist. [Case and audit](../cases/india-border-2020-2024.md).
 
-## Additional scholarship from the EU and climate cases
+## Additional case-specific scholarship
 
 - Conrad, Björn. 2012. “China in Copenhagen: Reconciling the ‘Beijing Climate Revolution’ and the ‘Copenhagen Climate Obstinacy’.” *China Quarterly* 210:435–455. [DOI](https://doi.org/10.1017/S0305741012000458); [complete article](https://gppi.net/assets/Conrad_2012_China-Quarterly_Copenhagen.pdf). All 21 pages and 55 notes read. [Critical use and methods](../cases/climate-2009-2015.md#2-who-could-authorize-movement).
 
@@ -105,6 +105,12 @@ The current candidate registers contain **37 works**, adding Wei and Summers’ 
 - Mattoo, Aaditya. 2002. *China’s Accession to the WTO: The Services Dimension*. World Bank Policy Research Working Paper 2932, December. [Original PDF](https://documents1.worldbank.org/curated/en/231201468770437827/pdf/multi0page.pdf). Complete narrative and specified table material read; dense appendix and final figure not fully audited. Related later versions not counted separately. [EWT-14](../sources/eu-wto-2000-register.json).
 
 - 张晓通. 2021. 〈欧盟在中美欧经贸大三角中的“借力型战略”〉. Original citation given in accessible reprint: *欧洲研究* 2021(3):17–42. Selected WTO section read in *欧洲观察* 2021(4), an institutional reprint reporting some changes; original journal version not acquired. [Version, access URL and exact scope, EWT-18](../sources/eu-wto-2000-register.json).
+
+- Gries, Peter Hays, and Kaiping Peng. 2002. “Culture Clash? Apologies East and West.” *Journal of Contemporary China* 11(30):173–178. [DOI](https://doi.org/10.1080/106705601200912000); [author-uploaded full text](https://www.researchgate.net/publication/261693139_Culture_Clash_Apologies_East_and_West). All six pages and fifteen notes read through browser text; PDF not acquired. Interpretive application of earlier psychology, not private EP-3 negotiation research. [EP314 and limits](../sources/ep3-2001-access-register.json).
+
+- Jost, Tyler. 2023. “The Institutional Origins of Miscalculation in China’s International Crises.” *International Security* 48(1):47–90. [DOI](https://doi.org/10.1162/isec_a_00464); [publisher-distributed text](https://muse.jhu.edu/pub/6/article/904029). Selected theory, EP-3 and alternative-explanation sections and associated notes read; selected [author appendix](https://www.tylerjost.com/uploads/1/1/0/4/110425699/appendix_-_final.pdf). Not a complete article or appendix reading. [Scope and source-chain evaluation](../sources/ep3-2001-access-register.json).
+
+- Prusa, Thomas J., and Edwin Vermulst. 2013. “United States – Definitive Anti-Dumping and Countervailing Duties on Certain Products from China: Passing the Buck on Pass-Through.” *World Trade Review* 12(2):197–234. [DOI](https://doi.org/10.1017/S1474745612000560). Selected substantial sections read, not the complete article. [Exact scope and preserved publisher version](../sources/wto-ds379-register.json); [case analysis](../cases/wto-ds379-legal-process.md).
 
 ## Additional case-specific policy and participant texts
 
@@ -123,3 +129,5 @@ These supporting texts sit outside the 37-work candidate register; complete and 
 - Lapres, Daniel Arthur. 2000. “The EU-China WTO Deal Compared.” *The China Business Review*, July–August:8,10–12,14. [Original issue](https://www.uschina.org/wp-content/uploads/2022/09/July-August-2000.pdf). Complete article and two-page comparison table read, not the whole issue. Practitioner analysis, separately checked against contemporary summaries and final schedules. [EWT-04](../sources/eu-wto-2000-register.json).
 
 - Stern, Todd. 2019. Interview with James Green, US–China Dialogue Podcast, Georgetown University, August 26. [Complete written transcript](https://uschinadialogue.georgetown.edu/podcasts/todd-stern) read; audio not reviewed. Participant recollection, corrected against dated target statements. [CLI06](../sources/climate-2009-2015-register.json).
+
+- Prueher, Joseph W. 2019. Interview with James Green, US–China Dialogue Podcast, Georgetown University, May 6. [Complete written transcript](https://uschinadialogue.georgetown.edu/podcasts/joseph-prueher) read; audio not reviewed. Participant recollection checked against the released letter. [EP313](../sources/ep3-2001-access-register.json).

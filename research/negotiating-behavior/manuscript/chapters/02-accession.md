@@ -67,7 +67,7 @@ The Chinese published chronology places Zhu’s interventions on November 13 and
 
 This qualification does not make the letters less valuable. They overturn an account in which the Chinese side alone controlled the clock while the Americans merely endured it. They show the Americans trying to alter both the schedule and the level of decision. They also show why a visible summit intervention is an incomplete diagnostic: it can be sought by the frustrated counterpart, depend on revised instructions, and concern a specific unresolved part of an otherwise elaborate draft.
 
-Solomon’s more careful proposition was that senior intervention together with concrete drafting could signal that agreement was authorized and near. The papers make that proposition worth investigating here. They do not establish that Chinese officials staged deadlock according to a predetermined script. Nor do they measure the reliability of the signal in negotiations that did not close. A successful episode can demonstrate a sequence without proving a forecasting rule.
+Solomon called senior intervention the most reliable sign of approaching agreement and connected it to leaders’ reluctance to risk face. A narrower authorization hypothesis is worth investigating here: what did the senior intervention enable or confirm? This is our qualification of his stronger prediction, which already sits beside an aborted claims-settlement example in his book. They do not establish that Chinese officials staged deadlock according to a predetermined script. Nor do they measure the reliability of the signal in negotiations that did not close. A successful episode can demonstrate a sequence without proving a forecasting rule.
 
 ## What sector authority adds
 
