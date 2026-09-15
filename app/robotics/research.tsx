@@ -11,11 +11,13 @@ import caseIndex from "../../research/military-robotics/case-index.json";
 import collection from "../../research/autonomy/questions.json";
 
 // Sourcebooks are pinned to the reviewed research edition.
-const repository = "https://github.com/jorschneider/plaobservatory/blob/4dfd33380e440e214b255769d79b25d762aab2f5/research/";
+const repository = "https://github.com/jorschneider/plaobservatory/blob/f7432a0523e0745cda965a01d2ad432c4b713f6d/research/";
 const sourcebook = (path: string, directory = "") => new URL(path, `${repository}${directory}`).href;
 const titleCase = (text: string) => text.charAt(0).toUpperCase() + text.slice(1);
 const domains = [...new Set(caseIndex.cases.map((item) => item.domain))];
 const readings = [
+  { title: "Civilian industrial base", path: "military-robotics/civilian-base.md", question: "What do production, installations and supplier sourcing actually measure?" },
+  { title: "What civilian robotics makes reusable", path: "military-robotics/civilian-reuse.md", question: "Which components, software and engineering experience can another organization draw on?" },
   { title: "Adoption and business models", path: "military-robotics/adoption-routes.md", question: "How do different buying and development routes shape who creates and captures value?" },
   { title: "Doctrine", path: "autonomy/doctrine.md", question: "What do the different sources say about human and machine authority?" },
   { title: "Institutions", path: "military-robotics/institutions.md", question: "Which organizations research, coordinate, finance and develop systems?" },
@@ -67,8 +69,8 @@ export default function Research() {
     <section aria-labelledby="research-judgments-title">
       <h3 id="research-judgments-title">Three working judgments</h3>
       <div className="eco-collection">
-        <article><h4>Human authority can coexist with machine execution</h4><p>Military support cases show people setting requirements while software organizes work. This supports task-specific delegation as an interpretation of the policy direction. It does not establish a universal operating rule.</p><a href={sourcebook("military-robotics/README.md#what-the-cases-show")} target="_blank" rel="noreferrer">Read the doctrine interpretation <ArrowUpRight aria-hidden="true" /></a></article>
-        <article><h4>Civilian capabilities enter through several routes</h4><p>Research tools, commercial equipment purchasing and factory integration involve different suppliers and decision makers. Follow the product and receiving organization to understand the relationship.</p><a href={sourcebook("military-robotics/adoption-routes.md")} target="_blank" rel="noreferrer">Compare adoption routes <ArrowUpRight aria-hidden="true" /></a></article>
+        <article><h4>Human responsibility leaves several choices open</h4><p>Track who is accountable, which people can decide, what machines may do and when supervision occurs. Organizational proposals, unit training and system requirements provide different evidence about those choices.</p><a href={sourcebook("military-robotics/README.md#what-the-cases-show")} target="_blank" rel="noreferrer">Read the doctrine interpretation <ArrowUpRight aria-hidden="true" /></a></article>
+        <article><h4>Civilian capabilities enter through several routes</h4><p>Existing components, tools and integration experience give downstream organizations resources to draw on. Research reuse, commercial purchasing and factory integration establish different relationships; their cost advantages require separate measurement.</p><a href={sourcebook("military-robotics/adoption-routes.md")} target="_blank" rel="noreferrer">Compare adoption routes <ArrowUpRight aria-hidden="true" /></a></article>
         <article><h4>Product growth can diverge from defense demand</h4><p>Deepinfar&apos;s underwater-system product revenue rose from 2023 to 2025 while its disclosed defense-customer revenue fell. Product categories and customer mix change the meaning of growth.</p><a href={sourcebook("military-robotics/scale.md")} target="_blank" rel="noreferrer">Examine the revenue evidence <ArrowUpRight aria-hidden="true" /></a></article>
       </div>
     </section>
