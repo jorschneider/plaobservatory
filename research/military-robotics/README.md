@@ -6,6 +6,8 @@ Research edition: 15 September 2026. This guide connects military organizations 
 
 The central analytical distinction is between **a capability, a relationship and a result**. A company can possess a relevant capability without a documented military sale. An institute can transfer intellectual property without demonstrating a military application. A force can operate an unmanned aircraft without disclosing its degree of autonomous decision-making.
 
+Start with [adoption routes and business models](adoption-routes.md) for the explanation: who defines the task, buys the equipment, integrates it and operates it—and why those roles change the commercial opportunity. Then use the sourcebooks below to inspect the supporting cases.
+
 ## Read the ecosystem in layers
 
 | Layer | The question it answers | Evidence available here |
@@ -13,6 +15,7 @@ The central analytical distinction is between **a capability, a relationship and
 | Authority and priorities | Who sets the direction and what kind of document governs the claim? | [Doctrine](../autonomy/doctrine.md) separates national plans, regulations, international positions and signed analysis. |
 | Institutions and capital | Who owns, researches, coordinates and funds the work? | [Institutional map](institutions.md), including organizational affiliation and unresolved legal-control boundaries. |
 | Procurement and qualification | Which organizations competed, and what stage did the project reach? | [Procurement records](procurement.md) and [distinct qualification decisions](assurance.md). |
+| Defense production | How does commercial automation enter military manufacturing? | [Historical aircraft-production case](defense-production.md), linking a joint award to reported shipment and staged acceptance. |
 | Ground systems | Who supplies the mobile platform and who integrates the military system? | [Ground sourcebook](ground.md), including Five Eight's platform claim and existing special-purpose/support cases. |
 | Air systems | Which named systems have service evidence, and which remain development or export propositions? | [Air sourcebook](air.md), distinguishing observed military systems and issuer development statements. |
 | Maritime systems | What belongs to the Navy, a scientific institute, a shipowner, a builder or an operator? | [Maritime sourcebook](maritime.md), including a bounded institute-to-company IP transfer. |
@@ -55,6 +58,8 @@ The [issuer-scale study](scale.md) also changes the interpretation. Deepinfar’
 
 The [lineage study](lineage.md) now moves beyond institutional contact: it documents identifiable civilian software and a commercial sensor in military-university research, alongside a separate defense ground-computing supplier. This supports several routes into the ecosystem, with different evidence of reuse and delivery. The [qualification study](assurance.md) likewise distinguishes an issuer's achieved export-approval claim from a civil model's explicit operator requirements and reported progress toward certification.
 
+The [factory-automation case](defense-production.md) adds a different industrial route. Rifa's report places the Hanzhong assembly-system project in military-aircraft business and reports shipment and staged acceptance. It separately describes civilian aircraft work. This supports a positive commercial-supplier connection to defense production at project level. It also broadens the relevant stack: factory software, equipment integration and acceptance can matter to defense industry without being part of an aircraft's onboard autonomy.
+
 ## Working judgments for an analyst
 
 | Judgment | Evidence that makes it useful | What would change the assessment |
@@ -64,6 +69,7 @@ The [lineage study](lineage.md) now moves beyond institutional contact: it docum
 | Commercial robotics growth is an unreliable proxy for defense demand. | Deepinfar's product growth and defense-customer revenue move in opposite directions. | Reconciled end-customer and product data across a broader supplier sample. |
 | Integration expertise may be reusable, absorbed by buyers or persist as custom work. | Repeated mining deployments, buyer-led interfaces and internal military software development keep all three explanations live. | Matched engineering and support costs across successive deployments. |
 | Qualification must be attributed to its exact object and purpose. | Export approval, civil requirements, conformity progress and customer acceptance answer different questions. | Original decisions and tested configurations, linked to operating records. |
+| Production automation is a distinct route into the defense industrial base. | Rifa's historical Hanzhong project has military-production attribution and reported staged acceptance; its civilian work is separately identified. | Current project configurations, repeat awards and measured production or support results. |
 
 These are interpretations of the selected evidence. They are not estimates of national prevalence or ranked supplier recommendations.
 
@@ -73,7 +79,7 @@ These are interpretations of the selected evidence. They are not estimates of na
 |---|---|---|
 | Small UAVs and commercial support equipment | The new named-model package is one provisional observation, not a representative demand sample. | Matched tender-to-acceptance histories and a broader search frame. |
 | Model-specific adoption and scale | Repeat purchases are documented, but selected issuer series are not a national fleet. | Additional suppliers and matched delivery/acceptance/operator records, removing intermediary double counting. |
-| Production capacity and financial scope | Financing, designed capacity, output and military revenue are different quantities. | Company/plant/product reconciliation across filings, contracts and deliveries. |
+| Production capacity and financial scope | One historical assembly-system case now connects supply to staged acceptance; it does not measure factory output or current capacity. | Company/plant/product reconciliation across filings, contracts, deliveries and production results. |
 | Military production software and component lineage | Research use and ground-equipment supply are now documented; a shared shipping implementation is not. | Named versions and interfaces tied to integrated military products and customers. |
 | Qualification and procurement institutions | Export and civil gates are partly visible; the PLA function-level acceptance chain remains unresolved. | Responsible organizations, requirements and results for the same military system/configuration. |
 | Operator burden and reliability | Remote labor and recovery can determine whether autonomy creates useful capacity. | Matched task, intervention, failure and support records under stated conditions. |

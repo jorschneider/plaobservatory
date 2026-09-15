@@ -1,6 +1,6 @@
 # What does a completed robot task actually cost?
 
-Research pilot • 5 September 2026 • Three China-linked cases and one US disclosure benchmark
+Research pilot • 5 September 2026 • Three China-linked cases and one US disclosure benchmark. Collection priority updated 15 September; original case/source dates remain unchanged.
 
 **The reviewed public record establishes real deployment activity, but does not support an all-in cost per accepted task for any of these four cases.** The useful next step is a matched operating log and customer cost ledger for one workcell. This package identifies which published numbers can guide that collection, which cannot enter an economics model, and what evidence would change the conclusion.
 
@@ -25,13 +25,15 @@ These are selected disclosures, not comparable performance observations. Missing
 
 **Better disclosure still requires reconciliation.** Figure defines a three-part placement cycle and success/reset targets, rather than achieved rates. Its account uses eleven deployment months; BMW uses ten. Roughly 90,000 ÷ 1,250 ≈ 72 components per reported operating hour is only a scale check using rounded aggregates. It is not accepted-cycle throughput or a per-robot measurement. Ask for the underlying cohort before comparing results. [Figure's report](https://www.figure.ai/news/production-at-bmw), [BMW's account](https://www.press.bmwgroup.com/portugal/article/detail/T0455909PT/bmw-group-to-deploy-humanoid-robots-in-production-in-germany-for-the-first-time).
 
-## The next useful piece of original reporting
+## Current research priority and workcell options
 
-**Start with Zeekr's CTU loading station, if workcell access is available.** It offers a narrow output—an accepted box placement—and concrete alternatives: staffed loading or an AMR-plus-arm cell. This is an analyst collection choice, not a claim that Zeekr has the best economics. Establish the exact site, version and current operating status first. SP Group offers a second route through a buyer-confirmed inspection workflow.
+**For repeat-deployment economics, prioritize EACON and customer-led interoperability at Baishihu.** The [15 September operating study](../../military-robotics/thesis-tests.md) now supplies substantial reported fleet scale, a named staffing observation, different commercial-model margins and a customer coordinating competing vendors. Compare what later installations reuse, who bears commissioning and support work, and how those responsibilities affect margins. These civilian observations support a business-model comparison before a complete cost-per-task estimate is available; they do not establish military transfer or all-party labor savings. The [adoption-route synthesis](../../military-robotics/adoption-routes.md) sets out the competing value-capture explanations.
+
+**For a directly observed workcell, Zeekr's CTU loading station remains a useful option if access is available.** It offers a narrow output—an accepted box placement—and concrete alternatives: staffed loading or an AMR-plus-arm cell. Establish the exact site, version and current operating status first. SP Group offers a separate route through a buyer-confirmed inspection workflow. This access-dependent choice is not a ranking of those products' economics.
 
 Request two consecutive representative operating weeks, including unsuccessful runs, plus commissioning records and longer repair history. Two weeks can establish a bounded result; it cannot establish annual reliability. Apply the same acceptance standard and demand boundary to the robot workflow and its alternative. Include setup, monitoring, teleoperation, resets, repair, report review and manual fallback. Released labor hours do not automatically remove payroll.
 
-The deliverable for Niko and Reyk would be a one-page workcell comparison: accepted output, all human person-hours, scheduled/active robot-hours, allocated equipment/service and integration cost, failures/unresolved tasks, and cost per accepted task with exact scope. Show each changed assumption in any scenario range. The [request sheet](collection-request.md) is ready to adapt for a customer or integrator interview; no outreach has been sent.
+For Niko and Reyk, the immediate public-source deliverable is a comparison of repeat deployment, commercial mix and customer responsibilities. With workcell access, add accepted output, all human person-hours, scheduled/active robot-hours, allocated equipment/service and integration cost, failures/unresolved tasks, and cost per accepted task with exact scope. Show each changed assumption in any scenario range. The [request sheet](collection-request.md) is ready to adapt for a customer or integrator interview; no outreach has been sent.
 
 ## Use the package
 

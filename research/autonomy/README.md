@@ -87,6 +87,8 @@ The national plan supports a policy preference for transfer. The civilian stack 
 
 The subsequent [lineage study](../military-robotics/lineage.md) documents particular research uses of civilian software and a commercial sensor, plus a separate military ground-computing supply relationship. This partially closes the artifact gap. Research participation, direct supply and shipping software still require different evidence.
 
+The [defense-production study](../military-robotics/defense-production.md) adds historical factory automation: named software at a project's award stage, followed by reported shipment and staged acceptance of the overall assembly system. Factory integration is a separate application of the broader stack; it does not establish onboard autonomy. The [adoption-route analysis](../military-robotics/adoption-routes.md) explains how these different institutional paths shape products and business models.
+
 ## Worked cases advance the evidence
 
 The [analyst brief](cases/README.md) brings seven observations together: three public military support cases, Unitree's pinned developer dependencies, EHang's passenger operations, Shuguang ownership/cooperation and Jingpin's warehouse software. In that seven-observation packet, the strongest explicit civil–military transfer evidence is a report of a civilian team collaborating on a military warehouse system, although the team is unnamed. Buyer filings close an ownership gap; a software-development table exposes the difference between progress and intended goals. These findings are integrated into the relationship dossiers and collection queue.
@@ -107,7 +109,7 @@ The [scale study](../military-robotics/scale.md) likewise shows why company reve
 
 ## Turn understanding into original reporting
 
-**Follow one complete civilian workflow and one bounded authority question.** For the workflow, seek the Zeekr CTU workcell or SP Group inspection records described in the economics package. Map the robot, sensors, compute, software interfaces, integrator, human roles and accepted output. That connects supply-chain questions to evidence of useful work.
+**Follow one repeat-deployment comparison and one bounded authority question.** Start with the named mining operations in the [contrary cases](../military-robotics/thesis-tests.md): compare deployments to find where commissioning effort and support work decline, persist or move to the customer. The Zeekr CTU and SP Group inspection cases remain useful secondary workflows in the [economics package](../industrial-base/task-economics/README.md). Map the robot, sensors, compute, software interfaces, integrator, human roles and accepted output. That connects supply-chain questions to evidence of useful work.
 
 For the authority question, collect publicly available rules, standards or acceptance documents describing authorization, intervention and auditability for a named system. A formal requirement and a tested implementation are different evidence. Adding more essays about intelligent warfare will not substitute for either.
 

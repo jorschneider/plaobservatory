@@ -146,9 +146,11 @@
           "../military-robotics/maritime.md",
           "../military-robotics/institutions.md",
           "../military-robotics/thesis-tests.md",
-          "../military-robotics/lineage.md"
+          "../military-robotics/lineage.md",
+          "../military-robotics/defense-production.md",
+          "../military-robotics/adoption-routes.md"
         ],
-        "finding": "The naval warehouse collaboration and Jingpin software progress are supplemented by Zhuhai Yun’s separately named owner, designer, builder, supplier and operating institute. Joint-laboratory governance identifies institutional bridges; neither supplies repeat-deployment engineering costs or complete IP ownership. Baishihu reports customer-led interoperability across three vendors, and a PLA transport trial reports internal software development. Retained integration work does not identify which organization captures its value. Consys filings distinguish a competed ground-computing product from a separate commission, with later category-level supply reporting. They do not disclose integration margins or identify a common software implementation."
+        "finding": "The naval warehouse collaboration and Jingpin software progress are supplemented by Zhuhai Yun’s separately named owner, designer, builder, supplier and operating institute. Joint-laboratory governance identifies institutional bridges; neither supplies repeat-deployment engineering costs or complete IP ownership. Baishihu reports customer-led interoperability across three vendors, and a PLA transport trial reports internal software development. Retained integration work does not identify which organization captures its value. Consys filings distinguish a competed ground-computing product from a separate commission, with later category-level supply reporting. They do not disclose integration margins or identify a common software implementation. A historical Rifa/AVIC institute factory project adds joint supply and reported staged acceptance, while leaving partner workshare and margins unresolved."
       }
     },
     {
@@ -176,9 +178,11 @@
           "../military-robotics/maritime.md",
           "../military-robotics/institutions.md",
           "../military-robotics/procurement.md",
-          "../military-robotics/lineage.md"
+          "../military-robotics/lineage.md",
+          "../military-robotics/defense-production.md",
+          "../military-robotics/adoption-routes.md"
         ],
-        "finding": "Five Eight claims a military robot-wolf platform contribution; warehouse reporting identifies civilian collaboration. Haiyi’s disclosed license/IP sale establishes a bounded research-to-commercial mechanism, with no military destination established. NUDT’s private-firm exhibition establishes contact only. Exact shared shipping military/civilian software or accepted transferred autonomy remains unresolved. A provisional military public-health package lists DJI/XAG models through a trading supplier: concrete commercial-product procurement evidence, with acceptance and autonomy functions unverified. Research-stage software evaluation and commercial-component use are now explicit. Those links establish neither direct vendor military contracts nor accepted fielded software; the separate Consys procurement case does not prove civilian technology origin."
+        "finding": "Five Eight claims a military robot-wolf platform contribution; warehouse reporting identifies civilian collaboration. Haiyi’s disclosed license/IP sale establishes a bounded research-to-commercial mechanism, with no military destination established. NUDT’s private-firm exhibition establishes contact only. Exact shared shipping military/civilian software or accepted transferred autonomy remains unresolved. A provisional military public-health package lists DJI/XAG models through a trading supplier: concrete commercial-product procurement evidence, with acceptance and autonomy functions unverified. Research-stage software evaluation and commercial-component use are now explicit. Those links establish neither direct vendor military contracts nor accepted fielded software; the separate Consys procurement case does not prove civilian technology origin. Rifa’s Hanzhong assembly-system case establishes a historical commercial-supplier connection to military production, with named factory software at the award stage. Its later staged-acceptance report does not verify that software configuration or an airborne-autonomy transfer."
       }
     },
     {
