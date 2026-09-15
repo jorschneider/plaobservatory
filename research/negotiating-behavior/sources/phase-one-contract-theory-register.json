@@ -1,0 +1,68 @@
+{
+  "research_date": "2026-09-15",
+  "memo": "../literature/readings/phase-one-contract-theory.md",
+  "sources": [
+    {
+      "id": "PCT-01",
+      "title": "The U.S.-China Trade Negotiation: A Contract Theory Perspective",
+      "author": "Angela Huyue Zhang",
+      "citation": "Georgetown Journal of International Law 51 (2020): 809–866",
+      "url": "https://www.law.georgetown.edu/international-law-journal/wp-content/uploads/sites/21/2020/11/THE-U.S.-CHINA-TRADE-NEGOTIATION.-A-CONTRACT-THEORY-PERSPECTIVE.pdf",
+      "publication_year": 2020,
+      "publication_date_precision": "Year on the journal pages; the official URL has a November 2020 directory. No exact publication day established.",
+      "source_type": "Scholarly legal article applying contract theory to published evidence, legal materials and one identified author interview",
+      "full_read": true,
+      "read_scope": "All 58 physical PDF pages, printed 809–866: abstract, contents, body, acknowledgments and notes 1–376. Sequential text reading completed through the final note; selected crucial pages also rendered and visually checked. This does not imply full reading of the article's cited works.",
+      "retrieved_on": "2026-09-15",
+      "read_on": "2026-09-15",
+      "artifact": {
+        "local_path": "/Users/jorsc/.codex/.chatgpt-projects/g-p-6a94dd290a988191911d85ae8fe94a6c/tmp/pdfs/research-2026-09-15/phase-one-contract-theory/zhang-contract-theory-2020.pdf",
+        "bytes": 849240,
+        "sha256": "f379e7f56e0f24230b65417edced0d06285f5e57c747eb35e5171a6a0c9d40f2"
+      },
+      "extracted_text_path": "/Users/jorsc/.codex/.chatgpt-projects/g-p-6a94dd290a988191911d85ae8fe94a6c/tmp/pdfs/research-2026-09-15/phase-one-contract-theory/zhang-contract-theory-2020.txt",
+      "physical_pdf_pages": 58,
+      "printed_pages": "809–866",
+      "visual_checks": [
+        {"pdf_page": 6, "printed_page": 814, "scope": "Acknowledgment of January 2020 Phase One and strong prediction of instability"},
+        {"pdf_page": 16, "printed_page": 824, "scope": "Trade-secret burden shifting and author interview note 81"},
+        {"pdf_page": 20, "printed_page": 828, "scope": "Xi recast and draft claims; source chain in notes 104–109"},
+        {"pdf_page": 43, "printed_page": 851, "scope": "Strong claim about credibility and value of punishment mechanism"},
+        {"pdf_page": 52, "printed_page": 860, "scope": "Prospective agreement framing and claim that termination is the only recourse"}
+      ],
+      "locators": {
+        "contract_theory_framework": "Printed 810–816",
+        "may_2019_account": "Printed 813, notes 16–21; 825–829, notes 91–111",
+        "original_interview": "Printed 824, note 81: author interview with an unnamed senior Chinese judge, April 2019, about trade-secret burdens of proof",
+        "law_and_administrative_practice": "Printed 829–840",
+        "enforcement_argument": "Printed 840–851",
+        "dignity_and_audiences": "Printed 851–860",
+        "economic_hostages": "Printed 860–864",
+        "policy_recommendations_and_limits": "Printed 864–866"
+      },
+      "source_dependence": [
+        "Xi's alleged recast instruction is attributed to Buckley and Bradsher's New York Times report, note 105; no new negotiating-room interview or Chinese instruction is supplied.",
+        "The 150-page draft/deletions account in note 106 also cites Reuters 8 May 2019, already registered and independently read as TUS08; the two citations are not independent confirmations.",
+        "The agreement-in-principle claim in note 16 depends on SCMP quoting Craig Allen in June 2019.",
+        "The 1990s account draws substantially on Mertha, Mertha and Pahre, Ryan and Zeng; their underlying materials are not newly read merely by reading Zhang.",
+        "Original author interview in note 81 concerns legal design; no identity or transcript is supplied, and it does not establish negotiating authority or the cause of the May breakdown."
+      ],
+      "limitations": [
+        "Much of the analysis retains prospective 2019 framing despite acknowledging January 2020 signature; it is not a detailed reading of signed Phase One or a performance study through 2026.",
+        "Categorical claims about ineffective enforcement, tariff credibility and integration's stabilizing effect are analytical propositions requiring separate tests.",
+        "The statement on printed 860 that termination is the only recourse must not describe the signed agreement, which contains the conditional suspension/remedial-action route in Article 7.4.4(b).",
+        "No authenticated May redline, Chinese reservation list or leadership clearance record is supplied.",
+        "This pass traced citations but did not newly obtain and read every NYT, SCMP or WSJ source in the May narrative.",
+        "The article's 1991 MOU label on printed 858 conflicts with its own 1992 chronology; its title of premier for Wu Yi is erroneous and must not be inherited."
+      ],
+      "evidentiary_use": "A mechanism for separating observable legal promises from difficult-to-verify administrative implementation, and for examining enforcement costs and political costs of wording. Useful as a rival explanation to unqualified national-style claims, not as independent proof of private Chinese decisions."
+    }
+  ],
+  "existing_sources_consulted_without_creating_duplicate_records": [
+    {"id": "TUS08", "register": "us-trade-2018-2020-us-register.json", "scope": "Prior full independent reading of Reuters 8 May 2019 report used to identify dependence and access limits."},
+    {"id": "POA-EN", "register": "phase-one-agreement-register.json", "scope": "Articles 1.3–1.5 reread in this pass; Articles 1.34–1.35, 6.2, Annex 6.1 summary, 7.4 and 8.3 independently checked in the accompanying Chapter 5 source review."},
+    {"id": "POA-CN", "register": "phase-one-agreement-register.json", "scope": "Selected bilingual clauses as specified in the Chapter 5 source review, not a new full Chinese agreement reading."},
+    {"id": "POT-02", "register": "phase-one-tariff-sequencing-register.json", "scope": "Entire January 2020 notice already independently read and visually checked in this pass; prescribed reduction of a specified tariff rate distinguished from abandonment of tariffs."}
+  ],
+  "storage": "Complete article PDF, extraction, retrieval manifest and selected rendered pages preserved outside Git. Only original analysis and source metadata added to the repository; shared literature ledger unchanged."
+}

@@ -1,0 +1,613 @@
+{
+  "case": "Kissinger’s July 2023 China visit: bounded old-friends and intermediary audit",
+  "research_date": "2026-09-15",
+  "event_scope": "July 18–20, 2023; June/July chronology controls and November statements distinguished from the visit",
+  "source_count": 17,
+  "counts": {
+    "episode_and_analysis_source_units": 13,
+    "cross_registered_contextual_source_units": 4,
+    "full_peer_reviewed_articles_added": 0,
+    "internal_mandates_or_meeting_memoranda_obtained": 0,
+    "raw_retrospective_interview_transcripts_obtained": 0
+  },
+  "publication_policy": "Original analysis, metadata and brief necessary quotations in Git. Full captures and extracts remain outside Git. Translations, syndication and repeated official readouts are not independent witness counts.",
+  "source_independence": "MFA/embassy documents share Chinese public-position chains. The MOD reprint and abridgement form one readout family. CNN adds one anonymous advance-notice report; much CNN/Reuters coverage repeats named official briefings. Carnegie’s Kissinger paragraph combines those public families with one anonymous retrospective interview citation. Blinken’s obituary is distinct participant testimony but ceremonial and nonspecific.",
+  "new_interviews_or_outreach": false,
+  "sources": [
+    {
+      "id": "K23-01",
+      "title": "习近平会见美国前国务卿基辛格 / Xi Jinping Meets with Former U.S. Secretary of State Henry A. Kissinger",
+      "creator": "PRC Ministry of Foreign Affairs",
+      "publication_date": "2023-07-20",
+      "event_date_or_period": "2023-07-20",
+      "source_type": "Contemporary official meeting readout",
+      "reading_status": "Complete Chinese and official English article bodies read",
+      "locators": "Chinese body paragraphs 1–5; English body beginning On 20 July 2023 and ending Wang Yi was present",
+      "source_chain": "PRC leadership publicity chain; translations are one source",
+      "interpretation_limits": "Records commemorative treatment and a request for constructive advocacy, not a transcript, negotiating mandate, offer accepted by Washington, or demonstrated influence.",
+      "versions": [
+        {
+          "url": "https://www.fmprc.gov.cn/web/gjhdq_676201/gj_676203/bmz_679954/1206_680528/xgxw_680534/202307/t20230720_11115775.shtml",
+          "language": "zh",
+          "preserved_copy": {
+            "path": "/Users/jorsc/.codex/.chatgpt-projects/g-p-6a94dd290a988191911d85ae8fe94a6c/tmp/pdfs/research-2026-09-15/kissinger-2023/xi-20230720-zh.html",
+            "sha256": "fbaed5e25dc3be2e3579d70b90ce3ce8a704d67a3a2cdabd3688f0945abb8d3e",
+            "bytes": 61862,
+            "capture_kind": "complete HTML source capture",
+            "outside_git": true
+          }
+        },
+        {
+          "url": "https://www.mfa.gov.cn/mfa_eng/xw/zyxw/202405/t20240530_11332138.html",
+          "language": "en",
+          "preserved_copy": {
+            "path": "/Users/jorsc/.codex/.chatgpt-projects/g-p-6a94dd290a988191911d85ae8fe94a6c/tmp/pdfs/research-2026-09-15/kissinger-2023/xi-20230720-en.html",
+            "sha256": "492446c8370bf4af2d3b908eef99114b17936757c381d9c27f65f2c7f12ab546",
+            "bytes": 22203,
+            "capture_kind": "complete HTML source capture",
+            "outside_git": true
+          }
+        }
+      ],
+      "retrieved": "2026-09-15",
+      "version_note": "English URL contains 20240530 migration date; displayed article date is July 20, 2023."
+    },
+    {
+      "id": "K23-02",
+      "title": "王毅会见美国前国务卿基辛格 / Wang Yi Meets with Former U.S. Secretary of State Henry A. Kissinger",
+      "creator": "PRC Ministry of Foreign Affairs",
+      "publication_date": "2023-07-19",
+      "event_date_or_period": "2023-07-19",
+      "source_type": "Contemporary official meeting readout",
+      "reading_status": "Complete Chinese and official English article bodies read",
+      "locators": "Five Chinese body paragraphs; English body from On July 19 through Ukraine and artificial intelligence",
+      "source_chain": "PRC MFA publicity chain",
+      "interpretation_limits": "Attributes no public office to Kissinger and records Taiwan demands and broad topics. Attributed private statements do not bind the United States; no private instructions or transcript obtained.",
+      "versions": [
+        {
+          "url": "https://www.fmprc.gov.cn/web/wjdt_674879/gjldrhd_674881/202307/t20230719_11115104.shtml",
+          "language": "zh",
+          "preserved_copy": {
+            "path": "/Users/jorsc/.codex/.chatgpt-projects/g-p-6a94dd290a988191911d85ae8fe94a6c/tmp/pdfs/research-2026-09-15/kissinger-2023/wang-20230719-zh.html",
+            "sha256": "2d7b188aaed82dd4da5769157af8ff9c1f0ec5a59ebcabb69296223669e23491",
+            "bytes": 60694,
+            "capture_kind": "complete HTML source capture",
+            "outside_git": true
+          }
+        },
+        {
+          "url": "https://www.mfa.gov.cn/eng/gjhdq_665435/3376_665447/3432_664920/3435_664926/202307/t20230721_11116144.html",
+          "language": "en",
+          "preserved_copy": {
+            "path": "/Users/jorsc/.codex/.chatgpt-projects/g-p-6a94dd290a988191911d85ae8fe94a6c/tmp/pdfs/research-2026-09-15/kissinger-2023/wang-20230719-en.html",
+            "sha256": "99520e69b4ddd347b275fca149a13de05c663fde03df9d87010505c0afe48a85",
+            "bytes": 22864,
+            "capture_kind": "complete HTML source capture",
+            "outside_git": true
+          }
+        }
+      ],
+      "retrieved": "2026-09-15",
+      "version_note": "English path has July 21; article displays July 19, 2023."
+    },
+    {
+      "id": "K23-03",
+      "title": "李尚福会见外国客人",
+      "creator": "PRC Ministry of National Defense, reprinted by China News Service; shorter Chinese embassy release",
+      "publication_date": "2023-07-18",
+      "event_date_or_period": "2023-07-18",
+      "source_type": "Contemporary official readout in two public versions",
+      "reading_status": "Complete five-paragraph MOD-attributed reprint and complete four-paragraph embassy version read",
+      "locators": "CNS body paragraphs 1–5, before editor/footer; embassy body paragraphs 1–4",
+      "source_chain": "PRC defense publicity chain; CNS reproduction and embassy abridgement are not independent witnesses",
+      "interpretation_limits": "The longer reprint attributes support for military communication to Kissinger, not a Chinese instruction to resume official talks. Direct original MOD webpage was not recovered; CNS labels its source 国防部网站.",
+      "versions": [
+        {
+          "url": "https://www.chinanews.com.cn/gn/2023/07-18/10045373.shtml",
+          "language": "zh",
+          "preserved_copy": {
+            "path": "/Users/jorsc/.codex/.chatgpt-projects/g-p-6a94dd290a988191911d85ae8fe94a6c/tmp/pdfs/research-2026-09-15/kissinger-2023/li-mod-cns-reprint-20230718.html",
+            "sha256": "6c80e30cfaad32c84a380da9e378442d76309dda8dfae164da185bee6735dbc6",
+            "bytes": 78338,
+            "capture_kind": "complete HTML of explicitly MOD-attributed reprint",
+            "outside_git": true
+          }
+        },
+        {
+          "url": "https://us.china-embassy.gov.cn/chn/zmgx_1/zxxx/202307/t20230718_11114856.htm",
+          "language": "zh",
+          "preserved_copy": {
+            "path": "/Users/jorsc/.codex/.chatgpt-projects/g-p-6a94dd290a988191911d85ae8fe94a6c/tmp/pdfs/research-2026-09-15/kissinger-2023/li-embassy-20230718.html",
+            "sha256": "61bc5bb0fddbb58bd3f47ebfbcb3ac64062977bdb935813a35627cdc84cf2a51",
+            "bytes": 7218,
+            "capture_kind": "complete HTML source capture",
+            "outside_git": true
+          }
+        }
+      ],
+      "retrieved": "2026-09-15",
+      "version_note": "The embassy text is shorter; missing sentences must not be described as present there. Both versions include a final paragraph about a separate Bangladesh meeting."
+    },
+    {
+      "id": "K23-04",
+      "title": "Department of State Daily Press Briefing — July 18, 2023",
+      "creator": "Matthew Miller; U.S. Department of State; DVIDS public video and caption track",
+      "publication_date": "2023-07-18",
+      "event_date_or_period": "2023-07-18",
+      "source_type": "Contemporary official briefing, selected caption section",
+      "reading_status": "Relevant caption section read; audio/video not watched or checked; rest of briefing not substantively read",
+      "locators": "Caption timestamps 27:18.030–28:46.839; metadata video 890649 / DOD_109771023; total duration 00:30:17",
+      "source_chain": "U.S. State public briefing; CNN and Reuters partly repeat this same source",
+      "interpretation_limits": "Captions are explicitly unreviewed and contain transcription defects. Substantive mandate/debrief statements converge with named reporting and indexed State text. Do not treat caption spelling as a verified verbatim transcript or sanctions comment as independent legal analysis.",
+      "versions": [
+        {
+          "url": "https://www.dvidshub.net/video/890649/department-state-daily-press-briefing-july-18-2023",
+          "language": "en",
+          "preserved_copy": {
+            "path": "/Users/jorsc/.codex/.chatgpt-projects/g-p-6a94dd290a988191911d85ae8fe94a6c/tmp/pdfs/research-2026-09-15/kissinger-2023/dvids-state-20230718.html",
+            "sha256": "ea0f8d2c5d2ebd5d11f28d6a1913b6347e7a0fee7f7e0e199177badb36289118",
+            "bytes": 71126,
+            "capture_kind": "complete government video metadata page; video not downloaded",
+            "outside_git": true
+          }
+        },
+        {
+          "url": "https://www.dvidshub.net/video/closedcaption/id/890649",
+          "language": "en",
+          "preserved_copy": {
+            "path": "/Users/jorsc/.codex/.chatgpt-projects/g-p-6a94dd290a988191911d85ae8fe94a6c/tmp/pdfs/research-2026-09-15/kissinger-2023/state-20230718-captions.vtt",
+            "sha256": "ac1fa09df6e429cec6507bc1145b4cc70fd60241e819ab7dab4642ea8f3db24b",
+            "bytes": 49248,
+            "capture_kind": "complete unreviewed caption track; selected interval read",
+            "outside_git": true
+          }
+        }
+      ],
+      "retrieved": "2026-09-15",
+      "failed_direct_transcript": "https://2021-2025.state.gov/briefings/department-press-briefing-july-18-2023/ returned a technical-error page, not the briefing."
+    },
+    {
+      "id": "K23-05",
+      "title": "Henry Kissinger meets with sanctioned Chinese defense minister in Beijing",
+      "creator": "Jennifer Hansler and Kylie Atwood, CNN; CNN Beijing bureau and Simone McCarthy contributed",
+      "publication_date": "2023-07-18; updated 2023-07-19",
+      "event_date_or_period": "Early June notification; June 2023 dinner; July 18–19 meetings",
+      "source_type": "Contemporary reporting with one anonymous senior State Department source",
+      "reading_status": "Complete article body read in original CNN and affiliate reproduction",
+      "locators": "Original article body; paragraphs on early June notification and Qin–Blinken dinner; publication metadata 2023-07-18T19:08:20Z, modified 2023-07-19T13:56:53Z",
+      "source_chain": "CNN reporting; anonymous senior State source adds advance-notice detail; Chinese substance and Miller remarks derive from public readouts/briefing",
+      "interpretation_limits": "Advance knowledge is not approval of a mandate. Original and KTVZ affiliate are one reporting source; anonymous source identity and underlying notification unavailable.",
+      "versions": [
+        {
+          "url": "https://edition.cnn.com/2023/07/18/politics/henry-kissinger-li-shangfu-meeting/index.html",
+          "language": "en",
+          "preserved_copy": {
+            "path": "/Users/jorsc/.codex/.chatgpt-projects/g-p-6a94dd290a988191911d85ae8fe94a6c/tmp/pdfs/research-2026-09-15/kissinger-2023/cnn-20230718.html",
+            "sha256": "1774c557858b90ffba346b39840dc1f247a572246fcc5d18b1b4fb1059e8f7aa",
+            "bytes": 4484329,
+            "capture_kind": "complete HTML source capture",
+            "outside_git": true
+          }
+        },
+        {
+          "url": "https://ktvz.com/politics/cnn-us-politics/2023/07/18/henry-kissinger-meets-with-sanctioned-chinese-defense-minister-in-beijing/",
+          "language": "en",
+          "preserved_copy": {
+            "path": "/Users/jorsc/.codex/.chatgpt-projects/g-p-6a94dd290a988191911d85ae8fe94a6c/tmp/pdfs/research-2026-09-15/kissinger-2023/cnn-affiliate-20230718.html",
+            "sha256": "8472e6ef61e1380fa203457e091492f6e229dff15460d6c41b19322b756bb63a",
+            "bytes": 312500,
+            "capture_kind": "complete HTML source capture",
+            "outside_git": true
+          }
+        }
+      ],
+      "retrieved": "2026-09-15"
+    },
+    {
+      "id": "K23-06",
+      "title": "White House looks forward to hearing about Kissinger’s China trip",
+      "creator": "Trevor Hunnicutt, Reuters; additional reporting David Brunnstrom; editor Jonathan Oatis; KELO syndication",
+      "publication_date": "2023-07-20",
+      "event_date_or_period": "2023-07-20",
+      "source_type": "Contemporary attributed reporting of White House spokesman",
+      "reading_status": "Complete Reuters article read in downloaded KELO HTML",
+      "locators": "Derived paragraph list 4–15; Kirby remarks at 9–11; credits at 16",
+      "source_chain": "Reuters report of named John Kirby remarks; syndicated article is not an additional witness",
+      "interpretation_limits": "Reports expectation of a future readout, not a completed debrief. Original White House transcript or recording of this exchange not obtained; precise briefing format not established.",
+      "versions": [
+        {
+          "url": "https://kelo.com/2023/07/20/white-house-looks-forward-to-hearing-about-kissingers-china-trip/",
+          "language": "en",
+          "preserved_copy": {
+            "path": "/Users/jorsc/.codex/.chatgpt-projects/g-p-6a94dd290a988191911d85ae8fe94a6c/tmp/pdfs/research-2026-09-15/kissinger-2023/reuters-kirby-20230720.html",
+            "sha256": "c697a22f6da92d570b9191fa95f3296b860333615f4778150f8d2d1d771e118d",
+            "bytes": 83758,
+            "capture_kind": "complete HTML source capture",
+            "outside_git": true
+          }
+        }
+      ],
+      "retrieved": "2026-09-15"
+    },
+    {
+      "id": "K23-07",
+      "title": "谢锋大使在阿斯彭安全论坛与美国资深媒体人举行专场炉边谈话",
+      "creator": "PRC Embassy in the United States",
+      "publication_date": "2023-07-20",
+      "event_date_or_period": "2023-07-19",
+      "source_type": "Contemporary official summary of ambassador interview",
+      "reading_status": "Complete embassy article body read; underlying full interview not watched",
+      "locators": "Third substantive body paragraph beginning 谢锋说，所谓“政治正确”, with a related third item in the preceding paragraph; final paragraph describes forum attendance.",
+      "source_chain": "PRC embassy publicity chain",
+      "interpretation_limits": "Summary records a public aim to encourage favorable U.S. voices. It does not identify a Kissinger assignment, prove coordination with his trip, or reproduce every Aspen question.",
+      "versions": [
+        {
+          "url": "https://us.china-embassy.gov.cn/dshd/202307/t20230720_11115684.htm",
+          "language": "zh",
+          "preserved_copy": {
+            "path": "/Users/jorsc/.codex/.chatgpt-projects/g-p-6a94dd290a988191911d85ae8fe94a6c/tmp/pdfs/research-2026-09-15/kissinger-2023/xie-aspen-20230719.html",
+            "sha256": "3705e31a4004ed6f739052927f7c3d6f0e0518f69e83aec2b35781a4a3f06b61",
+            "bytes": 13688,
+            "capture_kind": "complete HTML source capture",
+            "outside_git": true
+          }
+        }
+      ],
+      "retrieved": "2026-09-15"
+    },
+    {
+      "id": "K23-08",
+      "title": "王毅会见美国国务卿布林肯",
+      "creator": "PRC Embassy in the United States / MFA readout",
+      "publication_date": "2023-07-13 (displayed); URL July 14",
+      "event_date_or_period": "2023-07-13",
+      "source_type": "Contemporary official meeting readout",
+      "reading_status": "Complete five-paragraph body read",
+      "locators": "Meeting in Jakarta; paragraphs on Bali consensus, Taiwan, economic restrictions, regional/maritime consultation, and continued communication",
+      "source_chain": "PRC MFA publicity chain",
+      "interpretation_limits": "Shows official dialogue and recurrent demands before Kissinger’s visit. Does not establish a private negotiating record or explain all reopening decisions.",
+      "versions": [
+        {
+          "url": "https://us.china-embassy.gov.cn/chn/zmgx_1/zxxx/202307/t20230714_11113128.htm",
+          "language": "zh",
+          "preserved_copy": {
+            "path": "/Users/jorsc/.codex/.chatgpt-projects/g-p-6a94dd290a988191911d85ae8fe94a6c/tmp/pdfs/research-2026-09-15/kissinger-2023/wang-blinken-20230713.html",
+            "sha256": "3322ab12569743500d0c499b568e4b24947fbd9365a11dca40512be24c340a5a",
+            "bytes": 7740,
+            "capture_kind": "complete HTML source capture",
+            "outside_git": true
+          }
+        }
+      ],
+      "retrieved": "2026-09-15"
+    },
+    {
+      "id": "K23-09",
+      "title": "Fareed Zakaria GPS: Interview with Secretary of State Antony Blinken",
+      "creator": "Fareed Zakaria and Antony Blinken; CNN transcript",
+      "publication_date": "2023-07-23 broadcast",
+      "event_date_or_period": "2023-07-21 interview, according to program introduction",
+      "source_type": "Contemporary interview with serving U.S. official",
+      "reading_status": "China segment read; rest of broadcast not used as evidence",
+      "locators": "Program introduction identifies Friday at Aspen; China segment browser lines 67–87, especially military-contact Q&A 82–87",
+      "source_chain": "Direct Blinken public statements in CNN rush transcript",
+      "interpretation_limits": "Rush transcript may be corrected; audio not verified. Blinken maintains that sanctions do not practically prevent contact and frames engagement as a Chinese decision. No disclosed July debrief or sanction-removal commitment.",
+      "versions": [
+        {
+          "url": "https://transcripts.cnn.com/show/fzgps/date/2023-07-23/segment/01",
+          "language": "en",
+          "preserved_copy": {
+            "path": "/Users/jorsc/.codex/.chatgpt-projects/g-p-6a94dd290a988191911d85ae8fe94a6c/tmp/pdfs/research-2026-09-15/kissinger-2023/cnn-blinken-20230723.html",
+            "sha256": "ca8e738afb4c130cdf46ebe83cb51ea763647c3f0c6436a91a8ac3f5836f9b2b",
+            "bytes": 43104,
+            "capture_kind": "complete HTML source capture",
+            "outside_git": true
+          }
+        }
+      ],
+      "retrieved": "2026-09-15"
+    },
+    {
+      "id": "K23-10",
+      "title": "On the Passing of Henry A. Kissinger",
+      "creator": "Antony J. Blinken, U.S. Secretary of State",
+      "publication_date": "2023-11-30",
+      "event_date_or_period": "Retrospective reference to consultation associated with travel to China and AI policy; precise dates unspecified",
+      "source_type": "Official retrospective participant statement, obtained as indexed full text",
+      "reading_status": "All nine statement paragraphs read in indexed full-text representation and in the preserved Agenparl reproduction; origin government page body not successfully retrieved.",
+      "locators": "Eighth substantive paragraph, beginning It was Henry’s enduring capacity; full statement and attribution in preserved browser capture",
+      "source_chain": "Blinken’s own retrospective public acknowledgment; obituary genre",
+      "interpretation_limits": "Positive evidence of consultation, but no exact advice, meeting date, July debrief, mission instruction, or policy response disclosed. Do not infer that advice was accepted. The indexed text and third-party press-release reproduction are not a clean government-origin download.",
+      "versions": [
+        {
+          "url": "https://2021-2025.state.gov/on-the-passing-of-henry-a-kissinger/",
+          "language": "en",
+          "preserved_copy": {
+            "path": "/Users/jorsc/.codex/.chatgpt-projects/g-p-6a94dd290a988191911d85ae8fe94a6c/tmp/pdfs/research-2026-09-15/kissinger-2023/blinken-obituary-indexed-browser.txt",
+            "sha256": "5b9e1f4a8efafb90561a079fe18b53dbeed66287183d7d6d470180676dd00599",
+            "bytes": 36780,
+            "capture_kind": "browser indexed full-body representation embedded in multi-result capture; State item only",
+            "outside_git": true
+          }
+        },
+        {
+          "url": "https://agenparl.eu/2023/11/30/on-the-passing-of-henry-a-kissinger/",
+          "language": "en",
+          "preserved_copy": {
+            "path": "/Users/jorsc/.codex/.chatgpt-projects/g-p-6a94dd290a988191911d85ae8fe94a6c/tmp/pdfs/research-2026-09-15/kissinger-2023/blinken-obituary-agenparl.html",
+            "sha256": "035f5e000cdc1f8897850263090fecc8ab98109811af4ab3de15a3cb79cc2703",
+            "bytes": 91952,
+            "capture_kind": "complete HTML of third-party State press-release reproduction with email wrapper",
+            "outside_git": true
+          }
+        }
+      ],
+      "retrieved": "2026-09-15",
+      "access_status": "Both government archive downloads failed. The Agenparl text reproduces the State press-release subscription wrapper, dated 11/30/2023 11:49 AM EST, and matches the indexed nine-paragraph statement. This strengthens text preservation without establishing a clean government-origin download."
+    },
+    {
+      "id": "K23-11",
+      "title": "Why Kissinger Went to China — Again",
+      "creator": "Daniel W. Drezner, Politico Magazine",
+      "publication_date": "2023-07-22; updated 2023-07-23",
+      "event_date_or_period": "Interpretation of July 2023 visit",
+      "source_type": "Contemporary analytical commentary by a scholar; not a peer-reviewed article",
+      "reading_status": "Complete essay read through browser; direct HTML download returned 403",
+      "locators": "Politico item in preserved multi-page browser capture, article lines 109–147; includes correction concerning Austin travel",
+      "source_chain": "Public-readout/reporting-based interpretation, not disclosed Chinese decision records",
+      "interpretation_limits": "Nostalgia, political signaling and commercial motives are hypotheses. Prediction of negligible policy impact does not prove no influence; full essay reading is not a new peer-reviewed scholarly article completion.",
+      "versions": [
+        {
+          "url": "https://www.politico.com/news/magazine/2023/07/22/why-kissinger-went-to-china-again-00107676",
+          "language": "en",
+          "preserved_copy": {
+            "path": "/Users/jorsc/.codex/.chatgpt-projects/g-p-6a94dd290a988191911d85ae8fe94a6c/tmp/pdfs/research-2026-09-15/kissinger-2023/politico-browser.txt",
+            "sha256": "2abc4481d73c36b24de78b162ef1a960cc3b91cb39f0517c2c0c337245712468",
+            "bytes": 30243,
+            "capture_kind": "browser full essay text in multi-page output; Politico item only",
+            "outside_git": true
+          }
+        }
+      ],
+      "retrieved": "2026-09-15"
+    },
+    {
+      "id": "K23-12",
+      "title": "Implementing the Biden Administration’s China Strategy",
+      "creator": "Christopher S. Chivvis and Senkai Hsia, Carnegie Endowment for International Peace",
+      "publication_date": "2026-03-23",
+      "event_date_or_period": "Biden administration; Kissinger July 2023 passage and September 19, 2025 interview citation",
+      "source_type": "Retrospective research report with participant interviews",
+      "reading_status": "Selected reading only: title/author metadata; introduction and methodology; Kissinger paragraph with adjacent context; notes 685–688; not the complete report",
+      "locators": "HTML paragraph extraction 33–39 and 387; PDF printed pp. 110–111 (physical 118–119), notes 685–688 on printed p.178 (physical 186)",
+      "source_chain": "Report cites 33 former Biden officials overall; relevant paragraph cites public Xi readout, anonymous State interview, Guardian report and Drezner commentary",
+      "interpretation_limits": "Note 686’s anonymous September 19, 2025 interview supports warm reception in the text; neither raw interview nor a private message/decision chain is released here. Other notes recycle public sources. Do not count all 33 interviews as independent evidence for this episode.",
+      "versions": [
+        {
+          "url": "https://carnegieendowment.org/research/2026/03/implementing-the-biden-administrations-china-strategy",
+          "language": "en",
+          "preserved_copy": {
+            "path": "/Users/jorsc/.codex/.chatgpt-projects/g-p-6a94dd290a988191911d85ae8fe94a6c/tmp/pdfs/research-2026-09-15/kissinger-2023/carnegie-2026.html",
+            "sha256": "0a128f47232ba4f2b596319a1993fd8514beb259d451ff067aa58a3fff735da8",
+            "bytes": 2125812,
+            "capture_kind": "complete HTML source capture",
+            "outside_git": true
+          }
+        },
+        {
+          "url": "https://assets.carnegieendowment.org/files/Chivvis_US-China-202603.pdf",
+          "language": "en",
+          "preserved_copy": {
+            "path": "/Users/jorsc/.codex/.chatgpt-projects/g-p-6a94dd290a988191911d85ae8fe94a6c/tmp/pdfs/research-2026-09-15/crisis-2023/21-carnegie-2026.pdf",
+            "sha256": "3328d43e4e1eda039f885e8542e026237660385e0d59a8acd15bdfeecbeda73d",
+            "bytes": 6511481,
+            "capture_kind": "complete PDF acquired by companion researcher; only specified text pages read here",
+            "outside_git": true
+          }
+        }
+      ],
+      "retrieved": "2026-09-15",
+      "cross_register_id": "C23-21"
+    },
+    {
+      "id": "K23-13",
+      "title": "China’s Defense Minister, Kissinger Discuss Sino-US Relations",
+      "creator": "Reuters, hosted by Voice of America",
+      "publication_date": "2023-07-18",
+      "event_date_or_period": "2023-07-18",
+      "source_type": "Contemporary reporting",
+      "reading_status": "Complete article body read",
+      "locators": "Body from Beijing lead through Miller comments",
+      "source_chain": "Mostly MOD readout and State briefing already represented in K23-03 and K23-04",
+      "interpretation_limits": "Corroborates publicity and public positions; not independent observation of closed-door Chinese bargaining.",
+      "versions": [
+        {
+          "url": "https://www.voanews.com/a/china-s-defense-minister-kissinger-discuss-sino-us-relations-/7186789.html",
+          "language": "en",
+          "preserved_copy": {
+            "path": "/Users/jorsc/.codex/.chatgpt-projects/g-p-6a94dd290a988191911d85ae8fe94a6c/tmp/pdfs/research-2026-09-15/kissinger-2023/reuters-li-20230718.html",
+            "sha256": "370a5d47d945b87089f61ba075c0e772dcd0014f405f7aa9154363318d369b51",
+            "bytes": 72436,
+            "capture_kind": "complete HTML source capture",
+            "outside_git": true
+          }
+        }
+      ],
+      "retrieved": "2026-09-15"
+    },
+    {
+      "id": "K23-14",
+      "title": "习近平会见美国国务卿布林肯",
+      "creator": "PRC Ministry of Foreign Affairs",
+      "publication_date": "2023-06-19",
+      "event_date_or_period": "2023-06-19",
+      "source_type": "Contemporary official meeting readout; chronology control",
+      "reading_status": "Complete six-paragraph body read from companion researcher’s source extraction",
+      "locators": "Opening meeting identification through Wang Yi and Qin Gang attendance",
+      "source_chain": "PRC leadership publicity chain",
+      "interpretation_limits": "Establishes incumbent secretary’s prior access to Xi; official attribution of U.S. positions must not be turned into a separately verified U.S. pledge.",
+      "versions": [
+        {
+          "url": "https://www.mfa.gov.cn/wjdt_674879/gjldrhd_674881/202306/t20230619_11099942.shtml",
+          "language": "zh",
+          "preserved_copy": {
+            "path": "/Users/jorsc/.codex/.chatgpt-projects/g-p-6a94dd290a988191911d85ae8fe94a6c/tmp/pdfs/research-2026-09-15/crisis-2023/16-mfa-june19-xi.html",
+            "sha256": "f83cceb64ec112a9ba878237acdc4d8ae621e5badc399b5ceb8c7e30db32a8f9",
+            "bytes": 62296,
+            "capture_kind": "complete HTML source capture",
+            "outside_git": true
+          }
+        }
+      ],
+      "retrieved": "2026-09-15",
+      "cross_register_id": "C23-16"
+    },
+    {
+      "id": "K23-15",
+      "title": "Readout of President Joe Biden’s Meeting with President Xi Jinping of the People’s Republic of China",
+      "creator": "The White House",
+      "publication_date": "2023-11-15",
+      "event_date_or_period": "2023-11-15",
+      "source_type": "Contemporary official summit readout; chronology control",
+      "reading_status": "Complete article body read from companion researcher’s extraction",
+      "locators": "Military communication paragraph; AI talks paragraph; Taiwan and export-control paragraph; final follow-up paragraph",
+      "source_chain": "U.S. presidential publicity chain",
+      "interpretation_limits": "A later agreement does not identify Kissinger as its cause. Announcement is not proof all named mechanisms had already met.",
+      "versions": [
+        {
+          "url": "https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2023/11/15/readout-of-president-joe-bidens-meeting-with-president-xi-jinping-of-the-peoples-republic-of-china-2/",
+          "language": "en",
+          "preserved_copy": {
+            "path": "/Users/jorsc/.codex/.chatgpt-projects/g-p-6a94dd290a988191911d85ae8fe94a6c/tmp/pdfs/research-2026-09-15/crisis-2023/17-wh-nov15-readout.html",
+            "sha256": "9ba0d9a246f722d81dcb370134a15c92929da1f3aa18200b4ad07e65e2ef0e14",
+            "bytes": 142827,
+            "capture_kind": "complete HTML source capture",
+            "outside_git": true
+          }
+        }
+      ],
+      "retrieved": "2026-09-15",
+      "cross_register_id": "C23-17"
+    },
+    {
+      "id": "K23-16",
+      "title": "习近平同美国总统拜登举行中美元首会晤",
+      "creator": "PRC Ministry of Foreign Affairs",
+      "publication_date": "2023-11-16",
+      "event_date_or_period": "2023-11-15 local time",
+      "source_type": "Contemporary official summit readout; chronology control",
+      "reading_status": "Complete substantive article body read; navigation excluded",
+      "locators": "Paragraph beginning 两国元首同意推动和加强; Taiwan and unilateral-sanctions paragraphs; concluding follow-up instructions",
+      "source_chain": "PRC presidential publicity chain; paired but not jointly authored with K23-15",
+      "interpretation_limits": "Separates Chinese demands, attributed Biden statements and listed cooperative decisions. No public Kissinger causal attribution; silence cannot establish no private contribution.",
+      "versions": [
+        {
+          "url": "https://www.mfa.gov.cn/ziliao_674904/zt_674979/ywzt_675099/2023nzt/xjpfmgjxzmyshwtscxytjhzzdsscldrfzshy/zxxx_136234/202311/t20231116_11181125.shtml",
+          "language": "zh",
+          "preserved_copy": {
+            "path": "/Users/jorsc/.codex/.chatgpt-projects/g-p-6a94dd290a988191911d85ae8fe94a6c/tmp/pdfs/research-2026-09-15/crisis-2023/18-mfa-nov16-readout.html",
+            "sha256": "a203b47f57860259bb581f57edff9dd8a639f62f334dffa6811c5563f7f6cb4c",
+            "bytes": 68766,
+            "capture_kind": "complete HTML source capture",
+            "outside_git": true
+          }
+        }
+      ],
+      "retrieved": "2026-09-15",
+      "cross_register_id": "C23-18"
+    },
+    {
+      "id": "K23-17",
+      "title": "国防部：中美两国防务部门沟通落实两国元首共识",
+      "creator": "Wu Qian, PRC Ministry of National Defense",
+      "publication_date": "2023-11-30",
+      "event_date_or_period": "2023-11-30",
+      "source_type": "Contemporary implementation Q&A; chronology control",
+      "reading_status": "Complete target Q&A read in Chinese and provided English answer",
+      "locators": "Answer paragraphs 2–3; future-tense will resume / 将 and current communication and coordination",
+      "source_chain": "PRC defense publicity chain",
+      "interpretation_limits": "Departments were coordinating implementation. Do not recode the November 15 announcement as completed operation of every channel; no evidence on Kissinger’s role.",
+      "versions": [
+        {
+          "url": "http://www.mod.gov.cn/gfbw/xwfyr/lxjzhzt/2023njzh/2023n11y/16270152.html",
+          "language": "zh/en",
+          "preserved_copy": {
+            "path": "/Users/jorsc/.codex/.chatgpt-projects/g-p-6a94dd290a988191911d85ae8fe94a6c/tmp/pdfs/research-2026-09-15/crisis-2023/19-mod-nov30-followup.html",
+            "sha256": "2a2172514764f680d9a39f10803886a1c780e6d86df83d20e979c3eb65af6527",
+            "bytes": 16957,
+            "capture_kind": "complete HTML source capture",
+            "outside_git": true
+          }
+        }
+      ],
+      "retrieved": "2026-09-15",
+      "cross_register_id": "C23-19"
+    }
+  ],
+  "excluded_error_captures": [
+    {
+      "url": "https://2021-2025.state.gov/briefings/department-press-briefing-july-18-2023/",
+      "language": "en",
+      "preserved_copy": {
+        "path": "/Users/jorsc/.codex/.chatgpt-projects/g-p-6a94dd290a988191911d85ae8fe94a6c/tmp/pdfs/research-2026-09-15/kissinger-2023/state-20230718.html",
+        "sha256": "359e3b8b6b844d69fa29bd39c40f970af1586af0500dcda1f98a302721eafe1d",
+        "bytes": 188865,
+        "capture_kind": "technical-error HTML; not the requested source",
+        "outside_git": true
+      }
+    },
+    {
+      "url": "https://2021-2025.state.gov/briefings/department-press-briefing-july-20-2023/",
+      "language": "en",
+      "preserved_copy": {
+        "path": "/Users/jorsc/.codex/.chatgpt-projects/g-p-6a94dd290a988191911d85ae8fe94a6c/tmp/pdfs/research-2026-09-15/kissinger-2023/state-20230720.html",
+        "sha256": "359e3b8b6b844d69fa29bd39c40f970af1586af0500dcda1f98a302721eafe1d",
+        "bytes": 188865,
+        "capture_kind": "technical-error HTML; not the requested source",
+        "outside_git": true
+      }
+    },
+    {
+      "url": "https://2021-2025.state.gov/on-the-passing-of-henry-a-kissinger/",
+      "language": "en",
+      "preserved_copy": {
+        "path": "/Users/jorsc/.codex/.chatgpt-projects/g-p-6a94dd290a988191911d85ae8fe94a6c/tmp/pdfs/research-2026-09-15/kissinger-2023/blinken-kissinger-20231130-en.html",
+        "sha256": "359e3b8b6b844d69fa29bd39c40f970af1586af0500dcda1f98a302721eafe1d",
+        "bytes": 188865,
+        "capture_kind": "technical-error HTML; not the requested source",
+        "outside_git": true
+      }
+    },
+    {
+      "url": "https://2021-2025.state.gov/translations/chinese/on-the-passing-of-henry-a-kissinger-zh/",
+      "language": "en",
+      "preserved_copy": {
+        "path": "/Users/jorsc/.codex/.chatgpt-projects/g-p-6a94dd290a988191911d85ae8fe94a6c/tmp/pdfs/research-2026-09-15/kissinger-2023/blinken-kissinger-20231130-zh.html",
+        "sha256": "359e3b8b6b844d69fa29bd39c40f970af1586af0500dcda1f98a302721eafe1d",
+        "bytes": 188865,
+        "capture_kind": "technical-error HTML; not the requested source",
+        "outside_git": true
+      }
+    }
+  ],
+  "unobtained_or_unread_targets": [
+    {
+      "target": "SCMP July 20 report of visit planning",
+      "url": "https://www.scmp.com/news/china/diplomacy/article/3228318/kissinger-meets-xi-heart-heart-talks-private-china-visit",
+      "status": "403; not read; no substantive claim based on snippet"
+    },
+    {
+      "target": "Zhou Enlai Peace Institute purported July 20 interview",
+      "url": "https://www.zhouenlaipeaceinstitute.org/stories/meeting-president-xi-secretary-kissinger/",
+      "status": "Web fetch failed; direct retrieval certificate verification failed; not read or relied upon"
+    },
+    {
+      "target": "Private U.S. or Chinese instructions, Kissinger briefing notes, completed post-trip debrief, and implementation communications",
+      "status": "Not located in this bounded public-source audit; absence of obtained records is not evidence no records, conversations or influence existed"
+    },
+    {
+      "target": "Clean original State November 30 statement",
+      "status": "Complete indexed body and full Agenparl press-release reproduction read and preserved under K23-10; government-origin download still failed."
+    }
+  ]
+}

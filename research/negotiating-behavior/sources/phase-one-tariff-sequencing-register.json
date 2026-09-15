@@ -1,0 +1,75 @@
+{
+  "title": "Phase One tariff announcements and implementing notices: supplementary register",
+  "research_date": "2026-09-15",
+  "memo": "../manuscript/chapter-05-source-review-2026-09-15.md",
+  "scope": "Two US notices published by January 2020; the January notice prescribes a February effective date. No entry-level collection or later compliance review.",
+  "sources": [
+    {
+      "id": "POT-01",
+      "title": "Notice of Modification of Section 301 Action: China's Acts, Policies, and Practices Related to Technology Transfer, Intellectual Property, and Innovation, FR Doc. 2019-27306",
+      "author_or_institution": "Office of the United States Trade Representative",
+      "source_type": "Primary administrative tariff notice",
+      "url": "https://www.govinfo.gov/content/pkg/FR-2019-12-18/pdf/2019-27306.pdf",
+      "publication_date": "2019-12-18",
+      "filing_date": "2019-12-13 16:15",
+      "event_dates": [
+        {"date": "2019-12-13", "event": "Phase One agreement announced; notice characterizes progress as the reason for modification."},
+        {"date": "2019-12-15", "event": "Previously scheduled commencement of additional duties on Annex C products; suspended from that planned start."}
+      ],
+      "effective_date": "2019-12-15 00:01 EST",
+      "read_date": "2026-09-15",
+      "reading_status": "Entire target notice read and visually checked",
+      "read_scope": "All target-notice text on the one-page PDF, printed 84 FR 69447: title through filing line, including dates, background, determination and operative HTSUS suspension. Preceding State Department notice excluded. Earlier tariff notices cited here not thereby counted as read.",
+      "locators": {
+        "publication": "84 FR 69447; PDF p. 1",
+        "effective_date": "Left column, DATES",
+        "tariff_scope_and_reason": "Section B, middle and right columns",
+        "operative_suspension": "Right column, paragraph beginning To give effect; HTSUS 9903.88.16 and notes 20(t), 20(u)",
+        "later_reduction_only_prospective": "Right column, paragraph beginning Furthermore"
+      },
+      "evidentiary_use": "Distinguishes indefinite suspension of planned December 15 duties from a separately forthcoming reduction of existing Annex A duties.",
+      "limits": "US administrative act and official account of negotiating progress. Does not disclose a bilateral tariff annex or private bargain, prove actual customs treatment of any entry, or put a 7.5 percent rate into effect in December.",
+      "source_dependence": "Primary implementing act; its negotiation account depends on US official reporting, rather than independently establishing Chinese assent to every described term.",
+      "preserved_copy": {
+        "path": "/Users/jorsc/.codex/.chatgpt-projects/g-p-6a94dd290a988191911d85ae8fe94a6c/tmp/pdfs/research-2026-09-15/phase-one-tariffs/2019-27306.pdf",
+        "bytes": 172453,
+        "sha256": "f7f304fbb12359ef91dd144d85f4567ed6f2f8fb5b11d2127d2f2606356f6204"
+      },
+      "visual_verification": "Full PDF p. 1 rendered as 2019-27306.png and read; text extraction preserved alongside. PDF metadata reflects later government file generation, not a change to the printed 2019 publication date."
+    },
+    {
+      "id": "POT-02",
+      "title": "Notice of Modification of Section 301 Action: China's Acts, Policies, and Practices Related to Technology Transfer, Intellectual Property, and Innovation, FR Doc. 2020-00904",
+      "author_or_institution": "Office of the United States Trade Representative",
+      "source_type": "Primary administrative tariff notice",
+      "url": "https://ustr.gov/sites/default/files/enforcement/301Investigations/Notice_of_Modification-January_2020.pdf",
+      "publication_date": "2020-01-22",
+      "filing_date": "2020-01-21 08:45",
+      "event_dates": [
+        {"date": "2019-12-13", "event": "Agreement on a Phase One deal, as recounted in Section B."},
+        {"date": "2020-01-15", "event": "Signature of Phase One, as recounted in Section B."},
+        {"date": "2020-02-14", "event": "Scheduled agreement entry into force and prescribed effective date of the tariff reduction."}
+      ],
+      "effective_date": "2020-02-14 00:01 EST",
+      "read_date": "2026-09-15",
+      "reading_status": "Entire target notice read and visually checked",
+      "read_scope": "All target-notice text on the one-page PDF, printed 85 FR 3741: title through filing line, including dates, background, determination and the full two-part Annex. Following FAA notice excluded. Earlier notices cited here not thereby counted as read.",
+      "locators": {
+        "publication": "85 FR 3741; PDF p. 1",
+        "effective_date": "Left column, DATES",
+        "signature_and_scheduled_entry_into_force": "Section B, middle column",
+        "operative_reduction": "Annex, right column; HTSUS note 20(r) and heading 9903.88.15"
+      },
+      "evidentiary_use": "Prescribes reduction from 15 percent to 7.5 percent for covered Annex A goods entered or withdrawn for consumption on or after February 14; links this prospective act to scheduled Phase One entry into force.",
+      "limits": "A January instrument scheduling later effect, not evidence that the lower rate already applied in December or at signature. No general elimination of existing tariffs, entry-level performance finding, or automatic future-remedy formula follows.",
+      "source_dependence": "Primary modification of US tariff rules; incorporates earlier US acts and official chronology. Distinct from the bilateral agreement's dispute provisions.",
+      "preserved_copy": {
+        "path": "/Users/jorsc/.codex/.chatgpt-projects/g-p-6a94dd290a988191911d85ae8fe94a6c/tmp/pdfs/research-2026-09-15/phase-one-tariffs/2020-00904.pdf",
+        "bytes": 246177,
+        "sha256": "9aea666cab1e985351f3797df71a117047675d9ebee8ad341e5a145ffc687e43"
+      },
+      "visual_verification": "Full PDF p. 1 rendered as 2020-00904.png and read; text extraction preserved alongside."
+    }
+  ],
+  "storage": "Original PDFs, text extractions, rendered pages and retrieval manifest are preserved outside Git. No shared source ledger was edited."
+}

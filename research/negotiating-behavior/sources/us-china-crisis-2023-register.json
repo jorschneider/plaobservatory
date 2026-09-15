@@ -1,0 +1,512 @@
+{
+  "title": "US–China crisis and channel bargaining, 2023: source and reading register",
+  "research_date": "2026-09-15",
+  "case": "../cases/us-china-crisis-2023.md",
+  "latest_substantive_event_examined": "2023-11-30 MOD implementation statement; retrospective source publication through March 2026",
+  "scope_note": "Main event window February–November 2023, with an August 2022 institutional baseline. No interviews or outreach conducted by this project. Public promises, attributed positions, implementation acts and private-motive hypotheses are distinguished.",
+  "sources": [
+    {
+      "id": "C23-01",
+      "title": "外交部宣布针对佩洛西窜台反制措施",
+      "author_or_institution": "PRC Ministry of Foreign Affairs",
+      "publication_date": "2022-08-05",
+      "source_type": "Primary public countermeasure announcement",
+      "url": "https://www.fmprc.gov.cn/zyxw/202208/t20220805_10735604.shtml",
+      "read_date": "2026-09-15",
+      "reading_status": "Read within explicitly bounded scope",
+      "read_scope": "Entire introductory sentence and eight numbered measures.",
+      "evidentiary_use": "Predating baseline: cancellation of three named military arrangements and suspension of five cooperation areas.",
+      "limits": "Does not say every possible military or diplomatic contact ceased. Distinguish cancellation of arranged mechanisms from universal severance.",
+      "source_dependence": "Public institutional account; records the issuing government’s stated position, not independently established private deliberation.",
+      "preserved_copy": {
+        "path": "/Users/jorsc/.codex/.chatgpt-projects/g-p-6a94dd290a988191911d85ae8fe94a6c/tmp/pdfs/research-2026-09-15/crisis-2023/01-mfa-2022-suspensions.html",
+        "bytes": 59537,
+        "sha256": "87cd5ba1163406531cbee9116f8b16ffcff328d9e1cd210e38b4633d2f655e21"
+      }
+    },
+    {
+      "id": "C23-02",
+      "title": "外交部发言人就中国无人飞艇因不可抗力误入美国领空答记者问",
+      "author_or_institution": "PRC Ministry of Foreign Affairs spokesperson",
+      "publication_date": "2023-02-03 21:35, Beijing publication time",
+      "source_type": "Primary official Q&A",
+      "url": "https://www.mfa.gov.cn/fyrbt_673021/dhdw_673027/202302/t20230203_11019482.shtml",
+      "read_date": "2026-09-15",
+      "reading_status": "Read within explicitly bounded scope",
+      "read_scope": "Complete one-question, one-answer text.",
+      "evidentiary_use": "Regret tied to civilian research, westerlies, limited control and force-majeure explanation; communication commitment.",
+      "limits": "Not admission of surveillance, unconditional apology, proof of weather or control facts, or an adjudication of force majeure.",
+      "source_dependence": "Public institutional account; records the issuing government’s stated position, not independently established private deliberation.",
+      "preserved_copy": {
+        "path": "/Users/jorsc/.codex/.chatgpt-projects/g-p-6a94dd290a988191911d85ae8fe94a6c/tmp/pdfs/research-2026-09-15/crisis-2023/02-mfa-feb3-regret.html",
+        "bytes": 59846,
+        "sha256": "f230cb2dc73f4fa13ad70a674368c78b3bd242f40438ef818b754b1ffdac5739"
+      }
+    },
+    {
+      "id": "C23-03",
+      "title": "Secretary Blinken’s Call with PRC CCP Central Foreign Affairs Office Director Wang Yi",
+      "author_or_institution": "US Department of State, Office of the Spokesperson; attributable to Ned Price",
+      "publication_date": "2023-02-03",
+      "source_type": "Primary official readout preserved in third-party reprint",
+      "url": "https://www.globalsecurity.org/wmd/library/news/china/2023/02/china-230203-state01.htm",
+      "read_date": "2026-09-15",
+      "reading_status": "Read within explicitly bounded scope",
+      "read_scope": "Complete substantive readout and publication attribution.",
+      "evidentiary_use": "US postponement before shootdown; acknowledgment of Chinese regret; objection and conditional future visit.",
+      "limits": "Public US account, not joint minutes. Original archive capture returned a technical-difficulties page.",
+      "source_dependence": "GlobalSecurity reproduces State text; reprint and State search-index result are the same evidentiary chain.",
+      "preserved_copy": {
+        "path": "/Users/jorsc/.codex/.chatgpt-projects/g-p-6a94dd290a988191911d85ae8fe94a6c/tmp/pdfs/research-2026-09-15/crisis-2023/03-state-feb3-call-reprint.html",
+        "bytes": 18537,
+        "sha256": "8353dd14ebcbdbb72c8846f4d9cd3220acb57ebad71f9694491274e14b291667"
+      }
+    },
+    {
+      "id": "C23-04",
+      "title": "Statement From Secretary of Defense Lloyd J. Austin III",
+      "author_or_institution": "US Department of Defense / Lloyd J. Austin III",
+      "publication_date": "2023-02-04",
+      "source_type": "Primary official statement preserved in third-party reprint",
+      "url": "https://www.globalsecurity.org/military/library/news/2023/02/mil-230204-dod01.htm",
+      "read_date": "2026-09-15",
+      "reading_status": "Read within explicitly bounded scope",
+      "read_scope": "Complete statement, including authorization, timing, risk rationale and Canada coordination.",
+      "evidentiary_use": "Shootdown event and US stated safety and surveillance rationale.",
+      "limits": "Does not establish Chinese purpose independently or resolve competing legal assertions.",
+      "source_dependence": "GlobalSecurity reprint links the original Defense.gov release; not an independent news account.",
+      "preserved_copy": {
+        "path": "/Users/jorsc/.codex/.chatgpt-projects/g-p-6a94dd290a988191911d85ae8fe94a6c/tmp/pdfs/research-2026-09-15/crisis-2023/04-dod-feb4-shootdown-reprint.html",
+        "bytes": 20348,
+        "sha256": "2a3013f3f50db4a355ddebfb1a7f8d56299e1ff83f333d394715d75e7dc4d628"
+      }
+    },
+    {
+      "id": "C23-05",
+      "title": "外交部关于美方宣称击落中国无人飞艇的声明",
+      "author_or_institution": "PRC Ministry of Foreign Affairs",
+      "publication_date": "2023-02-05 07:47, Beijing publication time",
+      "source_type": "Primary official statement",
+      "url": "https://www.mfa.gov.cn/web/ziliao_674904/1179_674909/202302/t20230205_11019861.shtml",
+      "read_date": "2026-09-15",
+      "reading_status": "Read within explicitly bounded scope",
+      "read_scope": "Complete substantive paragraph.",
+      "evidentiary_use": "Chinese protest, claimed prior explanation and restraint request, reservation of additional responses.",
+      "limits": "Official advocacy. Does not independently demonstrate civilian purpose, illegality of force, or a promise of a particular reprisal.",
+      "source_dependence": "Public institutional account; records the issuing government’s stated position, not independently established private deliberation.",
+      "preserved_copy": {
+        "path": "/Users/jorsc/.codex/.chatgpt-projects/g-p-6a94dd290a988191911d85ae8fe94a6c/tmp/pdfs/research-2026-09-15/crisis-2023/05-mfa-feb5-response.html",
+        "bytes": 58603,
+        "sha256": "8641da7e5f0d1f428daecd6b1e2b7777719d18eac220c18942c5a116bc30098b"
+      }
+    },
+    {
+      "id": "C23-06",
+      "title": "国防部新闻发言人谭克非就美国防部称中方拒绝就民用无人飞艇事件通话发表谈话",
+      "author_or_institution": "PRC Ministry of National Defense / Tan Kefei",
+      "publication_date": "2023-02-09 22:58:58",
+      "source_type": "Primary official statement",
+      "url": "http://www.mod.gov.cn/gfbw/qwfb/16200510.html",
+      "read_date": "2026-09-15",
+      "reading_status": "Read within explicitly bounded scope",
+      "read_scope": "Entire substantive paragraph.",
+      "evidentiary_use": "Explicit acknowledgment and public rationale for refusing proposed defense-minister call after use of force.",
+      "limits": "No internal instruction, responsible approving leader, apology formula, compensation demand or precise test for an acceptable atmosphere. HTTP captured because HTTPS certificate validation failed.",
+      "source_dependence": "Public institutional account; records the issuing government’s stated position, not independently established private deliberation.",
+      "preserved_copy": {
+        "path": "/Users/jorsc/.codex/.chatgpt-projects/g-p-6a94dd290a988191911d85ae8fe94a6c/tmp/pdfs/research-2026-09-15/crisis-2023/06-mod-feb9-refusal.html",
+        "bytes": 14103,
+        "sha256": "fe94672a3b769ccbe8eb4ec33da56abdd7bb0fe4dce9d7d695de8120dfb07b05"
+      }
+    },
+    {
+      "id": "C23-07",
+      "title": "Secretary Blinken’s Meeting with PRC Director of the CCP Central Foreign Affairs Office Wang Yi",
+      "author_or_institution": "US Department of State, Office of the Spokesperson; attributable to Ned Price",
+      "publication_date": "2023-02-18",
+      "source_type": "Primary official readout preserved in third-party reprint",
+      "url": "https://www.globalsecurity.org/wmd/library/news/china/2023/02/china-230218-state01.htm",
+      "read_date": "2026-09-15",
+      "reading_status": "Read within explicitly bounded scope",
+      "read_scope": "All four substantive paragraphs.",
+      "evidentiary_use": "Munich encounter, recurrence warning, Russia warning, Taiwan-policy statement and open-communication demand.",
+      "limits": "Unilateral account; neither joint agreement nor evidence Wang accepted US claims.",
+      "source_dependence": "GlobalSecurity reproduces the State readout also cited by Carnegie note 600; those citations are not separate witnesses.",
+      "preserved_copy": {
+        "path": "/Users/jorsc/.codex/.chatgpt-projects/g-p-6a94dd290a988191911d85ae8fe94a6c/tmp/pdfs/research-2026-09-15/crisis-2023/07-state-feb18-munich-reprint.html",
+        "bytes": 19297,
+        "sha256": "3ced6e764467d1d36e837287475a9a938bd4fdbac566eeb35eb563ae19288de8"
+      }
+    },
+    {
+      "id": "C23-08",
+      "title": "王毅同布林肯举行非正式接触",
+      "author_or_institution": "PRC Ministry of Foreign Affairs",
+      "publication_date": "2023-02-19 09:49",
+      "source_type": "Primary official readout",
+      "url": "https://www.mfa.gov.cn/zyxw/202302/t20230219_11027107.shtml",
+      "read_date": "2026-09-15",
+      "reading_status": "Read within explicitly bounded scope",
+      "read_scope": "Both substantive paragraphs.",
+      "evidentiary_use": "Chinese account corroborates Munich contact and identifies claimed US request and Chinese demand to repair damage.",
+      "limits": "Its greater brevity than State’s account is not evidence that other issues were absent. No agreed formula disclosed.",
+      "source_dependence": "Public institutional account; records the issuing government’s stated position, not independently established private deliberation.",
+      "preserved_copy": {
+        "path": "/Users/jorsc/.codex/.chatgpt-projects/g-p-6a94dd290a988191911d85ae8fe94a6c/tmp/pdfs/research-2026-09-15/crisis-2023/08-mfa-feb19-munich.html",
+        "bytes": 59538,
+        "sha256": "f414e488cc0ac1465aa52f436c7b512bbda12716875e54c9135e0ee28c5a2f2a"
+      },
+      "event_date": "2023-02-18, Munich local date"
+    },
+    {
+      "id": "C23-09",
+      "title": "Readout of National Security Advisor Jake Sullivan’s Meeting with Chinese Communist Party Politburo Member and Director of the Office of the Foreign Affairs Commission Wang Yi",
+      "author_or_institution": "White House",
+      "publication_date": "2023-05-11",
+      "source_type": "Primary official readout",
+      "url": "https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2023/05/11/readout-of-national-security-advisor-jake-sullivans-meeting-with-chinese-communist-party-politburo-member-and-director-of-the-office-of-the-foreign-affairs-commission-wang-yi/",
+      "read_date": "2026-09-15",
+      "reading_status": "Read within explicitly bounded scope",
+      "read_scope": "Entire substantive paragraph.",
+      "evidentiary_use": "Vienna meeting dates, broad agenda, responsible-competition framing, agreement to maintain strategic channel.",
+      "limits": "Does not disclose negotiation of channel protocols or Chinese internal acceptance of US strategic framing.",
+      "source_dependence": "Public institutional account; records the issuing government’s stated position, not independently established private deliberation.",
+      "preserved_copy": {
+        "path": "/Users/jorsc/.codex/.chatgpt-projects/g-p-6a94dd290a988191911d85ae8fe94a6c/tmp/pdfs/research-2026-09-15/crisis-2023/09-wh-may11-vienna.html",
+        "bytes": 137859,
+        "sha256": "baed42da8c38c15482e84f993aede9d1308f8fdcf4d91deb294c6a7ad7dffa6e"
+      },
+      "event_date": "2023-05-10 to 2023-05-11, Vienna"
+    },
+    {
+      "id": "C23-10",
+      "title": "王毅同美国总统国家安全事务助理沙利文举行会晤",
+      "author_or_institution": "PRC Ministry of Foreign Affairs",
+      "publication_date": "2023-05-12 06:56",
+      "source_type": "Primary official readout",
+      "url": "https://www.fmprc.gov.cn/zyxw/202305/t20230512_11075777.shtml",
+      "read_date": "2026-09-15",
+      "reading_status": "Read within explicitly bounded scope",
+      "read_scope": "Entire substantive paragraph.",
+      "evidentiary_use": "Paired Chinese Vienna account: remove obstacles, stop deterioration, Taiwan, Asia-Pacific, Ukraine and continuing strategic communication.",
+      "limits": "Convergence on holding and continuing channel does not make all descriptions of purpose mutually agreed.",
+      "source_dependence": "Public institutional account; records the issuing government’s stated position, not independently established private deliberation.",
+      "preserved_copy": {
+        "path": "/Users/jorsc/.codex/.chatgpt-projects/g-p-6a94dd290a988191911d85ae8fe94a6c/tmp/pdfs/research-2026-09-15/crisis-2023/10-mfa-may12-vienna.html",
+        "bytes": 60061,
+        "sha256": "59d675f8157ede3a738495eb7b983a4ee846de91f1a0b3745fbbb59b3089811c"
+      },
+      "event_date": "2023-05-10 to 2023-05-11, Vienna"
+    },
+    {
+      "id": "C23-11",
+      "title": "国防部新闻发言人谭克非就美炒作中方“拒绝”两国防长会晤提议事答记者问",
+      "author_or_institution": "PRC Ministry of National Defense / Tan Kefei",
+      "publication_date": "2023-05-31 12:28:36",
+      "source_type": "Primary official Q&A",
+      "url": "http://www.mod.gov.cn/gfbw/qwfb/16227655.html",
+      "read_date": "2026-09-15",
+      "reading_status": "Read within explicitly bounded scope",
+      "read_scope": "Complete question and answer.",
+      "evidentiary_use": "Chinese statement that military contacts were not interrupted; conditions of principles, bottom lines, corrective US action and atmosphere.",
+      "limits": "Does not explicitly name Li Shangfu’s sanctions or promise a meeting if they are lifted. No internal mandate disclosed. HTTP capture used after HTTPS certificate failure.",
+      "source_dependence": "Public institutional account; records the issuing government’s stated position, not independently established private deliberation.",
+      "preserved_copy": {
+        "path": "/Users/jorsc/.codex/.chatgpt-projects/g-p-6a94dd290a988191911d85ae8fe94a6c/tmp/pdfs/research-2026-09-15/crisis-2023/11-mod-may31-refusal.html",
+        "bytes": 14407,
+        "sha256": "5a295e1d413b5f2a12cb466d3caaa171f1b2fb7a1cff863653c23963ee0c99f0"
+      }
+    },
+    {
+      "id": "C23-12",
+      "title": "China Declines US Offer for Defense Talks in Singapore this Week",
+      "author_or_institution": "Carla Babb, Voice of America",
+      "publication_date": "2023-05-30",
+      "source_type": "Contemporary original reporting",
+      "url": "https://www.voanews.com/a/china-declines-us-offer-for-defense-talks-in-singapore-this-week-/7116032.html",
+      "read_date": "2026-09-15",
+      "reading_status": "Read within explicitly bounded scope",
+      "read_scope": "Entire substantive dispatch, including defense invitation, quoted spokespeople and aircraft-intercept section.",
+      "evidentiary_use": "Named Ryder statement dates invitation to early May; reports refusal and Li’s sanction status.",
+      "limits": "Anonymous senior US official’s aggregate counts are attributed and not independently verified; sanctions background alone does not prove the actual Chinese condition. Aircraft accounts remain attributed.",
+      "source_dependence": "Named Pentagon and MFA statements plus an anonymous senior US official; independent journalistic packaging, not access to Chinese orders.",
+      "preserved_copy": {
+        "path": "/Users/jorsc/.codex/.chatgpt-projects/g-p-6a94dd290a988191911d85ae8fe94a6c/tmp/pdfs/research-2026-09-15/crisis-2023/12-voa-may30-defense.html",
+        "bytes": 74047,
+        "sha256": "8c911e194937c6c4626f73622a301343b9ac5249846c1a0f65edbc565bae9a39"
+      }
+    },
+    {
+      "id": "C23-13",
+      "title": "秦刚同美国国务卿布林肯举行会谈",
+      "author_or_institution": "PRC Ministry of Foreign Affairs",
+      "publication_date": "2023-06-19",
+      "source_type": "Primary official readout",
+      "url": "https://www.mfa.gov.cn/web/gjhdq_676201/gj_676203/bmz_679954/1206_680528/xgxw_680534/202306/t20230619_11099462.shtml",
+      "read_date": "2026-09-15",
+      "reading_status": "Read within explicitly bounded scope",
+      "read_scope": "Entire text: opening, Qin’s position, five agreement paragraphs and closing regional-issues sentence.",
+      "evidentiary_use": "June commitment stages: senior contacts, accepted future invitation, consultations on principles and working groups, exchanges and flight discussions.",
+      "limits": "Invitation not completed visit; consultations not final principles; flight discussion not scheduled service.",
+      "source_dependence": "Public institutional account; records the issuing government’s stated position, not independently established private deliberation.",
+      "preserved_copy": {
+        "path": "/Users/jorsc/.codex/.chatgpt-projects/g-p-6a94dd290a988191911d85ae8fe94a6c/tmp/pdfs/research-2026-09-15/crisis-2023/13-mfa-june19-qin.html",
+        "bytes": 61388,
+        "sha256": "688fbc62965fc939df5733e7d297c807230a4375384d6cce46eba6febe0396ad"
+      },
+      "event_date": "2023-06-18, Beijing"
+    },
+    {
+      "id": "C23-14",
+      "title": "王毅会见美国国务卿布林肯",
+      "author_or_institution": "PRC Ministry of Foreign Affairs; official PRC Embassy in Washington republication",
+      "publication_date": "2023-06-19 13:10",
+      "source_type": "Primary official readout",
+      "url": "https://us.china-embassy.gov.cn/zgyw/202306/t20230619_11099675.htm",
+      "read_date": "2026-09-15",
+      "reading_status": "Read within explicitly bounded scope",
+      "read_scope": "Complete substantive text.",
+      "evidentiary_use": "Wang’s demands on sanctions, technology, Taiwan, historical trajectory and relationship principles.",
+      "limits": "Statements attributed to Blinken are China’s account; not a jointly authenticated transcript. No evidence these demands were accepted.",
+      "source_dependence": "Official republication of the same Chinese account; embassy and MFA versions are not independent witnesses.",
+      "preserved_copy": {
+        "path": "/Users/jorsc/.codex/.chatgpt-projects/g-p-6a94dd290a988191911d85ae8fe94a6c/tmp/pdfs/research-2026-09-15/crisis-2023/14-mfa-june19-wang.html",
+        "bytes": 8754,
+        "sha256": "37f96b6f0444a265c710af9fa30c320fe318c78fd59fb7ef43f6c20a75ab9d42"
+      }
+    },
+    {
+      "id": "C23-15",
+      "title": "Secretary of State Antony J. Blinken’s Press Availability",
+      "author_or_institution": "Antony J. Blinken, US Department of State; Beijing American Center",
+      "publication_date": "2023-06-19",
+      "source_type": "Primary public participant statement and press Q&A, preserved in reprint",
+      "url": "https://www.globalsecurity.org/military/library/news/2023/06/mil-230619-state04.htm",
+      "read_date": "2026-09-15",
+      "reading_status": "Read within explicitly bounded scope",
+      "read_scope": "Entire opening statement and all questions/answers. Crucial locators: opening Taiwan, targeted controls, fentanyl and visits paragraphs; Kylie Atwood Q&A; final follow-up.",
+      "evidentiary_use": "US account of achieved and unachieved objectives; explicit absence of military-channel agreement; intention to continue engagement; policy positions retained.",
+      "limits": "Authoritative evidence of what Blinken publicly said, not an independent verification of all statistics or assertions. The reprint contains apparent transcription errors; no causal claim rests on them. Original State archive retrieval was an error page.",
+      "source_dependence": "GlobalSecurity reproduces the official State transcript; not an additional reporter’s account.",
+      "preserved_copy": {
+        "path": "/Users/jorsc/.codex/.chatgpt-projects/g-p-6a94dd290a988191911d85ae8fe94a6c/tmp/pdfs/research-2026-09-15/crisis-2023/15-state-june19-press-reprint.html",
+        "bytes": 45318,
+        "sha256": "fbd9cb077f60a80f96b94796bd4138594cd1765fd79beee5547a5e7583f15d2e"
+      }
+    },
+    {
+      "id": "C23-16",
+      "title": "习近平会见美国国务卿布林肯",
+      "author_or_institution": "PRC Ministry of Foreign Affairs",
+      "publication_date": "2023-06-19 18:30",
+      "source_type": "Primary official readout",
+      "url": "https://www.mfa.gov.cn/wjdt_674879/gjldrhd_674881/202306/t20230619_11099942.shtml",
+      "read_date": "2026-09-15",
+      "reading_status": "Read within explicitly bounded scope",
+      "read_scope": "Complete six substantive paragraphs, including China’s attribution of US assurances.",
+      "evidentiary_use": "Xi’s relationship principles, rejection of competition framing and demand to implement positive statements.",
+      "limits": "Attributed US assurances must be compared with C23-15, not treated as bilateral signed commitments. Leader attendance does not establish prior mandate or a military agreement.",
+      "source_dependence": "Public institutional account; records the issuing government’s stated position, not independently established private deliberation.",
+      "preserved_copy": {
+        "path": "/Users/jorsc/.codex/.chatgpt-projects/g-p-6a94dd290a988191911d85ae8fe94a6c/tmp/pdfs/research-2026-09-15/crisis-2023/16-mfa-june19-xi.html",
+        "bytes": 62296,
+        "sha256": "f83cceb64ec112a9ba878237acdc4d8ae621e5badc399b5ceb8c7e30db32a8f9"
+      }
+    },
+    {
+      "id": "C23-17",
+      "title": "Readout of President Joe Biden’s Meeting with President Xi Jinping of the People’s Republic of China",
+      "author_or_institution": "White House",
+      "publication_date": "2023-11-15",
+      "source_type": "Primary official summit readout",
+      "url": "https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2023/11/15/readout-of-president-joe-bidens-meeting-with-president-xi-jinping-of-the-peoples-republic-of-china-2/",
+      "read_date": "2026-09-15",
+      "reading_status": "Read within explicitly bounded scope",
+      "read_scope": "Complete substantive text, all paragraphs. Especially military mechanisms, counternarcotics, Taiwan/technology, principles and follow-up.",
+      "evidentiary_use": "Names restored mechanisms and cooperation commitments while retaining US policy positions.",
+      "limits": "Present-tense resumption announcement does not prove all mechanisms had met by that date; not an unconditional guaranteed crisis-response protocol.",
+      "source_dependence": "Paired with the Chinese readout: corroboration of specified outcomes, not two independent witnesses to internal bargaining.",
+      "preserved_copy": {
+        "path": "/Users/jorsc/.codex/.chatgpt-projects/g-p-6a94dd290a988191911d85ae8fe94a6c/tmp/pdfs/research-2026-09-15/crisis-2023/17-wh-nov15-readout.html",
+        "bytes": 142827,
+        "sha256": "9ba0d9a246f722d81dcb370134a15c92929da1f3aa18200b4ad07e65e2ef0e14"
+      },
+      "event_date": "2023-11-15, Woodside, California"
+    },
+    {
+      "id": "C23-18",
+      "title": "习近平同美国总统拜登举行中美元首会晤",
+      "author_or_institution": "PRC Ministry of Foreign Affairs",
+      "publication_date": "2023-11-16 10:23, Beijing publication time",
+      "source_type": "Primary official summit readout",
+      "url": "https://www.mfa.gov.cn/ziliao_674904/zt_674979/ywzt_675099/2023nzt/xjpfmgjxzmyshwtscxytjhzzdsscldrfzshy/zxxx_136234/202311/t20231116_11181125.shtml",
+      "read_date": "2026-09-15",
+      "reading_status": "Read within explicitly bounded scope",
+      "read_scope": "Entire substantive text, including five pillars, Taiwan and sanctions demands, attributed Biden assurances, common principles and named mechanisms.",
+      "evidentiary_use": "Chinese agency, conditions of equality/respect, specific agreements and continuing policy differences.",
+      "limits": "Not a joint communiqué or an authenticated record of every US assurance. Publication on 16 November does not move the California event from 15 November.",
+      "source_dependence": "Paired institutional publication; subsequent summaries and Carnegie quotations depend on this record.",
+      "preserved_copy": {
+        "path": "/Users/jorsc/.codex/.chatgpt-projects/g-p-6a94dd290a988191911d85ae8fe94a6c/tmp/pdfs/research-2026-09-15/crisis-2023/18-mfa-nov16-readout.html",
+        "bytes": 68766,
+        "sha256": "a203b47f57860259bb581f57edff9dd8a639f62f334dffa6811c5563f7f6cb4c"
+      },
+      "event_date": "2023-11-15, Woodside, California"
+    },
+    {
+      "id": "C23-19",
+      "title": "国防部：中美两国防务部门沟通落实两国元首共识",
+      "author_or_institution": "PRC Ministry of National Defense / Wu Qian",
+      "publication_date": "2023-11-30 15:09:10",
+      "source_type": "Primary official Q&A with official English answer",
+      "url": "http://www.mod.gov.cn/gfbw/xwfyr/lxjzhzt/2023njzh/2023n11y/16270152.html",
+      "read_date": "2026-09-15",
+      "reading_status": "Read within explicitly bounded scope",
+      "read_scope": "Entire Chinese question and three-paragraph answer, and entire official English answer.",
+      "evidentiary_use": "Future-oriented resumption and current coordination establish implementation stage at end of examined horizon.",
+      "limits": "Does not establish completion of all mechanisms, an agreed call deadline, unconditional availability or future crisis performance.",
+      "source_dependence": "Public institutional account; records the issuing government’s stated position, not independently established private deliberation.",
+      "preserved_copy": {
+        "path": "/Users/jorsc/.codex/.chatgpt-projects/g-p-6a94dd290a988191911d85ae8fe94a6c/tmp/pdfs/research-2026-09-15/crisis-2023/19-mod-nov30-followup.html",
+        "bytes": 16957,
+        "sha256": "2a2172514764f680d9a39f10803886a1c780e6d86df83d20e979c3eb65af6527"
+      }
+    },
+    {
+      "id": "C23-20",
+      "title": "The U.S says Xi didn’t know about the balloon. That raises even more questions",
+      "author_or_institution": "CNN; syndicated by Citizen Digital (reprint byline identifies CNN, not individual author)",
+      "publication_date": "Reprint 2023-02-11 03:00 EAT",
+      "source_type": "Contemporary reporting with anonymous briefing source and named analysts",
+      "url": "https://citizen.digital/article/washington-believes-the-balloon-shot-down-over-the-atlantic-on-saturday-is-part-of-an-extensive-chin-n314171",
+      "read_date": "2026-09-15",
+      "reading_status": "Read within explicitly bounded scope",
+      "read_scope": "Full substantive article, excluding unrelated trending-news modules.",
+      "evidentiary_use": "Distinguishes US assessment of Xi’s knowledge from Chinese evidence; preserves competing analyst explanations.",
+      "limits": "Report describes a source familiar with a US congressional briefing, not direct observation of Xi. Article title is more categorical than its conditional opening. No Chinese internal record disclosed.",
+      "source_dependence": "Syndicated CNN story, not an independent Citizen Digital investigation; repeats US assessments and interviews with outside scholars.",
+      "preserved_copy": {
+        "path": "/Users/jorsc/.codex/.chatgpt-projects/g-p-6a94dd290a988191911d85ae8fe94a6c/tmp/pdfs/research-2026-09-15/crisis-2023/20-cnn-feb11-assessment.html",
+        "bytes": 526446,
+        "sha256": "5c8352350522a6fa9da51a7c48ecf767225cc5abf881ebc0d5f7f25172ac747e"
+      }
+    },
+    {
+      "id": "C23-21",
+      "title": "Implementing the Biden Administration’s China Strategy",
+      "author_or_institution": "Christopher S. Chivvis and Senkai Hsia; Carnegie Endowment for International Peace",
+      "publication_date": "March 2026",
+      "source_type": "Authored policy research report with retrospective participant interviews",
+      "url": "https://assets.carnegieendowment.org/files/Chivvis_US-China-202603.pdf",
+      "read_date": "2026-09-15",
+      "reading_status": "Read within explicitly bounded scope",
+      "read_scope": "Printed pp. 7–8 (PDF pp. 15–16), pp. 100–115 (PDF pp. 108–123), and notes 592–718 on printed pp. 173–180 (PDF pp. 181–188) read. Author biographies and contents inspected. Not a complete reading of the report. Adjacent p. 116 was incidentally screened but is outside case evidence.",
+      "evidentiary_use": "American process reconstruction and alternative explanations; explicit assessment of source limits.",
+      "limits": "The study’s 33 former Biden-official interviews do not provide Chinese internal archives. Xi-awareness claim depends on US officials and reporting. Later success assessments are not adopted without separate operational evidence. The narrative’s June 2023 dating of Wang’s return as foreign minister is not used; it requires a separate chronology check.",
+      "source_dependence": "Notes 592–604 trace balloon claims; 625–641 trace channel setup; 694–695 trace delisting interpretation to an anonymous November 2025 email interview; 702/706/714/716 return to already registered official texts.",
+      "preserved_copy": {
+        "path": "/Users/jorsc/.codex/.chatgpt-projects/g-p-6a94dd290a988191911d85ae8fe94a6c/tmp/pdfs/research-2026-09-15/crisis-2023/21-carnegie-2026.pdf",
+        "bytes": 6511481,
+        "sha256": "3328d43e4e1eda039f885e8542e026237660385e0d59a8acd15bdfeecbeda73d"
+      },
+      "visual_verification": "Rendered and visually inspected printed p. 173/PDF p. 181, including notes 592–604 and the exact US interview provenance of the Xi-awareness claim.",
+      "full_text_url": "https://assets.carnegieendowment.org/files/Chivvis_US-China-202603.pdf"
+    },
+    {
+      "id": "C23-22",
+      "title": "‘It just rang’: In crises, US-China hotline goes unanswered",
+      "author_or_institution": "Ellen Knickmeyer, Associated Press; contributions by Lolita C. Baldor and Huizhong Wu; WTAP republication",
+      "publication_date": "2023-02-10, WTAP updated 11:16 AM EST",
+      "source_type": "Contemporary original reporting and interviews, licensed republication",
+      "url": "https://www.wtap.com/2023/02/10/it-just-rang-crises-us-china-hotline-goes-unanswered/",
+      "read_date": "2026-09-15",
+      "reading_status": "Read within explicitly bounded scope",
+      "read_scope": "Full substantive report through contributor credit.",
+      "evidentiary_use": "Requested February call and public refusal; distinction between requesting a conversation and a permanently connected hotline; named participants’ historical experience.",
+      "limits": "Opening February chronology is attributed to Pentagon; headline quotation concerns March 2009. Expert institutional interpretation is not access to the February 2023 Chinese instruction. The underlying 2008 pact was not independently acquired.",
+      "source_dependence": "WTAP repeats AP; quoted Pentagon and Chinese statements overlap official sources. Named historical witnesses are direct only for their own earlier experience.",
+      "preserved_copy": {
+        "path": "/Users/jorsc/.codex/.chatgpt-projects/g-p-6a94dd290a988191911d85ae8fe94a6c/tmp/pdfs/research-2026-09-15/crisis-2023/22-ap-feb10-hotline-reprint.html",
+        "bytes": 166411,
+        "sha256": "525f4613c0c509c9056afdce9dc112fd728fd0c0485e81a5153ce5f7ef7296a1"
+      }
+    },
+    {
+      "id": "C23-23",
+      "title": "IP23017 | A Crisis in Communication: Rethinking How Beijing and Washington Communicate",
+      "author_or_institution": "Kevin Chen Xian An, Institute of Defence and Strategic Studies, S. Rajaratnam School of International Studies",
+      "publication_date": "2023-02-27",
+      "source_type": "Authored contemporary policy commentary",
+      "url": "https://rsis.edu.sg/rsis-publication/idss/ip23017-a-crisis-in-communication-rethinking-how-beijing-and-washington-communicate/",
+      "read_date": "2026-09-15",
+      "reading_status": "Read within explicitly bounded scope",
+      "read_scope": "Full commentary, synopsis, author note and linked-source apparatus read in browser rendering, lines 270–309 of the capture; later duplicated text is not another work.",
+      "evidentiary_use": "Competing mechanisms: centralized permission, political signaling, differing conceptions of crisis communication; policy counterfactuals.",
+      "limits": "No disclosed private 2023 Chinese interviews or internal decision records. A call averting the crisis is counterfactual, not demonstrated. Not a peer-reviewed causal study.",
+      "source_dependence": "Draws on news reporting and earlier institutional studies; no independent confirmation of all events cited.",
+      "preserved_copy": {
+        "path": "/Users/jorsc/.codex/.chatgpt-projects/g-p-6a94dd290a988191911d85ae8fe94a6c/tmp/pdfs/research-2026-09-15/crisis-2023/23-rsis-browser-capture.json",
+        "bytes": 30027,
+        "sha256": "5c99073d53f48881d22aab7f9fb4a7972126d396917b41f8ddaff3540e387fe8",
+        "format_note": "JSON-encoded full browser-rendered source response, not publisher HTML. Direct HTML download returned HTTP 403. Capture includes navigation and a duplicated page rendition; substantive reading scope is specified above."
+      }
+    },
+    {
+      "id": "C23-24",
+      "title": "Entity List Removal, 88 FR 80131–80132, FR Doc. 2023–25557",
+      "author_or_institution": "US Department of Commerce, Bureau of Industry and Security; Matthew S. Borman",
+      "publication_date": "2023-11-17; filed and effective 2023-11-16",
+      "source_type": "Primary final administrative rule",
+      "url": "https://www.govinfo.gov/content/pkg/FR-2023-11-17/pdf/2023-25557.pdf",
+      "read_date": "2026-09-15",
+      "reading_status": "Read within explicitly bounded scope",
+      "read_scope": "Entire rule, from Commerce heading on printed p. 80131/PDF p. 1 through signature and filing line on p. 80132/PDF p. 2; adjacent unrelated rules excluded.",
+      "evidentiary_use": "Actual entity removal, effective date and review process.",
+      "limits": "Notice itself gives no counternarcotics quid pro quo or finding that human-rights concerns were resolved; does not remove all restrictions on China or Li Shangfu.",
+      "source_dependence": "Primary legal act; motive separately sourced to named Miller reporting, rather than inferred from date alone.",
+      "preserved_copy": {
+        "path": "/Users/jorsc/.codex/.chatgpt-projects/g-p-6a94dd290a988191911d85ae8fe94a6c/tmp/pdfs/research-2026-09-15/crisis-2023/24-bis-entity-removal.pdf",
+        "bytes": 210244,
+        "sha256": "a2eda26e888cf2125f84cf82803694f0219a74c68707c3d73d8b215351226de1"
+      },
+      "visual_verification": "Rendered and visually inspected printed p. 80131/PDF p. 1, especially effective date and named institute."
+    },
+    {
+      "id": "C23-25",
+      "title": "US Lifts Sanctions on Chinese Institute to Seek Fentanyl Cooperation",
+      "author_or_institution": "Nike Ching, Voice of America",
+      "publication_date": "2023-11-16 23:55",
+      "source_type": "Contemporary original reporting quoting named briefing participant",
+      "url": "https://www.voanews.com/amp/us-lifts-sanctions-on-chinese-institute-to-seek-fentanyl-cooperation-/7358446.html",
+      "read_date": "2026-09-15",
+      "reading_status": "Read within explicitly bounded scope",
+      "read_scope": "Entire substantive report, including Miller quotations and human-rights objection; general drug-supply statistics not used as case findings.",
+      "evidentiary_use": "Named State spokesman publicly links delisting to precursor cooperation; identifies a specific policy tradeoff.",
+      "limits": "Not proof that delisting purchased military communication. Does not independently validate prospective Chinese enforcement or the report’s broader drug statistics. Full State briefing transcript not acquired.",
+      "source_dependence": "Miller’s public briefing is the primary attributed account; reporter directly asked a question. Legal action independently checked against C23-24.",
+      "preserved_copy": {
+        "path": "/Users/jorsc/.codex/.chatgpt-projects/g-p-6a94dd290a988191911d85ae8fe94a6c/tmp/pdfs/research-2026-09-15/crisis-2023/25-voa-nov16-tradeoff.html",
+        "bytes": 85659,
+        "sha256": "21d4d681bce7dc6a6b090ecdc228cbd555c07d76d5a3df5ff45be6e39e82a981"
+      }
+    }
+  ],
+  "acquisition_audit": [
+    {
+      "files": [
+        "03-state-feb3-call.html",
+        "07-state-feb18-munich.html",
+        "15-state-june19-press.html"
+      ],
+      "status": "Excluded wrong captures",
+      "reason": "Each returned the same Technical Difficulties / Exception: forbidden page, despite HTTP 200. Correct official texts were recovered in separately preserved GlobalSecurity reprints.",
+      "sha256": "359e3b8b6b844d69fa29bd39c40f970af1586af0500dcda1f98a302721eafe1d"
+    },
+    {
+      "status": "Unavailable originals",
+      "reason": "Direct Defense.gov and AP retrievals failed; dated official or licensed reprints were identity-checked and read. Several MOD HTTPS requests failed certificate validation; public HTTP originals succeeded. RSIS preserved as browser-rendered capture rather than falsely treating blocked HTML as acquired."
+    }
+  ],
+  "source_dependence_note": "Government reprints, syndicated reporting and citations to the same official statement are not counted as new independent witnesses. Carnegie interviews recover US process but do not make anonymous US assessments independent evidence of Chinese deliberation.",
+  "publication_note": "Only original analysis and source metadata are in Git. Full texts and rendered pages remain outside the worktree."
+}

@@ -1,0 +1,94 @@
+{
+  "research_date": "2026-09-15",
+  "source_count": 3,
+  "sources": [
+    {
+      "id": "PBT01",
+      "title": "A Bargaining Theory of US–China Economic Rivalry: Differentiating the Trade and Technology Wars",
+      "author_as_published": "Cathy Xuauxuan Wu",
+      "citation": "The Chinese Journal of International Politics 17(4) (2024): 323–345",
+      "doi": "10.1093/cjip/poae017",
+      "url": "https://oup.silverchair-cdn.com/article-minimal/7718347",
+      "publisher_url": "https://academic.oup.com/cjip/article/17/4/323/7718347",
+      "publication_date": "2024-07-18",
+      "source_type": "Scholarly journal article; interpretive application of bargaining theory to published evidence",
+      "full_read": true,
+      "read_scope": "Complete publisher HTML body, acknowledgments, conflict statement and all 106 notes; no claim to inspect the paginated PDF. Repeated bounded reads repaired truncated tool output.",
+      "locators": [
+        "The Information Problem and the Outbreak of the Trade War; notes 41–56",
+        "Trade Truce with Old Tariffs in Place; notes 81–86",
+        "Alternative Explanations; notes 99–100"
+      ],
+      "artifact": {
+        "local_path": "/Users/jorsc/.codex/.chatgpt-projects/g-p-6a94dd290a988191911d85ae8fe94a6c/tmp/pdfs/research-2026-09-15/trade-scholarship/wu-2024.html",
+        "sha256": "05ec401e2816a049a12758b8b5ecb8d1cc6d5c6ec0b2d93217f9bae56af79ef8",
+        "bytes": 168065
+      },
+      "extracted_text_path": "/Users/jorsc/.codex/.chatgpt-projects/g-p-6a94dd290a988191911d85ae8fe94a6c/tmp/pdfs/research-2026-09-15/trade-scholarship/wu-2024.txt",
+      "limitations": [
+        "Davis and Wei book passages cited by this article were not acquired or read in this pass.",
+        "The Reuters draft-reporting chain overlaps TUS08 and is not independent corroboration.",
+        "The article does not supply authenticated spring drafts or private Chinese instructions.",
+        "Its policy narrative is not used as a current-to-2026 record."
+      ],
+      "failed_access": [
+        {
+          "url": "https://www.tuiir.tsinghua.edu.cn/poae017.pdf",
+          "result": "TLS hostname mismatch; no document obtained."
+        },
+        {
+          "url": "https://tuiir.tsinghua.edu.cn/poae017.pdf",
+          "result": "502 tunnel failure; no document obtained."
+        }
+      ],
+      "retrieved_on": "2026-09-15",
+      "read_on": "2026-09-15"
+    },
+    {
+      "id": "PBT02",
+      "title": "USTR Issues Federal Register Notice on Section 301 Proposed Tariff Modifications and Machinery Exclusion Process",
+      "publisher": "Office of the United States Trade Representative",
+      "url": "https://www.ustr.gov/about-us/policy-offices/press-office/press-releases/2024/may/ustr-issues-federal-register-notice-section-301-proposed-tariff-modifications-and-machinery",
+      "publication_date": "2024-05-22",
+      "source_type": "Official press release about tariff rulemaking",
+      "full_read": true,
+      "read_scope": "Complete release body and Background, excluding site navigation. Linked Federal Register notice and full review not read in this check.",
+      "locators": "Opening announcement; Background",
+      "artifact": {
+        "local_path": "/Users/jorsc/.codex/.chatgpt-projects/g-p-6a94dd290a988191911d85ae8fe94a6c/tmp/pdfs/research-2026-09-15/trade-scholarship/ustr-2024-05-22.html",
+        "sha256": "20622b29e152d4b5599c390a0b5f3d1350ce15423c37b86ce936ff2808c014b4",
+        "bytes": 41318
+      },
+      "extracted_text_path": "/Users/jorsc/.codex/.chatgpt-projects/g-p-6a94dd290a988191911d85ae8fe94a6c/tmp/pdfs/research-2026-09-15/trade-scholarship/ustr-2024-05-22.txt",
+      "limitations": [
+        "Announcement of the indicated procedural stage; no importer-level implementation or effects verified.",
+        "Official characterizations of Chinese conduct and economic effects remain attributed, not independently established by this reading."
+      ],
+      "retrieved_on": "2026-09-15",
+      "read_on": "2026-09-15"
+    },
+    {
+      "id": "PBT03",
+      "title": "USTR Finalizes Action on China Tariffs Following Statutory Four-Year Review",
+      "publisher": "Office of the United States Trade Representative",
+      "url": "https://ustr.gov/about-us/policy-offices/press-office/press-releases/2024/september/ustr-finalizes-action-china-tariffs-following-statutory-four-year-review",
+      "publication_date": "2024-09-13",
+      "source_type": "Official press release about tariff rulemaking",
+      "full_read": true,
+      "read_scope": "Complete release body and Background, excluding site navigation. Linked Federal Register notice and full review not read in this check.",
+      "locators": "Opening announcement; Background",
+      "artifact": {
+        "local_path": "/Users/jorsc/.codex/.chatgpt-projects/g-p-6a94dd290a988191911d85ae8fe94a6c/tmp/pdfs/research-2026-09-15/trade-scholarship/ustr-2024-09-13.html",
+        "sha256": "2067507de30173f4abd598074a601f05929abe54110d98be00987046e6a62b6f",
+        "bytes": 42308
+      },
+      "extracted_text_path": "/Users/jorsc/.codex/.chatgpt-projects/g-p-6a94dd290a988191911d85ae8fe94a6c/tmp/pdfs/research-2026-09-15/trade-scholarship/ustr-2024-09-13.txt",
+      "limitations": [
+        "Announcement of the indicated procedural stage; no importer-level implementation or effects verified.",
+        "Official characterizations of Chinese conduct and economic effects remain attributed, not independently established by this reading."
+      ],
+      "retrieved_on": "2026-09-15",
+      "read_on": "2026-09-15"
+    }
+  ]
+}

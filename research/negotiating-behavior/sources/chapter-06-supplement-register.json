@@ -1,0 +1,212 @@
+{
+  "title": "Chapter 6 and selective chronology — supplement and verification record",
+  "research_date": "2026-09-15",
+  "chapter": "manuscript/chapters/06-after-the-signature.md",
+  "status": "First manuscript draft for independent review",
+  "coverage_policy": "This supplement records two newly captured official pages for Chapter 6, two bounded WTO accession-date checks for the chronology, and the chapter drafter's selected rechecks of existing sources. It does not replace the underlying registers, repeat their sources as new acquisitions, or claim a fresh full reading of every cited work. Substantive Board chronology ends July 23, 2026; the September 15 USTR index check is a bounded page-content check.",
+  "underlying_registers": [
+    "sources/financial-access-register.json",
+    "sources/agricultural-approvals-register.json",
+    "sources/phase-one-implementation-register.json"
+  ],
+  "sources": [
+    {
+      "id": "CH6-01",
+      "title": "鄢东副部长出席国新办发布会介绍2026年上半年商务工作及运行情况",
+      "institution": "State Council Information Office briefing, hosted by MOFCOM",
+      "event_date": "2026-07-23",
+      "url": "https://interview.mofcom.gov.cn/detail/202608/ff8080819fc5ced7019fca449cd9001f.html",
+      "retrieval_url": "http://interview.mofcom.gov.cn/detail/202608/ff8080819fc5ced7019fca449cd9001f.html",
+      "source_type": "Official transcript of public press briefing",
+      "language": "zh",
+      "read_scope": "Complete South China Morning Post question at 16:05:21, Yan Dong referral at 16:06:54 and Meng Huating answer ending 16:07:07; document heading and participant list. Other transcript passages were exposed by browser extraction but were not systematically read or used. No whole-briefing reading claimed. Relevant Q&A compared with preserved original HTML.",
+      "locators": [
+        "Question beginning 南华早报记者：今年5月",
+        "Meng answer paragraphs beginning 目前，中美双方经贸团队 and 我们相信"
+      ],
+      "supports": [
+        "Structure, functions and operating mode of the Board of Trade remain under discussion on July 23",
+        "Exploration of reciprocal tariff-reduction framework at $30 billion on each side, with product arrangements to be agreed and implemented",
+        "Official Chinese report of consultations with domestic firms, associations, local governments and American-invested firms and associations"
+      ],
+      "limitations": [
+        "Public authorized account, not negotiating minutes or a joint instrument",
+        "No submissions, draft histories or causal evidence of any stakeholder influence recovered",
+        "August path in URL is not the event date; retrieval through HTTP followed an HTTPS transport failure",
+        "No implication that the mechanism remained in exactly this stage on September 15"
+      ],
+      "asset": {
+        "local_path_external_to_git": "/Users/jorsc/.codex/.chatgpt-projects/g-p-6a94dd290a988191911d85ae8fe94a6c/tmp/pdfs/research-2026-09-15/chapter-06/mofcom-2026-07-23.html",
+        "bytes": 48625,
+        "sha256": "0ba985e50ab3048584e26d10084a05e922118fb342671fd47c686bb135422af7",
+        "retrieved": "2026-09-15"
+      }
+    },
+    {
+      "id": "CH6-02",
+      "title": "Section 301 – China’s Implementation of Commitments Under the Phase One Agreement",
+      "institution": "Office of the United States Trade Representative",
+      "document_date": "Undated live case index; captured September 15, 2026",
+      "url": "https://ustr.gov/trade-topics/enforcement/section-301-investigations/section-301-chinas-implementation-commitments-under-phase-one-agreement",
+      "source_type": "Official case-document index",
+      "language": "en",
+      "read_scope": "Complete substantive case index, including the two displayed case-specific links and their dates; navigation excluded. The index is not an additional reading of the full linked hearing.",
+      "locators": [
+        "Public Hearing Transcript Regarding Section 301 Investigation ... December 16, 2025",
+        "Initiation of Section 301 Investigation, Hearing, and Request for Public Comments ... October 28, 2025"
+      ],
+      "supports": [
+        "Captured index displays initiation and hearing records, with no subsequent determination supplied on this page"
+      ],
+      "limitations": [
+        "Page-content observation only; cannot prove absence of later action elsewhere, unpublished consultations or other official records",
+        "Underlying notice and hearing are already POI11 and POI12, not new sources here"
+      ],
+      "asset": {
+        "local_path_external_to_git": "/Users/jorsc/.codex/.chatgpt-projects/g-p-6a94dd290a988191911d85ae8fe94a6c/tmp/pdfs/research-2026-09-15/chapter-06/ustr-phase-one-index-2026-09-15.html",
+        "bytes": 32737,
+        "sha256": "ed88c7148e230957ecbc91e1ffe732b40ab4da54811b1e675b63c91aeddec64d",
+        "retrieved": "2026-09-15"
+      }
+    },
+    {
+      "id": "CHRON-01",
+      "title": "Accessions: China",
+      "institution": "World Trade Organization",
+      "document_date": "Undated accession timeline; checked 2026-09-15",
+      "url": "https://www.wto.org/english/thewto_e/acc_e/a1_chine_e.htm",
+      "source_type": "Official accession timeline",
+      "language": "en",
+      "read_scope": "Selected page sections: opening membership sentence and final accession-document timeline entries for the Ministerial decision, protocol, Working Party report and goods/services schedules. The complete lengthy document inventory and linked documents were not read. Relevant final timeline compared with preserved HTML.",
+      "locators": [
+        "Opening: China became the 143rd WTO Member on 11 December 2001",
+        "Ministerial Conference/General Council Decision on the Accession: 10/11/2001, WT/L/432",
+        "Services Schedule: 01/10/2001, WT/ACC/CHN/49/Add.2"
+      ],
+      "supports": [
+        "Independent official identification of December 11 membership, distinguished from November 10 approval and October 1 schedule circulation"
+      ],
+      "limitations": [
+        "Bounded chronology check; no new full reading of the accession Protocol, schedules or negotiations implied."
+      ],
+      "asset": {
+        "local_path_external_to_git": "/Users/jorsc/.codex/.chatgpt-projects/g-p-6a94dd290a988191911d85ae8fe94a6c/tmp/pdfs/research-2026-09-15/chapter-06/wto-china-accession.html",
+        "bytes": 188140,
+        "sha256": "cc65d4706bb3edc2fb7b4fad91a3982def1f9d3478164f93cb685d5989f2c2cd",
+        "retrieved": "2026-09-15"
+      }
+    },
+    {
+      "id": "CHRON-02",
+      "title": "WTO Ministerial Conference approves China’s accession — Press/252",
+      "institution": "World Trade Organization",
+      "document_date": "2001-11-10",
+      "url": "https://www.wto.org/english/news_e/pres01_e/pr252_e.htm",
+      "source_type": "Official press release",
+      "language": "en",
+      "read_scope": "Complete substantive release, including date, approval and ratification paragraph, description of adopted documents, statements by Moore and Shi, and closing Working Party/background paragraphs; navigation excluded. Preserved HTML read.",
+      "locators": [
+        "November 10, 2001 publication date",
+        "Opening approval paragraph",
+        "Following paragraph identifying adopted documents"
+      ],
+      "supports": [
+        "Contemporaneous official account of November 10 approval by consensus and the separate future membership condition; not itself proof of completed membership"
+      ],
+      "limitations": [
+        "Bounded chronology check; no new full reading of the accession Protocol, schedules or negotiations implied."
+      ],
+      "asset": {
+        "local_path_external_to_git": "/Users/jorsc/.codex/.chatgpt-projects/g-p-6a94dd290a988191911d85ae8fe94a6c/tmp/pdfs/research-2026-09-15/chapter-06/wto-2001-11-10.html",
+        "bytes": 11682,
+        "sha256": "84c4e04031ef1c25099ce4242e5b45ed3a7dbf940acbd63518b5c80fb2399f8e",
+        "retrieved": "2026-09-15"
+      }
+    }
+  ],
+  "existing_source_rechecks": [
+    {
+      "ids": [
+        "FIN-19"
+      ],
+      "scope": "2020 JPMorgan annual disclosure, printed pp. 2–3 / PDF pp. 5–6, visually read: shareholder table, establishment-decision receipt, company registration and operating permit dates. PDF pp. 2–3 also inspected and identified as preliminary pages rather than printed pp. 2–3."
+    },
+    {
+      "ids": [
+        "FIN-26"
+      ],
+      "scope": "2021 disclosure PDF pp. 4–7 / printed pp. 1–4 read in extracted text: definitions, ownership, history, registration, capital and staff context. PDF p. 23 / financial statement p. 6 read as text and visually checked, including comparative 2020 income rows."
+    },
+    {
+      "ids": [
+        "FIN-28"
+      ],
+      "scope": "2022 income statement, PDF p. 23 / financial statement p. 6, visually read, including brokerage and investment-banking net fees and units. No new full annual-report reading claimed."
+    },
+    {
+      "ids": [
+        "AG01"
+      ],
+      "scope": "English agreement Annex 16, PDF pp. 41–44 / printed pp. 3-19–3-22, sequential text read. Average 24 months, five-day completeness screening, relevant information, committee meetings, five-year authorization and 20-day certificate obligation checked."
+    },
+    {
+      "ids": [
+        "AG03",
+        "AG04",
+        "AG05"
+      ],
+      "scope": "MARA 2018 list PDF p. 1 row 5; 2021 list PDF p. 2 row 18; 2022 second list PDF pp. 1–2, especially row 6 on p. 1. Original tables visually inspected: event, import-for-processing scope, certificate numbers and validity dates."
+    },
+    {
+      "ids": [
+        "AG16"
+      ],
+      "scope": "EU Decision 2022/529, recitals 1–16 and Articles 1–3, OJ pp. 39–41 / PDF pp. 1–3, text read; article 4 opening incidentally displayed. Remaining operative clauses and annex not re-read for this chapter."
+    },
+    {
+      "ids": [
+        "POI11"
+      ],
+      "scope": "Federal Register p. 48735 / PDF p. 3 fully read as plain extracted text after an overlarge pp. 1–4 layout extraction truncated. Benchmark totals, Section 303 consultations, initiation versus determination and available actions checked; no fresh full-notice reading claimed."
+    },
+    {
+      "ids": [
+        "POI09"
+      ],
+      "scope": "Selected original HTML passage from conclusion before purchase assessment through beginning of manufacturing section: $502.4 billion target, $290.8 billion purchases, 58 percent and baseline interpretation directly checked. Underlying full text and methodological notes remain documented by the implementation case register; not an independent data replication."
+    },
+    {
+      "ids": [
+        "POI15"
+      ],
+      "scope": "Agricultural purchase bullet and adjacent trade bullets rechecked in captured White House HTML: 2026 prorated, 2027 and 2028, additional to October 2025 soybean commitments."
+    },
+    {
+      "ids": [
+        "POI18"
+      ],
+      "scope": "Complete Reuters question and He Yadong answer in captured July 2 MOFCOM HTML read. Question characterizes total as including soybeans and asks about timing/tariffs; it does not directly ask whether soybeans are included. Answer does not affirm that characterization."
+    }
+  ],
+  "search_scope_and_unused_leads": {
+    "purpose": "Bounded official endpoint check, not a comprehensive new research sweep",
+    "queries": [
+      "site.ustr.gov 2026 China Board of Trade September August",
+      "site.mofcom.gov.cn 2026 贸易理事会 8月",
+      "site.ustr.gov 2026 Phase One September investigation",
+      "site.ustr.gov 2026 Phase One investigation determination",
+      "site.mofcom.gov.cn 2026 贸易理事会 9月",
+      "site.mofcom.gov.cn 2026 300亿美元 7月"
+    ],
+    "read_or_acquired_results": "July 23 official Q&A and live USTR case index above",
+    "unused_leads": "Searches also surfaced August press summaries and an August CRS update. These were not read as full documents or used as evidence of a later settled mechanism. Search-result dates and snippets alone did not advance the substantive case endpoint."
+  },
+  "known_unresolved_evidence": [
+    "Reconciliation of the PIIE $502.4 billion and USTR above-$535 billion purchase benchmarks",
+    "Complete biotech application files, NBC reasoning and an independently reconstructed approval-time population",
+    "Private mandate or draft changes establishing causal influence of stakeholder comments",
+    "Later agreed Board rules, product schedules and verified delivery beyond the July 23 substantive record",
+    "No independent determination that no subsequent Phase One investigation record exists elsewhere"
+  ],
+  "chronology": "manuscript/appendices/02-chronology.md"
+}

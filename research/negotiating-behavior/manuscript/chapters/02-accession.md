@@ -1,4 +1,4 @@
-# Chapter 2. The bargain that came in pieces
+# 2. The bargain that came in pieces
 
 *First manuscript draft, 15 September 2026. Includes the US–EU comparison and selected final-schedule checks. Missing bilateral annexes and internal instructions still limit the reconstruction.*
 

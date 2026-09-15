@@ -1,6 +1,6 @@
 # Full-text reading ledger
 
-**15 September 2026.** The program has completed **sixteen scholarly readings of the versions specified below**, with additional bounded readings and selected primary-source checks. These are sixteen works, not sixteen independent evidentiary samples. Policy reports and industry chapters are listed separately. The 2023 Gao chapter is counted once as a version of the previously screened 2022 article. Shared authorship, reused interviews and repeated documentary sources are recorded in the memos.
+**15 September 2026.** The program has completed **eighteen scholarly readings of the versions specified below**, with additional bounded readings and selected primary-source checks. These are eighteen works, not eighteen independent evidentiary samples. Policy reports and industry chapters are listed separately. The 2023 Gao chapter is counted once as a version of the previously screened 2022 article. Shared authorship, reused interviews and repeated documentary sources are recorded in the memos.
 
 Start with the [working manuscript](../../manuscript/README.md), [EU accession comparison](../../cases/eu-wto-2000-comparison.md), [climate comparison](../../cases/climate-2009-2015.md) and [Russian and scope reassessment](../../cases/russia-and-scope-reassessment.md), following the [implementation comparison](../../cases/implementation-and-major-power-reassessment.md), [first substantive assessment](../first-full-text-synthesis.md) and [2018–2026 trade-case synthesis](../../cases/us-trade-2018-2026-synthesis.md). This ledger documents their reading base and limits; it is not a claim that the entire literature or the history through 2026 has been covered.
 
@@ -24,6 +24,8 @@ Start with the [working manuscript](../../manuscript/README.md), [EU accession c
 | Conrad, “China in Copenhagen” (2012) | Complete published article, *China Quarterly* 210:435–455, all 21 pages and 55 notes; p. 453 visually checked | Interview-based account of institutional displacement; missing interview records and mandates limit causal inference. Accord paragraph 5 independently restores consultation language omitted in the article’s quotation. |
 | Hao Zhang, “China and Climate Multilateralism” (2022) | Complete published review, *Politics and Governance* 10(2):50–60, all 11 pages including references; table and figure visually inspected | Maps competing explanations; no independent process investigation. Copenhagen speaker attribution corrected against contemporaneous sources. |
 | Gries and Peng, “Culture Clash? Apologies East and West” (2002) | Complete author-uploaded article text, *Journal of Contemporary China* 11(30):173–178, all six pages and fifteen notes; PDF not obtained or visually checked | Cultural interpretation of EP-3 public commentary using earlier psychology studies; no new EP-3 decision-maker experiment or private drafting record. |
+| Wu, “A Bargaining Theory of US–China Economic Rivalry” (2024) | Complete publisher HTML, substantive text and all 106 notes; *Chinese Journal of International Politics* 17(4):323–345 | Learning and commitment mechanisms; source-chain audit separates theoretical interpretation from the unpublished spring 2019 draft and corrects the May 2018 joint-statement claim. [Critical reading](phase-one-bargaining-theory.md). |
+| Angela Huyue Zhang, “The U.S.–China Trade Negotiation: A Contract Theory Perspective” (2020) | Complete publisher PDF, 809–866, all 58 pages and 376 notes; five key pages visually inspected | Observable laws, administrative practice and credible enforcement costs; judge interview concerns legal design, not Xi's mandate. Prospective 2019 remedy discussion is distinguished from the signed agreement. [Critical reading](phase-one-contract-theory.md). |
 
 ## Completed policy and participant readings
 
@@ -61,6 +63,9 @@ These are useful additional readings, not additions to the scholarly-article cou
 - **Faure–Zartman (2025):** the lawful preview includes the full introduction at 1–7 and only part of the following chapter. It does not provide the requested Celico chapter or the complete volume.
 - **Taylor–Garlick (2025):** the scholarly article could not be retrieved. The authors’ separate April 2025 *Australian Outlook* brief was read completely and treated as an authored summary, not an independent study.
 - **Chubb (2026), “Authoritarian Public Opinion, Vividness, and International Crisis Signaling”:** abstract and metadata only; preserved as a forward-citation lead, not a completed reading or a finding about 2026 negotiations.
+
+- **Chivvis and Hsia (2026), *Implementing the Biden Administration’s China Strategy*:** selected methodology, printed pp. 7–8; 2023 narrative, pp. 100–115; and notes 592–718 on pp. 173–180. Not a full-report reading. Its 33 retrospective American official interviews do not disclose Chinese internal decisions. See [C23-21](../../sources/us-china-crisis-2023-register.json) and the [Kissinger source-chain audit](../../reporting/kissinger-2023-intermediary-audit.md).
+
 
 ## Critical memos and evidence registers
 

@@ -1,0 +1,2715 @@
+{
+  "title": "Current assessment of all 59 Solomon and Freeman baseline propositions",
+  "assessment_date": "2026-09-15",
+  "status": "First complete assessment for author review; not finished-book approval",
+  "coverage": "Consolidates all seven substantive chapters and their stable case dossiers. Each dossier controls its event cutoff and reading scope; the assessment date does not imply complete 2026 coverage.",
+  "baseline_files": [
+    {
+      "path": "book/context-claims.json",
+      "sha256": "af15a3b8a9dce1abb00163b3749a9865e4d1acaa7f37bfeeffe46bf17440750a"
+    },
+    {
+      "path": "book/process-claims.json",
+      "sha256": "28240ce1e0b7f12fe80eff763a54ff6347f3699ac2563f2b405c7ee9c3587853"
+    }
+  ],
+  "baseline_scope_sources": [
+    "book/context-lessons-freeman.md",
+    "book/process.md",
+    "manuscript/chapters/01-solomons-baseline.md"
+  ],
+  "status_definitions": {
+    "retain within tested scope": "The specified component is directly supported within the examined episodes. This does not retain every causal, comparative or cultural element of the full baseline proposition.",
+    "revise or narrow": "The proposition requires an explicit restriction or reformulation for this corpus. A scope correction is not necessarily evidence of temporal change.",
+    "correct baseline": "A proposition-level baseline statement is factually wrong on the acquired evidence. No entire behavioral proposition receives this status here; separate factual corrections are linked below.",
+    "unresolved": "Relevant observations or candidate mechanisms exist, but the available evidence does not decide a consequential part of the proposition.",
+    "untested": "The acquired corpus contains no adequate case-level test of the specified mechanism. Absence of a test is not evidence against it."
+  },
+  "interpretation_rules": [
+    "The baseline claim and its original extraction fields are preserved verbatim. They are the research inventory’s paraphrases, not presented as verbatim sentences from the book; short direct quotations are identified separately.",
+    "Original baseline caveats may describe access at the time of extraction. Current evidence entries and linked dossiers control later acquisitions; preserving the original record does not erase those subsequent reads.",
+    "A verdict applies to the tested component. The complete proposition remains visible so that retaining a practice does not silently retain an unproved mechanism or general effect.",
+    "Supporting evidence can establish only a component or supply an attributed hypothesis. Contrary or limiting evidence can be a failed expectation, competing mechanism, counterpart practice or a limit of access; it is not automatically a falsification.",
+    "Source IDs within one entry are not independent votes. Reprinted official texts, related editions, shared interview chains and cases reused across propositions are not counted as independent corroboration.",
+    "Contemporary accepted instruments establish terms more directly than private motive. Readouts establish positions and reported encounters; retrospective participant and scholarly accounts retain their documented source-chain limits.",
+    "Formal acceptance, legal obligation, implementation, and later disputes are distinct observations. The full S-P25 asymmetry is not inferred from continuation alone.",
+    "No matched representative sample supports national uniqueness, general frequency, comparative predictor reliability or a clean historical effect. A new instrument type is not itself proof of a changed national preference.",
+    "This is a consolidation of registered source reading, not a fresh full reading of every referenced source or an acquisition of underlying private records.",
+    "An original qualification is not a new behavioral revision. Failure to establish a frequency, comparative ranking or causal mechanism receives an unresolved verdict; caution in practical use is stated separately from empirical falsification."
+  ],
+  "counts": {
+    "retain within tested scope": 16,
+    "revise or narrow": 0,
+    "correct baseline": 0,
+    "unresolved": 38,
+    "untested": 5
+  },
+  "factual_corrections": {
+    "dossier": "book/verified-corrections.md",
+    "register": "sources/solomon-corrections-register.json",
+    "scope": "Treaty identification, normalization date and Geng Biao’s office are corrected separately. These errors do not by themselves refute the associated behavioral mechanisms; zero whole-proposition correct-baseline verdicts must not be read as zero factual errors."
+  },
+  "assessments": [
+    {
+      "id": "S-C01",
+      "baseline": {
+        "id": "S-C01",
+        "author": "Solomon",
+        "pages": "16–24",
+        "claim": "Chinese negotiating style varies with the political purpose of the relationship: officials can use markedly different approaches in confrontation and in constructing cooperation.",
+        "evidence_type": "Cross-period comparison of American memoirs, interviews, and the official negotiating record; explicit scope qualification",
+        "evidence_details": "Contrasts the 1950s–1960s experience described by Young, Joy, Dean, Johnson, and Beam with the normalization experience, sometimes involving the same Chinese officials. At p24 n7 Solomon leaves applicability to a future confrontation unanswered.",
+        "test": "Compare the same officials and comparable issues across cooperative and confrontational periods; determine whether changes follow strategic purpose, personnel, or institutions. A stable approach independent of relationship purpose would weaken the proposition.",
+        "caveat": "The principal study covers a selected setting in which Beijing wanted a positive U.S. relationship. Different behavior after 2018 need not mean the original findings were wrong within that scope. The cited underlying records have not been independently acquired in this workstream."
+      },
+      "baseline_scope": {
+        "author_period_and_domain": "Principal empirical period 1967–1984, principally American–Chinese high political negotiation while Beijing sought a constructive relationship; application to future confrontation was explicitly left open. The claim-specific qualification below also applies.",
+        "claim_specific_qualification": "The principal study covers a selected setting in which Beijing wanted a positive U.S. relationship. Different behavior after 2018 need not mean the original findings were wrong within that scope. The cited underlying records have not been independently acquired in this workstream."
+      },
+      "verdict": "unresolved",
+      "tested_component": "Whether differences in negotiating conduct follow the political purpose of the relationship, rather than the issue, channel, personnel or institution.",
+      "supporting_evidence": [
+        {
+          "dossier": "cases/us-china-crisis-2023.md",
+          "source_ids": [
+            "C23-09",
+            "C23-10",
+            "C23-15",
+            "C23-17",
+            "C23-18"
+          ],
+          "observation": "Diplomatic contact reopened while defense access remained unavailable; later specified cooperation coexisted with political disagreement.",
+          "limit": "This establishes channel-specific variation, not a matched comparison isolating relationship purpose."
+        }
+      ],
+      "contrary_or_limiting_evidence": [
+        {
+          "dossier": "cases/russia-gas-bargaining.md",
+          "source_ids": [
+            "RUS-G14",
+            "RUS-G17",
+            "RUS-G19",
+            "RUS-G28"
+          ],
+          "observation": "Close political relations did not settle successive gas projects.",
+          "limit": "Relationship purpose does not determine individual commercial terms."
+        }
+      ],
+      "unresolved_remainder": "Keep Solomon’s original restriction to a constructive relationship as a boundary on interpretation. The later cases show variation but do not identify political purpose as its cause; the central comparative claim remains unresolved. Confrontation is not automatic refutation of the cooperation-era baseline."
+    },
+    {
+      "id": "S-C02",
+      "baseline": {
+        "id": "S-C02",
+        "author": "Solomon",
+        "pages": "18–22, 25, 31–34",
+        "claim": "Chinese domestic social and political traditions help produce a persistent preference for managing negotiation through personal relationships and reciprocal obligations.",
+        "evidence_type": "Cultural-historical causal interpretation supported by participant accounts and secondary social-science literature",
+        "evidence_details": "Links contemporary relationship cultivation to guanxi and earlier diplomatic practices, while also identifying Western and Soviet influences and continued adaptation.",
+        "test": "Compare Chinese institutions, generations, counterpart countries, and private versus state negotiations; test whether relationship dependence persists after controlling for information scarcity, weak formal enforcement, access to authority, and bargaining power.",
+        "caveat": "Observed use of relationships does not identify culture as its cause. The study assumed distinctive style would be legible to foreign observers; unfamiliarity and observer expectations can influence that assessment."
+      },
+      "baseline_scope": {
+        "author_period_and_domain": "Principal empirical period 1967–1984, principally American–Chinese high political negotiation while Beijing sought a constructive relationship; application to future confrontation was explicitly left open. The claim-specific qualification below also applies.",
+        "claim_specific_qualification": "Observed use of relationships does not identify culture as its cause. The study assumed distinctive style would be legible to foreign observers; unfamiliarity and observer expectations can influence that assessment."
+      },
+      "verdict": "unresolved",
+      "tested_component": "Persistence of relationship cultivation; cultural origin separated from its observable use.",
+      "supporting_evidence": [
+        {
+          "dossier": "reporting/kissinger-2023-intermediary-audit.md",
+          "source_ids": [
+            "K23-01",
+            "K23-02"
+          ],
+          "observation": "Xi and Wang publicly honored Kissinger and sought a constructive contribution.",
+          "limit": ""
+        }
+      ],
+      "contrary_or_limiting_evidence": [
+        {
+          "dossier": "reporting/kissinger-2023-intermediary-audit.md",
+          "source_ids": [
+            "K23-04",
+            "K23-10"
+          ],
+          "observation": "No U.S. mission mandate was acknowledged; consultation existed without a specified policy effect.",
+          "limit": "Neither record identifies cultural causation."
+        }
+      ],
+      "unresolved_remainder": "Need comparative decisions linking reciprocal obligations to changed conduct, controlling for policy affinity, reputation, information and access. Persistence is not a test of its cultural explanation."
+    },
+    {
+      "id": "S-C03",
+      "baseline": {
+        "id": "S-C03",
+        "author": "Solomon",
+        "pages": "28–38",
+        "claim": "Chinese negotiators resist terms or public presentations that depict China as dependent, even when material conditions create a need for foreign cooperation.",
+        "evidence_type": "Named memcons and drafting episodes combined with a status/dependence interpretation",
+        "evidence_details": "Zhou–Kissinger, July 9–11, 1971, on reciprocity and the visit announcement; the liaison-office discussion; Kissinger–Huang Hua, September 19, 1972, and Solomon–Ji Chaozhu, October 25, 1974, on grain; Deng–Kissinger, October 20, 1975, and Mao–Kissinger, October 21, 1975, on strategic need.",
+        "test": "Track concrete wording disputes, who sought meetings, private admissions of need, and resulting concessions. Compare episodes where Beijing accepted publicly asymmetric dependence with those where it paid a cost to avoid it.",
+        "caveat": "The chapter itself records acknowledgment of mutual need and prior acceptance of a subordinate Soviet relationship. National humiliation and imperial status are proposed explanations, not directly observed motives in every episode."
+      },
+      "baseline_scope": {
+        "author_period_and_domain": "Principal empirical period 1967–1984, principally American–Chinese high political negotiation while Beijing sought a constructive relationship; application to future confrontation was explicitly left open. The claim-specific qualification below also applies.",
+        "claim_specific_qualification": "The chapter itself records acknowledgment of mutual need and prior acceptance of a subordinate Soviet relationship. National humiliation and imperial status are proposed explanations, not directly observed motives in every episode."
+      },
+      "verdict": "retain within tested scope",
+      "tested_component": "Resistance to unequal presentation alongside acceptance of qualified material concessions.",
+      "supporting_evidence": [
+        {
+          "dossier": "cases/us-trade-2018-2020-chinese-reconstruction.md",
+          "source_ids": [
+            "CN-TRADE-LIU201905",
+            "CN-TRADE-SCIO20191213"
+          ],
+          "observation": "Liu defended dignity and balanced terms; China later defended a partial agreement with partial tariff relief.",
+          "limit": ""
+        }
+      ],
+      "contrary_or_limiting_evidence": [
+        {
+          "dossier": "sources/phase-one-agreement-audit.md",
+          "source_ids": [
+            "POA-EN",
+            "POA-CN"
+          ],
+          "observation": "The accepted text imposed different new burdens, including Chinese IP changes.",
+          "limit": "Resistance to dependency language did not require identical obligations."
+        }
+      ],
+      "unresolved_remainder": "Retained as a public positioning practice. National humiliation as motive and the bargaining price of equal presentation require instructions and draft changes."
+    },
+    {
+      "id": "S-C04",
+      "baseline": {
+        "id": "S-C04",
+        "author": "Solomon",
+        "pages": "31–44",
+        "claim": "Cultivating a foreign official's investment in access and reputation can create leverage when Chinese counterparts subsequently cast doubt on that relationship.",
+        "evidence_type": "Participant accounts and named memcons; inferred political and psychological mechanism",
+        "evidence_details": "Vance's August 1977 visit contrasted with Huang Hua–Brzezinski, May 20–21, 1978, and Deng–Brzezinski, May 21, 1978; references to pressure on Kissinger in 1974–1975 and Bush in 1980/1982.",
+        "test": "Establish the intermediary's prior policy preferences, domestic stake in access, Chinese threat or withdrawal, and subsequent policy changes. Compare officials who did not value the relationship and cases where concessions followed independent material incentives.",
+        "caveat": "Personal warmth and repeated demands for commitment are observable; their independent effect on final concessions is not established by the quoted exchanges alone."
+      },
+      "baseline_scope": {
+        "author_period_and_domain": "Principal empirical period 1967–1984, principally American–Chinese high political negotiation while Beijing sought a constructive relationship; application to future confrontation was explicitly left open. The claim-specific qualification below also applies.",
+        "claim_specific_qualification": "Personal warmth and repeated demands for commitment are observable; their independent effect on final concessions is not established by the quoted exchanges alone."
+      },
+      "verdict": "unresolved",
+      "tested_component": "Whether cultivation becomes effective pressure through threatened loss of personal access.",
+      "supporting_evidence": [
+        {
+          "dossier": "reporting/kissinger-2023-intermediary-audit.md",
+          "source_ids": [
+            "K23-01",
+            "K23-02"
+          ],
+          "observation": "Public cultivation and an advocacy request are directly documented.",
+          "limit": "This supplies a possible channel, not the hypothesized threat."
+        }
+      ],
+      "contrary_or_limiting_evidence": [
+        {
+          "dossier": "reporting/kissinger-2023-intermediary-audit.md",
+          "source_ids": [
+            "K23-06",
+            "K23-10"
+          ],
+          "observation": "Expected debrief and acknowledged advice do not disclose a threat, responsive concession or modified instruction.",
+          "limit": ""
+        }
+      ],
+      "unresolved_remainder": "Recover the interlocutor’s prior preferences, stake in access, Chinese threat and resulting action. The mechanism has not been demonstrated in the later audit."
+    },
+    {
+      "id": "S-C05",
+      "baseline": {
+        "id": "S-C05",
+        "author": "Solomon",
+        "pages": "32–34",
+        "claim": "Trusted intermediaries facilitate politically sensitive openings by conveying intentions, supplying information about leaders, and certifying that contact will not produce embarrassment or confrontation.",
+        "evidence_type": "Named diplomatic exchanges and participant interpretation",
+        "evidence_details": "Pakistan and Romania during the U.S.–PRC opening; Nixon–Yahya Khan, October 25, 1970; Kissinger–Hilaly, February 26, 1970; Zhou–Kissinger, July 9, 1971.",
+        "test": "Recover original messages and instructions on both sides; identify information or credibility that an intermediary added beyond merely transporting messages, and compare unsuccessful channels.",
+        "caveat": "The mechanism may be universal in secret diplomacy rather than distinctively Chinese. Channels also served American secrecy and political requirements."
+      },
+      "baseline_scope": {
+        "author_period_and_domain": "Principal empirical period 1967–1984, principally American–Chinese high political negotiation while Beijing sought a constructive relationship; application to future confrontation was explicitly left open. The claim-specific qualification below also applies.",
+        "claim_specific_qualification": "The mechanism may be universal in secret diplomacy rather than distinctively Chinese. Channels also served American secrecy and political requirements."
+      },
+      "verdict": "unresolved",
+      "tested_component": "Added information or credibility from a trusted intermediary, distinct from a messenger’s presence.",
+      "supporting_evidence": [
+        {
+          "dossier": "cases/climate-2009-2015.md",
+          "source_ids": [
+            "CLI06"
+          ],
+          "observation": "Stern describes confidential specialist exchanges and building trust with Xie.",
+          "limit": "Retrospective participant account, not a complete paired message chain."
+        }
+      ],
+      "contrary_or_limiting_evidence": [
+        {
+          "dossier": "reporting/kissinger-2023-intermediary-audit.md",
+          "source_ids": [
+            "K23-04",
+            "K23-06",
+            "K23-10"
+          ],
+          "observation": "Private status, possible debrief and general advice do not establish a carried operational message or its effect.",
+          "limit": ""
+        }
+      ],
+      "unresolved_remainder": "Formal negotiator rapport and a retired intermediary are different channels. No later source packet here demonstrates the complete assurance-to-instruction mechanism or national uniqueness."
+    },
+    {
+      "id": "S-C06",
+      "baseline": {
+        "id": "S-C06",
+        "author": "Solomon",
+        "pages": "39–42, 167, 174–175",
+        "claim": "Chinese officials exploit existing political or bureaucratic rivalries by favoring counterparts whose preferences better match Chinese objectives and making others fear a loss of influence.",
+        "evidence_type": "Comparative episode interpretation and practical recommendation",
+        "evidence_details": "Vance/Brzezinski, Kissinger/Schlesinger, and Haig/Allen comparisons. Solomon explicitly says Beijing did not create the rivalries in these examples.",
+        "test": "Reconstruct the rivals' policy preferences before cultivation, differential Chinese access or messages, and any subsequent change in internal authority or instructions; test cases where a coordinated government neutralized the maneuver.",
+        "caveat": "Selecting a receptive channel is not the same as changing a government's preferences. American rivalries are part of the explanation and cannot be coded solely as Chinese tactical success."
+      },
+      "baseline_scope": {
+        "author_period_and_domain": "Principal empirical period 1967–1984, principally American–Chinese high political negotiation while Beijing sought a constructive relationship; application to future confrontation was explicitly left open. The claim-specific qualification below also applies.",
+        "claim_specific_qualification": "Selecting a receptive channel is not the same as changing a government's preferences. American rivalries are part of the explanation and cannot be coded solely as Chinese tactical success."
+      },
+      "verdict": "unresolved",
+      "tested_component": "Chinese selection of congenial counterparts versus exploitation of bureaucratic rivalry.",
+      "supporting_evidence": [
+        {
+          "dossier": "reporting/kissinger-2023-intermediary-audit.md",
+          "source_ids": [
+            "K23-01",
+            "K23-02",
+            "K23-03"
+          ],
+          "observation": "Senior officials welcomed a sympathetic former official; Wang contrasted current policy with Nixon/Kissinger diplomacy.",
+          "limit": ""
+        }
+      ],
+      "contrary_or_limiting_evidence": [
+        {
+          "dossier": "cases/phase-one-implementation-2020-2026.md",
+          "source_ids": [
+            "POI12"
+          ],
+          "observation": "U.S. agricultural witnesses disagreed about new enforcement action.",
+          "limit": "No evidence Beijing created or successfully exploited that division."
+        }
+      ],
+      "unresolved_remainder": "Need contemporaneous selection strategy, rival actors’ reactions and an altered balance of policy. Rivalry and preferred access alone do not demonstrate leverage."
+    },
+    {
+      "id": "S-C07",
+      "baseline": {
+        "id": "S-C07",
+        "author": "Solomon",
+        "pages": "42–44",
+        "claim": "Uncertainty over meetings with senior Chinese leaders can be used to induce foreign counterparts to clarify intentions or accommodate Chinese conditions.",
+        "evidence_type": "Named memcon, observed scheduling, and explicitly speculative attribution",
+        "evidence_details": "Zhou–Kissinger, July 9, 1971, on conditions surrounding a Nixon–Mao meeting; unexpected timing of Nixon's and Ford's Mao meetings; the canceled second Nixon–Mao meeting.",
+        "test": "Compare scheduling records, medical constraints, instructions, and draft meeting conditions with concessions made before access was granted; establish intentional linkage rather than mere timing correlation.",
+        "caveat": "Solomon expressly speculates that the second Nixon meeting was canceled over Taiwan; illness was the Chinese explanation. That case cannot be counted as proven tactical manipulation."
+      },
+      "baseline_scope": {
+        "author_period_and_domain": "Principal empirical period 1967–1984, principally American–Chinese high political negotiation while Beijing sought a constructive relationship; application to future confrontation was explicitly left open. The claim-specific qualification below also applies.",
+        "claim_specific_qualification": "Solomon expressly speculates that the second Nixon meeting was canceled over Taiwan; illness was the Chinese explanation. That case cannot be counted as proven tactical manipulation."
+      },
+      "verdict": "unresolved",
+      "tested_component": "Conditional access as a bargaining object, distinguished from uncertainty over a senior appointment.",
+      "supporting_evidence": [
+        {
+          "dossier": "cases/us-china-crisis-2023.md",
+          "source_ids": [
+            "C23-06",
+            "C23-11",
+            "C23-12"
+          ],
+          "observation": "Chinese statements connected denied defense contact to political conditions.",
+          "limit": ""
+        }
+      ],
+      "contrary_or_limiting_evidence": [
+        {
+          "dossier": "cases/us-china-crisis-2023.md",
+          "source_ids": [
+            "C23-15",
+            "C23-16"
+          ],
+          "observation": "Blinken met Xi but announced no immediate military-channel agreement.",
+          "limit": "A granted senior meeting was not sufficient for the requested result."
+        }
+      ],
+      "unresolved_remainder": "This supports selective access as observable conduct, not the specific mechanism that uncertain scheduling induced accommodation. Need appointment communications and recipient responses."
+    },
+    {
+      "id": "S-C08",
+      "baseline": {
+        "id": "S-C08",
+        "author": "Solomon",
+        "pages": "44–48, 172",
+        "claim": "Detailed preparation and coordinated management of information, protocol, and timing give Chinese negotiators an operational advantage when counterparts are less prepared.",
+        "evidence_type": "Named memcons, memoir examples, interview generalization, and advice",
+        "evidence_details": "Zhou–Kissinger, July 9, 1971, on Nixon's electoral horizons; Kissinger's account of biographical preparation; Zhou's knowledge of Nixon's recent Kansas City speech; McGiffert–Chai Chengwen, January 8, 1980, on protocol.",
+        "test": "Identify actual preparation products and timing instructions, errors or gaps on each side, and decisions affected by that information. Compare multiple institutions and unsuccessful Chinese encounters.",
+        "caveat": "Preparation quality is not proof of a superior outcome. The p46 Geng Biao appointment narrative is present in the original scan but appears historically problematic and should not be reproduced without external verification."
+      },
+      "baseline_scope": {
+        "author_period_and_domain": "Principal empirical period 1967–1984, principally American–Chinese high political negotiation while Beijing sought a constructive relationship; application to future confrontation was explicitly left open. The claim-specific qualification below also applies.",
+        "claim_specific_qualification": "Preparation quality is not proof of a superior outcome. The p46 Geng Biao appointment narrative is present in the original scan but appears historically problematic and should not be reproduced without external verification."
+      },
+      "verdict": "unresolved",
+      "tested_component": "Preparation, information circulation, authority to challenge assessments and resulting advantage.",
+      "supporting_evidence": [
+        {
+          "dossier": "cases/wto-ds379-legal-process.md",
+          "source_ids": [
+            "DS379-03",
+            "DS379-04"
+          ],
+          "observation": "Detailed Chinese submissions and benchmark proposals demonstrate preparation and some accepted technical argument.",
+          "limit": ""
+        }
+      ],
+      "contrary_or_limiting_evidence": [
+        {
+          "dossier": "cases/ep3-2001.md",
+          "source_ids": [
+            "EP319"
+          ],
+          "observation": "Jost proposes a failure of institutional information handling during EP-3.",
+          "limit": "Selected retrospective scholarship; contemporaneous Chinese deliberations and parts of its source chain remain unverified."
+        }
+      ],
+      "unresolved_remainder": "No comparative estimate of operational advantage. Correcting the Geng Biao anecdote in the baseline does not by itself refute preparation as a mechanism; see the separate verified-corrections dossier."
+    },
+    {
+      "id": "S-C09",
+      "baseline": {
+        "id": "S-C09",
+        "author": "Solomon",
+        "pages": "48–50",
+        "claim": "Chinese negotiators shape their statements for superiors and political rivals as well as for the foreign counterpart, encouraging disciplined repetition and reluctance to reveal unapproved positions.",
+        "evidence_type": "Interview perceptions, named memcon, and institutional inference",
+        "evidence_details": "American officials' sense of unseen audiences; Zhou's proposal to tape a negotiating summary in July 1971; Zhou–Kissinger, July 10, 1971, on who may discuss sensitive domestic matters.",
+        "test": "Compare negotiating speech with written instructions, internal reports, evaluation or disciplinary incentives, and authorized discretion. Look for officials who improvised safely or explained foreign positions without reported penalty.",
+        "caveat": "Repeated language suggests instructions but does not expose their contents. Foreign observers' impressions of internal audiences require corroboration."
+      },
+      "baseline_scope": {
+        "author_period_and_domain": "Principal empirical period 1967–1984, principally American–Chinese high political negotiation while Beijing sought a constructive relationship; application to future confrontation was explicitly left open. The claim-specific qualification below also applies.",
+        "claim_specific_qualification": "Repeated language suggests instructions but does not expose their contents. Foreign observers' impressions of internal audiences require corroboration."
+      },
+      "verdict": "unresolved",
+      "tested_component": "Whether official repetition reflects a domestic audience and withheld authorization.",
+      "supporting_evidence": [
+        {
+          "dossier": "sources/wto-financial-participant-note.md",
+          "source_ids": [
+            "EWT-13"
+          ],
+          "observation": "Sector participant describes requests moving through regulator and central approval hierarchies.",
+          "limit": "Participant reconstruction with noted chronology/institution issues."
+        }
+      ],
+      "contrary_or_limiting_evidence": [
+        {
+          "dossier": "cases/eu-wto-2000-comparison.md",
+          "source_ids": [
+            "EWT-01"
+          ],
+          "observation": "Published chronology describes unsuccessful coordination and a collectively defended limit.",
+          "limit": "The same refusal can reflect an agreed substantive ceiling, not political rivalry."
+        }
+      ],
+      "unresolved_remainder": "Obtain instructions, reporting drafts and audience reactions. Repetition is observed; the domestic incentive causing it is not independently identified."
+    },
+    {
+      "id": "S-C10",
+      "baseline": {
+        "id": "S-C10",
+        "author": "Solomon",
+        "pages": "49–50, 168, 170",
+        "claim": "In high-level political negotiations, flexibility often requires senior authorization after the foreign position has been tested; senior intervention can release an apparent deadlock.",
+        "evidence_type": "Negotiating-record synthesis and institutional causal interpretation",
+        "evidence_details": "Zhou's consultation with Mao during early Kissinger exchanges; the chapter's general pattern of a senior figure intervening after subordinates display inflexibility.",
+        "test": "Locate draft instructions and approval sequences; determine whether concessions preceded or followed leadership decisions, whether delegates already possessed authority, and whether a deadlock was staged or reflected genuine disagreement.",
+        "caveat": "A leader's visible intervention does not prove that lack of prior authorization caused delay. Issue stakes, tactical theater, and substantive incompatibility remain alternatives."
+      },
+      "baseline_scope": {
+        "author_period_and_domain": "Principal empirical period 1967–1984, principally American–Chinese high political negotiation while Beijing sought a constructive relationship; application to future confrontation was explicitly left open. The claim-specific qualification below also applies.",
+        "claim_specific_qualification": "A leader's visible intervention does not prove that lack of prior authorization caused delay. Issue stakes, tactical theater, and substantive incompatibility remain alternatives."
+      },
+      "verdict": "retain within tested scope",
+      "tested_component": "Identifiable senior or regulatory decisions permitting or confirming particular negotiating terms, with frequency and the prior-testing sequence assessed separately.",
+      "supporting_evidence": [
+        {
+          "dossier": "book/normalization-1978-primary-check.md",
+          "source_ids": [
+            "NOR-166",
+            "NOR-167",
+            "NOR-170",
+            "NOR-172"
+          ],
+          "observation": "Deng and Washington made bounded decisions while specific disagreement remained.",
+          "limit": ""
+        },
+        {
+          "dossier": "sources/wto-financial-participant-note.md",
+          "source_ids": [
+            "EWT-13"
+          ],
+          "observation": "Participant identifies fresh State Council and regulator authorization for financial provisions.",
+          "limit": "Authority chain remains retrospective on the Chinese side."
+        }
+      ],
+      "contrary_or_limiting_evidence": [
+        {
+          "dossier": "cases/eu-wto-2000-comparison.md",
+          "source_ids": [
+            "EWT-01"
+          ],
+          "observation": "Zhu’s March 2000 meeting did not close the agreement; May confirmation concerned a limit as well as compensation.",
+          "limit": ""
+        }
+      ],
+      "unresolved_remainder": "Retain the observed authorization component in these episodes. The claim that flexibility often arrives only after fully testing the counterpart, prior lack of instructions as the cause of delay, leader persuasion and general success rates remain unresolved. Senior confirmation can concern a ceiling as well as a concession."
+    },
+    {
+      "id": "S-C11",
+      "baseline": {
+        "id": "S-C11",
+        "author": "Solomon",
+        "pages": "50–56",
+        "claim": "Leadership weakness, interministerial disagreement, and problems obtaining local compliance can immobilize negotiation while the public Chinese position continues to appear unified.",
+        "evidence_type": "Institutional argument with explicitly circumstantial historical illustrations",
+        "evidence_details": "Hua and early rehabilitated Deng; Qiao–Kissinger, October 3, 1973; Mao–Nixon, February 21, 1972; PRC message, June 14, 1974, on claims/assets; Lin Ping–Bruce, September 26, 1973, on liaison-office guards.",
+        "test": "Find internal disputes, instruction changes, and implementation authority before and after bargaining shifts. Compare strong-leadership stalemates and agreements concluded despite internal disagreement.",
+        "caveat": "Solomon marks the Lin Biao, radical-faction, and Zhou explanations as obscure, inferred, likely, or circumstantial. Unified public speech does not establish unity or conflict by itself."
+      },
+      "baseline_scope": {
+        "author_period_and_domain": "Principal empirical period 1967–1984, principally American–Chinese high political negotiation while Beijing sought a constructive relationship; application to future confrontation was explicitly left open. The claim-specific qualification below also applies.",
+        "claim_specific_qualification": "Solomon marks the Lin Biao, radical-faction, and Zhou explanations as obscure, inferred, likely, or circumstantial. Unified public speech does not establish unity or conflict by itself."
+      },
+      "verdict": "unresolved",
+      "tested_component": "Specific institutional blockage, rather than inferring division from a unified public stance or delay.",
+      "supporting_evidence": [
+        {
+          "dossier": "book/claims-assets-1973-primary-check.md",
+          "source_ids": [
+            "CLA06",
+            "CLA10"
+          ],
+          "observation": "Solomon’s contemporary analysis links the failed claims arrangement to internal pressures; the later U.S. review records withdrawal.",
+          "limit": "Partly redacted source chain; memorandum and book are not independent witnesses."
+        }
+      ],
+      "contrary_or_limiting_evidence": [
+        {
+          "dossier": "cases/agricultural-approvals-implementation.md",
+          "source_ids": [
+            "AG05",
+            "AG16"
+          ],
+          "observation": "Long canola approval histories exist in China and the EU.",
+          "limit": "Elapsed time does not identify Chinese leadership weakness or interministerial conflict."
+        }
+      ],
+      "unresolved_remainder": "No contemporary Chinese veto record supplies the decisive mechanism in these cases. Distinguish capacity, substantive review, applicant responses and agreed priorities from factional conflict."
+    },
+    {
+      "id": "S-C12",
+      "baseline": {
+        "id": "S-C12",
+        "author": "Solomon",
+        "pages": "44–45, 167–170",
+        "claim": "The shift from a small leadership-managed opening to restored bureaucracies and technical issues increased the number of relevant Chinese institutions and could slow decisionmaking.",
+        "evidence_type": "Historical-institutional comparison",
+        "evidence_details": "Contrasts Mao/Zhou's management of early normalization with the rebuilt Foreign Ministry and State Council ministries engaged in aviation, textiles, grain, and nuclear cooperation.",
+        "test": "Map participants and approval paths in matched political and technical negotiations across periods; measure what stages actually added delay and whether senior intervention overcame ministry resistance.",
+        "caveat": "Solomon already recognizes both centralization and bureaucratic friction. The apparent late-1976 normalization date on p44 is printed in the scan but conflicts with his own p23 chronology and is not used here."
+      },
+      "baseline_scope": {
+        "author_period_and_domain": "Principal empirical period 1967–1984, principally American–Chinese high political negotiation while Beijing sought a constructive relationship; application to future confrontation was explicitly left open. The claim-specific qualification below also applies.",
+        "claim_specific_qualification": "Solomon already recognizes both centralization and bureaucratic friction. The apparent late-1976 normalization date on p44 is printed in the scan but conflicts with his own p23 chronology and is not used here."
+      },
+      "verdict": "retain within tested scope",
+      "tested_component": "Multiplicity of institutions and sequential permissions, not an inferred decline in central control.",
+      "supporting_evidence": [
+        {
+          "dossier": "cases/financial-access-implementation.md",
+          "source_ids": [
+            "FIN-07",
+            "FIN-16",
+            "FIN-26"
+          ],
+          "observation": "Establishment, licensing, shareholder registration and branch permissions are distinct decisions.",
+          "limit": ""
+        },
+        {
+          "dossier": "cases/india-border-2020-2024.md",
+          "source_ids": [
+            "IND-MEA-17963"
+          ],
+          "observation": "WMCC has specified functions alongside the Special Representatives mechanism.",
+          "limit": ""
+        }
+      ],
+      "contrary_or_limiting_evidence": [
+        {
+          "dossier": "cases/financial-access-implementation.md",
+          "source_ids": [
+            "FIN-15",
+            "FIN-26"
+          ],
+          "observation": "The same institutional system implemented an accelerated ownership timetable and operating business.",
+          "limit": "Multiple stages do not establish that fragmentation caused delay."
+        }
+      ],
+      "unresolved_remainder": "The historical expansion mechanism was already in Solomon. Comparative timing and coordination effects remain unmeasured; the baseline’s normalization-date error is separately corrected."
+    },
+    {
+      "id": "S-C13",
+      "baseline": {
+        "id": "S-C13",
+        "author": "Solomon",
+        "pages": "4–5, 170, 173",
+        "claim": "Chinese political negotiators tend to prefer broad understandings and principles to exhaustive legal detail, but can set principles aside or rationalize concrete compromise when agreement serves their interests.",
+        "evidence_type": "Interview and negotiating-record synthesis, with explicit exceptions",
+        "evidence_details": "Summary discussion of principles at p5; comparison of public political understandings with American legal/technical preferences at p170; claims/assets example at p173.",
+        "test": "Track the specificity and legal form each side requests, revisions to principles, and actual constraints principles impose on concessions. Compare issue types, delegates, and legal institutions rather than coding any general declaration as supporting evidence.",
+        "caveat": "The study's high-political baseline is not a representative sample of commercial or technical negotiations. A principle that can always be overridden risks becoming an unfalsifiable explanation."
+      },
+      "baseline_scope": {
+        "author_period_and_domain": "Principal empirical period 1967–1984, principally American–Chinese high political negotiation while Beijing sought a constructive relationship; application to future confrontation was explicitly left open. The claim-specific qualification below also applies.",
+        "claim_specific_qualification": "The study's high-political baseline is not a representative sample of commercial or technical negotiations. A principle that can always be overridden risks becoming an unfalsifiable explanation."
+      },
+      "verdict": "unresolved",
+      "tested_component": "A relative preference for broad principles within political negotiation, together with the acknowledged ability to reach concrete compromise.",
+      "supporting_evidence": [
+        {
+          "dossier": "cases/us-china-crisis-2023.md",
+          "source_ids": [
+            "C23-14",
+            "C23-16"
+          ],
+          "observation": "Chinese public diplomacy continues to frame demands through broad relationship principles.",
+          "limit": "Use of principles does not identify preference over an available, more specific alternative or its effect on the bargain."
+        }
+      ],
+      "contrary_or_limiting_evidence": [
+        {
+          "dossier": "cases/wto-ds379-legal-process.md",
+          "source_ids": [
+            "DS379-03",
+            "DS379-07"
+          ],
+          "observation": "China advanced detailed legal arguments and accepted a precise procedural bargain.",
+          "limit": "Litigation and an implementation-procedure agreement concern different institutional choices from the political understandings at the center of the original claim."
+        },
+        {
+          "dossier": "sources/phase-one-agreement-audit.md",
+          "source_ids": [
+            "POA-EN",
+            "POA-CN"
+          ],
+          "observation": "Specific obligations coexist with political discretion.",
+          "limit": "The existence of specific provisions is compatible with the original allowance for concrete compromise."
+        }
+      ],
+      "unresolved_remainder": "The original scope and exceptions must be preserved, not counted as revisions discovered by this study. Public principle language and detailed later instruments coexist, but do not establish the relative preference, its constraints or a historical change. Those questions require comparable choices over document form, drafts and the terms negotiators rejected.",
+      "original_text_qualification": "Solomon p. 5 already permits a negotiator seeking agreement to set aside early principles and reach a concrete accord; pp. 170 and 173 discuss political relationships and American–Chinese differences in approach. A later legal or technical instrument is not by itself a counterexample to that qualified political preference."
+    },
+    {
+      "id": "S-C14",
+      "baseline": {
+        "id": "S-C14",
+        "author": "Solomon",
+        "pages": "6, 8, 172–173",
+        "claim": "Chinese continuity and command of the negotiating record can create leverage over American officials whose turnover and dispersed archives impair knowledge of earlier commitments.",
+        "evidence_type": "Negotiating-record and interview generalization; institutional diagnosis and recommendation",
+        "evidence_details": "Solomon describes records scattered among agencies and presidential libraries and recommends an electronically searchable central repository at p173.",
+        "test": "Audit contested invocations of prior commitments against contemporaneous records; identify accurate recall, selective quotation, misremembering, and access disparities on both sides. Examine whether better record access altered a later exchange.",
+        "caveat": "Claims of complete Chinese command should not be accepted as literal universals. Record knowledge, the legitimacy of an interpretation, and the ability to obtain concessions are separate variables."
+      },
+      "baseline_scope": {
+        "author_period_and_domain": "Principal empirical period 1967–1984, principally American–Chinese high political negotiation while Beijing sought a constructive relationship; application to future confrontation was explicitly left open. The claim-specific qualification below also applies.",
+        "claim_specific_qualification": "Claims of complete Chinese command should not be accepted as literal universals. Record knowledge, the legitimacy of an interpretation, and the ability to obtain concessions are separate variables."
+      },
+      "verdict": "unresolved",
+      "tested_component": "Knowledge and use of the prior record, separated from superior memory and concession leverage.",
+      "supporting_evidence": [
+        {
+          "dossier": "cases/us-trade-2018-2020-chinese-reconstruction.md",
+          "source_ids": [
+            "CN-TRADE-LIU201905"
+          ],
+          "observation": "Liu invoked an asserted Argentina purchase consensus.",
+          "limit": ""
+        }
+      ],
+      "contrary_or_limiting_evidence": [
+        {
+          "dossier": "cases/us-trade-2018-2020-us-reconstruction.md",
+          "source_ids": [
+            "TUS05"
+          ],
+          "observation": "The contemporaneous U.S. dinner readout explicitly left the amount unagreed.",
+          "limit": "This discrepancy does not determine which private understanding existed."
+        }
+      ],
+      "unresolved_remainder": "No comparative personnel/archive measure establishes Chinese memory superiority or resulting leverage. Both accurate invocation and favorable reconstruction must be checked against the common text."
+    },
+    {
+      "id": "S-C15",
+      "baseline": {
+        "id": "S-C15",
+        "author": "Solomon",
+        "pages": "9, 173",
+        "claim": "Placing a technical issue within a broader relationship framework can make compromise easier for Chinese decisionmakers to justify.",
+        "evidence_type": "Practical recommendation inferred from negotiating experience",
+        "evidence_details": "The private-claims/blocked-assets settlement is offered as an example; the recommendation connects compromise to perceived long-term sincerity and common objectives.",
+        "test": "Reconstruct the Chinese decision before and after the broader framing was introduced. Compare cases with identical framing but no compromise, and compromise achieved without such framing.",
+        "caveat": "The formulation may accompany a prior decision rather than cause it. Advice is not itself a tested intervention."
+      },
+      "baseline_scope": {
+        "author_period_and_domain": "Principal empirical period 1967–1984, principally American–Chinese high political negotiation while Beijing sought a constructive relationship; application to future confrontation was explicitly left open. The claim-specific qualification below also applies.",
+        "claim_specific_qualification": "The formulation may accompany a prior decision rather than cause it. Advice is not itself a tested intervention."
+      },
+      "verdict": "unresolved",
+      "tested_component": "Whether relationship framing enabled a particular technical compromise.",
+      "supporting_evidence": [
+        {
+          "dossier": "cases/financial-access-implementation.md",
+          "source_ids": [
+            "FIN-01",
+            "FIN-14"
+          ],
+          "observation": "Opening was presented through bilateral benefit and domestic reform.",
+          "limit": ""
+        },
+        {
+          "dossier": "cases/climate-2009-2015.md",
+          "source_ids": [
+            "CLI12",
+            "CLI15"
+          ],
+          "observation": "Leaders endorsed nationally differentiated climate intentions and cooperation.",
+          "limit": ""
+        }
+      ],
+      "contrary_or_limiting_evidence": [
+        {
+          "dossier": "cases/financial-access-implementation.md",
+          "source_ids": [
+            "FIN-03",
+            "FIN-10",
+            "FIN-11"
+          ],
+          "observation": "Domestic reform and timetable changes preceded the final bilateral agreement.",
+          "limit": ""
+        }
+      ],
+      "unresolved_remainder": "Framing can justify a prior decision as well as cause a new one. Need proposals and decision records showing an otherwise unacceptable technical term became acceptable through the broader frame."
+    },
+    {
+      "id": "S-C16",
+      "baseline": {
+        "id": "S-C16",
+        "author": "Solomon",
+        "pages": "9, 165, 174",
+        "claim": "Deadlines create bargaining vulnerability for whichever side most needs an agreement; Chinese negotiators try to exploit American urgency but are themselves vulnerable when Chinese deadlines bind.",
+        "evidence_type": "Negotiating-record synthesis and explicit practical qualification",
+        "evidence_details": "The summary warns against uncontrolled deadlines; p174 expressly notes Chinese vulnerability and recommends willingness to leave an unfavorable negotiation.",
+        "test": "Identify each side's actual deadlines and costs of delay before attributing patience or last-minute flexibility; compare concession timing when Chinese versus American deadlines are binding.",
+        "caveat": "Civilizational time horizons cannot substitute for documented incentives. Delay may also reflect authorization or uncertainty rather than tactical patience."
+      },
+      "baseline_scope": {
+        "author_period_and_domain": "Principal empirical period 1967–1984, principally American–Chinese high political negotiation while Beijing sought a constructive relationship; application to future confrontation was explicitly left open. The claim-specific qualification below also applies.",
+        "claim_specific_qualification": "Civilizational time horizons cannot substitute for documented incentives. Delay may also reflect authorization or uncertainty rather than tactical patience."
+      },
+      "verdict": "retain within tested scope",
+      "tested_component": "Reciprocal use and adjustment of deadlines; not a universal Chinese time advantage.",
+      "supporting_evidence": [
+        {
+          "dossier": "cases/wto-1999-chinese-reconstruction.md",
+          "source_ids": [
+            "CN-WTO-B3"
+          ],
+          "observation": "November 12 and 14 American letters used departure threats and an extension linked to a Zhu meeting.",
+          "limit": "B3 pp.1067–1070 and 1094; effectiveness disputed."
+        }
+      ],
+      "contrary_or_limiting_evidence": [
+        {
+          "dossier": "cases/us-trade-2018-2020-us-reconstruction.md",
+          "source_ids": [
+            "TUS09"
+          ],
+          "observation": "American tariff deadlines were repeatedly extended.",
+          "limit": ""
+        },
+        {
+          "dossier": "cases/agricultural-approvals-implementation.md",
+          "source_ids": [
+            "AG16",
+            "AG05"
+          ],
+          "observation": "Regulatory duration includes non-Chinese as well as Chinese constraints.",
+          "limit": ""
+        }
+      ],
+      "unresolved_remainder": "Retain the conditional proposition that urgency can matter. Chinese exploitation of a particular deadline and measured concession effects remain unresolved."
+    },
+    {
+      "id": "S-C17",
+      "baseline": {
+        "id": "S-C17",
+        "author": "Solomon",
+        "pages": "9, 168–169, 175",
+        "claim": "Confidential exchanges can reduce public expectation pressures and increase perceived seriousness, while publicity can be used to constrain a counterpart's room to compromise.",
+        "evidence_type": "Practice-based recommendation and institutional interpretation",
+        "evidence_details": "Advice to limit leaks and avoid accepting public Chinese rhetoric as the negotiating framework; discussion of anticipated American leaks and memoir disclosures shaping Chinese caution.",
+        "test": "Compare positions, feasible concessions, and agreements across confidential and public phases; identify whether publicity was strategically generated, domestically unavoidable, or introduced after substantive agreement.",
+        "caveat": "The claimed benefits of confidentiality may be selection effects: promising negotiations may be easier to keep quiet. Public constraints can also supply leverage or credibility."
+      },
+      "baseline_scope": {
+        "author_period_and_domain": "Principal empirical period 1967–1984, principally American–Chinese high political negotiation while Beijing sought a constructive relationship; application to future confrontation was explicitly left open. The claim-specific qualification below also applies.",
+        "claim_specific_qualification": "The claimed benefits of confidentiality may be selection effects: promising negotiations may be easier to keep quiet. Public constraints can also supply leverage or credibility."
+      },
+      "verdict": "retain within tested scope",
+      "tested_component": "Documented management of different public audiences, with causal benefits left unproved.",
+      "supporting_evidence": [
+        {
+          "dossier": "cases/ep3-2001.md",
+          "source_ids": [
+            "EP303",
+            "EP321"
+          ],
+          "observation": "The released letter and U.S. legal guidance distinguish immediate settlement language from preserved responsibility positions.",
+          "limit": ""
+        }
+      ],
+      "contrary_or_limiting_evidence": [
+        {
+          "dossier": "cases/wto-1999-us-reconstruction.md",
+          "source_ids": [
+            "US-APR08-BRIEFING"
+          ],
+          "observation": "Contemporary and later American accounts disagree over the purpose and effects of publishing accession commitments.",
+          "limit": ""
+        }
+      ],
+      "unresolved_remainder": "Retain as an observed instrument of bargaining. Confidentiality’s independent contribution, audience constraint and publication effects require private decisions and reactions."
+    },
+    {
+      "id": "S-C18",
+      "baseline": {
+        "id": "S-C18",
+        "author": "Solomon",
+        "pages": "157–160, 166, 176–177",
+        "claim": "Competent management of negotiating tactics may improve control and mutual respect, but its effects on agreement outcomes are often secondary to state interests and official discipline; excessive manipulation can undermine trust.",
+        "evidence_type": "Explicit analytic qualification and proposed counterstrategy, not systematic causal evaluation",
+        "evidence_details": "P160 allows only marginal tactical effects; p166 makes interpersonal influences secondary to state interests and official discipline; pp176–177 reject both omnipotent-Chinese assumptions and supplicant or dominating postures.",
+        "test": "Separate negotiator satisfaction, control of process, final terms, and implementation; compare whether similar material bargaining positions produce different outcomes after identifiable tactical interventions.",
+        "caveat": "Chapter 4 develops recommendations rather than testing competing strategies. Its proposed mechanisms should not be reported as demonstrated outcome effects."
+      },
+      "baseline_scope": {
+        "author_period_and_domain": "Principal empirical period 1967–1984, principally American–Chinese high political negotiation while Beijing sought a constructive relationship; application to future confrontation was explicitly left open. The claim-specific qualification below also applies.",
+        "claim_specific_qualification": "Chapter 4 develops recommendations rather than testing competing strategies. Its proposed mechanisms should not be reported as demonstrated outcome effects."
+      },
+      "verdict": "retain within tested scope",
+      "tested_component": "State interests, institutional obligations and available options as necessary controls on tactical explanation.",
+      "supporting_evidence": [
+        {
+          "dossier": "cases/russia-gas-bargaining.md",
+          "source_ids": [
+            "RUS-G03",
+            "RUS-G17",
+            "RUS-G28"
+          ],
+          "observation": "Political warmth coexists with different commercial closure stages.",
+          "limit": ""
+        },
+        {
+          "dossier": "cases/financial-access-implementation.md",
+          "source_ids": [
+            "FIN-15",
+            "FIN-26"
+          ],
+          "observation": "A negotiated timetable changed domestic regulation and produced usable access.",
+          "limit": ""
+        }
+      ],
+      "contrary_or_limiting_evidence": [
+        {
+          "dossier": "reporting/kissinger-2023-intermediary-audit.md",
+          "source_ids": [
+            "K23-10"
+          ],
+          "observation": "Blinken acknowledged seeking Kissinger’s advice.",
+          "limit": "Material-interest explanations should not erase possible interpersonal contributions."
+        }
+      ],
+      "unresolved_remainder": "Retain the anti-omnipotence qualification; the comparative magnitude of tactical and substantive effects has not been estimated, and counterproductive manipulation is not separately tested."
+    },
+    {
+      "id": "S-C19",
+      "baseline": {
+        "id": "S-C19",
+        "author": "Solomon",
+        "pages": "175–176",
+        "claim": "Rigidity or polemical conduct by Chinese negotiators is usually a sign of leadership conflict, making accommodation less likely.",
+        "evidence_type": "Strong practical diagnostic inference derived from a retrospective historical interpretation",
+        "evidence_details": "The lessons chapter generalizes from the discussion of domestic Chinese constraints and advises avoiding demands for unavailable flexibility.",
+        "test": "Code rigidity before knowing the internal-political outcome; compare its incidence under leadership conflict, consolidated authority, substantive incompatibility, and tactical pressure. Seek flexible negotiations during known conflict as negative cases.",
+        "caveat": "This is stronger than the underlying evidence warrants without testing: chapter 2 itself lists several other causes of inflexibility. Public language cannot reliably identify leadership conflict on its own."
+      },
+      "baseline_scope": {
+        "author_period_and_domain": "Principal empirical period 1967–1984, principally American–Chinese high political negotiation while Beijing sought a constructive relationship; application to future confrontation was explicitly left open. The claim-specific qualification below also applies.",
+        "claim_specific_qualification": "This is stronger than the underlying evidence warrants without testing: chapter 2 itself lists several other causes of inflexibility. Public language cannot reliably identify leadership conflict on its own."
+      },
+      "verdict": "unresolved",
+      "tested_component": "Whether observed rigidity usually indicates leadership conflict and predicts reduced capacity for accommodation.",
+      "supporting_evidence": [
+        {
+          "dossier": "book/claims-assets-1973-primary-check.md",
+          "source_ids": [
+            "CLA06"
+          ],
+          "observation": "A contemporary participant-analyst proposed internal pressure as a cause.",
+          "limit": "Its underlying evidence is partly inaccessible and is reused by the book."
+        }
+      ],
+      "contrary_or_limiting_evidence": [
+        {
+          "dossier": "cases/eu-wto-2000-comparison.md",
+          "source_ids": [
+            "EWT-01"
+          ],
+          "observation": "Firm positions accompany specific collective ceilings and limits in the European mandate.",
+          "limit": "The record does not establish the presence or absence of Chinese leadership conflict behind the collective ceiling."
+        },
+        {
+          "dossier": "cases/agricultural-approvals-implementation.md",
+          "source_ids": [
+            "AG09",
+            "AG16"
+          ],
+          "observation": "Institutional review and non-Chinese delay provide alternatives to a factional diagnosis.",
+          "limit": "These are alternative mechanisms in different regulatory settings, not a frequency test of rigidity in high political negotiation."
+        }
+      ],
+      "unresolved_remainder": "The empirical frequency claim remains unresolved: no matched sample or sufficient Chinese internal evidence establishes how often rigidity reflects leadership conflict. As practical advice, do not diagnose such conflict from public rigidity alone; investigate authority, substantive limits and competing explanations. That evidentiary caution is not a demonstrated revision of behavior or a finding that leadership conflict was absent."
+    },
+    {
+      "id": "S-C20",
+      "baseline": {
+        "id": "S-C20",
+        "author": "Solomon",
+        "pages": "162–170",
+        "claim": "American turnover, divided authority, and relatively open information flows can both create openings for Chinese pressure and frustrate Chinese efforts to secure stable commitments and personal access.",
+        "evidence_type": "Explicitly suggestive bilateral institutional comparison",
+        "evidence_details": "Solomon stresses that negotiation is interactive and says these American comparisons are not based on a systematic assessment of U.S. performance; pp168–169 describe unpredictability and the dissipation of cultivated relationships.",
+        "test": "Trace both sides' responses to elections, personnel rotation, congressional intervention, agency disagreement, and disclosures. Compare costs and advantages rather than presuming dispersed American authority is always a weakness.",
+        "caveat": "National-character contrasts in Table 4 are hypotheses, not measured attributes. Chinese perceptions of American institutions are often inferred rather than documented internally."
+      },
+      "baseline_scope": {
+        "author_period_and_domain": "Principal empirical period 1967–1984, principally American–Chinese high political negotiation while Beijing sought a constructive relationship; application to future confrontation was explicitly left open. The claim-specific qualification below also applies.",
+        "claim_specific_qualification": "National-character contrasts in Table 4 are hypotheses, not measured attributes. Chinese perceptions of American institutions are often inferred rather than documented internally."
+      },
+      "verdict": "retain within tested scope",
+      "tested_component": "Interactive effects of American divided authority and changing public positions.",
+      "supporting_evidence": [
+        {
+          "dossier": "cases/wto-1999-us-reconstruction.md",
+          "source_ids": [
+            "US-APR08-BRIEFING",
+            "US-NOV15-BERGER"
+          ],
+          "observation": "Executive disagreement and separate congressional PNTR authority are explicit.",
+          "limit": ""
+        },
+        {
+          "dossier": "cases/phase-one-implementation-2020-2026.md",
+          "source_ids": [
+            "POI12"
+          ],
+          "observation": "Industry witnesses favor different enforcement choices.",
+          "limit": ""
+        }
+      ],
+      "contrary_or_limiting_evidence": [
+        {
+          "dossier": "reporting/kissinger-2023-intermediary-audit.md",
+          "source_ids": [
+            "K23-10"
+          ],
+          "observation": "A long-retired official remained available for consultation despite turnover.",
+          "limit": "Personal continuity can coexist with institutional dispersion."
+        }
+      ],
+      "unresolved_remainder": "Retain institutional constraints as part of the bilateral explanation. Chinese perceptions, deliberate exploitation and the net advantage of openness remain unproved."
+    },
+    {
+      "id": "F01",
+      "baseline": {
+        "id": "F01",
+        "author": "Freeman",
+        "pages": "182–184",
+        "claim": "By the late 1990s, Chinese negotiators still emphasized long-term relationships and shared principles, using deferral of difficult issues to allow common interests and trust to develop.",
+        "evidence_type": "Practitioner retrospective synthesis and brief comparative case illustrations",
+        "evidence_details": "References Russia, Central Asia, South Korea, Vietnam, Hong Kong, India in 1998, Taiwan, and cross-strait relations as differing experiences of principles and deferred disagreement.",
+        "test": "Reconstruct particular agreements and follow the deferred issues: did common principles constrain conduct, create later cooperation, merely mask divergence, or collapse when incentives changed?",
+        "caveat": "Freeman does not disclose a new systematic archive or interview sample. Brief case mentions do not establish causal mechanisms, and endorsement of Solomon is not independent proof."
+      },
+      "baseline_scope": {
+        "author_period_and_domain": "Freeman’s separate 1999 practitioner assessment of developments since Solomon’s principal study. A later example cannot independently validate the asserted earlier learning trajectory; the claim-specific qualification below also applies.",
+        "claim_specific_qualification": "Freeman does not disclose a new systematic archive or interview sample. Brief case mentions do not establish causal mechanisms, and endorsement of Solomon is not independent proof."
+      },
+      "verdict": "unresolved",
+      "tested_component": "Deferral and relationship cultivation are observable; the intended and actual growth of common interests or trust requires a separate causal test.",
+      "supporting_evidence": [
+        {
+          "dossier": "cases/russia-border-settlement.md",
+          "source_ids": [
+            "RUS-T1991-CN",
+            "RUS-T2001",
+            "RUS-T2004"
+          ],
+          "observation": "Reserved areas persisted across cooperation and were later delimited.",
+          "limit": "The sequence establishes reservation followed by later settlement, not the intention behind deferral or the mechanism producing settlement."
+        },
+        {
+          "dossier": "reporting/kissinger-2023-intermediary-audit.md",
+          "source_ids": [
+            "K23-01",
+            "K23-02"
+          ],
+          "observation": "Historical relationship recognition persisted in 2023.",
+          "limit": "Recognition of an old relationship does not establish a deferred bargain or increased mutual trust."
+        }
+      ],
+      "contrary_or_limiting_evidence": [
+        {
+          "dossier": "cases/russia-gas-bargaining.md",
+          "source_ids": [
+            "RUS-G14",
+            "RUS-G17",
+            "RUS-G28"
+          ],
+          "observation": "Repeated political endorsement did not eliminate commercial disagreement.",
+          "limit": "Continued disagreement is compatible with Freeman’s explicit allowance for failure or uncertain success; it does not revise that qualification."
+        }
+      ],
+      "unresolved_remainder": "The repertoire recurs, but its intended and actual causal contribution remains unresolved. Do not convert Freeman’s conditional and partly attributed account into an automatic trust-producing rule and then claim to refute it. The Russia sequence requires intervening decisions and alternatives; the Kissinger case requires a specified transmission and policy effect.",
+      "original_text_qualification": "Freeman p. 183 presents the trust-building rationale as the Chinese view, then explicitly allows success in an appropriate context, failure and, continuing on p. 184, uncertain success. He does not claim that time or relationship language necessarily resolves disagreement."
+    },
+    {
+      "id": "F02",
+      "baseline": {
+        "id": "F02",
+        "author": "Freeman",
+        "pages": "184–185",
+        "claim": "Foreign-exchange and official spending restrictions materially reinforced the Chinese preference for negotiating in China.",
+        "evidence_type": "Practitioner recollection and practical institutional explanation",
+        "evidence_details": "Deng's reportedly tiny personal foreign-currency allowance during the 1974 UN visit and restrictions on overseas entertainment spending that Freeman says eased in the mid-1980s.",
+        "test": "Acquire travel budgets, foreign-exchange and entertainment rules, and venue decisions; test whether overseas negotiation increased after restrictions eased, controlling for access to authority and issue mix.",
+        "caveat": "The anecdotes are not accompanied by the administrative records here. Budget constraints can explain some venue choices without exhausting cultural, intelligence, or strategic reasons."
+      },
+      "baseline_scope": {
+        "author_period_and_domain": "Freeman’s separate 1999 practitioner assessment of developments since Solomon’s principal study. A later example cannot independently validate the asserted earlier learning trajectory; the claim-specific qualification below also applies.",
+        "claim_specific_qualification": "The anecdotes are not accompanied by the administrative records here. Budget constraints can explain some venue choices without exhausting cultural, intelligence, or strategic reasons."
+      },
+      "verdict": "untested",
+      "tested_component": "Budget and foreign-exchange rules as a cause of negotiating venue.",
+      "supporting_evidence": [],
+      "contrary_or_limiting_evidence": [],
+      "unresolved_remainder": "No dated travel-budget or entertainment-rule comparison was acquired. Beijing meetings cannot test this economic explanation, and later overseas meetings alone cannot establish why venue changed."
+    },
+    {
+      "id": "F03",
+      "baseline": {
+        "id": "F03",
+        "author": "Freeman",
+        "pages": "185–186",
+        "claim": "Having foreign counterparts state their positions first gives Chinese diplomats a politically safer record from which to seek revised instructions, reducing the risk of appearing to advocate foreign interests.",
+        "evidence_type": "Practitioner causal explanation grounded in organizational incentives",
+        "evidence_details": "Freeman connects the speaking-order preference to penalties for apparent sympathy with foreign positions and the need to report actual foreign statements to superiors.",
+        "test": "Compare reporting drafts, requested instructions, and accounts of sanctions or criticism; determine whether foreign wording was needed to legitimate internal proposals and whether the preference weakened where delegates had discretion.",
+        "caveat": "Speaking second also has universal informational bargaining advantages. Freeman's mechanism must be distinguished from tactical extraction rather than replacing it by assertion."
+      },
+      "baseline_scope": {
+        "author_period_and_domain": "Freeman’s separate 1999 practitioner assessment of developments since Solomon’s principal study. A later example cannot independently validate the asserted earlier learning trajectory; the claim-specific qualification below also applies.",
+        "claim_specific_qualification": "Speaking second also has universal informational bargaining advantages. Freeman's mechanism must be distinguished from tactical extraction rather than replacing it by assertion."
+      },
+      "verdict": "untested",
+      "tested_component": "Speaking second as protection against appearing to advocate foreign interests when seeking new instructions.",
+      "supporting_evidence": [],
+      "contrary_or_limiting_evidence": [],
+      "unresolved_remainder": "Authority accounts do not reconstruct speaking order, internal reporting or career risk. Need paired meeting and internal submission records; ordinary information-gathering is a competing mechanism."
+    },
+    {
+      "id": "F04",
+      "baseline": {
+        "id": "F04",
+        "author": "Freeman",
+        "pages": "186–187",
+        "claim": "Reluctance to delegate and the need for rapid authoritative guidance reinforce negotiation near Chinese decisionmakers, even after communications technology improves.",
+        "evidence_type": "Practitioner institutional explanation",
+        "evidence_details": "Describes managerial micromanagement, slow historical communications, and continuing benefits of proximity to Zhongnanhai despite system upgrades.",
+        "test": "Track instruction turnaround, delegation rules, and venue selection across technology and organizational changes; identify abroad-based talks where adequate authority made proximity unnecessary.",
+        "caveat": "Home-ground intelligence and protocol advantages are additional causes. Faster communication could reduce delay while increasing central micromanagement, so technical improvement alone does not predict greater delegate autonomy."
+      },
+      "baseline_scope": {
+        "author_period_and_domain": "Freeman’s separate 1999 practitioner assessment of developments since Solomon’s principal study. A later example cannot independently validate the asserted earlier learning trajectory; the claim-specific qualification below also applies.",
+        "claim_specific_qualification": "Home-ground intelligence and protocol advantages are additional causes. Faster communication could reduce delay while increasing central micromanagement, so technical improvement alone does not predict greater delegate autonomy."
+      },
+      "verdict": "unresolved",
+      "tested_component": "Proximity to authority, communications capacity and delegation as determinants of venue.",
+      "supporting_evidence": [
+        {
+          "dossier": "sources/wto-financial-participant-note.md",
+          "source_ids": [
+            "EWT-13"
+          ],
+          "observation": "Financial negotiator describes referrals to State Council and regulator leaders.",
+          "limit": ""
+        }
+      ],
+      "contrary_or_limiting_evidence": [
+        {
+          "dossier": "cases/us-china-crisis-2023.md",
+          "source_ids": [
+            "C23-09",
+            "C23-10"
+          ],
+          "observation": "The strategic channel operated in Vienna, away from Beijing.",
+          "limit": "A foreign venue does not identify how its mandate was supplied."
+        }
+      ],
+      "unresolved_remainder": "No matched venue-choice records show whether communications improvements reduced delay or increased micromanagement. Evidence of referrals is not evidence that proximity caused the venue."
+    },
+    {
+      "id": "F05",
+      "baseline": {
+        "id": "F05",
+        "author": "Freeman",
+        "pages": "187–188",
+        "claim": "International opening, research networks, and greater political room improved Chinese knowledge of foreign politics and the candor and usefulness of policy reporting by the late 1990s.",
+        "evidence_type": "Practitioner assessment and broad observations of research and diplomatic practice",
+        "evidence_details": "Describes pre-summit overseas research visits, confidential reports, expanded think tanks, leaders' foreign exposure, and less politically trimmed reporting.",
+        "test": "Examine reports and their use in decisions across periods, measuring specific forecast errors, suppressed information, and corrections. Compare network access with actual influence on instructions.",
+        "caveat": "The essay supplies no systematic accuracy or candor measure. Its optimistic judgment is period-specific and may not hold under later political conditions."
+      },
+      "baseline_scope": {
+        "author_period_and_domain": "Freeman’s separate 1999 practitioner assessment of developments since Solomon’s principal study. A later example cannot independently validate the asserted earlier learning trajectory; the claim-specific qualification below also applies.",
+        "claim_specific_qualification": "The essay supplies no systematic accuracy or candor measure. Its optimistic judgment is period-specific and may not hold under later political conditions."
+      },
+      "verdict": "unresolved",
+      "tested_component": "Improved acquisition of foreign information versus candor, accuracy and institutional use.",
+      "supporting_evidence": [
+        {
+          "dossier": "cases/wto-ds379-legal-process.md",
+          "source_ids": [
+            "DS379-03",
+            "DS379-04"
+          ],
+          "observation": "Specialist submissions and methodological proposals demonstrate usable foreign-rule knowledge.",
+          "limit": ""
+        }
+      ],
+      "contrary_or_limiting_evidence": [
+        {
+          "dossier": "cases/ep3-2001.md",
+          "source_ids": [
+            "EP319"
+          ],
+          "observation": "Retrospective institutional analysis proposes filtered military information in EP-3.",
+          "limit": "Chinese internal records and raw interview chain remain missing."
+        }
+      ],
+      "unresolved_remainder": "A later capability observation does not verify Freeman’s period-wide improvement in reporting candor. Need internal reports, corrections and their treatment across time."
+    },
+    {
+      "id": "F06",
+      "baseline": {
+        "id": "F06",
+        "author": "Freeman",
+        "pages": "188–190",
+        "claim": "Weak public diplomacy and limited rapport with foreign legislators and interest groups hinder Chinese ability to shape or understand counterpart positions before negotiating instructions harden.",
+        "evidence_type": "Practitioner institutional diagnosis with contemporary examples",
+        "evidence_details": "Discusses press controls and treatment of foreign journalists, growing but constrained congressional outreach, and the differences between the NPC and Western legislatures; contrasts Taiwan's public-relations capability.",
+        "test": "Map actual outreach, lobbying and consultation before negotiations; examine changes in legislative or executive instructions attributable to those channels and compare issues with different public salience.",
+        "caveat": "The essay's statements about China's lobbying tools and capacity require independent period verification and must not be projected to 2026. Hostility may derive from substantive disputes rather than inadequate communication."
+      },
+      "baseline_scope": {
+        "author_period_and_domain": "Freeman’s separate 1999 practitioner assessment of developments since Solomon’s principal study. A later example cannot independently validate the asserted earlier learning trajectory; the claim-specific qualification below also applies.",
+        "claim_specific_qualification": "The essay's statements about China's lobbying tools and capacity require independent period verification and must not be projected to 2026. Hostility may derive from substantive disputes rather than inadequate communication."
+      },
+      "verdict": "unresolved",
+      "tested_component": "Whether limited outreach to legislators, interest groups and the public impeded understanding or influence before counterpart instructions formed, and whether that capacity changed after Freeman’s period.",
+      "supporting_evidence": [
+        {
+          "dossier": "reporting/kissinger-2023-intermediary-audit.md",
+          "source_ids": [
+            "K23-07"
+          ],
+          "observation": "Xie publicly described difficulty bringing forward Americans favorable to relations.",
+          "limit": "An official diagnosis is not an independent measure of the obstacle."
+        }
+      ],
+      "contrary_or_limiting_evidence": [
+        {
+          "dossier": "reporting/kissinger-2023-intermediary-audit.md",
+          "source_ids": [
+            "K23-01",
+            "K23-02",
+            "K23-10"
+          ],
+          "observation": "Kissinger was cultivated by Chinese leaders, and Blinken later acknowledged consulting him before the June 2023 visit.",
+          "limit": "This establishes access to an executive consultation channel, not effective legislative, interest-group or public outreach; it discloses no resulting change to Blinken’s instructions."
+        }
+      ],
+      "unresolved_remainder": "The audience-specific capacity claim and its change over time remain unresolved. Xie’s public diagnosis is a position, while Kissinger’s executive access is not a contrary test of Freeman’s named audiences. Need actual outreach, recipient responses and instruction formation, separating communication limits from disagreement over policy.",
+      "original_text_qualification": "Freeman pp. 188–190 already records growing press and congressional outreach while criticizing its effectiveness, and expressly dates his diagnosis to the end of the twentieth century. Existing channels alone therefore do not contradict his account."
+    },
+    {
+      "id": "F07",
+      "baseline": {
+        "id": "F07",
+        "author": "Freeman",
+        "pages": "190–191",
+        "claim": "Chinese participation in multilateral institutions tends to move from procedural learning and relative passivity toward more active, competent bargaining as experience and communications improve.",
+        "evidence_type": "Practitioner cross-institutional generalization",
+        "evidence_details": "Describes learning organization-specific procedures, increasing responsiveness, cultivation of long-term relationships, and continued tight instructions or deference to consensus.",
+        "test": "Follow identifiable delegations through initial membership and later years, measuring interventions, proposals, coalition roles, instruction delays, and outcomes; look for institutions where participation did not follow the sequence.",
+        "caveat": "Increased activism may reflect power, resources, or changed objectives rather than learning. The essay gives no enumerated institutional sample."
+      },
+      "baseline_scope": {
+        "author_period_and_domain": "Freeman’s separate 1999 practitioner assessment of developments since Solomon’s principal study. A later example cannot independently validate the asserted earlier learning trajectory; the claim-specific qualification below also applies.",
+        "claim_specific_qualification": "Increased activism may reflect power, resources, or changed objectives rather than learning. The essay gives no enumerated institutional sample."
+      },
+      "verdict": "unresolved",
+      "tested_component": "Active institutional competence is observed; the proposed learning trajectory is not identified.",
+      "supporting_evidence": [
+        {
+          "dossier": "cases/wto-ds379-legal-process.md",
+          "source_ids": [
+            "DS379-03",
+            "DS379-04",
+            "DS379-07"
+          ],
+          "observation": "China used legal interpretation, appeal and negotiated review procedures.",
+          "limit": ""
+        },
+        {
+          "dossier": "cases/climate-2009-2015.md",
+          "source_ids": [
+            "CLI07",
+            "CLI08",
+            "CLI17"
+          ],
+          "observation": "Successive multilateral instruments specify international procedures with differentiated responsibilities.",
+          "limit": ""
+        }
+      ],
+      "contrary_or_limiting_evidence": [
+        {
+          "dossier": "cases/wto-ds379-legal-process.md",
+          "source_ids": [
+            "DS379-02",
+            "DS379-04"
+          ],
+          "observation": "Some Chinese claims failed or remained unresolved.",
+          "limit": ""
+        },
+        {
+          "dossier": "cases/climate-2009-2015.md",
+          "source_ids": [
+            "CLI16"
+          ],
+          "observation": "Paris required other governments’ bargaining and did not simply enact the bilateral package.",
+          "limit": ""
+        }
+      ],
+      "unresolved_remainder": "Need earlier/later actor-specific evidence identifying learning, counsel, resources and changed objectives. Outcomes and meeting participation do not isolate learning; Freeman already proposed it."
+    },
+    {
+      "id": "F08",
+      "baseline": {
+        "id": "F08",
+        "author": "Freeman",
+        "pages": "191",
+        "claim": "China has at times pragmatically negotiated changes involving its domestic policies and laws to preserve valued international relationships, even while objecting to foreign scrutiny.",
+        "evidence_type": "Practitioner case generalization",
+        "evidence_details": "Human-rights discussions, intellectual-property disputes, and export-control negotiations; describes the U.S. executive mediating congressional demands.",
+        "test": "Identify requested domestic changes, authorized concessions, actual implementation, and the relationship benefits sought; compare refused changes and explain variation through costs, authority, and issue salience.",
+        "caveat": "A negotiated pledge is not evidence of implementation. Public objection to intrusion can coexist with practical bargaining and cannot alone establish an absolute red line."
+      },
+      "baseline_scope": {
+        "author_period_and_domain": "Freeman’s separate 1999 practitioner assessment of developments since Solomon’s principal study. A later example cannot independently validate the asserted earlier learning trajectory; the claim-specific qualification below also applies.",
+        "claim_specific_qualification": "A negotiated pledge is not evidence of implementation. Public objection to intrusion can coexist with practical bargaining and cannot alone establish an absolute red line."
+      },
+      "verdict": "retain within tested scope",
+      "tested_component": "Pragmatic acceptance of domestic-policy and legal changes, with separate implementation evidence.",
+      "supporting_evidence": [
+        {
+          "dossier": "sources/phase-one-agreement-audit.md",
+          "source_ids": [
+            "POA-EN",
+            "POA-CN"
+          ],
+          "observation": "Article 1.34 preserves domestic methods while requiring implementation and possible law-amendment proposals.",
+          "limit": ""
+        },
+        {
+          "dossier": "cases/financial-access-implementation.md",
+          "source_ids": [
+            "FIN-12",
+            "FIN-15"
+          ],
+          "observation": "An April ownership date was explicitly implemented to meet Phase One requirements.",
+          "limit": ""
+        }
+      ],
+      "contrary_or_limiting_evidence": [
+        {
+          "dossier": "cases/agricultural-approvals-implementation.md",
+          "source_ids": [
+            "AG21",
+            "AG22"
+          ],
+          "observation": "Industry and USTR continued to contest biotech process performance.",
+          "limit": "Attributed claims do not supply a full cohort audit."
+        }
+      ],
+      "unresolved_remainder": "Retain the possibility demonstrated by a specific regulatory act. It does not imply all commitments were fulfilled or reveal which international relationship was decisive in every reform."
+    },
+    {
+      "id": "F09",
+      "baseline": {
+        "id": "F09",
+        "author": "Freeman",
+        "pages": "192–193",
+        "claim": "The expansion of technical, economic, legal, and military negotiations reduced the Foreign Ministry's ability to coordinate all Chinese dealings with foreign counterparts.",
+        "evidence_type": "Institutional observation with named agency examples",
+        "evidence_details": "MOFTEC leading GATT/WTO negotiations; multiple ministries and provinces involved in human-rights and intellectual-property questions; growing PLA foreign dialogues and contracting.",
+        "test": "Map mandate and approval authority across ministries and leadership bodies, identify contradictory positions, and determine when a central authority reconciled them. Compare issue-specific negotiations with leader-managed political bargains.",
+        "caveat": "More participants need not imply less central political control. Agency autonomy, coordination costs, and final authorization are different variables."
+      },
+      "baseline_scope": {
+        "author_period_and_domain": "Freeman’s separate 1999 practitioner assessment of developments since Solomon’s principal study. A later example cannot independently validate the asserted earlier learning trajectory; the claim-specific qualification below also applies.",
+        "claim_specific_qualification": "More participants need not imply less central political control. Agency autonomy, coordination costs, and final authorization are different variables."
+      },
+      "verdict": "unresolved",
+      "tested_component": "Specialist participation versus a causal reduction in MFA coordinating capacity.",
+      "supporting_evidence": [
+        {
+          "dossier": "sources/wto-financial-participant-note.md",
+          "source_ids": [
+            "EWT-13"
+          ],
+          "observation": "Sector authority and MOFTEC coordination are described.",
+          "limit": ""
+        },
+        {
+          "dossier": "cases/climate-2009-2015.md",
+          "source_ids": [
+            "CLI10"
+          ],
+          "observation": "Working-group arrangements identify specialist agencies.",
+          "limit": ""
+        }
+      ],
+      "contrary_or_limiting_evidence": [
+        {
+          "dossier": "cases/india-border-2020-2024.md",
+          "source_ids": [
+            "IND-CN-2024-WMCC31"
+          ],
+          "observation": "Diplomatic, defense and other agencies participated within an articulated political framework.",
+          "limit": ""
+        }
+      ],
+      "unresolved_remainder": "More participants do not establish diminished MFA control, autonomy from leadership or coordination failure. Need institutional mandates, actual referral paths and a longitudinal comparison."
+    },
+    {
+      "id": "F10",
+      "baseline": {
+        "id": "F10",
+        "author": "Freeman",
+        "pages": "193",
+        "claim": "Chinese bureaucratic and industrial interests defending domestic positions account for part of the difficulty in agreeing to foreign terms for WTO accession.",
+        "evidence_type": "Practitioner causal attribution, not a documented reconstruction of specific accession rounds",
+        "evidence_details": "Freeman identifies an emerging bureaucratic-industrial complex and links its defense of vested interests to accession difficulties.",
+        "test": "Obtain sectoral submissions, schedules, draft commitments, ministry comments, and leadership instructions; trace how specific resistance changed negotiating positions and how it was resolved or bypassed.",
+        "caveat": "The essay is not evidence of who blocked which terms in April or November 1999. Domestic interests compete with bargaining tactics, foreign constraints, and leadership preferences as explanations."
+      },
+      "baseline_scope": {
+        "author_period_and_domain": "Freeman’s separate 1999 practitioner assessment of developments since Solomon’s principal study. A later example cannot independently validate the asserted earlier learning trajectory; the claim-specific qualification below also applies.",
+        "claim_specific_qualification": "The essay is not evidence of who blocked which terms in April or November 1999. Domestic interests compete with bargaining tactics, foreign constraints, and leadership preferences as explanations."
+      },
+      "verdict": "unresolved",
+      "tested_component": "Domestic sector interests as a reason for resistance in accession bargaining.",
+      "supporting_evidence": [
+        {
+          "dossier": "sources/wto-financial-participant-note.md",
+          "source_ids": [
+            "EWT-13"
+          ],
+          "observation": "Participant identifies financial-sector options and approval constraints.",
+          "limit": ""
+        },
+        {
+          "dossier": "cases/eu-wto-2000-comparison.md",
+          "source_ids": [
+            "EWT-01",
+            "EWT-13"
+          ],
+          "observation": "Ownership ceilings and compensating terms were defended in sector-specific bargaining.",
+          "limit": ""
+        }
+      ],
+      "contrary_or_limiting_evidence": [
+        {
+          "dossier": "cases/eu-wto-2000-comparison.md",
+          "source_ids": [
+            "EWT-01"
+          ],
+          "observation": "Lamy’s own authority required member-state and industry consultation; China also made concrete sector concessions.",
+          "limit": ""
+        }
+      ],
+      "unresolved_remainder": "Direct Chinese interagency submissions and veto decisions are missing. Sector sensitivity is established more securely than the political weight of particular industrial coalitions."
+    },
+    {
+      "id": "F11",
+      "baseline": {
+        "id": "F11",
+        "author": "Freeman",
+        "pages": "193–194",
+        "claim": "Long career specialization gives Chinese negotiators deep bilateral memory but may limit cross-issue breadth and leave policy integration concentrated in senior leadership.",
+        "evidence_type": "Practitioner organizational generalization",
+        "evidence_details": "Describes diplomats, military officers, and officials serving for long periods on one country, region, or function, with integration expected at the top.",
+        "test": "Reconstruct careers, rotations, substantive expertise, and integration processes; compare specialist teams' memory and cross-issue performance with rotated officials and mixed teams.",
+        "caveat": "Length of service is not a direct measure of knowledge or power. The claim should be tested by institution and generation, not assumed from prominent long-serving individuals."
+      },
+      "baseline_scope": {
+        "author_period_and_domain": "Freeman’s separate 1999 practitioner assessment of developments since Solomon’s principal study. A later example cannot independently validate the asserted earlier learning trajectory; the claim-specific qualification below also applies.",
+        "claim_specific_qualification": "Length of service is not a direct measure of knowledge or power. The claim should be tested by institution and generation, not assumed from prominent long-serving individuals."
+      },
+      "verdict": "untested",
+      "tested_component": "Career specialization’s joint effect on memory, cross-issue breadth and centralized integration.",
+      "supporting_evidence": [],
+      "contrary_or_limiting_evidence": [],
+      "unresolved_remainder": "No career-level comparative sample or internal knowledge test was acquired. A specialist’s detailed testimony cannot establish limited breadth or locate policy integration in the senior hierarchy."
+    },
+    {
+      "id": "F12",
+      "baseline": {
+        "id": "F12",
+        "author": "Freeman",
+        "pages": "194",
+        "claim": "Mentoring and on-the-job instruction can transmit established negotiating practices despite increased staff turnover.",
+        "evidence_type": "Practitioner observation of institutional continuity",
+        "evidence_details": "Contrasts earlier absence of retirement limits with increased turnover while arguing that seniors transmitted bureaucratic norms to juniors.",
+        "test": "Acquire training materials, handover records, and career interviews; identify specific practices passed across personnel changes and cases where replacement produced a break.",
+        "caveat": "Continuity after turnover could also come from unchanged instructions, interests, or institutions. Mentoring is a proposed transmission mechanism, not demonstrated by continuity alone."
+      },
+      "baseline_scope": {
+        "author_period_and_domain": "Freeman’s separate 1999 practitioner assessment of developments since Solomon’s principal study. A later example cannot independently validate the asserted earlier learning trajectory; the claim-specific qualification below also applies.",
+        "claim_specific_qualification": "Continuity after turnover could also come from unchanged instructions, interests, or institutions. Mentoring is a proposed transmission mechanism, not demonstrated by continuity alone."
+      },
+      "verdict": "untested",
+      "tested_component": "Mentoring and on-the-job teaching as the mechanism transmitting bargaining practices.",
+      "supporting_evidence": [],
+      "contrary_or_limiting_evidence": [],
+      "unresolved_remainder": "No training, mentoring, personnel-handover or observed instruction record has been acquired. Similar conduct by later officials is not evidence of this transmission mechanism."
+    },
+    {
+      "id": "F13",
+      "baseline": {
+        "id": "F13",
+        "author": "Freeman",
+        "pages": "194–195",
+        "claim": "Repeated interaction produces counterpart- and organization-specific Chinese negotiating substyles as specialists adapt to the people and procedures they encounter.",
+        "evidence_type": "Practitioner comparison, including reported conversations with Japanese foreign-ministry colleagues",
+        "evidence_details": "Compares America, Japan, and UN specialists and says their methods increasingly resemble the practices of their counterparts.",
+        "test": "Match issue, power relation, and authority level across counterparts; follow individual specialists when assignments change; distinguish acquired substyles from selection of officials already suited to an audience.",
+        "caveat": "Freeman does not provide interview transcripts or a systematic comparative sample. A broader shared tradition and variation by individual or issue may coexist with specialist adaptation."
+      },
+      "baseline_scope": {
+        "author_period_and_domain": "Freeman’s separate 1999 practitioner assessment of developments since Solomon’s principal study. A later example cannot independently validate the asserted earlier learning trajectory; the claim-specific qualification below also applies.",
+        "claim_specific_qualification": "Freeman does not provide interview transcripts or a systematic comparative sample. A broader shared tradition and variation by individual or issue may coexist with specialist adaptation."
+      },
+      "verdict": "unresolved",
+      "tested_component": "Counterpart- and organization-specific adaptation through repeated interaction.",
+      "supporting_evidence": [
+        {
+          "dossier": "cases/eu-wto-2000-comparison.md",
+          "source_ids": [
+            "EWT-01",
+            "EWT-03"
+          ],
+          "observation": "The same accession campaign yielded a European package with distinct priorities and timings.",
+          "limit": ""
+        },
+        {
+          "dossier": "cases/climate-2009-2015.md",
+          "source_ids": [
+            "CLI06"
+          ],
+          "observation": "Stern describes learning to work with Xie and the counterpart’s authority.",
+          "limit": ""
+        }
+      ],
+      "contrary_or_limiting_evidence": [
+        {
+          "dossier": "cases/eu-wto-2000-comparison.md",
+          "source_ids": [
+            "EWT-01",
+            "EWT-05"
+          ],
+          "observation": "Europe negotiated later, with different interests and an inherited U.S. benchmark.",
+          "limit": "These confounders prevent attributing different terms to learned substyles."
+        }
+      ],
+      "unresolved_remainder": "Need longitudinal participant-level behavior and training/feedback evidence. Present comparisons establish variation, not its acquisition through repeated interaction."
+    },
+    {
+      "id": "F14",
+      "baseline": {
+        "id": "F14",
+        "author": "Freeman",
+        "pages": "194–195; contrast Solomon 17",
+        "claim": "By the late 1990s, Chinese negotiators experienced with Americans had learned incremental bargaining and adjusted opening positions to American expectations of compromise between initial demands.",
+        "evidence_type": "Practitioner retrospective observation directly qualifying an earlier participant account",
+        "evidence_details": "Freeman contrasts learned incremental bargaining with the direct move to a defensible position that Kissinger praised in his early-1970s experience with Huang Hua.",
+        "test": "Reconstruct opening offers, internal reservation positions, concession sequences, and final terms across comparable U.S. negotiations before and after sustained interaction; compare non-U.S. counterparts.",
+        "caveat": "Commercial issue mix and bargaining power may explain the difference as well as learning. The chapter offers no transaction-level dataset; this is a hypothesis to investigate, not an established universal transition."
+      },
+      "baseline_scope": {
+        "author_period_and_domain": "Freeman’s separate 1999 practitioner assessment of developments since Solomon’s principal study. A later example cannot independently validate the asserted earlier learning trajectory; the claim-specific qualification below also applies.",
+        "claim_specific_qualification": "Commercial issue mix and bargaining power may explain the difference as well as learning. The chapter offers no transaction-level dataset; this is a hypothesis to investigate, not an established universal transition."
+      },
+      "verdict": "unresolved",
+      "tested_component": "Incremental changes are documented; a learned adjustment to American midpoint expectations is not.",
+      "supporting_evidence": [
+        {
+          "dossier": "cases/wto-1999-chinese-reconstruction.md",
+          "source_ids": [
+            "CN-WTO-B3"
+          ],
+          "observation": "November 12 Chinese and November 12–13 American papers change specific parameters conditionally.",
+          "limit": "Detailed offers, not a dataset of opening anchors."
+        }
+      ],
+      "contrary_or_limiting_evidence": [
+        {
+          "dossier": "cases/eu-wto-2000-comparison.md",
+          "source_ids": [
+            "EWT-01",
+            "EWT-03"
+          ],
+          "observation": "European bargaining also adjusted timing and compensating terms while ceilings held.",
+          "limit": ""
+        }
+      ],
+      "unresolved_remainder": "No before/after record establishes adoption of an American split-the-difference convention. Issue mix, bargaining power and package design remain alternatives; incrementality alone cannot verify Freeman’s mechanism."
+    },
+    {
+      "id": "S-P01",
+      "baseline": {
+        "id": "S-P01",
+        "pages": "57–58, 75–76, 147–151",
+        "claim": "PRC political negotiations commonly progress from relationship and agenda construction, through extended assessment, to a brief agreement-making phase and subsequent implementation bargaining.",
+        "evidence_type": "Interview-derived synthesis; process diagram; selected memcon excerpts and memoir cases as reproduced by Solomon.",
+        "historical_anchor": "Shanghai Communiqué negotiations, 1971–1972; normalization agreement, 1978; Taiwan arms-sales communiqué, 1981–1982.",
+        "test": "Reconstruct dated interactions before applying stage labels. Measure order, overlap, repetition, and the duration of each proposed phase across successful, failed, and suspended negotiations. Test whether this sequence distinguishes PRC cases from counterpart practice or simply describes bargaining generally.",
+        "caveat": "The chapter selects a few major agreements and repeatedly reuses them. The endgame admits abortion or continued bargaining. Cultural and institutional interpretations are not independently established by the regularity of a reconstructed sequence. Do not count repeated references to one episode as independent cases."
+      },
+      "baseline_scope": {
+        "author_period_and_domain": "Principal empirical period 1967–1984, principally American–Chinese high political negotiation while Beijing sought a constructive relationship; application to future confrontation was explicitly left open. The claim-specific qualification below also applies.",
+        "claim_specific_qualification": "The chapter selects a few major agreements and repeatedly reuses them. The endgame admits abortion or continued bargaining. Cultural and institutional interpretations are not independently established by the regularity of a reconstructed sequence. Do not count repeated references to one episode as independent cases."
+      },
+      "verdict": "unresolved",
+      "tested_component": "Typical order, overlap and duration of the proposed stages within comparable political negotiations, including failed and suspended efforts.",
+      "supporting_evidence": [
+        {
+          "dossier": "cases/us-trade-2018-2020-us-reconstruction.md",
+          "source_ids": [
+            "TUS12",
+            "TUS15"
+          ],
+          "observation": "An announced but incomplete October package became a signed January instrument.",
+          "limit": "A sequence from incomplete announcement to signature does not measure the preceding stages or establish their typical duration."
+        },
+        {
+          "dossier": "cases/phase-one-implementation-2020-2026.md",
+          "source_ids": [
+            "POI01",
+            "POI03",
+            "POI04"
+          ],
+          "observation": "Implementation generated further senior exchanges.",
+          "limit": ""
+        }
+      ],
+      "contrary_or_limiting_evidence": [
+        {
+          "dossier": "cases/us-china-crisis-2023.md",
+          "source_ids": [
+            "C23-09",
+            "C23-15",
+            "C23-17"
+          ],
+          "observation": "Different channels moved at different speeds within the same relationship.",
+          "limit": "Different channels within one bilateral relationship are not necessarily stages of the same negotiation."
+        },
+        {
+          "dossier": "book/claims-assets-1973-primary-check.md",
+          "source_ids": [
+            "CLA04",
+            "CLA05",
+            "CLA10"
+          ],
+          "observation": "Senior movement did not produce closure in the reconstructed claims sequence.",
+          "limit": "The original model already allows unsuccessful endings; this case helps prevent selection only on signed agreements."
+        }
+      ],
+      "unresolved_remainder": "Stage order and typical duration remain unresolved. Define a bargaining object and its entry and exit points before assigning stages; include interrupted, failed and repeated sequences. The model remains a possible descriptive organizer, but neither selected successful chronologies nor failures already admitted by the original decide its empirical regularity.",
+      "original_text_qualification": "The table on Solomon p. 58 expressly allows concluding an agreement, reserving a position or aborting negotiation; p. 147 likewise describes alternatives to settlement. Failure to finish is therefore not by itself contrary evidence to his process model."
+    },
+    {
+      "id": "S-P02",
+      "baseline": {
+        "id": "S-P02",
+        "pages": "59–61, 111–112",
+        "claim": "PRC officials try to channel important negotiations through sympathetic foreign decision makers with senior access, sometimes bypassing or separating less congenial officials and advisers.",
+        "evidence_type": "Memcon excerpts; narrative reconstruction of personnel preferences; commercial anecdotes; author inference.",
+        "historical_anchor": "Mao–Nixon, February 21, 1972; Chinese preference for Kissinger conveyed through intermediaries in early 1971; Vance–Huang Hua, September 28, 1977; subsequent Brzezinski channel.",
+        "test": "Code requested participants, actual attendance, access to the top decision maker, channels excluded, and policy changes after rerouting. Distinguish routine protocol from unusual exclusion and test whether the preferred interlocutor actually grants more favorable terms.",
+        "caveat": "Solomon acknowledges that governments generally prefer friendly counterparts. Presidential access, substantive anti-Soviet alignment, and decision authority are practical explanations alongside guanxi. Physical isolation examples are principally commercial and should not automatically be generalized to summit diplomacy."
+      },
+      "baseline_scope": {
+        "author_period_and_domain": "Principal empirical period 1967–1984, principally American–Chinese high political negotiation while Beijing sought a constructive relationship; application to future confrontation was explicitly left open. The claim-specific qualification below also applies.",
+        "claim_specific_qualification": "Solomon acknowledges that governments generally prefer friendly counterparts. Presidential access, substantive anti-Soviet alignment, and decision authority are practical explanations alongside guanxi. Physical isolation examples are principally commercial and should not automatically be generalized to summit diplomacy."
+      },
+      "verdict": "unresolved",
+      "tested_component": "Preferred interlocutors and senior access versus policy leverage through channel selection.",
+      "supporting_evidence": [
+        {
+          "dossier": "reporting/kissinger-2023-intermediary-audit.md",
+          "source_ids": [
+            "K23-01",
+            "K23-02",
+            "K23-03"
+          ],
+          "observation": "Kissinger met senior Chinese leaders and a defense minister inaccessible through the sought official contact.",
+          "limit": ""
+        }
+      ],
+      "contrary_or_limiting_evidence": [
+        {
+          "dossier": "reporting/kissinger-2023-intermediary-audit.md",
+          "source_ids": [
+            "K23-04",
+            "K23-14"
+          ],
+          "observation": "His U.S. representation was explicitly denied; Xi had already met the serving secretary.",
+          "limit": ""
+        }
+      ],
+      "unresolved_remainder": "Observed access is retained. Deliberate exclusion to influence internal U.S. competition and more favorable terms remain unestablished; do not turn retired advisory access into authority."
+    },
+    {
+      "id": "S-P03",
+      "baseline": {
+        "id": "S-P03",
+        "pages": "61–65, 108–110",
+        "claim": "Hosting negotiations and managing hospitality, protocol, timing, and uncertainty can give PRC officials influence over visitors' mood, fatigue, and perceived control.",
+        "evidence_type": "Kissinger memoir passages; participant impressions; visit anecdotes; narrative comparison with older adversarial encounters.",
+        "historical_anchor": "Kissinger's July and October 1971 visits; October 1975 communiqué discussions before Ford's visit; Nixon's staged Ming Tombs encounter and Ford's incorrectly selected university song.",
+        "test": "Compare venues, control over schedules, delegation support, fatigue reports, and concessions. Seek documentation of intentional scheduling pressure. Test whether equivalent arrangements abroad or improved communications alter the pattern and whether repeated visitors become less susceptible.",
+        "caveat": "The book gives practical reasons for Beijing venues, including communications and access to decision makers. It records gaffes and visitor suspicion. Kissinger expressly could not distinguish tactical delay from leadership review in July 1971; perceived manipulation is not proof of intent."
+      },
+      "baseline_scope": {
+        "author_period_and_domain": "Principal empirical period 1967–1984, principally American–Chinese high political negotiation while Beijing sought a constructive relationship; application to future confrontation was explicitly left open. The claim-specific qualification below also applies.",
+        "claim_specific_qualification": "The book gives practical reasons for Beijing venues, including communications and access to decision makers. It records gaffes and visitor suspicion. Kissinger expressly could not distinguish tactical delay from leadership review in July 1971; perceived manipulation is not proof of intent."
+      },
+      "verdict": "unresolved",
+      "tested_component": "Ceremonial setting and scheduling as causes of mood, fatigue or perceived control.",
+      "supporting_evidence": [
+        {
+          "dossier": "reporting/kissinger-2023-intermediary-audit.md",
+          "source_ids": [
+            "K23-01"
+          ],
+          "observation": "The historical Diaoyutai setting was explicitly recognized by host and guest.",
+          "limit": ""
+        }
+      ],
+      "contrary_or_limiting_evidence": [
+        {
+          "dossier": "cases/ep3-2001.md",
+          "source_ids": [
+            "EP310",
+            "EP311",
+            "EP312"
+          ],
+          "observation": "Aircraft-return steps included material preparation and technical constraints.",
+          "limit": "Time consumed cannot automatically be coded as deliberate exhaustion."
+        }
+      ],
+      "unresolved_remainder": "Hospitality’s behavioral effects and intent are not reconstructed. Need contemporaneous visitor reactions connected to changed offers, and comparable venue/schedule controls."
+    },
+    {
+      "id": "S-P04",
+      "baseline": {
+        "id": "S-P04",
+        "pages": "65–71",
+        "claim": "PRC negotiators seek advantageous agenda wording and sequencing, and may withhold discussion of other issues to press a priority demand or protect relationships with allies.",
+        "evidence_type": "Memcon and intermediary-message excerpts; older negotiator memoirs; author reconstruction of agenda bargaining.",
+        "historical_anchor": "Stoessel–Lei, January 20 and February 20, 1970; Kissinger–Hilaly messages, December 1970–May 1971; Zhou–Kissinger, July 9 and 11, 1971; unsuccessful pressure on Ford in 1975.",
+        "test": "Record each side's initial agenda, changes, excluded topics, reasons given, and substantive outcome. Compare public and private agendas. Test whether topic linkage extracts concessions, stalls other cooperation, or protects an alliance without changing the counterpart's priority position.",
+        "caveat": "The final normalization dialogue included the broader security issues Washington sought. Agenda pressure failed to secure normalization under Ford. The chapter also attributes agenda precision to narrow instructions and preparation requirements, not only deliberate manipulation."
+      },
+      "baseline_scope": {
+        "author_period_and_domain": "Principal empirical period 1967–1984, principally American–Chinese high political negotiation while Beijing sought a constructive relationship; application to future confrontation was explicitly left open. The claim-specific qualification below also applies.",
+        "claim_specific_qualification": "The final normalization dialogue included the broader security issues Washington sought. Agenda pressure failed to secure normalization under Ford. The chapter also attributes agenda precision to narrow instructions and preparation requirements, not only deliberate manipulation."
+      },
+      "verdict": "retain within tested scope",
+      "tested_component": "Observable agenda separation and conditional sequencing, without assuming successful coercion.",
+      "supporting_evidence": [
+        {
+          "dossier": "cases/ep3-2001.md",
+          "source_ids": [
+            "EP303",
+            "EP306"
+          ],
+          "observation": "Crew departure, a future meeting and aircraft arrangements were distinguished from responsibility and reconnaissance positions.",
+          "limit": ""
+        },
+        {
+          "dossier": "cases/us-china-crisis-2023.md",
+          "source_ids": [
+            "C23-06",
+            "C23-11",
+            "C23-15"
+          ],
+          "observation": "Access to particular contacts became a disputed object.",
+          "limit": ""
+        }
+      ],
+      "contrary_or_limiting_evidence": [
+        {
+          "dossier": "cases/us-trade-2018-2020-us-reconstruction.md",
+          "source_ids": [
+            "TUS12"
+          ],
+          "observation": "Huawei was explicitly outside the partial trade agreement; agenda pressure did not absorb every issue into one bargain.",
+          "limit": ""
+        }
+      ],
+      "unresolved_remainder": "The practice is documented; who proposed a sequence and whether withholding one topic caused a concession elsewhere often remain unknown. Universal uniqueness is untested."
+    },
+    {
+      "id": "S-P05",
+      "baseline": {
+        "id": "S-P05",
+        "pages": "71–75, 128, 150–151",
+        "claim": "PRC political negotiators favor broad principles and flexible political documents, subsequently invoking those formulations to constrain the counterpart while retaining discretion over concrete arrangements.",
+        "evidence_type": "Memcon excerpts; communiqué descriptions; Freeman's 1975 analysis cited by Solomon; author interpretation of agreement form.",
+        "historical_anchor": "Deng–Bush, May 8, 1982; Huang Hua–Woodcock, July 7, 1978; Vance–Huang Hua, October 3, 1978; Shanghai and normalization communiqués; Zhao Ziyang's 1983 policy statement.",
+        "test": "Compare opening principles with final provisions, document type, specificity, enforcement arrangements, and later assertions of obligation. Include technically detailed negotiations and formal treaties. Identify when principles are declined, reinterpreted, or set aside and whether compromise still occurs.",
+        "caveat": "Solomon concedes agreements apparently inconsistent with early principles and American refusals to accept Chinese formulations. Relationship trust, uncertainty reduction, and tactical flexibility are competing explanations. A unilateral claim that a principle was violated is not proof of a mutually accepted obligation."
+      },
+      "baseline_scope": {
+        "author_period_and_domain": "Principal empirical period 1967–1984, principally American–Chinese high political negotiation while Beijing sought a constructive relationship; application to future confrontation was explicitly left open. The claim-specific qualification below also applies.",
+        "claim_specific_qualification": "Solomon concedes agreements apparently inconsistent with early principles and American refusals to accept Chinese formulations. Relationship trust, uncertainty reduction, and tactical flexibility are competing explanations. A unilateral claim that a principle was violated is not proof of a mutually accepted obligation."
+      },
+      "verdict": "unresolved",
+      "tested_component": "The conjunction of preference for flexible political formulations, later invocation against the counterpart, and preservation of Chinese discretion.",
+      "supporting_evidence": [
+        {
+          "dossier": "cases/us-china-crisis-2023.md",
+          "source_ids": [
+            "C23-14",
+            "C23-16",
+            "C23-18"
+          ],
+          "observation": "Public Chinese demands invoked principles and earlier assurances.",
+          "limit": "This demonstrates framing and invocation, not shared acceptance of the asserted meaning or a change forced on the counterpart."
+        }
+      ],
+      "contrary_or_limiting_evidence": [
+        {
+          "dossier": "cases/wto-ds379-legal-process.md",
+          "source_ids": [
+            "DS379-07"
+          ],
+          "observation": "A precise procedural agreement preserved avenues for continued legal dispute.",
+          "limit": "A precise legal procedure can coexist with a preference for broad political understandings in other negotiations."
+        },
+        {
+          "dossier": "cases/agricultural-approvals-implementation.md",
+          "source_ids": [
+            "AG06",
+            "AG07",
+            "AG01"
+          ],
+          "observation": "Detailed review-process provisions existed before and within Phase One.",
+          "limit": "Regulatory specificity does not independently test the claimed political preference or asymmetric use of accepted principles."
+        }
+      ],
+      "unresolved_remainder": "The full preference-and-constraint mechanism remains unresolved. Principles are invoked, but public readouts do not establish a preferred alternative, original shared meaning, effective constraint or the alleged asymmetry in retained discretion. Recover linked drafts and responses; preserve the original political scope rather than treating it as a new correction.",
+      "original_text_qualification": "Solomon p. 151 expressly discusses a preference in political agreements. His earlier discussion allows concrete compromise and refusal or violation of principles. The presence of legal or technical detail does not by itself narrow an unqualified universal claim, because that was not the original proposition."
+    },
+    {
+      "id": "S-P06",
+      "baseline": {
+        "id": "S-P06",
+        "pages": "75–77",
+        "claim": "PRC negotiators often seek a comprehensive account of the counterpart's position before revealing their own, even when the host–guest justification changes with the venue.",
+        "evidence_type": "Direct memcon excerpts; narrative descriptions of negotiating exchanges; explicit exception in footnote 21.",
+        "historical_anchor": "Zhou–Kissinger, July 9, 1971; Huang Hua–Woodcock, July 5 and July 14, 1978; Geng–Brown, January 7, 1980; Kissinger–Qiao, October 8, 1976.",
+        "test": "Code who presents the first substantive offer, who asks for further detail, whether presentation is reciprocal, and when Chinese instructions appear fixed. Compare informational advantage with the practical need to obtain a documented foreign position for superiors.",
+        "caveat": "Footnote 21 says Chinese officials may present first when tasked with establishing a principle or limiting discussion. The behavior is an information-seeking convention, not sufficient evidence of a unique national characteristic or of concessions obtained."
+      },
+      "baseline_scope": {
+        "author_period_and_domain": "Principal empirical period 1967–1984, principally American–Chinese high political negotiation while Beijing sought a constructive relationship; application to future confrontation was explicitly left open. The claim-specific qualification below also applies.",
+        "claim_specific_qualification": "Footnote 21 says Chinese officials may present first when tasked with establishing a principle or limiting discussion. The behavior is an information-seeking convention, not sufficient evidence of a unique national characteristic or of concessions obtained."
+      },
+      "verdict": "untested",
+      "tested_component": "Obtaining the other side’s comprehensive opening position before disclosing China’s own, including host/guest rationales.",
+      "supporting_evidence": [],
+      "contrary_or_limiting_evidence": [],
+      "unresolved_remainder": "No later paired transcript sample in this corpus tests speaking order and information gained. Final offers and leader readouts cannot substitute for the first-exchange sequence."
+    },
+    {
+      "id": "S-P07",
+      "baseline": {
+        "id": "S-P07",
+        "pages": "77–79, 84–87, 89, 121–122",
+        "claim": "PRC officials sometimes use underspecified formulations, analogies, indirect signals, or apparent misunderstanding to elicit a concrete response while limiting their own immediate commitment.",
+        "evidence_type": "Memcon excerpts; memoir-based narrative; author interpretations of symbolism; one short subsection without a developed example.",
+        "historical_anchor": "Stoessel–Lei Yang, February 20, 1970; Mao–Kissinger and Zhou–Kissinger, November 12–14, 1973; Zhou–Nixon, February 23, 1972; Ji Chaozhu–U.S. Embassy Officer, March 2, 1982.",
+        "test": "Preserve literal Chinese and English wording before assigning a hidden meaning. Compare the counterpart's interpretation with later clarification, instructions, or offers. Test ambiguity against genuine uncertainty, translation problems, or limited authorization, and record unsuccessful or missed signals.",
+        "caveat": "The chapter sometimes marks these meanings as conjectural. Its playing-dumb subsection lacks a dated illustrative case. Cultural explanations of indirection do not exclude ordinary exploratory bargaining, and both sides can overinterpret symbolism."
+      },
+      "baseline_scope": {
+        "author_period_and_domain": "Principal empirical period 1967–1984, principally American–Chinese high political negotiation while Beijing sought a constructive relationship; application to future confrontation was explicitly left open. The claim-specific qualification below also applies.",
+        "claim_specific_qualification": "The chapter sometimes marks these meanings as conjectural. Its playing-dumb subsection lacks a dated illustrative case. Cultural explanations of indirection do not exclude ordinary exploratory bargaining, and both sides can overinterpret symbolism."
+      },
+      "verdict": "unresolved",
+      "tested_component": "Intentional underspecification used to elicit a response while retaining discretion.",
+      "supporting_evidence": [
+        {
+          "dossier": "cases/russia-gas-bargaining.md",
+          "source_ids": [
+            "RUS-G18",
+            "RUS-G29"
+          ],
+          "observation": "Chinese public responses give limited detail on commercial gas arrangements.",
+          "limit": "Sparse disclosure is only a candidate observation, not direct evidence of projective testing."
+        }
+      ],
+      "contrary_or_limiting_evidence": [
+        {
+          "dossier": "reporting/kissinger-2023-intermediary-audit.md",
+          "source_ids": [
+            "K23-02"
+          ],
+          "observation": "The public account explicitly identifies no public office and names topics without operational details.",
+          "limit": "Confidentiality, mandate limits and incomplete agreement explain omissions without a tactical probe."
+        }
+      ],
+      "unresolved_remainder": "No dated probe–response–clarification chain establishes the proposed mechanism. Final-text precision neither verifies nor refutes indirect exploratory bargaining."
+    },
+    {
+      "id": "S-P08",
+      "baseline": {
+        "id": "S-P08",
+        "pages": "79–84",
+        "claim": "Trusted intermediaries and lower-level or informal channels can convey sensitive positions, test ideas, and insulate senior leaders from direct confrontation.",
+        "evidence_type": "Intermediary-message and memcon excerpts; official-channel descriptions; one explicitly personal recollection.",
+        "historical_anchor": "Kissinger–Hilaly, December 9, 1970; Pakistan's role in the opening; Haig–Zhang Wenjin, September 22, 1981; Allen–Chai, October 2, 1981; Zhang–Hummel, December 4 and 22, 1981.",
+        "test": "Map senders, carriers, audiences, authority, deniability, and subsequent incorporation into official positions. Compare intermediary selection with available alternatives. Test whether the channel reduces confrontation, communicates genuine flexibility, or simply duplicates the formal position.",
+        "caveat": "Trust and guanxi coexist with secrecy, access, common interests, and availability. Footnote 36 explicitly compares informal exchanges with U.S.–Soviet practice. A reported private message does not establish authorized policy unless its provenance can be verified."
+      },
+      "baseline_scope": {
+        "author_period_and_domain": "Principal empirical period 1967–1984, principally American–Chinese high political negotiation while Beijing sought a constructive relationship; application to future confrontation was explicitly left open. The claim-specific qualification below also applies.",
+        "claim_specific_qualification": "Trust and guanxi coexist with secrecy, access, common interests, and availability. Footnote 36 explicitly compares informal exchanges with U.S.–Soviet practice. A reported private message does not establish authorized policy unless its provenance can be verified."
+      },
+      "verdict": "unresolved",
+      "tested_component": "Trusted-channel transmission and its effect, distinguished from access and ordinary consultation.",
+      "supporting_evidence": [
+        {
+          "dossier": "cases/climate-2009-2015.md",
+          "source_ids": [
+            "CLI06"
+          ],
+          "observation": "Stern describes specialist trust and confidential preparation of bilateral climate announcements.",
+          "limit": "One retrospective participant account."
+        }
+      ],
+      "contrary_or_limiting_evidence": [
+        {
+          "dossier": "reporting/kissinger-2023-intermediary-audit.md",
+          "source_ids": [
+            "K23-04",
+            "K23-06",
+            "K23-10"
+          ],
+          "observation": "Public private-status denial, anticipated debrief and acknowledged advice provide no July message-to-instruction chain.",
+          "limit": ""
+        }
+      ],
+      "unresolved_remainder": "Recover paired messages, permissions and responses. Informality may be useful without being uniquely Chinese or an authorized substitute for official negotiation."
+    },
+    {
+      "id": "S-P09",
+      "baseline": {
+        "id": "S-P09",
+        "pages": "87–89",
+        "claim": "Humor, self-deprecation, and acknowledgment of minor errors can build rapport or preempt criticism, making later changes in tone more salient to foreign counterparts.",
+        "evidence_type": "Memcon excerpts; Nixon and Kissinger memoir impressions; American interview recollections.",
+        "historical_anchor": "Mao–Nixon, February 21, 1972; Deng's apology to George Bush in the Deng–Kissinger record, October 19, 1975; Kissinger–Qiao, November 13, 1972.",
+        "test": "Trace changes in conversational tone, participant perceptions, and substantive bargaining in the same relationship. Compare first-time and experienced counterparts and different Chinese officials. Seek evidence connecting rapport to an identifiable concession rather than treating personal warmth as success.",
+        "caveat": "Politeness, sincere error correction, personality, and shared humor are alternatives to calculated influence. The chapter's comparisons with Soviet humor are subjective and do not independently establish national cultural differences."
+      },
+      "baseline_scope": {
+        "author_period_and_domain": "Principal empirical period 1967–1984, principally American–Chinese high political negotiation while Beijing sought a constructive relationship; application to future confrontation was explicitly left open. The claim-specific qualification below also applies.",
+        "claim_specific_qualification": "Politeness, sincere error correction, personality, and shared humor are alternatives to calculated influence. The chapter's comparisons with Soviet humor are subjective and do not independently establish national cultural differences."
+      },
+      "verdict": "unresolved",
+      "tested_component": "Humor or self-deprecation producing rapport that changes later expectations or concessions.",
+      "supporting_evidence": [
+        {
+          "dossier": "cases/wto-1999-us-reconstruction.md",
+          "source_ids": [
+            "US-APR08-PRESS"
+          ],
+          "observation": "Zhu’s public gift/campaign-contribution joke accompanied a substantive argument about Chinese reform interests.",
+          "limit": "A public joke is the observed component, not a measured effect."
+        }
+      ],
+      "contrary_or_limiting_evidence": [],
+      "unresolved_remainder": "No linked evidence shows humor altered a counterpart’s expectations or subsequent offer. There is no independent contrary test; absence of that link is not proof humor has no effect."
+    },
+    {
+      "id": "S-P10",
+      "baseline": {
+        "id": "S-P10",
+        "pages": "90–93, 97–100",
+        "claim": "PRC leaders use relations with third powers and rival foreign political figures to advertise alternatives, influence the counterpart's sense of dependence, and improve their bargaining position.",
+        "evidence_type": "Memcon excerpts; contemporary event narratives; strategic interpretation, including explicitly conditional reasoning about 1969.",
+        "historical_anchor": "Zhou–Kissinger, July 10–11, 1971; Deng–Kissinger, November 26, 1974; Mao–Kissinger, October 21, 1975; Kissinger–Huang Zhen, August 18, 1976; Reagan's meetings with PRC leaders, April 27, 1984.",
+        "test": "Establish the alternative relationship's independent value, its timing relative to bargaining, explicit references to it, and counterpart responses. Compare genuine policy shifts with demonstrative gestures and distinguish domestic political rivals from international alternatives.",
+        "caveat": "The proposed role of the March 1969 clashes in creating a wider coalition is conditional in Solomon's account. Domestic politics and genuine security interests also explain third-party actions. The Soviet helicopter-release footnote expressly leaves its internal dynamics unresolved."
+      },
+      "baseline_scope": {
+        "author_period_and_domain": "Principal empirical period 1967–1984, principally American–Chinese high political negotiation while Beijing sought a constructive relationship; application to future confrontation was explicitly left open. The claim-specific qualification below also applies.",
+        "claim_specific_qualification": "The proposed role of the March 1969 clashes in creating a wider coalition is conditional in Solomon's account. Domestic politics and genuine security interests also explain third-party actions. The Soviet helicopter-release footnote expressly leaves its internal dynamics unresolved."
+      },
+      "verdict": "unresolved",
+      "tested_component": "Advertising third-power alternatives to change the counterpart’s perceived dependence.",
+      "supporting_evidence": [
+        {
+          "dossier": "cases/russia-gas-bargaining.md",
+          "source_ids": [
+            "RUS-G09",
+            "RUS-G13"
+          ],
+          "observation": "Analyses identify alternative suppliers and Russia’s changing external outlets.",
+          "limit": "Material alternatives do not prove a deliberate message or its reception."
+        }
+      ],
+      "contrary_or_limiting_evidence": [
+        {
+          "dossier": "book/normalization-1978-primary-check.md",
+          "source_ids": [
+            "NOR-163"
+          ],
+          "observation": "American diplomacy also introduced summit sequence and the Soviet relationship.",
+          "limit": "A counterpart comparison, not a refutation of Chinese use."
+        }
+      ],
+      "unresolved_remainder": "Need a dated Chinese invocation, recipient belief update and altered terms. The corpus does not isolate leverage from real security/economic interests or third-party agency."
+    },
+    {
+      "id": "S-P11",
+      "baseline": {
+        "id": "S-P11",
+        "pages": "75–76, 93–95",
+        "claim": "PRC officials may delay substantive movement until leadership conditions or the wider strategic context permit a more favorable agreement, preserving talks in the meantime.",
+        "evidence_type": "Memcon excerpts; historical narrative; informal comments as reported by the author; retrospective causal interpretation.",
+        "historical_anchor": "Vance's August 1977 Beijing visit; Huang Hua–Woodcock, November 14, 1977; Pu Shouchang–Hummel, March 18, 1982; Zhang Zai–Freeman, March 22, 1982; Pu Shouchang–Freeman, March 24, 1982.",
+        "test": "Reconstruct periods of inactivity against changes in instructions, leadership authority, substantive positions, and external conditions. Identify evidence that an acceptable agreement existed but was deliberately deferred. Compare deliberate waiting with bureaucratic processing or irreconcilable interests.",
+        "caveat": "Observed slowness does not identify its cause. The chapter relies partly on hindsight and foreign officials' interpretations of internal politics; apparent rigidity may reflect substantive preference rather than leadership conflict or a calculated delay."
+      },
+      "baseline_scope": {
+        "author_period_and_domain": "Principal empirical period 1967–1984, principally American–Chinese high political negotiation while Beijing sought a constructive relationship; application to future confrontation was explicitly left open. The claim-specific qualification below also applies.",
+        "claim_specific_qualification": "Observed slowness does not identify its cause. The chapter relies partly on hindsight and foreign officials' interpretations of internal politics; apparent rigidity may reflect substantive preference rather than leadership conflict or a calculated delay."
+      },
+      "verdict": "unresolved",
+      "tested_component": "Deliberate preservation of talks until leadership or strategic circumstances improve.",
+      "supporting_evidence": [
+        {
+          "dossier": "cases/russia-gas-bargaining.md",
+          "source_ids": [
+            "RUS-G14",
+            "RUS-G17",
+            "RUS-G28"
+          ],
+          "observation": "Talks and political endorsement continued while commercial closure remained incomplete.",
+          "limit": ""
+        }
+      ],
+      "contrary_or_limiting_evidence": [
+        {
+          "dossier": "cases/agricultural-approvals-implementation.md",
+          "source_ids": [
+            "AG09",
+            "AG16",
+            "AG05"
+          ],
+          "observation": "Technical review and a similarly long EU process illustrate alternatives to strategic waiting.",
+          "limit": ""
+        },
+        {
+          "dossier": "cases/eu-wto-2000-comparison.md",
+          "source_ids": [
+            "EWT-01"
+          ],
+          "observation": "A counterpart’s missing authorization also delayed settlement.",
+          "limit": ""
+        }
+      ],
+      "unresolved_remainder": "Duration and eventual agreement cannot identify intentional delay. Need earlier acceptable offers, instructions to wait and the strategic or leadership change that released them."
+    },
+    {
+      "id": "S-P12",
+      "baseline": {
+        "id": "S-P12",
+        "pages": "95–96, 148, 150–151",
+        "claim": "PRC negotiators can obtain partial agreements while explicitly reserving unresolved positions, and can preserve compromise options through wording that avoids a conspicuous reversal.",
+        "evidence_type": "Agreement and memcon descriptions; interpretive discussion of credibility; strategic analogy without a standalone example.",
+        "historical_anchor": "Unilateral paragraphs in the Shanghai Communiqué; Deng–Woodcock, December 15, 1978; Hua Guofeng's unilateral statement following normalization.",
+        "test": "List issues settled, deferred, expressly reserved, or left ambiguous. Track whether later demands invoke those reservations and whether deferral stabilizes cooperation or increases leverage. Compare public rigidity with actual draft revisions and compromises.",
+        "caveat": "An explicit reservation is not concealment and does not show agreement on the reserved issue. Solomon admits that normalization was not a fully specified plan and contrasts political credibility concerns with commercial retreats. The Sun-tzu explanation is an analogy, not demonstrated transmission of a military rule."
+      },
+      "baseline_scope": {
+        "author_period_and_domain": "Principal empirical period 1967–1984, principally American–Chinese high political negotiation while Beijing sought a constructive relationship; application to future confrontation was explicitly left open. The claim-specific qualification below also applies.",
+        "claim_specific_qualification": "An explicit reservation is not concealment and does not show agreement on the reserved issue. Solomon admits that normalization was not a fully specified plan and contrasts political credibility concerns with commercial retreats. The Sun-tzu explanation is an analogy, not demonstrated transmission of a military rule."
+      },
+      "verdict": "retain within tested scope",
+      "tested_component": "Partial agreement with explicitly reserved issues; face-preserving wording treated as a separate unproved component.",
+      "supporting_evidence": [
+        {
+          "dossier": "book/normalization-1978-primary-check.md",
+          "source_ids": [
+            "NOR-170",
+            "NOR-172"
+          ],
+          "observation": "Normalization proceeded while U.S. arms sales remained expressly disputed.",
+          "limit": ""
+        },
+        {
+          "dossier": "cases/ep3-2001.md",
+          "source_ids": [
+            "EP303",
+            "EP306"
+          ],
+          "observation": "Crew departure did not settle responsibility or all aircraft arrangements.",
+          "limit": ""
+        },
+        {
+          "dossier": "cases/russia-border-settlement.md",
+          "source_ids": [
+            "RUS-T1991-CN",
+            "RUS-T2004"
+          ],
+          "observation": "Reserved boundary areas were settled in a later instrument.",
+          "limit": ""
+        }
+      ],
+      "contrary_or_limiting_evidence": [
+        {
+          "dossier": "cases/us-trade-2018-2020-us-reconstruction.md",
+          "source_ids": [
+            "TUS12"
+          ],
+          "observation": "Enforcement was still substantively incomplete after the partial package was announced.",
+          "limit": "A partial announcement is not a completed agreement on its own reserved terms."
+        }
+      ],
+      "unresolved_remainder": "Retain demonstrated partial settlement, not an inferred mechanism of saving face or concealed future concessions. Establish each reservation and its subsequent treatment separately."
+    },
+    {
+      "id": "S-P13",
+      "baseline": {
+        "id": "S-P13",
+        "pages": "104–108",
+        "claim": "PRC negotiators can increase pressure through explicit threats, limited costly confrontations, or expanded demands, with the form and willingness to act changing as the relationship develops.",
+        "evidence_type": "Narrative comparison across negotiation phases; American interview assessments; memcon-anchored cultural-exchange dispute.",
+        "historical_anchor": "Relative absence of overt threats before 1979 versus their prominence in the 1981 arms-sales dispute; Habib–Han Xu exchanges, March 19, 20, 23, and 25, 1975, preceding cancellation of a performing-arts tour.",
+        "test": "Record each threatened condition, consequence, material cost, implementation, retreat, and negotiated outcome. Test whether progressively disclosed requirements were new demands. Compare relationship stage, issue salience, domestic politics, and relative power as explanations for escalation.",
+        "caveat": "Solomon states both that threats were sometimes abandoned and that some were carried out. The 1975 tour failed, and its factional purpose is disputed within the chapter. Neither threat issuance nor a canceled exchange proves bargaining success."
+      },
+      "baseline_scope": {
+        "author_period_and_domain": "Principal empirical period 1967–1984, principally American–Chinese high political negotiation while Beijing sought a constructive relationship; application to future confrontation was explicitly left open. The claim-specific qualification below also applies.",
+        "claim_specific_qualification": "Solomon states both that threats were sometimes abandoned and that some were carried out. The 1975 tour failed, and its factional purpose is disputed within the chapter. Neither threat issuance nor a canceled exchange proves bargaining success."
+      },
+      "verdict": "retain within tested scope",
+      "tested_component": "Explicit pressure and conditional threats as conduct, not measured success or a national monopoly.",
+      "supporting_evidence": [
+        {
+          "dossier": "cases/us-trade-2018-2020-chinese-reconstruction.md",
+          "source_ids": [
+            "CN-TRADE-STATEMENT20180603"
+          ],
+          "observation": "China conditioned negotiated outcomes on the absence of additional U.S. sanctions/tariffs.",
+          "limit": ""
+        },
+        {
+          "dossier": "cases/us-china-crisis-2023.md",
+          "source_ids": [
+            "C23-06",
+            "C23-11"
+          ],
+          "observation": "Defense contact was publicly withheld under political conditions.",
+          "limit": ""
+        }
+      ],
+      "contrary_or_limiting_evidence": [
+        {
+          "dossier": "cases/us-trade-2018-2020-us-reconstruction.md",
+          "source_ids": [
+            "TUS03",
+            "TUS04",
+            "TUS09"
+          ],
+          "observation": "The United States also used and implemented tariff pressure; its deadlines and demands changed.",
+          "limit": ""
+        }
+      ],
+      "unresolved_remainder": "Retain the repertoire. Specific Chinese concessions extracted through a threat, calibrated military coercion and relationship-driven changes in threat effectiveness require separate causal evidence."
+    },
+    {
+      "id": "S-P14",
+      "baseline": {
+        "id": "S-P14",
+        "pages": "100–102",
+        "claim": "Foreign officials invested in a positive relationship with China may receive concentrated pressure because PRC leaders expect them to work hardest to preserve it.",
+        "evidence_type": "Memcon and letter excerpts; narrative accounts of visits; author interpretation of reputational and relational incentives.",
+        "historical_anchor": "Kissinger's treatment during the 1975 Ford-visit preparations; Bush's August 1980 visit; Deng–Bush, May 8, 1982; Zhao–Bush letter, January 20, 1981.",
+        "test": "Compare pressure on established friends and skeptical officials facing the same issue, controlling for office, access, and negotiating authority. Measure whether friendly status brings greater access, harsher demands, more concessions, or improved ability to resist pressure.",
+        "caveat": "Guanxi is Solomon's principal cultural explanation, but reputational investment and expected policy influence offer practical alternatives. The chapter also reports PRC weakness in reaching hostile Americans, so concentrated contact may reflect access limitations rather than superior manipulation."
+      },
+      "baseline_scope": {
+        "author_period_and_domain": "Principal empirical period 1967–1984, principally American–Chinese high political negotiation while Beijing sought a constructive relationship; application to future confrontation was explicitly left open. The claim-specific qualification below also applies.",
+        "claim_specific_qualification": "Guanxi is Solomon's principal cultural explanation, but reputational investment and expected policy influence offer practical alternatives. The chapter also reports PRC weakness in reaching hostile Americans, so concentrated contact may reflect access limitations rather than superior manipulation."
+      },
+      "verdict": "unresolved",
+      "tested_component": "Concentrated pressure on friendly officials because of their investment in the relationship.",
+      "supporting_evidence": [
+        {
+          "dossier": "reporting/kissinger-2023-intermediary-audit.md",
+          "source_ids": [
+            "K23-01",
+            "K23-02"
+          ],
+          "observation": "A sympathetic old interlocutor was urged to contribute to better relations.",
+          "limit": ""
+        }
+      ],
+      "contrary_or_limiting_evidence": [
+        {
+          "dossier": "reporting/kissinger-2023-intermediary-audit.md",
+          "source_ids": [
+            "K23-04",
+            "K23-10"
+          ],
+          "observation": "Private status and acknowledged advice do not demonstrate pressured concession or fear of losing status.",
+          "limit": ""
+        }
+      ],
+      "unresolved_remainder": "No recovered comparison of friendly and hostile counterparts identifies differential pressure or its effect. Availability and policy affinity remain sufficient alternatives."
+    },
+    {
+      "id": "S-P15",
+      "baseline": {
+        "id": "S-P15",
+        "pages": "103–104, 106–108, 112",
+        "claim": "PRC leaders can invoke popular sentiment or the political vulnerability of accommodating officials as a limit on their flexibility and a reason for the counterpart to concede.",
+        "evidence_type": "Memcon excerpts; author interpretation of domestic political constraints; competing explanations of the 1975 cultural dispute.",
+        "historical_anchor": "Deng–Haig, June 16, 1981; Deng–Mondale, November 22, 1981; 1975 performing-arts dispute; post-Mao references to public feelings on Taiwan.",
+        "test": "Compare claims of domestic constraint with available evidence of elite disagreement, institutional authorization, public mobilization, and later policy change. Distinguish a real constraint, selective presentation of one, and an unsupported bargaining assertion.",
+        "caveat": "Solomon explicitly cannot determine whether some warnings are hollow and compares them with American invocation of Congress. The asserted change in popular influence under Deng is a period-specific interpretation, not a general model of how public opinion controls PRC policy."
+      },
+      "baseline_scope": {
+        "author_period_and_domain": "Principal empirical period 1967–1984, principally American–Chinese high political negotiation while Beijing sought a constructive relationship; application to future confrontation was explicitly left open. The claim-specific qualification below also applies.",
+        "claim_specific_qualification": "Solomon explicitly cannot determine whether some warnings are hollow and compares them with American invocation of Congress. The asserted change in popular influence under Deng is a period-specific interpretation, not a general model of how public opinion controls PRC policy."
+      },
+      "verdict": "unresolved",
+      "tested_component": "Invoking public sentiment or an accommodating official’s vulnerability to induce concessions.",
+      "supporting_evidence": [
+        {
+          "dossier": "cases/wto-1999-chinese-reconstruction.md",
+          "source_ids": [
+            "CN-WTO-G1"
+          ],
+          "observation": "The Chinese published accession narrative associates the post-bombing pause with dignity.",
+          "limit": "Editorial interpretation, not an internal instruction or complete public-opinion record."
+        }
+      ],
+      "contrary_or_limiting_evidence": [
+        {
+          "dossier": "cases/wto-1999-us-reconstruction.md",
+          "source_ids": [
+            "US-NOV15-BERGER"
+          ],
+          "observation": "American officials invoked independent congressional authority.",
+          "limit": "Actual institutional constraint and tactical invocation can coexist on either side."
+        }
+      ],
+      "unresolved_remainder": "Need the specific Chinese appeal, contemporaneous assessment of domestic constraint and foreign response. Neither later internet commentary nor a public dignity claim alone tests efficacy."
+    },
+    {
+      "id": "S-P16",
+      "baseline": {
+        "id": "S-P16",
+        "pages": "110–111, 139–140, 153–156",
+        "claim": "Negotiating tone varies with individuals, assigned roles, senior instructions, and domestic circumstances; alternating harder and more accommodating presentations can affect expectations about compromise.",
+        "evidence_type": "Memoir and interview impressions; memcon-based personality sketches; comparison of the same official across periods.",
+        "historical_anchor": "Huang Hua's accommodating role in Kissinger's early exchanges versus his harder presentation in 1978–1982; Zhou's deference to Mao; Qiao's October 1975 and October 8, 1976, encounters with Kissinger.",
+        "test": "Compare each individual's behavior across roles, issues, and leadership periods, and different negotiators operating under the same authority. Code tone separately from actual offer changes. Seek evidence of instructions before attributing a hard–soft pairing to orchestration.",
+        "caveat": "The chapter calls the hard–soft tactic universal and notes that Deng could be abrasive while Huang could be conciliatory. The portraits are American-facing and partly impressionistic. Unresolved Mao–Zhou politics limit certainty about who directed every presentation."
+      },
+      "baseline_scope": {
+        "author_period_and_domain": "Principal empirical period 1967–1984, principally American–Chinese high political negotiation while Beijing sought a constructive relationship; application to future confrontation was explicitly left open. The claim-specific qualification below also applies.",
+        "claim_specific_qualification": "The chapter calls the hard–soft tactic universal and notes that Deng could be abrasive while Huang could be conciliatory. The portraits are American-facing and partly impressionistic. Unresolved Mao–Zhou politics limit certainty about who directed every presentation."
+      },
+      "verdict": "unresolved",
+      "tested_component": "Variation in tone across individuals, instructions and roles, and its effect on expectations.",
+      "supporting_evidence": [
+        {
+          "dossier": "cases/climate-2009-2015.md",
+          "source_ids": [
+            "CLI05"
+          ],
+          "observation": "Conrad’s interviews describe a shift from climate specialists to the premier’s foreign-policy team.",
+          "limit": "Retrospective explanatory account without released mandates."
+        }
+      ],
+      "contrary_or_limiting_evidence": [
+        {
+          "dossier": "reporting/kissinger-2023-intermediary-audit.md",
+          "source_ids": [
+            "K23-02"
+          ],
+          "observation": "Warm personal presentation coexisted with firm substantive demands.",
+          "limit": ""
+        }
+      ],
+      "unresolved_remainder": "No sufficiently paired same-person or assigned-role comparison establishes orchestrated hard–soft tactics or a resulting concession. Tone and proposal changes must be coded separately."
+    },
+    {
+      "id": "S-P17",
+      "baseline": {
+        "id": "S-P17",
+        "pages": "113–122",
+        "claim": "PRC officials use public communication around negotiations to establish agendas, raise or reduce expectations, advertise limits, and suggest openings, with different outlets offering different degrees of commitment.",
+        "evidence_type": "Press interviews and statements; memcon excerpts; memoir descriptions of media arrangements; author inferences about audience effects.",
+        "historical_anchor": "Carter–Deng, January 29, 1979; Deng–Kissinger, November 25, 1974; Deng–Ford, December 3, 1975; Haig–Huang Hua, October 30, 1981; Lin–Roy, July 25, 1978; Ji Chaozhu–U.S. Embassy Officer, March 2, 1982.",
+        "test": "Connect public messages to private offers and identified audiences. Code outlet authority for the relevant period and distinguish agenda effects, domestic defense, expectation management, and actual concessions. Include instances of preserved confidentiality and publicity that releases pressure.",
+        "caveat": "Solomon documents learning about television, failed expectation-raising, and respect for some confidentiality requests. The historical media hierarchy is not automatically valid later. His suggestion that a Chinese press criticism influenced the Mayaguez response is conjectural and needs independent causal evidence."
+      },
+      "baseline_scope": {
+        "author_period_and_domain": "Principal empirical period 1967–1984, principally American–Chinese high political negotiation while Beijing sought a constructive relationship; application to future confrontation was explicitly left open. The claim-specific qualification below also applies.",
+        "claim_specific_qualification": "Solomon documents learning about television, failed expectation-raising, and respect for some confidentiality requests. The historical media hierarchy is not automatically valid later. His suggestion that a Chinese press criticism influenced the Mayaguez response is conjectural and needs independent causal evidence."
+      },
+      "verdict": "retain within tested scope",
+      "tested_component": "Public communication used to characterize the agenda, prior obligations and permissible movement.",
+      "supporting_evidence": [
+        {
+          "dossier": "cases/us-trade-2018-2020-chinese-reconstruction.md",
+          "source_ids": [
+            "CN-TRADE-WP2018",
+            "CN-TRADE-WP2019",
+            "CN-TRADE-SCIO20191213"
+          ],
+          "observation": "White papers and briefing defended different stages of the negotiation.",
+          "limit": ""
+        },
+        {
+          "dossier": "cases/ep3-2001.md",
+          "source_ids": [
+            "EP303",
+            "EP304",
+            "EP305"
+          ],
+          "observation": "English and Chinese presentations supported immediate crew return while responsibility remained disputed.",
+          "limit": ""
+        }
+      ],
+      "contrary_or_limiting_evidence": [
+        {
+          "dossier": "cases/wto-1999-us-reconstruction.md",
+          "source_ids": [
+            "US-APR08-BRIEFING"
+          ],
+          "observation": "The U.S. publication dispute shows counterpart publicity and disputed effects too.",
+          "limit": ""
+        }
+      ],
+      "unresolved_remainder": "Retain observable public positioning. A contemporary outlet hierarchy, internal dissemination and causal effects on public pressure need direct evidence rather than projection of Solomon’s older media categories."
+    },
+    {
+      "id": "S-P18",
+      "baseline": {
+        "id": "S-P18",
+        "pages": "122–125",
+        "claim": "Rapid collection and internal circulation of foreign reporting can inform PRC bargaining while also generating domestic reactions that constrain negotiators or intensify later responses.",
+        "evidence_type": "Memcon excerpts; personal communications; press-based reconstruction of feedback; admitted uncertainty about editorial selection.",
+        "historical_anchor": "Zhang Wenjin–Holdridge, January 11, 1982; Zhang–Freeman, September 9, 1981; Deng–Haig, June 16, 1981; Deng–Mondale, November 22, 1981; June–July 1983 coverage of arms-sales protests.",
+        "test": "Trace what reporting reached which institutions, when, and with what interpretation. Compare foreign publication, Chinese internal circulation, subsequent official discussion, and policy response. Distinguish exposure to information from accurate understanding and from actual political constraint.",
+        "caveat": "Solomon says the selection procedures for internal publications were unknown. Some feedback mechanisms rely on private explanations or chronological inference. Abundant access to information does not prove unfiltered reporting to leaders or correct interpretation of a foreign political system."
+      },
+      "baseline_scope": {
+        "author_period_and_domain": "Principal empirical period 1967–1984, principally American–Chinese high political negotiation while Beijing sought a constructive relationship; application to future confrontation was explicitly left open. The claim-specific qualification below also applies.",
+        "claim_specific_qualification": "Solomon says the selection procedures for internal publications were unknown. Some feedback mechanisms rely on private explanations or chronological inference. Abundant access to information does not prove unfiltered reporting to leaders or correct interpretation of a foreign political system."
+      },
+      "verdict": "unresolved",
+      "tested_component": "Internal circulation and selection of foreign reporting causing a changed bargaining response.",
+      "supporting_evidence": [
+        {
+          "dossier": "cases/ep3-2001.md",
+          "source_ids": [
+            "EP319"
+          ],
+          "observation": "Jost’s institutional account offers an information-flow mechanism.",
+          "limit": "Selected scholarship and source-chain limits do not replace Chinese circulation records."
+        }
+      ],
+      "contrary_or_limiting_evidence": [
+        {
+          "dossier": "cases/us-china-crisis-2023.md",
+          "source_ids": [
+            "C23-20",
+            "C23-21"
+          ],
+          "observation": "American assessments of Xi’s possible ignorance are not direct Chinese evidence.",
+          "limit": "Later reports partly repeat the same assessment chain."
+        }
+      ],
+      "unresolved_remainder": "No acquired Chinese internal report and subsequent decision establish the feedback loop. Information availability, accuracy, transmission and political constraint remain separate variables."
+    },
+    {
+      "id": "S-P19",
+      "baseline": {
+        "id": "S-P19",
+        "pages": "105–106, 125–129, 140–143",
+        "claim": "PRC negotiators preserve and invoke the prior record, including protests and predecessors' words, but may restate disputed commitments in forms more favorable to their current position.",
+        "evidence_type": "Memcon excerpts; comparison of communiqué wording and later paraphrases; press statements and rebuttals; cultural interpretation of political language.",
+        "historical_anchor": "Deng–Vance, August 24, 1977; Haig–Huang Hua, October 23, 1981; Kissinger–Huang Zhen, January 8, 1977; Huang Hua–Woodcock, August 11, 1978; Han Nianlong–Woodcock, December 5, 1978; 1980–1981 dispute over alleged limits on Taiwan arms sales.",
+        "test": "Compare original bilingual texts, oral records, later paraphrases, and explicit objections. Code whether a claimed obligation was accepted, unilateral, tacit, or contested. Track whether protests are later invoked rather than interpreting repetition as immediate escalation.",
+        "caveat": "The chapter's translation and distortion allegations require checking against originals. Cultural claims about written Chinese do not independently explain document management. Table 2 is a set of contextual signaling hypotheses, not an automatic dictionary of intent. Solomon also acknowledges mutual overreading of symbols."
+      },
+      "baseline_scope": {
+        "author_period_and_domain": "Principal empirical period 1967–1984, principally American–Chinese high political negotiation while Beijing sought a constructive relationship; application to future confrontation was explicitly left open. The claim-specific qualification below also applies.",
+        "claim_specific_qualification": "The chapter's translation and distortion allegations require checking against originals. Cultural claims about written Chinese do not independently explain document management. Table 2 is a set of contextual signaling hypotheses, not an automatic dictionary of intent. Solomon also acknowledges mutual overreading of symbols."
+      },
+      "verdict": "retain within tested scope",
+      "tested_component": "Invocation of prior commitments; favorable restatement and distortion remain separate tests.",
+      "supporting_evidence": [
+        {
+          "dossier": "cases/us-trade-2018-2020-chinese-reconstruction.md",
+          "source_ids": [
+            "CN-TRADE-LIU201905"
+          ],
+          "observation": "Liu invoked an Argentina numerical understanding.",
+          "limit": ""
+        },
+        {
+          "dossier": "cases/india-border-2020-2024.md",
+          "source_ids": [
+            "IND-MEA-6534",
+            "IND-CN-2022-SUN",
+            "IND-MEA-35739"
+          ],
+          "observation": "Both sides used prior understandings while emphasizing different relationship obligations.",
+          "limit": ""
+        }
+      ],
+      "contrary_or_limiting_evidence": [
+        {
+          "dossier": "cases/us-trade-2018-2020-us-reconstruction.md",
+          "source_ids": [
+            "TUS05"
+          ],
+          "observation": "The U.S. dinner readout left purchases unquantified.",
+          "limit": ""
+        },
+        {
+          "dossier": "book/normalization-1978-primary-check.md",
+          "source_ids": [
+            "NOR-168",
+            "NOR-172"
+          ],
+          "observation": "Records distinguish common principles from unilateral positions and non-endorsement.",
+          "limit": ""
+        }
+      ],
+      "unresolved_remainder": "Retain invocation as interactive conduct. A discrepancy is not automatically strategic distortion; recover original agreed wording, reservations, translations and subsequent claims."
+    },
+    {
+      "id": "S-P20",
+      "baseline": {
+        "id": "S-P20",
+        "pages": "130–131, 134–135",
+        "claim": "Statements of independence, indifference, or foreign indebtedness can portray the counterpart as the party needing agreement and responsible for repairing the relationship.",
+        "evidence_type": "Memcon excerpts; rhetorical analysis; author inference concerning dependence and bargaining psychology.",
+        "historical_anchor": "Zhou–Kissinger, July 9–10, 1971; Qiao–Bush, November 4, 1975; Deng–Regan, November 19, 1981, on technology and the census computer.",
+        "test": "Compare declarations of low need with private priorities, outside options, urgency, and costly actions. Separate evidenced grievances over prior undertakings from attempts to generate guilt. Test whether the counterpart changes its estimate of leverage or makes a concession.",
+        "caveat": "Solomon interprets these claims through the relationship game and anxiety about dependence, but real asymmetries or genuine performance disputes may also explain them. Analyst disbelief is not a reliable measure of the speaker's actual valuation."
+      },
+      "baseline_scope": {
+        "author_period_and_domain": "Principal empirical period 1967–1984, principally American–Chinese high political negotiation while Beijing sought a constructive relationship; application to future confrontation was explicitly left open. The claim-specific qualification below also applies.",
+        "claim_specific_qualification": "Solomon interprets these claims through the relationship game and anxiety about dependence, but real asymmetries or genuine performance disputes may also explain them. Analyst disbelief is not a reliable measure of the speaker's actual valuation."
+      },
+      "verdict": "retain within tested scope",
+      "tested_component": "Publicly assigning repair responsibility and portraying Chinese cooperation as conditional on American conduct.",
+      "supporting_evidence": [
+        {
+          "dossier": "cases/us-china-crisis-2023.md",
+          "source_ids": [
+            "C23-06",
+            "C23-11",
+            "C23-14"
+          ],
+          "observation": "Chinese officials called for corrective U.S. action and appropriate conditions for contact.",
+          "limit": ""
+        }
+      ],
+      "contrary_or_limiting_evidence": [
+        {
+          "dossier": "reporting/kissinger-2023-intermediary-audit.md",
+          "source_ids": [
+            "K23-01",
+            "K23-02"
+          ],
+          "observation": "Chinese leaders also requested constructive advocacy and mutual improvement.",
+          "limit": "These are compatible with valuing the relationship, not proof of indifference."
+        }
+      ],
+      "unresolved_remainder": "Retain the public rhetorical practice. Actual private valuation, anxiety about dependence and whether the portrayal extracted concessions are unresolved."
+    },
+    {
+      "id": "S-P21",
+      "baseline": {
+        "id": "S-P21",
+        "pages": "131–134, 138–140",
+        "claim": "PRC officials use challenges to the counterpart's resolve, logic, motives, and policy consistency to contest its rationale and encourage behavior favorable to Chinese interests.",
+        "evidence_type": "Memcon excerpts; repeated rhetorical examples; author interpretations of intended policy effects.",
+        "historical_anchor": "Kissinger–Qiao, October 8, 1976; Huang Hua–Brzezinski, May 21, 1978; Deng–Kissinger, October 20, 1975; Geng–Brown, January 7, 1980; Deng–Fulbright congressional delegation, September 5, 1974; Deng–Vance, August 24, 1977.",
+        "test": "Code the specific criticism, the preceding foreign argument, factual merits, rebuttal, and subsequent offer or policy. Compare reciprocal use by the other side. Distinguish irritation or defensive speech from changes in negotiating behavior and final outcomes.",
+        "caveat": "Kissinger sometimes rejected the premise explicitly, and Deng's debunking could resist perceived American pressure. The chapter's linkage to dialectical reasoning is interpretive; similar forms of persuasion are internationally familiar and may express sincere substantive disagreement."
+      },
+      "baseline_scope": {
+        "author_period_and_domain": "Principal empirical period 1967–1984, principally American–Chinese high political negotiation while Beijing sought a constructive relationship; application to future confrontation was explicitly left open. The claim-specific qualification below also applies.",
+        "claim_specific_qualification": "Kissinger sometimes rejected the premise explicitly, and Deng's debunking could resist perceived American pressure. The chapter's linkage to dialectical reasoning is interpretive; similar forms of persuasion are internationally familiar and may express sincere substantive disagreement."
+      },
+      "verdict": "retain within tested scope",
+      "tested_component": "Challenges to policy consistency and motives as visible argumentation.",
+      "supporting_evidence": [
+        {
+          "dossier": "cases/us-trade-2018-2020-chinese-reconstruction.md",
+          "source_ids": [
+            "CN-TRADE-WP2018",
+            "CN-TRADE-WP2019"
+          ],
+          "observation": "China accused Washington of changing positions and making unacceptable demands.",
+          "limit": ""
+        },
+        {
+          "dossier": "reporting/kissinger-2023-intermediary-audit.md",
+          "source_ids": [
+            "K23-02"
+          ],
+          "observation": "Wang challenged the strategic logic of containing China.",
+          "limit": ""
+        }
+      ],
+      "contrary_or_limiting_evidence": [
+        {
+          "dossier": "cases/us-china-crisis-2023.md",
+          "source_ids": [
+            "C23-15"
+          ],
+          "observation": "Blinken maintained U.S. national-security restrictions and Taiwan policy despite Chinese demands.",
+          "limit": ""
+        }
+      ],
+      "unresolved_remainder": "The persuasion attempt is observed, not its success or derivation from distinctive dialectical reasoning. Sincere disagreement and familiar bargaining argument remain alternatives."
+    },
+    {
+      "id": "S-P22",
+      "baseline": {
+        "id": "S-P22",
+        "pages": "135–137",
+        "claim": "Openly specifying differences can coexist with limited cooperation, reassuring domestic and allied audiences while clarifying the common interests that sustain an agreement.",
+        "evidence_type": "Memcon excerpts; Kissinger memoir account of communiqué drafting; comparative interpretation of three periods of tension.",
+        "historical_anchor": "Mao–Kissinger, February 17–18, 1973; October 1971 Shanghai Communiqué drafting; Qiao–Bush, October 31, 1975; Deng–Ford, December 2, 1975.",
+        "test": "Compare public disagreement with private cooperation, agreement language, and audience reassurance. Identify the point at which differentiation preserves a deal or leads to breakdown. Test shared interests rather than tone as a predictor of continuing cooperation.",
+        "caveat": "Solomon distinguishes the domestic and strategic conditions of different episodes and credits compromise by both parties. The explanation does not imply that all harsh rhetoric is compatible with agreement or that disagreement is merely theatrical."
+      },
+      "baseline_scope": {
+        "author_period_and_domain": "Principal empirical period 1967–1984, principally American–Chinese high political negotiation while Beijing sought a constructive relationship; application to future confrontation was explicitly left open. The claim-specific qualification below also applies.",
+        "claim_specific_qualification": "Solomon distinguishes the domestic and strategic conditions of different episodes and credits compromise by both parties. The explanation does not imply that all harsh rhetoric is compatible with agreement or that disagreement is merely theatrical."
+      },
+      "verdict": "retain within tested scope",
+      "tested_component": "Explicit disagreement coexisting with a specified limited bargain.",
+      "supporting_evidence": [
+        {
+          "dossier": "book/normalization-1978-primary-check.md",
+          "source_ids": [
+            "NOR-170",
+            "NOR-172"
+          ],
+          "observation": "Both governments accepted normalization with the arms-sales disagreement preserved.",
+          "limit": ""
+        },
+        {
+          "dossier": "cases/us-china-crisis-2023.md",
+          "source_ids": [
+            "C23-17",
+            "C23-18"
+          ],
+          "observation": "Shared dialogue mechanisms coexisted with Taiwan and technology disputes.",
+          "limit": ""
+        },
+        {
+          "dossier": "cases/climate-2009-2015.md",
+          "source_ids": [
+            "CLI15",
+            "CLI17"
+          ],
+          "observation": "Different national responsibilities and common procedures coexist.",
+          "limit": ""
+        }
+      ],
+      "contrary_or_limiting_evidence": [
+        {
+          "dossier": "cases/ep3-2001.md",
+          "source_ids": [
+            "EP303",
+            "EP306"
+          ],
+          "observation": "Immediate practical resolution did not settle responsibility or future reconnaissance.",
+          "limit": "Limited cooperation does not imply the remaining disagreement is theatrical or harmless."
+        }
+      ],
+      "unresolved_remainder": "Retain coexistence. Domestic/allied reassurance as the cause of explicit disagreement and the conditions under which rhetoric prevents agreement remain unmeasured."
+    },
+    {
+      "id": "S-P23",
+      "baseline": {
+        "id": "S-P23",
+        "pages": "143–147",
+        "claim": "Control over the schedule and apparent willingness to wait can help PRC negotiators exploit the counterpart's deadline, but Chinese negotiators are also susceptible to time pressure.",
+        "evidence_type": "Memcon excerpts; memoir account of mutual deadline bargaining; comparison of Chinese, American, and British timing advantages.",
+        "historical_anchor": "Huang Hua–Woodcock, July 5 and 14, 1978; Qiao–Kissinger, February 24–25, 1972; Carter–Chai Zemin, September 19, 1978; Vance–Huang Hua, October 3, 1978; abandoned February 28, 1982, target; PRC Hong Kong deadline announcement, November 9, 1983.",
+        "test": "Identify who set each deadline, its credibility, who could walk away, timing of concessions, and consequences of expiry. Compare actual urgency with rhetoric of patience. Include deadlines ignored without agreement and cases in which Beijing faces greater time costs.",
+        "caveat": "Kissinger described both sides using the 1972 deadline. The United States declined an unfavorable deal in February 1982, and Solomon recognizes initial British time leverage over Hong Kong. Cultural reserve does not establish an inherent Chinese advantage in patience."
+      },
+      "baseline_scope": {
+        "author_period_and_domain": "Principal empirical period 1967–1984, principally American–Chinese high political negotiation while Beijing sought a constructive relationship; application to future confrontation was explicitly left open. The claim-specific qualification below also applies.",
+        "claim_specific_qualification": "Kissinger described both sides using the 1972 deadline. The United States declined an unfavorable deal in February 1982, and Solomon recognizes initial British time leverage over Hong Kong. Cultural reserve does not establish an inherent Chinese advantage in patience."
+      },
+      "verdict": "unresolved",
+      "tested_component": "Chinese schedule control producing favorable terms, with reciprocal vulnerability retained.",
+      "supporting_evidence": [
+        {
+          "dossier": "cases/russia-gas-bargaining.md",
+          "source_ids": [
+            "RUS-G14",
+            "RUS-G17",
+            "RUS-G28"
+          ],
+          "observation": "Long-running talks persisted despite Russian near-completion claims.",
+          "limit": "Optimistic targets are not proven binding deadlines or evidence of exploitation."
+        }
+      ],
+      "contrary_or_limiting_evidence": [
+        {
+          "dossier": "cases/wto-1999-chinese-reconstruction.md",
+          "source_ids": [
+            "CN-WTO-B3"
+          ],
+          "observation": "U.S. departure letters actively managed the deadline.",
+          "limit": ""
+        },
+        {
+          "dossier": "cases/us-trade-2018-2020-us-reconstruction.md",
+          "source_ids": [
+            "TUS09"
+          ],
+          "observation": "Washington controlled and extended tariff dates.",
+          "limit": ""
+        }
+      ],
+      "unresolved_remainder": "Direct evidence supports reciprocal timing tactics more than a measured Chinese patience advantage. Need private deadlines, alternative offers and a concession sequence showing their effect."
+    },
+    {
+      "id": "S-P24",
+      "baseline": {
+        "id": "S-P24",
+        "pages": "147–151",
+        "claim": "A shift toward concrete drafting and intervention by a senior PRC leader can signal that agreement is authorized and near, even after apparent deadlock.",
+        "evidence_type": "Memoir descriptions; memcon-anchored cases; participant observations; an explicit aborted-agreement example.",
+        "historical_anchor": "July 10–11, 1971, visit-announcement drafting; final Shanghai Communiqué discussions; Deng–Woodcock, December 13, 1978; Wan Li–Samuel Pierce, August 14, 1982; early 1984 nuclear cooperation discussions; PRC claims/assets message, June 14, 1974.",
+        "test": "Date senior involvement relative to concessions, draft convergence, and final decisions. Include high-level encounters ending without agreement and agreements completed without a public leader intervention. Distinguish the leader authorizing compromise from blessing a deal already negotiated.",
+        "caveat": "The chapter's face-based explanation is not independently established, and selected successful cases cannot determine reliability. Senior authority does not eliminate bureaucratic reversal: the chapter cites repudiation of the 1973 claims/assets solution. Several local date inconsistencies require original-source checking."
+      },
+      "baseline_scope": {
+        "author_period_and_domain": "Principal empirical period 1967–1984, principally American–Chinese high political negotiation while Beijing sought a constructive relationship; application to future confrontation was explicitly left open. The claim-specific qualification below also applies.",
+        "claim_specific_qualification": "The chapter's face-based explanation is not independently established, and selected successful cases cannot determine reliability. Senior authority does not eliminate bureaucratic reversal: the chapter cites repudiation of the 1973 claims/assets solution. Several local date inconsistencies require original-source checking."
+      },
+      "verdict": "unresolved",
+      "tested_component": "The original ranking of senior intervention as the most reliable sign of approaching agreement, considered with concrete drafting and the proposed face mechanism.",
+      "supporting_evidence": [
+        {
+          "dossier": "book/normalization-1978-primary-check.md",
+          "source_ids": [
+            "NOR-159",
+            "NOR-166",
+            "NOR-170"
+          ],
+          "observation": "Concrete text and Deng’s intervention preceded successful normalization.",
+          "limit": ""
+        },
+        {
+          "dossier": "cases/russia-border-settlement.md",
+          "source_ids": [
+            "RUS-AUTH2004",
+            "RUS-T2004"
+          ],
+          "observation": "A Russian authorization attached drafts and bounded discretion immediately before signature.",
+          "limit": "This is a counterpart authority record, not Chinese mandate evidence or proof outsiders had it prospectively."
+        }
+      ],
+      "contrary_or_limiting_evidence": [
+        {
+          "dossier": "book/claims-assets-1973-primary-check.md",
+          "source_ids": [
+            "CLA04",
+            "CLA05",
+            "CLA10"
+          ],
+          "observation": "Zhou’s movement did not close the claims bargain and the monetary offer was later withdrawn.",
+          "limit": "Solomon already acknowledged this failure; the new reconstruction sharpens its unfinished terms rather than discovering failure as a new possibility."
+        },
+        {
+          "dossier": "cases/eu-wto-2000-comparison.md",
+          "source_ids": [
+            "EWT-01"
+          ],
+          "observation": "Zhu’s March meeting did not close accession talks.",
+          "limit": "This defeats a deterministic shortcut from a senior meeting to closure, but does not rank the predictive value of all available signals."
+        },
+        {
+          "dossier": "cases/us-china-crisis-2023.md",
+          "source_ids": [
+            "C23-15",
+            "C23-16"
+          ],
+          "observation": "Xi received Blinken without military-channel agreement.",
+          "limit": "The record does not show the full concrete-drafting condition for the military-channel request or a promise by Xi that it would be settled."
+        }
+      ],
+      "unresolved_remainder": "The comparative ranking and frequency remain unresolved: selected successes and failures cannot establish whether senior intervention is the most reliable available sign. As practical advice, identify what a leader authorizes, confirms or leaves unsettled instead of equating contact with imminent closure. That revision in use is distinct from empirical refutation. Missing later drafts prevent a full test of the conjunction, and the face mechanism is unproved.",
+      "original_text_qualification": "The unchanged S-P24 extraction says “can signal,” but this softens the printed claim. Solomon p. 149 calls senior intervention “the most reliable sign” of imminent agreement and invokes leaders’ reluctance to risk face; p. 150 asserts a highly consistent endgame. The failed claims/assets example on p. 148 creates a tension with that prediction. The current verdict evaluates this stronger original claim, in its concrete-drafting context, rather than silently substituting a weaker one."
+    },
+    {
+      "id": "S-P25",
+      "baseline": {
+        "id": "S-P25",
+        "pages": "151–153",
+        "claim": "Implementation can remain a bargaining arena in which PRC officials demand adherence from the counterpart while seeking adjustment, accommodation, or new concessions themselves.",
+        "evidence_type": "Memcon references; narrative examples of implementation disputes and Chinese reversals; commercial complaints.",
+        "historical_anchor": "Qiao–Bruce, April 2, 1974; normalization timing disputes; repudiated 1973 claims/assets arrangement; withdrawn 1981 Liu Huaqing visit; Zhao–Reagan grain-trade discussion in spring 1984; Deng–Brzezinski, May 21, 1978.",
+        "test": "Create a bilateral obligation ledger distinguishing binding terms, political intentions, conditions, unilateral expectations, and later amendments. Assess actual performance, reasons for departure, requests for accommodation, and reciprocal concessions after signature.",
+        "caveat": "The chapter mixes formal agreements with contemplated visits and expressions of intent; these are not equivalent commitments. Deng's May 1978 acknowledgment that a new administration could reconsider qualifies the claim of rigid continuity. Commercial complaints require independent evidence before generalization to political agreements."
+      },
+      "baseline_scope": {
+        "author_period_and_domain": "Principal empirical period 1967–1984, principally American–Chinese high political negotiation while Beijing sought a constructive relationship; application to future confrontation was explicitly left open. The claim-specific qualification below also applies.",
+        "claim_specific_qualification": "The chapter mixes formal agreements with contemplated visits and expressions of intent; these are not equivalent commitments. Deng's May 1978 acknowledgment that a new administration could reconsider qualifies the claim of rigid continuity. Commercial complaints require independent evidence before generalization to political agreements."
+      },
+      "verdict": "unresolved",
+      "tested_component": "Two components kept distinct: implementation bargaining, and asymmetric Chinese demands for adherence while seeking accommodation itself.",
+      "supporting_evidence": [
+        {
+          "dossier": "cases/phase-one-implementation-2020-2026.md",
+          "source_ids": [
+            "POI03",
+            "POI04",
+            "POI07",
+            "POI14",
+            "POI17"
+          ],
+          "observation": "China defended fulfillment, pressed U.S. obligations and restrictions, and carried issues into later bargains.",
+          "limit": "Closest evidence of reciprocal demands; private reservations and formal appeals are incomplete."
+        },
+        {
+          "dossier": "cases/wto-ds379-legal-process.md",
+          "source_ids": [
+            "DS379-07"
+          ],
+          "observation": "The parties negotiated procedures for further implementation disagreement.",
+          "limit": ""
+        }
+      ],
+      "contrary_or_limiting_evidence": [
+        {
+          "dossier": "cases/financial-access-implementation.md",
+          "source_ids": [
+            "FIN-15",
+            "FIN-26",
+            "FIN-28"
+          ],
+          "observation": "Negotiated access produced a regulatory acceleration and an operating U.S.-owned firm.",
+          "limit": ""
+        },
+        {
+          "dossier": "cases/russia-border-settlement.md",
+          "source_ids": [
+            "RUS-USE1999",
+            "RUS-MEMO2004"
+          ],
+          "observation": "Consensual arrangements made boundary implementation workable.",
+          "limit": ""
+        },
+        {
+          "dossier": "cases/ep3-2001.md",
+          "source_ids": [
+            "EP303",
+            "EP306"
+          ],
+          "observation": "Later aircraft work concerned issues expressly deferred, not necessarily reopened obligations.",
+          "limit": ""
+        }
+      ],
+      "unresolved_remainder": "Continuing bargaining is strongly observed, but that alone cannot retain the full proposition. Need obligation-specific Chinese demands, its own requested departures, comparable counterpart conduct and agreed exceptions to establish asymmetry rather than ordinary implementation, mutual adjustment or disputed compliance."
+    }
+  ]
+}

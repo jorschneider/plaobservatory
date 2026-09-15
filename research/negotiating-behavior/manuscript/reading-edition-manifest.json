@@ -1,0 +1,61 @@
+{
+  "title": "Bargaining with China: authority, commitments and change",
+  "edition": "Complete first manuscript draft for review, 2026-09-15",
+  "format": "Self-contained HTML; local supporting links require the research repository",
+  "build_script": "build-reading-edition.py",
+  "sources": [
+    {
+      "path": "chapters/00-introduction.md",
+      "sha256": "6712f0eb444ba87f62e45a68e19dced20148ce58e143ffaca8bb5d49897bf83f"
+    },
+    {
+      "path": "chapters/01-solomons-baseline.md",
+      "sha256": "8d896283ed9041524ffa83e2581cb3fccd8097412fb553fe00caaff7b0d46c90"
+    },
+    {
+      "path": "chapters/02-accession.md",
+      "sha256": "13b55ebcf5de8bd2d311fb3ed5103fadf764512f34225f72021695bf215486fd"
+    },
+    {
+      "path": "chapters/03-usable-expertise.md",
+      "sha256": "b0f86f9518c026b7c9de48657218fe75e30dd493a133c47c8b3d246013e05d0f"
+    },
+    {
+      "path": "chapters/04-negotiating-in-crisis.md",
+      "sha256": "45cc1d411ebd2319a626c10b3b96612cbc2bd713c53c273474a7ddd23c91f6da"
+    },
+    {
+      "path": "chapters/05-partial-trade-settlement.md",
+      "sha256": "3984a8441a197f33396be240612894cff36ca0ce86ba726a976bc5691d942cdf"
+    },
+    {
+      "path": "chapters/06-after-the-signature.md",
+      "sha256": "29322a6e45c581a24f0c771cf53fb5402af678e0f2210bec35e98aa1cec0fae4"
+    },
+    {
+      "path": "chapters/07-rival-partner-supplier.md",
+      "sha256": "e476a8028f531faf29d60b4a4b8a1f7548576af4b1fc4ba4a419ec362bf0e334"
+    },
+    {
+      "path": "chapters/08-what-survives-solomon.md",
+      "sha256": "e2ef75b946283d2695b0522ae1ce237ba78db0f5ac7ae6d066df522ad4e5f9f7"
+    },
+    {
+      "path": "appendices/01-proposition-assessment.md",
+      "sha256": "b07606c0655f3d8f7bda115d2fad2b307029c05932bf4d5834992acc0de6f832"
+    },
+    {
+      "path": "appendices/02-chronology.md",
+      "sha256": "0335ab7b8e2440cd21623d127305f7fe005fd3e793ab0b0aaa01da02ff37df01"
+    },
+    {
+      "path": "appendices/03-bibliography-and-sources.md",
+      "sha256": "d7ae6c80be086c0484b3a2226c69a6427f92f6c56041bc3b690958087db8fbaf"
+    }
+  ],
+  "output": {
+    "path": "reading-edition.html",
+    "sha256": "1355b07b62ff02c9d191227a6bcb5e7a558351e176700e3cb2e458cbef3175cf"
+  },
+  "note": "Integrity and rendering record; not a claim that historical assertions are mechanically verified."
+}
