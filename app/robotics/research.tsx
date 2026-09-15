@@ -11,7 +11,7 @@ import caseIndex from "../../research/military-robotics/case-index.json";
 import collection from "../../research/autonomy/questions.json";
 
 // Sourcebooks are pinned to the reviewed research edition.
-const repository = "https://github.com/jorschneider/plaobservatory/blob/f7432a0523e0745cda965a01d2ad432c4b713f6d/research/";
+const repository = "https://github.com/jorschneider/plaobservatory/blob/aad66f814e6da8efe7c7a26da7f2e2b9fe51f7a5/research/";
 const sourcebook = (path: string, directory = "") => new URL(path, `${repository}${directory}`).href;
 const titleCase = (text: string) => text.charAt(0).toUpperCase() + text.slice(1);
 const domains = [...new Set(caseIndex.cases.map((item) => item.domain))];
@@ -23,6 +23,8 @@ const readings = [
   { title: "Institutions", path: "military-robotics/institutions.md", question: "Which organizations research, coordinate, finance and develop systems?" },
   { title: "Autonomy stack", path: "autonomy/stack.md", question: "Which functions and dependencies make a useful system?" },
   { title: "Software and component lineage", path: "military-robotics/lineage.md", question: "Which identifiable artifacts enter research or supply relationships?" },
+  { title: "Adoption governance", path: "military-robotics/adoption-governance.md", question: "Who defines requirements, supervises contracts and accepts equipment?" },
+  { title: "From product to working site", path: "military-robotics/civilian-deployment.md", question: "Which work carries over, and what has to change at the receiving site?" },
   { title: "Assurance", path: "military-robotics/assurance.md", question: "What was required, qualified or actually tested?" },
   { title: "Procurement", path: "military-robotics/procurement.md", question: "What was requested, selected, supplied or left unresolved?" },
   { title: "Defense production", path: "military-robotics/defense-production.md", question: "How do commercial automation suppliers enter military aircraft production?" },
