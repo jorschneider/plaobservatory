@@ -1,0 +1,436 @@
+{
+  "title": "EU–China WTO2000 comparison: evidence and reading register",
+  "research_date": "2026-09-15",
+  "case": "../cases/eu-wto-2000-comparison.md",
+  "sources": [
+    {
+      "id": "EWT-01",
+      "title": "中国加入世界贸易组织谈判文件资料选编：综合卷①（总第1册）, 中国加入世界贸易组织谈判历程, EU2000 subsection",
+      "author_or_institution": "商务部世界贸易组织司编; 索必成主编; 中国商务出版社",
+      "publication_date": "2013-01",
+      "source_type": "Later official documentary history with selected contemporary facsimiles",
+      "url": "https://www.mofcom.gov.cn/dl/sms/zhj_1_1.pdf",
+      "read_date": "2026-09-15",
+      "reading_status": "bounded reading; exact scope below",
+      "read_scope": "Complete selected subsection printed 370–385/PDF 405–420 read in extraction and/or images. Consequential scans visually read PDF 405–406,409–420. PDF 407–408 text read; corrupted numeral font means exact dates used from rendered pages or cross-checked records. February 23 technical package facsimile printed 374–375/PDF 409–410; March 30 Chinese English proposal p 378/PDF 413; EU March 30 package editorial transcription pp 379–380/PDF 414–415; May English compromise first page p 382/PDF 417. No claim to read complete 603-page volume.",
+      "evidentiary_use": "Dated demand reductions, package alternatives and reservations, February non-visit, March unsuccessful senior intervention, May reported coordination and requests for authority.",
+      "limits": "Narrative published 13 years later; editorial selection and underlying minutes not exposed. February tariff/procurement annexes absent; March Chinese package reproduced only first page ending mid-paragraph; May second page explicitly referenced but absent. May facsimile caption dates only month; no exact delivery day. Handwritten February marks unattributed, not proof of acceptance.",
+      "source_dependence": "All narration and facsimiles are within one official collection; facsimiles improve textual specificity, not an extra independent witness. Existing source family CN-WTO-G1.",
+      "preserved_copy": {
+        "path": "/Users/jorsc/.codex/.chatgpt-projects/g-p-6a94dd290a988191911d85ae8fe94a6c/tmp/pdfs/wto-foundation/general-1.pdf",
+        "bytes": 64177746,
+        "sha256": "ab8b28e64608ac233ec87fb97b9b3c627e631117abcee97a90b8d4dbad8033eb"
+      },
+      "facsimile_units": [
+        {
+          "locator": "printed 374–375/PDF 409–410",
+          "document_date": "2000-02-23 per caption",
+          "status": "EU technical proposal; annexes missing; handwritten marks unattributed"
+        },
+        {
+          "locator": "printed 378/PDF 413",
+          "document_date": "2000-03-30 printed on English document",
+          "status": "Chinese comprehensive proposal first page only"
+        },
+        {
+          "locator": "printed 379–380/PDF 414–415",
+          "document_date": "2000-03-30 per history",
+          "status": "EU package editorial Chinese transcription, not facsimile"
+        },
+        {
+          "locator": "printed 382/PDF 417",
+          "document_date": "2000-05 exact day unknown",
+          "status": "EU outline for compromise first page; conditional on absent second page"
+        }
+      ]
+    },
+    {
+      "id": "EWT-02",
+      "title": "COM(2001)517: proposal establishing Community position on China WTO accession, full explanatory memorandum",
+      "author_or_institution": "European Commission",
+      "publication_date": "2001-09-19 (adoption per EUR-Lex procedure); later OJ publication 2002-02-26",
+      "source_type": "Official explanatory memorandum and proposed decision",
+      "url": "https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:52001PC0517",
+      "read_date": "2026-09-15",
+      "reading_status": "bounded reading; exact scope below",
+      "read_scope": "All 56 numbered explanatory paragraphs, proposed decision recitals/article and annex read. Separate commission-2001-517.pdf contains only two OJ pages of proposal/annex, not the full memorandum.",
+      "evidentiary_use": "Commission account of EU achievements, selected tariff basket, licenses outside accession terms, schedule interpretation, eventual institutional completion.",
+      "limits": "Public advocacy and final-package summary, not signed May bilateral annex. Para 42 corporate RMB3 years conflicts with final 2; para 35 non-life business scope 1 year conflicts with final 2; para 41 chain summary omits sensitive-product exception. Para 29 applied-rate cuts cannot measure incremental EU concession.",
+      "source_dependence": "Institutional EU source; may incorporate later multilateral results. Press and Lapres may depend on earlier versions of EU summaries.",
+      "preserved_copy": {
+        "path": "/Users/jorsc/.codex/.chatgpt-projects/g-p-6a94dd290a988191911d85ae8fe94a6c/tmp/pdfs/research-2026-09-15/eu/commission-517-full.html",
+        "bytes": 38830,
+        "sha256": "ff481f36c85d90a62505665262a953f78a461f21dfe2d420fcfcb838f2cadebf"
+      },
+      "date_note": "EUR-Lex procedure page labels Commission adoption 19 September 2001; separate OJ proposal publication says submitted by Commission 19 October 2001. These metadata labels are not treated as two negotiation events.",
+      "date_metadata_url": "https://eur-lex.europa.eu/procedure/EN/2001_218?qid=1783998568395&rid=3"
+    },
+    {
+      "id": "EWT-03",
+      "title": "WT/ACC/CHN/49/Add.2, Schedule CLII, Part II—Schedule of Specific Commitments on Services",
+      "author_or_institution": "World Trade Organization",
+      "publication_date": "2001-10-01",
+      "source_type": "Official accession services schedule",
+      "url": "https://docs.wto.org/dol2fe/Pages/SS/directdoc.aspx?filename=Q:/WT/ACC/CHN49A2.pdf&Open=True",
+      "read_date": "2026-09-15",
+      "reading_status": "bounded reading; exact scope below",
+      "read_scope": "PDF/printed pages 1–5,19–20,25–27,30–35 read. Rendered pp 26,30,34–35 visually inspected; other cited pages text read. Legal section begins p 5; continuation and complete 55-page schedule not audited.",
+      "evidentiary_use": "Final ownership/phase-in/scope/geography terms; horizontal grandfathering p 3 and insurance note 8 p 30.",
+      "limits": "Final 2001 terms cannot establish bilateral offer sequence or uniquely allocate gains to EU. No actual implementation inferred. Protocol Annex 2 a referenced by retail exception not fully reproduced/audited here.",
+      "source_dependence": "Primary final text independent of public summaries, but consolidates bilateral/multilateral bargains.",
+      "preserved_copy": {
+        "path": "/Users/jorsc/.codex/.chatgpt-projects/g-p-6a94dd290a988191911d85ae8fe94a6c/tmp/pdfs/research-2026-09-15/eu/wto-services-accession.pdf",
+        "bytes": 200484,
+        "sha256": "5dcd4650fc0720ae4cfeb40bb21b25570a4c4a28323b8e7b6daa004d25780ea1"
+      }
+    },
+    {
+      "id": "EWT-04",
+      "title": "The EU-China WTO Deal Compared, The China Business Review, July–August 2000",
+      "author_or_institution": "Daniel Arthur Lapres",
+      "publication_date": "2000-07/08",
+      "source_type": "Contemporary practitioner analysis in business journal",
+      "url": "https://www.uschina.org/wp-content/uploads/2022/09/July-August-2000.pdf",
+      "read_date": "2026-09-15",
+      "reading_status": "bounded reading; exact scope below",
+      "read_scope": "Complete article pp 8,10–12,14 read; pages 9/13 are advertisements. Two-page comparison table pp 10–11 visually inspected. Entire issue not read.",
+      "evidentiary_use": "Contemporary comparisons and caveats; business-interest hypotheses; US mobile five-year equity comparison and wine 20 baseline as reported claims.",
+      "limits": "Not peer-reviewed research or participant minutes. Geography table US3 years conflicts with White House 5; scope table EU2 years conflicts with final life 3; seven licenses described at accession rather than before. Legal practice and state-trading directions overcompressed; not relied on as definitive legal interpretation. Industrial endpoint 10.6 differs from Commission 10.9.",
+      "source_dependence": "Based on public terms/industry reactions; table author credit is not proof of separate access to signed annexes.",
+      "preserved_copy": {
+        "path": "/Users/jorsc/.codex/.chatgpt-projects/g-p-6a94dd290a988191911d85ae8fe94a6c/tmp/pdfs/research-2026-09-15/eu/cbr-julaug2000.pdf",
+        "bytes": 35880587,
+        "sha256": "c4909015215385fb080bcf1b020aee011fadba6a7a5f764c8d8096072da307fe"
+      }
+    },
+    {
+      "id": "EWT-05",
+      "title": "Summary of US–China Bilateral WTO Agreement",
+      "author_or_institution": "White House",
+      "publication_date": "1999-11-16",
+      "source_type": "Contemporary official public summary",
+      "url": "https://clintonwhitehouse3.archives.gov/WH/New/WTO-Conf-1999/factsheets/fs-006.html",
+      "read_date": "2026-09-15",
+      "reading_status": "bounded reading; exact scope below",
+      "read_scope": "Complete substantive web summary read, including agriculture, services, safeguards and textiles. Root independently preserved same source as WTO-M03.",
+      "evidentiary_use": "Version-specific US baseline: life 50/partner choice, insurance 5-year geographic and scope timetable, corporate RMB2/individual 5.",
+      "limits": "Not full signed bilateral annex; does not supply exact timetable to 49 mobile equity. Different public summaries conflict.",
+      "source_dependence": "Same document as WTO-M03; not a new independent corroborator.",
+      "preserved_copy": {
+        "path": "/Users/jorsc/.codex/.chatgpt-projects/g-p-6a94dd290a988191911d85ae8fe94a6c/tmp/pdfs/research-2026-09-15/wto-chapter/nov16-summary.html",
+        "bytes": 21438,
+        "sha256": "52288692ab9a99a321cbf8b8ac633aa2a6a125d5ed7c5f92fd05ff6499e83af5"
+      }
+    },
+    {
+      "id": "EWT-06",
+      "title": "General Affairs Council, Luxembourg: written answer reporting April 10–11 meeting",
+      "author_or_institution": "UK Foreign and Commonwealth Office, parliamentary answer",
+      "publication_date": "2000-04-18",
+      "source_type": "Official national report of EU Council proceedings",
+      "url": "https://api.parliament.uk/historic-hansard/written-answers/2000/apr/18/general-affairs-council-luxembourg",
+      "read_date": "2026-09-15",
+      "reading_status": "bounded reading; exact scope below",
+      "read_scope": "China/WTO paragraph 7 read; other agenda items not substantively audited.",
+      "evidentiary_use": "Council support for Lamy approach after unsuccessful March round, call for reciprocal flexibility.",
+      "limits": "Not original Council minutes or confidential Article 133 mandate. Public approval cannot date private authorization.",
+      "source_dependence": "British official description of Council; independent institution from Chinese history, but limited to public account.",
+      "preserved_copy": {
+        "path": "/Users/jorsc/.codex/.chatgpt-projects/g-p-6a94dd290a988191911d85ae8fe94a6c/tmp/pdfs/research-2026-09-15/eu/council-2000-hansard.html",
+        "bytes": 15534,
+        "sha256": "6cce1738f4a8e68907343b1bcead82616eed527e746a725c42cde0b4ddf0e2e3"
+      }
+    },
+    {
+      "id": "EWT-07",
+      "title": "朱镕基会见丹麦首相拉斯穆森",
+      "author_or_institution": "PRC Ministry of Foreign Affairs",
+      "publication_date": "2000-11-07 (webpage); event 2000-05-08",
+      "source_type": "Official account of leader meeting",
+      "url": "https://www.fmprc.gov.cn/web/gjhdq_676201/gj_676203/oz_678770/1206_679062/xgxw_679068/200011/t20001107_9333636.shtml",
+      "read_date": "2026-09-15",
+      "reading_status": "bounded reading; exact scope below",
+      "read_scope": "Complete short meeting account read online; event date distinguished from page date.",
+      "evidentiary_use": "Zhu seeks early European agreement and hopes EU not last; Rasmussen promises efforts within EU.",
+      "limits": "Stated preference, not binding deadline or actual concession.",
+      "source_dependence": "Separate public meeting record; later Chinese reports may repeat it.",
+      "preserved_copy": {
+        "path": "/Users/jorsc/.codex/.chatgpt-projects/g-p-6a94dd290a988191911d85ae8fe94a6c/tmp/pdfs/research-2026-09-15/eu/mfa-may8-2000.html",
+        "bytes": 62420,
+        "sha256": "b751ec433fbaa649de2ac255512d389e968cd70d38d29cc8bccc29487f7de1c8"
+      }
+    },
+    {
+      "id": "EWT-08",
+      "title": "中欧WTO谈判北京再开锣",
+      "author_or_institution": "余东晖, China News Service, reproduced by Sina",
+      "publication_date": "2000-05-15",
+      "source_type": "Original reporting, contemporaneous wire",
+      "url": "https://news.sina.com.cn/china/2000-05-15/89743.html",
+      "read_date": "2026-09-15",
+      "reading_status": "bounded reading; exact scope below",
+      "read_scope": "Complete article read online.",
+      "evidentiary_use": "May 15 opening and account of preceding technical rounds; publicly stated positions.",
+      "limits": "Reporter observation of sessions and attributed remarks; no confidential draft access established.",
+      "source_dependence": "Sina is host/republication, not second witness.",
+      "preserved_copy": {
+        "path": "/Users/jorsc/.codex/.chatgpt-projects/g-p-6a94dd290a988191911d85ae8fe94a6c/tmp/pdfs/research-2026-09-15/eu/cn-may15.html",
+        "bytes": 28298,
+        "sha256": "c42bee9fbb204a6e78a20e4e620e558e29036296d3d527ea666e273098361616"
+      }
+    },
+    {
+      "id": "EWT-09",
+      "title": "入世谈判焦急等待 记者扎堆成一景",
+      "author_or_institution": "刘珲, 北京晨报, reproduced by Sina",
+      "publication_date": "2000-05-18 (reporting May 17)",
+      "source_type": "Original reporting, contemporaneous newspaper",
+      "url": "https://news.sina.com.cn/society/2000-05-18/90471.html",
+      "read_date": "2026-09-15",
+      "reading_status": "bounded reading; exact scope below",
+      "read_scope": "Complete article read online, including uncertainty and spokesman attribution.",
+      "evidentiary_use": "Parallel political/technical tracks; uncertain timing observed by reporters waiting outside.",
+      "limits": "Rumors and hotel booking not accepted as confirmed deadline.",
+      "source_dependence": "Independent reporting venue; spokesperson statements still institutional claims.",
+      "preserved_copy": {
+        "path": "/Users/jorsc/.codex/.chatgpt-projects/g-p-6a94dd290a988191911d85ae8fe94a6c/tmp/pdfs/research-2026-09-15/eu/cn-may18.html",
+        "bytes": 28492,
+        "sha256": "18898ec29c5793d7bee7a9affcafce22aa9773e2984210f8b2cce12451d2502f"
+      }
+    },
+    {
+      "id": "EWT-10",
+      "title": "EU–China summit background note, MEMO/00/67",
+      "author_or_institution": "European Commission",
+      "publication_date": "2000-10-19",
+      "source_type": "Contemporary official memorandum",
+      "url": "https://ec.europa.eu/commission/presscorner/api/files/document/print/en/memo_00_67/MEMO_00_67_EN.pdf",
+      "read_date": "2026-09-15",
+      "reading_status": "bounded reading; exact scope below",
+      "read_scope": "All 4 pages read in extraction; WTO passages pp 1–2 used.",
+      "evidentiary_use": "Remaining 5 new licenses and 2 sub-branches; seven weeks of multilateral work June/July/September; wider ministries; clarification-versus-new-demand dispute.",
+      "limits": "EU account of progress and demands, not all parties agreed description. Heading extraction font imperfect; body legible. Chinese accusation is presented through Commission: beyond normal accession requirements, not specifically beyond a bilateral undertaking.",
+      "source_dependence": "Same institutional source family as Commission 2001 memo, different date and purpose.",
+      "preserved_copy": {
+        "path": "/Users/jorsc/.codex/.chatgpt-projects/g-p-6a94dd290a988191911d85ae8fe94a6c/tmp/pdfs/research-2026-09-15/eu/memo-00-67.pdf",
+        "bytes": 33752,
+        "sha256": "95d320682a09daf3782638bc7068757f662b6ef2b541cda0241ec581c4e475c8"
+      }
+    },
+    {
+      "id": "EWT-11",
+      "title": "USTR release 01-38: United States and China reach agreement on outstanding issues for WTO accession",
+      "author_or_institution": "Office of the US Trade Representative; State Department Washington File mirror",
+      "publication_date": "2001-06-14",
+      "source_type": "Contemporary official release preserved on private archive",
+      "url": "https://usinfo.org/wf-archive/2001/010614/epf404.htm",
+      "read_date": "2026-09-15",
+      "reading_status": "bounded reading; exact scope below",
+      "read_scope": "Complete substantive release read through web tool, including agriculture, trading rights, insurance and distribution subheads. Raw HTML download returned 403; no preserved original file.",
+      "evidentiary_use": "June 4–8 Shanghai talks and continuing 2001 disagreement/clarification after May 2000.",
+      "limits": "US allegations about 2000 draft/regulatory changes not independently checked against those documents. Release says reinsurance 0 after 5 years while final schedule p 30 gives 4; no inference of later reversal.",
+      "source_dependence": "Original US official account via private mirror, not independent journalistic corroboration.",
+      "preserved_copy": null
+    },
+    {
+      "id": "EWT-12",
+      "title": "China poised for membership of WTO",
+      "author_or_institution": "Conor O’Clery, The Irish Times",
+      "publication_date": "2000-05-20",
+      "source_type": "Contemporary newspaper reporting",
+      "url": "https://www.irishtimes.com/business/china-poised-for-membership-of-wto-1.273251",
+      "read_date": "2026-09-15",
+      "reading_status": "bounded reading; exact scope below",
+      "read_scope": "Substantive article text displayed online read; page HTML preserved. No claim to inspect other linked articles.",
+      "evidentiary_use": "Public deal announcement and reported mobile US5/EU3 phase-in comparison.",
+      "limits": "Press account does not disclose signed annex; article contains incidental obvious copy errors (EU vs WTO wording); not propagated.",
+      "source_dependence": "Named reporter; commercial terms may derive EU public briefing also used by Lapres.",
+      "preserved_copy": {
+        "path": "/Users/jorsc/.codex/.chatgpt-projects/g-p-6a94dd290a988191911d85ae8fe94a6c/tmp/pdfs/research-2026-09-15/eu/may20-irish.html",
+        "bytes": 282419,
+        "sha256": "c254ec6c8bde121e7cd28823fbb2a8ce3105b45912385f3cb543c2f36d884771"
+      }
+    },
+    {
+      "id": "EWT-13",
+      "title": "我亲历的加入WTO金融部门谈判, in 中国“入世”谈判风云录",
+      "author_or_institution": "邓红国; 张向晨、索必成主编; 人民出版社",
+      "publication_date": "2023-06",
+      "source_type": "Participant retrospective essay",
+      "url": "https://www.mofcom.gov.cn/dl/sms/04.pdf",
+      "read_date": "2026-09-15",
+      "reading_status": "bounded reading; exact scope below",
+      "read_scope": "This pass read printed 295/PDF 308 in full extraction, plus existing complete-chapter reading audit wto-financial-participant-note.md. Earlier audit read chapter printed 284–315; do not count as new full reread.",
+      "evidentiary_use": "Portugal’s Zhuhai 3-to 1 request, PBOC authorization, participant judgment of minor concession; MFN/European-interest framing.",
+      "limits": "Retrospective commemorative contribution. Initial 3-year offer, Portuguese request and approval not recovered independently. Broad rejection-of-US-baseline statement differs from Beseler January account.",
+      "source_dependence": "Participant source distinct from 2013 history but not necessarily independent of earlier official narratives.",
+      "preserved_copy": {
+        "path": "/Users/jorsc/.codex/.chatgpt-projects/g-p-6a94dd290a988191911d85ae8fe94a6c/tmp/pdfs/wto-foundation/participant-history.pdf",
+        "bytes": 153959573,
+        "sha256": "bf9ba016a6b56f1b3683624f92a9b1bd7a181bdc6c0323a769debab4faa39ba8"
+      }
+    },
+    {
+      "id": "EWT-14",
+      "title": "China’s Accession to the WTO: The Services Dimension, Policy Research Working Paper 2932",
+      "author_or_institution": "Aaditya Mattoo, World Bank",
+      "publication_date": "2002-12",
+      "source_type": "Scholarly analytical working paper",
+      "url": "https://documents1.worldbank.org/curated/en/231201468770437827/pdf/multi0page.pdf",
+      "read_date": "2026-09-15",
+      "reading_status": "bounded reading; exact scope below",
+      "read_scope": "Complete narrative body PDF 5–25/printed 2–22 and title/abstract read; table 2 PDF 26–30 text read. Figure 1/PDF 7 and table 1/PDF 8 plus table 2 financial/distribution pp 28–29 visually inspected. Annex table PDF 31 text inspected; dense PDF 32 appendix and PDF 33 final figure not visually audited. Whole-paper visual/table audit not claimed.",
+      "evidentiary_use": "Commitments versus actual market access; geography and first-mover mechanisms; ownership incentives; grandfathering ambiguities and domestic regulation.",
+      "limits": "Not participant evidence of May meetings; author’s views not World Bank institutional position. Comparisons use non-identical commitment vintages; table 1 explicitly undercounts others’ later finance/telecom commitments. FT/Inside US Trade allegations cited in paper not independently read.",
+      "source_dependence": "Final schedules are common input; analysis distinct from evidence of their negotiation. Related 2003 journal and 2004 chapter versions not read or counted separately.",
+      "preserved_copy": {
+        "path": "/Users/jorsc/.codex/.chatgpt-projects/g-p-6a94dd290a988191911d85ae8fe94a6c/tmp/pdfs/research-2026-09-15/eu/mattoo-2002.pdf",
+        "bytes": 2112022,
+        "sha256": "93a6c88ee34c0b7f2932c0c786dbc856c33a379e7ee28ee0203d4e4cdfe13888"
+      }
+    },
+    {
+      "id": "EWT-15",
+      "title": "Exchange of Letters initialled 19 May 2000 amending EC–China MFA/non-MFA textile agreements",
+      "author_or_institution": "European Community and PRC",
+      "publication_date": "2000-12-14 (OJ); initialled 2000-05-19",
+      "source_type": "Published bilateral instrument with annexes",
+      "url": "https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:22000A1214(01)",
+      "read_date": "2026-09-15",
+      "reading_status": "bounded reading; exact scope below",
+      "read_scope": "Council letter paragraphs 1–8, AnnexI prose and AnnexII articles 1–10 read; duplicate Chinese acceptance letter, remainder of AnnexII and ProtocolA not fully audited. HTML omits AnnexI category table; no product-level schedule claim.",
+      "evidentiary_use": "EU phase-out/notification obligations, automatic extension if accession after 2000, reciprocal provisional application and Chinese export administration.",
+      "limits": "Related textile instrument, not full general WTO bilateral agreement. AnnexI conditions on silk state-trading progress remain; no unconditional product-by-product phase-out assertion.",
+      "source_dependence": "Actual published instrument; Council signing decision is separate procedural act, not independent evidence of bargains.",
+      "preserved_copy": {
+        "path": "/Users/jorsc/.codex/.chatgpt-projects/g-p-6a94dd290a988191911d85ae8fe94a6c/tmp/pdfs/research-2026-09-15/eu/eu-textiles-2000.html",
+        "bytes": 54120,
+        "sha256": "2b1441f31813faac3b2911ba7d3ec40ba2a169e9ca80a79aff0e246974cd3d6a"
+      }
+    },
+    {
+      "id": "EWT-16",
+      "title": "Council Decision 2000/787/EC on signing and provisional application of textile exchange of letters",
+      "author_or_institution": "Council of the European Union",
+      "publication_date": "2000-11-23; OJ2000-12-14",
+      "source_type": "Official decision",
+      "url": "https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:32000D0787",
+      "read_date": "2026-09-15",
+      "reading_status": "bounded reading; exact scope below",
+      "read_scope": "Full recitals, articles 1–3, signature and footnote read.",
+      "evidentiary_use": "Initialling vs signing approval vs provisional application (November 24), subject to reciprocity.",
+      "limits": "Does not reproduce a general accession mandate or prove balance of concessions.",
+      "source_dependence": "Implements EWT-15, not a second independent agreement.",
+      "preserved_copy": {
+        "path": "/Users/jorsc/.codex/.chatgpt-projects/g-p-6a94dd290a988191911d85ae8fe94a6c/tmp/pdfs/research-2026-09-15/eu/council-tex-2000.html",
+        "bytes": 5707,
+        "sha256": "4e30d23de764a65514e7630c6873f832ffbd19907186ce785dcafa4cd66a74f5"
+      }
+    },
+    {
+      "id": "EWT-17",
+      "title": "European Parliament legislative resolution on Community position for China WTO accession, A5-0366/2001",
+      "author_or_institution": "European Parliament",
+      "publication_date": "2001-10-25; OJ2002-05-09",
+      "source_type": "Official legislative resolution",
+      "url": "https://eur-lex.europa.eu/resource.html?format=PDF&uri=cellar%3A8d26f810-b893-4166-8f18-d95cce0de46f.0004.01%2FDOC_75",
+      "read_date": "2026-09-15",
+      "reading_status": "bounded reading; exact scope below",
+      "read_scope": "Complete China resolution at printed OJ C112 E/313, PDF page 6 of 6: title, consultation basis, all recitals, operative 1–2. Preceding Turkey resolution not audited. Earlier ep-resolution-2001.html acquisition is site shell, not preserved substantive resolution.",
+      "evidentiary_use": "Parliament approves Community position October 25, distinct from bilateral signature and final accession.",
+      "limits": "Not rapporteur’s explanatory report; A5-0366 full report remains unacquired.",
+      "source_dependence": "Official parliamentary act, not another negotiating narrative.",
+      "preserved_copy": {
+        "path": "/Users/jorsc/.codex/.chatgpt-projects/g-p-6a94dd290a988191911d85ae8fe94a6c/tmp/pdfs/research-2026-09-15/eu/ep-resolution-original.pdf",
+        "bytes": 53128,
+        "sha256": "193ca8e6f01d8a2547ce708cbef75897327f5972fe399b457b88a6399ae6c049"
+      }
+    },
+    {
+      "id": "EWT-18",
+      "title": "欧盟在中美欧经贸大三角中的“借力型战略”, 欧洲观察2021年第4期/总184期",
+      "author_or_institution": "张晓通 (Zhang Xiaotong)",
+      "publication_date": "2021-09 (issue); uploaded 2021-12-02",
+      "source_type": "Scholarly essay in accessible institutional reprint",
+      "url": "https://www.sies.org.cn/uploadfile/file/european%20survey/202112020857569596_%E3%80%8A%E6%AC%A7%E6%B4%B2%E8%A7%82%E5%AF%9F%E3%80%8B2021%E5%B9%B4%E7%AC%AC4%E6%9C%9F%281%29.pdf.pdf",
+      "read_date": "2026-09-15",
+      "reading_status": "bounded reading; exact scope below",
+      "read_scope": "Complete selected WTO section printed 10–13/PDF 11–14; preceding 1979 passage printed 9/PDF 10 read; introduction partly screened. Full article printed 2–23 not claimed read. Colophon identifies内部交流刊物. Author footnote on printed 2/PDF 3 subsequently read: original article appeared in 欧洲研究2021年第3期,pp 17–42; reprint says occasional changes made.",
+      "evidentiary_use": "Alternative hypothesis of EU using US pressure/PNTR window to advance differentiated interests.",
+      "limits": "Accessible version is institutional reprint in internally circulated 欧洲观察; author footnote identifies original 欧洲研究2021 no 3 pp 17–42, with occasional changes. Original journal version not acquired or double-counted. Lamy, Li Lanqing and Algieri works cited but not acquired here; apparent House/Senate imprecision not propagated.",
+      "source_dependence": "Explicit reliance on Li Lanqing 2008 p 335, Lamy translated memoir 2004 withoutpages, Algieri CQ169 pp 74–75 and FT1999. Not independent verification of those underlying accounts.",
+      "preserved_copy": {
+        "path": "/Users/jorsc/.codex/.chatgpt-projects/g-p-6a94dd290a988191911d85ae8fe94a6c/tmp/pdfs/research-2026-09-15/eu/china-eu-2021.pdf",
+        "bytes": 933058,
+        "sha256": "4a843514c9e2b7891927a60b0e43d9ddec86ab29b1443fd7f19d2d46ecd54e59"
+      }
+    },
+    {
+      "id": "EWT-19",
+      "title": "拉米认为加入WTO将为中国改革提供新动力",
+      "author_or_institution": "余东晖, China News Service, reproduced by Sina",
+      "publication_date": "2000-05-19",
+      "source_type": "Contemporary reported full speech translation",
+      "url": "https://news.sina.com.cn/china/2000-05-19/91053.html",
+      "read_date": "2026-09-15",
+      "reading_status": "bounded reading; exact scope below",
+      "read_scope": "Complete reported speech text read, including reform hopes, thanks to Brittan/Beseler, completion/implementation and 25 thanniversary remarks.",
+      "evidentiary_use": "Lamy’s public account of reciprocal gains and expected reform stimulus.",
+      "limits": "Chinese-language reported全文; translator unidentified, English EU transcript not independently checked. Public advocacy does not establish political liberalization outcomes.",
+      "source_dependence": "Same reporter/agency family as EWT-08; speech not private minutes.",
+      "preserved_copy": {
+        "path": "/Users/jorsc/.codex/.chatgpt-projects/g-p-6a94dd290a988191911d85ae8fe94a6c/tmp/pdfs/research-2026-09-15/eu/cn-may19-lamy.html",
+        "bytes": 28125,
+        "sha256": "c39f119052487d8694aa05edf233d57cf8edff3535c68a2f0d992179c4006cd7"
+      }
+    }
+  ],
+  "source_count": 19,
+  "preservation_policy": "Full copyrighted works, HTML and OCR are outside Git. Hashes concern acquired bytes, not authentication of each claim. Web-read-only source EWT-11 has no preserved original. Duplicate versions do not count as independent witnesses.",
+  "unacquired_priority_records": [
+    {
+      "title": "Full signed 19 May 2000 EC–China WTO bilateral agreement and annexes",
+      "why": "Attribute issue-specific concessions to bilateral snapshot; final WTO schedule alone insufficient."
+    },
+    {
+      "title": "EU compromise outline second page; February tariff/procurement annexes; remainder of China March 30 package",
+      "why": "Recover conditions and reciprocal exchanges omitted from published facsimiles."
+    },
+    {
+      "title": "European Article 133/Commission/member-state instructions, March and May 2000",
+      "why": "Date authorization to accept 49 mobile and 50 life; distinguish advance authority, conditional authority and meeting-induced mandate."
+    },
+    {
+      "title": "Chinese 49-percent collective decision and May 18–19 coordination records",
+      "why": "Identify responsible bodies, timing and reasons without reading unity/disunity from outcome."
+    },
+    {
+      "title": "PBOC approval and Portuguese request concerning Zhuhai; original 3-year offer",
+      "why": "Test Deng recollection and commercial importance; February EU request was immediate opening."
+    },
+    {
+      "title": "Seven insurer approvals and two sub-branch approvals, with dates and scope",
+      "why": "Separate announced package, licenses, sub-branches and operating rights."
+    },
+    {
+      "title": "Hans-Friedrich Beseler, The EU–China Negotiations: Breaking the Deadlock, in Holbig/Ash, China’s Accession to the WTO,2002,pp 3–20",
+      "url": "https://www.routledge.com/Chinas-Accession-to-the-World-Trade-Organization-National-and-International-Perspectives/Holbig-Ash/p/book/9780700716616",
+      "reading_status": "Metadata/preview screening only; full chapter not acquired, substantive claims not used."
+    },
+    {
+      "title": "Lamy 2004 translated memoir; Algieri China Quarterly 169(2002); original FT reports",
+      "why": "Trace EWT-18 and EWT-14 dependencies; abstracts/search snippets not substituted for reading."
+    }
+  ],
+  "quality_flags": [
+    "EWT-02 corporate RMB3-year and non-life business-scope 1-year summaries conflict with final 2-year provisions.",
+    "EWT-04 insurance geography US3-year comparison differs from EWT-05 US5-year version.",
+    "Deng’s general statement that EU rejected US agreement as basis differs from Beseler January account; baseline versus sufficiency may partly reconcile.",
+    "Document language China confirms inside an EU proposal does not prove assent; unassigned manuscript ticks do not establish acceptance.",
+    "June 2001 USTR reinsurance timetable differs from final schedule; no change narrative inferred without intervening texts."
+  ],
+  "independent_review": {
+    "reviewer": "book_architecture_audit agent",
+    "status": "Completed 2026-09-15. Reviewer visually inspected Chinese May chronology and final WTO retail/banking pages, checked Commission/MEMO/Parliament passages, read all 23 move records and consequential revised case passages. Corrections incorporated on EU mandate timing, coordination inference, Commission non-life scope, final foreign-majority exception, MEMO attribution and Parliament link. Reviewer reported no remaining substantive correction. Not external expert review or full independent reread of every source."
+  }
+}

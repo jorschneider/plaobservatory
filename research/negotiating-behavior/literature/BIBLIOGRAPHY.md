@@ -1,10 +1,10 @@
 # Candidate bibliography and access routes
 
-Initial screen: 5 September 2026, **36 works; none fully read during that screen.** The current [full-text ledger](readings/README.md) and [latest comparative assessment](../cases/implementation-and-major-power-reassessment.md) supersede that reading status; current registers preserve both stages. See the [reading and acquisition plan](README.md) for priorities. Each linked register records reading scope, verified methods and limitations. Publication year can differ from online release and from the period studied.
+Initial screen: 5 September 2026, **36 works; none fully read during that screen.** The current [full-text ledger](readings/README.md) and [Russian comparative assessment](../cases/russia-and-scope-reassessment.md) and [manuscript](../manuscript/README.md) supersede that reading status; current registers preserve both stages. See the [reading and acquisition plan](README.md) for priorities. Each linked register records reading scope, verified methods and limitations. Publication year can differ from online release and from the period studied.
 
 “Public route” includes publisher or author copies and institutional records with downloads; it does not assert successful complete retrieval. “Copy useful” means no usable full text obtained in this search. Acquisition priorities are in the reading plan, not the order of this complete bibliography.
 
-The current candidate registers contain **37 works**, adding Wei and Summers’ historical study to the original 36. Related versions, summaries and forward-citation leads are recorded separately.
+The current candidate registers contain **37 works**, adding Wei and Summers’ historical study to the original 36. The later case-specific works listed below are outside that screening population; the [reading ledger](readings/README.md) records actual complete readings across both groups. Related versions, summaries and forward-citation leads are recorded separately.
 
 ## Direct negotiation studies
 
@@ -96,6 +96,16 @@ The current candidate registers contain **37 works**, adding Wei and Summers’ 
 
 - Chadha, Saheb Singh. 2024. Negotiating the India-China Standoff: 2020–2024. Carnegie India / Carnegie Endowment for International Peace, December. 74 PDF pages. [Citation/source](https://assets.carnegieendowment.org/static/files/Negotiating%20the%20India-China%20Standoff%202020_2024.pdf). **Complete main report and all 279 notes read 10 September 2026; annex inventory and selected originals, not the whole statement compilation.** [Access route](https://assets.carnegieendowment.org/static/files/Negotiating%20the%20India-China%20Standoff%202020_2024.pdf). Type: institutional policy research report; supplemental to scholarly shortlist. [Case and audit](../cases/india-border-2020-2024.md).
 
+## Additional scholarship from the EU and climate cases
+
+- Conrad, Björn. 2012. “China in Copenhagen: Reconciling the ‘Beijing Climate Revolution’ and the ‘Copenhagen Climate Obstinacy’.” *China Quarterly* 210:435–455. [DOI](https://doi.org/10.1017/S0305741012000458); [complete article](https://gppi.net/assets/Conrad_2012_China-Quarterly_Copenhagen.pdf). All 21 pages and 55 notes read. [Critical use and methods](../cases/climate-2009-2015.md#2-who-could-authorize-movement).
+
+- Zhang, Hao. 2022. “China and Climate Multilateralism: A Review of Theoretical Approaches.” *Politics and Governance* 10(2):50–60. [DOI](https://doi.org/10.17645/pag.v10i2.4920); [complete article](https://www.cogitatiopress.com/politicsandgovernance/article/download/4920/2632). All 11 pages including references read; review, not an independent negotiation investigation. [Source and limitations, CLI18](../sources/climate-2009-2015-register.json).
+
+- Mattoo, Aaditya. 2002. *China’s Accession to the WTO: The Services Dimension*. World Bank Policy Research Working Paper 2932, December. [Original PDF](https://documents1.worldbank.org/curated/en/231201468770437827/pdf/multi0page.pdf). Complete narrative and specified table material read; dense appendix and final figure not fully audited. Related later versions not counted separately. [EWT-14](../sources/eu-wto-2000-register.json).
+
+- 张晓通. 2021. 〈欧盟在中美欧经贸大三角中的“借力型战略”〉. Original citation given in accessible reprint: *欧洲研究* 2021(3):17–42. Selected WTO section read in *欧洲观察* 2021(4), an institutional reprint reporting some changes; original journal version not acquired. [Version, access URL and exact scope, EWT-18](../sources/eu-wto-2000-register.json).
+
 ## Additional case-specific policy and participant texts
 
 These supporting texts sit outside the 37-work candidate register; complete and selected readings are not added indiscriminately to the scholarly count.
@@ -109,3 +119,7 @@ These supporting texts sit outside the 37-work candidate register; complete and 
 - Yermakov, Vitaly, and Michal Meidan. 2022. *Russia and China Expand Their Gas Deal: Key Implications*. Oxford Institute for Energy Studies, March. Complete 13-page paper, 30 notes and seven figures read. [Original PDF](https://www.oxfordenergy.org/wpcms/wp-content/uploads/2022/03/Russia-and-China-Expand-Their-Gas-Deal-Key-Implications.pdf); [case and critical use](../cases/russia-gas-bargaining.md).
 
 - Paik, Keun-Wook. 2015. *Sino-Russian Gas and Oil Cooperation: Entering into a New Era of Strategic Partnership?* OIES WPM 59, April. Selected sections and notes only, with scope in the [gas register, RUS-G09](../sources/russia-gas-register.json). [Original PDF](https://www.oxfordenergy.org/wpcms/wp-content/uploads/2015/04/WPM-59.pdf).
+
+- Lapres, Daniel Arthur. 2000. “The EU-China WTO Deal Compared.” *The China Business Review*, July–August:8,10–12,14. [Original issue](https://www.uschina.org/wp-content/uploads/2022/09/July-August-2000.pdf). Complete article and two-page comparison table read, not the whole issue. Practitioner analysis, separately checked against contemporary summaries and final schedules. [EWT-04](../sources/eu-wto-2000-register.json).
+
+- Stern, Todd. 2019. Interview with James Green, US–China Dialogue Podcast, Georgetown University, August 26. [Complete written transcript](https://uschinadialogue.georgetown.edu/podcasts/todd-stern) read; audio not reviewed. Participant recollection, corrected against dated target statements. [CLI06](../sources/climate-2009-2015-register.json).

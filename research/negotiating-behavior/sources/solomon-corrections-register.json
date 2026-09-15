@@ -1,0 +1,71 @@
+{
+  "updated": "2026-09-15",
+  "purpose": "External verification of three factual issues already visually checked in the supplied Solomon printing; no change to baseline proposition extraction.",
+  "sources": [
+    {
+      "url": "https://www.visitthecapitol.gov/artifact/treaty-wangxia-treaty-peace-amity-and-commerce-between-united-states-and-china-july-3-1844",
+      "resolved_url": "https://www.visitthecapitol.gov/artifact/treaty-wangxia-treaty-peace-amity-and-commerce-between-united-states-and-china-july-3-1844",
+      "local_path": "/Users/jorsc/.codex/.chatgpt-projects/g-p-6a94dd290a988191911d85ae8fe94a6c/tmp/pdfs/research-2026-09-15/baseline/wangxia-artifact.html",
+      "sha256": "46b8b297003208819535920bf24573d391b02d7853d2cae94a777b049f1d3c7b",
+      "retrieved": "2026-09-15",
+      "id": "SOL-COR01",
+      "title": "US Capitol Visitor Center, Treaty of Wangxia artifact description",
+      "source_type": "Official retrospective artifact description; National Archives object",
+      "reading_scope": "Complete descriptive text and caption read; artifact treaty image and full instrument not audited.",
+      "access_date": "2026-09-15"
+    },
+    {
+      "url": "https://history.state.gov/milestones/1830-1860/china-1",
+      "resolved_url": "https://history.state.gov/milestones/1830-1860/china-1",
+      "local_path": "/Users/jorsc/.codex/.chatgpt-projects/g-p-6a94dd290a988191911d85ae8fe94a6c/tmp/pdfs/research-2026-09-15/baseline/wangxia-historical-essay.html",
+      "sha256": "5672dec61dd9a798d91cfb92efb1b785579a579562cc7854c5a008493613ed33",
+      "retrieved": "2026-09-15",
+      "id": "SOL-COR02",
+      "title": "Office of the Historian, The Opening to China Part I",
+      "source_type": "Official retrospective historical essay, marked retired by the host",
+      "reading_scope": "Complete substantive essay read; used only for identification and differentiation of 1842 and 1844 treaties, not as independent negotiation reconstruction.",
+      "access_date": "2026-09-15"
+    },
+    {
+      "url": "https://history.state.gov/historicaldocuments/frus1977-80v13/d171",
+      "resolved_url": "https://history.state.gov/historicaldocuments/frus1977-80v13/d171",
+      "local_path": "/Users/jorsc/.codex/.chatgpt-projects/g-p-6a94dd290a988191911d85ae8fe94a6c/tmp/pdfs/research-2026-09-15/baseline/normalization-frus171.html",
+      "sha256": "5da442b89afc8556d8deec9f24616746205e7595c7e2b7d08d6c6c726cec5dd8",
+      "retrieved": "2026-09-15",
+      "id": "SOL-COR03",
+      "title": "Vance and Brzezinski to Unger, December 15, 1978, FRUS 1977–1980 XIII, document171",
+      "source_type": "Contemporary US message, subsequently selected and published in FRUS",
+      "reading_scope": "Complete message, enclosed US statement and joint communiqué, and both source notes read.",
+      "access_date": "2026-09-15"
+    },
+    {
+      "url": "https://history.state.gov/historicaldocuments/frus1977-80v13/d310",
+      "resolved_url": "https://history.state.gov/historicaldocuments/frus1977-80v13/d310",
+      "local_path": "/Users/jorsc/.codex/.chatgpt-projects/g-p-6a94dd290a988191911d85ae8fe94a6c/tmp/pdfs/research-2026-09-15/baseline/geng-frus310.html",
+      "sha256": "c83180f05c215caac16717f432450b486a73fbe207bb9e1a7aa6f9b73bfed671",
+      "retrieved": "2026-09-15",
+      "id": "SOL-COR04",
+      "title": "Memorandum of Conversation, May 28, 1980, FRUS 1977–1980 XIII, document310",
+      "source_type": "Contemporary US conversation memorandum, subsequently selected and published in FRUS",
+      "reading_scope": "Complete subject, participants, conversation and two source notes read. Linked Brown, Muskie and Brzezinski meeting files not acquired in this correction.",
+      "access_date": "2026-09-15"
+    },
+    {
+      "url": "https://www.mfa.gov.cn/web/ziliao_674904/wjrw_674925/lrfbzjbzzl_674933/200011/t20001107_9881151.shtml",
+      "resolved_url": "https://www.mfa.gov.cn/web/ziliao_674904/wjrw_674925/lrfbzjbzzl_674933/200011/t20001107_9881151.shtml",
+      "local_path": "/Users/jorsc/.codex/.chatgpt-projects/g-p-6a94dd290a988191911d85ae8fe94a6c/tmp/pdfs/research-2026-09-15/baseline/geng-mfa-biography.html",
+      "sha256": "3c553b06d9d3dde23600305138d6e5ae1d58a340677558b20424ae68e18a60e8",
+      "retrieved": "2026-09-15",
+      "id": "SOL-COR05",
+      "title": "中华人民共和国外交部：耿飚",
+      "source_type": "Official retrospective biographical chronology",
+      "reading_scope": "Complete substantive biography read. Site navigation and related links are not biographical evidence; original March1981 appointment instrument not acquired.",
+      "access_date": "2026-09-15"
+    }
+  ],
+  "limits": [
+    "Downloaded HTML preserved outside Git.",
+    "A contemporary American meeting record and a later Chinese biography have different provenance.",
+    "Full treaty negotiations and original Chinese appointment records are not audited here."
+  ]
+}

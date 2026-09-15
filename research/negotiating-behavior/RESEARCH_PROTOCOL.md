@@ -73,7 +73,7 @@ Broader contextual reading should cover foreign-policy speeches and white papers
 
 ## Comparative sequence after the pilot
 
-These are research priorities, not completed cases or claims about their outcomes.
+This table preserves the comparative design. Current completion and reading scope are in the [dossier index](README.md) and [manuscript architecture](manuscript/README.md); a proposed comparison is not itself a claim about an outcome.
 
 | Priority | Proposed comparison | What it can test | Required expansion of the source base |
 |---|---|---|---|
@@ -102,6 +102,10 @@ The subsequent [2018–2026 trade case](cases/us-trade-2018-2026-synthesis.md) a
 The [10 September implementation and India comparison](cases/implementation-and-major-power-reassessment.md) adds decision-level controls. Separate a policy announcement, application, acceptance, permit, registration and operation. In agricultural review distinguish original approval from renewal, import processing from cultivation, and the age of pending cases from the duration of completed decisions. Use other jurisdictions' treatment of the same product to check commercial-delay attribution. For security, distinguish disengagement, restored access, de-escalation and boundary settlement, and read short communiqués alongside available operational accounts. Selected cases test mechanisms and categorical claims; they do not estimate average treatment effects or isolate counterpart identity when the issue also changes.
 
 The [Russian and 2017 follow-up](cases/russia-and-scope-reassessment.md) adds further controls. Treat sovereignty, economic use, commercial terms and administrative scope as separate bargaining objects. Retain project identity and commitment stage when names or routes change. Distinguish the date of an authorization from when observers could obtain it: retrospective evidence does not automatically validate a prospective signal. Record the agreed application population before evaluating completion, and separate a changed interpretation from repudiation of a previously shared commitment. Expected counterpart cooperation may explain an offer; realized assistance is a further outcome to test.
+
+The [15 September EU comparison](cases/eu-wto-2000-comparison.md) requires a version-specific baseline for every concession: prior American terms, European requests, Chinese counteroffers and final multilateral schedules are different documents. Distinguish authoritative confirmation of a limit from authorization to remove it, and investigate the counterpart’s mandate too. The [climate comparison](cases/climate-2009-2015.md) separates national ambition, legal obligation, international scrutiny and reciprocal endorsement. COP text adoption does not establish ratification; common procedures do not imply identical substantive targets; institutional specification after 2009 must not be narrated as the first acceptance of all external scrutiny.
+
+The [working manuscript](manuscript/README.md) now supplies the finite chapter sequence and completion requirements. Drafting must proceed alongside the remaining research, with causal uncertainty inside the prose. A validated source register or a long dossier is not a finished historical argument.
 
 Publish original analysis, source metadata, short necessary quotations, and links. Keep downloaded books, full OCR, and interview materials outside the public repository unless redistribution rights and interview permissions are clear. A government-hosted copy is evidence of availability, not blanket permission to republish every page.
 

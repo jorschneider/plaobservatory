@@ -1,0 +1,541 @@
+{
+  "case": "EU–China WTO accession comparison,2000–2001",
+  "research_date": "2026-09-15",
+  "record_count": 23,
+  "date_policy": "Event dates separated from document publication dates. Dates in later official narrative are reported chronology, not contemporaneous unmediated minutes. May compromise facsimile only month-dated.",
+  "classification_policy": "An unaccepted proposal, a reported request for authority, public support, final schedule and actual implementation are separate objects. Handwritten ticks on EU proposal do not prove assent. Later narration and reproduced documents in same volume are source-dependent.",
+  "moves": [
+    {
+      "id": "EWT-M01",
+      "event_date": "1999-11-16",
+      "record_type": "public outcome summary (agreement signed previous day)",
+      "actor": "White House",
+      "setting_channel_audience": "Public US announcement",
+      "issue_and_baseline": "Services terms of November bilateral agreement",
+      "observed_move_or_state": "Reports life insurance 50% and partner choice; insurance geography and group/health/pension 5-year phase-ins; corporate RMB2 years and individuals 5; mobile 49% cap without complete equity timetable.",
+      "next_observable_response": "EU negotiations continue in 2000.",
+      "authority_evidence": "US public characterization; signed bilateral annex not acquired.",
+      "source_references": [
+        {
+          "source_id": "EWT-05",
+          "locator": "Services: telecommunications, insurance, banking"
+        }
+      ],
+      "confidence": "Source-specific; limits below",
+      "inference_limit": "Public summary not negotiated annex. Do not treat all later public US columns as identical versions.",
+      "claim_ids": [
+        "S-P19"
+      ]
+    },
+    {
+      "id": "EWT-M02",
+      "event_date": "2000-01-24/2000-01-26",
+      "record_type": "reported negotiation",
+      "actor": "Beseler; Long Yongtu",
+      "setting_channel_audience": "Brussels, chief-negotiator consultations",
+      "issue_and_baseline": "EU interests following US agreement",
+      "observed_move_or_state": "Beseler reports tariff list reduced 580-plus to 150 and proposes negotiating from US baseline under MFN while satisfying distinct EU interests; Long says sensitive-sector limits already politically balanced by concessions elsewhere.",
+      "next_observable_response": "Lamy seeks further technical narrowing before final political round.",
+      "authority_evidence": "Both delegations invoke constituency/leadership constraints; internal instructions missing.",
+      "source_references": [
+        {
+          "source_id": "EWT-01",
+          "locator": "printed 370/PDF 405, visually read"
+        }
+      ],
+      "confidence": "High for read document content; retrospective attributed dialogue remains source-specific",
+      "inference_limit": "Contrasts Deng later broad statement EU rejected US deal as basis. Supplements versus sufficiency may reconcile; national style not isolated.",
+      "claim_ids": [
+        "S-P19",
+        "S-C09",
+        "S-C10"
+      ]
+    },
+    {
+      "id": "EWT-M03",
+      "event_date": "2000-01-26",
+      "record_type": "reported minister/chief-negotiator assessment",
+      "actor": "Lamy; Long Yongtu",
+      "setting_channel_audience": "Brussels, review of technical round",
+      "issue_and_baseline": "Many unresolved issues",
+      "observed_move_or_state": "Lamy says not yet ready for final political resolution of a few questions; wants Beijing visit to conclude successfully and plans member-state ministerial coordination.",
+      "next_observable_response": "February technical talks scheduled.",
+      "authority_evidence": "Lamy explicitly refers to members and explaining failure; no mandate text.",
+      "source_references": [
+        {
+          "source_id": "EWT-01",
+          "locator": "printed 371/PDF 406, visually read"
+        }
+      ],
+      "confidence": "High for read document content; retrospective attributed dialogue remains source-specific",
+      "inference_limit": "Stated preparation strategy; not evidence he controlled subsequent outcome.",
+      "claim_ids": [
+        "S-P24"
+      ]
+    },
+    {
+      "id": "EWT-M04",
+      "event_date": "2000-02-23",
+      "record_type": "dated EU proposal facsimile",
+      "actor": "EU delegation",
+      "setting_channel_audience": "Technical package transmitted before contemplated Lamy visit",
+      "issue_and_baseline": "Tariffs, procurement, services; reserved telecom/insurance issues",
+      "observed_move_or_state": "Technical services page seeks Zhuhai RMB opening upon accession while dropping Beijing acceleration request; proposes chain-store phase-in; leaves ownership caps/CCF and insurance equity/statutory/brokerage/licenses open. Goods page refers to absent tariff and procurement annexes.",
+      "next_observable_response": "Chinese history reports remaining differences and no immediate Lamy visit.",
+      "authority_evidence": "Document itself identifies chief-negotiator items and issues left open; marked handwriting author unknown.",
+      "source_references": [
+        {
+          "source_id": "EWT-01",
+          "locator": "printed 374–375/PDF 409–410, complete reproduced two pages visually read"
+        }
+      ],
+      "confidence": "High for read document content; retrospective attributed dialogue remains source-specific",
+      "inference_limit": "Wording China confirms does not establish agreement; handwritten ticks not acceptance. References to annexes do not supply annex contents.",
+      "claim_ids": [
+        "S-P12",
+        "S-P24"
+      ]
+    },
+    {
+      "id": "EWT-M05",
+      "event_date": "2000-02-24",
+      "record_type": "reported conditional non-visit",
+      "actor": "Beseler; Long Yongtu; Lamy by instruction",
+      "setting_channel_audience": "Beijing technical talks",
+      "issue_and_baseline": "EU technical list not completely accepted",
+      "observed_move_or_state": "Beseler says list must be resolved before Lamy comes; proposed visit does not follow this round.",
+      "next_observable_response": "Ministerial round eventually held lateMarch.",
+      "authority_evidence": "Beseler reports explicit Lamy instruction; original cable/mandate unavailable.",
+      "source_references": [
+        {
+          "source_id": "EWT-01",
+          "locator": "printed 373/PDF 408, narrative; February 21–24 dates visually confirmed printed 371"
+        }
+      ],
+      "confidence": "High for read document content; retrospective attributed dialogue remains source-specific",
+      "inference_limit": "Negative observation is tied to this visit, not general refusal to negotiate.",
+      "claim_ids": [
+        "S-P24"
+      ]
+    },
+    {
+      "id": "EWT-M06",
+      "event_date": "2000-03-29",
+      "record_type": "reported senior meeting",
+      "actor": "Zhu Rongji; Lamy",
+      "setting_channel_audience": "Beijing",
+      "issue_and_baseline": "Sensitive ownership/state-trading ceilings versus other commercial interests",
+      "observed_move_or_state": "Zhu distinguishes sensitive limits from issues where country-specific commercial interests could receive compensation.",
+      "next_observable_response": "Both sides submit packages March 30; no agreement at end of round.",
+      "authority_evidence": "Premier’s stated position in later official account, not private collective decision text.",
+      "source_references": [
+        {
+          "source_id": "EWT-01",
+          "locator": "printed 376/PDF 411"
+        }
+      ],
+      "confidence": "High for read document content; retrospective attributed dialogue remains source-specific",
+      "inference_limit": "Senior involvement occurs in unsuccessful round; caution against selecting only May success.",
+      "claim_ids": [
+        "S-P24",
+        "S-C09"
+      ]
+    },
+    {
+      "id": "EWT-M07",
+      "event_date": "2000-03-30",
+      "record_type": "dated Chinese proposal facsimile",
+      "actor": "Chinese delegation",
+      "setting_channel_audience": "China’s Comprehensive Proposal to EU, first page",
+      "issue_and_baseline": "Autos, oil, fertilizer, cigarettes, national treatment, tariffs",
+      "observed_move_or_state": "Retains auto 50% JV and 25% tariff by 1 July 2006; offers earlier oil quota/license elimination with timing explicitly for further negotiation and state trading retained; other package conditions on first page.",
+      "next_observable_response": "EU submits revised package.",
+      "authority_evidence": "Official proposal language, but no signature or indication of final assent.",
+      "source_references": [
+        {
+          "source_id": "EWT-01",
+          "locator": "printed 378/PDF 413, visually read English facsimile"
+        }
+      ],
+      "confidence": "High for read document content; retrospective attributed dialogue remains source-specific",
+      "inference_limit": "Only first page reproduced, ending mid-tariff paragraph. Offer not final commitment; conditional timing not omission to fill from final schedule.",
+      "claim_ids": [
+        "S-P12",
+        "S-P05"
+      ]
+    },
+    {
+      "id": "EWT-M08",
+      "event_date": "2000-03-30",
+      "record_type": "EU proposal in editorial transcription",
+      "actor": "EU delegation",
+      "setting_channel_audience": "Chinese history Box 5-10",
+      "issue_and_baseline": "Wine and mobile/life ownership alternatives",
+      "observed_move_or_state": "Wine demand moves from 10 to 15 against China 20 offer. Mobile alternatives combine 25/35/50 with five-year endpoint or 35 initial/49 three years. Life alternatives combine 51 five years or 50 plus specified wholly owned branches.",
+      "next_observable_response": "Chinese March 31 response; differences and EU mandate constraints remain.",
+      "authority_evidence": "EU proposal as transcribed by later Chinese editors; no independent full original.",
+      "source_references": [
+        {
+          "source_id": "EWT-01",
+          "locator": "printed 379–380/PDF 414–415"
+        }
+      ],
+      "confidence": "High for read document content; retrospective attributed dialogue remains source-specific",
+      "inference_limit": "Alternative packages not cumulative concessions; wine 20 is China offer in this record, not independently authenticated US annex.",
+      "claim_ids": [
+        "S-P12"
+      ]
+    },
+    {
+      "id": "EWT-M09",
+      "event_date": "2000-03-31",
+      "record_type": "reported unsuccessful closure",
+      "actor": "Shi Guangsheng; Lamy",
+      "setting_channel_audience": "Beijing final March exchanges",
+      "issue_and_baseline": "Life and auto ceilings; residual package",
+      "observed_move_or_state": "Chinese response does not close gap. Lamy says needs return and coordinate authority for accepting ceilings.",
+      "next_observable_response": "April Council publicly supports Lamy approach; May resumed talks.",
+      "authority_evidence": "Mandate constraint is attributed Lamy statement in Chinese record.",
+      "source_references": [
+        {
+          "source_id": "EWT-01",
+          "locator": "printed 377,380/PDF 412,415"
+        }
+      ],
+      "confidence": "High for read document content; retrospective attributed dialogue remains source-specific",
+      "inference_limit": "Original EU instructions absent. Cannot infer one ministry caused failure.",
+      "claim_ids": [
+        "S-P24",
+        "S-C19"
+      ]
+    },
+    {
+      "id": "EWT-M10",
+      "event_date": "2000-04-10/2000-04-11",
+      "record_type": "Council position reported in national parliament",
+      "actor": "EU General Affairs Council; UK reporting minister",
+      "setting_channel_audience": "Luxembourg Council; written answer publishedApril 18",
+      "issue_and_baseline": "Post-March negotiation",
+      "observed_move_or_state": "UK reports Council supports Lamy approach and calls for reciprocal Chinese flexibility.",
+      "next_observable_response": "May round follows.",
+      "authority_evidence": "Public support only; no confidential negotiating authority disclosed.",
+      "source_references": [
+        {
+          "source_id": "EWT-06",
+          "locator": "China/WTO paragraph 7"
+        }
+      ],
+      "confidence": "Source-specific; limits below",
+      "inference_limit": "Separate event/publication dates; this is UK account of Council, not original minutes.",
+      "claim_ids": [
+        "S-P24"
+      ]
+    },
+    {
+      "id": "EWT-M11",
+      "event_date": "2000-05-08",
+      "record_type": "public leader statement",
+      "actor": "Zhu Rongji; Danish PM Poul Nyrup Rasmussen",
+      "setting_channel_audience": "Beijing bilateral meeting",
+      "issue_and_baseline": "Timeliness of EU accession agreement",
+      "observed_move_or_state": "Zhu hopes agreement soon and EU not last; Danish leader promises efforts within EU.",
+      "next_observable_response": "May 11–13 technical and May 15 ministerial talks.",
+      "authority_evidence": "Premier’s stated preference; public MFA account.",
+      "source_references": [
+        {
+          "source_id": "EWT-07",
+          "locator": "Complete short meeting account"
+        }
+      ],
+      "confidence": "Source-specific; limits below",
+      "inference_limit": "Page publishedNov 7 but eventMay 8. Preference not evidence of hard deadline/pressure effect.",
+      "claim_ids": [
+        "S-P23"
+      ]
+    },
+    {
+      "id": "EWT-M12",
+      "event_date": "2000-05 (exact day unknown)",
+      "record_type": "conditional EU compromise document facsimile",
+      "actor": "EU delegation",
+      "setting_channel_audience": "China–EU bilateral negotiations—outline for compromise agreement",
+      "issue_and_baseline": "Ownership caps, state trading, autos; requests on absent second page",
+      "observed_move_or_state": "Proposes mobile 50 after 5 years (25 initial,35 one,49 three), alternative life ownership/branch terms and retained state trading conditional on private import access; expressly conditions package on full satisfaction of page 2 requests.",
+      "next_observable_response": "Narrative records further May 15–19 negotiations; exact delivery date unresolved.",
+      "authority_evidence": "Proposal labelled by editors May 2000; not an approved deal.",
+      "source_references": [
+        {
+          "source_id": "EWT-01",
+          "locator": "printed 382/PDF 417, English first page"
+        }
+      ],
+      "confidence": "High for read document content; retrospective attributed dialogue remains source-specific",
+      "inference_limit": "No exact-day inference; second page missing; multiple earlier demands described are not a single baseline.",
+      "claim_ids": [
+        "S-P12"
+      ]
+    },
+    {
+      "id": "EWT-M13",
+      "event_date": "2000-05-15",
+      "record_type": "reported new authority and renewed ministerial round",
+      "actor": "Lamy; Shi Guangsheng",
+      "setting_channel_audience": "Beijing; political and technical channels",
+      "issue_and_baseline": "Life/auto/mobile ownership and compensating terms",
+      "observed_move_or_state": "Chinese history reports Lamy authorized to accept 50 life with compensation and 50 auto with tariff compensation; mobile remains unsettled.",
+      "next_observable_response": "May 16–18 renewed demands and request for premier confirmation.",
+      "authority_evidence": "Lamy’s reported description of member-state authority; instructions not recovered.",
+      "source_references": [
+        {
+          "source_id": "EWT-01",
+          "locator": "printed 381/PDF 416"
+        },
+        {
+          "source_id": "EWT-08",
+          "locator": "Full opening-day report"
+        }
+      ],
+      "confidence": "High for read document content; retrospective attributed dialogue remains source-specific",
+      "inference_limit": "Press confirms round opening, not confidential authority. No independent corroboration by double-counting.",
+      "claim_ids": [
+        "S-P24"
+      ]
+    },
+    {
+      "id": "EWT-M14",
+      "event_date": "2000-05-17/2000-05-18",
+      "record_type": "reported request for authoritative confirmation",
+      "actor": "Lamy; Shi Guangsheng",
+      "setting_channel_audience": "Beijing negotiation",
+      "issue_and_baseline": "Lamy says MarchZhu remarks understood as mobile 50, whereas 49 outside his authority",
+      "observed_move_or_state": "Requests Chinese leader confirmation that 49 is final, to obtain/clarify European authority; later May 18 alternatives involve initial equity, chain store scope, insurers and sub-branches.",
+      "next_observable_response": "May 19 meeting follows; exact time Brussels authorizes acceptance not established.",
+      "authority_evidence": "Lamy requests senior confirmation; no EU council/commission instruction exposed.",
+      "source_references": [
+        {
+          "source_id": "EWT-01",
+          "locator": "printed 383–384/PDF 418–419"
+        }
+      ],
+      "confidence": "High for read document content; retrospective attributed dialogue remains source-specific",
+      "inference_limit": "Reported request does not prove meeting caused new mandate. Distinguish request, prior consultations and later acceptance.",
+      "claim_ids": [
+        "S-P24",
+        "S-P19"
+      ]
+    },
+    {
+      "id": "EWT-M15",
+      "event_date": "2000-05-18/2000-05-19 morning",
+      "record_type": "reported coordination and result",
+      "actor": "Shi Guangsheng; Chinese delegation",
+      "setting_channel_audience": "Beijing evening and following morning",
+      "issue_and_baseline": "Lamy seeks better compensation; Chinese offer 4 life/2 non-life versus EU6 life/3 non-life in May 18 account",
+      "observed_move_or_state": "Shi agrees to attempt coordination while warning of limited room; following morning reports coordination unsuccessful and maintains offer.",
+      "next_observable_response": "Lamy reduces requests before Zhu meeting.",
+      "authority_evidence": "Attempted coordination reported, internal participants and reasons not supplied.",
+      "source_references": [
+        {
+          "source_id": "EWT-01",
+          "locator": "printed 384–385/PDF 419–420"
+        }
+      ],
+      "confidence": "High for read document content; retrospective attributed dialogue remains source-specific",
+      "inference_limit": "No inference that leadership was divided or instructions obstructed. Different dates’ license counts are offers, not contradictory final obligations.",
+      "claim_ids": [
+        "S-C09",
+        "S-C19",
+        "S-P24"
+      ]
+    },
+    {
+      "id": "EWT-M16",
+      "event_date": "2000-05-19 morning",
+      "record_type": "reported EU revised package",
+      "actor": "Lamy",
+      "setting_channel_audience": "Beijing, before premier meeting",
+      "issue_and_baseline": "Mobile initial equity and compensation",
+      "observed_move_or_state": "Accepts initial 25 mobile, revises chains proposal and seeks 5 life/2 non-life licenses plus sub-branch opportunities.",
+      "next_observable_response": "Noon Zhu confirms 49 mobile decision; conditional acceptance then afternoon text completion.",
+      "authority_evidence": "EU negotiator movement after previous two days consultations, precise mandate timing unknown.",
+      "source_references": [
+        {
+          "source_id": "EWT-01",
+          "locator": "printed 385/PDF 420"
+        }
+      ],
+      "confidence": "High for read document content; retrospective attributed dialogue remains source-specific",
+      "inference_limit": "Not all reported morning proposals proven verbatim adopted in final annex.",
+      "claim_ids": [
+        "S-P12",
+        "S-P24"
+      ]
+    },
+    {
+      "id": "EWT-M17",
+      "event_date": "2000-05-19 noon/afternoon",
+      "record_type": "reported authoritative confirmation and closure",
+      "actor": "Zhu; Lamy; Shi; Wu Yi",
+      "setting_channel_audience": "Premier meeting then technical text finalization and signing",
+      "issue_and_baseline": "49 mobile ceiling and compensating terms",
+      "observed_move_or_state": "Zhu confirms collective government 49 decision. Lamy says consulted members/industry preceding two days and will respect it, seeking compensation. Zhu accepts principle, specifics to negotiators; Wu notes distribution-product exceptions. Agreement signed afternoon.",
+      "next_observable_response": "Later EU summaries, license follow-up and multilateral consolidation.",
+      "authority_evidence": "Premier confirms Chinese ceiling; European acceptance reported after consultations. Neither internal mandate timeline recovered.",
+      "source_references": [
+        {
+          "source_id": "EWT-01",
+          "locator": "printed 385/PDF 420"
+        },
+        {
+          "source_id": "EWT-19",
+          "locator": "Lamy public signing speech"
+        }
+      ],
+      "confidence": "High for read document content; retrospective attributed dialogue remains source-specific",
+      "inference_limit": "Speech confirms ceremony/public account, not private details. Narrative 18:20 and contemporary 18:18 signing times not reconciled; no minute-level causal inference.",
+      "claim_ids": [
+        "S-P24",
+        "S-P12"
+      ]
+    },
+    {
+      "id": "EWT-M18",
+      "event_date": "2000-05-19 (initialling)",
+      "record_type": "published textile instrument",
+      "actor": "European Community; PRC",
+      "setting_channel_audience": "Exchange of letters, related bilateral textile bargain",
+      "issue_and_baseline": "Existing European MFA/non-MFA quotas and Chinese export administration",
+      "observed_move_or_state": "Specifies accession-related phase-outs/notifications and extension if accession after 2000; includes administrative arrangements and reciprocal provisional application.",
+      "next_observable_response": "Council signing/provisional application approvalNovember 23.",
+      "authority_evidence": "Actual published agreement; no unilateral authority inference.",
+      "source_references": [
+        {
+          "source_id": "EWT-15",
+          "locator": "Letter paragraphs 3–8; AnnexI prose; AnnexII selectedarticles 1–10"
+        }
+      ],
+      "confidence": "Source-specific; limits below",
+      "inference_limit": "Not full general WTO bilateral; unread category table precludes product-level calculations; retain safeguard/silk conditions.",
+      "claim_ids": [
+        "S-P12"
+      ]
+    },
+    {
+      "id": "EWT-M19",
+      "event_date": "2000-10-19",
+      "record_type": "official progress/implementation assessment",
+      "actor": "European Commission",
+      "setting_channel_audience": "Summit background public memo",
+      "issue_and_baseline": "Bilateral May agreement followed by remaining multilateral work and insurance licenses",
+      "observed_move_or_state": "Reports slow progress across 7 weeks of June/July/September talks, ten unresolved issue areas and wider Chinese ministries; seeks timing for 5 remaining new insurer licenses and 2 sub-branches. Commission reports China alleges demands beyond normal accession requirements, while members seek clarification.",
+      "next_observable_response": "Multilateral negotiations continue into 2001.",
+      "authority_evidence": "EU account of implementation and coordination needs.",
+      "source_references": [
+        {
+          "source_id": "EWT-10",
+          "locator": "PDFpp 1–2"
+        },
+        {
+          "source_id": "EWT-02",
+          "locator": "paragraph 37 total 7 new licenses plus 2 sub-branches before accession"
+        }
+      ],
+      "confidence": "Source-specific; limits below",
+      "inference_limit": "No individual license completion dates or breach finding.5 remaining new licenses is not the same count as 7 promised new licenses.",
+      "claim_ids": [
+        "S-P25",
+        "S-C09"
+      ]
+    },
+    {
+      "id": "EWT-M20",
+      "event_date": "2000-11-23/2000-11-24",
+      "record_type": "Council signing and provisional-application decision",
+      "actor": "EU Council",
+      "setting_channel_audience": "Decision 2000/787/EC",
+      "issue_and_baseline": "May 19 initialled textile instrument",
+      "observed_move_or_state": "Authorizes signing and provisional application subject to reciprocity; footnote commencementNovember 24.",
+      "next_observable_response": "Accession-related phase-out obligations depend on instrument terms.",
+      "authority_evidence": "Published Council articles 1–3.",
+      "source_references": [
+        {
+          "source_id": "EWT-16",
+          "locator": "Full decision and footnote"
+        }
+      ],
+      "confidence": "Source-specific; limits below",
+      "inference_limit": "Signing authorization, provisional application and final accession are distinct stages.",
+      "claim_ids": [
+        "S-P12"
+      ]
+    },
+    {
+      "id": "EWT-M21",
+      "event_date": "2001-06-04/2001-06-08",
+      "record_type": "further bilateral negotiation as reportedJune 14",
+      "actor": "USTR Zoellick; Shi Guangsheng",
+      "setting_channel_audience": "Shanghai; US release",
+      "issue_and_baseline": "Outstanding agriculture/trading rights/services details",
+      "observed_move_or_state": "US reports agreements and clarifications over insurance and retailing, including disputes about intervening Chinese drafts/regulatory descriptions.",
+      "next_observable_response": "Working Party and schedule completion later 2001.",
+      "authority_evidence": "US official account, intervening text versions missing.",
+      "source_references": [
+        {
+          "source_id": "EWT-11",
+          "locator": "Complete June 14 release"
+        }
+      ],
+      "confidence": "Source-specific; limits below",
+      "inference_limit": "Alleged undercutting not proven without shared baseline and drafts. LaterUS negotiations mean EU2000 not a clean last-mover endpoint.",
+      "claim_ids": [
+        "S-P19",
+        "S-P25"
+      ]
+    },
+    {
+      "id": "EWT-M22",
+      "event_date": "2001-10-01",
+      "record_type": "final accession schedule issued",
+      "actor": "WTO accession process",
+      "setting_channel_audience": "WT/ACC/CHN/49/Add.2",
+      "issue_and_baseline": "Consolidated services commitments",
+      "observed_move_or_state": "Mobile 25/35/49 at 0/1/3 years; life 50; non-life ownership and scope 2 years; life expanded scope/geography 3; Zhuhai local-currency geography 1 and Chinese-enterprise clients 2; retail sensitive-product exception; horizontal grandfathering and insurance note 8.",
+      "next_observable_response": "Community position approval and subsequent accession; actual implementation outside this ledger.",
+      "authority_evidence": "Final multilateral schedule text.",
+      "source_references": [
+        {
+          "source_id": "EWT-03",
+          "locator": "pp 3,19,26,30–35"
+        }
+      ],
+      "confidence": "Source-specific; limits below",
+      "inference_limit": "Final terms establish endpoint, not attribution to one bilateral round or actual market operation.",
+      "claim_ids": [
+        "S-P12",
+        "S-P25"
+      ]
+    },
+    {
+      "id": "EWT-M23",
+      "event_date": "2001-10-25",
+      "record_type": "parliamentary legislative approval",
+      "actor": "European Parliament",
+      "setting_channel_audience": "Consultation procedure on COM 2001/517",
+      "issue_and_baseline": "Community position for Ministerial Conference on Chinese accession",
+      "observed_move_or_state": "Approves Community position and instructs transmission to Council/Commission/member governments/parliaments.",
+      "next_observable_response": "Further WTO accession steps not reconstructed in this comparator.",
+      "authority_evidence": "Actual published resolution operative 1–2.",
+      "source_references": [
+        {
+          "source_id": "EWT-17",
+          "locator": "China resolution on final PDF page"
+        }
+      ],
+      "confidence": "Source-specific; limits below",
+      "inference_limit": "Not May bilateral assent or a record of confidential trade mandate.",
+      "claim_ids": [
+        "S-P12"
+      ]
+    }
+  ]
+}

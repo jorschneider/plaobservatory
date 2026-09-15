@@ -1,0 +1,560 @@
+{
+  "case": "US–China climate negotiation,2009–2015",
+  "research_date": "2026-09-15",
+  "latest_substantive_event": "2015-12-12",
+  "source_count": 18,
+  "publication_policy": "Only original analysis, source metadata and short necessary quotations in Git. Full acquired texts and extracts are outside Git. Publication date is not empirical cutoff.",
+  "access_policy": "Original UNFCCC binary requests returned212-byte blocking HTML despite HTTP200. Those files are not accepted as PDFs; selected browser text is preserved explicitly. Valid UNTS scan provides visual verification of consequential Paris provisions. ENB HTML403; selected browser extracts only.",
+  "source_independence": "Paired language versions and repeated annexes count as one document chain. Public government accounts, treaty text, participant recollections, interviews and ENB reporting have distinct but limited evidentiary jobs.",
+  "new_interviews_or_archival_requests": false,
+  "sources": [
+    {
+      "id": "CLI01",
+      "title": "青山遮不住 毕竟东流去——温家宝总理出席哥本哈根气候变化会议纪实",
+      "creator": "新华社记者赵承、田帆；人民日报记者韦冬泽；MFA republication",
+      "publication_date": "2009-12-24",
+      "event_date_or_period": "2009-12-16/2009-12-18",
+      "source_type": "contemporaneous official accompanying-reporters narrative",
+      "reading_status": "full article body read",
+      "locators": "Dated Dec17 meeting/dinner passages; Dec18 bilateral, BASIC and 18:50 passages",
+      "source_chain": "Chinese state publicity chain; authors claim accompanying access, not a published private record",
+      "interpretation_limits": "Defends Wen/China; invitation history and named instructions are reported claims, not authenticated logs or instruction sheets. Its depiction of the remaining COP proceedings is checked against the note-only decision.",
+      "versions": [
+        {
+          "url": "https://www.fmprc.gov.cn/ziliao_674904/zt_674979/ywzt_675099/2009zt_675493/gebenhagen_675517/200912/t20091224_9285909.shtml",
+          "language": "zh",
+          "preserved_copy": {
+            "path": "/Users/jorsc/.codex/.chatgpt-projects/g-p-6a94dd290a988191911d85ae8fe94a6c/tmp/pdfs/research-2026-09-15/climate/2009-wen-report.html",
+            "sha256": "90e1dc072c83c4435e779fcbbde87660f7da4f7ea858b04d57f009c33d7e4f82",
+            "bytes": 89211,
+            "capture_kind": "complete source capture",
+            "outside_git": true
+          }
+        }
+      ],
+      "retrieved": "2026-09-15"
+    },
+    {
+      "id": "CLI02",
+      "title": "The President’s News Conference in Copenhagen",
+      "creator": "Barack Obama; Public Papers of the Presidents / Government Publishing Office",
+      "publication_date": "2009-12-18 (statement); later Public Papers compilation",
+      "event_date_or_period": "2009-12-18 22:30 Europe/Copenhagen",
+      "source_type": "contemporaneous public participant transcript",
+      "reading_status": "complete target conference read; adjacent speeches not used; printed1823 conference opening visually checked",
+      "locators": "Printed pp1823–1828; monitoring and agreement questions; 22:30 note p1828",
+      "source_chain": "American presidential public account; institutionally separate from Chinese publicity",
+      "interpretation_limits": "Precedes final COP disposition; does not authenticate private Chinese instructions. Assertion that everyone fell short under Kyoto is not adopted.",
+      "versions": [
+        {
+          "url": "https://www.govinfo.gov/content/pkg/PPP-2009-book2/pdf/PPP-2009-book2-doc-pg1823-2.pdf",
+          "language": "en",
+          "preserved_copy": {
+            "path": "/Users/jorsc/.codex/.chatgpt-projects/g-p-6a94dd290a988191911d85ae8fe94a6c/tmp/pdfs/research-2026-09-15/climate/2009-obama-news.pdf",
+            "sha256": "7d0f71c4da7b78e6abdf684b53166b9745da6921c334155aa4eb0de666781644",
+            "bytes": 138479,
+            "capture_kind": "complete source capture",
+            "outside_git": true
+          }
+        }
+      ],
+      "retrieved": "2026-09-15"
+    },
+    {
+      "id": "CLI03",
+      "title": "FCCC/CP/2009/11/Add.1: Decisions 1/CP.15, 2/CP.15 and Copenhagen Accord",
+      "creator": "UNFCCC COP secretariat",
+      "publication_date": "2010-03-30",
+      "event_date_or_period": "2009-12-18/2009-12-19",
+      "source_type": "official decision compilation",
+      "reading_status": "selected decisions and Accord text, not full 43-page volume",
+      "locators": "Printed pp3–9; para5 p6; decision2 p4; empty appendix forms pp8–9",
+      "source_chain": "Authoritative public decision record, not an independent witness of private negotiations",
+      "interpretation_limits": "Only takes note of Accord. Subsequent association list is not proof all listed delegations endorsed at the original meeting. Full binary download blocked; preserved browser text is not a PDF or scan.",
+      "versions": [
+        {
+          "url": "https://www.unfccc.int/resource/docs/2009/cop15/eng/11a01.pdf",
+          "language": "en",
+          "preserved_copy": {
+            "path": "/Users/jorsc/.codex/.chatgpt-projects/g-p-6a94dd290a988191911d85ae8fe94a6c/tmp/pdfs/research-2026-09-15/climate/copenhagen-web-capture.txt",
+            "sha256": "74dbe8c6e15be442e2030aa6421cd1e7c7d57953660d6b6c0e95c9135bcdd84e",
+            "bytes": 31715,
+            "capture_kind": "selected browser-rendered text; original PDF download blocked",
+            "outside_git": true
+          }
+        }
+      ],
+      "retrieved": "2026-09-15"
+    },
+    {
+      "id": "CLI04",
+      "title": "“哥本哈根协议”——“巴厘路线图”谈判进程中的标志性成果",
+      "creator": "何建坤 / He Jiankun, National Expert Committee on Climate Change deputy chair and Tsinghua professor; MFA host",
+      "publication_date": "2009-12-23",
+      "event_date_or_period": "2009-12",
+      "source_type": "contemporary expert policy interpretation",
+      "reading_status": "full article body and four sections read",
+      "locators": "Sections1 separate appendices, 3 ICA adjustment, 4 unfinished guidelines",
+      "source_chain": "Named Chinese expert argument; access to particular meeting unestablished; MFA hosting does not make it a government negotiating instruction",
+      "interpretation_limits": "Explicit defense of China; independent access behind process claims unknown. Do not equate its 40–45% intensity change to the same BAU reduction; do not substitute its compressed finance account for exact Accord wording.",
+      "versions": [
+        {
+          "url": "https://www.fmprc.gov.cn/web/ziliao_674904/zt_674979/ywzt_675099/2009zt_675493/gebenhagen_675517/200912/t20091223_7957625.shtml",
+          "language": "zh",
+          "preserved_copy": {
+            "path": "/Users/jorsc/.codex/.chatgpt-projects/g-p-6a94dd290a988191911d85ae8fe94a6c/tmp/pdfs/research-2026-09-15/climate/2009-he-jiankun.html",
+            "sha256": "ae17341e79cb8ed332da3df3a052f48e593bc36dcf2ab7b5a498f140bf8cc1ca",
+            "bytes": 66640,
+            "capture_kind": "complete source capture",
+            "outside_git": true
+          }
+        }
+      ],
+      "retrieved": "2026-09-15"
+    },
+    {
+      "id": "CLI05",
+      "title": "China in Copenhagen: Reconciling the “Beijing Climate Revolution” and the “Copenhagen Climate Obstinacy”",
+      "creator": "Björn Conrad",
+      "publication_date": "2012-06",
+      "event_date_or_period": "Interview collection 2009-02/2010-07; case through post-Copenhagen evaluation",
+      "source_type": "peer-reviewed research article, China Quarterly 210, pp435–455",
+      "reading_status": "full 21 pages and 55 notes read; p453 image checked",
+      "locators": "p437 notes7–8 methods; pp443–445 authority hypothesis; p445 long-term package; p453 verification quotation",
+      "source_chain": "Interviews with Chinese officials, advisers and observers; some anonymous, no public transcript or count permitting witness independence audit",
+      "interpretation_limits": "Institutional-team displacement is an interview-based explanation, not a recovered mandate. p453 quotation omits ICA sentence; formal MRV and ICA remain distinct.",
+      "versions": [
+        {
+          "url": "https://gppi.net/assets/Conrad_2012_China-Quarterly_Copenhagen.pdf",
+          "language": "en",
+          "preserved_copy": {
+            "path": "/Users/jorsc/.codex/.chatgpt-projects/g-p-6a94dd290a988191911d85ae8fe94a6c/tmp/pdfs/research-2026-09-15/climate/conrad-2012.pdf",
+            "sha256": "90b896794badc44607e765ee77f3a99e67747159f3fe28040fcd2a01400914d5",
+            "bytes": 184492,
+            "capture_kind": "complete source capture",
+            "outside_git": true
+          }
+        }
+      ],
+      "retrieved": "2026-09-15",
+      "doi": "10.1017/S0305741012000458",
+      "method": "Beijing interviews February2009–July2010; NDRC, MFA, MOST officials and delegation advisers/experts; public material and reporting; no disclosed systematic comparison.",
+      "mechanism": "Tension between domestic climate interests and diplomatic protection of premier / developing-country role.",
+      "contrary_evidence": "Specific policy and institutional compromise exists in the Accord despite political rigidity; exact ICA clause qualifies a broad absence-of-scrutiny reading.",
+      "claims": [
+        "S-C19",
+        "S-P24",
+        "F09",
+        "F11"
+      ],
+      "redistribution": "Full PDF remains outside Git; original analysis and metadata only in repository."
+    },
+    {
+      "id": "CLI06",
+      "title": "U.S.–China Dialogue Podcast: Todd Stern",
+      "creator": "James Green interviews Todd Stern; Georgetown University Initiative for U.S.–China Dialogue on Global Issues",
+      "publication_date": "2019-08-26",
+      "event_date_or_period": "Retrospective discussion principally 2009–2016",
+      "source_type": "participant oral-history-style interview",
+      "reading_status": "complete written transcript read; audio not listened to",
+      "locators": "Opening Xie/protocol discussion; Copenhagen drafting recollection; Kerry request early2014; nine-month joint-announcement discussion; closing relationship lessons",
+      "source_chain": "First-person American negotiator recollection, not independent confirmation when later narratives repeat Stern",
+      "interpretation_limits": "No interview notes/drafts supplied. Conflates Chinese 2014 targets with additional 2015 components and says energy intensity; use contemporaneous paired statements for terms.",
+      "versions": [
+        {
+          "url": "https://uschinadialogue.georgetown.edu/podcasts/todd-stern",
+          "language": "en",
+          "preserved_copy": {
+            "path": "/Users/jorsc/.codex/.chatgpt-projects/g-p-6a94dd290a988191911d85ae8fe94a6c/tmp/pdfs/research-2026-09-15/climate/2019-stern-interview.html",
+            "sha256": "75f0d3c8a8f546cffb7118c87c009b17329bbad586ffd9743041c1bb9b86cf84",
+            "bytes": 109905,
+            "capture_kind": "complete source capture",
+            "outside_git": true
+          }
+        }
+      ],
+      "retrieved": "2026-09-15"
+    },
+    {
+      "id": "CLI07",
+      "title": "FCCC/CP/2010/7/Add.1: Cancun Agreements, Decision 1/CP.16",
+      "creator": "UNFCCC COP secretariat",
+      "publication_date": "2011-03-15",
+      "event_date_or_period": "2010-12 COP16",
+      "source_type": "official decision",
+      "reading_status": "selected sections only",
+      "locators": "Paras41–66, printed pp8–11; especially44 and60–64",
+      "source_chain": "Official agreed public procedural design; no separate Chinese causal explanation",
+      "interpretation_limits": "ICA and developed-country assessment/review distinguished; adopted procedure not proof of subsequent actual reporting performance. Binary download blocked.",
+      "versions": [
+        {
+          "url": "https://unfccc.int/resource/docs/2010/cop16/eng/07a01.pdf",
+          "language": "en",
+          "preserved_copy": {
+            "path": "/Users/jorsc/.codex/.chatgpt-projects/g-p-6a94dd290a988191911d85ae8fe94a6c/tmp/pdfs/research-2026-09-15/climate/climate_unfccc_extracts1-web-capture.txt",
+            "sha256": "e8441a56ecaa556c3436d7c270891e0659de1996269a69df5605aad92a156991",
+            "bytes": 31751,
+            "capture_kind": "selected browser text, shared capture with Durban/Lima",
+            "outside_git": true
+          }
+        }
+      ],
+      "retrieved": "2026-09-15"
+    },
+    {
+      "id": "CLI08",
+      "title": "FCCC/CP/2011/9/Add.1: Establishment of an Ad Hoc Working Group on the Durban Platform, Decision 1/CP.17",
+      "creator": "UNFCCC COP secretariat",
+      "publication_date": "2012-03-15",
+      "event_date_or_period": "2011-12-11",
+      "source_type": "official decision",
+      "reading_status": "entire Decision1 read; remainder of compilation not read",
+      "locators": "Printed pp2–3, all8 paragraphs; adoption date at end",
+      "source_chain": "Official adopted mandate, not Chinese private preference",
+      "interpretation_limits": "Applicable to all parties does not mean identical targets. No evidence of Chinese internal calculation in this text. Binary download blocked.",
+      "versions": [
+        {
+          "url": "https://unfccc.int/resource/docs/2011/cop17/eng/09a01.pdf",
+          "language": "en",
+          "preserved_copy": {
+            "path": "/Users/jorsc/.codex/.chatgpt-projects/g-p-6a94dd290a988191911d85ae8fe94a6c/tmp/pdfs/research-2026-09-15/climate/climate_unfccc_extracts1-web-capture.txt",
+            "sha256": "e8441a56ecaa556c3436d7c270891e0659de1996269a69df5605aad92a156991",
+            "bytes": 31751,
+            "capture_kind": "selected browser text, shared capture with Cancun/Lima",
+            "outside_git": true
+          }
+        }
+      ],
+      "retrieved": "2026-09-15"
+    },
+    {
+      "id": "CLI09",
+      "title": "中美气候变化联合声明",
+      "creator": "Chinese and US governments; MFA Chinese text",
+      "publication_date": "2013-04-13",
+      "event_date_or_period": "2013-04-13",
+      "source_type": "joint political and institutional statement",
+      "reading_status": "full five paragraphs read; later reproduced annex also read",
+      "locators": "Para3 working group chairs/reporting; para4 relationship and benefits",
+      "source_chain": "One bilateral agreed text; identical annex to July report is same chain",
+      "interpretation_limits": "Establishes public task assignment and reporting line, not final authority on all national targets or operational project success.",
+      "versions": [
+        {
+          "url": "https://www.fmprc.gov.cn/web/zyxw/201304/t20130413_322455.shtml",
+          "language": "zh",
+          "preserved_copy": {
+            "path": "/Users/jorsc/.codex/.chatgpt-projects/g-p-6a94dd290a988191911d85ae8fe94a6c/tmp/pdfs/research-2026-09-15/climate/2013-working-group-zh.html",
+            "sha256": "53d149081d2ae75c087bbe5bb96096bc4e6875d135e8542a4bc086201ab47f90",
+            "bytes": 61631,
+            "capture_kind": "complete source capture",
+            "outside_git": true
+          }
+        }
+      ],
+      "retrieved": "2026-09-15"
+    },
+    {
+      "id": "CLI10",
+      "title": "中美气候变化工作组提交中美战略与经济对话的报告",
+      "creator": "US–China Climate Change Working Group; MFA Chinese publication",
+      "publication_date": "2013-07-13",
+      "event_date_or_period": "2013-07-10 (report date)",
+      "source_type": "joint institutional report and work plan",
+      "reading_status": "full report body, five initiatives, policy-dialogue section and annex1 read",
+      "locators": "Introduction; new initiatives1–5; October implementation-plan deadline; policy dialogue; working-group role; annex1",
+      "source_chain": "Jointly generated working-group document; repeats April statement and June8 HFC understanding, not independent witnesses",
+      "interpretation_limits": "Plans and agency assignments establish scope; do not infer completed projects, reduced costs or greater trust from self-description. Distinguish report date from web posting.",
+      "versions": [
+        {
+          "url": "https://www.mfa.gov.cn/ziliao_674904/1179_674909/201307/t20130713_9868283.shtml",
+          "language": "zh",
+          "preserved_copy": {
+            "path": "/Users/jorsc/.codex/.chatgpt-projects/g-p-6a94dd290a988191911d85ae8fe94a6c/tmp/pdfs/research-2026-09-15/climate/2013-working-report-zh.html",
+            "sha256": "10495283de2a9aaaead8e5a1b20ccbef18285016f8196cff9c33e91e97524012",
+            "bytes": 75473,
+            "capture_kind": "complete source capture",
+            "outside_git": true
+          }
+        }
+      ],
+      "retrieved": "2026-09-15"
+    },
+    {
+      "id": "CLI11",
+      "title": "United States and China Reach Agreement on Phase Down of HFCs",
+      "creator": "White House Office of the Press Secretary",
+      "publication_date": "2013-09-06",
+      "event_date_or_period": "2013-09-06; references2013-06-08",
+      "source_type": "public agreed paragraph with explanatory introduction",
+      "reading_status": "full body read",
+      "locators": "Intro and Obama–Xi agreed paragraph",
+      "source_chain": "American publication of bilateral understanding; June element cross-checked in Chinese July report",
+      "interpretation_limits": "Agreement to pursue Montreal route and contact group is not a concluded multilateral amendment or phase-down schedule.",
+      "versions": [
+        {
+          "url": "https://obamawhitehouse.archives.gov/the-press-office/2013/09/06/united-states-and-china-reach-agreement-phase-down-hfcs",
+          "language": "en",
+          "preserved_copy": {
+            "path": "/Users/jorsc/.codex/.chatgpt-projects/g-p-6a94dd290a988191911d85ae8fe94a6c/tmp/pdfs/research-2026-09-15/climate/2013-hfc-en.html",
+            "sha256": "77258ea6662f7152b7683515c505a3e0ee1b8cdaa8219e5c2b38bfb556258e54",
+            "bytes": 106610,
+            "capture_kind": "complete source capture",
+            "outside_git": true
+          }
+        }
+      ],
+      "retrieved": "2026-09-15"
+    },
+    {
+      "id": "CLI12",
+      "title": "Joint Statement—U.S.–China Joint Announcement on Climate Change / 中美气候变化联合声明",
+      "creator": "Barack Obama and Xi Jinping; US presidential compilation and MFA",
+      "publication_date": "2014-11-12 Beijing; US press release2014-11-11 Washington",
+      "event_date_or_period": "2014-11-12",
+      "source_type": "joint presidential announcement",
+      "reading_status": "full three-page English text and complete Chinese eight paragraphs with initiative bullets read; consequential target/principle English page1 visually checked",
+      "locators": "Paras2–4 principles and different targets; paras7–8 cooperation; US editorial note p3",
+      "source_chain": "Paired official languages of ONE jointly negotiated announcement; not two independent confirmations",
+      "interpretation_limits": "US publisher notes press release date/time-zone distinction and original unavailable for verification. No signed original or draft history acquired. Numbers describe intentions, not performance.",
+      "versions": [
+        {
+          "url": "https://www.govinfo.gov/content/pkg/DCPD-201400852/pdf/DCPD-201400852.pdf",
+          "language": "en",
+          "preserved_copy": {
+            "path": "/Users/jorsc/.codex/.chatgpt-projects/g-p-6a94dd290a988191911d85ae8fe94a6c/tmp/pdfs/research-2026-09-15/climate/2014-joint-en.pdf",
+            "sha256": "69baf11356ac1ef098a0028ccf369e783cce738740b478aa2e5fedc0bf8e1887",
+            "bytes": 162070,
+            "capture_kind": "complete source capture",
+            "outside_git": true
+          }
+        },
+        {
+          "url": "https://www.fmprc.gov.cn/web/gjhdq_676201/gj_676203/bmz_679954/1206_680528/1207_680540/201411/t20141112_9361631.shtml",
+          "language": "zh",
+          "preserved_copy": {
+            "path": "/Users/jorsc/.codex/.chatgpt-projects/g-p-6a94dd290a988191911d85ae8fe94a6c/tmp/pdfs/research-2026-09-15/climate/2014-joint-zh.html",
+            "sha256": "3cc01b3a6f342efd2496f760367a6ad06a8844d00df824570d029c228433fa52",
+            "bytes": 32036,
+            "capture_kind": "complete source capture",
+            "outside_git": true
+          }
+        }
+      ],
+      "retrieved": "2026-09-15"
+    },
+    {
+      "id": "CLI13",
+      "title": "FCCC/CP/2014/10/Add.1: Lima Call for Climate Action, Decision1/CP.20",
+      "creator": "UNFCCC COP secretariat",
+      "publication_date": "2015-02-02",
+      "event_date_or_period": "2014-12 COP20",
+      "source_type": "official decision",
+      "reading_status": "selected paragraphs1–16 read; full annex not read",
+      "locators": "Printed pp2–3; paras3,8,13–16",
+      "source_chain": "Authoritative multilateral text; overlap with bilateral phrase does not establish exclusive authorship",
+      "interpretation_limits": "INDC information arrangements without prejudice to legal nature/content; qualified information list. Original PDF blocked, browser extract only.",
+      "versions": [
+        {
+          "url": "https://unfccc.int/resource/docs/2014/cop20/eng/10a01.pdf",
+          "language": "en",
+          "preserved_copy": {
+            "path": "/Users/jorsc/.codex/.chatgpt-projects/g-p-6a94dd290a988191911d85ae8fe94a6c/tmp/pdfs/research-2026-09-15/climate/climate_unfccc_extracts1-web-capture.txt",
+            "sha256": "e8441a56ecaa556c3436d7c270891e0659de1996269a69df5605aad92a156991",
+            "bytes": 31751,
+            "capture_kind": "selected browser text, shared capture with Cancun/Durban",
+            "outside_git": true
+          }
+        }
+      ],
+      "retrieved": "2026-09-15"
+    },
+    {
+      "id": "CLI14",
+      "title": "Earth Negotiations Bulletin: Summary report, Lima Climate Change Conference",
+      "creator": "IISD Earth Negotiations Bulletin; Beate Antonich, Rishikesh Bhandry, Elena Kosolapova, Mari Luomi, Anna Schulz, Mihaela Secrieru; editor Pamela Chasek",
+      "publication_date": "2014-12 (conference summary; exact posting date not independently verified)",
+      "event_date_or_period": "2014-12-01/2014-12-14",
+      "source_type": "on-site conference reporting and editorial analysis",
+      "reading_status": "selected final analysis, not full conference report",
+      "locators": "A Brief Analysis: Laying Bricks through Enabling Construction; especially Enabling Construction paragraphs1–5",
+      "source_chain": "Independent reporting institution, but report distinguishes observation, delegates’ views and editorial inference",
+      "interpretation_limits": "No access to every closed meeting; analysts’ causal interpretations are not minutes. HTML download403; preserved selected browser text only.",
+      "versions": [
+        {
+          "url": "https://enb.iisd.org/lima-climate-change-conference-cop20/summary-report",
+          "language": "en",
+          "preserved_copy": {
+            "path": "/Users/jorsc/.codex/.chatgpt-projects/g-p-6a94dd290a988191911d85ae8fe94a6c/tmp/pdfs/research-2026-09-15/climate/enb-lima-web-capture.txt",
+            "sha256": "9f6f976bc466001f288d4b3156a6f129e6f7bab05e2d1a5c009aea779f6e7164",
+            "bytes": 38046,
+            "capture_kind": "selected browser-rendered text",
+            "outside_git": true
+          }
+        }
+      ],
+      "retrieved": "2026-09-15"
+    },
+    {
+      "id": "CLI15",
+      "title": "U.S.–China Joint Presidential Statement on Climate Change / 中美元首气候变化联合声明",
+      "creator": "Barack Obama and Xi Jinping; White House and MFA",
+      "publication_date": "2015-09-25 Washington;2015-09-26 Chinese posting",
+      "event_date_or_period": "2015-09-25",
+      "source_type": "joint presidential statement",
+      "reading_status": "full17 numbered paragraphs in BOTH official languages read",
+      "locators": "Paras3–4 differentiation/transparency;8 finance;11–12 domestic actions;13 working group;15–16 finance and investment",
+      "source_chain": "Paired languages of ONE joint statement; not independent process access",
+      "interpretation_limits": "Contains present policy claims, future intentions, negotiating objectives and separate pledges. Planned2017 emissions market not coded as2015 operation; distinct funds not equivalent treaty finance obligations.",
+      "versions": [
+        {
+          "url": "https://obamawhitehouse.archives.gov/the-press-office/2015/09/25/us-china-joint-presidential-statement-climate-change",
+          "language": "en",
+          "preserved_copy": {
+            "path": "/Users/jorsc/.codex/.chatgpt-projects/g-p-6a94dd290a988191911d85ae8fe94a6c/tmp/pdfs/research-2026-09-15/climate/2015-joint-en.html",
+            "sha256": "b8c055b99124b7786f7ff9a631443ce2f3c9b36d4ab8c5c232f7df025c123d83",
+            "bytes": 118145,
+            "capture_kind": "complete source capture",
+            "outside_git": true
+          }
+        },
+        {
+          "url": "https://www.fmprc.gov.cn/web/gjhdq_676201/gj_676203/bmz_679954/1206_680528/1207_680540/201509/t20150926_9361636.shtml",
+          "language": "zh",
+          "preserved_copy": {
+            "path": "/Users/jorsc/.codex/.chatgpt-projects/g-p-6a94dd290a988191911d85ae8fe94a6c/tmp/pdfs/research-2026-09-15/climate/2015-joint-zh.html",
+            "sha256": "4f3ce407b8438f5df3b0d9514e15aec220e2009e84db6a8d2904623d60d932f7",
+            "bytes": 35933,
+            "capture_kind": "complete source capture",
+            "outside_git": true
+          }
+        }
+      ],
+      "retrieved": "2026-09-15"
+    },
+    {
+      "id": "CLI16",
+      "title": "Earth Negotiations Bulletin: Summary report, Paris Climate Change Conference",
+      "creator": "IISD Earth Negotiations Bulletin",
+      "publication_date": "2015-12 (conference summary; exact posting date not independently verified)",
+      "event_date_or_period": "2015-11-29/2015-12-13",
+      "source_type": "on-site conference reporting",
+      "reading_status": "selected negotiation sections only; not full report or closing scholarly analysis",
+      "locators": "Transparency spin-off/contact group; ADP closing; Dec5 COP; Comité de Paris differentiation; Dec9–12 drafts and adoption; source web lines228–387 in preserved rendering",
+      "source_chain": "Independent conference reporter chain; quoted positions generally attributed, some exchanges unnamed",
+      "interpretation_limits": "Do not turn group statements into a separately attributable Chinese position or unnamed parties into China. No claim to read private indaba minutes or observe alleged final shall/should change.",
+      "versions": [
+        {
+          "url": "https://enb.iisd.org/paris-climate-change-conference-cop21/summary-report",
+          "language": "en",
+          "preserved_copy": {
+            "path": "/Users/jorsc/.codex/.chatgpt-projects/g-p-6a94dd290a988191911d85ae8fe94a6c/tmp/pdfs/research-2026-09-15/climate/enb-paris-web-capture.txt",
+            "sha256": "5ef8def85a6b0cf913134bdcedc885b594bfba1f11cc68daea76880be2662779",
+            "bytes": 39390,
+            "capture_kind": "selected browser-rendered text",
+            "outside_git": true
+          }
+        }
+      ],
+      "retrieved": "2026-09-15"
+    },
+    {
+      "id": "CLI17",
+      "title": "Paris Agreement; UN Treaty Series Volume3156, I-54113; COP21 adopted text",
+      "creator": "United Nations Treaty Collection and UNFCCC",
+      "publication_date": "UNTS compiled treaty record; adopted2015-12-12; UNFCCC compilation2016-01-29",
+      "event_date_or_period": "2015-12-12",
+      "source_type": "authentic multilingual treaty and adopted decision text",
+      "reading_status": "selected articles only; not full179-page multilingual treaty record or full COP volume",
+      "locators": "English UNTS printed145–146 (physical67–68) Articles2–4.7; printed158–161 (physical80–83) Article13 and14–15. Chinese printed126–127 (physical48–49),137 (physical59),142 (physical64). UNFCCC selected Articles4,9,13–15 as recorded in browser capture.",
+      "source_chain": "Treaty registry reproduction and COP publication are versions of same instrument, not independent bargaining evidence",
+      "interpretation_limits": "Treaty legal status differs from NDC outcome achievement. Common reporting rules had further modalities to negotiate. English and selected authentic Chinese consequential wording inspected visually; Article29 identifies equally authentic language versions.",
+      "versions": [
+        {
+          "url": "https://treaties.un.org/doc/Publication/UNTS/Volume%203156/Part/volume-3156-I-54113.pdf",
+          "language": "ar/zh/en/fr/ru/es",
+          "preserved_copy": {
+            "path": "/Users/jorsc/.codex/.chatgpt-projects/g-p-6a94dd290a988191911d85ae8fe94a6c/tmp/pdfs/research-2026-09-15/climate/2015-paris-unctad.pdf",
+            "sha256": "f962457cb08126d06dcf86e1007325ed43cd10ebf57599374a1a3e9d3aa2e366",
+            "bytes": 22441997,
+            "capture_kind": "complete source capture",
+            "outside_git": true
+          }
+        },
+        {
+          "url": "https://unfccc.int/resource/docs/2015/cop21/eng/10a01.pdf",
+          "language": "en",
+          "preserved_copy": {
+            "path": "/Users/jorsc/.codex/.chatgpt-projects/g-p-6a94dd290a988191911d85ae8fe94a6c/tmp/pdfs/research-2026-09-15/climate/climate_paris_extracts-web-capture.txt",
+            "sha256": "01ec9277b8e08540439e73f1aa79d4f378a95720717c33e8bfa29ff5fc27f7b7",
+            "bytes": 32433,
+            "capture_kind": "selected browser-rendered text",
+            "outside_git": true
+          }
+        }
+      ],
+      "retrieved": "2026-09-15",
+      "filename_note": "Local filename says unctad but file is verified UN Treaty Series, not UNCTAD. Valid PDF22441997bytes,179pages."
+    },
+    {
+      "id": "CLI18",
+      "title": "China and Climate Multilateralism: A Review of Theoretical Approaches",
+      "creator": "Hao Zhang",
+      "publication_date": "2022-04-21",
+      "event_date_or_period": "Literature reviewed through2021; not original process investigation",
+      "source_type": "peer-reviewed literature review, Politics and Governance10(2),50–60",
+      "reading_status": "full11pages including references; Table1p52 and Figure1p54 visually inspected",
+      "locators": "Full pp50–60; theory mapTable1; leadershipp53; two-levelFigure1p54",
+      "source_chain": "Secondary synthesis of other scholarship; repetition of earlier studies is not independent case evidence",
+      "interpretation_limits": "No new interview/archive sample or reproducible search protocol. Misidentifies Copenhagen speaker as Hu rather than Wen onp53. Broad passive/leader periodization not event coding. Its emissions chronology is not used.",
+      "versions": [
+        {
+          "url": "https://www.cogitatiopress.com/politicsandgovernance/article/download/4920/2632",
+          "language": "en",
+          "preserved_copy": {
+            "path": "/Users/jorsc/.codex/.chatgpt-projects/g-p-6a94dd290a988191911d85ae8fe94a6c/tmp/pdfs/research-2026-09-15/climate/2022-review.pdf",
+            "sha256": "3fcae2b1280dfedc895eb4fa2820b642f4c1b6b5d51bac3853de1db22eaca5f8",
+            "bytes": 205415,
+            "capture_kind": "complete source capture",
+            "outside_git": true
+          }
+        }
+      ],
+      "retrieved": "2026-09-15",
+      "doi": "10.17645/pag.v10i2.4920",
+      "method": "Narrative review comparing international-regime, leadership and two-level approaches; proposes attention to transnational actors.",
+      "mechanism": "Contrasts institutional incentives, leadership and domestic/international interaction rather than selecting a single cause.",
+      "contrary_evidence": "Domestic interests may limit international leadership; final paragraph theory proposals require original empirical testing.",
+      "claims": [
+        "F07",
+        "F13",
+        "S-C19"
+      ],
+      "redistribution": "Article CC BY4.0; nonetheless full PDF preserved outside Git under project practice."
+    }
+  ],
+  "located_not_read_or_unacquired": [
+    {
+      "title": "Radoslav S. Dimitrov, Inside Copenhagen: The State of Climate Governance",
+      "doi": "10.1111/j.1541-1338.2010.00472.x",
+      "status": "metadata/source lead only; IPSA download failed; not counted as full reading"
+    },
+    {
+      "title": "Hongyuan Yu and Shulei Zhu, Toward Paris: China’s new strategy for global climate governance",
+      "doi": "10.1016/j.accre.2015.08.004",
+      "status": "located, full text not acquired/read; no finding attributed"
+    },
+    {
+      "title": "Mark Lynas Copenhagen allegations; May2010 reporting on purported recording",
+      "status": "original full report/recording not audited; not treated as firsthand evidence or as a recording heard"
+    },
+    {
+      "title": "Todd Stern 2024 book",
+      "status": "located, not read; interview is separate bounded source"
+    },
+    {
+      "title": "Obama Library Copenhagen photo/video finding aid,23-42649-F",
+      "url": "https://www.obamalibrary.gov/digital-research-room/finding-aids/photographs-and-video-president-obamas-trip-copenhagen-denmark",
+      "status": "located; underlying archival materials not examined"
+    }
+  ]
+}

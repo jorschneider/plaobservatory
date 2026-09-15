@@ -1,0 +1,102 @@
+{
+  "title": "Accession manuscript: September15 primary-record follow-up",
+  "research_date": "2026-09-15",
+  "manuscript": "../manuscript/chapters/02-accession.md",
+  "scope": "Additional reads and final-body inspection; prior foundational facsimile, participant and archive audits remain separately cited. Some public sources were already identified or partly read in the earlier dossier; this is not five new independent discoveries.",
+  "sources": [
+    {
+      "id": "WTO-M01",
+      "title": "Clinton–Zhu joint press conference, April 8, 1999",
+      "source_type": "contemporary official public record",
+      "read_date": "2026-09-15",
+      "read_scope": "Selected complete WTO exchanges: opening remarks through Zhu’s political-atmosphere explanation; Clinton’s case for engagement and Zhu’s concessions/reform/gift reply. Surrounding questions inspected; whole press conference not claimed as a topical audit.",
+      "evidentiary_use": "Public disagreement over why closure failed; Zhu’s stated reform rationale and refusal of gift framing.",
+      "limits": "US record of interpreted Chinese remarks; not independently checked against a Chinese transcript; economic statistics and unrelated accusations not verified.",
+      "preserved_copy": {
+        "url": "https://clintonwhitehouse6.archives.gov/1999/04/1999-04-08-joint-press-conference-with-premier-zhu-rongji-of-china.html",
+        "path": "/Users/jorsc/.codex/.chatgpt-projects/g-p-6a94dd290a988191911d85ae8fe94a6c/tmp/pdfs/research-2026-09-15/wto-chapter/april8-presidential.html",
+        "sha256": "19222d0441b28da725b505ef48471738a6d1bf6719f6994fde4315358f58efc9",
+        "bytes": 46488,
+        "retrieved": "2026-09-15"
+      }
+    },
+    {
+      "id": "WTO-M02",
+      "title": "Sandy Berger press briefing, Ankara, November 15, 1999",
+      "source_type": "contemporary official public record",
+      "read_date": "2026-09-15",
+      "read_scope": "All WTO questions and answers read, including the April comparison, Chinese gains, broader relationship, PNTR and congressional authority, and Seattle observer question. Other foreign-policy exchanges not audited.",
+      "evidentiary_use": "US public defense of the agreement and distinct domestic/multilateral steps.",
+      "limits": "Contemporary public advocacy, not full final annexes or evidence of the distribution of concessions.",
+      "preserved_copy": {
+        "url": "https://clintonwhitehouse3.archives.gov/WH/New/Europe-9911/briefings/1999-11-15a.html",
+        "path": "/Users/jorsc/.codex/.chatgpt-projects/g-p-6a94dd290a988191911d85ae8fe94a6c/tmp/pdfs/research-2026-09-15/wto-chapter/nov15-berger.html",
+        "sha256": "33a6a9ebf07a0030b968d4f041fcfaa49061043b5b91850c2421ebde56d47b3f",
+        "bytes": 24593,
+        "retrieved": "2026-09-15"
+      }
+    },
+    {
+      "id": "WTO-M03",
+      "title": "Summary of US–China Bilateral WTO Agreement, November 16, 1999",
+      "source_type": "contemporary official public record",
+      "read_date": "2026-09-15",
+      "read_scope": "Complete substantive HTML, Agriculture through Textiles, including every sector and trade-remedy section.",
+      "evidentiary_use": "A contemporary US-reported outcome column for four issue comparisons; 12-year safeguard and 15-year antidumping description; sector-specific equity/timing.",
+      "limits": "Unilateral public summary, not authenticated bilateral annexes. Its legal characterizations are not adopted as a determination of the later WTO protocol’s interpretation.",
+      "preserved_copy": {
+        "url": "https://clintonwhitehouse3.archives.gov/WH/New/WTO-Conf-1999/factsheets/fs-006.html",
+        "path": "/Users/jorsc/.codex/.chatgpt-projects/g-p-6a94dd290a988191911d85ae8fe94a6c/tmp/pdfs/research-2026-09-15/wto-chapter/nov16-summary.html",
+        "sha256": "52288692ab9a99a321cbf8b8ac633aa2a6a125d5ed7c5f92fd05ff6499e83af5",
+        "bytes": 21438,
+        "retrieved": "2026-09-15"
+      }
+    },
+    {
+      "id": "WTO-M04",
+      "title": "WTO Press/148, Moore welcomes US–China deal but cautions more work remains, November 15, 1999",
+      "source_type": "contemporary official public record",
+      "read_date": "2026-09-15",
+      "read_scope": "Complete substantive release including final Working Party, preparatory work and Seattle paragraphs.",
+      "evidentiary_use": "Institutional distinction between bilateral deal, remaining accessions work, and observer status.",
+      "limits": "A contemporary description of the institution’s next stages, not a private negotiating record.",
+      "preserved_copy": {
+        "url": "https://www.wto.org/english/news_e/pres99_e/pr148_e.htm",
+        "path": "/Users/jorsc/.codex/.chatgpt-projects/g-p-6a94dd290a988191911d85ae8fe94a6c/tmp/pdfs/research-2026-09-15/wto-chapter/nov15-wto.html",
+        "sha256": "e2a0b8ccb08bcef2b0b8c84747d42736a36cc23a60352ec8bab584a6119cc4ab",
+        "bytes": 11895,
+        "retrieved": "2026-09-15"
+      }
+    },
+    {
+      "id": "WTO-M05",
+      "title": "中华人民共和国与美国市场准入协议 / Agreement on Market Access between the PRC and the USA, November 15, 1999",
+      "source_type": "signed bilateral agreement bodies, Chinese and English, in later official documentary collection",
+      "url": "https://www.mofcom.gov.cn/dl/sms/sbj_3_17.pdf",
+      "event_date": "1999-11-15",
+      "publication_date": "2013",
+      "read_date": "2026-09-15",
+      "read_scope": "Both complete signed body pages, printed1095–1096/PDF1102–1103, visually read. Adjacent contents and next-item heading checked. Annexes1–4 not reproduced with these pages and remain unacquired as this instrument’s annexes.",
+      "evidentiary_use": "Agreed status vs Nov12 conditional proposal; Annexes1–3 goods/agriculture/services and Annex4 rules on access to each other’s markets; joint notification and transmission to WTO for incorporation into multilateral accession negotiations.",
+      "limits": "Paired language bodies are versions of one source, not independent corroboration. They do not reveal all detailed final concessions, Chinese or US internal approval sequences, or actual performance.",
+      "preserved_copy": {
+        "path": "/Users/jorsc/.codex/.chatgpt-projects/g-p-6a94dd290a988191911d85ae8fe94a6c/tmp/pdfs/wto-foundation/bilateral-3.pdf",
+        "sha256": "00fa7bf61635b3b7cabb42c305d506769b2c463c70fc917511a6be56842c7914",
+        "bytes": 59307195
+      },
+      "relationship_to_prior_record": "Additional reading within CN-WTO-B3; earlier audits covered the April MOU and November offers, not these two signed final bodies."
+    }
+  ],
+  "new_documentary_findings": [
+    "Both final signed language bodies distinguish agreement from later incorporation into multilateral accession negotiations.",
+    "Four-issue comparison now includes a complete contemporaneous US public summary but still does not claim acquisition of the bilateral annexes."
+  ],
+  "remaining_documents": [
+    "April10 MOU attachments1–2",
+    "April8 US statement attachments in authenticated exchanged versions",
+    "November15 bilateral annexes1–4",
+    "April NEC–NSC decision memorandum and relevant Chinese instructions",
+    "Final multilateral schedules must be kept distinct from the US bilateral snapshot."
+  ],
+  "independent_review": "Editorial agent reviewed the introduction and is reviewing the accession draft; this record does not claim independent rereading of every prior source."
+}

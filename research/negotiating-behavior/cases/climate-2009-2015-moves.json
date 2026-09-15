@@ -1,0 +1,693 @@
+{
+  "case": "US–China climate bargaining 2009–2015",
+  "research_date": "2026-09-15",
+  "latest_substantive_event": "2015-12-12",
+  "record_count": 23,
+  "date_policy": "Event dates are separate from publication/recollection. Month/week precision retained where exact day is not established. China/US joint announcement 2014 dated12Nov Beijingwas released11Nov Washington. No duration is interpreted as exhaustion without process evidence.",
+  "classification_policy": "Official positions, retrospective claims, contested allegations, institutional plans and multilateral decisions are differentiated. This is a mixed event ledger; entries labelledcontext/interpretation are not counted as observed private bargaining moves. National targets, legalstatus, scrutiny and institutional mandate are separate objects.",
+  "moves": [
+    {
+      "id": "CLI-M01",
+      "event_date": "2009-12-17",
+      "record_type": "reported private position, later officially narrated",
+      "actor": "Wen Jiabao",
+      "setting_channel_and_audience": "Copenhagen meetings with European/Japanese leaders; private counterpart channel reported publicly24Dec",
+      "issue_and_baseline": "National mitigation target versus transparency procedure",
+      "package_and_version": "Public Chinese accompanying-reporters narrative, not an authenticated proposed clause",
+      "observed_move_or_state": "Reportedly treats national target as unconditional and non-negotiable while allowing discussion of transparency.",
+      "authority_evidence_and_unknowns": "Premier speaks; exact instruction and mandate to specialists not acquired.",
+      "next_observable_response_or_state": "Next day leader-level political-document work; final Accord includes differentiated scrutiny.",
+      "source_references": [
+        {
+          "source_id": "CLI01",
+          "locator": "17December meetings"
+        },
+        {
+          "source_id": "CLI03",
+          "locator": "Accord paragraph 5"
+        }
+      ],
+      "interpretation": {
+        "proposed_mechanism": "Separate target-setting from external visibility.",
+        "strongest_rival": "Retrospective official presentation recasts tactical bargaining as principled autonomy.",
+        "discriminating_evidence_needed": "Contemporaneous notes, proposed transparency wording and target instructions."
+      },
+      "confidence": "high for dated public text; limited for internal motivation",
+      "solomon_freeman_ids": [
+        "S-P05",
+        "S-P12"
+      ]
+    },
+    {
+      "id": "CLI-M02",
+      "event_date": "2009-12-17 evening",
+      "record_type": "contested process allegation",
+      "actor": "Wen Jiabao / He Yafei, as described by Chinese reporters",
+      "setting_channel_and_audience": "Dinner and smaller leaders meeting; public domestic defense after event",
+      "issue_and_baseline": "Invitation and representation in restricted meeting",
+      "package_and_version": "24December Chinese narrative",
+      "observed_move_or_state": "Report says Wen learned about an unnotified small meeting and sent He to object.",
+      "authority_evidence_and_unknowns": "Reported premier instruction; invitation records and message logs absent.",
+      "next_observable_response_or_state": "Chinese delegation remains involved in subsequent bargaining; no causal effect isolated.",
+      "source_references": [
+        {
+          "source_id": "CLI01",
+          "locator": "17December dinner/smaller-meeting passages"
+        }
+      ],
+      "interpretation": {
+        "proposed_mechanism": "Perceived procedural exclusion affects channel choice.",
+        "strongest_rival": "Deliberate withholding of top-level participation, scheduling friction, or retrospective justification.",
+        "discriminating_evidence_needed": "Both organizers’ and Chinese invitation logs; full contemporaneous recording."
+      },
+      "confidence": "contested report; not established invitation history",
+      "solomon_freeman_ids": [
+        "S-C19",
+        "S-P24"
+      ]
+    },
+    {
+      "id": "CLI-M03",
+      "event_date": "2009-12-18",
+      "record_type": "reported bilateral understanding and instruction",
+      "actor": "Wen Jiabao and Barack Obama",
+      "setting_channel_and_audience": "First Copenhagen bilateral and subsequent delegation consultations",
+      "issue_and_baseline": "Form of feasible end-stage outcome",
+      "package_and_version": "Chinese narrative describes political document and subsequent delegation consultation",
+      "observed_move_or_state": "Reportedly agree to seek political outcome and have teams consult; Wen coordinates BASIC positions.",
+      "authority_evidence_and_unknowns": "Leaders present but underlying instructions and wording not recovered.",
+      "next_observable_response_or_state": "Later BASIC–US meeting discussed remaining language.",
+      "source_references": [
+        {
+          "source_id": "CLI01",
+          "locator": "18December first bilateral and BASIC coordination"
+        }
+      ],
+      "interpretation": {
+        "proposed_mechanism": "Senior direction can authorize a bounded package.",
+        "strongest_rival": "Leaders endorse a feasible option already identified by specialists.",
+        "discriminating_evidence_needed": "Draft chronology before/after bilateral and team mandates."
+      },
+      "confidence": "high for dated public text; limited for internal motivation",
+      "solomon_freeman_ids": [
+        "S-P12",
+        "S-P24"
+      ]
+    },
+    {
+      "id": "CLI-M04",
+      "event_date": "2009-12-18 around18:50 Europe/Copenhagen",
+      "record_type": "reported small-group drafting",
+      "actor": "BASIC leaders and Barack Obama",
+      "setting_channel_and_audience": "BASIC room; private small-group bargaining, later official/retrospective accounts",
+      "issue_and_baseline": "Outstanding political-document wording and transparency",
+      "package_and_version": "Chinese24Dec account; Stern 2019 retrospective",
+      "observed_move_or_state": "Chinese report describes Obama joining BASIC discussion and resolution of wording; Stern recalls work on international consultation and analysis.",
+      "authority_evidence_and_unknowns": "Leaders can agree for their delegations, not authorize other COP parties.",
+      "next_observable_response_or_state": "Obama presents understanding publicly at22:30; COP subsequently only takes note.",
+      "source_references": [
+        {
+          "source_id": "CLI01",
+          "locator": "18:50 meeting"
+        },
+        {
+          "source_id": "CLI06",
+          "locator": "Copenhagen BASIC-room recollection"
+        },
+        {
+          "source_id": "CLI03",
+          "locator": "decision2"
+        }
+      ],
+      "interpretation": {
+        "proposed_mechanism": "Leader drafting can produce partial agreement without multilateral adoption.",
+        "strongest_rival": "Agreement terms largely settled earlier; meeting supplies endorsement.",
+        "discriminating_evidence_needed": "Successive drafts and timestamps, participant notes."
+      },
+      "confidence": "cross-account occurrence; timing/sequence details remain differently sourced",
+      "solomon_freeman_ids": [
+        "S-P24",
+        "S-P12"
+      ]
+    },
+    {
+      "id": "CLI-M05",
+      "event_date": "2009-12-18 22:30 Europe/Copenhagen",
+      "record_type": "public participant interpretation and announced delegation authority",
+      "actor": "Barack Obama",
+      "setting_channel_and_audience": "Bella Center news conference; press and global/domestic public",
+      "issue_and_baseline": "Political agreement versus binding outcome and completed COP adoption",
+      "package_and_version": "Official conference transcript",
+      "observed_move_or_state": "Acknowledges insufficient/nonbinding package, emphasizes recorded action and consultation/analysis, says remaining US negotiators empowered to finalize.",
+      "authority_evidence_and_unknowns": "Explicit US delegation authorization asserted; president uncertain technical signature protocol.",
+      "next_observable_response_or_state": "COP note-only outcome is a later institutional stage.",
+      "source_references": [
+        {
+          "source_id": "CLI02",
+          "locator": "printed1823–1828, monitoring/agreement questions andnote"
+        }
+      ],
+      "interpretation": {
+        "proposed_mechanism": "Counterpart also adapts demands to feasible commitments and delegates completion.",
+        "strongest_rival": "Public justification for reduced ambitions rather than causal domestic constraint.",
+        "discriminating_evidence_needed": "NSC/State instructions and domestic feasibility assessments."
+      },
+      "confidence": "high for dated public text; limited for internal motivation",
+      "solomon_freeman_ids": [
+        "S-P17",
+        "S-P24"
+      ]
+    },
+    {
+      "id": "CLI-M06",
+      "event_date": "2009-12-18/2009-12-19",
+      "record_type": "multilateral disposition and political-text architecture",
+      "actor": "COP15 parties; Accord participants",
+      "setting_channel_and_audience": "Final plenary and published decision",
+      "issue_and_baseline": "Domestic MRV, international consultation/analysis, supported-action international MRV",
+      "package_and_version": "FCCC/CP/2009/11/Add1 Decision2 and Accordparagraph 5",
+      "observed_move_or_state": "COP takes note; Accord separates scrutiny by action/support status and respects sovereignty.",
+      "authority_evidence_and_unknowns": "COP disposition documented; Accord participants cannot bind non-assenting parties through bilateral bargain.",
+      "next_observable_response_or_state": "Further negotiation needed; Cancun specifies ICA.",
+      "source_references": [
+        {
+          "source_id": "CLI03",
+          "locator": "pp4–9 especiallyparagraph 5"
+        }
+      ],
+      "interpretation": {
+        "proposed_mechanism": "Bounded international visibility preserves national policy discretion.",
+        "strongest_rival": "Weak scrutiny merely lowers ambition enough to permit political statement.",
+        "discriminating_evidence_needed": "Information demands in successive drafts and party responses."
+      },
+      "confidence": "high for dated public text; limited for internal motivation",
+      "solomon_freeman_ids": [
+        "S-P05",
+        "S-P12"
+      ]
+    },
+    {
+      "id": "CLI-M07",
+      "event_date": "2009-12-23",
+      "record_type": "expert interpretation, not negotiating move",
+      "actor": "He Jiankun",
+      "setting_channel_and_audience": "Chinese expert essay on MFA website; domestic/public audience",
+      "issue_and_baseline": "How ICA differs from formal international verification",
+      "package_and_version": "Article sections3–4",
+      "observed_move_or_state": "Describes ICA acceptance as flexibility while defending differentiated obligations; lists remaining guidelines.",
+      "authority_evidence_and_unknowns": "Expert credentials provided, room-specific access unspecified; no claim he authorized concession.",
+      "next_observable_response_or_state": "Later Cancun decision defines consultation procedure.",
+      "source_references": [
+        {
+          "source_id": "CLI04",
+          "locator": "sections3–4"
+        }
+      ],
+      "interpretation": {
+        "proposed_mechanism": "Public defense can acknowledge procedural movement within preserved principle.",
+        "strongest_rival": "Selective retrospective explanation minimizes concessions.",
+        "discriminating_evidence_needed": "His contemporaneous advice and delegation working drafts."
+      },
+      "confidence": "high for dated public text; limited for internal motivation",
+      "solomon_freeman_ids": [
+        "S-P05",
+        "S-P17"
+      ]
+    },
+    {
+      "id": "CLI-M08",
+      "event_date": "2010-12",
+      "record_type": "adopted procedural specification",
+      "actor": "COP16 parties",
+      "setting_channel_and_audience": "Cancun multilateral negotiations and decision",
+      "issue_and_baseline": "Developing-country international consultation/analysis",
+      "package_and_version": "Decision1/CP16 paragraphs 60–64; separate developed assessmentparagraph 44",
+      "observed_move_or_state": "Defines technical analysis and facilitative sharing, safeguards sovereignty, excludes judging domestic policies.",
+      "authority_evidence_and_unknowns": "Collective COP design; individual Chinese instruction not in decision.",
+      "next_observable_response_or_state": "Subsequent treaty framework builds on earlier transparency experience.",
+      "source_references": [
+        {
+          "source_id": "CLI07",
+          "locator": "paras44,60–64"
+        }
+      ],
+      "interpretation": {
+        "proposed_mechanism": "Agreement proceeds by bounding purpose and authority of scrutiny.",
+        "strongest_rival": "Concessions driven primarily by finance or other package elements.",
+        "discriminating_evidence_needed": "Negotiation drafts, Chinese acceptance instructions and linked offers."
+      },
+      "confidence": "high for dated public text; limited for internal motivation",
+      "solomon_freeman_ids": [
+        "S-P05",
+        "S-P12",
+        "F07"
+      ]
+    },
+    {
+      "id": "CLI-M09",
+      "event_date": "2011-12-11",
+      "record_type": "agreed negotiation mandate",
+      "actor": "COP17 parties",
+      "setting_channel_and_audience": "Durban final plenary",
+      "issue_and_baseline": "Post 2020 legal instrument applicable to all parties",
+      "package_and_version": "Decision 1/CP.17, entire text",
+      "observed_move_or_state": "Mandates protocol, other legal instrument or legal-force outcome by 2015, implemented from 2020.",
+      "authority_evidence_and_unknowns": "Collective mandate; no uniform national targets or settled future legal duties.",
+      "next_observable_response_or_state": "2014 bilateral statement repeats legal-outcome objective;2015 adoption. ",
+      "source_references": [
+        {
+          "source_id": "CLI08",
+          "locator": "pp2–3 paragraphs 2–4"
+        }
+      ],
+      "interpretation": {
+        "proposed_mechanism": "Accept a broad legal negotiating process while substantive differentiation remains open.",
+        "strongest_rival": "Ambiguous legal-form options postpone genuine concession.",
+        "discriminating_evidence_needed": "Chinese interpretation and instructions for accepting mandate."
+      },
+      "confidence": "high for dated public text; limited for internal motivation",
+      "solomon_freeman_ids": [
+        "S-P05",
+        "F07"
+      ]
+    },
+    {
+      "id": "CLI-M10",
+      "event_date": "2013-04-13",
+      "record_type": "joint institution establishment",
+      "actor": "US and Chinese governments; Xie Zhenhua and Todd Stern",
+      "setting_channel_and_audience": "Joint statement; reporting to Strategic and Economic Dialogue special representatives",
+      "issue_and_baseline": "Technical cooperation and senior policy coordination",
+      "package_and_version": "Five-paragraph climate statement",
+      "observed_move_or_state": "Names working-group chairs and government participation/reporting arrangements.",
+      "authority_evidence_and_unknowns": "Public delegation of defined task; final national commitment authority not enumerated.",
+      "next_observable_response_or_state": "July 10 report identifies five initiatives and next work plans.",
+      "source_references": [
+        {
+          "source_id": "CLI09",
+          "locator": "paragraph 3"
+        }
+      ],
+      "interpretation": {
+        "proposed_mechanism": "Create recurring specialist interface under political reporting structure.",
+        "strongest_rival": "Repackage pre-existing technical projects without changing negotiation.",
+        "discriminating_evidence_needed": "Actual meeting records, new mandates, project outputs."
+      },
+      "confidence": "high for dated public text; limited for internal motivation",
+      "solomon_freeman_ids": [
+        "F09",
+        "F11"
+      ]
+    },
+    {
+      "id": "CLI-M11",
+      "event_date": "2013-06-08",
+      "record_type": "leaders’ institutional-route understanding, documented later",
+      "actor": "Xi Jinping and Barack Obama",
+      "setting_channel_and_audience": "Bilateral leaders understanding reproduced in July working-group report",
+      "issue_and_baseline": "HFC production/consumption phase-down versus emissions accounting",
+      "package_and_version": "June 8understanding as reproduced in dated July 10 joint report",
+      "observed_move_or_state": "Support using Montreal expertise/mechanisms for HFC production/consumption while retaining climate-framework emissions reporting/accounting.",
+      "authority_evidence_and_unknowns": "Leaders endorse negotiation route; cannot adopt amendment for Montreal parties.",
+      "next_observable_response_or_state": "September 6contact group step proposed.",
+      "source_references": [
+        {
+          "source_id": "CLI10",
+          "locator": "last paragraph of policy dialogue"
+        },
+        {
+          "source_id": "CLI11",
+          "locator": "introduction referring to June 8"
+        }
+      ],
+      "interpretation": {
+        "proposed_mechanism": "Separate institutional competences to make an action negotiable.",
+        "strongest_rival": "Technical efficiency or US proposal rather than learned Chinese practice.",
+        "discriminating_evidence_needed": "Pre-June alternatives, Chinese legal advice, rejected proposals."
+      },
+      "confidence": "high for dated public text; limited for internal motivation",
+      "solomon_freeman_ids": [
+        "F07",
+        "S-P12"
+      ]
+    },
+    {
+      "id": "CLI-M12",
+      "event_date": "2013-07-10",
+      "record_type": "joint work plan and agency tasking",
+      "actor": "Climate Change Working Group; Xie / Stern and relevant ministries",
+      "setting_channel_and_audience": "Report to S&ED; publication13July",
+      "issue_and_baseline": "Five technical initiatives and domestic/multilateral policy dialogue",
+      "package_and_version": "Joint report including annex1",
+      "observed_move_or_state": "Identifies agency roles, October implementation-plan deadline, at least twice yearly meetings and annual reporting.",
+      "authority_evidence_and_unknowns": "Technical role assignments explicit; no evidence every named agency can trade national targets.",
+      "next_observable_response_or_state": "2014 announcement builds on these channels; fulfillment of October plan deadline not verified here.",
+      "source_references": [
+        {
+          "source_id": "CLI10",
+          "locator": "five initiatives, post-initiative paragraph, working-group role"
+        }
+      ],
+      "interpretation": {
+        "proposed_mechanism": "Repeated technical work may inform feasible political bargaining.",
+        "strongest_rival": "Programs chosen for symbolic bilateral goodwill or independently planned work.",
+        "discriminating_evidence_needed": "Completed plans, meeting notes, cost estimates transmitted to target setters."
+      },
+      "confidence": "high for dated public text; limited for internal motivation",
+      "solomon_freeman_ids": [
+        "F09",
+        "F11",
+        "F13"
+      ]
+    },
+    {
+      "id": "CLI-M13",
+      "event_date": "2013-09-06",
+      "record_type": "joint next-step endorsement",
+      "actor": "Xi Jinping and Barack Obama",
+      "setting_channel_and_audience": "St Petersburg leaders meeting; White House public release",
+      "issue_and_baseline": "Montreal institutional process for HFCs",
+      "package_and_version": "Agreedparagraph after June 8understanding",
+      "observed_move_or_state": "Support open-ended contact group considering costs, assistance, alternatives and amendment.",
+      "authority_evidence_and_unknowns": "Political endorsement to pursue process, not final multilateral amendment authority.",
+      "next_observable_response_or_state": "2014 joint announcement renews collaboration; laterglobal phase-down not examined.",
+      "source_references": [
+        {
+          "source_id": "CLI11",
+          "locator": "agreed paragraph"
+        }
+      ],
+      "interpretation": {
+        "proposed_mechanism": "Turn general cooperation into a defined institutional next step.",
+        "strongest_rival": "Concession has limited immediate cost because substantive schedule remains open.",
+        "discriminating_evidence_needed": "Contact-group instructions and subsequent draft positions."
+      },
+      "confidence": "high for dated public text; limited for internal motivation",
+      "solomon_freeman_ids": [
+        "S-P12",
+        "F07"
+      ]
+    },
+    {
+      "id": "CLI-M14",
+      "event_date": "2014-01/2014-11",
+      "record_type": "retrospectively described proposal and confidential preparation",
+      "actor": "US team including Kerry/Stern; Xie and Chinese leadership",
+      "setting_channel_and_audience": "Private exchanges recalled in 2019 interview",
+      "issue_and_baseline": "Joint post-2020 target announcement conditioned on acceptable ambition",
+      "package_and_version": "Sterninterview, not recovered drafts",
+      "observed_move_or_state": "Stern recalls early 2014 US proposal and roughly nine months of preparation with mutual comfort about targets.",
+      "authority_evidence_and_unknowns": "Participant account suggests leader clearance sought; exact Chinese approval date and authority sequence unknown.",
+      "next_observable_response_or_state": "November12announcement supplies final actual terms.",
+      "source_references": [
+        {
+          "source_id": "CLI06",
+          "locator": "early 2014 Kerry request and joint announcement discussion"
+        },
+        {
+          "source_id": "CLI12",
+          "locator": "paragraph 3"
+        }
+      ],
+      "interpretation": {
+        "proposed_mechanism": "Reciprocal endorsement can be bargained without prescribing identical targets.",
+        "strongest_rival": "Targets independently set; joint statement merely packages preauthorized policy.",
+        "discriminating_evidence_needed": "Dated offer drafts, target ranges, leader clearance notes."
+      },
+      "confidence": "retrospective process evidence; exact offers unobserved",
+      "solomon_freeman_ids": [
+        "S-P17",
+        "F13",
+        "F14"
+      ]
+    },
+    {
+      "id": "CLI-M15",
+      "event_date": "2014-11-12 Asia/Shanghai",
+      "record_type": "joint public announcement of national intentions",
+      "actor": "Xi Jinping and Barack Obama",
+      "setting_channel_and_audience": "Beijing; public bilateral, domestic and global audience; Washington release 11 November",
+      "issue_and_baseline": "Different post-2020 mitigation contributions",
+      "package_and_version": "Joint announcement, paragraph 3",
+      "observed_move_or_state": "US 26–28% economy-wide below 2005 by 2025; China CO2 peak around 2030/earlier best efforts and non-fossil share~20% by 2030.",
+      "authority_evidence_and_unknowns": "Leaders announce national intentions; not equivalent targets or a ratified bilateral treaty.",
+      "next_observable_response_or_state": "Later national contributions and September 2015 statement add detail; performance unexamined.",
+      "source_references": [
+        {
+          "source_id": "CLI12",
+          "locator": "paragraph 3, both languages; English publisher note"
+        }
+      ],
+      "interpretation": {
+        "proposed_mechanism": "Joint endorsement adds a political bargain around differentiated national intentions.",
+        "strongest_rival": "Public packaging without negotiated ambition change.",
+        "discriminating_evidence_needed": "Confidential target alternatives and approval sequence."
+      },
+      "confidence": "high for dated public text; limited for internal motivation",
+      "solomon_freeman_ids": [
+        "S-P17",
+        "F14"
+      ]
+    },
+    {
+      "id": "CLI-M16",
+      "event_date": "2014-11-12 Asia/Shanghai",
+      "record_type": "joint principle formulation and third-party signal",
+      "actor": "Xi Jinping and Barack Obama",
+      "setting_channel_and_audience": "Beijing announcement, paragraphs 2–4",
+      "issue_and_baseline": "Differentiation and universal legal-outcome goal",
+      "package_and_version": "Joint text in both languages",
+      "observed_move_or_state": "Pairs CBDR/respective capabilities with national circumstances and encourages other contributions.",
+      "authority_evidence_and_unknowns": "Joint negotiating objective; cannot adopt wording for COP.",
+      "next_observable_response_or_state": "Lima decision paragraph 3 uses the same formula without resolving all design questions.",
+      "source_references": [
+        {
+          "source_id": "CLI12",
+          "locator": "paragraphs 2–4"
+        },
+        {
+          "source_id": "CLI13",
+          "locator": "paragraph 3"
+        }
+      ],
+      "interpretation": {
+        "proposed_mechanism": "Preserve principle while expanding interpretive scope.",
+        "strongest_rival": "Formula diplomatically masks unchanged incompatible applications.",
+        "discriminating_evidence_needed": "Bilateral draft origins; other groups’ acceptance rationales."
+      },
+      "confidence": "high for dated public text; limited for internal motivation",
+      "solomon_freeman_ids": [
+        "S-P05",
+        "S-P17"
+      ]
+    },
+    {
+      "id": "CLI-M17",
+      "event_date": "2014-12",
+      "record_type": "multilateral decision with unresolved design",
+      "actor": "COP20 parties",
+      "setting_channel_and_audience": "Lima negotiations; public text and independent on-site reporting",
+      "issue_and_baseline": "National contributions’ information, scope and legal nature",
+      "package_and_version": "Decision 1/CP.20 paragraphs 3,8,13–16",
+      "observed_move_or_state": "Adopts national circumstances language; preserves legal nature / content; qualified information list and aggregate synthesis.",
+      "authority_evidence_and_unknowns": "COP decides; bilateral announcement is influential context, not authority.",
+      "next_observable_response_or_state": "Negotiation continues 2015; ENB notes continuing differences.",
+      "source_references": [
+        {
+          "source_id": "CLI13",
+          "locator": "paras3,8,13–16"
+        },
+        {
+          "source_id": "CLI14",
+          "locator": "Enabling construction"
+        }
+      ],
+      "interpretation": {
+        "proposed_mechanism": "Textual convergence can precede agreement on application.",
+        "strongest_rival": "Other coalitions and the presidency independently arrive at formula; bilateral cause overstated.",
+        "discriminating_evidence_needed": "Tracked drafts, participant explanations across groups."
+      },
+      "confidence": "high for dated public text; limited for internal motivation",
+      "solomon_freeman_ids": [
+        "S-P05",
+        "S-P12"
+      ]
+    },
+    {
+      "id": "CLI-M18",
+      "event_date": "2015-09-25 America/New_York",
+      "record_type": "joint negotiating-design position",
+      "actor": "Xi Jinping and Barack Obama",
+      "setting_channel_and_audience": "Washington presidential statement; Chinese web posting 26 September",
+      "issue_and_baseline": "Enhanced transparency with capacity-related flexibility",
+      "package_and_version": "Joint statement, paragraphs 3–4",
+      "observed_move_or_state": "Endorses reporting / review of action and support, with flexibility for developing countries needing it because of capacity.",
+      "authority_evidence_and_unknowns": "Leaders express bilateral preferred architecture; no authority to enact a Paris article.",
+      "next_observable_response_or_state": "Paris still negotiates review boundaries; final Article 13 institutionalizes reporting / review with flexibility.",
+      "source_references": [
+        {
+          "source_id": "CLI15",
+          "locator": "paragraphs 3–4, both languages"
+        },
+        {
+          "source_id": "CLI17",
+          "locator": "Article 13"
+        }
+      ],
+      "interpretation": {
+        "proposed_mechanism": "Specify external procedures with qualified differentiation.",
+        "strongest_rival": "Flexible wording still allows opposed interpretations; other concessions drove acceptance.",
+        "discriminating_evidence_needed": "September drafts, interpretation notes and final Paris red lines."
+      },
+      "confidence": "high for dated public text; limited for internal motivation",
+      "solomon_freeman_ids": [
+        "S-P05",
+        "S-P12"
+      ]
+    },
+    {
+      "id": "CLI-M19",
+      "event_date": "2015-09-25 America/New_York",
+      "record_type": "domestic-policy announcements, future intentions and distinct pledges",
+      "actor": "US and Chinese governments",
+      "setting_channel_and_audience": "Joint statement, paragraphs 11–16; public",
+      "issue_and_baseline": "Implementation instruments and finance",
+      "package_and_version": "Joint statement mixing different commitment stages",
+      "observed_move_or_state": "Reports domestic steps and future plans including a Chinese national ETS 2017; separate US GCF and China South–South fund pledges.",
+      "authority_evidence_and_unknowns": "Public authority for national policy claims; operational fulfillment and disbursements not verified.",
+      "next_observable_response_or_state": "No implementation performance coded in this case.",
+      "source_references": [
+        {
+          "source_id": "CLI15",
+          "locator": "paragraphs 11–16"
+        }
+      ],
+      "interpretation": {
+        "proposed_mechanism": "Cooperation packages different national instruments and funding channels.",
+        "strongest_rival": "Announcements primarily political symbolism or reiteration of existing policy.",
+        "discriminating_evidence_needed": "Operating rules, disbursement records and causal links to target bargains."
+      },
+      "confidence": "high for dated public text; limited for internal motivation",
+      "solomon_freeman_ids": [
+        "S-P25"
+      ]
+    },
+    {
+      "id": "CLI-M20",
+      "event_date": "2015-12 first negotiating week",
+      "record_type": "reported objection during multilateral text work",
+      "actor": "China and Saudi Arabia; EU and US response",
+      "setting_channel_and_audience": "Paris contact group on transparency; on-site report",
+      "issue_and_baseline": "Facilitative dialogue and possible ex ante review",
+      "package_and_version": "Draft / bridging discussions, not final Article 13",
+      "observed_move_or_state": "China / Saudi Arabia object that dialogue could be ex ante review; EU / US say it would inform the next contributions.",
+      "authority_evidence_and_unknowns": "Attributed speaking positions; internal mandates and exact oral date unavailable in the selected section.",
+      "next_observable_response_or_state": "Final text distinguishes national contributions, technical review and collective stocktake.",
+      "source_references": [
+        {
+          "source_id": "CLI16",
+          "locator": "transparency section, paragraph beginning During discussions in the contact group"
+        }
+      ],
+      "interpretation": {
+        "proposed_mechanism": "Acceptance of enhanced transparency does not erase the boundary around national ambition.",
+        "strongest_rival": "Objection supplies negotiating leverage for finance or another package issue.",
+        "discriminating_evidence_needed": "Full submission text, mandate to reject, and linked offers."
+      },
+      "confidence": "on-site reported positions; date precision limited to first week",
+      "solomon_freeman_ids": [
+        "S-P05",
+        "S-P12"
+      ]
+    },
+    {
+      "id": "CLI-M21",
+      "event_date": "2015-12-05",
+      "record_type": "public multilateral position",
+      "actor": "China",
+      "setting_channel_and_audience": "COP meeting following ADP closure",
+      "issue_and_baseline": "Balanced Durban mandate and developed-country leadership",
+      "package_and_version": "ENB report of an attributed Chinese intervention",
+      "observed_move_or_state": "China emphasizes equal weight for Durban components and developed countries taking the lead.",
+      "authority_evidence_and_unknowns": "Public delegation position; not an internal decision record.",
+      "next_observable_response_or_state": "Differentiation consultations continue under Brazil/Singapore facilitators.",
+      "source_references": [
+        {
+          "source_id": "CLI16",
+          "locator": "COP21 section5December, China intervention"
+        }
+      ],
+      "interpretation": {
+        "proposed_mechanism": "Bilateral cooperation coexists with continued distributive positions.",
+        "strongest_rival": "Maintaining coalition support without an actual constraint on acceptance.",
+        "discriminating_evidence_needed": "Chinese instructions and private differentiation offers."
+      },
+      "confidence": "high for dated public text; limited for internal motivation",
+      "solomon_freeman_ids": [
+        "S-P05",
+        "S-P17"
+      ]
+    },
+    {
+      "id": "CLI-M22",
+      "event_date": "2015-12-06/2015-12-12",
+      "record_type": "multilateral facilitation and revised drafts",
+      "actor": "COP presidency; ministerial facilitators including Brazil and Singapore; all parties",
+      "setting_channel_and_audience": "Paris ministerial consultations and Comité de Paris",
+      "issue_and_baseline": "Differentiation across mitigation, transparency and finance",
+      "package_and_version": "Successive drafts reported 9–12 December; package conditionality",
+      "observed_move_or_state": "Facilitators report convergence with flexibility and continued developed-country leadership; issues remain before the final text.",
+      "authority_evidence_and_unknowns": "Collective multilateral process, not US–China authority; private exchanges not fully recorded.",
+      "next_observable_response_or_state": "Final COP adoption 12 December.",
+      "source_references": [
+        {
+          "source_id": "CLI16",
+          "locator": "Comité de Paris differentiation consultations; Dec9–12drafts"
+        }
+      ],
+      "interpretation": {
+        "proposed_mechanism": "Issue-specific application of principle is jointly constructed across many parties.",
+        "strongest_rival": "Final compromise mainly reflects the presidency/other coalitions’ design rather than bilateral spillover.",
+        "discriminating_evidence_needed": "Versions and bargaining records from all central coalitions."
+      },
+      "confidence": "high for dated public text; limited for internal motivation",
+      "solomon_freeman_ids": [
+        "S-P05",
+        "S-P24"
+      ]
+    },
+    {
+      "id": "CLI-M23",
+      "event_date": "2015-12-12 19:26 Europe/Paris",
+      "record_type": "adoption of treaty text; not ratification",
+      "actor": "COP21 parties including China and US",
+      "setting_channel_and_audience": "Final COP plenary",
+      "issue_and_baseline": "Legal obligations, national ambition, transparency and compliance",
+      "package_and_version": "Paris Agreement adopted text",
+      "observed_move_or_state": "Adopts common reporting and review with capacity flexibility; Article 4.2 procedural and pursuit duties but no binding duty to achieve each NDC result; differentiated finance.",
+      "authority_evidence_and_unknowns": "COP adopts text; subsequent consent to be bound/entry into force are separate and outside the case cutoff.",
+      "next_observable_response_or_state": "Further modalities and national implementation remain; not examined here.",
+      "source_references": [
+        {
+          "source_id": "CLI16",
+          "locator": "adoptionsection"
+        },
+        {
+          "source_id": "CLI17",
+          "locator": "Articles4,9,13,15; checked scans"
+        }
+      ],
+      "interpretation": {
+        "proposed_mechanism": "More formal common procedures coexist with national discretion and different duties.",
+        "strongest_rival": "National discretion is the key price of the treaty, with procedural concessions having limited effect.",
+        "discriminating_evidence_needed": "Instructions and drafts where these design choices alter acceptability; later procedure operation."
+      },
+      "confidence": "high for dated public text; limited for internal motivation",
+      "solomon_freeman_ids": [
+        "S-P05",
+        "S-P12",
+        "S-P25"
+      ]
+    }
+  ]
+}
