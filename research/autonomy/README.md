@@ -1,6 +1,8 @@
 # Understanding Chinese autonomy: authority, capability and deployment
 
-Research edition: 10 September 2026; military-domain extension added 15 September. Start with the [military ecosystem guide](../military-robotics/README.md) for the institution, platform and procurement map. Read this synthesis and the [worked-case analyst brief](cases/README.md), then the [doctrine sourcebook](doctrine.md), [technical evidence map](stack.md) and [deployment economics](../industrial-base/task-economics/README.md). The [research queue](questions.json) records progress and the evidence that would change the analysis.
+Research foundation: 10 September 2026; military-domain and organizational-doctrine extensions added 15 September. Start with the [military ecosystem guide](../military-robotics/README.md) for the institution, platform and procurement map. Read this synthesis and the [worked-case analyst brief](cases/README.md), then the [doctrine sourcebook](doctrine.md), [technical evidence map](stack.md) and [deployment economics](../industrial-base/task-economics/README.md). The [research queue](questions.json) records progress and the evidence that would change the analysis.
+
+Two companion readings connect the stack to industry: the [civilian production and sourcing baseline](../military-robotics/civilian-base.md) compares production, installations, supplier share and Unitree sourcing; the [five-layer reuse study](../military-robotics/civilian-reuse.md) examines components, interfaces, training resources, task integration and assurance.
 
 **The productive unit of analysis is a function, performed under stated conditions, with a stated division of human and machine responsibility.** A company or a chassis is too broad. A robot can balance autonomously, receive its destination from a person, flag an anomaly with uncertain accuracy, and require a technician to recover after a fault. Calling the whole system autonomous conceals the questions an analyst needs to answer.
 
@@ -11,6 +13,7 @@ China's public policy clearly favors unmanned and intelligent systems. The harde
 | Kind of source | What it tells us | How to use it |
 |---|---|---|
 | Promulgated military regulation | Rules or institutional requirements, where its actual text is available | The 2020 Joint Operations Outline announcement establishes that a regulation exists. Its autonomy provisions were not reviewed. Do not reconstruct them from commentary. |
+| Official institutional decision | An announced organization and its assigned role | [D09](doctrine.md#d09--information-support-force-an-implemented-institutional-decision) supplies a dated institutional anchor; a mission statement is not a system specification or procurement mandate. |
 | National plan or policy white paper | Development priorities and declared policy | Use for direction, authority and industrial priorities, not proof of a deployed capability. |
 | Signed military newspaper/research article | An author's proposed concepts and arguments | Track authors, institutions and repetition. Publication on a military website does not make every proposal binding doctrine. |
 | Exercise or demonstration report | A reported event under particular conditions | Identify the exact function and remaining human work; an appearance is not routine operational effectiveness. |
@@ -20,7 +23,16 @@ The formal anchor for modernization is the approved 2026–2030 national plan: c
 
 The declared human-control anchor is the 2025 arms-control white paper. It retains human primacy and ultimate responsibility and calls for preventing unauthorized actions. That does not tell us which decisions a particular operator must approve, how supervision works, or whether interruption is reliable in a deployed system. [White paper, Part IV, military AI subsection](https://www.mfa.gov.cn/web/wjb_673085/zzjg_673183/jks_674633/jksxwlb_674635/202511/t20251127_11761606.shtml).
 
-My analytical reading is that **central human authority and delegated machine execution can coexist**. We should not infer either complete automation or continuous manual control from the policy language. The important questions concern the function delegated, the conditions attached to it, and what happens when those conditions fail. The sourcebook records where signed PLA Daily authors discuss these questions without treating their arguments as adopted rules.
+My analytical reading is that **autonomy can reorganize both human institutions and machine execution**. Keep four dimensions separate:
+
+| Dimension | Question to answer |
+|---|---|
+| Responsibility | Who remains accountable for the result? |
+| Authority among people | Which person or organizational level may decide? |
+| Functions delegated to machines | What work may software perform, and under which conditions? |
+| Timing of supervision | Is authority exercised through prior rules, live intervention or later review? |
+
+A commitment to human responsibility leaves the other three questions open. The [D09–D11 organizational extension](doctrine.md#three-organization-and-training-records-added-on-15-september) adds an institutional decision, a signed argument and a reported training practice. Those different evidence types refine the interpretation without becoming one adopted operating rule.
 
 ## Three interacting parts of autonomy
 
@@ -83,7 +95,7 @@ Maintain three separate claims:
 2. **Documented transfer:** a dated record identifies the organizations, artifact or team, and the actual relationship.
 3. **Demonstrated military result:** evidence establishes what the transferred capability does under stated conditions.
 
-The national plan supports a policy preference for transfer. The civilian stack cases establish particular research, product and integration capabilities. Neither establishes the missing transaction or military result. Similar vocabulary, a recognizable quadruped or a shared institution cannot close those gaps. The existing [relationship dossiers](../industrial-base/relationship-method.md) provide the model for preserving attribution and transaction stage.
+The national plan supports a policy preference for transfer. The civilian stack cases establish particular research, product and integration capabilities. The [reuse study](../military-robotics/civilian-reuse.md) makes the positive implication concrete: organizations can draw on already developed components, software, data and application experience. Its five-layer comparison separates documented use from inferred savings. The existing [relationship dossiers](../industrial-base/relationship-method.md) preserve the particular transaction and military-use boundaries; shared vocabulary or appearance cannot supply a missing link.
 
 The subsequent [lineage study](../military-robotics/lineage.md) documents particular research uses of civilian software and a commercial sensor, plus a separate military ground-computing supply relationship. This partially closes the artifact gap. Research participation, direct supply and shipping software still require different evidence.
 
@@ -99,7 +111,7 @@ The cases make different human roles visible without yielding a universal doctri
 
 The [15 September military ecosystem guide](../military-robotics/README.md) adds ground, air and maritime cases with positive service evidence, dated development milestones and distinct civilian comparisons. WZ-7 and GJ-2 make military use and support personnel visible; Five Eight supplies an attributed platform relationship; Haiyi exposes a bounded research-to-commercial IP transaction, with no military destination established. Zhuhai Yun separates ownership, design, construction and professional operation. These are different connections between institutions and technology.
 
-The [institutional map](../military-robotics/institutions.md) distinguishes research mandates, academic exchange, joint laboratories, affiliation and legal ownership. The [procurement record](../military-robotics/procurement.md) retains provisional selections and a failed package. Together they broaden the evidence behind the questions below without supplying a common national software architecture. Older sources retain their original review dates.
+The [institutional map](../military-robotics/institutions.md) distinguishes organizational decisions, research mandates, academic exchange, joint laboratories, affiliation and legal ownership. The [procurement record](../military-robotics/procurement.md) retains provisional selections and a failed package. Together they broaden the evidence behind the questions below without supplying a common national software architecture. Older sources retain their original review dates.
 
 ## Human authority does not determine labor intensity
 
@@ -117,4 +129,6 @@ The [qualification study](../military-robotics/assurance.md) now supplies a conc
 
 The resulting analyst brief should show where a claim is strongest and where the chain breaks: policy → proposed role → technical artifact → integration → acceptance → operation. These are evidence categories, not an automatic maturity ladder. A system can have strong locomotion evidence and no measured task success. The [research queue](questions.json) gives eight specific questions, disconfirming explanations and evidence requests.
 
-This release is a selected public-source foundation. It does not establish classified doctrine, sector-wide dependence, representative vendor rankings or combat effectiveness. Economics sources retain their 5 September review date; the original autonomy sourcebooks were checked through 10 September, with the linked military-domain studies reviewed on 15 September. Source-level access and version limits are retained in the sourcebooks and worked cases.
+The positive industrial finding is a stock of reusable work available to Chinese organizations: components, interfaces, training resources, integration experience and scoped assurance work. Documented research reuse and commercial operation make this more than a policy aspiration. Measuring the advantage for a particular military product still requires its adaptation, qualification and operating history; the civilian baseline supplies no national military cost advantage by itself.
+
+This remains a selected public-source foundation. Economics cases retain their 5 September source review; D01–D08 and the original stack were checked through 10 September; D09–D11 and the linked military-domain studies were reviewed on 15 September. Source-level access, version and application limits remain in the sourcebooks and worked cases.

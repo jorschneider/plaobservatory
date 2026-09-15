@@ -9,19 +9,22 @@
         "D03",
         "D04",
         "D07",
-        "D08"
+        "D08",
+        "D10",
+        "D11"
       ],
       "stackIds": [
         "AS03",
         "AS09"
       ],
-      "request": "Named system's final operating rule and acceptance record specifying authorization, supervision, intervention, override and responsibility; do not substitute intent specifications.",
-      "wouldChange": "Distinguish policy commitments from implemented authority boundaries.",
-      "alternativeExplanation": "Human-control language may coexist with extensive task automation; it does not specify continuous human input.",
+      "request": "Named system's final operating rule, human role/authority assignments, training record and acceptance result specifying authorization, supervision, intervention, override and responsibility; distinguish requested arrangements from implemented ones.",
+      "wouldChange": "Separate responsibility, delegation among people, delegation to machines and the timing of supervision; test which arrangements were implemented.",
+      "alternativeExplanation": "Human-control commitments permit different human hierarchies and supervision schedules; independent planning by a human unit leader is not machine autonomy.",
       "progress": {
         "state": "Partially answered",
         "reviewedAt": "2026-09-15",
         "casePaths": [
+          "doctrine.md#three-organization-and-training-records-added-on-15-september",
           "cases/human-authority.md",
           "cases/ehang-operations.md",
           "../military-robotics/air.md",
@@ -29,7 +32,7 @@
           "../military-robotics/thesis-tests.md",
           "../military-robotics/assurance.md"
         ],
-        "finding": "Earlier cases identify remote control, task entry and requested modes. CH-4’s civilian customer reports ground-station takeoff/return commands; Zhuhai Yun’s operating institute supplies crew and survey managers. These add system-specific human roles, without a universal PLA authority rule or tested override. A reported Air Force transport-scheduling trial shifts people toward exception review; its observed simulation does not establish an adopted authority rule. Final civil conditions for the Wing Loong-2 meteorological model specify operator workload, automatic-flight interruption and control handover. These are requirements, without original test results or a demonstrated PLA override."
+        "finding": "Support and civilian comparison cases identify task entry, ground commands, exception review and operating personnel. D10 adds a signed organizational proposal; D11 reports authority delegated to junior human leaders in unit training. These are distinct from machine permissions and force-wide rules. Final civil conditions for the Wing Loong-2 meteorological model specify operator workload, automatic-flight interruption and control handover. System-specific PLA acceptance results and tested override remain unresolved."
       }
     },
     {
@@ -53,7 +56,8 @@
         "casePaths": [
           "cases/unitree-dependencies.md",
           "../military-robotics/lineage.md",
-          "stack.md"
+          "stack.md",
+          "../military-robotics/civilian-base.md#unitree-specify-the-production-boundary-behind-vertical-integration"
         ],
         "finding": "Six official Unitree repositories inspected at pinned commits; dependencies, binary boundaries and alternative interfaces/simulators identified. Shipping configuration and switching cost remain unverified. Named civilian software and a commercial sensor are documented in military-university research. Exact historical software commits and operating military configurations remain unknown. Shenzhen’s 2026 plan calls for ROS toolkit migration; completed substitutions and switching costs are not established."
       }
@@ -165,9 +169,9 @@
         "AS06",
         "AS09"
       ],
-      "request": "Versioned evidence connecting the documented research artifacts to an integrated military product; identify distribution or contracting mechanism, acceptance and any common civil/military implementation. Keep institutional participation and research use separate from direct supply.",
+      "request": "Connect named research artifacts to an integrated military product using versioned evidence, distribution or contracting mechanism and acceptance. For a reuse claim, compare work inherited with new engineering and qualification work; distinguish research use from direct supply.",
       "wouldChange": "Promote a technical-relevance hypothesis into a bounded relationship; operating capability still requires separate evidence.",
-      "alternativeExplanation": "Similar technologies or institutions may have no documented transfer relationship.",
+      "alternativeExplanation": "Research reuse can save some development work while leaving substantial integration; shared technologies or institutional contact alone do not establish a transfer relationship.",
       "progress": {
         "state": "Partially answered",
         "reviewedAt": "2026-09-15",
@@ -180,7 +184,8 @@
           "../military-robotics/procurement.md",
           "../military-robotics/lineage.md",
           "../military-robotics/defense-production.md",
-          "../military-robotics/adoption-routes.md"
+          "../military-robotics/adoption-routes.md",
+          "../military-robotics/civilian-reuse.md"
         ],
         "finding": "Five Eight claims a military robot-wolf platform contribution; warehouse reporting identifies civilian collaboration. Haiyi’s disclosed license/IP sale establishes a bounded research-to-commercial mechanism, with no military destination established. NUDT’s private-firm exhibition establishes contact only. Exact shared shipping military/civilian software or accepted transferred autonomy remains unresolved. A provisional military public-health package lists DJI/XAG models through a trading supplier: concrete commercial-product procurement evidence, with acceptance and autonomy functions unverified. Research-stage software evaluation and commercial-component use are now explicit. Those links establish neither direct vendor military contracts nor accepted fielded software; the separate Consys procurement case does not prove civilian technology origin. Rifa’s Hanzhong assembly-system case establishes a historical commercial-supplier connection to military production, with named factory software at the award stage. Its later staged-acceptance report does not verify that software configuration or an airborne-autonomy transfer."
       }
@@ -232,11 +237,12 @@
       "alternativeExplanation": "A benchmark gain can depend on extra demonstrations, a different embodiment or compute unavailable in the deployed configuration.",
       "progress": {
         "state": "Open",
-        "reviewedAt": "2026-09-10",
+        "reviewedAt": "2026-09-15",
         "casePaths": [
-          "cases/unitree-dependencies.md"
+          "cases/unitree-dependencies.md",
+          "../military-robotics/civilian-reuse.md#training-software-and-data-adaptation-advantage-can-be-tested"
         ],
-        "finding": "Multiple development routes are documented, but no matched evidence of reduced adaptation or recovery work was obtained."
+        "finding": "UniVLA reports a data-efficiency advantage on a simulated civilian benchmark, adding measured research progress to the documented development workflows. That comparison does not isolate project cost or demonstrate reduced field recovery and new-site engineering. No matched customer deployment comparison was obtained; this question remains open."
       }
     }
   ]

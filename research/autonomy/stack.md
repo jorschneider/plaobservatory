@@ -1,6 +1,6 @@
 # The Chinese autonomy stack: an analyst's evidence map
 
-Research cut-off and source check: 2026-09-10. This is a selected foundation of ten cases, not a claim to cover every model or supplier released by that date. Only original papers, maintainers' repositories, manufacturers, a customer and government standards records support the factual claims below. Product pages and default GitHub branches are mutable; these are dated observations unless a commit is pinned. The [Unitree dependency case](cases/unitree-dependencies.md) records six inspected commits and file-level evidence. arXiv version links identify the reviewed text.
+The ten foundation examples retain their 2026-09-10 source review; linked policy, industrial-base and reuse extensions were checked on 15 September. This is a selected foundation of ten cases, not a claim to cover every model or supplier released by that date. Only original papers, maintainers' repositories, manufacturers, a customer and government standards records support the factual claims below. Product pages and default GitHub branches are mutable; these are dated observations unless a commit is pinned. The [Unitree dependency case](cases/unitree-dependencies.md) records six inspected commits and file-level evidence. arXiv version links identify the reviewed text.
 
 ## The organizing idea
 
@@ -12,7 +12,7 @@ Three interacting processes are a better organizing device than a league table o
 2. **Work organization:** a customer order or inspection plan → task assignment and fleet scheduling → infrastructure interfaces → exception handling and accepted output. This is where a useful movement becomes useful work.
 3. **Improvement and assurance:** demonstrations and logs → training/simulation → evaluation → a controlled software release → monitored operation and subsequent revision.
 
-These processes are an analytical decomposition. The examples below are not a claim that the named products use one another. Command authority and human accountability should be separate fields that cut across every process, rather than another software component.
+These processes are an analytical decomposition. The examples below are not a claim that the named products use one another. Human accountability, authority among people, functions delegated to machines and supervision timing cut across every process. The [doctrine extension](doctrine.md#three-organization-and-training-records-added-on-15-september) makes these distinctions explicit; organizational delegation is not itself evidence of software autonomy.
 
 ## Ten concrete examples
 
@@ -158,10 +158,12 @@ The reviewed records establish civilian products, research capability, developer
 
 The separate [15 September lineage extension](../military-robotics/lineage.md) adds named artifacts in military-university research and a military ground-computing supplier. The [qualification extension](../military-robotics/assurance.md) adds model-specific civil conditions and military-export approval reporting. These new records do not change the military-use status of AS01–AS10.
 
+The [civilian reuse comparison](../military-robotics/civilian-reuse.md) asks what these layers make available to another organization: components, interfaces, learning resources, integration experience and appropriately scoped assurance evidence. It adds a simulated adaptation comparison without treating it as field economics. The [industrial-base brief](../military-robotics/civilian-base.md) separates production, installations, supplier share and one issuer’s sourcing boundary. Together these turn “civilian spillover” into claims about identifiable assets and work that can be investigated.
+
 An analyst can ask whether localization expertise, robust hardware, data-production infrastructure, integration teams or assurance processes might be reusable across sectors. Confirming such a relationship requires separate dated evidence identifying the organizations, product/version, transaction or collaboration, and actual role. A paper's potential relevance, a shared institution, a demonstration or a recognizable chassis is insufficient. Doctrine describing an aspiration also does not establish the maturity of this technical stack.
 
 ## Minimal record additions
 
-For each case, record: `system_and_version`, `function`, `environment`, `authority_retained_by_human`, `human_support_roles`, `onboard_vs_remote_compute`, `external_dependencies`, `integration_owner`, `evaluation_stage`, `measured_conditions`, `metric_denominator`, `test_or_acceptance_scope`, `source_date`, `retrieved_date`, `unsupported_inferences`.
+For each case, record: `system_and_version`, `function`, `environment`, `human_responsibility`, `authority_among_people`, `machine_permissions`, `supervision_timing`, `human_support_roles`, `onboard_vs_remote_compute`, `external_dependencies`, `integration_owner`, `evaluation_stage`, `measured_conditions`, `metric_denominator`, `test_or_acceptance_scope`, `source_date`, `retrieved_date`, `unsupported_inferences`.
 
 Use `unknown` when the source does not disclose a value. Keep author-run experiments, manufacturer specifications, buyer-reported operations, independent evaluation and formal acceptance as separate evidence categories. They are not rungs that every source can be silently promoted through.

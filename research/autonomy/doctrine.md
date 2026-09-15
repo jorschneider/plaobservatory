@@ -1,6 +1,6 @@
 # China's autonomy doctrine: what public sources actually establish
 
-Research cutoff and retrieval: 2026-09-10. Prepared for the PLA Observatory autonomy research extension. Primary official sources only. Translations below are analytical translations unless explicitly identified otherwise. This is a public-source doctrine-and-concepts review, not an account of classified rules or a deployment inventory.
+Research edition: 2026-09-15. D01–D08 retain their 10 September source review; D09–D11 add organization and training evidence checked on 15 September. Primary official sources only. Translations below are analytical translations unless explicitly identified otherwise. This is a public-source doctrine-and-concepts review, not an account of classified rules or a deployment inventory.
 
 ## Principal findings
 
@@ -8,15 +8,17 @@ The public record supports a modernization direction much more confidently than 
 
 Human authority and machine autonomy are separate dimensions. Official policy calls for human control and ultimate human responsibility. That does not establish continuous manual control of every task, the approval required for a particular action, or a tested ability to interrupt a deployed system. Those require system-specific evidence.
 
+**The organizational interpretation needs four separate questions:** who is accountable; which people may decide; which functions machines perform; and when supervision occurs. An unchanged commitment to human responsibility does not imply an unchanged hierarchy or continuous intervention. D09–D11 add an institutional decision, a signed organizational argument and a reported training practice, keeping their different authority and evidence stages explicit.
+
 The most useful research object is **a bounded function under a specified allocation of authority**, alongside the evidence that it works. A platform can automate locomotion while relying on a person for scene interpretation, task assignment or recovery. An intelligent command-support system can matter militarily without being a physical robot. Treat unmanned, autonomous, intelligent and embodied as different attributes.
 
 There is no sound basis here for one national autonomy ladder. One signed 2024 article uses loop terminology in an unusual order, and its own highest-autonomy category still includes human monitoring and takeover. Preserve source wording and code concrete human functions separately.
 
-The [worked support cases](cases/human-authority.md) now supply concrete examples: reported human roles in logistics and warehouse handling, and a medical-transport buyer's requested modes. They are different evidence from the eight policy/concept sources below. These unarmed support examples do not establish compliance with weapon-specific human-control commitments or a tested ability to intervene. No acceptance record was obtained.
+The [worked support cases](cases/human-authority.md) now supply concrete examples: reported human roles in logistics and warehouse handling, and a medical-transport buyer's requested modes. They are different evidence from the initial eight policy/concept sources below. These unarmed support examples do not establish compliance with weapon-specific human-control commitments or a tested ability to intervene. No acceptance record was obtained.
 
 The [15 September qualification extension](../military-robotics/assurance.md) adds a civil model's final operator requirements and an issuer's military-export approval claim. This advances the comparison between policy, requirements and qualification while leaving system-specific PLA implementation unverified.
 
-## Eight core source records
+## Eight policy and concept records reviewed on 10 September
 
 ### D01 — 2019 national-defense white paper
 
@@ -127,6 +129,46 @@ The [15 September qualification extension](../military-robotics/assurance.md) ad
 - **Does not establish:** A standardized PLA agent architecture, deployment numbers, safe autonomy or tested performance. Repeated authorship with D07 is intellectual continuity, not independent confirmation.
 - **Evidence coding:** `signed_commentary`; `conceptual_stack`; `development_agenda`.
 
+## Three organization and training records added on 15 September
+
+### D09 — Information Support Force: an implemented institutional decision
+
+- **Title:** 信息支援部队是全新打造的战略性兵种.
+- **Issuer/status:** MOD spokesperson 吴谦; official announcement of an institutional decision, not an operating regulation.
+- **Date:** Establishment and publication 2024-04-19; page timestamp 19:34:23.
+- **URL:** [Official MOD original](https://www.mod.gov.cn/gfbw/qwfb/16302053.html).
+- **Locator:** Final Chinese answer to the question asking what kind of force it is.
+- **Short original:** 统筹网络信息体系建设运用.
+- **Translation:** “Coordinate development and employment of the network information system.”
+- **Bounded finding:** Establishes the Information Support Force and its stated role as a key support for coordinating development and use of the network information system. This supplies institutional context for D05; neither a robotics purchasing monopoly nor specific software is identified. Retain the 2024 observation date.
+- **Evidence coding:** `institutional_decision_announced`; `dated_mandate`; `robotics_relationship_unassigned`.
+
+### D10 — Organizational delegation and supervision can change
+
+- **Title:** 无人化趋势中作战指挥的变与不变.
+- **Author/status:** 关茹苑; signed PLA Daily argument. The page supplies no author affiliation.
+- **Date:** 2026-08-11, 07:01:11.
+- **URL:** [Original article](https://www.81.cn/yw_208727/16478747.html).
+- **Locator:** Sections 2, 指挥组织结构, and 4, 指挥管控模式, after the introductory paragraph.
+- **Short original:** 变在分布，不变在集中.
+- **Translation:** “Distribution changes; centralization remains.”
+- **Bounded finding:** Proposes distributed organizational execution within centralized overall direction, with supervision shifting from continuous detailed instruction toward rules set beforehand, ongoing state monitoring and correction, with intervention under specified conditions. Human work changes location and timing.
+- **Does not establish:** Adopted authority rules, exercised machine permissions or measured performance. The article's technical illustrations are not used as capability evidence.
+- **Evidence coding:** `signed_commentary`; `proposed_organizational_change`; `implementation_unverified`.
+
+### D11 — A unit reports delegating authority to junior human leaders
+
+- **Title:** 第八十一集团军某部将班长纳入指挥训练体系.
+- **Authors/status:** 束凯、张嘉勋; PLA Daily report of unit training practice.
+- **Date:** 2026-05-11, 06:20:27; exact exercise date unspecified.
+- **URL:** [Original article](https://www.81.cn/yw_208727/16459829.html).
+- **Locator:** Body paragraphs 3, 5–6 and final paragraph, excluding title/byline.
+- **Short original:** 下沉指挥权限.
+- **Translation:** “Delegate command authority to lower levels.”
+- **Bounded finding:** Reports squad leaders entering command training and receiving greater decision authority in an unnamed 81st Group Army element. Unmanned systems appear in the training context; technological causation is not established. The article's 自主谋划 refers to human independent planning.
+- **Does not establish:** A force-wide directive, machine authority or an independently evaluated autonomous function.
+- **Evidence coding:** `reported_unit_training`; `human_authority_delegation`; `machine_autonomy_unmeasured`.
+
 ## Terminology to retain in the analyst product
 
 | Chinese term | Working English | Coding caution |
@@ -164,7 +206,7 @@ The informative civ–mil research question is whether the same technical artifa
 
 ## Retrieval and use limitations
 
-Source access was checked individually on 10 September 2026. Expanded cached article bodies below contain the relevant text, not merely short search snippets. They are not live-origin HTML snapshots. No claim relies solely on a short result snippet.
+D01–D08 were checked individually on 10 September 2026; D09–D11 were checked on 15 September. Entries described as expanded cached bodies contain substantive article text, not short snippets or live-origin snapshots. Original-download entries are identified separately. No claim relies solely on a short result snippet.
 
 | Record | Access state | Boundary |
 |---|---|---|
@@ -176,7 +218,18 @@ Source access was checked individually on 10 September 2026. Expanded cached art
 | D06 | Complete signed article body inspected in expanded cached text | Direct original-page retrieval failed. |
 | D07 | Original 81.cn HTML downloaded; full body checked | Download was used for verification, not republished in this repository. |
 | D08 | All four article sections inspected in expanded cached text | Direct original-page retrieval failed; no original HTML body obtained. |
+| D09 | Complete official original HTML downloaded and read | Institutional announcement, not an operating regulation. |
+| D10 | Complete official original HTML downloaded and read | Signed argument, not adopted requirements. |
+| D11 | Complete official original HTML downloaded and read | Reported unit practice, not force-wide implementation. |
+
+For D09–D11, HTTPS opens failed: MOD timed out; the two 81.cn pages returned redirect loops. HTTP requests to the same official origins succeeded on **15 September 2026**. Full bodies, dates, bylines and article endings were checked; unrelated sidebars were excluded. Download identifiers and SHA-256 hashes:
+
+| Record / original HTML artifact | SHA-256 |
+|---|---|
+| D09 / isf-20240419.html | c1ccd5105f5a3fba75374b2c4993e6d0e933d7d9c2cd701a3872500ed758d863 |
+| D10 / command-202608.html | fe8cd79cbcbb2cfc743171ba4c0c214963a6fca47e66877b82d91bc9a1073e3d |
+| D11 / training-20260511.html | cca92f43a474c41dc7b9066c8764795c16df781122531b38f93f97633cb582ed |
 
 Common publishers, shared authors and republication are not independent corroboration. The sourcebook preserves bounded claims and short excerpts rather than republishing complete articles.
 
-No accessible full text of the 2020 Joint Operations Outline was reviewed. None of these eight sources independently measures a named system's deployed autonomy. This is the central limit to retain when using the word doctrine.
+No accessible full text of the 2020 Joint Operations Outline was reviewed. None of these eleven records independently measures a named system's deployed autonomy. The organizational extension adds different kinds of evidence; it does not convert them into a common operating doctrine.

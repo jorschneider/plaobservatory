@@ -1,4 +1,4 @@
-# China's military robotics/autonomy institutions: six dated records
+# China's military robotics/autonomy institutions: seven dated records
 
 Research cutoff: 2026-09-15. This is a bounded institutional evidence map, not an exhaustive organization chart. Primary institutional publications and issuer disclosures establish the records below. An exchange-hosted credit-rating report is separately labelled as the rating agency's original assessment; it is not treated as a corporate registry extract. Publication date, event date and observation period are kept separate.
 
@@ -68,14 +68,20 @@ The useful analyst distinction is between a mandate, participation, an operating
 
 **Unknown:** funding, IP, deliverables, performance, military funding or a PLA customer. “乐聚机器人” at the NUDT event is a less precise brand-level identification than this legal name. **Analyst inference:** civilian research and commercial organizations can have documented, concrete relationships without the record establishing military transfer. Even after entity resolution, a firm appearing at both HIT and NUDT does not prove the HIT laboratory's software, models or data crossed into the military.
 
+## 7. Information Support Force: a dated mission for the shared information layer
+
+**Dated mission:** 2024-04-19. MOD identifies the Information Support Force as a key support for coordinating development and use of the network information system. [D09](../autonomy/doctrine.md#d09--information-support-force-an-implemented-institutional-decision) supplies the source and verification. This adds institutional context; robotics purchasing authority, software and the complete 2026 structure remain unresolved.
+
 ## Suggested graph treatment and analyst questions
 
-The [artifact-lineage extension](lineage.md) provides research uses of named civilian software and a commercial component involving NUDT. These are stronger implementation links than attendance at the humanoid event, while still distinct from institution-wide adoption or accepted military equipment. Keep these research relationships separate from the six institutional records above.
+The [artifact-lineage extension](lineage.md) provides research uses of named civilian software and a commercial component involving NUDT. These are stronger implementation links than attendance at the humanoid event, while still distinct from institution-wide adoption or accepted military equipment. Keep these research relationships separate from the seven institutional records above.
 
-Use dated relationship types: `historical_mandate`, `reported_joint_research`, `academic_exchange`, `joint_lab_governance`, `affiliation_reported`, `strategic_agreement_signed`, and `control_change_reported_pending`. Do not collapse these into one “military link” score. Keep the underlying Chinese institution name and source wording alongside an English display name.
+Use dated relationship types: `historical_mandate`, `institutional_decision_announced`, `reported_joint_research`, `academic_exchange`, `joint_lab_governance`, `affiliation_reported`, `strategic_agreement_signed`, and `control_change_reported_pending`. Do not collapse these into one “military link” score. Keep the underlying Chinese institution name and source wording alongside an English display name.
 
-These six records support a distributed research and commercialization network. They do not identify one master robotics organization, one shared autonomous software stack, one military customer, or automatic movement from a civilian laboratory to operational use. The next useful evidence would be a named contracting entity and award, a joint-lab project/deliverable, a published software or data licensing arrangement, or a corporate registry/issuer transaction-completion disclosure. Any individual university procurement notice would establish that buyer and transaction only.
+These seven records support a distributed network of research, information support and commercialization. They do not identify one master robotics organization, one shared autonomous software stack, one military customer, or automatic movement from a civilian laboratory to operational use. The next useful evidence would be a named contracting entity and award, a joint-lab project/deliverable, a published software or data licensing arrangement, or a corporate registry/issuer transaction-completion disclosure. Any individual university procurement notice would establish that buyer and transaction only.
 
 ## Retrieval notes
 
 All cited substantive HTML text and relevant PDF text were read. The NORINCO rating report's complete relevant page was downloaded, rendered and visually checked. CNINFO's full report and the PLA Daily page were readable via the web tool; direct downloads were blocked (403 and 404 respectively). The PLA Daily original HTML URL intermittently redirected/failed; the newspaper's original page supplied the full article text and dated page header.
+
+Record 7's official HTTP download, HTTPS timeout and hash are documented in [D09's access ledger](../autonomy/doctrine.md#retrieval-and-use-limitations).
