@@ -1,0 +1,305 @@
+{
+  "title": "Woodside high-level communication stress test: May–November 2024",
+  "research_date": "2026-09-15",
+  "memo": "woodside-channel-stress-test.md",
+  "scope": "One refused proposed ministerial encounter after demonstrated resumption, with a nearby MMCA control; not an emergency-hotline test, comprehensive chronology or 2026 availability assessment.",
+  "raw_archive": "/Users/jorsc/.codex/.chatgpt-projects/g-p-6a94dd290a988191911d85ae8fe94a6c/tmp/pdfs/research-2026-09-15/woodside-stress-test",
+  "source_dependence_note": "WCS01–02 reuse existing C23 sources. WCS08 is a ministry excerpt from the briefing preserved as WCS09. Paired national accounts corroborate limited acts, not each other’s private motives.",
+  "acquisition_note": "Official Chinese HTTP HTML recovered after HTTPS certificate mismatch. Direct US downloads returned 403; browser-tool extracts preserve complete substantive statements. Failed HTML bodies and fetch manifests remain outside Git and are not evidence.",
+  "sources": [
+    {
+      "title": "Readout of President Joe Biden’s Meeting with President Xi Jinping of the People’s Republic of China",
+      "author_or_institution": "White House",
+      "url": "https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2023/11/15/readout-of-president-joe-bidens-meeting-with-president-xi-jinping-of-the-peoples-republic-of-china-2/",
+      "publication_date": "2023-11-15",
+      "event_date": "2023-11-15, Woodside, California",
+      "source_type": "Primary official summit readout",
+      "limits": "Present-tense resumption announcement does not prove all mechanisms had met by that date; not an unconditional guaranteed crisis-response protocol.",
+      "source_dependence": "Paired with the Chinese readout: corroboration of specified outcomes, not two independent witnesses to internal bargaining.",
+      "preserved_copy": {
+        "path": "/Users/jorsc/.codex/.chatgpt-projects/g-p-6a94dd290a988191911d85ae8fe94a6c/tmp/pdfs/research-2026-09-15/crisis-2023/17-wh-nov15-readout.html",
+        "bytes": 142827,
+        "sha256": "9ba0d9a246f722d81dcb370134a15c92929da1f3aa18200b4ad07e65e2ef0e14"
+      },
+      "id": "WCS01",
+      "existing_source_id": "C23-17",
+      "existing_register": "../../sources/us-china-crisis-2023-register.json",
+      "reading_date": "2026-09-15",
+      "new_acquisition": false,
+      "read_scope_this_pass": "Full substantive US readout reread.",
+      "decisive_locators": [
+        "Military communication paragraph naming high-level, DPCT, MMCA and theater calls."
+      ],
+      "evidentiary_use": "Defines the promised category and distinguishes resumption from a guaranteed future appointment."
+    },
+    {
+      "title": "习近平同美国总统拜登举行中美元首会晤",
+      "author_or_institution": "PRC Ministry of Foreign Affairs",
+      "url": "https://www.mfa.gov.cn/ziliao_674904/zt_674979/ywzt_675099/2023nzt/xjpfmgjxzmyshwtscxytjhzzdsscldrfzshy/zxxx_136234/202311/t20231116_11181125.shtml",
+      "publication_date": "2023-11-16 10:23, Beijing publication time",
+      "event_date": "2023-11-15, Woodside, California",
+      "source_type": "Primary official summit readout",
+      "limits": "Not a joint communiqué or an authenticated record of every US assurance. Publication on 16 November does not move the California event from 15 November.",
+      "source_dependence": "Paired institutional publication; subsequent summaries and Carnegie quotations depend on this record.",
+      "preserved_copy": {
+        "path": "/Users/jorsc/.codex/.chatgpt-projects/g-p-6a94dd290a988191911d85ae8fe94a6c/tmp/pdfs/research-2026-09-15/crisis-2023/18-mfa-nov16-readout.html",
+        "bytes": 68766,
+        "sha256": "a203b47f57860259bb581f57edff9dd8a639f62f334dffa6811c5563f7f6cb4c"
+      },
+      "id": "WCS02",
+      "existing_source_id": "C23-18",
+      "existing_register": "../../sources/us-china-crisis-2023-register.json",
+      "reading_date": "2026-09-15",
+      "new_acquisition": false,
+      "read_scope_this_pass": "Complete paragraph beginning 两国元首同意推动和加强 reread; remaining Chinese summit text not newly reread. Existing register records prior full reading.",
+      "decisive_locators": [
+        "Military communication paragraph naming high-level, DPCT, MMCA and theater calls."
+      ],
+      "evidentiary_use": "Defines the promised category and distinguishes resumption from a guaranteed future appointment."
+    },
+    {
+      "id": "WCS03",
+      "title": "Readout of Secretary of Defense Lloyd J. Austin III’s Meeting With People’s Republic of China (PRC) Minister of National Defense Admiral Dong Jun",
+      "author_or_institution": "US Department of Defense / Pat Ryder",
+      "url": "https://www.defense.gov/News/Releases/Release/Article/3792119/readout-of-secretary-of-defense-lloyd-j-austin-iiis-meeting-with-peoples-republ/",
+      "publication_date": "2024-05-31",
+      "event_date": "2024-05-31",
+      "reading_date": "2026-09-15",
+      "retrieved_on": "2026-09-15",
+      "source_type": "Primary official readout, currently redirected to war.gov historical collection",
+      "read_scope": "Complete substantive readout including attribution; browser extract lines 212–219.",
+      "decisive_locators": [
+        "Paragraph 1: meeting completed.",
+        "Paragraph 2: Woodside linkage to proposed theater calls and planned crisis-communications group.",
+        "Taiwan paragraph and final paragraph on April 16 call."
+      ],
+      "evidentiary_use": "Completed ministerial contact despite Taiwan disagreement; separate future commitments retain future status.",
+      "limits": [
+        "US public account, not agreed minutes.",
+        "Direct download returned 403; substantive browser text preserved.",
+        "The current website name is not the department’s name at the 2024 event.",
+        "No inference that theater calls or working group had occurred by May 31."
+      ],
+      "preserved_copy": {
+        "path": "/Users/jorsc/.codex/.chatgpt-projects/g-p-6a94dd290a988191911d85ae8fe94a6c/tmp/pdfs/research-2026-09-15/woodside-stress-test/03-us-may31-meeting-web-extract.txt",
+        "format_and_scope": "Browser-tool text extract, not full original HTML",
+        "bytes": 13620,
+        "sha256": "d5b701de171f1698041d9b1eeacff7a75fd2fbf6709994e901b3e47a92f49b8d"
+      },
+      "current_redirect_url": "https://www.war.gov/News/Releases/Release/Article/3792119/readout-of-secretary-of-defense-lloyd-j-austin-iiis-meeting-with-peoples-republ/"
+    },
+    {
+      "id": "WCS04",
+      "title": "董军与美国国防部长会谈",
+      "author_or_institution": "PRC Ministry of National Defense",
+      "url": "https://www.mod.gov.cn/gfbw/qwfb/16312968.html",
+      "publication_date": "2024-05-31 18:16:48",
+      "event_date": "2024-05-31",
+      "reading_date": "2026-09-15",
+      "retrieved_on": "2026-09-15",
+      "source_type": "Primary official Chinese meeting account",
+      "read_scope": "Entire substantive four-paragraph text.",
+      "decisive_locators": [
+        "Paragraph 1: meeting.",
+        "Paragraph 2: relationship and leaders’ consensus.",
+        "Paragraph 3: Taiwan and Second Thomas Shoal objections."
+      ],
+      "evidentiary_use": "Confirms completed meeting while preserving Chinese objections to American conduct.",
+      "limits": [
+        "Chinese public account, not joint minutes.",
+        "HTTPS certificate failed; official HTTP copy preserved.",
+        "Disagreement present at a held meeting means disagreement’s existence alone cannot explain the later refusal."
+      ],
+      "preserved_copy": {
+        "path": "/Users/jorsc/.codex/.chatgpt-projects/g-p-6a94dd290a988191911d85ae8fe94a6c/tmp/pdfs/research-2026-09-15/woodside-stress-test/04-cn-may31-meeting.html",
+        "format_and_scope": "Complete HTML fetched from official HTTP page",
+        "bytes": 13945,
+        "sha256": "70786d87534e231cb94407f3ad752e6d4c6f71c2dee3107a7df3ca146c362211"
+      },
+      "retrieval_url": "http://www.mod.gov.cn/gfbw/qwfb/16312968.html",
+      "derived_text": "/Users/jorsc/.codex/.chatgpt-projects/g-p-6a94dd290a988191911d85ae8fe94a6c/tmp/pdfs/research-2026-09-15/woodside-stress-test/04-cn-may31-meeting.txt"
+    },
+    {
+      "id": "WCS05",
+      "title": "Secretary of Defense Lloyd J. Austin III Holds an On-Camera, On-the-Record Press Briefing in Laos",
+      "author_or_institution": "US Department of Defense / Lloyd Austin",
+      "url": "https://www.war.gov/News/Transcripts/Transcript/Article/3972916/secretary-of-defense-lloyd-j-austin-iii-holds-an-on-camera-on-the-record-press/",
+      "publication_date": "2024-11-20",
+      "event_date": "2024-11-20",
+      "reading_date": "2026-09-15",
+      "retrieved_on": "2026-09-15",
+      "source_type": "Primary official transcript",
+      "read_scope": "Complete substantive transcript from opening through final thanks, browser lines 178–249.",
+      "decisive_locators": [
+        "Opening, line 179: regret about China’s decision not to meet.",
+        "Question and complete answer, lines 193–195: broader-breakdown question and no inferred future implications."
+      ],
+      "evidentiary_use": "Named official confirms Chinese decision not to meet while declining broader inference.",
+      "limits": [
+        "Not the invitation itself; exact request and refusal transmission dates are unavailable.",
+        "Does not identify the approving Chinese official or establish private motive.",
+        "No audio/video comparison performed.",
+        "Direct download 403; complete substantive text preserved in browser extract."
+      ],
+      "preserved_copy": {
+        "path": "/Users/jorsc/.codex/.chatgpt-projects/g-p-6a94dd290a988191911d85ae8fe94a6c/tmp/pdfs/research-2026-09-15/woodside-stress-test/05-us-nov20-briefing-web-extract.txt",
+        "format_and_scope": "Browser-tool text extract, not full original HTML",
+        "bytes": 27986,
+        "sha256": "0aacc4e92d9ff130a52569ccba5624c883e7cd9ffaee6ad3916961e6b81d253e"
+      }
+    },
+    {
+      "id": "WCS06",
+      "title": "国防部新闻发言人吴谦就中美防长未举行会晤答记者问",
+      "author_or_institution": "PRC Ministry of National Defense / Wu Qian",
+      "url": "https://www.mod.gov.cn/gfbw/xwfyr/fyrthhdjzw/16353420.html",
+      "publication_date": "2024-11-21 19:30:00",
+      "event_date": "2024-11, proposed ADMM-Plus encounter; precise invitation/refusal transmission dates not stated",
+      "reading_date": "2026-09-15",
+      "retrieved_on": "2026-09-15",
+      "source_type": "Primary official Chinese Q&A",
+      "read_scope": "Complete single question and answer.",
+      "decisive_locators": [
+        "Question: reports US officials’ arms-sales explanation.",
+        "Answer: responsibility, Taiwan/core interests, correction and conditions for high-level exchanges."
+      ],
+      "evidentiary_use": "China’s public justification for the non-meeting and conditional approach to high-level contact.",
+      "limits": [
+        "The question’s arms-sale formulation is not a verbatim Chinese statement of a particular triggering sale.",
+        "Answer supplies no specific concession or guaranteed acceptance condition.",
+        "Public rationale is not independent proof of sole motive or internal approval path.",
+        "Official HTTP copy used after HTTPS certificate failure."
+      ],
+      "preserved_copy": {
+        "path": "/Users/jorsc/.codex/.chatgpt-projects/g-p-6a94dd290a988191911d85ae8fe94a6c/tmp/pdfs/research-2026-09-15/woodside-stress-test/06-cn-nov21-refusal.html",
+        "format_and_scope": "Complete HTML fetched from official HTTP page",
+        "bytes": 13441,
+        "sha256": "3fbcbb50ecfee3aea05cfc6b3663feb5755ecfe11bb7f4db6e5a890651e8d4c2"
+      },
+      "retrieval_url": "http://www.mod.gov.cn/gfbw/xwfyr/fyrthhdjzw/16353420.html",
+      "derived_text": "/Users/jorsc/.codex/.chatgpt-projects/g-p-6a94dd290a988191911d85ae8fe94a6c/tmp/pdfs/research-2026-09-15/woodside-stress-test/06-cn-nov21-refusal.txt"
+    },
+    {
+      "id": "WCS07",
+      "title": "U.S. Indo-Pacific Command representatives meet with the People’s Liberation Army counterparts for the Military Maritime Consultative Agreement working group and plenary session",
+      "author_or_institution": "US Indo-Pacific Command",
+      "url": "https://www.pacom.mil/Media/News/News-Articles/Article/3960557/us-indo-pacific-command-representatives-meet-with-the-peoples-liberation-army-c/",
+      "publication_date": "2024-11-08",
+      "event_date": "2024-11-06 to 2024-11-08",
+      "reading_date": "2026-09-15",
+      "retrieved_on": "2026-09-15",
+      "source_type": "Primary official command announcement",
+      "read_scope": "Entire substantive announcement, five paragraphs and photo caption, browser lines 120, 133–137.",
+      "decisive_locators": [
+        "Paragraphs 1–2: dates, participants, working group and plenary.",
+        "Paragraphs 3–5: operational safety and encounter review."
+      ],
+      "evidentiary_use": "Separate Woodside mechanism actually operated in Qingdao earlier in the month.",
+      "limits": [
+        "Meeting preceded the refused ministerial encounter; it does not establish post-refusal access.",
+        "No estimate of reduced accident risk or continuing guaranteed availability.",
+        "Direct download 403; browser extract preserved."
+      ],
+      "preserved_copy": {
+        "path": "/Users/jorsc/.codex/.chatgpt-projects/g-p-6a94dd290a988191911d85ae8fe94a6c/tmp/pdfs/research-2026-09-15/woodside-stress-test/07-us-nov8-mmca-web-extract.txt",
+        "format_and_scope": "Browser-tool text extract, not full original HTML",
+        "bytes": 7807,
+        "sha256": "138fd1968c6dc0979fb3dbb8440a3b200b17c2ce12173ca91f239f13f4b106a8"
+      }
+    },
+    {
+      "id": "WCS08",
+      "title": "中美两军举行2024年度海上军事安全磋商机制会议",
+      "author_or_institution": "PRC Ministry of National Defense / Wu Qian",
+      "url": "https://www.mod.gov.cn/gfbw/xwfyr/lxjzh_246940/16354791.html",
+      "publication_date": "2024-11-28 16:14:44",
+      "event_date": "2024-11-06 to 2024-11-08",
+      "reading_date": "2026-09-15",
+      "retrieved_on": "2026-09-15",
+      "source_type": "Primary official Chinese Q&A, extracted by issuing ministry from its larger briefing",
+      "read_scope": "Complete introductory line, question and two-paragraph answer.",
+      "decisive_locators": [
+        "Answer paragraph 1: completed meetings, annual conduct-rule implementation review, 2025 topics.",
+        "Answer paragraph 2: value attributed to communication alongside continuing sovereignty objection."
+      ],
+      "evidentiary_use": "Chinese confirmation and later public defense of MMCA contact despite disputed conduct.",
+      "limits": [
+        "Same statement as MMCA answer within WCS09; not independent evidence.",
+        "Publication after refusal reports an event before refusal.",
+        "Future topics are not a guaranteed future meeting.",
+        "Official HTTP copy used after HTTPS certificate failure."
+      ],
+      "preserved_copy": {
+        "path": "/Users/jorsc/.codex/.chatgpt-projects/g-p-6a94dd290a988191911d85ae8fe94a6c/tmp/pdfs/research-2026-09-15/woodside-stress-test/08-cn-nov28-mmca.html",
+        "format_and_scope": "Complete HTML fetched from official HTTP page",
+        "bytes": 14768,
+        "sha256": "825d12e5a98bd8f925465a42f8caa580c5f316456aadbe2659ee7a015c725aa0"
+      },
+      "retrieval_url": "http://www.mod.gov.cn/gfbw/xwfyr/lxjzh_246940/16354791.html",
+      "derived_text": "/Users/jorsc/.codex/.chatgpt-projects/g-p-6a94dd290a988191911d85ae8fe94a6c/tmp/pdfs/research-2026-09-15/woodside-stress-test/08-cn-nov28-mmca.txt"
+    },
+    {
+      "id": "WCS09",
+      "title": "2024年11月国防部例行记者会文字实录",
+      "author_or_institution": "PRC Ministry of National Defense / Wu Qian",
+      "url": "https://www.mod.gov.cn/gfbw/xwfyr/lxjzhzt/2024njzh_247047/2024n11y/16354969.html",
+      "publication_date": "2024-11-28",
+      "event_date": "2024-11-28 briefing; MMCA event November 6–8",
+      "reading_date": "2026-09-15",
+      "retrieved_on": "2026-09-15",
+      "source_type": "Primary official briefing transcript, selected complete exchanges read",
+      "read_scope": "Complete Q&A on future US defense-secretary contact (derived-text lines 43–44) and on MMCA (57–59); adjacent India exchange (39–41) and ADMM exchange (60–61) read as context. Not a full briefing reading.",
+      "decisive_locators": [
+        "Question beginning 针对中美防长: next defense secretary and general dialogue.",
+        "Answer beginning 中方对发展: sovereignty, dignity, core interests, atmosphere.",
+        "MMCA Q&A repeats WCS08."
+      ],
+      "evidentiary_use": "Shows stated conditions reiterated without a concrete guarantee or announced all-channel suspension.",
+      "limits": [
+        "Entire HTML preserved but only identified complete exchanges read.",
+        "No future communication performance inferred.",
+        "MMCA answer is dependent on WCS08.",
+        "Official HTTP copy used after HTTPS certificate failure."
+      ],
+      "preserved_copy": {
+        "path": "/Users/jorsc/.codex/.chatgpt-projects/g-p-6a94dd290a988191911d85ae8fe94a6c/tmp/pdfs/research-2026-09-15/woodside-stress-test/09-cn-nov28-briefing.html",
+        "format_and_scope": "Complete HTML fetched from official HTTP page",
+        "bytes": 56490,
+        "sha256": "64869e7ebe9a6c7a7b7022f4d785d2db382fb4a2f9abd3700488f883e5c81fac"
+      },
+      "retrieval_url": "http://www.mod.gov.cn/gfbw/xwfyr/lxjzhzt/2024njzh_247047/2024n11y/16354969.html",
+      "derived_text": "/Users/jorsc/.codex/.chatgpt-projects/g-p-6a94dd290a988191911d85ae8fe94a6c/tmp/pdfs/research-2026-09-15/woodside-stress-test/09-cn-nov28-briefing.txt"
+    },
+    {
+      "id": "WCS10",
+      "title": "China defense minister declines US meeting, breaking military talks",
+      "author_or_institution": "Noah Robertson / Defense News",
+      "url": "https://www.defensenews.com/pentagon/2024/11/19/china-defense-minister-declines-us-meeting-breaking-military-talks/",
+      "publication_date": "2024-11-19",
+      "event_date": "US offer and Chinese refusal before publication; exact dates not stated",
+      "reading_date": "2026-09-15",
+      "retrieved_on": "2026-09-15",
+      "source_type": "Contemporary original reporting of an anonymous senior US defense official’s briefing",
+      "read_scope": "Entire short report, browser lines 68–83; headline, author and date also read.",
+      "decisive_locators": [
+        "Paragraph 2: Pentagon offered meeting and China declined, citing arms sales.",
+        "Paragraph 3: official’s doubt about rationale.",
+        "Penultimate paragraph: uncertainty about wider pause."
+      ],
+      "evidentiary_use": "Documents a reported request rather than inferring one from the absence of a meeting.",
+      "limits": [
+        "No released invitation or Chinese reply document.",
+        "Anonymous US official’s skepticism is not direct Chinese motive evidence.",
+        "Broad title and claims about all channels or interception behavior are not adopted.",
+        "Complete substantive article in browser extract, not raw original HTML."
+      ],
+      "preserved_copy": {
+        "path": "/Users/jorsc/.codex/.chatgpt-projects/g-p-6a94dd290a988191911d85ae8fe94a6c/tmp/pdfs/research-2026-09-15/woodside-stress-test/10-request-reporting-web-extract.txt",
+        "format_and_scope": "Browser-tool text extract, not full original HTML",
+        "bytes": 10073,
+        "sha256": "44a541b0a4fbf1d6a7ddc8328b0598e56960dbdfef06a168f40207ba08c369b7"
+      }
+    }
+  ],
+  "source_count": 10
+}

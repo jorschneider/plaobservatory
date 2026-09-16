@@ -1,6 +1,6 @@
 # Full-text reading ledger
 
-**15 September 2026.** The program has completed **twenty-one scholarly readings of the versions specified below**, with additional bounded readings and selected primary-source checks. These are twenty-one works, not twenty-one independent evidentiary samples. Policy reports and industry chapters are listed separately. The 2023 Gao chapter is counted once as a version of the previously screened 2022 article. Shared authorship, reused interviews and repeated documentary sources are recorded in the memos.
+**15 September 2026.** The program has completed **twenty-two scholarly readings on negotiation, institutions and foreign policy, in the versions specified below**, with additional bounded readings and selected primary-source checks. These are twenty-two works, not twenty-two independent evidentiary samples. Policy reports, technical context and industry chapters are listed separately. The 2023 Gao chapter is counted once as a version of the previously screened 2022 article. Shared authorship, reused interviews and repeated documentary sources are recorded in the memos.
 
 Start with the [working manuscript](../../manuscript/README.md), [EU accession comparison](../../cases/eu-wto-2000-comparison.md), [climate comparison](../../cases/climate-2009-2015.md) and [Russian and scope reassessment](../../cases/russia-and-scope-reassessment.md), following the [implementation comparison](../../cases/implementation-and-major-power-reassessment.md), [first substantive assessment](../first-full-text-synthesis.md) and [2018–2026 trade-case synthesis](../../cases/us-trade-2018-2026-synthesis.md). This ledger documents their reading base and limits; it is not a claim that the entire literature or the history through 2026 has been covered.
 
@@ -29,10 +29,15 @@ Start with the [working manuscript](../../manuscript/README.md), [EU accession c
 | Bohman, Wong and Ferguson, “The Old Logic Behind China’s New Economic Weapons” (2025) | Complete published article, 25–45, three figures, Table 1 and all 48 notes; selected original-reference checks | Formalization, discretionary enforcement and conditions for relief; 233 restrictions are not negotiation outcomes. [Critical reading](../../manuscript/development/old-logic-2025-reading.md). |
 | Taylor and Garlick, “Flexible versus fragmented authoritarianism” (2025) | Complete published article, 189–208, references and repository covers; twenty article pages, twenty-two PDF pages | Delegation as a competing explanation; source identification and an undated restraint claim corrected against originals. [Critical reading](taylor-garlick-flexible-authoritarianism.md). |
 | Loh, “Diplomatic Control, Foreign Policy, and Change under Xi Jinping” (issue 2018; accepted 2019) | Complete published article, 111–145, both notes, references, table and figure; all thirty-eight physical PDF pages including covers/contents | Original interviews and observations on access, discipline and initiative; no measured concession latitude. ASEAN textual claim corrected against originals. [Critical reading](loh-diplomatic-control.md). |
+| Högl, “Kooperationsfaktoren in den Klimaverhandlungen” (2019) | Complete published article, 357–378, all 22 PDF pages, seven numbered notes, references and three figures | Seven retrospective interviews with no Chinese/Indian/Brazilian interviewees; comparative ENB coding uses unequal observation windows. Procedural trust and agreement design, not isolated Chinese concession effects. [Critical reading](climate-change-mechanisms.md). |
 
-## Completed policy and participant readings
+## Completed policy, technical and participant readings
 
-These are useful additional readings, not additions to the scholarly-article count above.
+These are useful additional readings, not additions to the social-science/legal scholarly count above.
+
+- **Williams (July 2014), *China's Climate Change Policies: Actors and Drivers*:** complete 31-page Lowy report, all 104 notes, ten figures and two tables. Approximately 25 early 2014 interviews; prospective domestic-policy context, not recovered November bargaining instructions. [Critical reading](climate-change-mechanisms.md).
+- **Yang and Jackson (2013), “China's synthetic natural gas revolution”:** complete three-page *Nature Climate Change* technical commentary, all 15 references, table and two figures; all pages visually inspected. Life-cycle estimates and planned capacity, not realized national emissions or negotiation evidence. A complete technical reading, listed separately by subject, not counted as partial. [Reading and scope](../../manuscript/development/climate-policy-boundaries.md).
+- **Chinese climate participant supplement:** complete Xie 2012 speech (officially republished 2020), Su 2010 press Q&A, Xie 2015 interview transcript, Xie 2009 interview report and Huo 2024 profile with named Zou Ji testimony. Published objects, not five complete interviews or independent witnesses. [Memo and register](../../manuscript/development/chinese-climate-participants.md).
 
 - **Chadha (2024):** complete main report, printed 1–43 and 45–65, all 279 notes and timeline figure. Separate 2024 and 2026 annex inventories inspected; the full statement compilations were not read. Individual originals supply the [India reconstruction](../../cases/india-border-2020-2024.md). No Chinese official interviews in the report.
 - **Lardy and Huang (2020), “China’s Financial Opening Accelerates”:** complete twelve-page PIIE brief, all 22 notes, references and five figures. Economic and policy synthesis, not the firm's private approval record. See the [finance case](../../cases/financial-access-implementation.md).
@@ -85,6 +90,7 @@ These are useful additional readings, not additions to the scholarly-article cou
 
 | Stream | Memo | Evidence and coverage |
 |---|---|---|
+| Copenhagen–Paris mechanisms | [Högl and Williams](climate-change-mechanisms.md) | [Register](climate-change-mechanisms-register.json) |
 | Direct negotiation and revised historical baseline | [Direct negotiations](direct-negotiation.md) | [JSON audit](direct-negotiation-evidence.json) |
 | Trade law, learning and implementation | [Trade learning](trade-learning.md) | [JSON audit](trade-learning-evidence.json) |
 | Institutions, domestic audiences and translation | [Institutions and audiences](institutions-and-audiences.md) | [JSON audit](institutions-and-audiences-evidence.json) |

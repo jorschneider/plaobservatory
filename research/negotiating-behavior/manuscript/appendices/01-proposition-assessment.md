@@ -408,13 +408,13 @@ The totals describe this assessment’s coverage, not a score for the book. Many
 
 **Baseline scope and qualification:** Increased activism may reflect power, resources, or changed objectives rather than learning. The essay gives no enumerated institutional sample.
 
-**Tested component:** Active institutional competence is observed; the proposed learning trajectory is not identified.
+**Tested component:** Active WTO competence is observed; policy direction and reported learning practices supply evidence of capacity acquisition, without identifying Freeman’s cross-institutional sequence or its causes.
 
-**Strongest relevant support:** China used legal interpretation, appeal and negotiated review procedures. [DS379-03, DS379-04, DS379-07](../../cases/wto-ds379-legal-process.md) Successive multilateral instruments specify international procedures with differentiated responsibilities. [CLI07, CLI08, CLI17](../../cases/climate-2009-2015.md)
+**Strongest relevant support:** China used legal interpretation, appeal and negotiated review procedures. [DS379-03, DS379-04, DS379-07](../../cases/wto-ds379-legal-process.md) Successive multilateral instruments specify international procedures with differentiated responsibilities. [CLI07, CLI08, CLI17](../../cases/climate-2009-2015.md) Jiang’s published February 2002 speech calls for urgent recruitment and training of trade-law, negotiating and antidumping specialists (pp. 454–455). [TL-P01](../development/legal-capacity-bridge-2026-09-15.md) This is a primary statement of policy direction, not proof that every instruction was implemented. Shaffer and Gao report pairing Chinese lawyers with experienced foreign counsel, third-party participation as apprenticeship and one-year legal-department assignments for young law professors from 2011 (pp. 150–151, 158–161). [LIT-TRADE-SHAFFER-GAO-2018](../development/legal-capacity-bridge-2026-09-15.md) The study’s evidence extends through 2017 and includes interviews whose full transcripts are unavailable. The 2011 assignments cannot explain China’s April 2009 DS379 submission; reported learning practices do not isolate their effects from resources or policy objectives.
 
 **Strongest contrary or limiting evidence:** Some Chinese claims failed or remained unresolved. [DS379-02, DS379-04](../../cases/wto-ds379-legal-process.md) Paris required other governments’ bargaining and did not simply enact the bilateral package. [CLI16](../../cases/climate-2009-2015.md)
 
-**Assessment and unresolved remainder:** Need earlier/later actor-specific evidence identifying learning, counsel, resources and changed objectives. Outcomes and meeting participation do not isolate learning; Freeman already proposed it.
+**Assessment and unresolved remainder:** The acquired evidence identifies specific WTO learning practices and an investment in specialist capacity. What remains unresolved is Freeman’s broader sequence from initial passivity to active bargaining across institutions, including the independent effects of experience and communications. The later WTO record does not validate his earlier period or distinguish learning from changes in resources, power and objectives.
 
 ### F08 — retain within tested scope
 
@@ -478,13 +478,13 @@ The totals describe this assessment’s coverage, not a score for the book. Many
 
 **Baseline scope and qualification:** Continuity after turnover could also come from unchanged instructions, interests, or institutions. Mentoring is a proposed transmission mechanism, not demonstrated by continuity alone.
 
-**Tested component:** Mentoring and on-the-job teaching as the mechanism transmitting bargaining practices.
+**Tested component:** Reported on-the-job legal learning is relevant; transmission of established bargaining practices across personnel turnover remains untested.
 
-**Strongest relevant support:** No adequate case-level test in the acquired corpus; no evidence is counted as confirmation or refutation.
+**Strongest relevant support:** Shaffer and Gao report learning through experienced counsel, third-party dispute participation and one-year legal-department assignments from 2011 (pp. 150–151, 158–161). [LIT-TRADE-SHAFFER-GAO-2018](../development/legal-capacity-bridge-2026-09-15.md) This is scholarly process evidence of legal learning, not a trace of particular established bargaining practices passed from departing officials to their replacements. The original personnel-program record and full interview transcripts were not acquired.
 
 **Strongest contrary or limiting evidence:** No adequate case-level test in the acquired corpus; no evidence is counted as confirmation or refutation.
 
-**Assessment and unresolved remainder:** No training, mentoring, personnel-handover or observed instruction record has been acquired. Similar conduct by later officials is not evidence of this transmission mechanism.
+**Assessment and unresolved remainder:** No acquired curriculum, handover record or actor-specific account traces particular established bargaining practices through staff turnover. Reported legal learning does not establish that continuity, or isolate mentoring from unchanged instructions, interests or institutions.
 
 ### F13 — unresolved
 

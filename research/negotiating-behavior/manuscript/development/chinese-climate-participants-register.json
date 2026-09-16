@@ -1,0 +1,291 @@
+{
+  "title": "Chinese climate participant accounts: bounded 2009–2015 process follow-up",
+  "research_date": "2026-09-15",
+  "memo": "chinese-climate-participants.md",
+  "source_count": 5,
+  "scope": "Participant public positions and retrospective accounts of work; no recovered private Chinese mandate or definitive Wen–Xie exchange.",
+  "sources": [
+    {
+      "id": "CCH01",
+      "title": "苏伟答记者问:中国气候措施透明 美国欲嫁祸",
+      "speaker": "Su Wei / 苏伟",
+      "publisher": "Sohu Green / 搜狐绿色",
+      "url": "https://green.sohu.com/20101012/n275560789.shtml",
+      "event_date": "2010-10-09",
+      "publication_date": "2010-10-12 11:46",
+      "source_type": "Contemporary media-published transcript of participant press Q&A",
+      "reading_depth": "Complete published substantive transcript",
+      "reading_scope": "All five question-and-answer units, from the China Daily question through the Xinhua question and final answer; introduction and metadata checked. Derived text lines 75–117. Navigation and unrelated recommendations excluded. No audio verification.",
+      "decisive_locators": [
+        "First China Daily answer: status and contested interpretation of the Copenhagen Accord.",
+        "Southern Weekly question and answer: media/NGO access and its intended role.",
+        "Unidentified foreign reporter question and answer: three MRV categories, domestic MRV and ICA."
+      ],
+      "supports": "A participant publicly accepted ICA while contesting the US interpretation of the Accord; the transcript includes contemporaneous observation of media engagement and continued public confrontation.",
+      "limits": [
+        "Published transcript has typographic imperfections; do not quote attributed English formulations without checking the underlying English speech.",
+        "Sohu headline and introduction use adversarial editorial framing.",
+        "Statements about American intent and the adequacy of Chinese action are the speaker's claims, not independent verification.",
+        "Does not disclose the December 2009 assent exchange or private instructions."
+      ],
+      "captures": [
+        {
+          "path": "/Users/jorsc/.codex/.chatgpt-projects/g-p-6a94dd290a988191911d85ae8fe94a6c/tmp/pdfs/research-2026-09-15/chinese-climate/CCH01-2010-su-sohu.html",
+          "bytes": 101084,
+          "sha256": "91ba0546ec03a703855a44a7817f591094129db5c0be2b0ccacf1f22719308d6",
+          "status": "Original publisher HTML; GB18030 decoding used for derived text",
+          "retrieval_date": "2026-09-15"
+        },
+        {
+          "path": "/Users/jorsc/.codex/.chatgpt-projects/g-p-6a94dd290a988191911d85ae8fe94a6c/tmp/pdfs/research-2026-09-15/chinese-climate/CCH01-2010-su-sohu.txt",
+          "bytes": 25550,
+          "sha256": "93e565e0fe05b5d8bacbf5968e8261b12efe56d4afa4d960d918a8b20b181f95",
+          "status": "Derived text from the paired HTML, not an independent source",
+          "retrieval_date": "2026-09-15"
+        }
+      ],
+      "reading_date": "2026-09-15",
+      "new_unique_document": true
+    },
+    {
+      "id": "CCH02",
+      "title": "抓住机遇 奋发有为 努力开创应对气候变化工作新局面——在全国发展改革系统应对气候变化工作会议上的讲话",
+      "speaker": "Xie Zhenhua / 解振华",
+      "publisher": "National Center for Climate Change Strategy and International Cooperation / 国家应对气候变化战略研究和国际合作中心",
+      "url": "http://www.ncsc.org.cn/SY/bwldjh/202003/t20200316_769124.shtml",
+      "https_url": "https://www.ncsc.org.cn/SY/bwldjh/202003/t20200316_769124.shtml",
+      "event_date": "2012-02-09, Xiamen, as identified in published speech heading",
+      "publication_date": "2020-03-16, displayed later republication",
+      "source_type": "Official later publication of dated participant work-conference speech",
+      "reading_depth": "Complete published substantive speech",
+      "reading_scope": "All four numbered sections and opening/conclusion read, not only search extracts. Current site title identifies the speaker and year. Speech heading identifies February 9, 2012 and Xiamen. No original 2012 recording or contemporaneous print edition acquired.",
+      "decisive_locators": [
+        "I(2), third task: counterpart-policy research, advice for central decision-making, expert discussions and research center.",
+        "I(3), first task: central approval, daily assessments, responses, delegation activities and outreach.",
+        "II(2): changed international circumstances and developing-country differences.",
+        "III(3): research, stable teams, meeting-specific positions, international dialogue and practical cooperation.",
+        "IV: learning, organizational support and coordination."
+      ],
+      "supports": "A Chinese participant's account and prescriptions show structured preparation before 2013.",
+      "limits": [
+        "A 2020 publication of a 2012 speech is not contemporaneous archival acquisition.",
+        "The centrally approved work plan is described but not supplied; no concession authority is measurable from this text.",
+        "Reported success and statistics are not independently validated.",
+        "Do not generalize its first-China-Corner wording into the first Chinese COP outreach; CCH05 already describes outreach in 2009."
+      ],
+      "captures": [
+        {
+          "path": "/Users/jorsc/.codex/.chatgpt-projects/g-p-6a94dd290a988191911d85ae8fe94a6c/tmp/pdfs/research-2026-09-15/chinese-climate/CCH02-2012-xie-ncsc.html",
+          "bytes": 78048,
+          "sha256": "e2f5b89801b357cc4bd116cec395c6217e278cdd0e841844576b5bf13a7844a7",
+          "status": "Official center HTML retrieved through HTTP after HTTPS hostname mismatch",
+          "retrieval_date": "2026-09-15"
+        },
+        {
+          "path": "/Users/jorsc/.codex/.chatgpt-projects/g-p-6a94dd290a988191911d85ae8fe94a6c/tmp/pdfs/research-2026-09-15/chinese-climate/CCH02-2012-xie-ncsc.txt",
+          "bytes": 50992,
+          "sha256": "4b1e78411b43d89ceb79d8ed234335dd2af944a0119e508a24b50fe631365798",
+          "status": "Derived text from the paired HTML, not an independent source",
+          "retrieval_date": "2026-09-15"
+        }
+      ],
+      "reading_date": "2026-09-15",
+      "new_unique_document": true
+    },
+    {
+      "id": "CCH03",
+      "title": "解振华：节能减排，中国的承诺都会做到",
+      "speaker": "Xie Zhenhua / 解振华",
+      "interviewer_credit": "Song Ruobing / 宋若冰, editor/reporter credit",
+      "publisher": "China.org.cn / 中国网, 中国访谈",
+      "url": "https://www.china.com.cn/fangtan/2015-11/03/content_36962784.htm?show=p",
+      "publication_date": "2015-11-03",
+      "event_date_status": "Page announces November 3, 2015 at 11:30; transcript timestamps begin at 08:43 on that date. Actual recording date not independently established.",
+      "source_type": "Original publisher's participant interview transcript",
+      "reading_depth": "Complete published interview transcript",
+      "reading_scope": "Entire text interview from first BASIC-joint-statement question through closing thanks and production credit; captions and page dates checked. Video not watched or downloaded.",
+      "decisive_locators": [
+        "08:44:13: projected national-contribution design and comparison with Kyoto.",
+        "08:44:34: agreement on principle versus implementation in specific negotiating elements.",
+        "08:45:27: BASIC coordination and contemplated practical cooperation."
+      ],
+      "supports": "A prospective pre-Paris explanation of differentiated responsibilities, unresolved specifics and coalition coordination.",
+      "limits": [
+        "Predictions are not evidence that Paris text was already agreed.",
+        "Domestic performance claims are not independently checked.",
+        "The host's origin shorthand about BASIC is not adopted as an exact founding date.",
+        "Image captions use a mistaken 谢 character for Xie; title and speaker labels use 解振华."
+      ],
+      "captures": [
+        {
+          "path": "/Users/jorsc/.codex/.chatgpt-projects/g-p-6a94dd290a988191911d85ae8fe94a6c/tmp/pdfs/research-2026-09-15/chinese-climate/CCH03-2015-xie-china.html",
+          "bytes": 38058,
+          "sha256": "69e04ca69a7a313ac3af6fd18f6743efb9066a4a034592dfc745652fa3e48e2c",
+          "status": "Original interview-publisher HTML",
+          "retrieval_date": "2026-09-15"
+        },
+        {
+          "path": "/Users/jorsc/.codex/.chatgpt-projects/g-p-6a94dd290a988191911d85ae8fe94a6c/tmp/pdfs/research-2026-09-15/chinese-climate/CCH03-2015-xie-china.txt",
+          "bytes": 13440,
+          "sha256": "aa4b40273ccdccbae2c4f1c90d64e358d4c693aadd9722e2605aece7dc28089c",
+          "status": "Derived text from the paired HTML, not an independent source",
+          "retrieval_date": "2026-09-15"
+        }
+      ],
+      "reading_date": "2026-09-15",
+      "new_unique_document": true
+    },
+    {
+      "id": "CCH04",
+      "title": "“气候特使”解振华 谈判桌上16年",
+      "author": "Huo Siyi / 霍思伊",
+      "publication": "China Newsweek / 中国新闻周刊, 2024 issue 2, total issue 1124, January 8, 2024",
+      "url": "https://www.chinanews.com.cn/gn/2024/01-07/10141840.shtml",
+      "reprint_url": "https://news.sina.cn/gn/2024-01-06/detail-inaaptxf4258570.d.html",
+      "publication_dates": {
+        "sina_display": "2024-01-06 07:01",
+        "cns_display": "2024-01-07 14:15:53",
+        "magazine_issue": "2024-01-08"
+      },
+      "source_type": "Original reported profile with named participant interviews and reused earlier accounts, read in publisher-group and media reproductions",
+      "reading_depth": "Complete published substantive article",
+      "reading_scope": "All article sections read in overlapping Sina and China News Service captures, from COP28 opening through final Xie quote; substantive CNS text lines 313–385, especially 346–374. Reporter and issue credits checked. No underlying interview recordings, full transcripts or meeting minutes acquired.",
+      "decisive_locators": [
+        "“将国际国内结合得非常好”: Zou Ji on research assigned in 2012.",
+        "“讲一个道理让各方都能接受”: post-Copenhagen review narrated by reporter; Zou explicitly quoted on Tianjin.",
+        "“他们能够认真倾听对方”: Zou on expert video meetings, overnight reporting and Xie's coordination."
+      ],
+      "supports": "Named retrospective Chinese participant testimony about preparation for 2014 provides a concrete possible narrative addition.",
+      "limits": [
+        "Article is a sympathetic profile; interviews are edited and retrospectively recalled.",
+        "Post-Copenhagen review is narrated without a discrete source citation; do not present it as an authenticated meeting record.",
+        "No-public-blame rules are narrated with Zou's subsequent endorsement; exact inception and consistent observance unproved.",
+        "Copenhagen dramatic scene attributes recollection to Stern, so is not independent Chinese corroboration.",
+        "The 2020 NDC wording should not substitute for the original 2014/2015 target dates.",
+        "Website metadata names editor Shao Wanyun; the article body names reporter Huo Siyi.",
+        "Sina, CNS and Tsinghua republications are one reporting chain."
+      ],
+      "captures": [
+        {
+          "path": "/Users/jorsc/.codex/.chatgpt-projects/g-p-6a94dd290a988191911d85ae8fe94a6c/tmp/pdfs/research-2026-09-15/chinese-climate/CCH04-2024-profile-cns.html",
+          "bytes": 105086,
+          "sha256": "dd208667113c3d44baa3d890ea3f8771363c255d6f5f30a15cd0c75f5c2bf6fb",
+          "status": "China News Service HTML crediting China Newsweek and naming reporter and magazine issue",
+          "retrieval_date": "2026-09-15"
+        },
+        {
+          "path": "/Users/jorsc/.codex/.chatgpt-projects/g-p-6a94dd290a988191911d85ae8fe94a6c/tmp/pdfs/research-2026-09-15/chinese-climate/CCH04-2024-profile-cns.txt",
+          "bytes": 34741,
+          "sha256": "ea4517c841833e76a9ea7df7dde363da9826e834d3cdf37eab85b241df1dc43b",
+          "status": "Derived text from the paired HTML, not an independent source",
+          "retrieval_date": "2026-09-15"
+        },
+        {
+          "path": "/Users/jorsc/.codex/.chatgpt-projects/g-p-6a94dd290a988191911d85ae8fe94a6c/tmp/pdfs/research-2026-09-15/chinese-climate/CCH04-2024-profile-sina.html",
+          "bytes": 56481,
+          "sha256": "67b56597191207205c9ffada9b2ba3658f7e2c7d5b276a96fc7dd07359bc5df4",
+          "status": "Sina reproduction; same reporting chain, not independent corroboration",
+          "retrieval_date": "2026-09-15"
+        },
+        {
+          "path": "/Users/jorsc/.codex/.chatgpt-projects/g-p-6a94dd290a988191911d85ae8fe94a6c/tmp/pdfs/research-2026-09-15/chinese-climate/CCH04-2024-profile-sina.txt",
+          "bytes": 28053,
+          "sha256": "2a08274256183e667fcfc1836b399ea5a3c1d1f7134c8bd5ef62c2e80c2e9426",
+          "status": "Derived text from the paired HTML, not an independent source",
+          "retrieval_date": "2026-09-15"
+        }
+      ],
+      "reading_date": "2026-09-15",
+      "new_unique_document": true
+    },
+    {
+      "id": "CCH05",
+      "title": "解振华：中国为气候会议取得成果作出重要贡献",
+      "author": "Jiang Guocheng / 江国成",
+      "interviewee": "Xie Zhenhua / 解振华",
+      "url": "https://www.chinanews.com.cn/gn/news/2009/12-27/2040296.shtml",
+      "reprint_url": "https://news.sohu.com/20091227/n269232373.shtml",
+      "interview_date": "2009-12-26, Beijing, as reported in body",
+      "publication_date": "2009-12-27",
+      "source_type": "Xinhua report on an interview, reproduced by China News Service and Sohu",
+      "reading_depth": "Complete published report, not complete interview",
+      "reading_scope": "All nine substantive article paragraphs read, from opening identification through daily media briefings/carbon-equity paragraph and reporter credit. Photo caption and source chain checked. No questions, full interview transcript, audio or original Xinhua webpage recovered.",
+      "decisive_locators": [
+        "Paragraphs 3–4: BASIC drafting claims.",
+        "Paragraphs 5–9: outside-room contacts, NGO engagement, communications center and daily briefings."
+      ],
+      "supports": "Contemporary participant claims of outreach in 2009 complicate a categorical post-Copenhagen origin story.",
+      "limits": [
+        "Public defense and attributed influence claims, not independent verification of effectiveness.",
+        "No detail about Wen's assent or Xie's objection.",
+        "Sohu credits CNS in header and Xinhua in body; its original-source script links the acquired CNS URL. Both are one source chain."
+      ],
+      "captures": [
+        {
+          "path": "/Users/jorsc/.codex/.chatgpt-projects/g-p-6a94dd290a988191911d85ae8fe94a6c/tmp/pdfs/research-2026-09-15/chinese-climate/CCH05-2009-xie-cns.html",
+          "bytes": 52029,
+          "sha256": "6269e7a0e54987debb1779f9d786aa9b1d5f52bb2dfd7468329c6f597e4ae99c",
+          "status": "China News Service reproduction of credited Xinhua interview report",
+          "retrieval_date": "2026-09-15"
+        },
+        {
+          "path": "/Users/jorsc/.codex/.chatgpt-projects/g-p-6a94dd290a988191911d85ae8fe94a6c/tmp/pdfs/research-2026-09-15/chinese-climate/CCH05-2009-xie-cns.txt",
+          "bytes": 7397,
+          "sha256": "a68235878cecf4f82fae3c42517570dc0cc7c5c7b6dff53512d2760429b5b4d0",
+          "status": "Derived text from the paired HTML, not an independent source",
+          "retrieval_date": "2026-09-15"
+        },
+        {
+          "path": "/Users/jorsc/.codex/.chatgpt-projects/g-p-6a94dd290a988191911d85ae8fe94a6c/tmp/pdfs/research-2026-09-15/chinese-climate/CCH05-2009-xie-xinhua.html",
+          "bytes": 101257,
+          "sha256": "bd9fb043a56c767a022f12e45400c8da408c246d7ff2a363c48ac7f66de69a13",
+          "status": "Sohu reproduction; filename reflects credited Xinhua origin, not direct Xinhua retrieval",
+          "retrieval_date": "2026-09-15"
+        },
+        {
+          "path": "/Users/jorsc/.codex/.chatgpt-projects/g-p-6a94dd290a988191911d85ae8fe94a6c/tmp/pdfs/research-2026-09-15/chinese-climate/CCH05-2009-xie-xinhua.txt",
+          "bytes": 11553,
+          "sha256": "9df90c057bee30c60c31dfbdf51b4220c8a81d52dd1f97b2cebf9b267827364a",
+          "status": "Derived text from the paired HTML, not an independent source",
+          "retrieval_date": "2026-09-15"
+        }
+      ],
+      "reading_date": "2026-09-15",
+      "new_unique_document": true
+    }
+  ],
+  "related_existing_registers": [
+    "../../sources/climate-2009-2015-register.json",
+    "chapter-03-climate-development-register.json",
+    "climate-2009-2013-machinery-register.json"
+  ],
+  "retrieval_notes": [
+    "Multiple web-tool opens failed with internal errors/cache misses; public direct HTML downloads succeeded.",
+    "NCSC HTTPS certificate hostname mismatch; its HTTP endpoint succeeded without disabling certificate validation.",
+    "No video download, paywall access, private access, purchase or outreach."
+  ],
+  "unadopted_discovery_leads": [
+    {
+      "url": "https://www.mfa.gov.cn/web/ziliao_674904/zt_674979/ywzt_675099/2009zt_675493/gebenhagen_675517/200912/t20091215_9285899.shtml",
+      "status": "Interview notice identifying foreign-media interviews, not interview contents; not counted."
+    },
+    {
+      "url": "https://news.cntv.cn/special/darenwu/xiezhenhua/index.shtml",
+      "status": "Discovery montage; underlying item attribution not traced, not counted as a participant interview."
+    },
+    {
+      "url": "https://www.tsinghua.edu.cn/newspdf/xiaoyoutongxun97qi.pdf",
+      "status": "Search discovery of CCH04 reprint only; not acquired/read as a PDF and not independent source."
+    }
+  ],
+  "excluded_parallel_work": "Parent separately researches Wen March 2010 press conference, He December 17, 2009 briefing, and domestic policy plans.",
+  "source_counts": {
+    "new_unique_documents": 5,
+    "complete_published_reading_objects": 5,
+    "complete_interview_transcripts": 1,
+    "complete_press_qa_transcripts": 1,
+    "complete_speeches": 1,
+    "complete_reported_articles": 2,
+    "new_scholarly_full_readings": 0
+  }
+}

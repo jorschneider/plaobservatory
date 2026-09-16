@@ -1,0 +1,194 @@
+{
+  "title": "Climate public positions and domestic-policy boundaries",
+  "research_date": "2026-09-15",
+  "memo": "climate-policy-boundaries.md",
+  "source_count": 5,
+  "source_counts": {
+    "complete_published_objects": 3,
+    "selected_objects": 2,
+    "complete_technical_commentaries": 1,
+    "new_social_science_scholarly_readings": 0
+  },
+  "sources": [
+    {
+      "id": "CPB01",
+      "title": "外交部副部长何亚非在哥本哈根会议贝拉会议中心举行中外媒体吹风会",
+      "url": "https://www.mfa.gov.cn/ziliao_674904/zt_674979/ywzt_675099/2009zt_675493/gebenhagen_675517/200912/t20091218_7957621.shtml",
+      "event_date": "2009-12-17 afternoon",
+      "publication_date": "2009-12-18 17:47",
+      "source_type": "MFA published report of participant briefing, attributing positions to Wen",
+      "reading_depth": "Complete substantive published report",
+      "reading_scope": "All substantive paragraphs from December17 event identification through final finance/South-South assistance paragraph, ending before related attachments. Initial extract ended at an internal related-word occurrence; corrected complete body was subsequently read. Not a full verbatim Q&A or private instruction.",
+      "use": "Prospective public distinction between national target and bounded transparency discussions.",
+      "limits": "Does not establish approval of final ICA wording or settle different witnesses' accounts of listing versus consultation.",
+      "captures": [
+        {
+          "path": "/Users/jorsc/.codex/.chatgpt-projects/g-p-6a94dd290a988191911d85ae8fe94a6c/tmp/pdfs/research-2026-09-15/climate-policy-boundaries/he-dec17.html",
+          "bytes": 65255,
+          "sha256": "d8356326ba4cdd1ff92779fb745cfed03e606dc0f82d1792e3d7719932b3f439",
+          "status": "Public original capture"
+        },
+        {
+          "path": "/Users/jorsc/.codex/.chatgpt-projects/g-p-6a94dd290a988191911d85ae8fe94a6c/tmp/pdfs/research-2026-09-15/climate-policy-boundaries/he-dec17.txt",
+          "bytes": 11379,
+          "sha256": "3407e8b3d5115dc83f600ecd2b996204f7b6ba02e32667e843e46df11ec96f6d",
+          "status": "Derived local rendering/text"
+        }
+      ],
+      "reading_date": "2026-09-15"
+    },
+    {
+      "id": "CPB02",
+      "title": "温家宝总理会见中外记者并回答提问：Newsweek Copenhagen exchange",
+      "url": "https://www.fmprc.gov.cn/web/ziliao_674904/zt_674979/ywzt_675099/2010nzt_675437/zwjzzdh_675463/201003/t20100314_9285465.shtml",
+      "event_date": "2010-03-14",
+      "publication_date": "2010-03-14 20:56",
+      "source_type": "Official press-conference transcript, selected complete exchange",
+      "reading_depth": "Selected reading",
+      "reading_scope": "Entire Newsweek question and Wen answer, through before Taiwan United Daily News question. Rest of press conference not systematically read.",
+      "use": "Distinguishes claimed December17 invitation grievance from December18 Obama/BASIC encounter.",
+      "limits": "Public defense does not establish invitation log. No private instructions.",
+      "captures": [
+        {
+          "path": "/Users/jorsc/.codex/.chatgpt-projects/g-p-6a94dd290a988191911d85ae8fe94a6c/tmp/pdfs/research-2026-09-15/climate-policy-boundaries/wen-march2010.html",
+          "bytes": 92978,
+          "sha256": "011e487096ae6949f169bb9bbdbced0845bc82af3ac50b89017f3ef20edaab47",
+          "status": "Public original capture"
+        },
+        {
+          "path": "/Users/jorsc/.codex/.chatgpt-projects/g-p-6a94dd290a988191911d85ae8fe94a6c/tmp/pdfs/research-2026-09-15/climate-policy-boundaries/wen-march2010.txt",
+          "bytes": 33205,
+          "sha256": "dba36af6e81fd4e0143449a054f9a290eac51ae04eda61d81149776cafdfeba9",
+          "status": "Derived local rendering/text"
+        },
+        {
+          "path": "/Users/jorsc/.codex/.chatgpt-projects/g-p-6a94dd290a988191911d85ae8fe94a6c/tmp/pdfs/research-2026-09-15/climate-policy-boundaries/wen-copenhagen-selected.txt",
+          "bytes": 3126,
+          "sha256": "363ac4105ca52ad064e273dfb4f52f4ea029d9fda294db016473d8133a6e9583",
+          "status": "Derived local rendering/text"
+        }
+      ],
+      "reading_date": "2026-09-15"
+    },
+    {
+      "id": "CPB03",
+      "title": "国务院关于印发大气污染防治行动计划的通知",
+      "instrument": "国发〔2013〕37号",
+      "url": "https://www.nea.gov.cn/2013-09/13/c_132716820.htm",
+      "instrument_date": "2013-09-10",
+      "publication_date": "2013-09-13 NEA reproduction, credits Chinese government website",
+      "source_type": "Published State Council policy instrument",
+      "reading_depth": "Complete published plan",
+      "reading_scope": "Notification/title/date and entire body: all ten sections and 35 numbered measures, read in two contiguous overlapping text chunks. No figures.",
+      "decisive_locators": [
+        "IV(12): coal share and regional coal consumption",
+        "IV(13): gas including coal-derived synthetic gas, conditions",
+        "VIII(27)–(28): responsibilities and assessments"
+      ],
+      "use": "Domestic clean-air purposes preceding November2014 joint announcement; energy measures have different greenhouse consequences.",
+      "limits": "Published requirements do not prove implementation or specific international concession authority.",
+      "captures": [
+        {
+          "path": "/Users/jorsc/.codex/.chatgpt-projects/g-p-6a94dd290a988191911d85ae8fe94a6c/tmp/pdfs/research-2026-09-15/climate-policy-boundaries/air-plan2013.html",
+          "bytes": 62144,
+          "sha256": "86b1f24046ffa0844dea99ba429c21b6caec64a99bf85e3d2b47cff1786e8794",
+          "status": "Public original capture"
+        },
+        {
+          "path": "/Users/jorsc/.codex/.chatgpt-projects/g-p-6a94dd290a988191911d85ae8fe94a6c/tmp/pdfs/research-2026-09-15/climate-policy-boundaries/air-plan2013.txt",
+          "bytes": 29115,
+          "sha256": "6c7ba6ebb7be262046551b89c56f7e848f9d449685f0f2b8c169d99b60c5705b",
+          "status": "Derived local rendering/text"
+        },
+        {
+          "path": "/Users/jorsc/.codex/.chatgpt-projects/g-p-6a94dd290a988191911d85ae8fe94a6c/tmp/pdfs/research-2026-09-15/climate-policy-boundaries/air-plan2013-body.txt",
+          "bytes": 28541,
+          "sha256": "2ad68c28ff21c3f820ff158dbd7da7fbe07cc29e15d0f9ce8f0c1f37447ef2b9",
+          "status": "Derived local rendering/text"
+        }
+      ],
+      "reading_date": "2026-09-15"
+    },
+    {
+      "id": "CPB04",
+      "title": "国务院办公厅关于印发能源发展战略行动计划（2014-2020年）的通知",
+      "instrument": "国办发〔2014〕31号",
+      "url": "https://www.nea.gov.cn/2014-12/03/c_133830458.htm",
+      "instrument_date": "2014-06-07 printed",
+      "publication_date": "2014-12-03 NEA reproduction",
+      "source_type": "Abridged and edited published State Council General Office strategy",
+      "reading_depth": "Selected reading",
+      "reading_scope": "Notification, dates, explicit abridgment/wording-adjustment notice, complete introduction, SectionI overall strategy and all SectionII(a) items1–5. SectionII(b)–(e) and SectionIII not fully read; headings inspected.",
+      "use": "Competing objectives and a version/date caution. Not used as the pre-November documentary baseline.",
+      "limits": "Explicit 本文有删减，个别表述有调整 means cannot backdate each published phrase to June7. Original government November release discovered but not independently acquired.",
+      "captures": [
+        {
+          "path": "/Users/jorsc/.codex/.chatgpt-projects/g-p-6a94dd290a988191911d85ae8fe94a6c/tmp/pdfs/research-2026-09-15/climate-policy-boundaries/energy-plan2014.html",
+          "bytes": 62401,
+          "sha256": "9b2dfdb42b761f27b95b3e9dc9e21caa7d94387f00378043ba1a432e7c1de13d",
+          "status": "Public original capture"
+        },
+        {
+          "path": "/Users/jorsc/.codex/.chatgpt-projects/g-p-6a94dd290a988191911d85ae8fe94a6c/tmp/pdfs/research-2026-09-15/climate-policy-boundaries/energy-plan2014.txt",
+          "bytes": 28963,
+          "sha256": "00e32bf2e6a78c3dd6295132cd4b73a69cc13238636e5f4fb9311a07460cb129",
+          "status": "Derived local rendering/text"
+        }
+      ],
+      "reading_date": "2026-09-15"
+    },
+    {
+      "id": "CPB05",
+      "title": "China's synthetic natural gas revolution",
+      "authors": [
+        "Chi-Jen Yang",
+        "Robert B. Jackson"
+      ],
+      "publication": "Nature Climate Change 3 (2013):852–854",
+      "doi": "10.1038/nclimate1988",
+      "publication_date": "2013-09-25 online; October issue",
+      "url": "https://www.nature.com/articles/nclimate1988",
+      "full_text_url": "https://jacksonlab.stanford.edu/sites/g/files/sbiybj20871/files/media/file/naturecc2013.pdf",
+      "source_type": "Technical commentary using existing life-cycle and cost estimates",
+      "reading_depth": "Complete technical commentary",
+      "reading_scope": "All target text, 15 references, Table1 and Figures1–2 read; all3 physical pages visually inspected. Unrelated forest-carbon commentary beginning bottom ofp854 excluded.",
+      "use": "A contemporaneous technical warning about divergent air-quality and greenhouse consequences of coal-derived gas.",
+      "limits": "Approved/planned capacity not realized production; life-cycle/projected effects not national measured outcomes. Figure1 gas comparison is shale gas. Cost estimates use different assumptions and pre-operation China estimates. Not participant negotiation evidence.",
+      "counting": "Complete technical context listed separately from social-science/legal scholarly works, not classified as partial.",
+      "captures": [
+        {
+          "path": "/Users/jorsc/.codex/.chatgpt-projects/g-p-6a94dd290a988191911d85ae8fe94a6c/tmp/pdfs/research-2026-09-15/climate-policy-boundaries/yang-jackson2013.pdf",
+          "bytes": 190905,
+          "sha256": "6a0c45217e5a6d2f75b396d098883835c5971f61b4eb9b7430400f376ba37b39",
+          "status": "Public original capture"
+        },
+        {
+          "path": "/Users/jorsc/.codex/.chatgpt-projects/g-p-6a94dd290a988191911d85ae8fe94a6c/tmp/pdfs/research-2026-09-15/climate-policy-boundaries/yang-jackson2013.txt",
+          "bytes": 24303,
+          "sha256": "50ef87c8e22f2c2130800c648760d23cb65c80fe072f5e695c79b9ed2933b142",
+          "status": "Derived local rendering/text"
+        },
+        {
+          "path": "/Users/jorsc/.codex/.chatgpt-projects/g-p-6a94dd290a988191911d85ae8fe94a6c/tmp/pdfs/research-2026-09-15/climate-policy-boundaries/yang-jackson-1.png",
+          "bytes": 586716,
+          "sha256": "b3af607d85bb7503f7af0424ecfd5849a0fc37811255aaff972aa22f5b1d5b96",
+          "status": "Derived local rendering/text"
+        },
+        {
+          "path": "/Users/jorsc/.codex/.chatgpt-projects/g-p-6a94dd290a988191911d85ae8fe94a6c/tmp/pdfs/research-2026-09-15/climate-policy-boundaries/yang-jackson-2.png",
+          "bytes": 513059,
+          "sha256": "1fa6e7717345d9808f073d45673509b485668ffa12bb0d7117a2be68120cf5c0",
+          "status": "Derived local rendering/text"
+        },
+        {
+          "path": "/Users/jorsc/.codex/.chatgpt-projects/g-p-6a94dd290a988191911d85ae8fe94a6c/tmp/pdfs/research-2026-09-15/climate-policy-boundaries/yang-jackson-3.png",
+          "bytes": 631477,
+          "sha256": "64ddfdb6fa4ff96799dce882c0173eaa437e946a7bcab7fd3dcfa76e624bad73",
+          "status": "Derived local rendering/text"
+        }
+      ],
+      "reading_date": "2026-09-15"
+    }
+  ],
+  "boundary": "Public texts establish positions and requirements; no private Chinese mandate or actual policy-performance inference."
+}

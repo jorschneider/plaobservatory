@@ -1,0 +1,54 @@
+# Woodside's high-level channel under renewed friction
+
+15 September 2026. Bounded follow-up to the 2023 chapter, covering one proposed ministerial encounter and a nearby control. [Source register](woodside-channel-stress-test-register.json). No chapter, chronology or proposition-status edits.
+
+## Result
+
+**Woodside produced actual military contact, but did not make every later high-level encounter available.** Austin and Dong met in May 2024 despite articulated disagreements over Taiwan. A proposed meeting at the November ASEAN defense gathering was then declined, with Beijing publicly defending its absence in terms of Taiwan and core interests. This is evidence of selective political conditioning after resumption. It does not establish that a guaranteed appointment was broken, an emergency hotline failed, or all restored mechanisms were suspended. The distinction matters because both militaries confirm that the separate maritime-safety mechanism had met earlier that month.
+
+The tested Woodside component is **high-level military-to-military communication**—China's “两军高层沟通”—as manifested in defense-minister contact. It is a named category in both summit accounts, not a published on-demand protocol. The proposed Austin–Dong appointment was not itself promised in November 2023. Neither public account provides response deadlines, guaranteed ministerial meetings or an exception-free obligation to accept every request. The Chinese account also specifies equality and respect. [WCS01–02; existing C23-17–18.]
+
+## What the paired records establish
+
+**Contact had resumed in practice.** The May 31, 2024 US readout and Chinese account both record the Austin–Dong meeting in Singapore. Washington's account connects discussion of theater-command calls to the November summit and mentions a planned crisis-communications working group; the Chinese account calls for implementation of the leaders' consensus. These further proposals are not evidence that those separate mechanisms had already operated. The ministerial meeting itself is an accomplished act. [WCS03–04.]
+
+The May accounts also preserve disagreement. Austin raised PLA activity around Taiwan and defended the US policy position. Dong objected to American signals and military support to what China calls Taiwan independence. Thus a dispute over Taiwan could coexist with ministerial contact. It is not enough to explain the different November outcome simply by noting that the Taiwan issue existed. [WCS03–04, Taiwan paragraphs.]
+
+**A subsequent proposal was refused.** Noah Robertson's November 19 contemporary report attributes to a senior American defense official the statement that the Pentagon offered a meeting and China declined, citing arms sales to Taiwan. The actual invitation and rejection were not released in the records acquired here; their exact transmission dates and wording remain unknown. The report's anonymous official also doubted the sincerity of the stated rationale. That doubt is an attributed American assessment, not recovered Chinese motive. [WCS10, paragraphs 2–3.]
+
+Austin's November 20 public briefing supplies named primary confirmation of China's decision not to meet at the gathering. He regretted the decision and argued for communication. Asked whether it represented a broader breakdown, however, he declined to infer future implications and directed the question of explanation to China. This qualification should travel with the refusal; an interpretation of universal breakdown would exceed even his contemporaneous public account. [WCS05, opening and Q&A beginning “Did you discuss China's decision”.]
+
+On November 21, Wu Qian answered a question that described American officials' arms-sales explanation. He assigned responsibility for the non-meeting to Washington and said the United States could not damage China's core interests over Taiwan while conducting military exchanges as though nothing had happened. He called for correction of American conduct and favorable conditions for high-level exchanges. The **answer** does not identify a particular arms-sale notification, a precise reciprocal concession or a condition whose fulfillment would guarantee the meeting. On November 28, asked about communication with the next American defense secretary, he reiterated sovereignty, dignity, core interests and the need for an appropriate atmosphere. Neither response discloses an internal instruction or names the decision's approving official. [WCS06, complete Q&A; WCS09, complete relevant Q&A.]
+
+**A different Woodside mechanism had operated during the same month.** US Indo-Pacific Command and China's Defense Ministry both record MMCA working-group and plenary meetings in Qingdao on November 6–8. Their accounts describe review of operational encounters and safety practices; China's November 28 answer also reports discussion of 2025 working-group topics. This is stronger than a generic assertion that channels remained open. But the meeting preceded the refusal: it does not prove that MMCA would accept a fresh request afterward. China's later favorable public description and discussion of future topics likewise do not guarantee the next meeting. [WCS07–08; WCS09 reproduces WCS08's answer and is not independent corroboration.]
+
+## What this changes for the manuscript
+
+The 2023 chapter can move beyond the question of whether the announced channels ever operated. At least the high-level category had yielded a meeting; later access was still selective. A negotiator should distinguish the counterpart's agreement to restore a class of contact, its completed uses, and acceptance of the next particular request. A refusal at one level does not establish that technical or operational routes are unavailable; those routes need their own inquiry.
+
+This is a practical continuation of the chapter's political-conditioning argument, not evidence of a new Xi-era propensity established against a pre-Xi comparison. It also supplies no finding that withholding the meeting obtained an American concession. No broad chronology, response-rate estimate, or account of post-November 2024 operation is claimed. The high-level refusal is a useful stress test of recurring access, **not a test of a requested emergency call during an active incident**.
+
+### Proposed passage, replacing an unresolved future-reliability question
+
+> The first year after Woodside supplied a qualified answer. Austin and Dong Jun met in Singapore in May 2024, even as both defended opposing positions over Taiwan. That November, China declined another ministerial encounter at the ASEAN defense gathering in Laos. Austin regretted the decision; Beijing said Washington could not harm China's core interests over Taiwan and expect military exchanges to proceed normally. Yet the two militaries had held maritime-safety meetings in Qingdao earlier that month. The restored arrangements had produced contact without securing every subsequent appointment. Nor did one refusal establish a general shutdown: Austin himself declined to draw that conclusion. The agreement to resume exchanges had not settled acceptance of the next invitation. For the negotiator, the practical question was which level remained available for the specific problem—not whether military communication was simply on or off.
+
+Suggested note: WCS01–08 and WCS10, with the narrower event/notification distinction and Austin Q&A locator above. If using the passage, preserve that the Qingdao meeting preceded the refusal. Do not describe it as a successful test of contact *after* the refusal.
+
+## Exact reading and preservation
+
+Read the complete substantive May 31 US readout and Chinese account; the complete November 20 Austin transcript; the complete November 21 Chinese Q&A; the complete US MMCA announcement and Chinese November 28 MMCA Q&A; and Robertson's complete short report. For the larger November 28 Chinese briefing, read the complete Q&A on the next US defense secretary and the complete MMCA Q&A, plus adjacent India and ADMM exchanges as context; the whole briefing was not read. Reused the existing Woodside records: reread the full US substantive readout and the complete Chinese mechanisms paragraph, with the existing full-reading record retained separately. No new interviews or internal documents.
+
+New Chinese HTML copies and derived text are preserved outside Git under `tmp/pdfs/research-2026-09-15/woodside-stress-test/`. HTTPS certificate failures required retrieval through the same official HTTP pages. US pages returned HTTP 403 to direct download, so preserved browser-tool extracts contain their substantive texts and line locators; these are expressly not archived full HTML originals. The reporting is also preserved as a browser-tool extract. Failed downloads remain identified as failures and are not cited as evidence. Exact paths, dates, reading limits and SHA-256 values are in the register.
+
+## Bounded manuscript integration check — 16 September 2026
+
+Read the complete new Chapter 4 subsection “The next meeting still required a decision,” its preceding November 30 paragraph, and notes `channel-may`, `channel-refusal` and `channel-mmca`. Also read the conclusion paragraph beginning “A partial agreement should be judged” and its note 3. This is an integration check of those passages, not a new complete chapter or original-source audit. Reread the preserved reporting excerpt at WCS10 lines 69, 71, 73 and 82 to check the specificity of the stated arms-sales trigger. Original reading scopes above and in the register remain unchanged.
+
+One correction was requested and applied by the chapter author: the sentence saying why the November objection prevented a meeting “remained unrevealed” now records that an American official said Beijing cited arms sales, while reserving the unavailable internal decision and the conditions that would have secured a meeting. This avoids implying that no more specific trigger was reported or that the May and November disputes were identical. The manuscript does not add the report’s late-October sales details; no original DSCA notice was newly read.
+
+No consequential scope or chronology issue remains in the checked passages. They distinguish actual May contact from proposed additional mechanisms; place the November 6–8 MMCA meetings before the ministerial refusal; preserve Austin’s limited contemporaneous assessment; and do not claim a guaranteed appointment, failed emergency call, general shutdown or extracted concession. The conclusion’s comparison of an accomplished benefit with recurring access stays within those findings.
+
+| Whole file containing reviewed passages | SHA-256 at integration check |
+|---|---|
+| `04-negotiating-in-crisis.md` | `147aeec78b5771d184ececa226a824e50c86c4a5a12efa374005ffa52d1f821f` |
+| `08-what-survives-solomon.md` | `e10fe47c6d984675add35bb602d9b93253e5248c8c97dc1b0016f4abeeb58cc2` |

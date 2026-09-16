@@ -1,0 +1,321 @@
+{
+  "title": "Climate bargaining mechanisms: two complete original research readings",
+  "research_date": "2026-09-15",
+  "memo": "climate-change-mechanisms.md",
+  "scope": "Two new studies, complete reading including methods, notes, references and all graphics. No rereading claim for Conrad, Hao Zhang, Stern, Xie, Froman, Saran or Ramesh. No chapter, existing source register or shared ledger edited.",
+  "reading_count": {
+    "new_complete_scholarly_articles": 1,
+    "new_complete_policy_research_reports": 1,
+    "new_complete_errata": 1,
+    "counting_note": "Högl alone qualifies as the additional complete scholarly article. Williams is a policy-research report. The open-access erratum is not another study. Parent handles shared counts."
+  },
+  "sources": [
+    {
+      "id": "CCM-01",
+      "type": "Original scholarly journal article",
+      "author": "Maximilian Högl",
+      "title": "Kooperationsfaktoren in den Klimaverhandlungen: Eine vergleichende Analyse der Klimagipfel in Kopenhagen 2009 und in Paris 2015",
+      "english_subtitle": "Enabling Factors for Cooperation at the Climate Negotiations: A Comparative Analysis of Copenhagen 2009 and Paris 2015",
+      "journal": "Zeitschrift für Außen- und Sicherheitspolitik",
+      "volume": 12,
+      "issue_year": 2019,
+      "printed_pages": "357–378",
+      "physical_pages": 22,
+      "doi": "10.1007/s12399-019-00782-9",
+      "url": "https://link.springer.com/article/10.1007/s12399-019-00782-9",
+      "pdf_url": "https://link.springer.com/content/pdf/10.1007/s12399-019-00782-9.pdf",
+      "publication_chronology": {
+        "first_online": "2019-12-23",
+        "corrected_open_access_publication": "2020-05-14",
+        "note": "PDF carries 2020 copyright and corrected-publication notice. CCM-02 explains that the correction concerns open-access licensing, not findings."
+      },
+      "rights": "CC BY 4.0 under the published erratum. Entire original retained outside Git; no full text reproduced in repository.",
+      "acquisition_status": "Complete valid publisher PDF acquired. Final URL includes a cookies_not_supported parameter but returned application/pdf and a readable 22-page PDF, not an error document. Publisher HTML also preserved.",
+      "captures": [
+        {
+          "path": "/Users/jorsc/.codex/.chatgpt-projects/g-p-6a94dd290a988191911d85ae8fe94a6c/tmp/pdfs/research-2026-09-15/climate-mechanisms/hogl-2019.pdf",
+          "format": "Original publisher PDF",
+          "bytes": 827749,
+          "sha256": "fc1aaacc96d4c72d7b97094042d96aa1d4b4f170a45276570545714f719d8065"
+        },
+        {
+          "path": "/Users/jorsc/.codex/.chatgpt-projects/g-p-6a94dd290a988191911d85ae8fe94a6c/tmp/pdfs/research-2026-09-15/climate-mechanisms/hogl-2019.html",
+          "format": "Publisher article HTML",
+          "bytes": 400075,
+          "sha256": "2c55d2751d6cc67967c716493bfda18676c93c335680d29b0319ffee47e91a11"
+        }
+      ],
+      "full_read": true,
+      "reading_scope": {
+        "physical_pages": "1–22, complete",
+        "printed_pages": "357–378",
+        "pagination_formula": "Physical page = printed page minus 356",
+        "language": "German original, including English interview quotations",
+        "notes": "All seven numbered notes",
+        "references": "Complete bibliography, including final physical pages 20–22",
+        "read_chunks": [
+          "/Users/jorsc/.codex/.chatgpt-projects/g-p-6a94dd290a988191911d85ae8fe94a6c/tmp/pdfs/research-2026-09-15/climate-mechanisms/hogl-2019-read-01.txt",
+          "/Users/jorsc/.codex/.chatgpt-projects/g-p-6a94dd290a988191911d85ae8fe94a6c/tmp/pdfs/research-2026-09-15/climate-mechanisms/hogl-2019-read-06.txt",
+          "/Users/jorsc/.codex/.chatgpt-projects/g-p-6a94dd290a988191911d85ae8fe94a6c/tmp/pdfs/research-2026-09-15/climate-mechanisms/hogl-2019-read-11.txt",
+          "/Users/jorsc/.codex/.chatgpt-projects/g-p-6a94dd290a988191911d85ae8fe94a6c/tmp/pdfs/research-2026-09-15/climate-mechanisms/hogl-2019-read-16.txt",
+          "/Users/jorsc/.codex/.chatgpt-projects/g-p-6a94dd290a988191911d85ae8fe94a6c/tmp/pdfs/research-2026-09-15/climate-mechanisms/hogl-2019-read-21.txt"
+        ],
+        "visual_scope": "All three figures inspected as rendered PDF pages; no figures or tables left uninspected.",
+        "visual_captures": [
+          {
+            "physical_page": 5,
+            "path": "/Users/jorsc/.codex/.chatgpt-projects/g-p-6a94dd290a988191911d85ae8fe94a6c/tmp/pdfs/research-2026-09-15/climate-mechanisms/hogl-2019-visual-05.png"
+          },
+          {
+            "physical_page": 13,
+            "path": "/Users/jorsc/.codex/.chatgpt-projects/g-p-6a94dd290a988191911d85ae8fe94a6c/tmp/pdfs/research-2026-09-15/climate-mechanisms/hogl-2019-visual-13.png"
+          },
+          {
+            "physical_page": 17,
+            "path": "/Users/jorsc/.codex/.chatgpt-projects/g-p-6a94dd290a988191911d85ae8fe94a6c/tmp/pdfs/research-2026-09-15/climate-mechanisms/hogl-2019-visual-17.png"
+          }
+        ]
+      },
+      "methods": {
+        "locator": "Printed pp.363–365 / PDF pp.7–9",
+        "interviews": "Seven semistructured interviews, November–December 2016, Marrakech COP22 and Bonn. Six official delegation members who attended at least one target conference: two EU negotiators, one African-country negotiator, one AOSIS representative, one LDC representative and one Western climate scientist accredited by Uganda; plus a climate-policy expert.",
+        "missing_perspectives": "No Chinese, Indian or Brazilian negotiators interviewed; author explicitly acknowledges this.",
+        "interview_analysis": "Opening comparative question, then theory-guided questions; cooperation model shown to respondents at end. Transcribed and coded in MaxQDA. Transcripts and independent reliability assessment not supplied in article.",
+        "speech_act_data": "Earth Negotiations Bulletin summaries, not official verbatim transcripts. Cooperative or conflictual statements toward other actors coded.",
+        "unequal_windows": "Copenhagen conference compared with Paris plus June, August and October 2015 Bonn meetings to compensate for informal Paris negotiations not covered by the dataset.",
+        "thresholds": "Approximately 1,200–1,300 relative speech acts in each comparison window. Major actors require at least 60 appearances as speaker/addressee. Reciprocal relation requires at least one-third returned acts and at least four total acts. Author acknowledges arbitrary threshold and assumed speaking order.",
+        "limits": "Reported positional alignment does not measure accepted concessions. United States excluded from Copenhagen major-actor network; no separate China national node in Paris figure. No matched China–US causal estimate; no direct observation of Chinese instructions."
+      },
+      "decisive_locators": [
+        {
+          "printed_pages": "370–371",
+          "physical_pages": "14–15",
+          "claim": "AOSIS adviser interview, November 17, 2016, links earlier French transparency and predictability to ability to work less transparently at the end. LDC adviser interview, November 8, 2016, emphasizes listening to small and vulnerable states.",
+          "use": "Attributed mechanism concerning trust in presidency; not a Chinese concession decision."
+        },
+        {
+          "printed_pages": "371–372",
+          "physical_pages": "15–16",
+          "claim": "Hybrid national contributions plus international review alter fairness/enforcement problem.",
+          "source_dependence": "Substantially draws on Falkner 2016 and other scholarship; treaty originals control exact legal obligations. Do not import claim that fairness disputes disappeared."
+        },
+        {
+          "printed_pages": "372–373",
+          "physical_pages": "16–17",
+          "claim": "EU negotiator interviewed December 2, 2016 describes Chinese concern about blame and European leaders linking climate to bilateral business.",
+          "use": "Foreign participant assessment of reputation pressure, not independently established Chinese motive or a documented exchange of specified concessions."
+        },
+        {
+          "printed_pages": "373–374",
+          "physical_pages": "17–18",
+          "claim": "Paris/Bonn relations graph and broader coalitions.",
+          "source_dependence": "Brazil High Ambition Coalition account cites Brun 2016; it is not another original Högl interview."
+        },
+        {
+          "printed_page": 375,
+          "physical_page": 19,
+          "claim": "Author bounds reciprocity: red-line crossing unlikely; reciprocal cooperation can reinforce relationships and positions.",
+          "use": "Useful limit on relationship-based explanation; not an estimated effect."
+        }
+      ],
+      "precision_notes": [
+        "The article describes the 2014 announcement on p.373 too broadly as China first announcing emission reductions. Existing dated primary source specifies a prospective CO2 peak and non-fossil share; no immediate economy-wide absolute reduction or full-GHG cap is inferred.",
+        "The article contrasts its approximately 40–50 percent reciprocity with laboratory rates. Different units and designs do not support a matched numerical comparison of negotiation effectiveness.",
+        "Reputation was not demonstrably absent from Copenhagen. Existing participant evidence prevents treating its later prominence as a newly introduced national motive."
+      ]
+    },
+    {
+      "id": "CCM-02",
+      "type": "Publisher erratum / licensing and publication provenance",
+      "author": "Maximilian Högl",
+      "title": "Erratum zu: Kooperationsfaktoren in den Klimaverhandlungen: Eine vergleichende Analyse der Klimagipfel in Kopenhagen 2009 und in Paris 2015",
+      "journal": "Zeitschrift für Außen- und Sicherheitspolitik",
+      "volume": 13,
+      "printed_pages": "111–112",
+      "issue_year": 2020,
+      "doi": "10.1007/s12399-020-00794-w",
+      "url": "https://link.springer.com/article/10.1007/s12399-020-00794-w",
+      "publication_date": "2020-05-14",
+      "issue_date": "March 2020",
+      "captures": [
+        {
+          "path": "/Users/jorsc/.codex/.chatgpt-projects/g-p-6a94dd290a988191911d85ae8fe94a6c/tmp/pdfs/research-2026-09-15/climate-mechanisms/hogl-2020-erratum.html",
+          "format": "Publisher HTML",
+          "bytes": 220593,
+          "sha256": "913fff657deef67827bbf81425e664f67eb29a23eb480744c248f60785f3c1d6"
+        }
+      ],
+      "full_read": true,
+      "reading_scope": "Complete substantive erratum text, rights notice and publication metadata in HTML; no claim to read an independently acquired two-page PDF.",
+      "supports": "Original first online December 23, 2019 without open access; author subsequently selected open access. Copyright/license changed to CC BY 4.0 on May 14, 2020.",
+      "limits": "No substantive findings correction stated. Does not count as an additional scholarly study."
+    },
+    {
+      "id": "CCM-03",
+      "type": "Original policy-research report; not counted as scholarly journal article",
+      "author": "Lisa Williams",
+      "title": "China’s Climate Change Policies: Actors and Drivers",
+      "publisher": "Lowy Institute for International Policy",
+      "series": "Analysis",
+      "publication_date": "July 2014",
+      "url": "https://www.files.ethz.ch/isn/182715/chinas-climate-change-policies.pdf",
+      "original_publisher_pdf_url": "https://www.lowyinstitute.org/sites/default/files/chinas-climate-change-policies.pdf",
+      "acquisition_status": "Complete valid PDF acquired from ETH institutional repository. Original Lowy PDF address returned web HTML rather than PDF. No access bypass or purchase.",
+      "captures": [
+        {
+          "path": "/Users/jorsc/.codex/.chatgpt-projects/g-p-6a94dd290a988191911d85ae8fe94a6c/tmp/pdfs/research-2026-09-15/climate-mechanisms/williams-2014.pdf",
+          "format": "ETH institutional repository copy of original Lowy report",
+          "bytes": 1169416,
+          "sha256": "714f0fc3e3f2f0b228afedfdfb3ffbc86f7c60c504c756ea7b45debb1f0cfc0f"
+        }
+      ],
+      "physical_pages": 31,
+      "printed_pages": "1–27 plus covers and author biography",
+      "full_read": true,
+      "reading_scope": {
+        "physical_pages": "1–31, complete",
+        "pagination_formula": "For printed pp.1–27, physical page = printed page plus 2",
+        "substantive_body": "Printed pp.1–21 / PDF pp.3–23",
+        "notes": "All 104 notes, printed pp.22–27 / PDF pp.24–29",
+        "other_material": "Cover, publication/funding notice, author biography and final contact page",
+        "read_chunks": [
+          "/Users/jorsc/.codex/.chatgpt-projects/g-p-6a94dd290a988191911d85ae8fe94a6c/tmp/pdfs/research-2026-09-15/climate-mechanisms/williams-2014-read-01.txt",
+          "/Users/jorsc/.codex/.chatgpt-projects/g-p-6a94dd290a988191911d85ae8fe94a6c/tmp/pdfs/research-2026-09-15/climate-mechanisms/williams-2014-read-06.txt",
+          "/Users/jorsc/.codex/.chatgpt-projects/g-p-6a94dd290a988191911d85ae8fe94a6c/tmp/pdfs/research-2026-09-15/climate-mechanisms/williams-2014-read-11.txt",
+          "/Users/jorsc/.codex/.chatgpt-projects/g-p-6a94dd290a988191911d85ae8fe94a6c/tmp/pdfs/research-2026-09-15/climate-mechanisms/williams-2014-read-16.txt",
+          "/Users/jorsc/.codex/.chatgpt-projects/g-p-6a94dd290a988191911d85ae8fe94a6c/tmp/pdfs/research-2026-09-15/climate-mechanisms/williams-2014-read-21.txt",
+          "/Users/jorsc/.codex/.chatgpt-projects/g-p-6a94dd290a988191911d85ae8fe94a6c/tmp/pdfs/research-2026-09-15/climate-mechanisms/williams-2014-read-26.txt",
+          "/Users/jorsc/.codex/.chatgpt-projects/g-p-6a94dd290a988191911d85ae8fe94a6c/tmp/pdfs/research-2026-09-15/climate-mechanisms/williams-2014-read-31.txt"
+        ],
+        "visual_scope": "All ten figures and both tables visually inspected in rendered PDF pages.",
+        "visual_captures": [
+          {
+            "physical_page": 5,
+            "path": "/Users/jorsc/.codex/.chatgpt-projects/g-p-6a94dd290a988191911d85ae8fe94a6c/tmp/pdfs/research-2026-09-15/climate-mechanisms/williams-2014-visual-05.png"
+          },
+          {
+            "physical_page": 6,
+            "path": "/Users/jorsc/.codex/.chatgpt-projects/g-p-6a94dd290a988191911d85ae8fe94a6c/tmp/pdfs/research-2026-09-15/climate-mechanisms/williams-2014-visual-06.png"
+          },
+          {
+            "physical_page": 7,
+            "path": "/Users/jorsc/.codex/.chatgpt-projects/g-p-6a94dd290a988191911d85ae8fe94a6c/tmp/pdfs/research-2026-09-15/climate-mechanisms/williams-2014-visual-07.png"
+          },
+          {
+            "physical_page": 8,
+            "path": "/Users/jorsc/.codex/.chatgpt-projects/g-p-6a94dd290a988191911d85ae8fe94a6c/tmp/pdfs/research-2026-09-15/climate-mechanisms/williams-2014-visual-08.png"
+          },
+          {
+            "physical_page": 10,
+            "path": "/Users/jorsc/.codex/.chatgpt-projects/g-p-6a94dd290a988191911d85ae8fe94a6c/tmp/pdfs/research-2026-09-15/climate-mechanisms/williams-2014-visual-10.png"
+          },
+          {
+            "physical_page": 13,
+            "path": "/Users/jorsc/.codex/.chatgpt-projects/g-p-6a94dd290a988191911d85ae8fe94a6c/tmp/pdfs/research-2026-09-15/climate-mechanisms/williams-2014-visual-13.png"
+          },
+          {
+            "physical_page": 17,
+            "path": "/Users/jorsc/.codex/.chatgpt-projects/g-p-6a94dd290a988191911d85ae8fe94a6c/tmp/pdfs/research-2026-09-15/climate-mechanisms/williams-2014-visual-17.png"
+          },
+          {
+            "physical_page": 18,
+            "path": "/Users/jorsc/.codex/.chatgpt-projects/g-p-6a94dd290a988191911d85ae8fe94a6c/tmp/pdfs/research-2026-09-15/climate-mechanisms/williams-2014-visual-18.png"
+          },
+          {
+            "physical_page": 20,
+            "path": "/Users/jorsc/.codex/.chatgpt-projects/g-p-6a94dd290a988191911d85ae8fe94a6c/tmp/pdfs/research-2026-09-15/climate-mechanisms/williams-2014-visual-20.png"
+          }
+        ]
+      },
+      "provenance": "Lowy–Rio Tinto China Fellowship support disclosed. Author describes Australian public-service experience and 2012 research at Chinese Academy of Social Sciences. Publication disclaimer excludes attribution to Australian government. No peer-review status inferred.",
+      "methods": {
+        "locator": "Printed p.2 and complete notes pp.22–27",
+        "design": "Approximately 25 interviews in early 2014 plus existing scholarship, official policies, statistics, journalism and policy publications. Notes identify roles/dates; no full selection protocol, transcripts or systematic coding account.",
+        "sample_boundary": "Includes researchers advising government, a researcher also on Chinese climate delegation, provincial official, NGO staff, consultants, an energy state-enterprise member and Beijing-based UN official. Not 25 Chinese negotiators or officials.",
+        "temporal_value": "Interviews/publication precede November 2014 joint announcement and Paris; reported uncertainty is prospective rather than hindsight.",
+        "thematic_boundary": "Primarily mitigation; forestry treated as beyond scope in note 9. Does not reconstruct decision on a particular US–China text.",
+        "visual_limits": "Historical statistics and projections remain dated data. Projected energy use is not realized later emissions. No units inferred where chart axes omit them."
+      },
+      "decisive_locators": [
+        {
+          "printed_pages": "8–10",
+          "physical_pages": "10–12",
+          "notes": "21–22, 25–27, 33",
+          "claim": "Ministry jurisdiction, understaffing and expert advice.",
+          "source_dependence": "Copenhagen MFA/NDRC rivalry is attributed to Jakobson–Knox 2010; co-development of policy by experts/officials to Wübbeke 2013. Note 33 supplies March 17, 2014 interview on united expert advice while government decides."
+        },
+        {
+          "printed_page": 10,
+          "physical_page": 12,
+          "notes": "34–36",
+          "claim": "Provincial bargaining over allocation and discretion in implementation.",
+          "source_dependence": "Note 34: Chinese member of international NGO, April 22, 2014. Note 36: director of government climate research institute, April 9, 2014. No recovered allocation negotiation transcript."
+        },
+        {
+          "printed_pages": "12–13",
+          "physical_pages": "14–15",
+          "notes": "41, 54–61",
+          "claim": "Growth priorities, central consultation and enterprise influence.",
+          "source_dependence": "Several role-identified interviews; specific delay/obstruction claims sometimes single-source. Not a matched Xi-era authority comparison."
+        },
+        {
+          "printed_page": 14,
+          "physical_page": 16,
+          "notes": "63 (printed p.25 / PDF p.27)",
+          "claim": "Government-advising researchers say carbon-intensity target directly derived from energy-intensity targets.",
+          "source_dependence": "Interviews March–April 2014. Does not establish zero additional cost or explain a particular international clause."
+        },
+        {
+          "printed_page": 15,
+          "physical_page": 17,
+          "notes": "74 (printed p.26 / PDF p.28)",
+          "claim": "Different interests of coal producers, generators and grid companies.",
+          "source_dependence": "Chinese member of international think tank, April 21, 2014; do not aggregate all SOEs into one demonstrated veto."
+        },
+        {
+          "printed_pages": "16–18",
+          "physical_pages": "18–20",
+          "notes": "77–84 (printed p.26 / PDF p.28)",
+          "claim": "Air pollution and economic restructuring as motivations; coal gasification can improve local air while increasing greenhouse gases.",
+          "source_dependence": "Note 77: energy SOE member, May 7, 2014. Air-plan account note 79 uses NRDC; expected coal-policy carbon effects note 80 Greenpeace; coal-gasification tradeoff note 81 Maddocks et al., Guardian Professional, November 6, 2013. Original government plans are being checked separately by parent."
+        },
+        {
+          "printed_pages": "18–19",
+          "physical_pages": "20–21",
+          "notes": "87–92 (printed pp.26–27 / PDF pp.28–29)",
+          "claim": "International image, foreign-pressure sensitivity and domestic action coexist.",
+          "source_dependence": "Notes 87/91: institute researcher and climate-delegation member, April 16, 2014. Note 88: think-tank member, April 21. Note 89: university division director, May 5. Note 92: provincial official, April 1."
+        },
+        {
+          "printed_page": 19,
+          "physical_page": 21,
+          "notes": "93 (printed p.27 / PDF p.29)",
+          "claim": "Institute director forecasts possible regional/bilateral turn if Paris fails; delegation researcher explicitly disagrees and expects UN talks to remain primary.",
+          "source_dependence": "April 9 and April 16, 2014 interviews, respectively. Preserve disagreement rather than infer settled Chinese strategy."
+        },
+        {
+          "printed_pages": "19–20",
+          "physical_pages": "21–22",
+          "notes": "94, 98, 104 (printed p.27 / PDF p.29)",
+          "claim": "Technical cooperation versus bargaining influence; international pressure used for domestic restructuring; prospective cap timing.",
+          "source_dependence": "Note 94 comes from Bernice Lee 2012, not a new interview. Note 98 is NGO specialist April 15, 2014, an interpretation rather than internal leadership decision. Note 104 institute director April 9 forecast of 5–10 years to absolute cap or trading policy is prospective, not equivalent to the later 2030 peak commitment."
+        }
+      ],
+      "limits": "No identified changed Chinese mandate, concession ceiling or effect of centralization. No ranking or effect sizes for domestic interests, reputation, coalition dynamics and central control. The 2014 institution map is not a 2026 routing guide."
+    }
+  ],
+  "acquisition_log": {
+    "path": "/Users/jorsc/.codex/.chatgpt-projects/g-p-6a94dd290a988191911d85ae8fe94a6c/tmp/pdfs/research-2026-09-15/climate-mechanisms/acquisition-log.json",
+    "format": "Acquisition URL, content-type, size and hash records",
+    "bytes": 1623,
+    "sha256": "1dbc3cac3f4d4245d8768667e1665d06e96ceccc9f08e44a6f77b51b1ab05a5c"
+  },
+  "unselected_leads": "Hilton–Kerr 2017 and Yu–Zhu 2015 identified during screening but not fully acquired/read and not counted. Högl 2018 English working paper located but not read or counted as a separate study. No new reading claim for pre-existing climate sources.",
+  "chapter_implications": [
+    "Supplement Xie target-selection passage with prospective domestic-feasibility evidence; distinguish intensity, fuel share, local pollution and an absolute CO2 peak.",
+    "Add one attributed presidency-trust mechanism beyond Stern–Xie rapport, without inferring Chinese motives from AOSIS/LDC interviews.",
+    "Keep national ambition distinct from international procedure and implementation. Existing primary treaty sources control the legal account.",
+    "Preserve contemporaneous disagreement and existing Copenhagen flexibility; do not portray a national shift from rigidity to cooperation.",
+    "No claim that Xi centralization or a specific internal routing change caused concession flexibility."
+  ]
+}

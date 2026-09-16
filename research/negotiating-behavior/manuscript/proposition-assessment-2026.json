@@ -1198,7 +1198,7 @@
         "claim_specific_qualification": "Increased activism may reflect power, resources, or changed objectives rather than learning. The essay gives no enumerated institutional sample."
       },
       "verdict": "unresolved",
-      "tested_component": "Active institutional competence is observed; the proposed learning trajectory is not identified.",
+      "tested_component": "Active WTO competence is observed; policy direction and reported learning practices supply evidence of capacity acquisition, without identifying Freeman’s cross-institutional sequence or its causes.",
       "supporting_evidence": [
         {
           "dossier": "cases/wto-ds379-legal-process.md",
@@ -1219,6 +1219,22 @@
           ],
           "observation": "Successive multilateral instruments specify international procedures with differentiated responsibilities.",
           "limit": ""
+        },
+        {
+          "dossier": "manuscript/development/legal-capacity-bridge-2026-09-15.md",
+          "source_ids": [
+            "TL-P01"
+          ],
+          "observation": "Jiang’s published February 2002 speech calls for urgent recruitment and training of trade-law, negotiating and antidumping specialists (pp. 454–455).",
+          "limit": "This is a primary statement of policy direction, not proof that every instruction was implemented."
+        },
+        {
+          "dossier": "manuscript/development/legal-capacity-bridge-2026-09-15.md",
+          "source_ids": [
+            "LIT-TRADE-SHAFFER-GAO-2018"
+          ],
+          "observation": "Shaffer and Gao report pairing Chinese lawyers with experienced foreign counsel, third-party participation as apprenticeship and one-year legal-department assignments for young law professors from 2011 (pp. 150–151, 158–161).",
+          "limit": "The study’s evidence extends through 2017 and includes interviews whose full transcripts are unavailable. The 2011 assignments cannot explain China’s April 2009 DS379 submission; reported learning practices do not isolate their effects from resources or policy objectives."
         }
       ],
       "contrary_or_limiting_evidence": [
@@ -1240,7 +1256,7 @@
           "limit": ""
         }
       ],
-      "unresolved_remainder": "Need earlier/later actor-specific evidence identifying learning, counsel, resources and changed objectives. Outcomes and meeting participation do not isolate learning; Freeman already proposed it."
+      "unresolved_remainder": "The acquired evidence identifies specific WTO learning practices and an investment in specialist capacity. What remains unresolved is Freeman’s broader sequence from initial passivity to active bargaining across institutions, including the independent effects of experience and communications. The later WTO record does not validate his earlier period or distinguish learning from changes in resources, power and objectives."
     },
     {
       "id": "F08",
@@ -1429,10 +1445,19 @@
         "claim_specific_qualification": "Continuity after turnover could also come from unchanged instructions, interests, or institutions. Mentoring is a proposed transmission mechanism, not demonstrated by continuity alone."
       },
       "verdict": "untested",
-      "tested_component": "Mentoring and on-the-job teaching as the mechanism transmitting bargaining practices.",
-      "supporting_evidence": [],
+      "tested_component": "Reported on-the-job legal learning is relevant; transmission of established bargaining practices across personnel turnover remains untested.",
+      "supporting_evidence": [
+        {
+          "dossier": "manuscript/development/legal-capacity-bridge-2026-09-15.md",
+          "source_ids": [
+            "LIT-TRADE-SHAFFER-GAO-2018"
+          ],
+          "observation": "Shaffer and Gao report learning through experienced counsel, third-party dispute participation and one-year legal-department assignments from 2011 (pp. 150–151, 158–161).",
+          "limit": "This is scholarly process evidence of legal learning, not a trace of particular established bargaining practices passed from departing officials to their replacements. The original personnel-program record and full interview transcripts were not acquired."
+        }
+      ],
       "contrary_or_limiting_evidence": [],
-      "unresolved_remainder": "No training, mentoring, personnel-handover or observed instruction record has been acquired. Similar conduct by later officials is not evidence of this transmission mechanism."
+      "unresolved_remainder": "No acquired curriculum, handover record or actor-specific account traces particular established bargaining practices through staff turnover. Reported legal learning does not establish that continuity, or isolate mentoring from unchanged instructions, interests or institutions."
     },
     {
       "id": "F13",
