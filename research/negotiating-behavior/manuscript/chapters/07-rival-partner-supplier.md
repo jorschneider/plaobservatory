@@ -78,7 +78,7 @@ The governments also committed themselves to a timetable. Their authorities were
 
 Duration supplied another bargaining margin. Iwashita reports that an initially contemplated ten years became five. The signed text confirms five years from the beginning of use, with the dates to be agreed diplomatically. It also required consultations at least twice annually to resolve practical difficulties. In October 2004, the governments returned to the question: a new protocol identified March 1, 2005 as the existing end date and extended use for another five years from that date. Temporary accommodation had become renewable through another express agreement.[^B-new2]
 
-This is a useful way to read bargaining after signature. The parties had created something to administer and, eventually, something to renew. Continued discussion need not mean that one side was escaping an earlier promise. It could preserve a deliberately limited benefit while leaving the territorial settlement intact. The surviving instruments do not tell us how many people obtained permits or what happened to every application. They do show what the governments promised to make possible and which powers they retained.
+The surviving instruments do not tell us how many people obtained permits or what happened to every application. They establish the promised terms of access and renewal, with the territorial settlement intact.
 
 There were limits to exporting the solution. The reserved islands still required agreement on sovereignty itself. Nor could protection of selected livelihoods answer every objection to transferring territory. Near Khabarovsk, the disputed islands lay beside a major Russian city; agricultural land, airport approaches, defense installations and the political meaning of surrendering control all entered the argument. What could be eased through a permit was only part of what officials had to defend.
 
@@ -146,7 +146,7 @@ The distinction mattered because an apparent concession could move the cost else
 
 The practical test is in the terms. Specify the area from which troops will withdraw, the authority that will issue a permit, the date on which use ends, or the volumes a buyer must pay for. Seek approval for that defined obligation and make reciprocal commitments conditional on it where the bargain requires. Such requests cannot expose every private instruction. They can reveal whether the parties have agreed enough for the intended next step to occur.
 
-Senior intervention must be judged against the same test. The Russian order authorized specified drafts; Modi and Xi endorsed an arrangement already announced; gas declarations left commercial terms to be completed. These encounters do not establish a comparative ranking of signals sufficient to validate Solomon's strongest prediction about imminent closure. They show why the visitor must distinguish permission to finish from encouragement to continue.[^45]
+Senior intervention must be judged against the same test. The Russian order authorized specified drafts; Modi and Xi endorsed an arrangement already announced; gas declarations left commercial terms to be completed. The visitor must distinguish permission to finish from encouragement to continue.[^45]
 
 ## Notes
 

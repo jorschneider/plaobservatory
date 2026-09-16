@@ -1,0 +1,309 @@
+{
+  "title": "DS379 Chinese administrative submissions: bounded acquisition follow-up",
+  "date": "2026-09-15",
+  "status": "No original target Chinese submission acquired",
+  "scope": "Locate public originals of the Chinese submissions used in the July 31, 2012 sacks Section 129 final memorandum. Search limited to public, unauthenticated sources and a bounded DS437 exhibit-index trail.",
+  "related_memo": "chapter-03-ds379-submissions-research-2026-09-15.md",
+  "sources": [
+    {
+      "id": "DS-SUB-01",
+      "existing_source_id": "DEV-DS01",
+      "title": "Final Determinations: Section 129 Proceedings Pursuant to the WTO Appellate Body’s Findings in WTO DS 379 Regarding the Antidumping and Countervailing Duty Investigations of Laminated Woven Sacks from the People’s Republic of China",
+      "institution": "U.S. Department of Commerce",
+      "document_date": "2012-07-31",
+      "capture_status": "Previously acquired official memorandum; reread for this follow-up, not a new acquisition",
+      "sha256": "8a57302ff39fd9779a74350e7e13078c982b577fd272f65b4bb8d57d8a94a882",
+      "barcode": "3089955-01",
+      "case_numbers": [
+        "C-570-917",
+        "A-570-916"
+      ],
+      "segment": "S129 – SEC 129",
+      "period": "2006-01-01 through 2006-12-31",
+      "filing_stamp": "2012-07-31 6:03 PM",
+      "url": "https://web.archive.org/web/20230911124326id_/https://enforcement.trade.gov/download/section129/prc-lw-sacks-Final-129-Determination-20120830.pdf",
+      "reading_scope": "Existing full 46-page reading remains in DEV-DS01. Follow-up reread: printed/PDF pp. 1–15, 17, 25 and 41–46 in full; keyword inspection of other pages only. Physical and printed pagination coincide.",
+      "findings": [
+        "Exact dates and cited original-page locators for Chinese land, public-body and double-remedy responses.",
+        "The public-body and double-remedy discussions combine comments across four investigations; land specificity is confined to sacks (p. 2).",
+        "Only this final memorandum’s barcode is printed. The underlying Chinese filing barcodes are not recovered."
+      ],
+      "limitations": [
+        "Commerce’s characterization and quotations of Chinese submissions are not the originals.",
+        "The date February 21, 2012 is explicitly attached to the CWP response; parallel sacks passages are separately paginated without independently acquired cover sheets.",
+        "This follow-up does not recover the May 18, 2012 petrochemical calculation attachment or decompose the rate increase."
+      ],
+      "path": "/Users/jorsc/.codex/.chatgpt-projects/g-p-6a94dd290a988191911d85ae8fe94a6c/tmp/pdfs/research-2026-09-15/chapter-03-development/sacks-section129-final-2012.pdf"
+    },
+    {
+      "id": "DS-SUB-02",
+      "title": "ACCESS homepage",
+      "source_type": "Official U.S. Department of Commerce public landing page",
+      "url": "https://access.trade.gov/",
+      "final_url": "https://access.trade.gov/",
+      "retrieved_date": "2026-09-15",
+      "bytes": 153080,
+      "sha256": "dc755a012a55f58131d6bbce90d0b78a9e4e73e059027bd3b37b49e534508e42",
+      "reading_scope": "Full short landing-page body read in browser; raw HTML preserved.",
+      "findings": "Identifies ACCESS as the AD/CVD filing repository; offers registered-user sign-in and current guides.",
+      "limitations": "No authenticated document search was performed.",
+      "path": "/Users/jorsc/.codex/.chatgpt-projects/g-p-6a94dd290a988191911d85ae8fe94a6c/tmp/pdfs/research-2026-09-15/ds379-submissions/access-home.html"
+    },
+    {
+      "id": "DS-SUB-03",
+      "title": "ACCESS Handbook on Electronic Filing Procedures, March 2026",
+      "source_type": "Official procedural guidance",
+      "url": "https://access.trade.gov/ACCESS%20Handbook%20on%20Electronic%20Filing%20Procedures_March2026.pdf",
+      "final_url": "https://access.trade.gov/ACCESS%20Handbook%20on%20Electronic%20Filing%20Procedures_March2026.pdf",
+      "retrieved_date": "2026-09-15",
+      "bytes": 425341,
+      "sha256": "2a7c62b551b0686c6be416ee99b70b6f2a38a3bfb9c79ab3d54e1a8cdf88ce63",
+      "reading_scope": "Printed/PDF pp. 5 and 20–21 read in full; §5 on pp. 20–21 is decisive. Remainder not read.",
+      "findings": [
+        "Public documents and public versions require an authorized E-Filer or Guest User login.",
+        "A person wishing solely to view or download public versions must register as a Guest User."
+      ],
+      "limitations": "Describes the access route; does not independently confirm the availability or public-release status of any particular 2011–2012 filing.",
+      "path": "/Users/jorsc/.codex/.chatgpt-projects/g-p-6a94dd290a988191911d85ae8fe94a6c/tmp/pdfs/research-2026-09-15/ds379-submissions/access-handbook-march2026.pdf"
+    },
+    {
+      "id": "DS-SUB-04",
+      "title": "How To Register for Modernized ACCESS Guest User Account for New Users",
+      "source_type": "Official procedural guidance",
+      "url": "https://access.trade.gov/How%20to%20Register%20as%20New%20User.pdf",
+      "final_url": "https://access.trade.gov/How%20to%20Register%20as%20New%20User.pdf",
+      "retrieved_date": "2026-09-15",
+      "bytes": 934205,
+      "sha256": "564f39798cc85b8556a6733df62644f2bfa09196aa1d7cb3da68bdfe4f852268",
+      "reading_scope": "Text of PDF pp. 1–5 read; remaining pp. 6–13 not read. Embedded interface screenshots not independently visually inspected.",
+      "findings": "Registration instructions require email verification and the user’s name.",
+      "limitations": "No registration, account creation, email verification or outreach was undertaken.",
+      "path": "/Users/jorsc/.codex/.chatgpt-projects/g-p-6a94dd290a988191911d85ae8fe94a6c/tmp/pdfs/research-2026-09-15/ds379-submissions/access-register-new-user.pdf"
+    },
+    {
+      "id": "DS-SUB-05",
+      "title": "United States—Countervailing Duty Measures on Certain Products from China: Recourse to Article 21.5 of the DSU by China (DS437), First Written Submission of the United States of America, February 6, 2017",
+      "source_type": "Official U.S. party submission in a different WTO dispute",
+      "url": "https://ustr.gov/sites/default/files/enforcement/DS/US.Sub1.Fin.pdf",
+      "final_url": "https://ustr.gov/sites/default/files/enforcement/DS/US.Sub1.Fin.pdf",
+      "retrieved_date": "2026-09-15",
+      "bytes": 1380069,
+      "sha256": "fc1676ff8a9c1b125138f4501c0e6f212a999006ff350c7399d38ef48a938917",
+      "reading_scope": "Complete exhibit index, printed pp. x–xix (PDF pp. 11–20), read. Printed pp. viii–ix also displayed/read. Argument body not read for this follow-up.",
+      "findings": [
+        "USA-1 identifies the May 18, 2012 Commerce memorandum listing public-body source documents; USA-2–82 are laws, policies, scholarship, reporting and other source materials.",
+        "USA-118–120 and USA-122 identify Chinese ministry benchmark responses dated July 6, 2015 in DS437, not the sought DS379 responses."
+      ],
+      "limitations": "The exhibit index was acquired; separate exhibits were not. No target original Chinese 2011–2012 filing was obtained. Do not count this as a full substantive reading of the 123-page submission.",
+      "path": "/Users/jorsc/.codex/.chatgpt-projects/g-p-6a94dd290a988191911d85ae8fe94a6c/tmp/pdfs/research-2026-09-15/ds379-submissions/ustr-ds437-first-submission-2017.pdf"
+    },
+    {
+      "id": "DS-SUB-06",
+      "title": "United States—Countervailing Duty Measures on Certain Products from China: Recourse to Article 21.5 of the DSU by China (DS437), Second Written Submission of the United States of America, March 27, 2017",
+      "source_type": "Official U.S. party submission in a different WTO dispute",
+      "url": "https://ustr.gov/sites/default/files/enforcement/DS/US.Sub2_1.pdf",
+      "final_url": "https://ustr.gov/sites/default/files/enforcement/DS/US.Sub2_1.pdf",
+      "retrieved_date": "2026-09-15",
+      "bytes": 593073,
+      "sha256": "de868a0d8a76861b47da534aa0e08721b5d7b55f5c8c929548937bb645f8472f",
+      "reading_scope": "Printed pp. vii and 1–2 (PDF pp. 8–10) read in full; browser find results also inspected for exhibit cross-references. Remaining argument not read.",
+      "findings": [
+        "Printed p. 2 n. 5 cross-refers to USA-1 and USA-2–82 for the May 18, 2012 Commerce public-body source materials.",
+        "Its own exhibit table adds USA-127 and USA-128, neither an original target Chinese filing."
+      ],
+      "limitations": "This is a bounded exhibit-trail check, not a full reading or a finding on DS437 compliance. No separate exhibit file acquired.",
+      "path": "/Users/jorsc/.codex/.chatgpt-projects/g-p-6a94dd290a988191911d85ae8fe94a6c/tmp/pdfs/research-2026-09-15/ds379-submissions/ustr-ds437-second-submission-2017.pdf"
+    }
+  ],
+  "original_filing_targets": [
+    {
+      "id": "DS-T01",
+      "document_description": "Government of China questionnaire response on land",
+      "date": "2011-09-16",
+      "record_or_case": "Sacks CVD, C-570-917, Section 129",
+      "identification_source": "DS-SUB-01",
+      "identification_locator": "p. 5 n. 10",
+      "cited_original_locator": "p. 11",
+      "barcode": null,
+      "status": "Not acquired"
+    },
+    {
+      "id": "DS-T02",
+      "document_description": "Government of China second questionnaire response on land",
+      "date": "2011-12-19",
+      "record_or_case": "Sacks CVD, C-570-917, Section 129",
+      "identification_source": "DS-SUB-01",
+      "identification_locator": "p. 6 nn. 11–12",
+      "cited_original_locator": "pp. 4–5",
+      "barcode": null,
+      "status": "Not acquired"
+    },
+    {
+      "id": "DS-T03",
+      "document_description": "Government of China rebuttal to petitioners’ new land factual information",
+      "date": "2012-03-08",
+      "record_or_case": "Sacks CVD, C-570-917, Section 129",
+      "identification_source": "DS-SUB-01",
+      "identification_locator": "pp. 2 and 4–5",
+      "cited_original_locator": null,
+      "barcode": null,
+      "status": "Not acquired"
+    },
+    {
+      "id": "DS-T04",
+      "document_description": "Government of China comments on the land preliminary determination",
+      "date": "2012-04-16",
+      "record_or_case": "Sacks CVD, C-570-917, Section 129",
+      "identification_source": "DS-SUB-01",
+      "identification_locator": "p. 3",
+      "cited_original_locator": null,
+      "barcode": null,
+      "status": "Not acquired"
+    },
+    {
+      "id": "DS-T05",
+      "document_description": "Government of China public-body questionnaire response",
+      "date": "2012-02-21",
+      "record_or_case": "Explicitly CWP; parallel Sacks, OTR Tires and LWRPT responses separately cited",
+      "identification_source": "DS-SUB-01",
+      "identification_locator": "p. 10 n. 21; pp. 11–14 nn. 23, 27–32, 36 and 41",
+      "cited_original_locator": "CWP pp. 5–8, 10–11, 13–15, 17–19; parallel sacks pp. 4–7, 9–10, 12–14, 16–18 and Exhibits A-52 to A-55 cited through CWP",
+      "barcode": null,
+      "status": "Not acquired",
+      "date_precision": "Date explicit for CWP only; parallel response cover sheets not acquired."
+    },
+    {
+      "id": "DS-T06",
+      "document_description": "Government of China supplemental public-body questionnaire response",
+      "date": null,
+      "record_or_case": "CWP with parallel sacks and other product responses",
+      "identification_source": "DS-SUB-01",
+      "identification_locator": "p. 14 n. 42",
+      "cited_original_locator": "p. 1",
+      "barcode": null,
+      "status": "Not acquired",
+      "date_precision": "Date not supplied in this citation; unknown."
+    },
+    {
+      "id": "DS-T07",
+      "document_description": "Government of China comments on preliminary public-body determinations",
+      "date": "2012-06-01",
+      "record_or_case": "All four CVD Section 129 proceedings",
+      "identification_source": "DS-SUB-01",
+      "identification_locator": "p. 7",
+      "cited_original_locator": null,
+      "barcode": null,
+      "status": "Not acquired"
+    },
+    {
+      "id": "DS-T08",
+      "document_description": "Government of China’s Response to the Section 129 Double Counting Questionnaire: Certain Off-the-Road Tires from China",
+      "date": "2012-04-11",
+      "record_or_case": "OTR Tires explicitly in the formal title; sacks/other double-remedy responses also cited separately",
+      "identification_source": "DS-SUB-01",
+      "identification_locator": "p. 45; compare p. 17 n. 50 and p. 25 n. 75",
+      "cited_original_locator": "Sacks discussion cites April 11 response p. 5; do not assume identical pagination across records",
+      "barcode": null,
+      "status": "Not acquired"
+    },
+    {
+      "id": "DS-T09",
+      "document_description": "Government of China double-remedy questionnaire response",
+      "date": "2012-04-25",
+      "record_or_case": "Responses cited in discussion of sacks and CWP petitioners; full cover sheets not acquired",
+      "identification_source": "DS-SUB-01",
+      "identification_locator": "p. 17 n. 50",
+      "cited_original_locator": null,
+      "barcode": null,
+      "status": "Not acquired"
+    },
+    {
+      "id": "DS-T10",
+      "document_description": "Government of China’s Comments on the Department’s Preliminary Double Remedy Determination: Certain Off-the-Road Tires from China",
+      "date": "2012-06-15",
+      "record_or_case": "OTR Tires; parallel Chinese comments in all four CVD proceedings noted at p. 15",
+      "identification_source": "DS-SUB-01",
+      "identification_locator": "pp. 15 and 45",
+      "cited_original_locator": null,
+      "barcode": null,
+      "status": "Not acquired"
+    },
+    {
+      "id": "DS-T11",
+      "document_description": "Zibo Aifudi questionnaire response",
+      "date": "2007-11-06",
+      "record_or_case": "Original sacks investigation; company filing, not a government submission",
+      "identification_source": "DS-SUB-01",
+      "identification_locator": "p. 4 n. 5",
+      "cited_original_locator": "p. 11",
+      "barcode": null,
+      "status": "Not acquired"
+    },
+    {
+      "id": "DS-T12",
+      "document_description": "CVD Response of Zibo Aifudi Plastic Packaging Co., Ltd.",
+      "date": "2007-09-10",
+      "record_or_case": "Original sacks investigation; company filing, not a government submission",
+      "identification_source": "DS-SUB-01",
+      "identification_locator": "p. 25 n. 75",
+      "cited_original_locator": "Appendix 2",
+      "barcode": null,
+      "status": "Not acquired"
+    }
+  ],
+  "search_log": {
+    "date": "2026-09-15",
+    "query_count": 31,
+    "queries": [
+      "\"GOC\" \"September 16, 2011\" \"sacks\"",
+      "\"GOC\" \"December 19, 2011\" \"Huantai\"",
+      "\"Government of China\" \"April 11, 2012\" \"Double\"",
+      "\"3089955\"",
+      "site:trade.gov ACCESS public documents search antidumping login",
+      "\"Laminated Woven Sacks\" \"2012\" \"China\" \"case brief\"",
+      "\"Huantai\" \"Section 129\" \"questionnaire\"",
+      "\"Government of China’s Response\" \"Double Counting Questionnaire\"",
+      "\"China\" \"February 21, 2012\" \"questionnaire\" \"129\"",
+      "\"China\" \"Section 129\" \"June 1, 2012\" response",
+      "\"Huantai\" \"September 16\" questionnaire",
+      "\"Huantai Land Price Circular\"",
+      "site:ustr.gov \"public bodies\" \"2012\" \"Exhibit\"",
+      "\"Huantai\" \"China\" \"case\" \"2012\" court",
+      "\"Government of China\" \"Double-Counting\" questionnaire response",
+      "site:ustr.gov \"DS437\" \"Exhibits\" \"2017\"",
+      "\"DS437\" \"CHI-1\" \"Memorandum\"",
+      "\"Laminated Woven Sacks\" \"Government of China\" \"2012\" \"submission\" -site:enforcement.trade.gov -site:access.trade.gov",
+      "\"Huantai Land\" \"circular\" -site:enforcement.trade.gov -site:access.trade.gov",
+      "\"China\" \"129\" \"2012\" \"questionnaire\" \"submission\" \"sacks\" filetype:pdf -site:enforcement.trade.gov -site:access.trade.gov",
+      "\"Huantai\" \"12-00301\"",
+      "\"Government of China\" \"April 16, 2012\" sacks",
+      "\"Section 129\" \"September 16, 2011\"",
+      "site:ustr.gov \"DS437\" \"United States\" \"submissions\"",
+      "site:mofcom.gov.cn \"DS379\" \"2012\" 答卷",
+      "\"复合编织袋\" \"129\" \"答卷\"",
+      "\"Huantai\" \"questionnaire\" -site:enforcement.trade.gov -site:access.trade.gov",
+      "site:ustr.gov \"DS437\" \"FIRST WRITTEN\" \"2016\"",
+      "\"DS437\" \"USA-1\" \"May 18, 2012\"",
+      "\"C-570-917\" \"2011\" \"response\" \"Barcode\"",
+      "\"GOC\" \"February 21, 2012\" \"Barcode\""
+    ],
+    "result": "No target original located. Relevant exact-date/title matches predominantly reproduced Commerce decisions; later DS437 exhibit indexes did not identify the target 2011–2012 Chinese responses.",
+    "failed_open_checks": [
+      {
+        "url": "https://access.trade.gov/termsconditions.aspx",
+        "result": "404 in browser open; indexed text not relied on as current guidance"
+      },
+      {
+        "url": "https://ustr.gov/issue-areas/enforcement/dispute-settlement-proceedings/wto-dispute-settlement/",
+        "result": "Browser cache miss; no content read"
+      },
+      {
+        "url": "https://ustr.gov/issue-areas/enforcement/dispute-settlement-proceedings/wto-dispute-settlement/us-countervailing-duty-measures-certain-products-china",
+        "result": "Browser internal error; no content read"
+      }
+    ],
+    "limits": "No ACCESS account created or authenticated search performed; no outreach; no exhaustive archive claim. The known final-memo archive capture was reread, not mistaken for a Chinese filing."
+  },
+  "integration_recommendation": "No chapter replacement justified by a new original filing. Retain attribution to Commerce for the administrative exchange. Optional sentence in memo is based on already acquired Commerce pp. 7–9, not new Chinese evidence.",
+  "source_count": 6
+}

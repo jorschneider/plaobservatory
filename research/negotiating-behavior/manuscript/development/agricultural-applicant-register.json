@@ -1,0 +1,42 @@
+{
+  "title": "Agricultural applicant research: Qian article abstract and metadata",
+  "research_date": "2026-09-15",
+  "source_count": 1,
+  "sources": [
+    {
+      "id": "DEV-AGAP01",
+      "title": "Safety evaluation of DAS-44406-6 soybeans in Wistar rats",
+      "creator": "Zhiyong Qian, JoAnna Bultman, Sabitha Papineni, Ning He, Lisa Lanigan, Rod A. Herman and Gordon C. Hard",
+      "publication_date": "2017-12-01",
+      "issue_date": "2018-02",
+      "doi": "10.1016/j.yrtph.2017.11.016",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/29199065/",
+      "publisher_url": "https://www.sciencedirect.com/science/article/pii/S0273230017303732",
+      "source_type": "Research article, abstract and metadata only",
+      "reading_status": "Complete PubMed abstract, affiliations and bibliography read. Full article not acquired or read. Selected indexed author-upload fragments not counted as full text.",
+      "locators": "PubMed abstract and affiliations; publisher coredata metadata",
+      "captures": [
+        {
+          "path": "/Users/jorsc/.codex/.chatgpt-projects/g-p-6a94dd290a988191911d85ae8fe94a6c/tmp/pdfs/research-2026-09-15/agricultural-applicant-development/qian-pubmed-tool-capture.txt",
+          "sha256": "478357f23ed70163a1899376360010462f773aae89e19b6a284b79667e0baf76",
+          "bytes": 14742,
+          "outside_git": true,
+          "capture_type": "Web-tool rendered PubMed record, not raw publisher article"
+        },
+        {
+          "path": "/Users/jorsc/.codex/.chatgpt-projects/g-p-6a94dd290a988191911d85ae8fe94a6c/tmp/pdfs/research-2026-09-15/agricultural-applicant-development/qian-elsevier.xml",
+          "sha256": "e6944984a89bba8589e232fcdf8dd0ee8730172eafba5800a5db70b8f0062da9",
+          "bytes": 1935,
+          "outside_git": true,
+          "capture_type": "Publisher API metadata only despite response element name full-text-retrieval-response"
+        }
+      ],
+      "interpretation_limits": [
+        "Authors' scientific conclusions are reported, not independently evaluated.",
+        "No dated Chinese regulator request, submission disposition or causal account of approval delay recovered.",
+        "Not included in the count of fully read scholarly works.",
+        "Not integrated into manuscript narrative as evidence explaining the approval interval."
+      ]
+    }
+  ]
+}

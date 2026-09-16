@@ -6,39 +6,39 @@
   "sources": [
     {
       "path": "chapters/00-introduction.md",
-      "sha256": "f7b3e128c481b9844850a634f577ae0a8d0a18b5ea0c65c914fc547cfe63e251"
+      "sha256": "a86f199fecc93fa6c0577f39c8febcb666894aeedab39914b151c1ce35c57ecd"
     },
     {
       "path": "chapters/01-solomons-baseline.md",
-      "sha256": "15c97af77c05cacb434f3aba0318015035fa0c7b4495b241cd7316f870ef3d83"
+      "sha256": "7508615253d693e163a83d4513f3710d340027bd734fe18773b10ae28a4a8ed4"
     },
     {
       "path": "chapters/02-accession.md",
-      "sha256": "bc63d8a6de2d368d09ff523792729c00854b501d53f958e009ba56e49be3ec66"
+      "sha256": "142283d06b90e4db34be77e8573de2da2568386016a7186c3055994505d1c3f9"
     },
     {
       "path": "chapters/03-usable-expertise.md",
-      "sha256": "974e61d39e5e30dd75cfd84cbee35ddfb8111c64428231e9c9eb96e6bd2aec88"
+      "sha256": "c9692666e052374a1ec8f11ed6c2e97c757ce3c239a1fd9f4d14e03a4ecd7782"
     },
     {
       "path": "chapters/04-negotiating-in-crisis.md",
-      "sha256": "8b3681fddf60e1971fb6e89c6eaae3f5f97690676d1706faf8e8f1c7737a586d"
+      "sha256": "1e42a7b7188fda2620cc70d34ad5b1f6c82b082ed49ffb9223c583e006096693"
     },
     {
       "path": "chapters/05-partial-trade-settlement.md",
-      "sha256": "8672e86c5246b8ad56e4060b3c1403b134dcab8fbf0a05f3201b0b1b602c4015"
+      "sha256": "9cc8ccc82279803c3f9641c6f881ecc74252112f981a9ebb6555fb102be53f6f"
     },
     {
       "path": "chapters/06-after-the-signature.md",
-      "sha256": "9178a590681ddff44272b3d5e5c55951ddd70dcf2fa7e495ba2a216e034c8014"
+      "sha256": "99bf0bd06872cd45bb5ded67a400cc111b1bf1dda6fd9fbdb49627a0695d6e69"
     },
     {
       "path": "chapters/07-rival-partner-supplier.md",
-      "sha256": "36ca4297c26cbb7ff6e286af190e85eb642c795f1d6e6ce3b7d6122567e9231c"
+      "sha256": "a23e978a8c0105c7457b90dc1459dc9edc871d0d5a04585394644a5575300a46"
     },
     {
       "path": "chapters/08-what-survives-solomon.md",
-      "sha256": "4c11ca5db852f42a36dde23907a5cc19ae5f43d3dae5c5e0598163111a15a282"
+      "sha256": "aee92fadeb93ed29d8eab55e3c49756ed300f5a3cb47c050dfae00817cab1387"
     },
     {
       "path": "appendices/01-proposition-assessment.md",
@@ -50,12 +50,12 @@
     },
     {
       "path": "appendices/03-bibliography-and-sources.md",
-      "sha256": "af8d76a614436dcc874b039599f99aeaf9de1a12482b104f1a884f06ffc2cc05"
+      "sha256": "16f348c3d1217272732572b053620ea4ea16421c84fb7759fc5467df9950865d"
     }
   ],
   "output": {
     "path": "reading-edition.html",
-    "sha256": "31f59c31376e35e32b4483ee81c72c5eeba304aa2cbf4d754ab5f387ae01cbcd"
+    "sha256": "06ab60ac280009e4eb317a396863475e94501546441167acad6963c9e3ba8603"
   },
   "note": "Integrity and rendering record; not a claim that historical assertions are mechanically verified."
 }

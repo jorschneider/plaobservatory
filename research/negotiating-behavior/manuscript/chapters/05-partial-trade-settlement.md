@@ -46,7 +46,7 @@ China's June white paper defended revisions to an unfinished agreement as normal
 
 Here the documentary history has a real break. Reuters reported from government sources and people briefed on the talks; it did not publish the draft. The record available to this book cannot settle whether Liu had exceeded his instructions, Xi had reversed an authorized bargain, or American officials had mistaken provisional agreement for final assent. It does establish a serious conflict over obligations, domestic implementation and the compensation offered for accepting them. Treating the episode as a demonstration of Chinese dishonesty would conceal those unresolved choices. Treating it as mere misunderstanding would minimize the costs of the breakdown.
 
-An official in such a negotiation needs a record of clearance as well as a record of wording: which provisions have been accepted, which are contingent on the rest of the package, and which still require a decision in Beijing or Washington. That discipline cannot prevent a government from reversing itself. It can make the reversal identifiable and allow the counterpart to decide what to do about it.
+Before pricing the whole package, an official can ask both delegations to record which provisions they regard as accepted, which depend on the rest of the bargain and which await a decision in their capitals. Such a record cannot verify private instructions or prevent reversal. It can expose a difference over the status of the draft while there is still time to negotiate its consequences. A refusal to give that account leaves a risk to be priced; it does not by itself prove deception.
 
 ## The bargain becomes smaller
 
@@ -67,8 +67,6 @@ Partial agreement was familiar territory for Solomon. The lesson from 2019 is mo
 The signed agreement offered a way to combine Chinese domestic control with specified changes. Article 1.34 left each party to choose appropriate implementation methods within its own system and practice, including proposing legal amendments where necessary. It also required full implementation. China had discretion over means, not a general exemption from the promised obligations.[^17]
 
 The intellectual-property chapter shows what that meant. It addressed evidentiary and criminal-enforcement rules, confidentiality and penalties. Many provisions required Chinese changes while affirming that existing American measures already provided equivalent treatment. Equal standing as a party did not mean an equal number of new domestic burdens.[^18]
-
-For a negotiator, this is a more promising way to examine a demand for balance than counting reciprocal phrases. The questions are what the counterpart must do, what it receives, and which domestic choices it can retain. A formulation that preserves discretion over means may make a specific result acceptable. It also creates work for the officials who must judge whether the chosen means actually deliver it.
 
 The agreement therefore required China to prepare an intellectual-property action plan specifying measures and effective dates within thirty working days after entry into force. Its English and Chinese verbs differ over promulgation and formulation; the shared requirement for a dated plan is clear. The plan would give officials a schedule against which to pursue implementation.[^17]
 
@@ -110,7 +108,7 @@ The public sequence establishes changes in the bargain. China accepted partial t
 
 For the next negotiator, the demanding part begins before signature. Identify which domestic act will make the concession useful, what evidence would show it has occurred, and how the affected firm can report a failure. Price the enforcement mechanism as part of the exchange. A threat costly enough to command attention may also be costly enough that one's own government hesitates to use it. A faster remedy can sacrifice independent judgment. A partial bargain can deliver something valuable while allowing the hardest dispute to persist.
 
-There is no reason to choose between familiarity with a Chinese counterpart and these protections. Lighthizer could seek cooperation from reformers while demanding a way to act if cooperation failed. Liu could defend China's political system while accepting specific changes within it. What mattered was which undertakings survived those different purposes and reached the officials and enterprises expected to carry them out. The next chapter follows three results of the settlement: an opening that became an operating business, approvals that still required years of administrative work, and purchases that fell far short.
+Lighthizer could seek cooperation from reformers while demanding a way to act if cooperation failed. Liu could defend China's political system while accepting specific changes within it. Their bargain would reach officials and enterprises with choices of their own. The next chapter follows an opening that became an operating business, approvals that still required years of administrative work, and purchases that fell far short.
 
 ## Notes
 

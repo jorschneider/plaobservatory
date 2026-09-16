@@ -1,0 +1,192 @@
+{
+  "title": "Chinese agricultural biotechnology review: 2017 ministry process and application-file access supplement",
+  "research_date": "2026-09-15",
+  "memo": "agricultural-review-process-memo.md",
+  "scope": "Bounded MARA/MOA lane for Enlist E3 (DAS-44406-6) and DP73496. Two newly acquired original procedural documents; one indexed ministry finding aid and unavailable application target. No new applicant-review correspondence or event-specific committee decision acquired.",
+  "new_substantive_original_source_count": 2,
+  "source_independence": "Both substantive documents are official Ministry of Agriculture materials from the same administrative reform. They are distinct instruments, not independent witnesses of how a particular application was handled. Reproductions, derived text, rendered pages and search excerpts are not extra sources.",
+  "historical_scope": "The documents describe the 2017 procedure. They are not represented as a complete account of the 2012 or 2013 submission regime, of every subsequent amendment, or of current 2026 law. This is historical research, not legal advice.",
+  "sources": [
+    {
+      "id": "AGRD01",
+      "title": "中华人民共和国农业部公告第2533号：农业部行政许可事项服务指南（第一批）— 境外研发商首次申请农业转基因生物安全证书[进口]服务指南（17001-2）",
+      "author": "中华人民共和国农业部",
+      "publication_date": "2017-05-25",
+      "effective_date": "2017-05-25",
+      "url": "https://www.moa.gov.cn/nybgb/2017/dlq/201712/P020180306736181934746.pdf",
+      "source_type": "Original ministry publication, public official PDF; 504 physical pages containing many unrelated service guides",
+      "acquisition_status": "Full PDF downloaded; selected guide completely read",
+      "reading_scope": "Physical PDF page 1 (complete announcement), and complete project 17001-2 from its heading on physical page 11 through final Q&A on physical page 18, stopping before project 17001-3. This includes the sample application and common-error/Q&A appendices. Physical pages 13 and 14 additionally rendered and visually inspected, including the otherwise unextracted flowchart. Other guides in the 504-page PDF were not systematically read; incidental adjacent text is not evidence.",
+      "full_publication_read": false,
+      "full_selected_document_read": true,
+      "locators": [
+        "Physical PDF p. 1: announcement 2533, 33 licensing matters / 55 subitems, publication and effective date.",
+        "Physical PDF pp. 11–12: project identity, accepting and deciding authorities, prerequisites and application materials.",
+        "Physical PDF p. 13, sections 12.1–12.5: administrative acceptance, ministry-commissioned testing, key-laboratory preliminary review, National Biosafety Committee evaluation, internal countersignature and approval documentation.",
+        "Physical PDF p. 13, section 12.6 flowchart: correction notice for incomplete materials, formal acceptance, technical evaluation, approval or written refusal. The chart abbreviates the testing and internal routing described in the prose; do not combine them into a more detailed invented sequence.",
+        "Physical PDF p. 14, section 14: 270日（专家评审、检验检测时间不计入内）.",
+        "Physical PDF p. 14, sections 16–17: certificate or written refusal; certificate delivery within ten working days of the decision.",
+        "Physical PDF p. 16: illustrative application requests five years; not an issued certificate or proof of a universal minimum.",
+        "Physical PDF pp. 17–18: common errors and Q&A, including processing-use restriction."
+      ],
+      "printed_page_status": "No printed page number visible on the decisive rendered pages 13–14; locators above are one-based physical PDF pages, not invented printed pagination.",
+      "supports": [
+        "The public process had distinguishable acceptance, testing, technical-review and ministerial-decision stages.",
+        "The guide excluded expert review and inspection/testing from its stated 270-day processing period.",
+        "Administrative acceptance, favorable committee review, ministerial decision and delivery of a certificate were not the same event."
+      ],
+      "does_not_establish": [
+        "Dates or handling of either selected company application.",
+        "Which stage generated observed elapsed years.",
+        "Whether time was deliberately withheld, whether a particular information request was scientifically necessary, or what diplomatic pressure changed.",
+        "A legal reconciliation of the 2017 excluded-time clock and Phase One’s later average interval."
+      ],
+      "captures": [
+        {
+          "path": "/Users/jorsc/.codex/.chatgpt-projects/g-p-6a94dd290a988191911d85ae8fe94a6c/tmp/pdfs/research-2026-09-15/agricultural-review-development/mara-2017-service-guide-gazette.pdf",
+          "bytes": 5288376,
+          "sha256": "a43d224d653ab5afa1ffcedd81e40410607391a8932ccd86e19ce476e230e426",
+          "retrieval_or_creation_date": "2026-09-15",
+          "source_status": "Downloaded original"
+        },
+        {
+          "path": "/Users/jorsc/.codex/.chatgpt-projects/g-p-6a94dd290a988191911d85ae8fe94a6c/tmp/pdfs/research-2026-09-15/agricultural-review-development/mara-2017-service-guide-gazette.txt",
+          "bytes": 772095,
+          "sha256": "8e3b603b11792d80d0ef2a6bf1f07346241f489077e4a7cc4fa6c7402dc90f31",
+          "retrieval_or_creation_date": "2026-09-15",
+          "source_status": "Derived full-PDF extraction; full extraction does not imply full reading"
+        },
+        {
+          "path": "/Users/jorsc/.codex/.chatgpt-projects/g-p-6a94dd290a988191911d85ae8fe94a6c/tmp/pdfs/research-2026-09-15/agricultural-review-development/service-guide-013.png",
+          "bytes": 390441,
+          "sha256": "767bc152c8f4c255176ff003fee41cca7e9a2e9e30d2a1aa3aa31096be88e81c",
+          "retrieval_or_creation_date": "2026-09-15",
+          "source_status": "Derived rendered physical PDF page 13, visually read"
+        },
+        {
+          "path": "/Users/jorsc/.codex/.chatgpt-projects/g-p-6a94dd290a988191911d85ae8fe94a6c/tmp/pdfs/research-2026-09-15/agricultural-review-development/service-guide-014.png",
+          "bytes": 325852,
+          "sha256": "56c988c44b670c38f110a001c9f82f39f1cb095bd9e57d125d78280a7a534f39",
+          "retrieval_or_creation_date": "2026-09-15",
+          "source_status": "Derived rendered physical PDF page 14, visually read"
+        }
+      ]
+    },
+    {
+      "id": "AGRD02",
+      "title": "农业部办公厅关于贯彻落实《国务院关于第三批清理规范国务院部门行政审批中介服务事项的决定》的通知",
+      "author": "农业部办公厅",
+      "document_number": "农办办〔2017〕8号 (as identified by linked official document filename)",
+      "signature_date": "2017-02-22",
+      "displayed_publication_date": "2017-02-24",
+      "url": "https://bgt.moa.gov.cn/zcjd/201702/t20170224_5495469.htm",
+      "source_type": "Original ministry web publication of implementing notice",
+      "acquisition_status": "Complete original HTML downloaded",
+      "reading_scope": "Complete substantive body, opening reference to the January 13 State Council decision, all three numbered sections, March 31 reporting instruction, signature/date and attachment titles. Linked CEB/DOC attachments were not opened. Navigation and scripts are excluded from substantive reading.",
+      "full_publication_read": false,
+      "full_web_body_read": true,
+      "locators": [
+        "Section 一、不再作为行政审批受理条件: safety testing no longer a prerequisite for accepting the specified applications; approval department commissions the tests.",
+        "Section 二、及时修订法律法规及服务指南: instruction to revise obsolete guidance and rules.",
+        "Section 三、加快配套改革和相关制度建设: competitive selection arrangements and technical-service costs in the departmental budget.",
+        "Final paragraph and signature: implementation report by March 31; signed February 22, 2017."
+      ],
+      "supports": [
+        "A domestic reform before the May 2017 bilateral early-harvest announcement moved responsibility for arranging the specified safety tests from applicants to the approving authority.",
+        "Testing was retained; the reform changed commissioning and the relationship between testing and acceptance."
+      ],
+      "does_not_establish": [
+        "Whether a named application was transferred to the new arrangement.",
+        "Actual budget spending, contracted laboratory, execution dates or improved speed.",
+        "An origin story for the later bilateral terms; chronology alone does not demonstrate that they copied this reform."
+      ],
+      "captures": [
+        {
+          "path": "/Users/jorsc/.codex/.chatgpt-projects/g-p-6a94dd290a988191911d85ae8fe94a6c/tmp/pdfs/research-2026-09-15/agricultural-review-development/mara-2017-testing-reform.html",
+          "bytes": 55421,
+          "sha256": "feab7caf12f42ff8231bcc0429313563b03ac9ab7d8c26485e9b88c21cacfb2d",
+          "retrieval_or_creation_date": "2026-09-15",
+          "source_status": "Downloaded original HTML"
+        },
+        {
+          "path": "/Users/jorsc/.codex/.chatgpt-projects/g-p-6a94dd290a988191911d85ae8fe94a6c/tmp/pdfs/research-2026-09-15/agricultural-review-development/mara-2017-testing-reform.txt",
+          "bytes": 18350,
+          "sha256": "ac3ccdc252d2dd248bedb0da4566aedd318021d323616cea2f16ba0bcaea3165",
+          "retrieval_or_creation_date": "2026-09-15",
+          "source_status": "Derived text, including navigation/scripts; only substantive body used"
+        }
+      ]
+    }
+  ],
+  "access_aids_and_unavailable_targets": [
+    {
+      "id": "AGRD03-ACCESS",
+      "title": "农业转基因生物安全评价资料 — official indexed landing page and DAS-44406-6 attachment",
+      "landing_url": "https://www.moa.gov.cn/ztzl/zjyqwgz/spxx/201307/t20130702_3509313.htm",
+      "displayed_landing_date": "2020-07-15 14:00 (browser-rendered indexed page; URL path is 2013 and is not publication evidence)",
+      "attachment_label": "耐除草剂大豆DAS-44406-6安全评价资料.pdf",
+      "attachment_url": "https://www.moa.gov.cn/ztzl/zjyqwgz/spxx/201307/P020221020430598495151.pdf",
+      "reading_scope": "Complete substantive attachment list in browser-tool indexed rendering, including the labelled DAS-44406-6 attachment. Underlying dossier not acquired or read. Search returned disjoint contents/page excerpts but these are only leads and are not used as dossier evidence.",
+      "access_result": "Browser rendering of landing page was available; direct landing-page curl returned HTTP 404. Clicking its DAS-44406-6 attachment, direct browser opening and direct curl returned HTTP 404. A prior HTTP-URL attempt also failed. No original PDF hash exists because no PDF was acquired.",
+      "discovery_leads_only": "Indexed excerpts identify a multi-volume submission and report groups 17–19 concerning feeding studies and in-country food/environment tests, with references through 2016. This suggests a potentially useful revised dossier, not proof of its version, dates or a Chinese request-response sequence. Exact report IDs, dates and correspondence remain unverified.",
+      "dp73496_status": "No DP73496 application file or event-specific committee minutes acquired in this bounded search. Its absence from the consulted list is not proof that no such file is publicly available elsewhere.",
+      "use_limit": "The indexed government landing page establishes a concrete public-file target and label. It cannot establish study content, a formal application-receipt date or reasons for delay.",
+      "capture": {
+        "path": "/Users/jorsc/.codex/.chatgpt-projects/g-p-6a94dd290a988191911d85ae8fe94a6c/tmp/pdfs/research-2026-09-15/agricultural-review-development/mara-safety-dossier-landing-browser.json",
+        "bytes": 14008,
+        "sha256": "225374b9e4882ff1055103d9529b848324852e16ba37260c255add07f764caf0",
+        "retrieval_or_creation_date": "2026-09-15",
+        "source_status": "Preserved browser-tool indexed rendering with explicit provenance warning; not an original HTML download"
+      }
+    }
+  ],
+  "discovery_only_captures": [
+    {
+      "path": "/Users/jorsc/.codex/.chatgpt-projects/g-p-6a94dd290a988191911d85ae8fe94a6c/tmp/pdfs/research-2026-09-15/agricultural-review-development/mara-approval-index.html",
+      "bytes": 13886,
+      "sha256": "3e263dabffa2012432e558d1164a9f036fb57af64660a74a3c446854f1493695",
+      "retrieval_or_creation_date": "2026-09-15",
+      "url": "https://www.moa.gov.cn/ztzl/zjyqwgz/spxx/",
+      "reading_scope": "All displayed approval-result entry titles and links inspected, not every linked result."
+    },
+    {
+      "path": "/Users/jorsc/.codex/.chatgpt-projects/g-p-6a94dd290a988191911d85ae8fe94a6c/tmp/pdfs/research-2026-09-15/agricultural-review-development/mara-approval-index-2.html",
+      "bytes": 10882,
+      "sha256": "58b5ffd524c3f170e17e7415f73e677d9dd4b52b7046757557523c5ffa6b9e27",
+      "retrieval_or_creation_date": "2026-09-15",
+      "url": "https://www.moa.gov.cn/ztzl/zjyqwgz/spxx/index_1.htm",
+      "reading_scope": "All displayed older approval-result entry titles and links inspected, not every linked result."
+    },
+    {
+      "path": "/Users/jorsc/.codex/.chatgpt-projects/g-p-6a94dd290a988191911d85ae8fe94a6c/tmp/pdfs/research-2026-09-15/agricultural-review-development/mara-guidance-index.html",
+      "bytes": 50375,
+      "sha256": "bbbb8fc1c44c803f9c88fa0b8489ea7fca92d53e3f9f59da0b59874a12fe3c74",
+      "retrieval_or_creation_date": "2026-09-15",
+      "url": "https://www.moa.gov.cn/ztzl/zjyqwgz/sbzn/",
+      "reading_scope": "All displayed guide entry titles and links inspected; only separately registered documents used substantively."
+    }
+  ],
+  "existing_sources_reused": [
+    {
+      "id": "AG01",
+      "register": "../../sources/agricultural-approvals-register.json",
+      "use": "Phase One Annex 16 comparison; same prior source, not a new acquisition. Exact locators physical PDF pp. 41–44 / printed 3-19–3-22."
+    },
+    {
+      "id": "AG06",
+      "register": "../../sources/agricultural-approvals-register.json",
+      "use": "May 2017 early-harvest biotechnology item and chronology; no claim to identify the eight unnamed applications."
+    },
+    {
+      "id": "AG09",
+      "register": "../../sources/agricultural-approvals-register.json",
+      "use": "Existing historical import rules and previously flagged ambiguity about Article 18’s 270 days; AGRD01 supplies a contemporaneous service-guide qualification."
+    }
+  ],
+  "not_adopted_as_evidence": [
+    "A secondary reproduction of the 2013 National Biosafety Committee working rules was located, but the corresponding official original was not acquired in this bounded pass. No three-meetings-per-year claim is added; later amendments make undated use unsafe.",
+    "A DP4114 application report is not a DP73496 report. Neither DP4114 technical history nor Enlist corn correspondence is substituted for the selected soybean/canola event.",
+    "The parent’s applicant lane separately investigates Qian et al. 2018. Its scientific study sequence does not establish a dated Chinese regulator demand or the cause of application delay.",
+    "A June 2017 extra-data reporting lead about the US EPA herbicide review is not evidence of a Chinese soybean-review request."
+  ]
+}

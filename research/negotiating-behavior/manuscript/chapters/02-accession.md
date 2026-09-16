@@ -28,13 +28,11 @@ Washington also tried to reassure Beijing. Summers later recalled going to China
 
 Barshefsky wanted the composition of her November delegation to carry a similar assurance. In her oral history, she says she asked for either White House chief of staff John Podesta or National Economic Council director Gene Sperling to accompany her. Both, she recalled, had opposed closing during Zhu’s April visit. Bringing one to Beijing would demonstrate White House commitment and prevent interference from that official at home. Sperling went.[^8]
 
-This was a practical use of personal access. The assurance was stronger if the person delivering it could speak for a potential obstacle in his own government. For Chinese negotiators, a friendly relationship with the trade representative was insufficient if the president might still refuse the package. For Barshefsky, reassuring Beijing and protecting her position in Washington could be accomplished by the same choice of travelling companion. The official’s place in the decision mattered as much as his title.
+Barshefsky wanted the same travelling companion to reassure Beijing and protect her position in Washington. In her calculation, his part in the decision mattered as much as his title.
 
 Beijing brought fourteen departments into the final round, according to financial negotiator Deng Hongguo. He recalled six days and nights at the ministry, camp beds between sessions and a pager that could call him back. Its sound accelerated his heartbeat.[^9]
 
 Deng described sector regulators seeking clearance for alternatives while the trade ministry assembled the package. Knowing the answer and having permission to give it were different accomplishments.
-
-Deng’s account does not make every Chinese pause innocent or every claim of limited authority true. It makes the practical distinction worth investigating. A negotiator facing a refusal needs to identify the decision being withheld. Asking for a higher-ranking interlocutor without an offer that person can act on may only move the refusal upstairs.
 
 ## The price of another day
 
@@ -47,8 +45,6 @@ McCahill attached a clock to that request. The delegation would leave its hotel 
 The size of the trade-remedy gap explains why those terms could not be left to ceremonial closure. China wanted a maximum of three years. The American November 12 paper sought fifteen years for the product-specific safeguard; the next paper reduced that demand to twelve, while proposing twenty years for the special antidumping provision. The administration’s public account after agreement announced twelve years for the former and fifteen for the latter. These were different protections with different clocks, extending far beyond the Chinese proposal.[^12]
 
 The equity bargaining was also more intricate than a contest between 49 and 51 percent. Both sides’ November 12 papers already specified 50 percent life-insurance ownership. In its next paper, the United States explicitly sought management control as well. Half the shares with control was commercially different from half the shares without it. In value-added telecommunications and paging, the next American paper sought 50 percent within two years, while distinguishing equity from management and operational control. Other telecommunications categories followed other schedules. A concession on one percentage could be offset, enlarged or qualified by the rights attached to it.
-
-Those distinctions created room for agreement, but they also made a final package difficult to clear. New flexibility in one sector might require compensation in another. A delegation could appear to have conceded a headline number while preserving much of what its firms needed through timing, location or control. Conversely, accepting the number without specifying those rights could produce a less valuable bargain than the announcement suggested.
 
 Zhu met Barshefsky on November 13. Deng describes new State Council authority for that day’s talks and a further financial-leasing approval from central bank governor Dai Xianglong that evening. Senior intervention still left individual commitments to be cleared.[^13]
 
