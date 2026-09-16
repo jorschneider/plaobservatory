@@ -1,0 +1,375 @@
+{
+  "title": "EP-3 aircraft-return negotiation: six April 24–30, 2001 cables",
+  "research_date": "2026-09-16",
+  "memo": "ep3-aircraft-cables.md",
+  "new_source_count": 6,
+  "complete_primary_pdf_pages_read": 30,
+  "physical_pages_visually_checked": 11,
+  "scope": "Six target cables acquired and completely read, not the complete 46-document State collection. No new scholarly reading. Original PDFs and extracted full texts remain outside Git.",
+  "acquisition": "Public official State Department URLs observed in the preserved public catalogue. All six downloads returned HTTP 200 and validated as PDFs. No restricted-system access or authentication bypass.",
+  "catalogue_evidence": [
+    {
+      "path": "/Users/jorsc/.codex/.chatgpt-projects/g-p-6a94dd290a988191911d85ae8fe94a6c/tmp/pdfs/research-2026-09-16/ep3-approval/state-case-page2.json",
+      "sha256": "6b6faf581aa0a5584f609ca5a3c60545b40a0f6f114c958db0d18afa8e4eba56",
+      "scope": "Catalogue records for the six target IDs; not a full reading of all underlying documents."
+    },
+    {
+      "path": "/Users/jorsc/.codex/.chatgpt-projects/g-p-6a94dd290a988191911d85ae8fe94a6c/tmp/pdfs/research-2026-09-16/ep3-approval/state-case-page3.json",
+      "sha256": "39e51c000a4e4021e6f9d0f46f519e0a2ae7385eb40cbd3a89a0a3faa13d8784",
+      "scope": "Catalogue records for the six target IDs; not a full reading of all underlying documents."
+    }
+  ],
+  "source_dependence": "All six new records are from one American diplomatic source family. One cable reproduces a Chinese non-paper and Xinhua statement, but this does not provide independent Chinese archival corroboration. Distinguish reported speech, reproduced text and embassy comment.",
+  "sources": [
+    {
+      "id": "EPAIR-01",
+      "document_id": "C17665614",
+      "cable_number": "2001BEIJING03908",
+      "title": "CHINESE WILL AGREE TO DATES FOR ASSESSMENT TEAM VISIT",
+      "creator": "US Embassy Beijing",
+      "url": "https://foia.state.gov/DOCUMENTS/MaySept2015/F-2010-07070/DOC_0C17665614/C17665614.pdf",
+      "cable_date": "2001-04-24",
+      "event_dates": [
+        "2001-04-24"
+      ],
+      "release_review_stamp_date": "2015-04-21",
+      "catalogue_posted_date": "2016-08-31",
+      "acquired_date": "2026-09-16",
+      "source_type": "Officially released contemporary diplomatic report",
+      "release_status": "Released in full; public State Department FOIA case F-2010-07070. Historical classification markings are preserved in the facsimile; the released document is stamped UNCLASSIFIED.",
+      "physical_pdf_pages": 4,
+      "reading_scope": "Complete four-page cable, paragraphs 1–5 and embassy draft; all extracted text read. Physical page 2 also visually inspected.",
+      "key_locators": {
+        "proposal_and_authority": "Paragraphs 1–2, physical pages 1–2: US request for assessment before broader discussion; proposed Chinese dates and document.",
+        "flyout": "Paragraph 3, physical page 2: symbolic objection, not core issue; no consent.",
+        "embassy_draft": "Paragraph 5, physical pages 3–4: proposed inspection, end-May return and associated costs."
+      },
+      "visual_check_pages": [
+        2
+      ],
+      "visual_check_paths": [
+        "/Users/jorsc/.codex/.chatgpt-projects/g-p-6a94dd290a988191911d85ae8fe94a6c/tmp/pdfs/research-2026-09-16/ep3-aircraft/C17665614-p2.png"
+      ],
+      "captures": [
+        {
+          "path": "/Users/jorsc/.codex/.chatgpt-projects/g-p-6a94dd290a988191911d85ae8fe94a6c/tmp/pdfs/research-2026-09-16/ep3-aircraft/C17665614.pdf",
+          "role": "Official released PDF",
+          "sha256": "825fb50a6ae9b0430c005e22eec369c2bca8e3abb2a333b790458048a6292c1f",
+          "bytes": 24981,
+          "outside_git": true
+        },
+        {
+          "path": "/Users/jorsc/.codex/.chatgpt-projects/g-p-6a94dd290a988191911d85ae8fe94a6c/tmp/pdfs/research-2026-09-16/ep3-aircraft/C17665614.txt",
+          "role": "Local layout-preserving text extraction",
+          "sha256": "fa8f8e551cc62626e489cafd0e22728dca8fc33baf0d7c514593f00d714092a3",
+          "bytes": 6548,
+          "outside_git": true
+        }
+      ],
+      "interpretation_limits": [
+        "Embassy report of Zhou’s statements, not an original Chinese instruction.",
+        "Embassy draft is not an agreed text.",
+        "Commentary about Chinese urgency and the likely effect of a simple document is American assessment."
+      ]
+    },
+    {
+      "id": "EPAIR-02",
+      "document_id": "C17665654",
+      "cable_number": "2001STATE072588",
+      "title": "INSTRUCTIONS ON EP-3 ASSESSMENT TEAM VISIT; JOINT TERMS OF REFERENCE",
+      "creator": "US Department of State",
+      "url": "https://foia.state.gov/DOCUMENTS/MaySept2015/F-2010-07070/DOC_0C17665654/C17665654.pdf",
+      "cable_date": "2001-04-25",
+      "event_dates": [
+        "2001-04-25"
+      ],
+      "release_review_stamp_date": "2015-04-21",
+      "catalogue_posted_date": "2016-08-31",
+      "acquired_date": "2026-09-16",
+      "source_type": "Officially released contemporary diplomatic instruction",
+      "release_status": "Released in full; public State Department FOIA case F-2010-07070. Historical classification markings are preserved in the facsimile; the released document is stamped UNCLASSIFIED.",
+      "physical_pdf_pages": 3,
+      "reading_scope": "Complete three-page Washington instruction, masthead, paragraphs 1–5, appended draft and signoff; all extracted text read. Physical pages 1–2 also visually inspected.",
+      "key_locators": {
+        "approval": "Physical page 1 masthead: approved by Deputy Secretary Richard L. Armitage; drafting and clearance entries.",
+        "authority_and_limits": "Paragraphs 3–4, physical pages 1–2: discussion authority, politically rather than legally binding, prohibited commitments, final Washington approval before signature.",
+        "authorized_draft": "Paragraph 5, physical pages 2–3: inspection, options, end-May target and directly associated costs less deliberate damage."
+      },
+      "visual_check_pages": [
+        1,
+        2
+      ],
+      "visual_check_paths": [
+        "/Users/jorsc/.codex/.chatgpt-projects/g-p-6a94dd290a988191911d85ae8fe94a6c/tmp/pdfs/research-2026-09-16/ep3-aircraft/C17665654-p1.png",
+        "/Users/jorsc/.codex/.chatgpt-projects/g-p-6a94dd290a988191911d85ae8fe94a6c/tmp/pdfs/research-2026-09-16/ep3-aircraft/C17665654-p2.png"
+      ],
+      "captures": [
+        {
+          "path": "/Users/jorsc/.codex/.chatgpt-projects/g-p-6a94dd290a988191911d85ae8fe94a6c/tmp/pdfs/research-2026-09-16/ep3-aircraft/C17665654.pdf",
+          "role": "Official released PDF",
+          "sha256": "ca6ed96edbeddb62ace83359db4e95f354be047062ac55192282cc8116a37da7",
+          "bytes": 18925,
+          "outside_git": true
+        },
+        {
+          "path": "/Users/jorsc/.codex/.chatgpt-projects/g-p-6a94dd290a988191911d85ae8fe94a6c/tmp/pdfs/research-2026-09-16/ep3-aircraft/C17665654.txt",
+          "role": "Local layout-preserving text extraction",
+          "sha256": "1d410ea8488d9087d83790fedddccbed713ff56131711b40039adb08814d39e7",
+          "bytes": 4795,
+          "outside_git": true
+        }
+      ],
+      "interpretation_limits": [
+        "Authorizes discussion, not automatic signature.",
+        "Reproduced US draft is not a concluded bilateral agreement.",
+        "The instruction does not authorize China to fly out the aircraft or establish that China accepted any return method.",
+        "Powell signoff alone does not establish personal reading or approval separate from the explicit Armitage approval entry."
+      ]
+    },
+    {
+      "id": "EPAIR-03",
+      "document_id": "C17665619",
+      "cable_number": "2001BEIJING03944",
+      "title": "AFM ZHOU SAYS U.S. DRAFT DOCUMENT DOES NOT ADDRESS PRC CONCERNS",
+      "creator": "US Embassy Beijing",
+      "url": "https://foia.state.gov/DOCUMENTS/MaySept2015/F-2010-07070/DOC_0C17665619/C17665619.pdf",
+      "cable_date": "2001-04-25",
+      "event_dates": [
+        "2001-04-25"
+      ],
+      "release_review_stamp_date": "2015-04-21",
+      "catalogue_posted_date": "2016-08-31",
+      "acquired_date": "2026-09-16",
+      "source_type": "Officially released contemporary diplomatic report",
+      "release_status": "Released in full; public State Department FOIA case F-2010-07070. Historical classification markings are preserved in the facsimile; the released document is stamped UNCLASSIFIED.",
+      "physical_pdf_pages": 3,
+      "reading_scope": "Complete three-page cable, paragraphs 1–5 and signoff; all extracted text read. Physical page 2 also visually inspected.",
+      "key_locators": {
+        "Chinese_objection": "Paragraphs 2–3, physical pages 1–2: responsibility, future incidents, broader document and explaining results.",
+        "alternative": "Paragraph 4, physical page 2: Prueher suggests separate statements; Zhou suggests factual record.",
+        "American_inference": "Paragraph 5, physical pages 2–3: inferred Chinese urgency and possible leverage."
+      },
+      "visual_check_pages": [
+        2
+      ],
+      "visual_check_paths": [
+        "/Users/jorsc/.codex/.chatgpt-projects/g-p-6a94dd290a988191911d85ae8fe94a6c/tmp/pdfs/research-2026-09-16/ep3-aircraft/C17665619-p2.png"
+      ],
+      "captures": [
+        {
+          "path": "/Users/jorsc/.codex/.chatgpt-projects/g-p-6a94dd290a988191911d85ae8fe94a6c/tmp/pdfs/research-2026-09-16/ep3-aircraft/C17665619.pdf",
+          "role": "Official released PDF",
+          "sha256": "4da976113b91b27e5c6f8e796e0a9b7de8706df11311c0a3f2fa24df14992f9c",
+          "bytes": 18286,
+          "outside_git": true
+        },
+        {
+          "path": "/Users/jorsc/.codex/.chatgpt-projects/g-p-6a94dd290a988191911d85ae8fe94a6c/tmp/pdfs/research-2026-09-16/ep3-aircraft/C17665619.txt",
+          "role": "Local layout-preserving text extraction",
+          "sha256": "b4c66f5c464a032cdc253c02ff9008ab992a24bc34d1abb006741ddf147354ea",
+          "bytes": 4475,
+          "outside_git": true
+        }
+      ],
+      "interpretation_limits": [
+        "Chinese statements are recorded by the American embassy.",
+        "Proposals are not accepted terms.",
+        "The embassy’s assessment that a Chinese end-May preference could give the US leverage is not proof of Chinese internal authority or a causal explanation of settlement."
+      ]
+    },
+    {
+      "id": "EPAIR-04",
+      "document_id": "C17665626",
+      "cable_number": "2001BEIJING03988",
+      "title": "EP-3 RETURN: MFA \"DISAPPOINTED\" U.S. WILL NOT NEGOTIATE DOCUMENT",
+      "creator": "US Embassy Beijing",
+      "url": "https://foia.state.gov/DOCUMENTS/MaySept2015/F-2010-07070/DOC_0C17665626/C17665626.pdf",
+      "cable_date": "2001-04-26",
+      "event_dates": [
+        "2001-04-26"
+      ],
+      "release_review_stamp_date": "2015-04-21",
+      "catalogue_posted_date": "2016-08-31",
+      "acquired_date": "2026-09-16",
+      "source_type": "Officially released contemporary diplomatic report",
+      "release_status": "Released in full; public State Department FOIA case F-2010-07070. Historical classification markings are preserved in the facsimile; the released document is stamped UNCLASSIFIED.",
+      "physical_pdf_pages": 3,
+      "reading_scope": "Complete three-page cable, paragraphs 1–6 and signoff; all extracted text read. Physical page 2 also visually inspected.",
+      "key_locators": {
+        "requested_document": "Paragraph 2, physical pages 1–2: responsibility, expenses and prevention; embassy note distinguishes an earlier reported verbal reconnaissance request.",
+        "consensus_claim": "Paragraph 3, physical page 2: Zheng says a document would help Chinese internal consensus.",
+        "American_limit_and_restatement": "Paragraphs 4–5, physical page 2: authority limited to April 25 draft; Zheng says restate positions, not negotiate new formulations."
+      },
+      "visual_check_pages": [
+        2
+      ],
+      "visual_check_paths": [
+        "/Users/jorsc/.codex/.chatgpt-projects/g-p-6a94dd290a988191911d85ae8fe94a6c/tmp/pdfs/research-2026-09-16/ep3-aircraft/C17665626-p2.png"
+      ],
+      "captures": [
+        {
+          "path": "/Users/jorsc/.codex/.chatgpt-projects/g-p-6a94dd290a988191911d85ae8fe94a6c/tmp/pdfs/research-2026-09-16/ep3-aircraft/C17665626.pdf",
+          "role": "Official released PDF",
+          "sha256": "6b92721b856e0144d32f35b7104ac152e19609586b74c1bd39dc85e72ce0c1d1",
+          "bytes": 19696,
+          "outside_git": true
+        },
+        {
+          "path": "/Users/jorsc/.codex/.chatgpt-projects/g-p-6a94dd290a988191911d85ae8fe94a6c/tmp/pdfs/research-2026-09-16/ep3-aircraft/C17665626.txt",
+          "role": "Local layout-preserving text extraction",
+          "sha256": "b6eb4212fe82431a1aa6de6890f3d7f0bc30efb435241827d19c120a6901f0da",
+          "bytes": 4873,
+          "outside_git": true
+        }
+      ],
+      "interpretation_limits": [
+        "The internal-consensus explanation is Zheng’s statement as reported by US officials, not independently recovered Chinese deliberation.",
+        "The report’s reference line says STATE 3944; the preceding Beijing 3944 cable is separately acquired and identified by its actual header.",
+        "No eventual Chinese response or signed agreement is established by this cable."
+      ]
+    },
+    {
+      "id": "EPAIR-05",
+      "document_id": "C17665635",
+      "cable_number": "2001BEIJING04120",
+      "title": "CHINA AGREES TO EP-3 ASSESSMENT TEAM",
+      "creator": "US Embassy Beijing",
+      "url": "https://foia.state.gov/DOCUMENTS/MaySept2015/F-2010-07070/DOC_0C17665635/C17665635.pdf",
+      "cable_date": "2001-04-30",
+      "event_dates": [
+        "2001-04-29"
+      ],
+      "release_review_stamp_date": "2015-04-21",
+      "catalogue_posted_date": "2016-08-31",
+      "acquired_date": "2026-09-16",
+      "source_type": "Officially released contemporary diplomatic report",
+      "release_status": "Released in full; public State Department FOIA case F-2010-07070. Historical classification markings are preserved in the facsimile; the released document is stamped UNCLASSIFIED.",
+      "physical_pdf_pages": 10,
+      "reading_scope": "Complete ten-page cable, paragraphs 1–12, American non-paper, Chinese non-paper, reproduced April 29 Xinhua release and signoff; all extracted text read. Physical pages 5, 8 and 9 also visually inspected.",
+      "key_locators": {
+        "document_status": "Paragraphs 2–3, physical page 2: China-only perspective and no response requested; embassy distinguishes its original intended joint document.",
+        "access_publicity_target": "Paragraphs 4–6, physical pages 2–3: assessment granted, publicity request, conditional end-May hope.",
+        "initial_conditions": "Paragraph 9, physical pages 4–7: five persons, two days, PLA control, objections and clarifications.",
+        "no_flyout": "Paragraph 9, physical pages 5–6: Lu repeats Zhou’s position that aircraft cannot be flown from Lingshui despite airworthiness checks.",
+        "American_text": "Paragraph 10, physical page 7: April 25 American draft reproduced.",
+        "Chinese_text": "Paragraph 11, physical pages 8–9: unilateral non-paper reproduces disagreement, payment discussion and inspection/return objectives.",
+        "public_statement": "Paragraph 12, physical pages 9–10: April 29 Xinhua text reproduced."
+      },
+      "visual_check_pages": [
+        5,
+        8,
+        9
+      ],
+      "visual_check_paths": [
+        "/Users/jorsc/.codex/.chatgpt-projects/g-p-6a94dd290a988191911d85ae8fe94a6c/tmp/pdfs/research-2026-09-16/ep3-aircraft/C17665635-p5.png",
+        "/Users/jorsc/.codex/.chatgpt-projects/g-p-6a94dd290a988191911d85ae8fe94a6c/tmp/pdfs/research-2026-09-16/ep3-aircraft/C17665635-p8.png",
+        "/Users/jorsc/.codex/.chatgpt-projects/g-p-6a94dd290a988191911d85ae8fe94a6c/tmp/pdfs/research-2026-09-16/ep3-aircraft/C17665635-p9.png"
+      ],
+      "captures": [
+        {
+          "path": "/Users/jorsc/.codex/.chatgpt-projects/g-p-6a94dd290a988191911d85ae8fe94a6c/tmp/pdfs/research-2026-09-16/ep3-aircraft/C17665635.pdf",
+          "role": "Official released PDF",
+          "sha256": "023cfd5c461a7dcd748f506097c40d519b4490765e351dde05eb453a977c8f73",
+          "bytes": 64384,
+          "outside_git": true
+        },
+        {
+          "path": "/Users/jorsc/.codex/.chatgpt-projects/g-p-6a94dd290a988191911d85ae8fe94a6c/tmp/pdfs/research-2026-09-16/ep3-aircraft/C17665635.txt",
+          "role": "Local layout-preserving text extraction",
+          "sha256": "02422c24090b9d4f71ac3f25ca23e6ca1c11ad980defbf4fe76e802433705bd1",
+          "bytes": 18311,
+          "outside_git": true
+        }
+      ],
+      "interpretation_limits": [
+        "Cable date is April 30; the decisive meeting and Chinese paper are April 29.",
+        "The Chinese text is reproduced in a US diplomatic cable, not a separately acquired Chinese original or executed bilateral instrument.",
+        "Chinese paper calls its contents agreements, but the surrounding report expressly distinguishes its unilateral standing.",
+        "Conditional end-May hope is not completed return or guaranteed deadline.",
+        "Inspection and airworthiness checks do not establish permission to repair or fly out.",
+        "Embassy comments about compensation, domestic audience and Chinese willingness are assessments, not Chinese internal records."
+      ]
+    },
+    {
+      "id": "EPAIR-06",
+      "document_id": "C17665636",
+      "cable_number": "2001BEIJING04122",
+      "title": "EP-3 ASSESSMENT TEAM: WORKING THE DETAILS",
+      "creator": "US Embassy Beijing",
+      "url": "https://foia.state.gov/DOCUMENTS/MaySept2015/F-2010-07070/DOC_0C17665636/C17665636.pdf",
+      "cable_date": "2001-04-30",
+      "event_dates": [
+        "2001-04-29",
+        "2001-04-30"
+      ],
+      "release_review_stamp_date": "2015-04-21",
+      "catalogue_posted_date": "2016-08-31",
+      "acquired_date": "2026-09-16",
+      "source_type": "Officially released contemporary diplomatic report",
+      "release_status": "Released in full; public State Department FOIA case F-2010-07070. Historical classification markings are preserved in the facsimile; the released document is stamped UNCLASSIFIED.",
+      "physical_pdf_pages": 7,
+      "reading_scope": "Complete seven-page cable, paragraphs 1–6, all original conditions and updates, and signoff; all extracted text read. Physical pages 2, 4 and 5 also visually inspected.",
+      "key_locators": {
+        "time_boundary": "Paragraph 2, physical page 2: state of play current at 19:00 April 30 Beijing time.",
+        "accepted_accommodations": "Paragraph 3, physical pages 2–3: accompanying defense attaché officer, working days decided at airfield, direct team transport to Haikou.",
+        "no_flyout_and_assessment": "Paragraph 3, physical page 4: no equipment removal, checks for airworthiness, explicit no-flyout permission.",
+        "power_sequence": "Paragraph 4, physical page 5: objection and initial local flexibility, static-only prohibition, US clarification that engines would not run, renewed local discussion, senior MFA admission of technical uncertainty and PLA officers in Haikou; cart rental conditional on future approval.",
+        "visa_and_local_staff": "Paragraphs 5–6, physical pages 6–7: visas on arrival, local arrangements and embassy assessment of remaining risks."
+      },
+      "visual_check_pages": [
+        2,
+        4,
+        5
+      ],
+      "visual_check_paths": [
+        "/Users/jorsc/.codex/.chatgpt-projects/g-p-6a94dd290a988191911d85ae8fe94a6c/tmp/pdfs/research-2026-09-16/ep3-aircraft/C17665636-p2.png",
+        "/Users/jorsc/.codex/.chatgpt-projects/g-p-6a94dd290a988191911d85ae8fe94a6c/tmp/pdfs/research-2026-09-16/ep3-aircraft/C17665636-p4.png",
+        "/Users/jorsc/.codex/.chatgpt-projects/g-p-6a94dd290a988191911d85ae8fe94a6c/tmp/pdfs/research-2026-09-16/ep3-aircraft/C17665636-p5.png"
+      ],
+      "captures": [
+        {
+          "path": "/Users/jorsc/.codex/.chatgpt-projects/g-p-6a94dd290a988191911d85ae8fe94a6c/tmp/pdfs/research-2026-09-16/ep3-aircraft/C17665636.pdf",
+          "role": "Official released PDF",
+          "sha256": "a1a95295884d4e0bec72ce4ccda1c6061f66f2dbd61a68f9d4845b2aa1abba8b",
+          "bytes": 44848,
+          "outside_git": true
+        },
+        {
+          "path": "/Users/jorsc/.codex/.chatgpt-projects/g-p-6a94dd290a988191911d85ae8fe94a6c/tmp/pdfs/research-2026-09-16/ep3-aircraft/C17665636.txt",
+          "role": "Local layout-preserving text extraction",
+          "sha256": "0cbc63c8c716e945eaf48356ef1b594494d1ebb1618bc67199ab1e4d822a6395",
+          "bytes": 12506,
+          "outside_git": true
+        }
+      ],
+      "interpretation_limits": [
+        "Direct flight permission concerns the team’s chartered aircraft, not the EP-3.",
+        "No completed approval to power up is reported.",
+        "The senior MFA official is unnamed; the cable does not disclose internal mandate or identify authority to reverse the no-flyout position.",
+        "The reported technical uncertainty does not demonstrate that all restrictions or delays were accidental, or prove deliberate obstruction.",
+        "The April 30 state of play cannot exclude later changes in May."
+      ]
+    }
+  ],
+  "existing_sources_selected_reread": [
+    {
+      "id": "EP313",
+      "title": "Joseph Prueher Georgetown interview, published May 6, 2019",
+      "scope_this_pass": "Aircraft-return and adjacent crew-transport passage, local text lines 535–557, read in full. Not a new complete interview reading; audio not checked.",
+      "capture_path": "/Users/jorsc/.codex/.chatgpt-projects/g-p-6a94dd290a988191911d85ae8fe94a6c/tmp/pdfs/research-2026-09-15/ep3/prueher-2019.txt"
+    },
+    {
+      "id": "DEV-CR01",
+      "title": "Zhou Wenzhong interview of July 5, 2018, republished by Wenhui December 12, 2018",
+      "scope_this_pass": "EP-3 answer, including instruction, apology and aircraft-return paragraph, plus adjacent consequences answer. Not a new complete interview reading.",
+      "capture_path": "/Users/jorsc/.codex/.chatgpt-projects/g-p-6a94dd290a988191911d85ae8fe94a6c/tmp/pdfs/research-2026-09-15/ep3/zhou-wenzhong-2018-wenhui.txt"
+    }
+  ],
+  "remaining_gaps": [
+    "No acquired Chinese internal instruction or separately preserved Chinese original of the April 29 non-paper.",
+    "No jointly signed return plan established by this packet.",
+    "No flyout authorization, issuing date, terms or revocation recovered; April 30 refusal cannot exclude May developments.",
+    "No completed decision about electrical power in Hainan established by these six cables.",
+    "No new reading of the May–July sources or the rest of the State collection in this bounded task."
+  ]
+}

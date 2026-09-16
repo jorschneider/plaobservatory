@@ -1,0 +1,261 @@
+{
+  "research_date": "2026-09-16",
+  "memo": "../literature/readings/jost-crisis-institutions.md",
+  "source_count": 4,
+  "sources": [
+    {
+      "id": "JCI-01",
+      "title": "The Institutional Origins of Miscalculation in China’s International Crises",
+      "author": "Tyler Jost",
+      "citation": "International Security 48(1), Summer 2023: 47–90",
+      "url": "https://doi.org/10.1162/isec_a_00464",
+      "read_url": "https://muse.jhu.edu/pub/6/article/904029",
+      "publication_year": 2023,
+      "muse_launch_date": "2023-08-09",
+      "source_type": "Peer-reviewed scholarly article; new full reading of source previously selected as EP319",
+      "full_read": true,
+      "read_scope": "All narrative, acknowledgments and notes 1–191, printed pp. 47–90, read sequentially through complete overlapping publisher HTML/browser captures. Tables 1–2 and Figure 1 separately acquired and visually read in full. Main article PDF was not acquired. Citation checking is not full reading of every cited work.",
+      "read_on": "2026-09-16",
+      "artifact": {
+        "local_path": "/Users/jorsc/.codex/.chatgpt-projects/g-p-6a94dd290a988191911d85ae8fe94a6c/tmp/pdfs/research-2026-09-16/jost/main-muse-numbered.txt",
+        "bytes": 137398,
+        "sha256": "d4c7692ab8223269bbba4ba648251a9cd8e148839027a90d1309cd6df0647c59",
+        "role": "Merged derived text retaining original browser line numbers; not a PDF facsimile"
+      },
+      "capture_artifacts": [
+        {
+          "local_path": "/Users/jorsc/.codex/.chatgpt-projects/g-p-6a94dd290a988191911d85ae8fe94a6c/tmp/pdfs/research-2026-09-16/jost/muse-extract-70.txt",
+          "bytes": 40850,
+          "sha256": "164bed42ad3b1c79480ddbd7880eeadabd9402a0ae39ce973d773ac2c5615710",
+          "role": "Raw overlapping browser extract"
+        },
+        {
+          "local_path": "/Users/jorsc/.codex/.chatgpt-projects/g-p-6a94dd290a988191911d85ae8fe94a6c/tmp/pdfs/research-2026-09-16/jost/muse-extract-190.txt",
+          "bytes": 40151,
+          "sha256": "79e0af6357baaad5fec16e0bd1987657af5395b89de4b2bbeacb0490973bbfc1",
+          "role": "Raw overlapping browser extract"
+        },
+        {
+          "local_path": "/Users/jorsc/.codex/.chatgpt-projects/g-p-6a94dd290a988191911d85ae8fe94a6c/tmp/pdfs/research-2026-09-16/jost/muse-extract-230.txt",
+          "bytes": 40347,
+          "sha256": "fb842597d6a0f045034f601dba351577d90e6b16ea58f9887be51293eff2bb9f",
+          "role": "Raw overlapping browser extract"
+        },
+        {
+          "local_path": "/Users/jorsc/.codex/.chatgpt-projects/g-p-6a94dd290a988191911d85ae8fe94a6c/tmp/pdfs/research-2026-09-16/jost/muse-extract-330.txt",
+          "bytes": 34867,
+          "sha256": "1557a0b38199ed02bfa57e414d77611298a3fb9e05896c46c963cca96cad9b79",
+          "role": "Raw overlapping browser extract"
+        },
+        {
+          "local_path": "/Users/jorsc/.codex/.chatgpt-projects/g-p-6a94dd290a988191911d85ae8fe94a6c/tmp/pdfs/research-2026-09-16/jost/muse-extract-390.txt",
+          "bytes": 28682,
+          "sha256": "8bd3a02d70ce56573473e1011be01ccb206fd12f2afa26cd57b19f78565566b8",
+          "role": "Raw overlapping browser extract"
+        },
+        {
+          "local_path": "/Users/jorsc/.codex/.chatgpt-projects/g-p-6a94dd290a988191911d85ae8fe94a6c/tmp/pdfs/research-2026-09-16/jost/muse-extract-550.txt",
+          "bytes": 27159,
+          "sha256": "236a8e0b16f1fcd927c727e04c4092fc00bfb1c1e29648ff582f368bdf4c3afd",
+          "role": "Raw overlapping browser extract"
+        },
+        {
+          "local_path": "/Users/jorsc/.codex/.chatgpt-projects/g-p-6a94dd290a988191911d85ae8fe94a6c/tmp/pdfs/research-2026-09-16/jost/muse-extract-680.txt",
+          "bytes": 27159,
+          "sha256": "ef32d1f4e8c55bdfd5cccbbeee53ae2cc0f6f215f621fe6b12fd63fdf591f526",
+          "role": "Raw overlapping browser extract"
+        }
+      ],
+      "visual_artifacts": [
+        {
+          "local_path": "/Users/jorsc/.codex/.chatgpt-projects/g-p-6a94dd290a988191911d85ae8fe94a6c/tmp/pdfs/research-2026-09-16/jost/main-table1.jpg",
+          "bytes": 278794,
+          "sha256": "730a0f3161b462222b0eb33f3a5cdbb983b6a2a688d6eff3fb97a673a71bd2c5",
+          "url": "https://muse.jhu.edu/article/904029/image/tab01?format=full"
+        },
+        {
+          "local_path": "/Users/jorsc/.codex/.chatgpt-projects/g-p-6a94dd290a988191911d85ae8fe94a6c/tmp/pdfs/research-2026-09-16/jost/main-table2.jpg",
+          "bytes": 130105,
+          "sha256": "4fca4e2016d44a11f4dbd111fd9819ea630e0eb2d93aa20afe5a5737f059c50f",
+          "url": "https://muse.jhu.edu/article/904029/image/tab02?format=full"
+        },
+        {
+          "local_path": "/Users/jorsc/.codex/.chatgpt-projects/g-p-6a94dd290a988191911d85ae8fe94a6c/tmp/pdfs/research-2026-09-16/jost/main-figure1.jpg",
+          "bytes": 69703,
+          "sha256": "e78096484c144f561beaba14b0315d6dea5826387ae2cea752259f2ba4e5003b",
+          "url": "https://muse.jhu.edu/article/904029/image/fig01?format=full"
+        }
+      ],
+      "locators": {
+        "framework_and_methods": "pp. 47–63; especially notes 21–29",
+        "early_Mao_and_1962": "pp. 63–70",
+        "fragmentation_and_1969": "pp. 71–80",
+        "siloed_institutions_and_EP3": "pp. 80–85, notes 142–183",
+        "alternatives_and_Xi_hypotheses": "pp. 85–90, notes 184–191"
+      },
+      "limitations": [
+        "Security-crisis sample ends in 2012; Xi-era discussion is prospective/inferential.",
+        "Anonymous author interviews and underlying Chinese records are not independent project access.",
+        "The April 17 CIA information report cannot independently establish the timing or cause of the April 11 release decision.",
+        "The p. 83 settlement-letter attribution needs distinction from separate Powell–Qian authority correspondence now being independently investigated by the parent."
+      ],
+      "existing_record": "ep3-2001-access-register.json, EP319; this record upgrades reading scope without silently rewriting the earlier record"
+    },
+    {
+      "id": "JCI-02",
+      "title": "Online Appendix: The Institutional Origins of Miscalculation in China’s International Crises",
+      "author": "Tyler Jost",
+      "url": "https://www.tylerjost.com/uploads/1/1/0/4/110425699/appendix_-_final.pdf",
+      "replication_url": "https://doi.org/10.7910/DVN/VF9X6A",
+      "source_type": "Author-hosted scholarly appendix; same PDF listed in replication metadata",
+      "full_read": false,
+      "read_scope": "Complete sections 1–2, printed pp. 1–13; complete section 3.1, pp. 13–15 before section 3.2; complete section 3.2.23 (EP-3), p. 41; complete sections 3.2.24–25 (Senkaku/Scarborough), pp. 42–43; complete sections 4–5, pp. 44–50. Text and all notes within these sections read. Tables 1–6 and Figure 1 visually inspected on pp. 4, 6–7, 46–47. Other case justifications not systematically read; incidental adjoining text is not represented as full reading.",
+      "read_on": "2026-09-16",
+      "physical_pdf_pages": 52,
+      "printed_pages": "1–50 plus two contents pages",
+      "artifact": {
+        "local_path": "/Users/jorsc/.codex/.chatgpt-projects/g-p-6a94dd290a988191911d85ae8fe94a6c/tmp/pdfs/research-2026-09-16/jost/appendix.pdf",
+        "bytes": 743109,
+        "sha256": "d5273fa56d4c998c5a00739cf284723e51a04342f4146686dcd33860c9d6cb4f"
+      },
+      "extracted_text_path": "/Users/jorsc/.codex/.chatgpt-projects/g-p-6a94dd290a988191911d85ae8fe94a6c/tmp/pdfs/research-2026-09-16/jost/appendix.txt",
+      "visual_artifacts": [
+        {
+          "local_path": "/Users/jorsc/.codex/.chatgpt-projects/g-p-6a94dd290a988191911d85ae8fe94a6c/tmp/pdfs/research-2026-09-16/jost/appendix-page6.png",
+          "bytes": 394529,
+          "sha256": "f59b6c52b9e494cd1e190a5f647241522b3df0a78ad2d4041c61704a1ee92bab",
+          "role": "PDF physical page 6, printed 4"
+        },
+        {
+          "local_path": "/Users/jorsc/.codex/.chatgpt-projects/g-p-6a94dd290a988191911d85ae8fe94a6c/tmp/pdfs/research-2026-09-16/jost/appendix-page8.png",
+          "bytes": 306053,
+          "sha256": "3d2f3944f985967005757a554ad0a6ada48b1507e79b4f6c01b1ebfa69e8c294",
+          "role": "PDF physical page 8, printed 6"
+        },
+        {
+          "local_path": "/Users/jorsc/.codex/.chatgpt-projects/g-p-6a94dd290a988191911d85ae8fe94a6c/tmp/pdfs/research-2026-09-16/jost/appendix-page9.png",
+          "bytes": 395390,
+          "sha256": "ae35e130ddd9f6aa8516335e8619080604751432982faf464769e682ed377316",
+          "role": "PDF physical page 9, printed 7"
+        },
+        {
+          "local_path": "/Users/jorsc/.codex/.chatgpt-projects/g-p-6a94dd290a988191911d85ae8fe94a6c/tmp/pdfs/research-2026-09-16/jost/appendix-page48.png",
+          "bytes": 267190,
+          "sha256": "5cd2826e6540027d98546613cfe51813fd06fa38b20182b54a828c40d825d090",
+          "role": "PDF physical page 48, printed 46"
+        },
+        {
+          "local_path": "/Users/jorsc/.codex/.chatgpt-projects/g-p-6a94dd290a988191911d85ae8fe94a6c/tmp/pdfs/research-2026-09-16/jost/appendix-page49.png",
+          "bytes": 357999,
+          "sha256": "86a28256d9a615a78f9ed842f9203dd50bd75bb845319c6461bb7d857d9d4e8b",
+          "role": "PDF physical page 49, printed 47"
+        }
+      ],
+      "locators": {
+        "membership_and_sources": "pp. 3–7, Tables 1–5",
+        "meeting_data_sampling_coding": "pp. 8–13, including notes 24–29",
+        "crisis_sample_and_measurement": "pp. 13–15",
+        "EP3": "p. 41",
+        "uncertain_assessment_coding": "pp. 42–43",
+        "primary_source_access": "p. 44",
+        "personalism_measures_and_tests": "pp. 44–50, Table 6 and Figure 1"
+      },
+      "limitations": [
+        "The 1950–1989 meeting series is not a systematic record of Jiang or Xi deliberations.",
+        "Membership imputation and agenda inference are disclosed; attendance is not a direct measure of candor.",
+        "Official chronicle omissions and editorial choices remain an inferential limitation.",
+        "Small-sample personalism tests do not establish that personal power is causally irrelevant."
+      ],
+      "existing_record": "ep3-2001-access-register.json, EP320; expanded but still selected scope"
+    },
+    {
+      "id": "JCI-03",
+      "title": "prc_crisis_data (by crisis).csv",
+      "author": "Tyler Jost",
+      "url": "https://dataverse.harvard.edu/api/access/datafile/7247201",
+      "dataset_url": "https://doi.org/10.7910/DVN/VF9X6A",
+      "source_type": "Author replication data",
+      "full_read": true,
+      "read_scope": "All headers, 26 crisis rows and columns inspected. EP-3 cost=0 and Scarborough inaccurate-assessment field blank checked specifically. No R program executed; no re-estimation of statistical results and no meeting-level data reading claimed. Dataset metadata read for the list of available files.",
+      "read_on": "2026-09-16",
+      "artifact": {
+        "local_path": "/Users/jorsc/.codex/.chatgpt-projects/g-p-6a94dd290a988191911d85ae8fe94a6c/tmp/pdfs/research-2026-09-16/jost/prc-crisis-data-by-crisis.csv",
+        "bytes": 1527,
+        "sha256": "943a1dd777df6e74782426882cd0f9f5a9597e50b2afa49fc4e9d6d3a347689d"
+      },
+      "metadata_artifact": {
+        "local_path": "/Users/jorsc/.codex/.chatgpt-projects/g-p-6a94dd290a988191911d85ae8fe94a6c/tmp/pdfs/research-2026-09-16/jost/dataverse-metadata.json",
+        "bytes": 8020,
+        "sha256": "7e1ccca87362c962a7426c7dcde6e1f6fb719718ecefb8108944fe95fb8993e3"
+      },
+      "metadata_url": "https://dataverse.harvard.edu/api/datasets/:persistentId/?persistentId=doi:10.7910/DVN/VF9X6A",
+      "evidentiary_use": "Resolves the EP-3 casualty display issue: computational field follows note 28 and appendix pre-crisis timing, rather than counting the collision fatality as a crisis battlefield cost.",
+      "limitations": [
+        "Author coding is not a new independent historical source.",
+        "Original goals and underlying source judgments are not independently recoded."
+      ]
+    },
+    {
+      "id": "JCI-04",
+      "title": "Appraisal of the Situation: Chinese Leadership Perspectives on the Effects of the 1 April Collision of a U.S. EP-3 Aircraft and a Chinese F-8-II Fighter",
+      "author": "Central Intelligence Agency; underlying source redacted",
+      "document_id": "C00785245",
+      "cite_number": "CIA 490563",
+      "url": "https://www.cia.gov/readingroom/docs/APPRAISAL%20OF%20THE%20SITUATIO%5B15781545%5D.pdf",
+      "original_landing_url": "https://www.cia.gov/readingroom/document/00785245",
+      "retrieved_url": "https://web.archive.org/web/20231025081303id_/https://www.cia.gov/readingroom/docs/APPRAISAL%20OF%20THE%20SITUATIO%5B15781545%5D.pdf",
+      "archive_capture_date": "2023-10-25T08:13:03Z",
+      "report_distribution_date": "2001-04-17",
+      "release_approval_date": "2020-02-03",
+      "date_of_information": "Redacted; do not substitute distribution date for source information date",
+      "FOIA_case_as_cited_by_Jost": "F-2018-01240; not independently verified from a release cover letter",
+      "source_type": "Released CIA information report, explicitly not finally evaluated intelligence; archived copy of official public attachment",
+      "full_read": true,
+      "read_scope": "All surviving text and markings on both physical pages visually read, including paragraphs 1–3, report warning and visible redactions. Source/DOI and other redacted material unavailable. Browser OCR not relied upon for passages lost beneath markings.",
+      "read_on": "2026-09-16",
+      "physical_pdf_pages": 2,
+      "artifact": {
+        "local_path": "/Users/jorsc/.codex/.chatgpt-projects/g-p-6a94dd290a988191911d85ae8fe94a6c/tmp/pdfs/research-2026-09-16/jost/cia-c00785245-archive.pdf",
+        "bytes": 139283,
+        "sha256": "86227d07b0e5d5e38f2081c74d7b637f1bdfdaedaa776927646b0879e1f1f998"
+      },
+      "extracted_text_path": "/Users/jorsc/.codex/.chatgpt-projects/g-p-6a94dd290a988191911d85ae8fe94a6c/tmp/pdfs/research-2026-09-16/jost/cia-c00785245-archive.txt",
+      "visual_artifacts": [
+        {
+          "local_path": "/Users/jorsc/.codex/.chatgpt-projects/g-p-6a94dd290a988191911d85ae8fe94a6c/tmp/pdfs/research-2026-09-16/jost/cia-page-1.png",
+          "bytes": 242432,
+          "sha256": "ce879274ba167ce4f94abbb12efafbc9ffc3ac5148526abd3e8688c23db8a766",
+          "role": "Complete physical page 1"
+        },
+        {
+          "local_path": "/Users/jorsc/.codex/.chatgpt-projects/g-p-6a94dd290a988191911d85ae8fe94a6c/tmp/pdfs/research-2026-09-16/jost/cia-page-2.png",
+          "bytes": 196886,
+          "sha256": "1ae9624e313f90799f8c89ebf157a8951a2791d68c3d2063ebf784a5577ddeb9",
+          "role": "Complete physical page 2"
+        }
+      ],
+      "access_metadata": {
+        "local_path": "/Users/jorsc/.codex/.chatgpt-projects/g-p-6a94dd290a988191911d85ae8fe94a6c/tmp/pdfs/research-2026-09-16/jost/cia-wayback-cdx.json",
+        "bytes": 329,
+        "sha256": "00884a4b2d7729705cac334e7b5afd60c1d55bd85447032be07452df5e746aff",
+        "role": "Public CDX metadata identifying the successful archive capture"
+      },
+      "locators": {
+        "source_status": "p. 1 heading and warning; p. 2 repeated warning",
+        "post_release_timing_and_qualified_recognition": "p. 1 para. 1",
+        "press_and_desired_separation_of_issues": "p. 1 para. 2, continuing p. 2",
+        "continuing_reconnaissance_demand_and_attributed_tactics": "p. 2 para. 3"
+      },
+      "limitations": [
+        "The report describes likely recognition, not a named leader’s documented admission.",
+        "Source identity, date of information and basis of access are redacted.",
+        "The opening is after the April 12 crew release and forecasts April 18 negotiations; it does not date an information change before release authorization.",
+        "Claims about Jiang’s protective political strategy are the report’s interpretation, not independently observed Chinese deliberations.",
+        "Live attachment/landing URLs redirected to homepage; only the archived valid PDF was acquired."
+      ],
+      "evidentiary_use": "A contemporary but unevaluated account distinguishing likely private expectations from continued public demands; does not identify the cause of the crew-release decision."
+    }
+  ],
+  "scope_note": "One complete article reading, one selected appendix reading, one complete small replication table inspection, and one complete reading of surviving text in a two-page released information report. These are not four independent confirmations of the same claim.",
+  "storage": "Raw sources and derivatives preserved outside Git; article itself preserved as full publisher HTML extracts, not a valid PDF. Failed HTML/verification responses excluded from substantive source records. Shared ledger and chapters unchanged."
+}

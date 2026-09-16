@@ -520,6 +520,15 @@
           ],
           "observation": "Long canola approval histories exist in China and the EU.",
           "limit": "Elapsed time does not identify Chinese leadership weakness or interministerial conflict."
+        },
+        {
+          "dossier": "manuscript/development/claims-1974-archive-followup.md",
+          "source_ids": [
+            "CLA-F01",
+            "CLA-F02"
+          ],
+          "observation": "Lin’s contemporary explanation ties withdrawal to an alleged unmet American assurance; Habib disputes the premise. This supplies substantive conditionality as a rival to internal-political explanations.",
+          "limit": "An American record of the Chinese negotiator’s stated rationale, not an internal Chinese decision or proof factional pressures were absent."
         }
       ],
       "unresolved_remainder": "No contemporary Chinese veto record supplies the decisive mechanism in these cases. Distinguish capacity, substantive review, applicant responses and agreed priorities from factional conflict."
@@ -2065,6 +2074,18 @@
           ],
           "observation": "Reserved boundary areas were settled in a later instrument.",
           "limit": ""
+        },
+        {
+          "dossier": "manuscript/development/ep3-drafting-cables.md",
+          "source_ids": [
+            "EPD04",
+            "EPD05",
+            "EPD06",
+            "EPD08",
+            "EPD09"
+          ],
+          "observation": "Dated cables now record revisions, authority certification and the exchange of a signed letter for oral release assurances, while Tang retains the responsibility claim.",
+          "limit": "Reported negotiating moves, not full intermediate draft texts; the decisive internal reason for acceptance remains unknown."
         }
       ],
       "contrary_or_limiting_evidence": [
@@ -2732,6 +2753,15 @@
           ],
           "observation": "Later aircraft work concerned issues expressly deferred, not necessarily reopened obligations.",
           "limit": ""
+        },
+        {
+          "dossier": "manuscript/development/claims-1974-archive-followup.md",
+          "source_ids": [
+            "CLA-F01",
+            "CLA-F02"
+          ],
+          "observation": "Lin invokes an alleged earlier US assurance to explain withdrawal of China’s offer; Habib contests that account and proposes revised treatment.",
+          "limit": "Contested reciprocity and the scope of an unfinished package are not established asymmetric noncompliance with a shared final obligation."
         }
       ],
       "unresolved_remainder": "Continuing bargaining is strongly observed, but that alone cannot retain the full proposition. Need obligation-specific Chinese demands, its own requested departures, comparable counterpart conduct and agreed exceptions to establish asymmetry rather than ordinary implementation, mutual adjustment or disputed compliance."

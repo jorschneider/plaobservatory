@@ -1,9 +1,9 @@
 {
   "case": "EP-3 crisis, 2001: limited agreement and reserved disputes",
-  "research_date": "2026-09-15",
+  "research_date": "2026-09-16",
   "latest_substantive_event": "2001-07-03",
-  "record_count": 16,
-  "classification_policy": "Mixed record ledger: public demands, diplomatic instrument, acceptance, internal preparation, implementation and retrospective claims are explicitly distinguished. Internal guidance is not a bilateral offer; retrospective accounts are not independently observed moves.",
+  "record_count": 26,
+  "classification_policy": "Mixed record ledger: public demands, diplomatic instrument, acceptance, internal preparation, implementation and retrospective claims are explicitly distinguished. Internal guidance is not a bilateral offer; retrospective accounts are not independently observed moves. September 16 adds contemporary US reports of private exchanges; they remain unilateral records, and multiple observations from one encounter are not independent samples.",
   "date_policy": "Publication, recollection and intended action dates are separate. Exact date remains unknown where unestablished. Sun’s published timestamp does not establish the time of the oral briefing. April 11 authorization is not physical crew departure.",
   "commitment_policy": "Responsibility, reconnaissance, crew departure, aircraft inspection, disposition, technical execution and payment are separate objects. April 29 inspection is not aircraft return; acknowledging an agenda item is not accepting a substantive concession.",
   "moves": [
@@ -179,7 +179,7 @@
       "issue_and_baseline": "Crew departure, collision causes, aircraft return, reconnaissance and prevention",
       "package_and_version": "Official released English letter; typed name, not inspected original signature",
       "observed_move_or_state": "Expresses sorrow, retains emergency-account context, records meeting agreement and US expectation of prompt crew departure; schedules April 18 talks including an aircraft-return plan and acknowledges China’s intended reconnaissance topic.",
-      "authority_evidence_and_unknowns": "Fleischer says Bush approved whole letter and signed-copy delivery; clearance record and drafts not acquired.",
+      "authority_evidence_and_unknowns": "April11 cable records delivery of separate Powell–Qian authority letter citing presidential authorization; the complete authority text and original instruction remain absent.",
       "next_observable_response_or_state": "Tang announces permission for crew departure after formalities; cause and aircraft questions continue.",
       "source_references": [
         {
@@ -193,6 +193,10 @@
         {
           "source_id": "EP307",
           "locator": "Delivery and approval exchanges"
+        },
+        {
+          "source_id": "EPD08",
+          "locator": "paras 3–4,13–14; distinct authority and settlement letters, stated understanding, handover and prospective flight permission"
         }
       ],
       "interpretation": {
@@ -226,6 +230,10 @@
         {
           "source_id": "EP308",
           "locator": "Both body paragraphs"
+        },
+        {
+          "source_id": "EPD08",
+          "locator": "paras 5–13; Tang announces Chinese government decision and maintains responsibility claim; interpreter wording differs"
         }
       ],
       "interpretation": {
@@ -523,6 +531,208 @@
       "solomon_freeman_ids": [
         "S-C20",
         "S-P25"
+      ]
+    },
+    {
+      "id": "EP3-M17",
+      "event_date": "2001-04-04",
+      "record_type": "Contemporary report of disputed conditions for release and consultation",
+      "actor": "Tang Jiaxuan and Joseph Prueher",
+      "setting_channel_and_audience": "Bilateral diplomatic meeting reported internally by the US government; subsequently publicly released",
+      "observed_move_or_state": "Tang requires explanation/apology before considering release, asserts Chinese evidence, invokes domestic reaction and questions the purpose of maritime consultations if the US denies the facts; Prueher contests the account and presses access/return.",
+      "authority_evidence_and_unknowns": "Official statements made in the meeting; no original Chinese instruction or independently adjudicated collision account.",
+      "source_references": [
+        {
+          "source_id": "EPD03",
+          "locator": "paras 5–19,21–34"
+        }
+      ],
+      "interpretation_and_limit": "Public opinion and facts may be bargaining arguments, sincere assessments, or both; the cable alone cannot distinguish motives.",
+      "confidence": "High for what the contemporary US report records; internal Chinese motives and approval process unresolved",
+      "solomon_freeman_ids": [
+        "S-P04",
+        "S-P17"
+      ]
+    },
+    {
+      "id": "EP3-M18",
+      "event_date": "2001-04-07",
+      "record_type": "Contemporary report of drafting and clearance claims",
+      "actor": "Zhou Wenzhong and Joseph Prueher",
+      "setting_channel_and_audience": "Bilateral diplomatic meeting reported internally by the US government; subsequently publicly released",
+      "observed_move_or_state": "Zhou presents revisions described as high-level cleared. Prueher objects to less definite release/aircraft timing, consults Washington and delivers a new cleared US text at noon. A special envoy remains optional.",
+      "authority_evidence_and_unknowns": "High-level Chinese clearance is an attributed assurance; no full intermediate text or internal approval recovered.",
+      "source_references": [
+        {
+          "source_id": "EPD04",
+          "locator": "paras 1–7"
+        }
+      ],
+      "interpretation_and_limit": "An approved opening response remains revisable; a negotiator cannot infer the final bargaining boundary from the clearance claim alone.",
+      "confidence": "High for what the contemporary US report records; internal Chinese motives and approval process unresolved",
+      "solomon_freeman_ids": [
+        "S-P04",
+        "S-P12"
+      ]
+    },
+    {
+      "id": "EP3-M19",
+      "event_date": "2001-04-08",
+      "record_type": "Contemporary report of authority certification and selective revision",
+      "actor": "Zhou Wenzhong and Joseph Prueher, with Powell consulted",
+      "setting_channel_and_audience": "Bilateral diplomatic meeting reported internally by the US government; subsequently publicly released",
+      "observed_move_or_state": "After US declines an envoy, Zhou requests a Powell–Qian letter confirming Prueher’s authority. Prueher agrees, rejects apologize after consulting Powell, and supplies other revisions. Zhou says he will report and requires leadership package approval before departure details.",
+      "authority_evidence_and_unknowns": "Separate authority letter arranged; actual full text and Chinese internal clearance absent. Consultation with military concerns follow-on agenda/delegation, not proof of a military veto over release.",
+      "source_references": [
+        {
+          "source_id": "EPD05",
+          "locator": "paras 2–9"
+        }
+      ],
+      "interpretation_and_limit": "Coordination requirements are reported constraints, not independently proven reasons for delay.",
+      "confidence": "High for what the contemporary US report records; internal Chinese motives and approval process unresolved",
+      "solomon_freeman_ids": [
+        "S-C11",
+        "S-P04"
+      ]
+    },
+    {
+      "id": "EP3-M20",
+      "event_date": "2001-04-09",
+      "record_type": "Contemporary report of another revision round",
+      "actor": "Zhou Wenzhong and Joseph Prueher",
+      "setting_channel_and_audience": "Bilateral diplomatic meeting reported internally by the US government; subsequently publicly released",
+      "observed_move_or_state": "Zhou seeks strengthened language including apologize, conveys objections to broader US pressure; Prueher warns existing wording may become harder to sustain. After consulting Powell, he accepts one unspecified minor change and rejects the rest. Zhou acknowledges improvement and promises a decision.",
+      "authority_evidence_and_unknowns": "Both invoke superiors; actual leadership debate remains unrecovered. The minor wording change is not identifiable.",
+      "source_references": [
+        {
+          "source_id": "EPD06",
+          "locator": "paras 2–5"
+        }
+      ],
+      "interpretation_and_limit": "The sequence establishes bounded movement, not which pressure or private judgment ultimately secured agreement.",
+      "confidence": "High for what the contemporary US report records; internal Chinese motives and approval process unresolved",
+      "solomon_freeman_ids": [
+        "S-P12",
+        "S-C16"
+      ]
+    },
+    {
+      "id": "EP3-M21",
+      "event_date": "2001-04-10",
+      "record_type": "Contemporary report of effort to preserve one authorized bargaining channel",
+      "actor": "James Keith and Gao Yanping",
+      "setting_channel_and_audience": "Bilateral diplomatic meeting reported internally by the US government; subsequently publicly released",
+      "observed_move_or_state": "Keith notes Chinese representations and declines further EP-3 argument in deference to Prueher, explicitly saying this should not imply acceptance of Chinese points.",
+      "authority_evidence_and_unknowns": "His stated handling of this encounter is observed; no claim all US officials followed it.",
+      "source_references": [
+        {
+          "source_id": "EPD07",
+          "locator": "paras 1–10, especially 5"
+        }
+      ],
+      "interpretation_and_limit": "Additional communication need not become an additional offer; its causal effect on agreement is unknown.",
+      "confidence": "High for what the contemporary US report records; internal Chinese motives and approval process unresolved",
+      "solomon_freeman_ids": [
+        "S-P08"
+      ]
+    },
+    {
+      "id": "EP3-M22",
+      "event_date": "2001-04-11; reported 2001-04-13",
+      "record_type": "Contemporary report of delivery, assurance and transfer drafting",
+      "actor": "US deputy chief of mission and James Moriarty; Lu Shumin and Zheng Zeguang",
+      "setting_channel_and_audience": "Bilateral diplomatic meeting reported internally by the US government; subsequently publicly released",
+      "observed_move_or_state": "US refuses advance signed copies, seeks specific release assurance and warns of no agreement without it. Zheng supplies prospective flight timing but not Tang’s exact words. The transfer memorandum changes despite an initial claim of no time: verbal is added to missing-clearance wording and thanks are removed.",
+      "authority_evidence_and_unknowns": "Reported revisions and competing delivery rationales established; full memorandum versions and Chinese instructions remain absent.",
+      "source_references": [
+        {
+          "source_id": "EPD09",
+          "locator": "paras 2–14"
+        }
+      ],
+      "interpretation_and_limit": "An asserted procedural deadline was not an immutable drafting limit; no Chinese intention to misuse signed copies is inferred.",
+      "confidence": "High for what the contemporary US report records; internal Chinese motives and approval process unresolved",
+      "solomon_freeman_ids": [
+        "S-P04",
+        "S-P12",
+        "S-P25"
+      ]
+    },
+    {
+      "id": "EP3-M23",
+      "event_date": "2001-04-24",
+      "record_type": "Contemporary report of an unaccepted return option",
+      "actor": "Zhou Wenzhong and Joseph Prueher",
+      "observed_move_or_state": "Prueher suggests assessment might favor flyout. Zhou calls it symbolically difficult but not the core issue; dates, plan and mode remain to be settled.",
+      "source_references": [
+        {
+          "source_id": "EPAIR-01",
+          "locator": "para 3"
+        }
+      ],
+      "authority_evidence_and_unknowns": "Qualified discussion is not flight permission; no claim this remained China’s view throughout May.",
+      "confidence": "High for the acquired US record; counterpart instructions and later May options remain incomplete",
+      "solomon_freeman_ids": [
+        "S-P04",
+        "S-P12"
+      ]
+    },
+    {
+      "id": "EP3-M24",
+      "event_date": "2001-04-25",
+      "record_type": "Contemporary instruction and draft",
+      "actor": "Richard Armitage / State Department to Embassy Beijing",
+      "observed_move_or_state": "Authorizes discussion of a politically binding document under specified limits, excludes apology, wider compensation and a reconnaissance side agreement, and requires Washington approval before any signature commitment.",
+      "source_references": [
+        {
+          "source_id": "EPAIR-02",
+          "locator": "masthead and paras 3–5"
+        }
+      ],
+      "authority_evidence_and_unknowns": "Actual US negotiation instruction acquired; approval to discuss is not approval to sign, and the return target is not an agreed deadline.",
+      "confidence": "High for the acquired US record; counterpart instructions and later May options remain incomplete",
+      "solomon_freeman_ids": [
+        "S-P04",
+        "S-P12"
+      ]
+    },
+    {
+      "id": "EP3-M25",
+      "event_date": "2001-04-29; reported 2001-04-30",
+      "record_type": "Contemporary report and reproduced unilateral non-paper",
+      "actor": "Zhou Wenzhong and Joseph Prueher",
+      "observed_move_or_state": "China supplies its own record without requesting a US response and permits an assessment team despite incomplete US response to broader requests. The paper records disagreement on blame and differing payment positions.",
+      "source_references": [
+        {
+          "source_id": "EPAIR-05",
+          "locator": "paras 2–6,10–12"
+        }
+      ],
+      "authority_evidence_and_unknowns": "A Chinese non-paper and reproduced US proposal are not an executed joint text. Separate inspection permission does not authorize flyout.",
+      "confidence": "High for the acquired US record; counterpart instructions and later May options remain incomplete",
+      "solomon_freeman_ids": [
+        "S-P04",
+        "S-P12"
+      ]
+    },
+    {
+      "id": "EP3-M26",
+      "event_date": "2001-04-29–30; current 19:00 Beijing April30",
+      "record_type": "Contemporary report of revised practical arrangements and unresolved request",
+      "actor": "MFA officials, US defense attaché office and proposed assessment team",
+      "observed_move_or_state": "China accommodates an accompanying attaché officer and local discussion of extra working days while prohibiting flyout. After changing ministry responses to electrical power, a senior official proposes addressing the technical issue locally with PLA specialists; approval remains pending.",
+      "source_references": [
+        {
+          "source_id": "EPAIR-06",
+          "locator": "paras 2–4"
+        }
+      ],
+      "authority_evidence_and_unknowns": "No completed electrical-power permission, unrestricted repair approval or subsequent flight permission is established; reported lack of technical understanding does not prove the cause of every restriction.",
+      "confidence": "High for the acquired US record; counterpart instructions and later May options remain incomplete",
+      "solomon_freeman_ids": [
+        "S-P04",
+        "S-P12"
       ]
     }
   ],

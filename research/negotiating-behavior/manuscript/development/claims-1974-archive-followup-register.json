@@ -1,0 +1,483 @@
+{
+  "title": "Claims/assets 1974 archival follow-up: substantive records and access audit",
+  "created_at": "2026-09-16",
+  "source_count": 3,
+  "source_counts": {
+    "newly_read_unprinted_meeting_records": 2,
+    "reacquired_previously_identified_FRUS_entries": 1,
+    "finding_aids_or_access_pages": 7,
+    "exact_target_letters_or_attachments_recovered": 0
+  },
+  "memo": "claims-1974-archive-followup.md",
+  "raw_capture_directory": "/Users/jorsc/.codex/.chatgpt-projects/g-p-6a94dd290a988191911d85ae8fe94a6c/tmp/pdfs/research-2026-09-16/claims",
+  "sources": [
+    {
+      "id": "CLA-F01",
+      "title": "Memorandum of conversation: Secretary Kissinger’s Visit to Peking, Counterpart Discussions on Exchanges and Claims/Assets (First Session), November 26, 1974",
+      "url": "https://www.fordlibrarymuseum.gov/sites/default/files/pdf_documents/library/document/0331/1553934.pdf",
+      "source_type": "Contemporaneous US State Department meeting record preserved as an official archival scan",
+      "retrieved_at": "2026-09-16",
+      "reading_scope": {
+        "depth": "Complete target meeting, selected folder",
+        "read": "Physical 40–49 of the 50-page scan: complete ten-page first-session record, printed 1–10. Folder cover/index (physical 1–3) and final continuation notice also inspected. Other meeting records not systematically read.",
+        "visual_checks": "Physical 40, 46–48: header, printed 7–9; checked speaker attribution where OCR separates labels."
+      },
+      "local_captures": [
+        {
+          "path": "/Users/jorsc/.codex/.chatgpt-projects/g-p-6a94dd290a988191911d85ae8fe94a6c/tmp/pdfs/research-2026-09-16/claims/ford-1974-trip1.pdf",
+          "sha256": "10ef21f2e3729de64e9c6a02ff11eca897c46e53d65fe00f32026c1ed9d9b336",
+          "bytes": 1993606
+        },
+        {
+          "path": "/Users/jorsc/.codex/.chatgpt-projects/g-p-6a94dd290a988191911d85ae8fe94a6c/tmp/pdfs/research-2026-09-16/claims/ford-1974-trip1.txt",
+          "sha256": "11cbdacc9ec8e0ec700075c00b22093871530bd74eb601312767f8c63ef7151f",
+          "bytes": 76868
+        },
+        {
+          "path": "/Users/jorsc/.codex/.chatgpt-projects/g-p-6a94dd290a988191911d85ae8fe94a6c/tmp/pdfs/research-2026-09-16/claims/ford1974-page-40.png",
+          "sha256": "2829dd860c0c06f8f806f61beda04aaa701cb0902e61cd0fb4630ed5df337d54",
+          "bytes": 144821
+        },
+        {
+          "path": "/Users/jorsc/.codex/.chatgpt-projects/g-p-6a94dd290a988191911d85ae8fe94a6c/tmp/pdfs/research-2026-09-16/claims/ford1974-page-46.png",
+          "sha256": "982b85c57597028ed272315fc8b5d3709807919bd751d622f50ce90e2cd7beed",
+          "bytes": 170390
+        },
+        {
+          "path": "/Users/jorsc/.codex/.chatgpt-projects/g-p-6a94dd290a988191911d85ae8fe94a6c/tmp/pdfs/research-2026-09-16/claims/ford1974-page-47.png",
+          "sha256": "83d34d0081a857246ee35bc3511fd7b6aa6581f3b55a49ae406c6caa870cc5f4",
+          "bytes": 148703
+        },
+        {
+          "path": "/Users/jorsc/.codex/.chatgpt-projects/g-p-6a94dd290a988191911d85ae8fe94a6c/tmp/pdfs/research-2026-09-16/claims/ford1974-page-48.png",
+          "sha256": "9bb8883edb93a51dc8b857efd655828e1590c879b39c1cae9eec3fefa3c7fa2b",
+          "bytes": 171288
+        }
+      ],
+      "findings": [
+        {
+          "locator": "Printed 7 / physical 46",
+          "finding": "Habib treated the $17 million offer as accepted, described governmental noninvolvement in old bonds, and tied asset identification to US law and litigation protection. He asked whether an agreement in principle remained."
+        },
+        {
+          "locator": "Printed 7–8 / physical 46–47",
+          "finding": "Lin identified the June 14, 1974 reply as answering the December 22, 1973 US memorandum. He objected to designated-national language and old liabilities; Habib denied requiring Chinese acknowledgment of old liabilities and offered flexibility in wording."
+        },
+        {
+          "locator": "Printed 9–10 / physical 48–49",
+          "finding": "Lin explained the offer as conditional on an understanding about settlement of old liabilities; he said the December response did not conform to the November commitment and linked that alleged failure to withdrawal. Habib disputed the difference and undertook to examine it again. No settlement reached in this session."
+        }
+      ],
+      "limits": [
+        "American record of attributed Chinese and American positions, not Chinese minutes or instructions.",
+        "The June 14 reply, December 22 US memorandum, and underlying succession of drafts were not recovered. This record cannot decide whether an assurance was broken or whether the attributed explanation exhausted internal reasons.",
+        "Lin’s statement and Habib’s disagreement must both be preserved. A technical characterization is Habib’s position, not a neutral determination of the remaining legal stakes."
+      ],
+      "document_date": "1974-11-26",
+      "archive": "Gerald R. Ford Presidential Library, Kissinger Reports on USSR, China, and Middle East Discussions, Box 2, November 25–29, 1974—Kissinger’s Trip (1)",
+      "drafted_by": "S:CVick (Christine Vick)",
+      "source_independence": "A contemporary American official record; do not count its later use by Solomon as independent corroboration of the same exchange."
+    },
+    {
+      "id": "CLA-F02",
+      "title": "Memorandum of conversation: Secretary Kissinger’s Visit to Peking, Counterpart Talks—Claims and Exchanges, October 22, 1975",
+      "url": "https://www.fordlibrarymuseum.gov/sites/default/files/pdf_documents/library/document/0331/1553943.pdf",
+      "source_type": "Contemporaneous US State Department meeting record preserved as an official archival scan",
+      "retrieved_at": "2026-09-16",
+      "reading_scope": {
+        "depth": "Selected sections; complete claims exchanges and immediate context",
+        "read": "Physical 4–8 / printed 1–5 (header, opening, complete US claims proposal); physical 13–14 / printed 10–11 (transition and complete Lin response); physical 19–20 / printed 16–17 (complete closing). Meeting occupies physical 4–20 within 38-page folder. Intervening cultural-exchange passages and later documents not completely read.",
+        "visual_checks": "Physical 4, 7, 8, 14: header and printed 4, 5, 11. Physical 2, 3, 21 inspected as image-only folder dividers, not missing draft texts."
+      },
+      "local_captures": [
+        {
+          "path": "/Users/jorsc/.codex/.chatgpt-projects/g-p-6a94dd290a988191911d85ae8fe94a6c/tmp/pdfs/research-2026-09-16/claims/ford-1975-trip4.pdf",
+          "sha256": "2b7129be509ce9f72009cf48430d38c52ec9edb9c7f9cd5993554511715ba829",
+          "bytes": 1721593
+        },
+        {
+          "path": "/Users/jorsc/.codex/.chatgpt-projects/g-p-6a94dd290a988191911d85ae8fe94a6c/tmp/pdfs/research-2026-09-16/claims/ford-1975-trip4.txt",
+          "sha256": "6d50f86d548794a818c66fe1bb81b7133a51cbe0da7b4f0fddff27c088b11220",
+          "bytes": 60267
+        },
+        {
+          "path": "/Users/jorsc/.codex/.chatgpt-projects/g-p-6a94dd290a988191911d85ae8fe94a6c/tmp/pdfs/research-2026-09-16/claims/ford1975-page-04.png",
+          "sha256": "d376a5658ff401032fbe8e29d35a82e805e7f4ec1b940e7a4ce6c684301ead43",
+          "bytes": 118420
+        },
+        {
+          "path": "/Users/jorsc/.codex/.chatgpt-projects/g-p-6a94dd290a988191911d85ae8fe94a6c/tmp/pdfs/research-2026-09-16/claims/ford1975-page-07.png",
+          "sha256": "7acf33b4d8ce8b1db8b2dbd4d6d65dc7c1cd5aa8f7cf3ad76945ae59eae8a6b7",
+          "bytes": 148643
+        },
+        {
+          "path": "/Users/jorsc/.codex/.chatgpt-projects/g-p-6a94dd290a988191911d85ae8fe94a6c/tmp/pdfs/research-2026-09-16/claims/ford1975-page-08.png",
+          "sha256": "70607227dc32f10b5255d0dc086d81bd6415e192628dbc18bafed91de6bf9862",
+          "bytes": 165488
+        },
+        {
+          "path": "/Users/jorsc/.codex/.chatgpt-projects/g-p-6a94dd290a988191911d85ae8fe94a6c/tmp/pdfs/research-2026-09-16/claims/ford1975-page-14.png",
+          "sha256": "f5e4f4dba31a781798b19e145127098b939e276b9b04e3ee75d3a0db435dcb66",
+          "bytes": 158624
+        },
+        {
+          "path": "/Users/jorsc/.codex/.chatgpt-projects/g-p-6a94dd290a988191911d85ae8fe94a6c/tmp/pdfs/research-2026-09-16/claims/ford1975-page-2.png",
+          "sha256": "28b15aa63e9d81c760c0830e6beb92b5f6b266058609b1a81a7ad0c3eac4c233",
+          "bytes": 30095
+        },
+        {
+          "path": "/Users/jorsc/.codex/.chatgpt-projects/g-p-6a94dd290a988191911d85ae8fe94a6c/tmp/pdfs/research-2026-09-16/claims/ford1975-page-3.png",
+          "sha256": "431949923776d4c477404fd7fbd22fa94681a0693d78d7614f8b11a1ff2ee344",
+          "bytes": 28913
+        },
+        {
+          "path": "/Users/jorsc/.codex/.chatgpt-projects/g-p-6a94dd290a988191911d85ae8fe94a6c/tmp/pdfs/research-2026-09-16/claims/ford1975-page-21.png",
+          "sha256": "8e28a63e6b38a0bc105e8beeba588612fd52f629bc8c69f81c0bf48afbd182ce",
+          "bytes": 25037
+        }
+      ],
+      "findings": [
+        {
+          "locator": "Printed 4–5 / physical 7–8",
+          "finding": "Habib proposed withdrawing the March 21, 1973 US statement and October 27, 1973 aide-mémoire on bonds; offered matching asset-identification wording in the main agreement or an exchange of letters; sought restoration of Zhou’s repayment offer within the package."
+        },
+        {
+          "locator": "Printed 10–11 / physical 13–14",
+          "finding": "Lin explicitly said the June 14, 1974 letter withdrew the monetary offer regarding assets already recovered from third-country banks. He maintained the bond position and rejected proposed definitions as imposition of US law on Chinese affairs."
+        },
+        {
+          "locator": "Printed 16–17 / physical 19–20",
+          "finding": "Habib ended further claims discussion at that meeting, but still asked at the close that both sides study the ideas. This is not evidence that all subsequent contact ended."
+        }
+      ],
+      "limits": [
+        "The proposed withdrawal is not proof that the statements were actually rescinded.",
+        "The paper handed over is described but exact underlined language is not supplied in the read passages. No legal equivalence of the alternatives established.",
+        "No Chinese internal authorization recovered. Solomon attended this meeting: his later account is not another independent witness."
+      ],
+      "document_date": "1975-10-22",
+      "archive": "Gerald R. Ford Presidential Library, Kissinger Reports on USSR, China, and Middle East Discussions, Box 2, October 19–23, 1975—Kissinger’s Trip (4)",
+      "drafted_by": "NSC:ABoddicker; EA/PRCM:OVArmstrong; Anne Boddicker listed as notetaker",
+      "source_independence": "US official minutes. Richard H. Solomon is listed among the participants."
+    },
+    {
+      "id": "CLA-F03",
+      "title": "Memorandum of conversation, Washington, April 29, 1977: Claims/assets; FRUS 1977–1980, Volume XIII, document 27",
+      "url": "https://history.state.gov/historicaldocuments/frus1977-80v13/d27",
+      "source_type": "Official edited publication of a contemporaneous US memorandum",
+      "retrieved_at": "2026-09-16",
+      "reading_scope": {
+        "depth": "Complete published entry",
+        "read": "Complete published body and all four editorial notes. Official HTML, not original archival scan. Previously identified and read as a lead in the Chapter 1 developmental work; reacquired here."
+      },
+      "local_captures": [
+        {
+          "path": "/Users/jorsc/.codex/.chatgpt-projects/g-p-6a94dd290a988191911d85ae8fe94a6c/tmp/pdfs/research-2026-09-16/claims/frus13-27.html",
+          "sha256": "de5738eb27bd73a7ae8b9e261d73b9e17d288ca81fe3934ffbbc3688f4f0e80c",
+          "bytes": 41483
+        },
+        {
+          "path": "/Users/jorsc/.codex/.chatgpt-projects/g-p-6a94dd290a988191911d85ae8fe94a6c/tmp/pdfs/research-2026-09-16/claims/frus13-27.txt",
+          "sha256": "f8206e10e4a989a6b75e56c4a5533b52b3e0fa6a634917d33fb3d02763d93970",
+          "bytes": 11958
+        }
+      ],
+      "findings": [
+        {
+          "locator": "Han Hsu’s opening statement and discussion",
+          "finding": "Han stated three objections and asserted continuity with the November 1973 and June 14, 1974 positions. This is an attributed negotiating claim, not proof of the missing message’s complete wording."
+        },
+        {
+          "locator": "Editorial note 4",
+          "finding": "Identifies telegram 985 from Beijing, June 14, 1974, National Archives, RG 59, Central Foreign Policy File, no film number. The note’s term “agreement” must not be taken to establish a bilateral agreement contrary to the contested primary descriptions."
+        }
+      ],
+      "limits": [
+        "This is an archival locator and later attributed statement, not the June 14 original.",
+        "Do not count as a newly discovered meeting: the prior development memo already identified the entry."
+      ],
+      "document_date": "1977-04-29",
+      "archive": "Carter Library, National Security Affairs, Staff Material, Far East, Oksenberg Subject File, Box 51, PRC Chron: 3–9/77",
+      "drafted_by": "J. Stapleton Roy",
+      "source_independence": "Another dated US meeting record; no independent Chinese documentary account acquired."
+    }
+  ],
+  "finding_aids": [
+    {
+      "id": "CLA-FA01",
+      "title": "NARA guide: Central Foreign Policy Files, 1973–1979",
+      "url": "https://www.archives.gov/research/foreign-policy/state-dept/rg-59-central-files/1973-1979",
+      "source_type": "Archival access guide and supplemental release table",
+      "retrieved_at": "2026-09-16",
+      "reading_scope": {
+        "depth": "Selected explanatory sections plus targeted table search",
+        "read": "Introduction and access explanation; local release table searched for 1974PEKING00985, 1973PEKING01695, Beijing/Peking entries."
+      },
+      "local_captures": [
+        {
+          "path": "/Users/jorsc/.codex/.chatgpt-projects/g-p-6a94dd290a988191911d85ae8fe94a6c/tmp/pdfs/research-2026-09-16/claims/nara-cfpf.html",
+          "sha256": "4436b108aca8717dead8fb06e3079c83db0d396f6a636e8e692b162eb68b3a59",
+          "bytes": 121496
+        },
+        {
+          "path": "/Users/jorsc/.codex/.chatgpt-projects/g-p-6a94dd290a988191911d85ae8fe94a6c/tmp/pdfs/research-2026-09-16/claims/nara-cfpf.txt",
+          "sha256": "cee7be5041be29d5134c65aa9355cef0ee04f34df9516f40952e8aec217c058c",
+          "bytes": 43044
+        }
+      ],
+      "findings": [
+        "Explains electronic telegram files, microfilmed paper documents, and supplemental images of subsequently released telegrams.",
+        "The searched supplemental list did not contain either target telegram number."
+      ],
+      "limits": [
+        "Absence from this list is not absence from all public archival holdings.",
+        "No underlying target telegram acquired."
+      ]
+    },
+    {
+      "id": "CLA-FA02",
+      "title": "Nixon Presidential Library: Guide to Holdings",
+      "url": "https://www.nixonlibrary.gov/research/guide-holdings",
+      "source_type": "Finding-aid and release directory",
+      "retrieved_at": "2026-09-16",
+      "reading_scope": {
+        "depth": "Selected directory sections",
+        "read": "September 2023 and September 2026 releases, linked finding aids, relevant collection descriptions; not the entire large guide."
+      },
+      "local_captures": [
+        {
+          "path": "/Users/jorsc/.codex/.chatgpt-projects/g-p-6a94dd290a988191911d85ae8fe94a6c/tmp/pdfs/research-2026-09-16/claims/nixon-guide.html",
+          "sha256": "7c0c380248e80d4da955910920dd03e292a70d9090cb6f414126200c91791e9e",
+          "bytes": 1021568
+        },
+        {
+          "path": "/Users/jorsc/.codex/.chatgpt-projects/g-p-6a94dd290a988191911d85ae8fe94a6c/tmp/pdfs/research-2026-09-16/claims/nixon-guide.txt",
+          "sha256": "3e2576b0319043e35f1d49438a53c8481ba5f93dc3c0b11eb1d2772a00dc4450",
+          "bytes": 599227
+        }
+      ],
+      "findings": [
+        "Supplied public release-list links; release lists do not themselves supply the documents."
+      ],
+      "limits": [
+        "No item-level recovery of Solomon memorandum or attachments."
+      ]
+    },
+    {
+      "id": "CLA-FA03",
+      "title": "Nixon Presidential Library: National Security Council Files",
+      "url": "https://www.nixonlibrary.gov/finding-aids/national-security-council-files",
+      "source_type": "Collection finding aid",
+      "retrieved_at": "2026-09-16",
+      "reading_scope": {
+        "depth": "Selected collection descriptions and links",
+        "read": "Relevant Country Files/Far East descriptions and digitization links; searched acquired text and links for target boxes."
+      },
+      "local_captures": [
+        {
+          "path": "/Users/jorsc/.codex/.chatgpt-projects/g-p-6a94dd290a988191911d85ae8fe94a6c/tmp/pdfs/research-2026-09-16/claims/nixon-nsc-finding.html",
+          "sha256": "91a352ce42097c0eae270c4b688812199dbe77088f4f74e38cc741ad17a82289",
+          "bytes": 326290
+        },
+        {
+          "path": "/Users/jorsc/.codex/.chatgpt-projects/g-p-6a94dd290a988191911d85ae8fe94a6c/tmp/pdfs/research-2026-09-16/claims/nixon-nsc-finding.txt",
+          "sha256": "220df63042c46fa0322e420d9079ea15389c24e4682acb1185b5a70e79f2753a",
+          "bytes": 247475
+        }
+      ],
+      "findings": [
+        "Did not identify a digital scan of the target Box 527/528 folders through this page."
+      ],
+      "limits": [
+        "Not an exhaustive search of all NARA catalog entries. No inference of current classification."
+      ]
+    },
+    {
+      "id": "CLA-FA04",
+      "title": "Nixon Library September 12, 2023 systematic-review opening finding aid",
+      "url": "https://www.nixonlibrary.gov/sites/default/files/2023-09/2023-09-12%20Systematic%20Review%20Opening%20Finding%20Aid.pdf",
+      "source_type": "Opening finding aid",
+      "retrieved_at": "2026-09-16",
+      "reading_scope": {
+        "depth": "Selected page",
+        "read": "Physical page 3 of 8, relevant China rows: temporary boxes 34 and 35 covering NSC Boxes 526–529."
+      },
+      "local_captures": [
+        {
+          "path": "/Users/jorsc/.codex/.chatgpt-projects/g-p-6a94dd290a988191911d85ae8fe94a6c/tmp/pdfs/research-2026-09-16/claims/nixon-2023-systematic.pdf",
+          "sha256": "d7af26650b7074a0d09d5a1936ebc21d2d02cbf5ab3ac950d4feb7ab4dc49c91",
+          "bytes": 225237
+        },
+        {
+          "path": "/Users/jorsc/.codex/.chatgpt-projects/g-p-6a94dd290a988191911d85ae8fe94a6c/tmp/pdfs/research-2026-09-16/claims/nixon-2023-systematic.txt",
+          "sha256": "c784c4705f410d005358dd4136e436b1ee928acb8367e058a782193f780a8fd0",
+          "bytes": 5038
+        }
+      ],
+      "findings": [
+        "Identifies relevant boxes included in the opening."
+      ],
+      "limits": [
+        "Box-level listing is not item-level confirmation that all target documents were released or digitized."
+      ]
+    },
+    {
+      "id": "CLA-FA05",
+      "title": "Nixon Library September 2023 systematic-review folder titles",
+      "url": "https://www.nixonlibrary.gov/sites/default/files/2023-12/Systematic%20Review%202023-09%20Folder%20Titles.pdf",
+      "source_type": "Folder-title finding aid",
+      "retrieved_at": "2026-09-16",
+      "reading_scope": {
+        "depth": "Selected page, visually checked",
+        "read": "Searched 106-page extracted text to locate target boxes; physical page 12 read and visually inspected, not full 106-page list."
+      },
+      "local_captures": [
+        {
+          "path": "/Users/jorsc/.codex/.chatgpt-projects/g-p-6a94dd290a988191911d85ae8fe94a6c/tmp/pdfs/research-2026-09-16/claims/nixon-2023-folder-titles.pdf",
+          "sha256": "a33d24850d58226bff418673d3b1235f54c8225f56e35e50321406875a66dfce",
+          "bytes": 1511453
+        },
+        {
+          "path": "/Users/jorsc/.codex/.chatgpt-projects/g-p-6a94dd290a988191911d85ae8fe94a6c/tmp/pdfs/research-2026-09-16/claims/nixon-2023-folder-titles.txt",
+          "sha256": "2f42acc5d045b7a7533e97cee4587949da9f4f5c7f2d04224cce5a14eb355d58",
+          "bytes": 180134
+        },
+        {
+          "path": "/Users/jorsc/.codex/.chatgpt-projects/g-p-6a94dd290a988191911d85ae8fe94a6c/tmp/pdfs/research-2026-09-16/claims/nixon-folder-page-012.png",
+          "sha256": "99e2a2709707627cfca0a2e68b0f828b820457075239842b78afbae8ee8be331",
+          "bytes": 348570
+        }
+      ],
+      "findings": [
+        "Physical page 12 lists NSC Box 527 PRC Vol. VIII folders [03] and [04] in temporary boxes 34/35, and Box 528 PRC Vol. IX and miscellaneous."
+      ],
+      "limits": [
+        "No image or text of target memorandum/enclosures supplied.",
+        "Source citation in FRUS XVIII/65 identifies Box 527 PRC Vol. VIII, but this is not an item-level match."
+      ]
+    },
+    {
+      "id": "CLA-FA06",
+      "title": "Nixon Library September 8, 2026 RAC systematic-review opening finding aid",
+      "url": "https://www.nixonlibrary.gov/sites/default/files/2026-09/RAC%20Opening%20Finding%20Aid%209-2026%20Final.pdf",
+      "source_type": "Opening finding aid",
+      "retrieved_at": "2026-09-16",
+      "reading_scope": {
+        "depth": "Complete table, selected cover",
+        "read": "Complete table on physical page 2 of 2. Cover extraction partly garbled; release date supplied by official guide."
+      },
+      "local_captures": [
+        {
+          "path": "/Users/jorsc/.codex/.chatgpt-projects/g-p-6a94dd290a988191911d85ae8fe94a6c/tmp/pdfs/research-2026-09-16/claims/nixon-2026-systematic.pdf",
+          "sha256": "d3e758fc0722c68596bb1511b08f66eebeefb2daf9462e5c617a83ff833c93d9",
+          "bytes": 212406
+        },
+        {
+          "path": "/Users/jorsc/.codex/.chatgpt-projects/g-p-6a94dd290a988191911d85ae8fe94a6c/tmp/pdfs/research-2026-09-16/claims/nixon-2026-systematic.txt",
+          "sha256": "1a9a768b447256605113457ed6aad11943b185b208af1a6a3597aa232e39efce",
+          "bytes": 1100
+        }
+      ],
+      "findings": [
+        "Listed boxes do not include target NSC Boxes 527/528."
+      ],
+      "limits": [
+        "Negative result only for this release list."
+      ]
+    },
+    {
+      "id": "CLA-FA07",
+      "title": "Nixon Library September 8, 2026 mandatory-review opening finding aid",
+      "url": "https://www.nixonlibrary.gov/sites/default/files/2026-09/9-8-2026%20MR%20Opening%20Finding%20Aid%20Final.pdf",
+      "source_type": "Opening finding aid",
+      "retrieved_at": "2026-09-16",
+      "reading_scope": {
+        "depth": "Targeted text screening, not complete reading",
+        "read": "13-page extracted text screened for 527/528, Solomon, December 31 and June 14; cover and first rows read. Not all rows read."
+      },
+      "local_captures": [
+        {
+          "path": "/Users/jorsc/.codex/.chatgpt-projects/g-p-6a94dd290a988191911d85ae8fe94a6c/tmp/pdfs/research-2026-09-16/claims/nixon-2026-mdr.pdf",
+          "sha256": "825955a0c70cbbb478aa6e077d44e849885308d5b2f399ccdb81ad8950364e95",
+          "bytes": 281546
+        },
+        {
+          "path": "/Users/jorsc/.codex/.chatgpt-projects/g-p-6a94dd290a988191911d85ae8fe94a6c/tmp/pdfs/research-2026-09-16/claims/nixon-2026-mdr.txt",
+          "sha256": "323433def4d73fed3c95f6ae8f5c970e93b7bbb1c1956fa3ec18709fb20f1c56",
+          "bytes": 30889
+        }
+      ],
+      "findings": [
+        "No target hit in this bounded screening."
+      ],
+      "limits": [
+        "Not evidence about all holdings or current classification of missing records."
+      ]
+    }
+  ],
+  "existing_record_consulted": {
+    "id": "CLA06",
+    "url": "https://history.state.gov/historicaldocuments/frus1969-76v18/d65",
+    "scope": "Existing capture: source header, all attachment and clearance notes, and relevant Tab A/Tab B discussion. Not counted as a new source or new complete rereading.",
+    "path": "/Users/jorsc/.codex/.chatgpt-projects/g-p-6a94dd290a988191911d85ae8fe94a6c/tmp/pdfs/research-2026-09-15/claims-assets/v18-65.html",
+    "sha256": "63c8d3d4d8ac0011f8d17337fc094d3bb946d25ac219d18512712b12236e0ef2",
+    "new_derived_extract": {
+      "path": "/Users/jorsc/.codex/.chatgpt-projects/g-p-6a94dd290a988191911d85ae8fe94a6c/tmp/pdfs/research-2026-09-16/claims/frus18-65-existing-text.txt",
+      "sha256": "1488fb479a564d9c542ab59420122e77495719cf7ebee81e943aa0a9b10a9023",
+      "bytes": 20702
+    },
+    "prior_register": "/Users/jorsc/.codex/.chatgpt-projects/g-p-6a94dd290a988191911d85ae8fe94a6c/plaobservatory-negotiating/research/negotiating-behavior/sources/claims-assets-1973-register.json"
+  },
+  "failed_access": [
+    {
+      "url": "https://aad.archives.gov/aad/",
+      "method": "Web tool opening",
+      "result": "Internal retrieval error; no content/search results obtained."
+    },
+    {
+      "url": "https://aad.archives.gov/aad/series-description.jsp?s=4073",
+      "method": "Web tool, then direct public HTTP retrieval",
+      "result": "Web retrieval error; direct request HTTP 403. No database search results or withdrawal cards obtained.",
+      "limit": "No inference that target record is withheld, missing, or classified."
+    }
+  ],
+  "targeted_search_scope": [
+    "Exact June 14, 1974 China claims/assets references and telegram 985 / 1974PEKING00985.",
+    "Solomon December 31, 1973 memorandum, attachments, Box 527, and telegram 1695 / 1973PEKING01695.",
+    "FRUS, Nixon Library and Ford Library domain searches for June 14, assets and Lin–Habib exchanges.",
+    "Nixon release directories and linked finding aids; NARA CFPF access guide and supplemental release list."
+  ],
+  "unrecovered_targets": [
+    {
+      "target": "Chinese reply/letter of June 14, 1974",
+      "best_locator": "Telegram 985 from Beijing, June 14, 1974, RG 59 Central Foreign Policy File, no film number (FRUS XIII/27 note 4).",
+      "status": "Later contemporary descriptions recovered; exact original text not recovered."
+    },
+    {
+      "target": "Telegram 1695 from Beijing, December 29, 1973 (Tab B to Solomon December 31 memorandum)",
+      "best_locator": "FRUS XVIII/65 note 4; Nixon NSC Files Box 527, PRC Vol. VIII, July 10–December 31, 1973.",
+      "status": "Published reference and folder finding aid acquired; attachment not recovered."
+    },
+    {
+      "target": "Tab A report to December 31, 1973 memorandum",
+      "best_locator": "FRUS XVIII/65 notes 2 and 6; name remains redacted in published text.",
+      "status": "Not recovered or independently identified."
+    },
+    {
+      "target": "American memorandum of December 22, 1973 and successive claims/assets drafts",
+      "best_locator": "Explicit discussion in CLA-F01 printed 7–9.",
+      "status": "Not recovered. Alleged difference between November assurance and December text cannot be adjudicated."
+    },
+    {
+      "target": "Underlying Chinese instructions approving or withdrawing the offer",
+      "best_locator": "No specific public original identified.",
+      "status": "Not recovered; public positions cannot establish the internal authorization process."
+    }
+  ],
+  "interpretation_limits": [
+    "Two later contemporary US records materially strengthen process reconstruction but are not recovery of the missing Chinese instrument.",
+    "Lin’s stated conditionality and Habib’s denial are competing positions. Neither alone establishes a broken commitment or excludes internal political causes.",
+    "Finding aids are separated from historical evidence; access failures do not establish archival absence or classification.",
+    "No outreach, purchase, account creation or chapter/shared-apparatus edit performed."
+  ]
+}

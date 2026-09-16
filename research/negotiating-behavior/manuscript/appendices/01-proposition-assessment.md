@@ -184,6 +184,9 @@ The totals describe this assessment’s coverage, not a score for the book. Many
 
 **Assessment and unresolved remainder:** No contemporary Chinese veto record supplies the decisive mechanism in these cases. Distinguish capacity, substantive review, applicant responses and agreed priorities from factional conflict.
 
+
+**September 16 archival follow-up:** Lin’s contemporary explanation ties withdrawal to an alleged unmet American assurance; Habib disputes the premise. This supplies substantive conditionality as a rival to internal-political explanations. An American record of the Chinese negotiator’s stated rationale, not an internal Chinese decision or proof factional pressures were absent. [Documentary audit](../../manuscript/development/claims-1974-archive-followup.md). The verdict remains unchanged.
+
 ### S-C12 — retain within tested scope
 
 **Baseline claim (printed pp. 44–45, 167–170):** The shift from a small leadership-managed opening to restored bureaucracies and technical issues increased the number of relevant Chinese institutions and could slow decisionmaking.
@@ -688,6 +691,9 @@ The totals describe this assessment’s coverage, not a score for the book. Many
 
 **Assessment and unresolved remainder:** Retain demonstrated partial settlement, not an inferred mechanism of saving face or concealed future concessions. Establish each reservation and its subsequent treatment separately.
 
+
+**September 16 archival follow-up:** Dated cables now record revisions, authority certification and the exchange of a signed letter for oral release assurances, while Tang retains the responsibility claim. Reported negotiating moves, not full intermediate draft texts; the decisive internal reason for acceptance remains unknown. [Documentary audit](../../manuscript/development/ep3-drafting-cables.md). The verdict remains unchanged.
+
 ### S-P13 — retain within tested scope
 
 **Baseline claim (printed pp. 104–108):** PRC negotiators can increase pressure through explicit threats, limited costly confrontations, or expanded demands, with the form and willingness to act changing as the relationship develops.
@@ -871,3 +877,6 @@ The totals describe this assessment’s coverage, not a score for the book. Many
 **Strongest contrary or limiting evidence:** Negotiated access produced a regulatory acceleration and an operating U.S.-owned firm. [FIN-15, FIN-26, FIN-28](../../cases/financial-access-implementation.md) Consensual arrangements made boundary implementation workable. [RUS-USE1999, RUS-MEMO2004](../../cases/russia-border-settlement.md) Later aircraft work concerned issues expressly deferred, not necessarily reopened obligations. [EP303, EP306](../../cases/ep3-2001.md)
 
 **Assessment and unresolved remainder:** Continuing bargaining is strongly observed, but that alone cannot retain the full proposition. Need obligation-specific Chinese demands, its own requested departures, comparable counterpart conduct and agreed exceptions to establish asymmetry rather than ordinary implementation, mutual adjustment or disputed compliance.
+
+
+**September 16 archival follow-up:** Lin invokes an alleged earlier US assurance to explain withdrawal of China’s offer; Habib contests that account and proposes revised treatment. Contested reciprocity and the scope of an unfinished package are not established asymmetric noncompliance with a shared final obligation. [Documentary audit](../../manuscript/development/claims-1974-archive-followup.md). The verdict remains unchanged.

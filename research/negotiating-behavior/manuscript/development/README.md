@@ -1,5 +1,7 @@
 # Developing the manuscript for publication
 
+**September 16 archival revision:** [integration checkpoint](archival-and-narrative-integration-2026-09-16.md); [EP-3 drafting cables](ep3-drafting-cables.md); [1974–75 claims follow-up](claims-1974-archive-followup.md); [complete Jost reading](../../literature/readings/jost-crisis-institutions.md); [continuous book review](continuous-reading-66ffce8.md); [applied Chapter 3/6 revision](chapters-03-06-reader-edit-2026-09-16.md). The new contemporary record changes what can be reconstructed without supplying complete Chinese internal deliberations.
+
 **Active objective, 15 September 2026:** develop compelling, deeply researched nonfiction with Solomon’s explanatory clarity and practical value for someone negotiating with the Chinese government today. The complete first research draft supplies the material. Publication quality remains the standard to work toward.
 
 The earlier declaration that the broader book-quality goal was complete was premature. A complete set of chapters, a source audit and a readable edition established a research draft. They did not establish a publishable whole. This pass changes the narrative structure and pursues records needed to explain particular decisions.

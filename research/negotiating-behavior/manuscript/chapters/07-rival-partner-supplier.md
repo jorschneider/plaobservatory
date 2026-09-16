@@ -138,15 +138,7 @@ For a negotiator, the practical question is what must change to make waiting les
 
 The eastern pipeline belongs in that judgment as much as the unfinished proposal. Russia and China could carry out a large agreement and remain unable to close the next one. Knowing the strength of their relationship did not dispense with knowing the business.
 
-## What could be separated
-
-Each negotiation required a decision about which interests could be treated separately. India could agree to disengagement at one confrontation point without accepting that normal relations should resume. Russia and China could settle sovereignty while preserving specified uses for residents of the other country. They could also complete one gas contract without accepting the commercial terms of another. A relationship helped define what was worth pursuing; it did not make those choices interchangeable.
-
-The distinction mattered because an apparent concession could move the cost elsewhere. Temporary permission could protect a livelihood while leaving the user exposed to expiry and individual refusal. An advance payment could ease the supplier's immediate financing problem in exchange for a lower future price. Accepting border progress as sufficient for wider cooperation could surrender a condition that the other side still wanted removed. Before proposing that interests be separated, a negotiator needed to decide whether the resulting accommodation would remain valuable on its own.
-
-The practical test is in the terms. Specify the area from which troops will withdraw, the authority that will issue a permit, the date on which use ends, or the volumes a buyer must pay for. Seek approval for that defined obligation and make reciprocal commitments conditional on it where the bargain requires. Such requests cannot expose every private instruction. They can reveal whether the parties have agreed enough for the intended next step to occur.
-
-Senior intervention must be judged against the same test. The Russian order authorized specified drafts; Modi and Xi endorsed an arrangement already announced; gas declarations left commercial terms to be completed. The visitor must distinguish permission to finish from encouragement to continue.[^45]
+Senior support had performed different work in these negotiations. Modi and Xi endorsed an arrangement already announced. Putin authorized specified drafts for signature. Political backing for another gas pipeline still left commercial terms unresolved. Treating all three as evidence that an agreement was near would conceal the decisions still outstanding. A foreign negotiator needed to know what the leader had approved, and what the other participants still had to accept.[^45]
 
 ## Notes
 

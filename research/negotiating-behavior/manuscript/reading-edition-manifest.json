@@ -10,31 +10,31 @@
     },
     {
       "path": "chapters/01-solomons-baseline.md",
-      "sha256": "7508615253d693e163a83d4513f3710d340027bd734fe18773b10ae28a4a8ed4"
+      "sha256": "17bd6c1f0db16af74719543eef63ac9dead247893c16a4db795d841c09cfeb70"
     },
     {
       "path": "chapters/02-accession.md",
-      "sha256": "655f4c9080cdfe8b0a1e34c15308969c45c77e6abbfa7376fc780568248f5ec8"
+      "sha256": "8e38f2e009dd16b08b45f884b6ffac727ea21ec21b407f764011442eb15c57d8"
     },
     {
       "path": "chapters/03-usable-expertise.md",
-      "sha256": "709ff80a0eee87b71b863ddbcf3505327ce338e8135a44c3ea6e453ba4737c53"
+      "sha256": "daf35899c4e7393ea4666b5b4fd03607810ed20922ac3a873355fde6bbcdc671"
     },
     {
       "path": "chapters/04-negotiating-in-crisis.md",
-      "sha256": "f0aa1da7282e00f1a2068fe11c2b8ea02c2e9f87648577c8d0ac96ff0567f2aa"
+      "sha256": "9937e74ac20ffa95e28cdd558d954b800d8492d0750b0f272e5e5b096bb1b807"
     },
     {
       "path": "chapters/05-partial-trade-settlement.md",
-      "sha256": "c031e5a7e204ce5dd32927688ada97d37504a35ef96da87bb6a9cf15e58f81d3"
+      "sha256": "72e37ee69067a0ee1d6a79085457815c9f14c0e6b474ddaf91ae8d9307264681"
     },
     {
       "path": "chapters/06-after-the-signature.md",
-      "sha256": "99bf0bd06872cd45bb5ded67a400cc111b1bf1dda6fd9fbdb49627a0695d6e69"
+      "sha256": "e456bff3434fc97ab6f9e7ca1b83d8026bc7c97d485d523800ec99fa8a55e25a"
     },
     {
       "path": "chapters/07-rival-partner-supplier.md",
-      "sha256": "a23e978a8c0105c7457b90dc1459dc9edc871d0d5a04585394644a5575300a46"
+      "sha256": "93ef6f957545f64991a53c826b5c276c4dc0f7eb3bf60b2e14c15275709bcc04"
     },
     {
       "path": "chapters/08-what-survives-solomon.md",
@@ -42,20 +42,20 @@
     },
     {
       "path": "appendices/01-proposition-assessment.md",
-      "sha256": "e498c9e76663724910df2aab2bd7c4a05256f1b56ef0c991b7b89fc77c231227"
+      "sha256": "ca2cd485fee244cacc8d151e7513ce041f4d865f764f8053ccd1d4cc88184d4f"
     },
     {
       "path": "appendices/02-chronology.md",
-      "sha256": "939c834848d4b467e2002f0869f1ce5f65f65e3bdd044ea29b0b5527b8fd50d6"
+      "sha256": "6de40d8fa33076992110d61c5e5ac95062062c1700a8821f3ce92a29b6bc017b"
     },
     {
       "path": "appendices/03-bibliography-and-sources.md",
-      "sha256": "0488f6b78f298440991d6d16648c467a5ec82beaf73e1eac53d79f8b4b626865"
+      "sha256": "7a6e7eb0bb22e15cae2274c6cc25b4d19201066c3f3d07a76ab2435a4728657b"
     }
   ],
   "output": {
     "path": "reading-edition.html",
-    "sha256": "1abfa626b29b1e1b4b6ee7efb28f6678a4a29abcf4524f1f187cbe924388521f"
+    "sha256": "25763b80c6789ab74dcd24aa7d6fc7c3aed480d809ac240165b7f90a171350f6"
   },
   "note": "Integrity and rendering record; not a claim that historical assertions are mechanically verified."
 }

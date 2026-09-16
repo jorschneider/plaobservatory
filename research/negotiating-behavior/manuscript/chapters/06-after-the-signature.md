@@ -66,7 +66,7 @@ The contrast with finance is instructive. A published date for removing an owner
 
 ## Buying a number
 
-The purchase commitments posed a different problem again. China undertook to buy specified increments of American goods and services over two years. Government decisions could remove barriers, direct some purchasing or alter its incentives. They could not make prices, available supply and commercial demand stand still. The agreement acknowledged commercial considerations and market conditions while retaining numerical commitments. Those qualifications mattered to performance; they did not dissolve the undertaking.[^19]
+The purchase commitments posed a different test: China had undertaken to buy specified increments of American goods and services over two years.[^19]
 
 By the end of the period, purchases were far short. Chad Bown's Peterson Institute calculations put covered goods at 60 percent of the commitment using American export data and 62 percent using Chinese import data. Adding covered services on the American basis produced $290.8 billion against a $502.4 billion benchmark, or 58 percent. His conclusion that China had bought none of the additional $200 billion concerned the increment above the baseline. China had continued buying large amounts; it had failed to deliver the promised increase.[^20]
 
@@ -77,18 +77,6 @@ Both governments had to decide what to do with that failure. China's commerce mi
 China's April 2025 white paper defended its implementation and invoked unforeseen events. Phase One supplied a route for that argument: Article 7.6.2 required consultation when an unforeseeable event outside a party's control delayed timely compliance. It did not automatically release either government from its obligation. The white paper also said neither side had formally activated the agreement's bilateral dispute procedure, despite repeated review contacts. These were China's representations of the process, not jointly published minutes.[^24]
 
 The argument had consequently shifted from what China had promised to what each government was prepared to demand, concede or risk next. This is one reason Solomon's attention to the continuing relationship remains valuable. But treating the dispute simply as a difference in national attitudes toward promises would discard the things that made it negotiable: an expired purchase period, disputed responsibility, a consultation clause and several possible enforcement routes.
-
-## The cost of enforcing an agreement
-
-The investigation that brought Gackle and Cooper to the December hearing began on October 24, 2025. USTR asked whether China had denied Americans the benefits of Phase One, what commercial burdens resulted and what remedies would be appropriate. It invited evidence and proposals for duties, service restrictions or import restrictions. It also requested consultations under the American Trade Act. This was a domestic Section 301 investigation, not a documented appeal under Chapter 7 of Phase One. Washington was choosing an instrument as well as deciding how much pressure to apply.[^25]
-
-The agricultural witnesses exposed the constituency problem behind that choice. Gackle's farmers still depended on sales to China. Cooper described ethanol exports that had ceased and investments made on expectations of access. The practical difference was the business each industry believed remained at risk. Their testimony does not prove that those interests determined American policy. It shows why an official could not infer support for a remedy from agreement that China had fallen short.[^26]
-
-The timing sharpened the choice. A new presidential accommodation in autumn 2025 had produced another American announcement of Chinese soybean purchases. Gackle questioned its certainty and timetable even as he feared disturbing the negotiations. The White House also described a suspension of the separate maritime and shipbuilding Section 301 action. That suspension did not establish that the Phase One investigation had been suspended too. In February 2026, China's commerce ministry said the old agreement had been discussed during the five rounds of talks in 2025, defended its implementation and warned against further measures.[^27]
-
-An enforcement threat thus entered a relationship already carrying prospective benefits and other disputes. A government may gain negotiating room by keeping several matters open together. It may also find that obtaining the next concession becomes an argument for postponing a remedy on the last one. The records examined here establish that tension, an investigation and a contested response; they do not supply a final settlement of the enforcement dispute.[^28]
-
-The implication for an agreement's design is practical. Before relying on a remedy, negotiators need to know which constituencies would bear its immediate costs, which would expect to benefit and what alternatives the government would retain if support weakened. A commitment to consult can keep a problem alive. A right to retaliate can improve the price of settlement. Neither compels a future administration to incur costs it has come to judge excessive.
 
 ## Permissions in exchange for permissions
 
@@ -118,11 +106,23 @@ Research by Viking Bohman, Audrye Wong and Victor Ferguson identifies a related 
 
 For an official negotiating relief, that creates a choice with costs on either side. Insisting on repeal may seek a more durable opening but postpone the shipments firms urgently need. Accepting licenses may restore production while leaving the next application exposed to review. The value of the latter bargain depends on the products, end users, duration and practical usability of the permissions obtained—and on the reciprocal action promised in return. A general assurance that trade will resume leaves too much of that choice to the next round.
 
+## The cost of enforcing an agreement
+
+The investigation that brought Gackle and Cooper to the December hearing began on October 24, 2025. USTR asked whether China had denied Americans the benefits of Phase One, what commercial burdens resulted and what remedies would be appropriate. It invited evidence and proposals for duties, service restrictions or import restrictions. It also requested consultations under the American Trade Act. This was a domestic Section 301 investigation, not a documented appeal under Chapter 7 of Phase One. Washington was choosing an instrument as well as deciding how much pressure to apply.[^25]
+
+The agricultural witnesses exposed the constituency problem behind that choice. Gackle's farmers still depended on sales to China. Cooper described ethanol exports that had ceased and investments made on expectations of access. The practical difference was the business each industry believed remained at risk. Their testimony does not prove that those interests determined American policy. It shows why an official could not infer support for a remedy from agreement that China had fallen short.[^26]
+
+The timing sharpened the choice. A new presidential accommodation in autumn 2025 had produced another American announcement of Chinese soybean purchases. Gackle questioned its certainty and timetable even as he feared disturbing the negotiations. The White House also described a suspension of the separate maritime and shipbuilding Section 301 action. That suspension did not establish that the Phase One investigation had been suspended too. In February 2026, China's commerce ministry said the old agreement had been discussed during the five rounds of talks in 2025, defended its implementation and warned against further measures.[^27]
+
+An enforcement threat thus entered a relationship already carrying prospective benefits and other disputes. A government may gain negotiating room by keeping several matters open together. It may also find that obtaining the next concession becomes an argument for postponing a remedy on the last one. The records examined here establish that tension, an investigation and a contested response; they do not supply a final settlement of the enforcement dispute.[^28]
+
+The implication for an agreement's design is practical. Before relying on a remedy, negotiators need to know which constituencies would bear its immediate costs, which would expect to benefit and what alternatives the government would retain if support weakened. A commitment to consult can keep a problem alive. A right to retaliate can improve the price of settlement. Neither compels a future administration to incur costs it has come to judge excessive.
+
 ## Negotiating the next mechanism
 
 By the summer of 2026, both governments were considering how to organize further exchanges. The White House had announced Boards of Trade and Investment and new prospective agricultural commitments after the May summit. Chinese statements described preliminary results and further work.[^29] USTR's June consultation contemplated equal-value trade in nonsensitive products, with tariff changes subject to agreement and law.[^30] In July, Chinese officials described discussions of reciprocal tariff reductions covering $30 billion on each side. Products and implementation remained to be agreed; the public accounts did not provide an agreed agricultural purchase schedule.[^31][^32]
 
-The new design would have to confront both problems this chapter has followed. A promise can prove difficult to enforce even when the shortfall is clear. A permission can deliver immediate relief while leaving future transactions exposed. Before exchanging another concession, officials can specify the act that would count as performance, seek information that would reveal its absence, and identify a response their own government could bear to use. None of those steps guarantees delivery. Each reduces the room for an attractive announcement to conceal a different bargain from the one its intended users need.
+The proposed mechanisms did not settle the choice Gackle and Cooper had put before Washington. Prospective business could make restraint attractive to one industry while a lost market made action attractive to another. Both could agree that China had failed to deliver. The administration still had to decide whether to impose further costs, which Americans would bear them and what it would accept in return. Another agreement could change those choices; it could not make them on the government's behalf.
 
 ## Notes
 
