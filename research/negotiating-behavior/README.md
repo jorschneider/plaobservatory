@@ -12,6 +12,8 @@ The latest archival pass recovers [EP-3 drafting and delivery cables](manuscript
 
 ## Start here
 
+The newest [historical synthesis and editorial revision](manuscript/development/historical-synthesis-integration-2026-09-16.md) develops the November 28, 1974 claims exchange and the EP-3's May–June removal negotiations. It applies a new continuous book review, restores chronology in the WTO chapter and replaces repeated advice with decisions about adequate assurances and remaining risk. The [current validation](manuscript/reading-edition-validation-synthesis-2026-09-16.md) identifies the edition actually checked.
+
 - **[Working manuscript](manuscript/README.md):** the book’s argument, all seven chapters and conclusion, supporting apparatus and evidence limits. Start with the [introduction](manuscript/chapters/00-introduction.md), [historical baseline](manuscript/chapters/01-solomons-baseline.md), [accession chapter](manuscript/chapters/02-accession.md) and [expertise chapter](manuscript/chapters/03-usable-expertise.md).
 - **[Independent editorial audit](manuscript/editorial-audit-2026-09-15.md):** the earlier gap assessment, preserved as a dated research record; the manuscript index records the subsequent work.
 - **[Russian comparative reassessment](cases/russia-and-scope-reassessment.md):** what Russian border and gas bargaining, and disputed agricultural coverage, change about the conclusions; original documents separate political relationships, authority and specific commitments.

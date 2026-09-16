@@ -6,11 +6,11 @@
   "sources": [
     {
       "path": "chapters/00-introduction.md",
-      "sha256": "f41769745535f9298bc148ee26f56bbebb6b15d8205867822e475091b7b08f34"
+      "sha256": "a72a01e7d4c322e8c4de61b705239575c15832e771e2700104137de177566ec5"
     },
     {
       "path": "chapters/01-solomons-baseline.md",
-      "sha256": "17bd6c1f0db16af74719543eef63ac9dead247893c16a4db795d841c09cfeb70"
+      "sha256": "c744d2bdaa9ab6c4a8b665d032da576de2569ec738907207bfc4a879d63495db"
     },
     {
       "path": "chapters/02-accession.md",
@@ -18,11 +18,11 @@
     },
     {
       "path": "chapters/03-usable-expertise.md",
-      "sha256": "daf35899c4e7393ea4666b5b4fd03607810ed20922ac3a873355fde6bbcdc671"
+      "sha256": "0d5964e25235c77134c172808a08318f22a46b1d293897e35f1e33bb58b931ca"
     },
     {
       "path": "chapters/04-negotiating-in-crisis.md",
-      "sha256": "9937e74ac20ffa95e28cdd558d954b800d8492d0750b0f272e5e5b096bb1b807"
+      "sha256": "68553546b8827a55299b484586640eac69a46e95049fab8c9a2092a1155c0db2"
     },
     {
       "path": "chapters/05-partial-trade-settlement.md",
@@ -34,11 +34,11 @@
     },
     {
       "path": "chapters/07-rival-partner-supplier.md",
-      "sha256": "93ef6f957545f64991a53c826b5c276c4dc0f7eb3bf60b2e14c15275709bcc04"
+      "sha256": "742ed0697e260f40997d5d6c9658034661da18d8ad7bb62bbb52266b77c45038"
     },
     {
       "path": "chapters/08-what-survives-solomon.md",
-      "sha256": "e10fe47c6d984675add35bb602d9b93253e5248c8c97dc1b0016f4abeeb58cc2"
+      "sha256": "35186852f2fe741bebc2939a28e0d6c87ed082f9d6ec6cdd549f86c61140c6e7"
     },
     {
       "path": "appendices/01-proposition-assessment.md",
@@ -50,12 +50,12 @@
     },
     {
       "path": "appendices/03-bibliography-and-sources.md",
-      "sha256": "7a6e7eb0bb22e15cae2274c6cc25b4d19201066c3f3d07a76ab2435a4728657b"
+      "sha256": "03d57a01539afb3bf4317fd330f96f933ac9d095d2daf346140aa0c52076af8b"
     }
   ],
   "output": {
     "path": "reading-edition.html",
-    "sha256": "25763b80c6789ab74dcd24aa7d6fc7c3aed480d809ac240165b7f90a171350f6"
+    "sha256": "b82f69428b9dbf4028692c808ab331ce55ee02fa996535b9f55e999e84fb6971"
   },
   "note": "Integrity and rendering record; not a claim that historical assertions are mechanically verified."
 }

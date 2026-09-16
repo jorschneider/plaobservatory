@@ -1,0 +1,458 @@
+{
+  "title": "Claims/assets missing-instruments follow-up: substantive additions and precise access limits",
+  "created_at": "2026-09-16",
+  "source_count": 5,
+  "source_counts": {
+    "official_scan_or_FRUS_substantive_records": 3,
+    "public_reproductions_of_released_cables": 2,
+    "metadata_only_records": 2,
+    "exact_target_instruments_recovered": 0
+  },
+  "memo": "claims-missing-instruments-followup.md",
+  "raw_capture_directory": "/Users/jorsc/.codex/.chatgpt-projects/g-p-6a94dd290a988191911d85ae8fe94a6c/tmp/pdfs/research-2026-09-16/claims-instruments",
+  "prior_register": "claims-1974-archive-followup-register.json",
+  "sources": [
+    {
+      "id": "CLA-I01",
+      "title": "Secretary Kissinger’s Visit to Peking: Counterpart Discussions on Exchanges and Claims/Assets (Second Session)",
+      "url": "https://www.fordlibrarymuseum.gov/sites/default/files/pdf_documents/library/document/0331/1553936.pdf",
+      "document_date": "1974-11-28",
+      "source_type": "Contemporaneous State Department memorandum reconstructed from participant notes; official archival scan",
+      "retrieved_at": "2026-09-16",
+      "reading_scope": {
+        "depth": "Complete target meeting; selected folder",
+        "read": "Printed 1–11 / physical 35–45 of 46-page folder scan, complete morning meeting including exchanges and claims; archival cover also read. Other folder records not systematically read.",
+        "visual_checks": "Physical 35 and 40–45: header and complete claims section, printed 6–11."
+      },
+      "local_captures": [
+        {
+          "path": "/Users/jorsc/.codex/.chatgpt-projects/g-p-6a94dd290a988191911d85ae8fe94a6c/tmp/pdfs/research-2026-09-16/claims-instruments/ford-1974-trip3.pdf",
+          "sha256": "7d330e6412e1b86707a7dcf2c39fd54651b9fdb17ca2594016ecf06e4a020635",
+          "bytes": 2081935
+        },
+        {
+          "path": "/Users/jorsc/.codex/.chatgpt-projects/g-p-6a94dd290a988191911d85ae8fe94a6c/tmp/pdfs/research-2026-09-16/claims-instruments/ford-1974-trip3.txt",
+          "sha256": "ccd6f0ab0de8a8fcdd3ebbb5340f286a1acb5bc65e1ce09b08554216e8aa3d2b",
+          "bytes": 83299
+        },
+        {
+          "path": "/Users/jorsc/.codex/.chatgpt-projects/g-p-6a94dd290a988191911d85ae8fe94a6c/tmp/pdfs/research-2026-09-16/claims-instruments/ford-1974-p35.png",
+          "sha256": "0412d3f8a6c7ce26d69f05d8483a7dd9fa5a402b804f3f9c398150a524136cae",
+          "bytes": 165046
+        },
+        {
+          "path": "/Users/jorsc/.codex/.chatgpt-projects/g-p-6a94dd290a988191911d85ae8fe94a6c/tmp/pdfs/research-2026-09-16/claims-instruments/ford-1974-p40.png",
+          "sha256": "bb15d19cbc0dc3a89a5fcdb42cbc65a1967b8d0ac4436392b6c539f0aa5a1e98",
+          "bytes": 151487
+        },
+        {
+          "path": "/Users/jorsc/.codex/.chatgpt-projects/g-p-6a94dd290a988191911d85ae8fe94a6c/tmp/pdfs/research-2026-09-16/claims-instruments/ford-1974-41.png",
+          "sha256": "f4187154c115cad5e440c63993e45df62a0040514035237c28dee5c7ad4799f0",
+          "bytes": 165811
+        },
+        {
+          "path": "/Users/jorsc/.codex/.chatgpt-projects/g-p-6a94dd290a988191911d85ae8fe94a6c/tmp/pdfs/research-2026-09-16/claims-instruments/ford-1974-42.png",
+          "sha256": "74062caa5b215ec39c169669cd53148764c295057248cf8582343752d4776ec9",
+          "bytes": 169195
+        },
+        {
+          "path": "/Users/jorsc/.codex/.chatgpt-projects/g-p-6a94dd290a988191911d85ae8fe94a6c/tmp/pdfs/research-2026-09-16/claims-instruments/ford-1974-43.png",
+          "sha256": "1e2ac93838189c585f1ffecf32da10aac3af5b4783740f6f7ac9136136e97455",
+          "bytes": 174862
+        },
+        {
+          "path": "/Users/jorsc/.codex/.chatgpt-projects/g-p-6a94dd290a988191911d85ae8fe94a6c/tmp/pdfs/research-2026-09-16/claims-instruments/ford-1974-44.png",
+          "sha256": "f7d954e95b07da3c63b503e32040951f40752b21740a7f3104b3ff1f4320330d",
+          "bytes": 153036
+        },
+        {
+          "path": "/Users/jorsc/.codex/.chatgpt-projects/g-p-6a94dd290a988191911d85ae8fe94a6c/tmp/pdfs/research-2026-09-16/claims-instruments/ford-1974-45.png",
+          "sha256": "2e3dc66e0ae2bd946247e984a34104eb0f7961ebf9d46c29e3ef5becefd45d91",
+          "bytes": 77478
+        }
+      ],
+      "findings": [
+        {
+          "locator": "Printed 1 / physical 35",
+          "finding": "Record says the secretary mislaid the stenographic pad after returning to Washington; memorandum is based on Armstrong’s notes."
+        },
+        {
+          "locator": "Printed 6–8 / physical 40–42",
+          "finding": "Habib says he reviewed the record and excluded bonds from the settlement; Lin objects that non-espousal leaves private claims possible. Habib corrects the assertion that he said the US had never raised the issue."
+        },
+        {
+          "locator": "Printed 8–9 / physical 42–43",
+          "finding": "Habib seeks definitions protecting against asset owners’ suits; Lin objects to the political implications of 1950 categories and says the December 22 aide-mémoire changed method, not substance."
+        },
+        {
+          "locator": "Printed 10–11 / physical 44–45",
+          "finding": "Habib wants all items within the package; Lin invokes third-country/bank relationships and says a political package need not include every small item. Discussion ends inconclusively."
+        }
+      ],
+      "limits": [
+        "Official contemporary reconstruction, not a verbatim transcript.",
+        "American recording of attributed Chinese positions; no Chinese parallel record or internal instruction.",
+        "Lin’s accounts of the December instrument, banks’ interventions, expected reaction and reasons for withdrawal are assertions made in negotiation, not independently established causes."
+      ],
+      "archive": "Ford Library, National Security Adviser, Kissinger Reports on USSR, China, and Middle East Discussions, Box 2, November 25–29, 1974—Kissinger’s Trip (3)",
+      "meeting_time": "9:00 a.m.",
+      "source_independence": "A distinct contemporary US record of the next session after CLA-F01; the same officials and dispute do not constitute independent confirmation of their assertions."
+    },
+    {
+      "id": "CLA-I02",
+      "title": "Memorandum of conversation, Beijing, November 28, 1974, 4:00–6:15 p.m.; FRUS 1969–1976 XVIII, document 98",
+      "url": "https://history.state.gov/historicaldocuments/frus1969-76v18/d98",
+      "document_date": "1974-11-28",
+      "source_type": "Official edited publication of a contemporary US meeting record",
+      "retrieved_at": "2026-09-16",
+      "reading_scope": {
+        "depth": "Selected substantive passage; all editorial notes",
+        "read": "Complete claims/assets exchange, printed 628–629, from Kissinger’s reference to Habib’s conversations through the transition to exchanges; immediate context, header and all eight editorial/source notes. Some surrounding passages read, but no claim to complete reading of the long meeting.",
+        "visual_checks": "HTML text; no underlying scan inspection in this pass."
+      },
+      "local_captures": [
+        {
+          "path": "/Users/jorsc/.codex/.chatgpt-projects/g-p-6a94dd290a988191911d85ae8fe94a6c/tmp/pdfs/research-2026-09-16/claims-instruments/frus18-98.html",
+          "sha256": "6bdb0d7d69818dd871ca7e5a85db359e50481886f642d5256746de7880b45ba9",
+          "bytes": 91393
+        },
+        {
+          "path": "/Users/jorsc/.codex/.chatgpt-projects/g-p-6a94dd290a988191911d85ae8fe94a6c/tmp/pdfs/research-2026-09-16/claims-instruments/frus18-98.txt",
+          "sha256": "96a09aea1b72f334e853a57fc7d0becd6fa1a58278d2063abca7eeeb13f465bf",
+          "bytes": 63118
+        }
+      ],
+      "findings": [
+        {
+          "locator": "Printed 628–629, claims/assets exchange",
+          "finding": "Kissinger promises to seek wording compatible with Chinese principles and accepts the principle that American law does not apply to China; he does not supply a finished definition."
+        },
+        {
+          "locator": "Source note 1 and note 4",
+          "finding": "Identifies Ford Box 2 meeting provenance and the morning November 28 counterpart discussion."
+        }
+      ],
+      "limits": [
+        "A promise to work on wording and acceptance of a principle are not a completed settlement.",
+        "No inference that the statement resolved the underlying legal problem or reveals Chinese private motives."
+      ],
+      "archive": "Ford Library, National Security Adviser, Kissinger Reports on USSR, China, and Middle East Discussions, Box 2, China Memcons and Reports, November 25–29, 1974, Kissinger’s Trip",
+      "source_independence": "Senior meeting following Habib’s briefing, not an independent adjudication of the counterpart dispute."
+    },
+    {
+      "id": "CLA-I03",
+      "title": "Department of State briefing paper: Claims/Assets",
+      "url": "https://www.fordlibrarymuseum.gov/sites/default/files/pdf_documents/library/document/0358/035800374.pdf",
+      "document_date": "1975-11",
+      "source_type": "Contemporaneous internal State briefing paper preserved in official Ford archival scan",
+      "retrieved_at": "2026-09-16",
+      "reading_scope": {
+        "depth": "Complete four-page target paper; selected folder",
+        "read": "Physical 3–6 / printed 1–4 of 32-page folder, all Claims/Assets paper; cover metadata inspected. Other papers not systematically read.",
+        "visual_checks": "All four target pages, physical 3–6."
+      },
+      "local_captures": [
+        {
+          "path": "/Users/jorsc/.codex/.chatgpt-projects/g-p-6a94dd290a988191911d85ae8fe94a6c/tmp/pdfs/research-2026-09-16/claims-instruments/ford-1975-bilateral-briefing2.pdf",
+          "sha256": "47afd589806a7bed47c7c1f836624222b2253d19e15340fafb1fc16812d98bdb",
+          "bytes": 10519548
+        },
+        {
+          "path": "/Users/jorsc/.codex/.chatgpt-projects/g-p-6a94dd290a988191911d85ae8fe94a6c/tmp/pdfs/research-2026-09-16/claims-instruments/ford-1975-bilateral-briefing2.txt",
+          "sha256": "f8c1529110acedd548b5abe5edd2dd4c3db61013461fffba3d8b3b0708d71dd7",
+          "bytes": 43418
+        },
+        {
+          "path": "/Users/jorsc/.codex/.chatgpt-projects/g-p-6a94dd290a988191911d85ae8fe94a6c/tmp/pdfs/research-2026-09-16/claims-instruments/ford-1975-03.png",
+          "sha256": "8c90c6be931bbe6f3ad908ae93d1248961c2385a327072e97d2ef0312dc887bd",
+          "bytes": 1032013
+        },
+        {
+          "path": "/Users/jorsc/.codex/.chatgpt-projects/g-p-6a94dd290a988191911d85ae8fe94a6c/tmp/pdfs/research-2026-09-16/claims-instruments/ford-1975-04.png",
+          "sha256": "71c386575a2bcb32751c731fce031f8174ef08c786c275a0e1688edbcd4e690a",
+          "bytes": 187425
+        },
+        {
+          "path": "/Users/jorsc/.codex/.chatgpt-projects/g-p-6a94dd290a988191911d85ae8fe94a6c/tmp/pdfs/research-2026-09-16/claims-instruments/ford-1975-05.png",
+          "sha256": "9cdd929e96d1b74c166fc7ea0092e8635271ddab8fd83dc4ac6b5fd22d2b65e4",
+          "bytes": 181504
+        },
+        {
+          "path": "/Users/jorsc/.codex/.chatgpt-projects/g-p-6a94dd290a988191911d85ae8fe94a6c/tmp/pdfs/research-2026-09-16/claims-instruments/ford-1975-06.png",
+          "sha256": "41aac0bc6fca4955ef96e971726f42b9b2a1e3a540b5b268a4164b2a130cfbc4",
+          "bytes": 64798
+        }
+      ],
+      "findings": [
+        {
+          "locator": "Printed 1 / physical 3",
+          "finding": "Recommends Ford not raise the question; even unexpected Chinese acceptance should not be formalized before consultation with key members of Congress."
+        },
+        {
+          "locator": "Printed 2 / physical 4",
+          "finding": "Recounts June 1974 withdrawal; explicitly labels its explanations speculative and lists normalization, domestic rivalries, low priority, MFN linkage and other-country precedent."
+        },
+        {
+          "locator": "Printed 3–4 / physical 5–6",
+          "finding": "Treats claimant and congressional acceptability as constraints; attributes possible motives to China and describes political/commercial advantages of settlement. Date is November 1975, without day."
+        }
+      ],
+      "limits": [
+        "Recommendation to the President, not proof that he approved or carried it out.",
+        "Judgments about Chinese unwillingness, a pretext and competing motives are internal American interpretations.",
+        "No congressional vote on the China proposal independently acquired here; no new claim about constitutional requirements."
+      ],
+      "archive": "Ford Library, National Security Adviser Trip Briefing Books and Cables for President Ford, 1974–1976, Box 18, November 28–December 7, 1975—Far East—Briefing Book—Briefing Book—Peking—Bilateral Issues—Scowcroft’s Copy (2)",
+      "source_independence": "Related State retrospective assessment drawing on the ongoing official record, not independent Chinese corroboration."
+    },
+    {
+      "id": "CLA-I04",
+      "title": "State 105075: US–PRC claims negotiations",
+      "url": "https://wikileaks.org/plusd/cables/1973STATE105075_b.html",
+      "document_date": "1973-05-31",
+      "source_type": "Public reproduction of a released State Department electronic cable; non-government host",
+      "retrieved_at": "2026-09-16",
+      "reading_scope": {
+        "depth": "Complete cable and metadata",
+        "read": "Entire header, all four numbered paragraphs, signature, reproduced raw content and metadata. Two cable pages; surrounding website boilerplate is not research evidence.",
+        "visual_checks": "HTML text; linked raw PDF returned 404, so no scan comparison."
+      },
+      "local_captures": [
+        {
+          "path": "/Users/jorsc/.codex/.chatgpt-projects/g-p-6a94dd290a988191911d85ae8fe94a6c/tmp/pdfs/research-2026-09-16/claims-instruments/state105075-mirror.html",
+          "sha256": "e41013d437a72031e542c8bef24a3ea1bc69f768d91bcc76e3e6da94faadd567",
+          "bytes": 71729
+        },
+        {
+          "path": "/Users/jorsc/.codex/.chatgpt-projects/g-p-6a94dd290a988191911d85ae8fe94a6c/tmp/pdfs/research-2026-09-16/claims-instruments/state105075-mirror.txt",
+          "sha256": "e051f83348f80d00937d74d5900d9c0270c3161dc6dff29f2b5be298efd53fdf",
+          "bytes": 27091
+        },
+        {
+          "path": "/Users/jorsc/.codex/.chatgpt-projects/g-p-6a94dd290a988191911d85ae8fe94a6c/tmp/pdfs/research-2026-09-16/claims-instruments/state105075-mirror-record.txt",
+          "sha256": "a7bdb5349724335390e9b1df18e293f30ad51be83d987753ad1c30f867dea444",
+          "bytes": 9317
+        }
+      ],
+      "findings": [
+        {
+          "locator": "Paragraph 1 / cable pages 1–2",
+          "finding": "Quotes March 21, 1973 statement excluding old bonds, asserting a general successor-obligation principle without addressing it then, promising non-espousal and leaving direct negotiation to bondholders or representatives and governments concerned."
+        },
+        {
+          "locator": "Paragraph 2",
+          "finding": "Says copies of Paris telegraphic exchanges and the draft are being pouched; those enclosures are not included here."
+        },
+        {
+          "locator": "Paragraph 3",
+          "finding": "Reports Ni Yao-li’s May 4 explanation to Freeman that the new bond subject required Chinese study."
+        },
+        {
+          "locator": "Paragraph 4 and header",
+          "finding": "Recommends low-key opportunistic inquiry instead of seeking a special meeting; drafted by C. W. Freeman Jr.; Rush signature."
+        }
+      ],
+      "limits": [
+        "Mirror metadata, not an official-host acquisition; no underlying scan verified.",
+        "Quotation of the March statement is not the complete original enclosure or successive drafts.",
+        "Does not establish that the December 22 memorandum broke an assurance or that the exclusion demanded acknowledgment of all old liabilities."
+      ],
+      "canonical_id": "1973STATE105075",
+      "release_status": "Mirror labels current classification UNCLASSIFIED; disposition RELEASED; State systematic-review marking 30 JUN 2005. Historical SECRET/EXDIS markings remain in reproduced text.",
+      "source_independence": "Contemporaneous US cable supplying an earlier statement and reported conversation; mirror and later advocacy quotation are not separate sources."
+    },
+    {
+      "id": "CLA-I05",
+      "title": "State 248454: US/PRC claims negotiations, repeating State 209591 of October 24, 1973",
+      "url": "https://wikileaks.org/plusd/cables/1975STATE248454_b.html",
+      "document_date": "1975-10-18",
+      "source_type": "Public reproduction of a released State cable retransmitting a 1973 instruction; non-government host",
+      "retrieved_at": "2026-09-16",
+      "reading_scope": {
+        "depth": "Complete cable and metadata",
+        "read": "Entire outer header and retransmission, all reproduced October 24, 1973 paragraphs, both signatures and metadata. Rendered content has four PAGE labels although metadata says Page Count 3.",
+        "visual_checks": "HTML text; no official-host or scan comparison."
+      },
+      "local_captures": [
+        {
+          "path": "/Users/jorsc/.codex/.chatgpt-projects/g-p-6a94dd290a988191911d85ae8fe94a6c/tmp/pdfs/research-2026-09-16/claims-instruments/state248454-mirror.html",
+          "sha256": "d5e99d4849488ce220f5ee14d79a468633efbde0cb53a7f293e8e70715c88038",
+          "bytes": 76802
+        },
+        {
+          "path": "/Users/jorsc/.codex/.chatgpt-projects/g-p-6a94dd290a988191911d85ae8fe94a6c/tmp/pdfs/research-2026-09-16/claims-instruments/state248454-mirror.txt",
+          "sha256": "bdd626cb3edfe5b67a9137f66495a44cb97b0fd6a5866bf6058976dd0933a669",
+          "bytes": 30532
+        },
+        {
+          "path": "/Users/jorsc/.codex/.chatgpt-projects/g-p-6a94dd290a988191911d85ae8fe94a6c/tmp/pdfs/research-2026-09-16/claims-instruments/state248454-mirror-record.txt",
+          "sha256": "9c789515c924fabbeeb69bdcc60b25f18d0b3ee9f0c21d8389d66b5f99090051",
+          "bytes": 12755
+        }
+      ],
+      "findings": [
+        {
+          "locator": "Outer header and end quote",
+          "finding": "October 18, 1975 cable signed Ingersoll explicitly repeats October 24, 1973 State 209591 signed Kissinger; not a newly composed 1975 concession."
+        },
+        {
+          "locator": "Repeated paragraph 1C–G / cable pages 2–3",
+          "finding": "Excludes bonds from present settlement, says no present Chinese action is sought, disclaims espousal and offers actively to discourage attachment of Chinese property."
+        },
+        {
+          "locator": "Repeated paragraph 1H and paragraph 2",
+          "finding": "One presentation point is discretionary; internal explanation cites claimant/Congress compensation and recognition implications as reasons for excluding bonds."
+        }
+      ],
+      "limits": [
+        "Instruction to make a presentation, not proof of its delivery or the exact October 27 aide-mémoire text.",
+        "Retains an irregular subparagraph label 3 where D might be expected and a repeated line in G; no silent emendation.",
+        "No evidence that the 1975 retransmission itself changed instructions or that any promised discouragement of litigation occurred."
+      ],
+      "canonical_id": "1975STATE248454",
+      "reproduced_instrument": {
+        "id": "1973STATE209591",
+        "date": "1973-10-24"
+      },
+      "release_status": "Mirror labels current classification UNCLASSIFIED; disposition RELEASED; State systematic-review marking 06 JUL 2006. Historical SECRET/NODIS markings remain in reproduced text.",
+      "microfilm": "P840178-2481",
+      "source_independence": "One retransmitted 1973 instruction, not independent 1973 and 1975 policy decisions."
+    }
+  ],
+  "finding_aids_and_metadata": [
+    {
+      "id": "CLA-IA01",
+      "title": "Metadata record: Peking 985, US–PRC claims settlement",
+      "url": "https://wikileaks.org/plusd/cables/1974PEKING00985_b.html",
+      "document_date": "1974-06-14",
+      "source_type": "Public mirror of archival cable metadata; substantive text unavailable",
+      "retrieved_at": "2026-09-16",
+      "reading_scope": {
+        "depth": "Complete available metadata and error message",
+        "read": "All displayed record metadata and content placeholder; no substantive telegram text exists in the retrieved page."
+      },
+      "local_captures": [
+        {
+          "path": "/Users/jorsc/.codex/.chatgpt-projects/g-p-6a94dd290a988191911d85ae8fe94a6c/tmp/pdfs/research-2026-09-16/claims-instruments/peking985-mirror.html",
+          "sha256": "dfe946247698525f23bdb95ba13ee1fc633b43d41ded6fda0cd32f22948d8f88",
+          "bytes": 66075
+        },
+        {
+          "path": "/Users/jorsc/.codex/.chatgpt-projects/g-p-6a94dd290a988191911d85ae8fe94a6c/tmp/pdfs/research-2026-09-16/claims-instruments/peking985-mirror.txt",
+          "sha256": "4eea184b6be14f8207e8aac177cde281584314725ef99db53311ecc60aea5d27",
+          "bytes": 20890
+        },
+        {
+          "path": "/Users/jorsc/.codex/.chatgpt-projects/g-p-6a94dd290a988191911d85ae8fe94a6c/tmp/pdfs/research-2026-09-16/claims-instruments/peking985-mirror-record.txt",
+          "sha256": "6d9def042a9b331d4c6679658b19e17843028ec83a40119f22553d02aaeeac68",
+          "bytes": 3071
+        }
+      ],
+      "findings": [
+        {
+          "locator": "Locator, Film Number, Reference, release fields",
+          "finding": "TEXT ON MICROFILM, ADS TEXT UNRETRIEVABLE; P850038-1564; reference 74 STATE 126228; released/unclassified metadata."
+        }
+      ],
+      "limits": [
+        "Metadata identifies the exact FRUS cable lead, not the contents of the Chinese note.",
+        "A missing text index is not evidence of continued classification.",
+        "Any future cable recovery must check whether the Chinese note is reproduced in full or summarized."
+      ],
+      "canonical_id": "1974PEKING00985",
+      "microfilm": "P850038-1564"
+    },
+    {
+      "id": "CLA-IA02",
+      "title": "Metadata record: State 126228, US–PRC claims settlement",
+      "url": "https://wikileaks.org/plusd/cables/1974STATE126228_b.html",
+      "document_date": "1974-06-13",
+      "source_type": "Public mirror of archival cable metadata; substantive text unavailable",
+      "retrieved_at": "2026-09-16",
+      "reading_scope": {
+        "depth": "Complete available metadata and error message",
+        "read": "All displayed metadata and content placeholder; no substantive telegram text recovered."
+      },
+      "local_captures": [
+        {
+          "path": "/Users/jorsc/.codex/.chatgpt-projects/g-p-6a94dd290a988191911d85ae8fe94a6c/tmp/pdfs/research-2026-09-16/claims-instruments/state126228-mirror.html",
+          "sha256": "de76c1ee09e54c76004dc95f62c464c74c5d26d2384242a420807bc80d5afa1e",
+          "bytes": 66147
+        },
+        {
+          "path": "/Users/jorsc/.codex/.chatgpt-projects/g-p-6a94dd290a988191911d85ae8fe94a6c/tmp/pdfs/research-2026-09-16/claims-instruments/state126228-mirror.txt",
+          "sha256": "b56fe5f48b5d39f610f0484a6cc79a3e32b102a56cc4e671444af7595f53d834",
+          "bytes": 20917
+        },
+        {
+          "path": "/Users/jorsc/.codex/.chatgpt-projects/g-p-6a94dd290a988191911d85ae8fe94a6c/tmp/pdfs/research-2026-09-16/claims-instruments/state126228-mirror-record.txt",
+          "sha256": "5c13a6cb33d73a25dde45d6cb9e94ef1a2e1a59f50975e9b527bcb035daf008d",
+          "bytes": 3071
+        }
+      ],
+      "findings": [
+        {
+          "locator": "Locator, Film Number, Reference, release fields",
+          "finding": "TEXT ON MICROFILM, ADS TEXT UNRETRIEVABLE; P850038-1561; references literally 74 PEKING 979, 74 STATE 240796; released/unclassified metadata."
+        }
+      ],
+      "limits": [
+        "Referenced by June 14 cable, but no substantive exchange available.",
+        "Reference field retained without attempting to correct the possibly anomalous year/number."
+      ],
+      "canonical_id": "1974STATE126228",
+      "microfilm": "P850038-1561"
+    }
+  ],
+  "access_log": [
+    {
+      "target": "December 29, 1973 Peking 1695, cited as attachment to Solomon memorandum",
+      "url": "https://wikileaks.org/plusd/cables/1973PEKING01695_b.html",
+      "result": "Exact-number request redirected to general full-text search page; no target cable recovered.",
+      "captures": [
+        {
+          "path": "/Users/jorsc/.codex/.chatgpt-projects/g-p-6a94dd290a988191911d85ae8fe94a6c/tmp/pdfs/research-2026-09-16/claims-instruments/peking1695-mirror.html",
+          "sha256": "ac05e8f73e01117b0afe9a4ccd4664397fb1888cc732056d9c9f8c82a0337211",
+          "bytes": 528657
+        },
+        {
+          "path": "/Users/jorsc/.codex/.chatgpt-projects/g-p-6a94dd290a988191911d85ae8fe94a6c/tmp/pdfs/research-2026-09-16/claims-instruments/peking1695-mirror.txt",
+          "sha256": "dd8f8d60ff8a14352fe8d0e0e3890d93ffe35811ff67d41ccda6a3c77ba6b667",
+          "bytes": 259592
+        }
+      ],
+      "attempted_at": "2026-09-16"
+    },
+    {
+      "target": "December 22, 1973 US memorandum; Solomon December 31 attachments",
+      "url": "https://www.nixonlibrary.gov/research/almanac/december-22-1973",
+      "result": "Selected almanac archival links inspected; linked catalog attempts failed in browser and no exact instrument found. Targeted date/subject searches returned known later references. Earlier Box 527 finding aids and AAD failures retained in prior register, not recounted as new acquisitions.",
+      "attempted_at": "2026-09-16"
+    },
+    {
+      "target": "Mao Ruipeng, 关系正常化前夕的中美资产要求问题谈判, 美国研究 2012 no. 1",
+      "url": "https://ias.cssn.cn/cbw/mgyjjj/2012/dyq_118963/201506/t20150616_2687600.shtml",
+      "result": "Browser unavailable; direct HTTPS connection timed out after 45 seconds; HTTP variant returned 403. No full text acquired or reading claim.",
+      "attempted_at": "2026-09-16"
+    },
+    {
+      "target": "William Burr, Casting a Shadow over Trade, Diplomatic History 33(2), 2009, 315–349",
+      "url": "https://doi.org/10.1111/j.1467-7709.2008.00764.x",
+      "result": "Publisher retrieval returned 403; public profile offered request-only access. No article full text acquired or reading claim.",
+      "attempted_at": "2026-09-16"
+    },
+    {
+      "target": "State 105075 raw source linked by mirror",
+      "url": "https://file.wikileaks.org/oc/2472/121783.pdf",
+      "result": "HTTP 404; no PDF capture and no scan comparison.",
+      "attempted_at": "2026-09-16"
+    },
+    {
+      "target": "Advocacy compilation used only to identify exact cable numbers",
+      "url": "https://www.scribd.com/document/210715422/Summary-Brief-of-the-Known-Actions-of-the-United-States-Government-in-re-the-Chinese-Government-s-Defaulted-Sovereign-Bonds",
+      "result": "Selected displayed material on 1973–75 negotiations and quoted cable references read, not complete 239-page compilation. Cable references followed to full record reproductions. Legal allegations, quoted Burr passages and purported Chinese perspective not used as substantive evidence; no independent corroboration count.",
+      "attempted_at": "2026-09-16"
+    }
+  ],
+  "interpretive_boundary": "The missing December 22 memorandum, June 14 Chinese note and Solomon attachments remain unrecovered. New evidence clarifies competing positions and American conditions; it neither proves a broken assurance nor identifies the Chinese internal cause of withdrawal."
+}

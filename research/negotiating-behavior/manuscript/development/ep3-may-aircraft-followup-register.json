@@ -1,0 +1,418 @@
+{
+  "title": "EP-3 May aircraft-return follow-up: source and acquisition register",
+  "research_date": "2026-09-16",
+  "starting_commit": "b7eadd499aefd1e035d6e5a6b1bade6185b391f1",
+  "memo": "ep3-may-aircraft-followup.md",
+  "scope": "Bounded follow-up on May flyout permission and May–June removal agreements. No chapters or shared registers edited. Seven newly acquired aircraft-related source texts with mixed full and selected reading; one improved capture/rereading of existing EP311; two indexed-only leads; one auxiliary source read by parent. No scholarly reading count added.",
+  "new_source_texts_with_valid_full_captures": 7,
+  "new_primary_cable_pages_completely_read": 14,
+  "new_primary_cable_pages_visually_checked": 2,
+  "sources": [
+    {
+      "id": "EPM-01",
+      "title": "发言人就美方希望EP－3飞机能够从海南岛飞回美国发表谈话",
+      "creator": "PRC Ministry of Foreign Affairs",
+      "publication_or_cable_date": "2001-05-08",
+      "url": "https://www.fmprc.gov.cn/web/gjhdq_676201/gj_676203/bmz_679954/1206_680528/fyrygth_680536/200105/t20010508_9361193.shtml",
+      "source_type": "Contemporary official spokesperson question and answer",
+      "reading_scope": "Complete short substantive question and answer; navigation excluded.",
+      "key_locators": "Single question about Rumsfeld’s reported hope for flyout, followed by complete answer; site timestamp 17:05.",
+      "interpretation_limits": "Public refusal and public claim of previous notification in talks, not an internal instruction or a record of every subsequent exchange.",
+      "captures": [
+        {
+          "path": "/Users/jorsc/.codex/.chatgpt-projects/g-p-6a94dd290a988191911d85ae8fe94a6c/tmp/pdfs/research-2026-09-16/ep3-may/mfa-20010508.html",
+          "role": "Complete retrieved HTML",
+          "sha256": "a4b6cc842a4cfc52e95e9ba50270b5f84adc78f8c0c30926d1d35c3a5e4748e5",
+          "bytes": 58889,
+          "outside_git": true
+        },
+        {
+          "path": "/Users/jorsc/.codex/.chatgpt-projects/g-p-6a94dd290a988191911d85ae8fe94a6c/tmp/pdfs/research-2026-09-16/ep3-may/mfa-20010508.txt",
+          "role": "Local text extraction",
+          "sha256": "bf061c797473852b7ff8c6e2888bf24b3c6add94637ab8414bee960dea94b8fb",
+          "bytes": 6441,
+          "outside_git": true
+        }
+      ],
+      "acquired_date": "2026-09-16"
+    },
+    {
+      "id": "EPM-02",
+      "title": "Press Briefing by Ari Fleischer, May 8, 2001",
+      "creator": "White House",
+      "publication_or_cable_date": "2001-05-08",
+      "url": "https://georgewbush-whitehouse.archives.gov/news/briefings/20010508.html",
+      "source_type": "Contemporary official briefing",
+      "reading_scope": "Selected complete EP-3 and surveillance-flight exchanges, not the whole briefing.",
+      "key_locators": "Local extraction lines 375–412 and 834–840: return question and possible fighter escorts; resumed surveillance question.",
+      "interpretation_limits": "States American preference and continuing talks, conditional on airworthiness; does not establish Chinese permission. Declining to discuss military operations is not confirmation of the question’s premise.",
+      "captures": [
+        {
+          "path": "/Users/jorsc/.codex/.chatgpt-projects/g-p-6a94dd290a988191911d85ae8fe94a6c/tmp/pdfs/research-2026-09-16/ep3-may/whitehouse-20010508.html",
+          "role": "Complete retrieved HTML",
+          "sha256": "66bdd1747dab19cb8ca4eb22faf7307858a779255ea8fb41d4ead22cafa2d444",
+          "bytes": 68918,
+          "outside_git": true
+        },
+        {
+          "path": "/Users/jorsc/.codex/.chatgpt-projects/g-p-6a94dd290a988191911d85ae8fe94a6c/tmp/pdfs/research-2026-09-16/ep3-may/whitehouse-20010508.txt",
+          "role": "Local text extraction",
+          "sha256": "453370e4c1efebd519099409908c47c69eb0dfc618c4fb42ab2eac26de6d4708",
+          "bytes": 37945,
+          "outside_git": true
+        }
+      ],
+      "acquired_date": "2026-09-16"
+    },
+    {
+      "id": "EPM-03",
+      "title": "唐家璇新书 披露中美撞机事件幕后",
+      "creator": "Tang Jiaxuan; excerpt published by Hainan Daily",
+      "publication_or_cable_date": "2009-12-21",
+      "url": "https://news.hndaily.cn/html/2009-12/21/content_28_1.htm",
+      "source_type": "Retrospective participant memoir excerpt",
+      "reading_scope": "Entire published newspaper excerpt and editorial framing read, not the complete book or chapter.",
+      "key_locators": "Hainan Daily page 028, 海南周刊·悦读; section “大卸八块”EP-3, first six paragraphs. Book identified as 劲雨煦风, World Affairs Press, November 2009.",
+      "interpretation_limits": "Tang’s later explanation of the May 10 refusal; no contemporary approval document. Earlier April cables and May 8 statement prevent treating that date as the first refusal. The excerpt’s operational dates were read but are not independently verified here.",
+      "captures": [
+        {
+          "path": "/Users/jorsc/.codex/.chatgpt-projects/g-p-6a94dd290a988191911d85ae8fe94a6c/tmp/pdfs/research-2026-09-16/ep3-may/tang-20091221.html",
+          "role": "Complete retrieved newspaper HTML",
+          "sha256": "4a40a2093f5b6427d00a07e44ebf7a5d272d433db06295be56cdb548207e56e1",
+          "bytes": 61252,
+          "outside_git": true
+        },
+        {
+          "path": "/Users/jorsc/.codex/.chatgpt-projects/g-p-6a94dd290a988191911d85ae8fe94a6c/tmp/pdfs/research-2026-09-16/ep3-may/tang-20091221.txt",
+          "role": "Local text extraction",
+          "sha256": "582c788be42e102cd11822c0c3f13d6efefd0d715100b58fb5d99149020d8461",
+          "bytes": 8351,
+          "outside_git": true
+        }
+      ],
+      "acquired_date": "2026-09-16"
+    },
+    {
+      "id": "EPM-04",
+      "title": "EP-3: DAI BINGGUO AND THE AMBASSADOR DISCUSS RELATIONS",
+      "creator": "US Embassy Beijing",
+      "publication_or_cable_date": "2001-04-27",
+      "url": "https://foia.state.gov/DOCUMENTS/MaySept2015/F-2010-07070/DOC_0C17665629/C17665629.pdf",
+      "source_type": "Officially released contemporary diplomatic cable",
+      "reading_scope": "Complete nine-page cable, all 16 paragraphs, headings and signoff read. Physical page 3 visually inspected.",
+      "key_locators": "2001BEIJING03999; event April 26. Paragraph 4, physical p.3: personal capacity and not a player; paragraphs 1 and 16, physical pp.1–2 and 9: embassy inference about Jiang and hoped transmission.",
+      "interpretation_limits": "Reported Chinese speech, not a Chinese instruction. Embassy assessment of access to Jiang is distinguished from Dai’s stated personal capacity. No aircraft-removal terms or flyout permission.",
+      "captures": [
+        {
+          "path": "/Users/jorsc/.codex/.chatgpt-projects/g-p-6a94dd290a988191911d85ae8fe94a6c/tmp/pdfs/research-2026-09-16/ep3-may/C17665629.pdf",
+          "role": "Official released PDF",
+          "sha256": "8ff33cb121f757dbeb1976fe8925fcbb5f1f015502f794f0492df6a9bc47e7f1",
+          "bytes": 61096,
+          "outside_git": true
+        },
+        {
+          "path": "/Users/jorsc/.codex/.chatgpt-projects/g-p-6a94dd290a988191911d85ae8fe94a6c/tmp/pdfs/research-2026-09-16/ep3-may/C17665629.txt",
+          "role": "Complete layout-preserving text extraction",
+          "sha256": "8a4fc7e710abb12ca5b2be5469dea2d8ef15007ec896f1e2db276c535ef79d2f",
+          "bytes": 17160,
+          "outside_git": true
+        },
+        {
+          "path": "/Users/jorsc/.codex/.chatgpt-projects/g-p-6a94dd290a988191911d85ae8fe94a6c/tmp/pdfs/research-2026-09-16/ep3-may/C17665629-3.png",
+          "role": "Physical page 3 visually checked",
+          "sha256": "3a2207a1380222b2676f180de0021ee0acc4bd4a35e6777e6857de6cf635e551",
+          "bytes": 72034,
+          "outside_git": true
+        }
+      ],
+      "acquired_date": "2026-09-16",
+      "document_id": "C17665629",
+      "cable_number": "2001BEIJING03999",
+      "event_date": "2001-04-26",
+      "physical_pdf_pages": 9,
+      "release_status": "Released in full; State FOIA case F-2010-07070; release-review stamp April 21, 2015; historical classification markings reproduced in a publicly released UNCLASSIFIED facsimile."
+    },
+    {
+      "id": "EPM-05",
+      "title": "VPM QIAN QICHEN ON EP-3 AND BILATERAL RELATIONS",
+      "creator": "US Embassy Beijing",
+      "publication_or_cable_date": "2001-04-30",
+      "url": "https://foia.state.gov/DOCUMENTS/MaySept2015/F-2010-07070/DOC_0C17665631/C17665631.pdf",
+      "source_type": "Officially released contemporary diplomatic cable",
+      "reading_scope": "Complete five-page cable, all 11 paragraphs, headings and signoff read. Physical page 2 visually inspected.",
+      "key_locators": "2001BEIJING04087; paragraphs 3–4, physical p.2: April 28 farewell dinner, speedy return and assessment-team hopes. Paragraph 5, physical pp.2–3: Qian’s retrospective explanation of leadership notification and phone contacts.",
+      "interpretation_limits": "Qian’s expectation of return is not flyout permission. Paragraph 4 editorial note calls April 30 the next day, inconsistent with the meeting’s April 28 date in paragraphs 1 and 3; preserve the discrepancy. Embassy interpretation of motives and communications is not established internal history.",
+      "captures": [
+        {
+          "path": "/Users/jorsc/.codex/.chatgpt-projects/g-p-6a94dd290a988191911d85ae8fe94a6c/tmp/pdfs/research-2026-09-16/ep3-may/C17665631.pdf",
+          "role": "Official released PDF",
+          "sha256": "72f99a773576bb57363e360f384753246a9104ca1f1a4b070a81ad2770c00468",
+          "bytes": 34059,
+          "outside_git": true
+        },
+        {
+          "path": "/Users/jorsc/.codex/.chatgpt-projects/g-p-6a94dd290a988191911d85ae8fe94a6c/tmp/pdfs/research-2026-09-16/ep3-may/C17665631.txt",
+          "role": "Complete layout-preserving text extraction",
+          "sha256": "2cad664a1bd3163cc9bb18a989da50c0caa42c5f610b2b4d4855198492bbe548",
+          "bytes": 9027,
+          "outside_git": true
+        },
+        {
+          "path": "/Users/jorsc/.codex/.chatgpt-projects/g-p-6a94dd290a988191911d85ae8fe94a6c/tmp/pdfs/research-2026-09-16/ep3-may/C17665631-2.png",
+          "role": "Physical page 2 visually checked",
+          "sha256": "0111ab8d5f8956c8f19330b04a38324d9dc98dda0ae40265067734656fc4784c",
+          "bytes": 87618,
+          "outside_git": true
+        }
+      ],
+      "acquired_date": "2026-09-16",
+      "document_id": "C17665631",
+      "cable_number": "2001BEIJING04087",
+      "event_date": "2001-04-28",
+      "physical_pdf_pages": 5,
+      "release_status": "Released in full; State FOIA case F-2010-07070; release-review stamp April 21, 2015; historical classification markings reproduced in a publicly released UNCLASSIFIED facsimile."
+    },
+    {
+      "id": "EPM-06",
+      "title": "Secretary of State Powell’s Interview on CNN",
+      "creator": "Colin Powell, interviewed by Andrea Koppel; US State Department transcript reproduced by USINFO",
+      "publication_or_cable_date": "2001-05-14",
+      "url": "https://usinfo.org/usia/usinfo.state.gov/topical/pol/arms/stories/01051466.htm",
+      "source_type": "Contemporary official interview transcript on nongovernmental historical mirror",
+      "reading_scope": "Both complete aircraft-return exchanges and adjacent Taiwan/Cabinet-relations exchanges read; whole interview not counted as read. Also checked corresponding CNN original transcript at lines 146–174.",
+      "key_locators": "Questions beginning “Are we going to get the plane back?” and “On China, with the spy plane”; Powell’s answers about ongoing negotiations.",
+      "interpretation_limits": "Koppel’s account of Chinese officials’ position is a reporter’s premise. Powell forecasts resolution, supplies no agreed return method and does not authenticate a prior flyout offer.",
+      "captures": [
+        {
+          "path": "/Users/jorsc/.codex/.chatgpt-projects/g-p-6a94dd290a988191911d85ae8fe94a6c/tmp/pdfs/research-2026-09-16/ep3-may/powell-cnn-20010514-usinfo.html",
+          "role": "Complete historical-mirror HTML",
+          "sha256": "a7465ba10826c6a5adea593c1871db0f408243d930ca4809b9e0813d8ebca71b",
+          "bytes": 32408,
+          "outside_git": true
+        },
+        {
+          "path": "/Users/jorsc/.codex/.chatgpt-projects/g-p-6a94dd290a988191911d85ae8fe94a6c/tmp/pdfs/research-2026-09-16/ep3-may/powell-cnn-20010514-usinfo.txt",
+          "role": "Local text extraction",
+          "sha256": "e2a788ae91f6a6937e3aef7027ec062017563d593a896e5a0e0a9761e1098101",
+          "bytes": 27317,
+          "outside_git": true
+        }
+      ],
+      "acquired_date": "2026-09-16",
+      "corresponding_original_urls": [
+        "https://2001-2009.state.gov/secretary/former/powell/remarks/2001/2864.htm",
+        "https://transcripts.cnn.com/show/se/date/2001-05-14/segment/01"
+      ]
+    },
+    {
+      "id": "EPM-07",
+      "title": "孙玉玺：中美就拆运EP-3达成协议，撞机事件基本解决",
+      "creator": "China Daily website; credited 小凤、杜莉; reproduced by Sina",
+      "publication_or_cable_date": "2001-06-07",
+      "url": "https://news.sina.com.cn/w/272038.html",
+      "source_type": "Contemporary reporting of official spokesperson remarks",
+      "reading_scope": "Complete short article read in valid retrieved HTML and extracted text.",
+      "key_locators": "Timestamp June 7, 16:12; first four body paragraphs on announced technical arrangements, team travel and undisclosed details; final paragraph summarizes May agreement in principle.",
+      "interpretation_limits": "A report of Sun Yuxi’s announcement, not the agreement text or a complete briefing transcript. Headline’s “basically solved” must not replace the body’s prospective language. Does not identify signatories or prove execution.",
+      "captures": [
+        {
+          "path": "/Users/jorsc/.codex/.chatgpt-projects/g-p-6a94dd290a988191911d85ae8fe94a6c/tmp/pdfs/research-2026-09-16/ep3-may/chinadaily-20010607-sina.html",
+          "role": "Complete retrieved Sina reproduction of China Daily report",
+          "sha256": "3375a16c2ea8106dd3d52f8eb54817cfd2886b934e8d608c2661a81bbe8748c1",
+          "bytes": 32335,
+          "outside_git": true
+        },
+        {
+          "path": "/Users/jorsc/.codex/.chatgpt-projects/g-p-6a94dd290a988191911d85ae8fe94a6c/tmp/pdfs/research-2026-09-16/ep3-may/chinadaily-20010607-sina.txt",
+          "role": "Local text extraction",
+          "sha256": "04bf5763825e72c794d8883b00e83de1d9480eaac85ab0c05b0a8f5b995032f1",
+          "bytes": 2852,
+          "outside_git": true
+        }
+      ],
+      "acquired_date": "2026-09-16"
+    },
+    {
+      "id": "EPM-08",
+      "title": "Transcript: Pentagon Spokesman’s Briefing, June 7, 2001",
+      "creator": "US Department of Defense; Craig Quigley; State Washington File reproduction",
+      "publication_or_cable_date": "2001-06-07",
+      "url": "https://usinfo.org/wf-archive/2001/010607/epf403.htm",
+      "source_type": "Existing contemporary official source; improved capture of historical mirror",
+      "reading_scope": "Entire contiguous EP-3 section reread, from first aircraft-return question through final return-to-service answer before “New subject”; unrelated remainder not systematically read.",
+      "key_locators": "Browser lines 24–91; first long answer on runway engineer, loading and conditional crew flow; later local support, communications, bidding and airworthiness answers.",
+      "interpretation_limits": "Already EP311 in ep3-2001-access-register.json: no new-source or new complete-document count. New valid full HTML supersedes the earlier acquisition limitation for this capture only. Announced arrangements and estimates are not a signed instrument or completed removal.",
+      "captures": [
+        {
+          "path": "/Users/jorsc/.codex/.chatgpt-projects/g-p-6a94dd290a988191911d85ae8fe94a6c/tmp/pdfs/research-2026-09-16/ep3-may/usinfo-20010607.html",
+          "role": "New successful complete mirror HTML capture",
+          "sha256": "dd1703092c96987b54d7d856919d0666db3df49ecde75429c7581788b5ea24ba",
+          "bytes": 33561,
+          "outside_git": true
+        },
+        {
+          "path": "/Users/jorsc/.codex/.chatgpt-projects/g-p-6a94dd290a988191911d85ae8fe94a6c/tmp/pdfs/research-2026-09-16/ep3-may/usinfo-20010607.txt",
+          "role": "Local text extraction",
+          "sha256": "c3b9a710f35be5e3364a7d0299a9f1bf39bb4f835143cf0fbedab8392a92364e",
+          "bytes": 31755,
+          "outside_git": true
+        }
+      ],
+      "acquired_date": "2026-09-16",
+      "existing_source_id": "EP311"
+    },
+    {
+      "id": "EPM-09",
+      "title": "Daily Press Briefing, 2001-05-24",
+      "creator": "US Department of State; Phillip T. Reeker",
+      "publication_or_cable_date": "2001-05-24",
+      "url": "https://2001-2009.state.gov/r/pa/prs/dpb/2001/3061.htm",
+      "source_type": "Indexed primary-text retrieval only; live acquisition failed",
+      "reading_scope": "Relevant extended indexed transcript passage read; not an intact original-page acquisition or a complete briefing reading.",
+      "key_locators": "Extended continuous China exchange: conditional willingness to disassemble, continued flyout preference and denial of concluded agreement.",
+      "interpretation_limits": "Live HTTP 200 bodies contain a technical-difficulty page. Preserve indexed retrieval separately; exclude from seven newly acquired aircraft sources. Useful corroborating lead, not the sole basis of proposed narrative insert.",
+      "captures": [
+        {
+          "path": "/Users/jorsc/.codex/.chatgpt-projects/g-p-6a94dd290a988191911d85ae8fe94a6c/tmp/pdfs/research-2026-09-16/ep3-may/state-indexed-transcripts-search.json",
+          "role": "Preserved tool result containing extended indexed transcript passages",
+          "sha256": "26bb190583d4f71a0c246c6f8b1c5da7211dea0685db93aeb43225b4502206d2",
+          "bytes": 37371,
+          "outside_git": true
+        },
+        {
+          "path": "/Users/jorsc/.codex/.chatgpt-projects/g-p-6a94dd290a988191911d85ae8fe94a6c/tmp/pdfs/research-2026-09-16/ep3-may/state-20010524.html",
+          "role": "Failed live capture: technical-difficulty HTML, not briefing",
+          "sha256": "359e3b8b6b844d69fa29bd39c40f970af1586af0500dcda1f98a302721eafe1d",
+          "bytes": 188865,
+          "outside_git": true
+        }
+      ],
+      "acquired_date": "2026-09-16"
+    },
+    {
+      "id": "EPM-10",
+      "title": "Daily Press Briefing, 2001-05-29",
+      "creator": "US Department of State; Phillip T. Reeker",
+      "publication_or_cable_date": "2001-05-29",
+      "url": "https://2001-2009.state.gov/r/pa/prs/dpb/2001/3129.htm",
+      "source_type": "Indexed primary-text retrieval only; live acquisition failed",
+      "reading_scope": "Relevant extended indexed transcript passage read; not an intact original-page acquisition or a complete briefing reading.",
+      "key_locators": "China exchange from agreement-status question through Reeker’s An-124 answer, before separate Inchon question: agreement in principle, unresolved technical issues.",
+      "interpretation_limits": "Live HTTP 200 bodies contain a technical-difficulty page. Preserve indexed retrieval separately; exclude from seven newly acquired aircraft sources. Useful corroborating lead, not the sole basis of proposed narrative insert.",
+      "captures": [
+        {
+          "path": "/Users/jorsc/.codex/.chatgpt-projects/g-p-6a94dd290a988191911d85ae8fe94a6c/tmp/pdfs/research-2026-09-16/ep3-may/state-indexed-transcripts-search.json",
+          "role": "Preserved tool result containing extended indexed transcript passages",
+          "sha256": "26bb190583d4f71a0c246c6f8b1c5da7211dea0685db93aeb43225b4502206d2",
+          "bytes": 37371,
+          "outside_git": true
+        },
+        {
+          "path": "/Users/jorsc/.codex/.chatgpt-projects/g-p-6a94dd290a988191911d85ae8fe94a6c/tmp/pdfs/research-2026-09-16/ep3-may/state-20010529.html",
+          "role": "Failed live capture: technical-difficulty HTML, not briefing",
+          "sha256": "359e3b8b6b844d69fa29bd39c40f970af1586af0500dcda1f98a302721eafe1d",
+          "bytes": 188865,
+          "outside_git": true
+        }
+      ],
+      "acquired_date": "2026-09-16"
+    },
+    {
+      "id": "EPM-AUX01",
+      "title": "Remarks by the President upon the return of the crew",
+      "creator": "White House; President George W. Bush",
+      "publication_date": "2001-04-12",
+      "url": "https://georgewbush-whitehouse.archives.gov/news/releases/2001/04/20010412-6.html",
+      "source_type": "Auxiliary contemporary official presidential statement, outside aircraft-negotiation count",
+      "reading_scope": "Parent /root reports complete reading of remarks at browser lines 155–177; this subagent registers that reading and verifies the saved file/hash, without claiming an additional independent full reading.",
+      "evidence": "All 24 crew members back in America by April 12; public maintenance of the legality of US flight.",
+      "interpretation_limits": "Does not establish Chinese internal decision making or release procedures. No verbatim quotation planned.",
+      "captures": [
+        {
+          "path": "/Users/jorsc/.codex/.chatgpt-projects/g-p-6a94dd290a988191911d85ae8fe94a6c/tmp/pdfs/research-2026-09-16/ep3-return/bush-return-20010412.html",
+          "sha256": "818bf32452c0bc3b8981223fac4eee5b19c7ba71dec9c1b7c0f771f1bf60fabd",
+          "bytes": 20820,
+          "role": "Complete HTML acquired by parent",
+          "outside_git": true
+        }
+      ],
+      "registered_date": "2026-09-16"
+    }
+  ],
+  "search_and_acquisition_limits": [
+    {
+      "target": "State case F-2010-07070",
+      "result": "All 46 catalogue records’ titles and dates inspected across existing first page and pages 2–3. All dated April 2001; the collection cannot itself fill the May gap. Two additional relevant April originals acquired and fully read here.",
+      "existing_inventory_paths": [
+        "/Users/jorsc/.codex/.chatgpt-projects/g-p-6a94dd290a988191911d85ae8fe94a6c/tmp/pdfs/research-2026-09-16/ep3-approval/state-case-results-full.json",
+        "/Users/jorsc/.codex/.chatgpt-projects/g-p-6a94dd290a988191911d85ae8fe94a6c/tmp/pdfs/research-2026-09-16/ep3-approval/state-case-page2.json",
+        "/Users/jorsc/.codex/.chatgpt-projects/g-p-6a94dd290a988191911d85ae8fe94a6c/tmp/pdfs/research-2026-09-16/ep3-approval/state-case-page3.json"
+      ]
+    },
+    {
+      "target": "State public reading room May 1–June 30, 2001",
+      "result": "Initial incomplete request failed; request with wrong date format produced irrelevant results. Corrected YYYYMMDD date query returned 153 results, but keyword filtering was not reliable and only the first returned page was inspected. Adding docFrom=BEIJING returned one June 25 cable, C05336047, on Kelly and Chinese AFM; catalogue only, underlying text not acquired. No claim of exhaustive archive search or zero May records.",
+      "captures": [
+        {
+          "path": "/Users/jorsc/.codex/.chatgpt-projects/g-p-6a94dd290a988191911d85ae8fe94a6c/tmp/pdfs/research-2026-09-16/ep3-may/state-query-corrected.json",
+          "role": "Date-filtered public catalogue response",
+          "sha256": "a1acd8627f6e72dc8b2313ae4c97f11fa3f141bd2d44d0d2a62e3a275d3dc4d9",
+          "bytes": 11834,
+          "outside_git": true
+        },
+        {
+          "path": "/Users/jorsc/.codex/.chatgpt-projects/g-p-6a94dd290a988191911d85ae8fe94a6c/tmp/pdfs/research-2026-09-16/ep3-may/state-query-beijing.json",
+          "role": "Date- and origin-filtered public catalogue response",
+          "sha256": "aed81145ddb1916f090c0fa4efa84097f9bc4866e75720168171223781888b30",
+          "bytes": 671,
+          "outside_git": true
+        },
+        {
+          "path": "/Users/jorsc/.codex/.chatgpt-projects/g-p-6a94dd290a988191911d85ae8fe94a6c/tmp/pdfs/research-2026-09-16/ep3-may/state-query-corrected.cfg",
+          "role": "Exact query configuration",
+          "sha256": "4f9a7127bf31f3c7776a4770eb022bea5796182a87457765ce01e1d573e2bebb",
+          "bytes": 490,
+          "outside_git": true
+        },
+        {
+          "path": "/Users/jorsc/.codex/.chatgpt-projects/g-p-6a94dd290a988191911d85ae8fe94a6c/tmp/pdfs/research-2026-09-16/ep3-may/state-query-beijing.cfg",
+          "role": "Exact narrowed query configuration",
+          "sha256": "547acb27937382735adeee2503e531171998ec428a7e2e54725dc7deeea1ce45",
+          "bytes": 487,
+          "outside_git": true
+        }
+      ]
+    },
+    {
+      "target": "May 29/June 7 agreed instrument and earlier flyout permission",
+      "result": "No signed agreement, verbatim negotiated technical protocol, dated Chinese flyout authorization or later US revocation instruction acquired. Public announcements and estimates are not substitutes."
+    },
+    {
+      "target": "Contemporary Chinese/US reproductions",
+      "result": "Targeted web queries of official MFA and State records, China Daily/Sina, People’s Daily/CCTV indexes and USINFO/CNN transcripts. People’s Daily relevant index links are now # placeholders. CCTV index yields later operational reports, not the missing agreement. CNN May 8 segment is a partial briefing broadcast and does not preserve Rumsfeld’s aircraft answer; not used as that answer.",
+      "captures": [
+        {
+          "path": "/Users/jorsc/.codex/.chatgpt-projects/g-p-6a94dd290a988191911d85ae8fe94a6c/tmp/pdfs/research-2026-09-16/ep3-may/people-index.html",
+          "role": "Index only; relevant links placeholders",
+          "sha256": "0de6e8f04f3e0c3fa93503510307e9f489147e39f876a6b81ecc6f042079e780",
+          "bytes": 30811,
+          "outside_git": true
+        },
+        {
+          "path": "/Users/jorsc/.codex/.chatgpt-projects/g-p-6a94dd290a988191911d85ae8fe94a6c/tmp/pdfs/research-2026-09-16/ep3-may/cctv-index.html",
+          "role": "Index only; not underlying articles",
+          "sha256": "4162a5ce2c340bd4fc8964d2d2ebd5bf6ec0ca4e00500ea900abffbfcfad75f8",
+          "bytes": 35943,
+          "outside_git": true
+        },
+        {
+          "path": "/Users/jorsc/.codex/.chatgpt-projects/g-p-6a94dd290a988191911d85ae8fe94a6c/tmp/pdfs/research-2026-09-16/ep3-may/rumsfeld-cnn-20010508.html",
+          "role": "Partial broadcast transcript; not complete Rumsfeld briefing",
+          "sha256": "cd94ec0b9ffaa2227968b4fb7b2e3e1f0bd9ccee3adc67d60fa7ea7354197290",
+          "bytes": 9802,
+          "outside_git": true
+        }
+      ]
+    }
+  ]
+}

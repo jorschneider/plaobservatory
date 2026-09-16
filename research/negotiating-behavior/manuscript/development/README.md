@@ -1,5 +1,7 @@
 # Developing the manuscript for publication
 
+**Latest September 16 synthesis:** [integration checkpoint](historical-synthesis-integration-2026-09-16.md); [continuous reading at b7eadd4](continuous-reading-b7eadd4.md); [claims instrument follow-up](claims-missing-instruments-followup.md); [May aircraft follow-up](ep3-may-aircraft-followup.md). New records deepen the specific exchanges; revisions distinguish historical continuity from institutional change and frame practical judgment around the risk an official can reasonably accept.
+
 **September 16 archival revision:** [integration checkpoint](archival-and-narrative-integration-2026-09-16.md); [EP-3 drafting cables](ep3-drafting-cables.md); [1974–75 claims follow-up](claims-1974-archive-followup.md); [complete Jost reading](../../literature/readings/jost-crisis-institutions.md); [continuous book review](continuous-reading-66ffce8.md); [applied Chapter 3/6 revision](chapters-03-06-reader-edit-2026-09-16.md). The new contemporary record changes what can be reconstructed without supplying complete Chinese internal deliberations.
 
 **Active objective, 15 September 2026:** develop compelling, deeply researched nonfiction with Solomon’s explanatory clarity and practical value for someone negotiating with the Chinese government today. The complete first research draft supplies the material. Publication quality remains the standard to work toward.
@@ -50,6 +52,8 @@ The central research discipline remains unchanged: identify who sought which dec
 - [Participant and literary integration checkpoint](participant-and-literary-integration-2026-09-15.md): revisions, source limits and applied follow-up corrections.
 
 ## Work still required
+
+The continuous review at `b7eadd4` and its bounded follow-ups supersede the earlier requests below for the next whole-book reading. Its principal recommendations have been applied. A [new sequential reading of all nine integrated bodies](continuous-reading-integrated-2026-09-16.md) is complete; its one translation correction was applied and checked. The latest checkpoint identifies the exact scope of the intervening passage reviews. Missing instruments and decision records remain research gaps, not adverse findings against either government.
 
 The [continuous-reading priorities](next-development-priorities.md) identify why Chapters 1, 3, 4 and 7 needed further development. Those four chapters now have substantive replacements. Chapter 7 follows India’s disputed threshold for wider cooperation, the recovered Russian border permit rules and renewal, and domestic costs in gas bargaining. The [continuous whole-book reading](continuous-reading-2026-09-15.md) identifies the next problems: a sharper historical argument, less repeated exposition and advice framed around feasible decisions under incomplete information. Several have now received revisions; the new whole has not thereby passed a final literary review. Specific missing annexes, drafts and decision records remain research targets rather than invitations to fill a scene by inference.
 

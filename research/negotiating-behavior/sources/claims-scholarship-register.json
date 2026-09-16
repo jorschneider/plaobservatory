@@ -1,0 +1,333 @@
+{
+  "research_date": "2026-09-16",
+  "memo": "../literature/readings/mao-claims-and-burr-access.md",
+  "source_count": 4,
+  "raw_capture_directory": "/Users/jorsc/.codex/.chatgpt-projects/g-p-6a94dd290a988191911d85ae8fe94a6c/tmp/pdfs/research-2026-09-16/claims-scholarship",
+  "sources": [
+    {
+      "id": "CLA-S01",
+      "author": "毛瑞鹏 (Mao Ruipeng)",
+      "title": "关系正常化前夕的中美资产要求问题谈判",
+      "journal": "美国研究",
+      "publication_year": 2012,
+      "issue": "1",
+      "printed_pages": null,
+      "doi": null,
+      "metadata_limit": "Journal HTML confirms title, author, year and issue but has no printed pagination or DOI. These remain unverified. CASS repost date is not publication date.",
+      "url": "http://www.mgyj.com/american_studies/2012/first/first06.htm",
+      "read_url": "https://web.archive.org/web/20171228013502id_/http://www.mgyj.com/american_studies/2012/first/first06.htm",
+      "archive_capture_timestamp": "20171228013502",
+      "alternate_official_url": "https://ias.cssn.cn/cbw/mgyjjj/2012/dyq_118963/201506/t20150616_2687600.shtml",
+      "source_type": "Scholarly historical article; archived journal HTML",
+      "full_read": true,
+      "read_on": "2026-09-16",
+      "read_scope": "Complete journal HTML text: title, author, abstract, introduction, sections I–III, conclusion, author/editor identification and all 48 inline 注 annotations including funding acknowledgment. No images, tables or figures occur in acquired HTML. Print PDF and CASS full-text comparison unavailable. Raw encoding gb_2312-80 decoded using compatible gb18030.",
+      "artifacts": [
+        {
+          "path": "/Users/jorsc/.codex/.chatgpt-projects/g-p-6a94dd290a988191911d85ae8fe94a6c/tmp/pdfs/research-2026-09-16/claims-scholarship/mao-journal-archive.html",
+          "bytes": 46214,
+          "sha256": "a002ab8b4d93d1b219ff6d689bb2b04b1b8543aae1f58d65c3b55c66a55b2385",
+          "role": "Unmodified archived journal HTML bytes"
+        },
+        {
+          "path": "/Users/jorsc/.codex/.chatgpt-projects/g-p-6a94dd290a988191911d85ae8fe94a6c/tmp/pdfs/research-2026-09-16/claims-scholarship/mao-journal-archive.txt",
+          "bytes": 47074,
+          "sha256": "b0c2a522304f4b0f4947fe6bda4139fc9242ad218169fb34acc31fca1847c1a6",
+          "role": "Derived UTF-8 readable text; original inline annotations retained; includes leading CSS text"
+        }
+      ],
+      "locators": {
+        "normalization_argument": "Abstract; section III, July 3 and August 4 memorandum discussions; conclusion, final paragraph",
+        "march_statement_discrepancy": "Section II, paragraph beginning 在3月21日的谈判中",
+        "december_instrument_lead": "Section III, paragraph beginning 1973年12月22日: Bruce diary p.391",
+        "june_instrument_lead": "Section III, paragraph beginning 1974年6月14日: Huang Zhen biography p.631"
+      },
+      "limitations": [
+        "Predominantly American documentary evidence; no new project access to Chinese internal instructions.",
+        "Description of March 21 statement affirmatively includes old bonds; contemporary CLA-I04 quotes their exclusion. Possible missing negative in HTML not silently repaired.",
+        "Cited Bruce diary, Huang Zhen biography and DNSA CH00271 not newly acquired here.",
+        "Rival causal argument is attributed; normalization delay not identified as uniquely determining withdrawal."
+      ],
+      "independence": "Overlapping FRUS and released State records; Chinese authorship does not supply an independent Chinese internal witness."
+    },
+    {
+      "id": "CLA-S02",
+      "author": "Priscilla Roberts",
+      "title": "Review of William Burr, “Casting a Shadow” Over Trade: The Problem of Private Claims and Blocked Assets in U.S.-China Relations, 1972–1975",
+      "publication": "H-Diplo Article Review 226",
+      "publication_date": "2009-05-03",
+      "printed_pages": "1–7",
+      "url": "https://issforum.org/reviews/PDF/AR226.pdf",
+      "original_url_printed_in_review": "http://www.h-net.org/~diplo/reviews/PDF/AR226.pdf",
+      "source_type": "Scholarly article review, classified separately from complete research-article count",
+      "full_read": true,
+      "read_on": "2026-09-16",
+      "physical_pdf_pages": 7,
+      "read_scope": "All seven pages, complete substantive body, seven footnotes, author note and copyright footer read in PDF text extraction. Page 1 visually inspected; no table or figure. This is not full reading of the reviewed Burr article.",
+      "artifacts": [
+        {
+          "path": "/Users/jorsc/.codex/.chatgpt-projects/g-p-6a94dd290a988191911d85ae8fe94a6c/tmp/pdfs/research-2026-09-16/claims-scholarship/roberts-hdiplo.pdf",
+          "bytes": 304090,
+          "sha256": "c3bdf4b4e6c9eb9ef1e2a050644693b3c640d0043448f0655ec30decfc3cb05c",
+          "role": "Original downloaded review PDF"
+        },
+        {
+          "path": "/Users/jorsc/.codex/.chatgpt-projects/g-p-6a94dd290a988191911d85ae8fe94a6c/tmp/pdfs/research-2026-09-16/claims-scholarship/roberts-hdiplo.txt",
+          "bytes": 24138,
+          "sha256": "94c952db617207c8f34ff6528724126f57266aee7db2d84c436e5cdf5ae75ec6",
+          "role": "Complete layout text extraction"
+        },
+        {
+          "path": "/Users/jorsc/.codex/.chatgpt-projects/g-p-6a94dd290a988191911d85ae8fe94a6c/tmp/pdfs/research-2026-09-16/claims-scholarship/roberts-p1.png",
+          "bytes": 395356,
+          "sha256": "eceeb0f7349aa0c7b2f18f97f829d85d307dd0c13487cebac057666bd0114627",
+          "role": "Visual check of title, author, date, first page"
+        }
+      ],
+      "locators": {
+        "documentary_limit": "p.4",
+        "normalization_and_other_explanations": "pp.5–6",
+        "criticism_of_public_opinion_explanation": "p.6",
+        "future_research_and_1979_coda": "pp.6–7"
+      },
+      "limitations": [
+        "Burr arguments are available here only as Roberts characterizes them.",
+        "Lin personality attribution and causal assertions are interpretive, not new private records.",
+        "1979 discussion extends beyond Burr article period and was not independently reconstructed in this pass."
+      ]
+    },
+    {
+      "id": "CLA-S03",
+      "author": "William Burr",
+      "title": "“Casting a Shadow” Over Trade: The Problem of Private Claims and Blocked Assets in U.S.-China Relations, 1972–1975",
+      "journal": "Diplomatic History",
+      "volume": 33,
+      "issue": 2,
+      "printed_pages": "315–349",
+      "publication_date": "2009-04",
+      "online_publication_date": "2009-03-02",
+      "online_date_source": "Oxford publisher page inspected through browser; Crossref created date agrees but is not by itself online-publication evidence.",
+      "doi": "10.1111/j.1467-7709.2008.00764.x",
+      "url": "https://academic.oup.com/dh/article-abstract/33/2/315/368371",
+      "publisher_pdf_url": "https://academic.oup.com/dh/article-pdf/33/2/315/1050075/dh-33-315.pdf",
+      "source_type": "Unacquired article; metadata and publisher extract only",
+      "full_read": false,
+      "read_scope": "Publisher metadata/extract, Crossref metadata, OpenAlex access information and ResearchGate availability indication only. Article body and notes not acquired or read. No substantive finding is attributed to Burr from snippets.",
+      "artifacts": [
+        {
+          "path": "/Users/jorsc/.codex/.chatgpt-projects/g-p-6a94dd290a988191911d85ae8fe94a6c/tmp/pdfs/research-2026-09-16/claims-scholarship/burr-crossref.json",
+          "bytes": 1850,
+          "sha256": "49a09920cb351c4708a84f196915541b4142c27353171a9d326bc0fb8c4b6b14",
+          "role": "Crossref bibliographic metadata"
+        },
+        {
+          "path": "/Users/jorsc/.codex/.chatgpt-projects/g-p-6a94dd290a988191911d85ae8fe94a6c/tmp/pdfs/research-2026-09-16/claims-scholarship/burr-openalex.json",
+          "bytes": 11813,
+          "sha256": "95d7992d32993539a29462b3098efcc016cbf5af33e084c1cf7e2b1262e48bdc",
+          "role": "OpenAlex bibliographic/access metadata"
+        }
+      ],
+      "access_status": "Publisher HTML and linked PDF returned HTTP403; OpenAlex reported closed with no repository full text; ResearchGate showed request-full-text. Bounded search found no lawful full copy. This does not prove no copy exists.",
+      "metadata_urls": [
+        "https://api.crossref.org/works/10.1111/j.1467-7709.2008.00764.x",
+        "https://api.openalex.org/works/https://doi.org/10.1111/j.1467-7709.2008.00764.x",
+        "https://www.researchgate.net/publication/229679330_Casting_a_Shadow_Over_Trade_The_Problem_of_Private_Claims_and_Blocked_Assets_in_US-China_Relations_1972-1975"
+      ]
+    },
+    {
+      "id": "CLA-S04",
+      "title": "U.S.–PRC Relations and Approaches to the President’s Peking Trip: Tasks for the Rest of 1975",
+      "authors": [
+        "Philip Habib",
+        "William Gleysteen",
+        "Winston Lord",
+        "Richard H. Solomon"
+      ],
+      "recipient": "Henry Kissinger",
+      "event_date": "1975-07-03",
+      "publication": "Foreign Relations of the United States, 1969–1976, Volume XVIII, China, 1973–1976, document 112",
+      "url": "https://history.state.gov/historicaldocuments/frus1969-76v18/d112",
+      "source_type": "Official published contemporary American options memorandum",
+      "full_read": true,
+      "full_read_object": "Complete published memorandum, not unprinted attachments or every cited source",
+      "read_on": "2026-09-16",
+      "read_scope": "Complete published memorandum and all 21 source/editorial/original notes read sequentially in four overlapping text chunks. 9,849 extracted whitespace words, including header/notes. Tabs A–D attached but unprinted, not acquired. No claim of full archival folder access.",
+      "artifacts": [
+        {
+          "path": "/Users/jorsc/.codex/.chatgpt-projects/g-p-6a94dd290a988191911d85ae8fe94a6c/tmp/pdfs/research-2026-09-16/claims-scholarship/frus18-112.html",
+          "bytes": 148594,
+          "sha256": "a187f9f3f459b3ab174d441c663076daec8fec5cc76a8be9d828dc136353826c",
+          "role": "Unmodified official HTML"
+        },
+        {
+          "path": "/Users/jorsc/.codex/.chatgpt-projects/g-p-6a94dd290a988191911d85ae8fe94a6c/tmp/pdfs/research-2026-09-16/claims-scholarship/frus18-112.txt",
+          "bytes": 62966,
+          "sha256": "01f5300ffb91efc56c84700f8e67f7da5ddef6f9ce6b022c7f9dcbeaab5745b0",
+          "role": "Derived complete published document and all footnotes"
+        }
+      ],
+      "locators": {
+        "claims_linkage_and_limited_exchange": "pp.680–681",
+        "chinese_immediate_preferences_uncertain": "p.680",
+        "conditional_internal_politics": "pp.681–682; note6",
+        "degree_of_flexibility": "p.677",
+        "recommendation": "p.696",
+        "annex_gaps": "notes5,7,9,12"
+      },
+      "limitations": [
+        "American assessments, recommendations and options, not Chinese internal decision record.",
+        "Conditional proposed exchange short of full normalization differs from assertion recognition was a necessary prior condition.",
+        "CAS reporting cited but underlying intelligence not independently acquired."
+      ]
+    }
+  ],
+  "existing_source_crosschecks": [
+    {
+      "source_id": "CLA-I04",
+      "register": "../manuscript/development/claims-missing-instruments-followup-register.json",
+      "read_scope": "Entire reproduced State105075 cable header and four substantive paragraphs reread; March21 statement exclusion checked in paragraph1. Public released-text mirror, not an official-host scan."
+    },
+    {
+      "source_id": "CLA-I03",
+      "register": "../manuscript/development/claims-missing-instruments-followup-register.json",
+      "read_scope": "All four printed briefing pages1–4, PDFphysical3–6, reread in existing extraction. No new scan acquisition or visual recheck in this pass."
+    }
+  ],
+  "access_attempts": [
+    {
+      "name": "mao-cass",
+      "url": "https://ias.cssn.cn/cbw/mgyjjj/2012/dyq_118963/201506/t20150616_2687600.shtml",
+      "accessed_at_utc": "2026-09-16T05:04:35Z",
+      "error": "<urlopen error [Errno 8] nodename nor servname provided, or not known>"
+    },
+    {
+      "name": "burr-publisher",
+      "url": "https://academic.oup.com/dh/article/33/2/315/368371",
+      "accessed_at_utc": "2026-09-16T05:04:35Z",
+      "error": "<urlopen error [Errno 8] nodename nor servname provided, or not known>"
+    },
+    {
+      "name": "burr-openalex",
+      "url": "https://api.openalex.org/works/https://doi.org/10.1111/j.1467-7709.2008.00764.x",
+      "accessed_at_utc": "2026-09-16T05:04:35Z",
+      "error": "<urlopen error [Errno 8] nodename nor servname provided, or not known>"
+    },
+    {
+      "name": "mao-cass",
+      "url": "https://ias.cssn.cn/cbw/mgyjjj/2012/dyq_118963/201506/t20150616_2687600.shtml",
+      "accessed_at_utc": "2026-09-16T05:05:00Z",
+      "error": "<urlopen error timed out>"
+    },
+    {
+      "name": "burr-publisher",
+      "url": "https://academic.oup.com/dh/article/33/2/315/368371",
+      "accessed_at_utc": "2026-09-16T05:05:00Z",
+      "error": "HTTP Error 403: Forbidden"
+    },
+    {
+      "name": "burr-openalex",
+      "url": "https://api.openalex.org/works/https://doi.org/10.1111/j.1467-7709.2008.00764.x",
+      "accessed_at_utc": "2026-09-16T05:05:00Z",
+      "status": 200,
+      "final_url": "https://api.openalex.org/works/https://doi.org/10.1111/j.1467-7709.2008.00764.x",
+      "content_type": "application/json",
+      "bytes": 11813,
+      "path": "tmp/pdfs/research-2026-09-16/claims-scholarship/burr-openalex.json"
+    },
+    {
+      "name": "mao-wayback",
+      "url": "https://archive.org/wayback/available?url=http%3A%2F%2Fias.cssn.cn%2Fcbw%2Fmgyjjj%2F2012%2Fdyq_118963%2F201506%2Ft20150616_2687600.shtml",
+      "accessed_at_utc": "2026-09-16T05:06:09Z",
+      "error": "HTTP Error 429: Too Many Requests"
+    },
+    {
+      "name": "burr-crossref",
+      "url": "https://api.crossref.org/works/10.1111/j.1467-7709.2008.00764.x",
+      "accessed_at_utc": "2026-09-16T05:06:09Z",
+      "status": 200,
+      "final_url": "https://api.crossref.org/works/10.1111/j.1467-7709.2008.00764.x",
+      "content_type": "application/json",
+      "bytes": 1850,
+      "path": "tmp/pdfs/research-2026-09-16/claims-scholarship/burr-crossref.json"
+    },
+    {
+      "name": "mao-cass-http",
+      "url": "http://ias.cssn.cn/cbw/mgyjjj/2012/dyq_118963/201506/t20150616_2687600.shtml",
+      "accessed_at_utc": "2026-09-16T05:06:09Z",
+      "error": "HTTP Error 404: Not Found"
+    },
+    {
+      "name": "roberts-hdiplo",
+      "url": "https://issforum.org/reviews/PDF/AR226.pdf",
+      "accessed_at_utc": "2026-09-16T05:06:09Z",
+      "status": 200,
+      "final_url": "https://issforum.org/reviews/PDF/AR226.pdf",
+      "content_type": "application/pdf",
+      "bytes": 304090,
+      "path": "tmp/pdfs/research-2026-09-16/claims-scholarship/roberts-hdiplo.pdf"
+    },
+    {
+      "name": "mao-journal-archive",
+      "url": "https://web.archive.org/web/20171228013502id_/http://www.mgyj.com/american_studies/2012/first/first06.htm",
+      "accessed_at_utc": "2026-09-16T05:06:53Z",
+      "status": 200,
+      "final_url": "https://web.archive.org/web/20171228013502id_/http://www.mgyj.com/american_studies/2012/first/first06.htm",
+      "content_type": "text/html",
+      "bytes": 46214,
+      "path": "tmp/pdfs/research-2026-09-16/claims-scholarship/mao-journal-archive.html"
+    },
+    {
+      "name": "mao-journal-live",
+      "url": "https://www.mgyj.com/american_studies/2012/first/first06.htm",
+      "accessed_at_utc": "2026-09-16T05:06:53Z",
+      "error": "Remote end closed connection without response"
+    },
+    {
+      "name": "burr-publisher-pdf",
+      "url": "https://academic.oup.com/dh/article-pdf/33/2/315/1050075/dh-33-315.pdf",
+      "accessed_at_utc": "2026-09-16T05:06:53Z",
+      "error": "HTTP Error 403: Forbidden"
+    },
+    {
+      "url": "https://history.state.gov/historicaldocuments/frus1969-76v18/d112",
+      "final_url": "https://history.state.gov/historicaldocuments/frus1969-76v18/d112",
+      "status": 200,
+      "bytes": 148594,
+      "accessed_at_utc": "2026-09-16T05:09:21Z"
+    }
+  ],
+  "access_log_artifacts": [
+    {
+      "path": "/Users/jorsc/.codex/.chatgpt-projects/g-p-6a94dd290a988191911d85ae8fe94a6c/tmp/pdfs/research-2026-09-16/claims-scholarship/access-initial.json",
+      "bytes": 763,
+      "sha256": "dbcf4955c27a8617e0617fd14d1790ecc3915623e66f2008de0139bf8f5972f3",
+      "role": "Machine-recorded access attempt log"
+    },
+    {
+      "path": "/Users/jorsc/.codex/.chatgpt-projects/g-p-6a94dd290a988191911d85ae8fe94a6c/tmp/pdfs/research-2026-09-16/claims-scholarship/access-network.json",
+      "bytes": 847,
+      "sha256": "48ff374419344b01fdef8727f1504d0a49bcef583d7b280cf7dce6fa45acafaf",
+      "role": "Machine-recorded access attempt log"
+    },
+    {
+      "path": "/Users/jorsc/.codex/.chatgpt-projects/g-p-6a94dd290a988191911d85ae8fe94a6c/tmp/pdfs/research-2026-09-16/claims-scholarship/access-second.json",
+      "bytes": 1274,
+      "sha256": "d23f187ee15996a2d140abc36063ce65615879969d36b60cf9b44e5751bc27d5",
+      "role": "Machine-recorded access attempt log"
+    },
+    {
+      "path": "/Users/jorsc/.codex/.chatgpt-projects/g-p-6a94dd290a988191911d85ae8fe94a6c/tmp/pdfs/research-2026-09-16/claims-scholarship/access-third.json",
+      "bytes": 938,
+      "sha256": "a5ffb8ec021e1e52f79f2b01ce6f5a7061da088876aa866982ee854723a9fe53",
+      "role": "Machine-recorded access attempt log"
+    },
+    {
+      "path": "/Users/jorsc/.codex/.chatgpt-projects/g-p-6a94dd290a988191911d85ae8fe94a6c/tmp/pdfs/research-2026-09-16/claims-scholarship/access-frus.json",
+      "bytes": 245,
+      "sha256": "f89bddf08569ad7cead37797317b6b0b9baf255470a963940a00c45fb7b554b5",
+      "role": "Machine-recorded access attempt log"
+    }
+  ],
+  "discovery_limit": "Search snippets, Wikipedia link inventory and cloned search listing used only to identify URLs, not for substantive claims. No access circumvention, outreach, or authentication was attempted.",
+  "counting": "One new complete scholarly research article (Mao); one complete scholarly review (Roberts), listed separately; one unread research article (Burr); one complete published primary memorandum. Existing-source rereads do not add new source objects."
+}

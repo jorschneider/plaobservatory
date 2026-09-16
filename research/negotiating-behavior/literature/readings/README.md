@@ -1,6 +1,6 @@
 # Full-text reading ledger
 
-**16 September 2026.** The program has completed **twenty-three scholarly readings on negotiation, institutions and foreign policy, in the versions specified below**, with additional bounded readings and selected primary-source checks. These are twenty-three works, not twenty-three independent evidentiary samples. Policy reports, technical context and industry chapters are listed separately. The 2023 Gao chapter is counted once as a version of the previously screened 2022 article. Shared authorship, reused interviews and repeated documentary sources are recorded in the memos.
+**16 September 2026.** The program has completed **twenty-four scholarly readings on negotiation, institutions and foreign policy, in the versions specified below**, with additional bounded readings and selected primary-source checks. These are twenty-four works, not twenty-four independent evidentiary samples. Policy reports, technical context and industry chapters are listed separately. The 2023 Gao chapter is counted once as a version of the previously screened 2022 article. Shared authorship, reused interviews and repeated documentary sources are recorded in the memos.
 
 Start with the [working manuscript](../../manuscript/README.md), [EU accession comparison](../../cases/eu-wto-2000-comparison.md), [climate comparison](../../cases/climate-2009-2015.md) and [Russian and scope reassessment](../../cases/russia-and-scope-reassessment.md), following the [implementation comparison](../../cases/implementation-and-major-power-reassessment.md), [first substantive assessment](../first-full-text-synthesis.md) and [2018–2026 trade-case synthesis](../../cases/us-trade-2018-2026-synthesis.md). This ledger documents their reading base and limits; it is not a claim that the entire literature or the history through 2026 has been covered.
 
@@ -30,8 +30,8 @@ Start with the [working manuscript](../../manuscript/README.md), [EU accession c
 | Taylor and Garlick, “Flexible versus fragmented authoritarianism” (2025) | Complete published article, 189–208, references and repository covers; twenty article pages, twenty-three PDF pages | Delegation as a competing explanation; source identification and an undated restraint claim corrected against originals. [Critical reading](taylor-garlick-flexible-authoritarianism.md). |
 | Loh, “Diplomatic Control, Foreign Policy, and Change under Xi Jinping” (issue 2018; accepted 2019) | Complete published article, 111–145, both notes, references, table and figure; all thirty-eight physical PDF pages including covers/contents | Original interviews and observations on access, discipline and initiative; no measured concession latitude. ASEAN textual claim corrected against originals. [Critical reading](loh-diplomatic-control.md). |
 | Högl, “Kooperationsfaktoren in den Klimaverhandlungen” (2019) | Complete published article, 357–378, all 22 PDF pages, seven numbered notes, references and three figures | Seven retrospective interviews with no Chinese/Indian/Brazilian interviewees; comparative ENB coding uses unequal observation windows. Procedural trust and agreement design, not isolated Chinese concession effects. [Critical reading](climate-change-mechanisms.md). |
-
 | Jost, “The Institutional Origins of Miscalculation in China’s International Crises” (2023) | Complete publisher HTML, printed 47–90, all 191 notes, both tables and figure; appendix remains selected | Information and authorization are distinct constraints; 26 crises through 2012, with Xi implications left as hypotheses. The cited CIA report was recovered and its limits checked. [Critical reading](jost-crisis-institutions.md). |
+| Mao Ruipeng, “关系正常化前夕的中美资产要求问题谈判” (2012) | Complete archived journal HTML, *美国研究* 2012(1), introduction, all three sections, conclusion and all 48 inline annotations including acknowledgment; print pagination unverified | Normalization linkage as a rival explanation; American assessments are not Chinese internal instructions. March21 bond inclusion statement checked against the contemporary exclusion. [Critical reading](mao-claims-and-burr-access.md). |
 
 ## Completed policy, technical and participant readings
 
@@ -62,7 +62,13 @@ These are useful additional readings, not additions to the social-science/legal 
 
 - **Shyam Saran (2019), “One Long Day in Copenhagen”:** complete public chapter rendering, including references and reprint notice; no paginated PDF acquired. The chapter identifies a reprint from the 2017 book, which was not acquired. One retrospective participant chain. [Comparison and scope](../../manuscript/development/copenhagen-participant-comparison.md).
 
+## Completed scholarly reviews, separately classified
+
+- **Priscilla Roberts (2009), H-Diplo Article Review 226:** complete seven-page review of William Burr, all seven notes, with first page visually checked. Normalization and competing explanations; Roberts’s account of Burr is not a reading of the article itself. Listed separately from the twenty-four research works above. [Critical reading and access record](mao-claims-and-burr-access.md).
+
 ## Bounded and related readings
+
+- **William Burr (2009), “'Casting a Shadow' Over Trade,” *Diplomatic History* 33(2):315–349:** publisher extract and bibliographic metadata only. The full body/notes remain unacquired; the complete Roberts review is not substituted for them. [Access record](mao-claims-and-burr-access.md).
 
 - **Michael Froman, Miller Center Interview 1:** complete selected 4,826-word Copenhagen discussion, not the whole interview. The webpage date conflicts with retrospective content; exact interview year remains unverified. **Jairam Ramesh, December 22, 2009:** complete ministerial statement and reply in the official Rajya Sabha record, printed pp. 218–223 and 242–248; only selected intervening debate. [Participant register](../../manuscript/development/copenhagen-participant-register.json).
 - **Shu G. Zhang and Ni Chen, “Beijing’s Institutionalised Economic Statecraft Towards Brazil” (issue 2021; online 2022):** all 27 pages' text, table and references read; two figures uninspected. Excluded from the complete count. The [critical reading](brazil-energy-authority.md) checks a later citation against the actual methods and follows coordination claims into original action-plan and transaction documents.
@@ -92,6 +98,7 @@ These are useful additional readings, not additions to the social-science/legal 
 
 | Stream | Memo | Evidence and coverage |
 |---|---|---|
+| Claims/assets and normalization explanations | [Mao; Roberts review; Burr access](mao-claims-and-burr-access.md) | [Register](../../sources/claims-scholarship-register.json), including complete FRUS XVIII/112 and its unprinted-annex boundary |
 | Crisis institutions and the EP-3 source chain | [Jost](jost-crisis-institutions.md) | [Register](../../sources/jost-crisis-institutions-register.json) |
 | Copenhagen–Paris mechanisms | [Högl and Williams](climate-change-mechanisms.md) | [Register](climate-change-mechanisms-register.json) |
 | Direct negotiation and revised historical baseline | [Direct negotiations](direct-negotiation.md) | [JSON audit](direct-negotiation-evidence.json) |
