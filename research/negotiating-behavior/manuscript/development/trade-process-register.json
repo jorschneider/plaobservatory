@@ -1,0 +1,38 @@
+{
+  "title": "Chapter 5 developmental research",
+  "source_count": 2,
+  "sources": [
+    {
+      "id": "DEV-TR01",
+      "title": "Trump–Liu public meeting and reporters’ questions, February 22, 2019",
+      "url": "https://www.govinfo.gov/content/pkg/DCPD-201900095/pdf/DCPD-201900095.pdf",
+      "access_date": "2026-09-15",
+      "full_read": false,
+      "read_scope": "Complete PDF pages 1–6, 8 and 14–16. Other page spans not read in this pass; no video inspection.",
+      "visual_check_physical_pdf_page": 15,
+      "source_type": "published_US_government_transcript",
+      "local_path_external_to_git": "/Users/jorsc/.codex/.chatgpt-projects/g-p-6a94dd290a988191911d85ae8fe94a6c/tmp/pdfs/research-2026-09-15/development-trade/oval-office-2019-02-22.pdf",
+      "sha256": "ea071cd788958c492ffda5cec5187242e1a3a2e0fe8f313b3c7862b704b8ff5f",
+      "limitations": [
+        "Public statements establish what the named official said, not the other government’s private instructions.",
+        "Participant claims about causes or outcomes remain attributed."
+      ]
+    },
+    {
+      "id": "DEV-TR02",
+      "title": "House Ways and Means: U.S.–China Trade, February 27, 2019",
+      "url": "https://www.govinfo.gov/content/pkg/CHRG-116hhrg36236/pdf/CHRG-116hhrg36236.pdf",
+      "access_date": "2026-09-15",
+      "full_read": false,
+      "read_scope": "Complete printed pages 13–16 and 55–58, corresponding to physical PDF pages 17–20 and 59–62. Not the full 160-page publication.",
+      "visual_check_physical_pdf_page": 61,
+      "source_type": "published_US_government_transcript",
+      "local_path_external_to_git": "/Users/jorsc/.codex/.chatgpt-projects/g-p-6a94dd290a988191911d85ae8fe94a6c/tmp/pdfs/research-2026-09-15/development-trade/hearing-2019-02-27.pdf",
+      "sha256": "d90b5e080984949543b70dbf65a2b5ba1e71d4463b98c5ac17eb75c434f4d5a3",
+      "limitations": [
+        "Public statements establish what the named official said, not the other government’s private instructions.",
+        "Participant claims about causes or outcomes remain attributed."
+      ]
+    }
+  ]
+}

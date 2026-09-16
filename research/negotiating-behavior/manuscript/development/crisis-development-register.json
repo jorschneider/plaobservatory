@@ -1,0 +1,81 @@
+{
+  "title": "Chapter 4 developmental research: paired EP-3 participants",
+  "research_date": "2026-09-15",
+  "source_count": 1,
+  "sources": [
+    {
+      "id": "DEV-CR01",
+      "title": "周文重：美国对华政策一直存在两面性，我们也要有两手准备",
+      "creator": "Zhou Wenzhong; interviewer group credited to 上海美国研究《40年40人访谈》; Wenhui republication",
+      "url": "https://wenhui.whb.cn/third/yidian/201812/12/229805.html",
+      "publication_date": "2018-12-12",
+      "interview_date": "2018-07-05",
+      "source_type": "published Chinese participant interview, edited-title republication",
+      "reading_status": "Complete published textual body read, including source credit and interview date. Images/captions inspected as text, no original audio or full project volume acquired.",
+      "locators": "Section 作为外交人员，与美方保持沟通畅通，建立信任很重要: first EP-3 answer and following consequences answer.",
+      "captures": [
+        {
+          "path": "/Users/jorsc/.codex/.chatgpt-projects/g-p-6a94dd290a988191911d85ae8fe94a6c/tmp/pdfs/research-2026-09-15/ep3/zhou-wenzhong-2018-wenhui.html",
+          "sha256": "6e79a2a3f15f3e8c1d5a34ebde0d105dfd671426769780e7a60e456cc7415853",
+          "bytes": 24483,
+          "outside_git": true
+        },
+        {
+          "path": "/Users/jorsc/.codex/.chatgpt-projects/g-p-6a94dd290a988191911d85ae8fe94a6c/tmp/pdfs/research-2026-09-15/ep3/zhou-wenzhong-2018-wenhui.html.gz",
+          "sha256": "c1647e05f3ad8fb09854ce2fd1441d5cfefe0bb8c3e0cb5153a0afbdc5ad7f7f",
+          "bytes": 9757,
+          "outside_git": true
+        },
+        {
+          "path": "/Users/jorsc/.codex/.chatgpt-projects/g-p-6a94dd290a988191911d85ae8fe94a6c/tmp/pdfs/research-2026-09-15/ep3/zhou-wenzhong-2018-wenhui.txt",
+          "sha256": "5fc72a594191a1b749cbd3be52b1ec1e3237037f4bc2fff5d71d6c392576e55a",
+          "bytes": 17936,
+          "outside_git": true
+        }
+      ],
+      "interpretation_limits": [
+        "Recollection 17 years after the event; public defense of Chinese positions.",
+        "Reports an instruction but does not reproduce its original text, issuing official or date.",
+        "Aircraft refusal conflicts with Prueher retrospective flyout-permission claim; neither account resolves dated authority or sequence.",
+        "The original letter controls accepted wording; Zhou’s recollection of added comrades is not silently inserted into the released letter.",
+        "Source credit says Wenhui changed the title. The full original interview-project volume was not acquired."
+      ]
+    }
+  ],
+  "existing_sources_reread": [
+    {
+      "existing_source_id": "EP313",
+      "scope_this_pass": "Complete local text lines 410–585, including fault argument, Lieberthal/Powell, letter recollection, aircraft-return dispute and alternative channels. Not a new full-transcript reading."
+    },
+    {
+      "existing_source_id": "EP303",
+      "scope_this_pass": "Complete published April 11 letter, including header and signature."
+    },
+    {
+      "existing_source_id": "EP304",
+      "scope_this_pass": "Complete four-paragraph MFA letter-delivery report."
+    },
+    {
+      "existing_source_id": "EP306",
+      "scope_this_pass": "Complete eight-question substantive briefing text."
+    },
+    {
+      "existing_source_id": "C23-21",
+      "scope_this_pass": "Complete printed pages 102–104 and 175–176 (PDF 110–112, 183–184). Wider prior reading remains separately registered; not a full report."
+    }
+  ],
+  "search_outcomes": [
+    {
+      "target": "Bush Library 2017-0023-F underlying assets",
+      "result": "Current official access listing still offers the finding aid and describes offline/reproduction access for born-digital assets. No underlying package acquired; no outreach or order placed."
+    },
+    {
+      "target": "John Keefe, Anatomy of the EP-3 Incident",
+      "result": "Bounded public search recovered catalog entry and citations, not the work. No reading claim."
+    },
+    {
+      "target": "Tang Jiaxuan EP-3 memoir chapter",
+      "result": "Newspaper summaries/excerpt leads found, but no original published chapter acquired. These were not used as recovered drafts."
+    }
+  ]
+}

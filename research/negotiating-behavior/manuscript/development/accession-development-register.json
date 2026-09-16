@@ -1,0 +1,207 @@
+{
+  "title": "Chapter 2 developmental research and exact rereading scope",
+  "date": "2026-09-15",
+  "manuscript": "../chapters/02-accession.md",
+  "status": "Developmental draft; awaiting further substantive review",
+  "scope": "Seven source records cover one newly preserved contemporary briefing, two fresh captures of already used participant interviews, and selected rereadings of existing originals. This is not seven new independent discoveries. Original project source inventory remains unchanged.",
+  "sources": [
+    {
+      "id": "DEV-AC01",
+      "title": "Charlene Barshefsky oral history, interview March 2, 2005",
+      "url": "https://millercenter.org/the-presidency/presidential-oral-histories/charlene-barshefsky-oral-history",
+      "read_date": "2026-09-15",
+      "source_type": "retrospective participant oral history hosted by interview institution",
+      "reading_status": "selected complete sections; not whole work",
+      "read_scope": "Complete WTO sequence, local extraction lines 1206–1338, beginning Riley’s invitation to discuss the 1999 agreement and ending the implementation discussion before steel. Includes roadmap, April political debate and warning, preservation effort, resumption, delegation composition, final departure episode, Taiwan, ownership and implementation. Surrounding gender/rank discussion lines 1200–1205 also read. Other portions of the full interview not claimed newly read.",
+      "evidentiary_use": "Attributed warning to Zhu; explanation for asking Podesta or Sperling to travel; stated purpose of departure pressure; ownership recollection compared with documents.",
+      "limitations": [
+        "Interviewee’s reconstruction of conversations and motives, not contemporaneous minutes.",
+        "Claim of almost five months with no contact is contradicted by the surviving communications record and is not adopted.",
+        "Transcript’s retrospective parentheticals misidentify Wu Yi as then vice premier and Qian Qichen as then foreign minister; those role labels are not adopted.",
+        "Narrative keeps the effects of the proposed pressure and assurances unresolved; it does not treat her self-assessment as independent corroboration."
+      ],
+      "preserved_copy": {
+        "path": "/Users/jorsc/.codex/.chatgpt-projects/g-p-6a94dd290a988191911d85ae8fe94a6c/tmp/pdfs/research-2026-09-15/chapter-02-development/barshefsky-2005.html",
+        "bytes": 280612,
+        "sha256": "4f7c1e530cfc9b1d70bdf9ad85feecb3f94dc343e5e413a6c2dae4337e771de9"
+      },
+      "relationship_to_existing_inventory": "Previously identified and substantively used in sources/us-source-register.json. Fresh complete HTML capture and expanded bounded rereading do not create a new independent source.",
+      "derived_extraction": {
+        "path": "/Users/jorsc/.codex/.chatgpt-projects/g-p-6a94dd290a988191911d85ae8fe94a6c/tmp/pdfs/research-2026-09-15/chapter-02-development/barshefsky-2005.txt",
+        "bytes": 210580,
+        "sha256": "98731dc064f245ea042c18d842ee76ec404ec4b849bc9dd909b20661f0ec9a3d"
+      }
+    },
+    {
+      "id": "DEV-AC02",
+      "title": "Lawrence Summers oral history, interview October 17, 2002",
+      "url": "https://millercenter.org/the-presidency/presidential-oral-histories/lawrence-summers-oral-history-2002",
+      "read_date": "2026-09-15",
+      "source_type": "retrospective participant oral history hosted by interview institution",
+      "reading_status": "selected complete sections; not whole work",
+      "read_scope": "Complete China WTO exchange after NAFTA and before the interview break, extraction lines 992–1033, plus preceding context beginning at line 982. Includes April publicity criticism, October presidential mandate and Lanzhou visit, encouragement sent back, and PNTR recollection. Full interview not claimed newly read.",
+      "evidentiary_use": "Separate American participant criticism of April publication; attributed October assurance and setting of the meeting.",
+      "limitations": [
+        "Summers explicitly cannot recall some reasons or the content of a separate export-control goodwill item; no particular concession is inferred.",
+        "Contemporary October 25 Treasury speech confirms meetings/travel, not the remembered private message or its effects.",
+        "The interviewer’s bombing interjection complicates the scope of contrition in the remembered conversation; chapter does not assign an exact promise beyond Summers’s stated assurance of readiness."
+      ],
+      "preserved_copy": {
+        "path": "/Users/jorsc/.codex/.chatgpt-projects/g-p-6a94dd290a988191911d85ae8fe94a6c/tmp/pdfs/research-2026-09-15/chapter-02-development/summers-2002.html",
+        "bytes": 264742,
+        "sha256": "88cf2de9d988c9668439fe924697ac3b48f6cab98d387c12bbb38998a62e7074"
+      },
+      "relationship_to_existing_inventory": "Previously identified and used in sources/us-source-register.json. New preservation of the official HTML and rereading, not a new witness.",
+      "derived_extraction": {
+        "path": "/Users/jorsc/.codex/.chatgpt-projects/g-p-6a94dd290a988191911d85ae8fe94a6c/tmp/pdfs/research-2026-09-15/chapter-02-development/summers-2002.txt",
+        "bytes": 196061,
+        "sha256": "5d458c10cb444ff3b469a49276369fcc7457429f65f66d1448f0970df3ac0ae7"
+      }
+    },
+    {
+      "id": "DEV-AC03",
+      "title": "邓红国, 我亲历的加入WTO金融部门谈判, in 中国“入世”谈判风云录, 2023, pp. 284–315",
+      "url": "https://www.mofcom.gov.cn/dl/sms/04.pdf",
+      "read_date": "2026-09-15",
+      "source_type": "retrospective Chinese participant chapter in edited commemorative volume",
+      "reading_status": "selected complete sections; not whole work",
+      "read_scope": "Printed pp. 284–296/PDF pp. 297–309 reread in full extracted text. Printed pp. 293–295/PDF pp. 306–308 visually reread. Covers biography, sector responsibilities, document/authorization chain, undated overnight preparation and recess, November working conditions and claims about American tactics, financial offers, Zhuhai and initial anecdotes. Earlier complete-chapter reading is separately recorded; no new complete reading of pp. 284–315 is claimed.",
+      "evidentiary_use": "Sector preparation and authority; fourteen-department delegation, camp beds/pager; attributed contrary assessment of departure pressure; undated red-telephone anecdote; financial authorization sequence and Zhuhai benchmark.",
+      "limitations": [
+        "No new contemporaneous State Council, PBOC or MOFTEC instruction acquired.",
+        "Page 294 dates the November 13 technical negotiation under new authority decided at a State Council meeting; it does not separately date that meeting.",
+        "Auto-finance wording on p. 294 is immediate entry for foreign enterprise-group finance companies; explicit on-accession trigger comes from American outcome summary, and company category is not silently broadened.",
+        "Red-telephone anecdote has no precise date and is not merged with another witness’s scene.",
+        "Existing participant audit records apparent November 18/two-days-after-signing and CBRC/2001 inconsistencies.",
+        "Deng’s shorthand rejecting the US agreement as a European basis is checked against the Chinese history’s distinction between baseline and sufficient bargain."
+      ],
+      "preserved_copy": {
+        "path": "/Users/jorsc/.codex/.chatgpt-projects/g-p-6a94dd290a988191911d85ae8fe94a6c/tmp/pdfs/wto-foundation/participant-history.pdf",
+        "bytes": 153959573,
+        "sha256": "bf9ba016a6b56f1b3683624f92a9b1bd7a181bdc6c0323a769debab4faa39ba8"
+      },
+      "relationship_to_existing_inventory": "Same preserved original as sources/wto-financial-participant-note.md and EWT-14. Earlier audit read all pp. 284–315 on September 5.",
+      "rendered_pages_visually_read_this_pass": [
+        "participant-history-p293.png",
+        "participant-history-p294.png",
+        "participant-history-p295.png"
+      ]
+    },
+    {
+      "id": "DEV-AC04",
+      "title": "中国加入世界贸易组织谈判文件资料选编：综合卷①, 2013",
+      "url": "https://www.mofcom.gov.cn/dl/sms/zhj_1_1.pdf",
+      "read_date": "2026-09-15",
+      "source_type": "official Chinese documentary collection; selected editorial narrative and reproduced proposals",
+      "reading_status": "selected complete sections; not whole work",
+      "read_scope": "Text reread: printed pp. 247–252, 255, 257–258, 265–266, 268, 270, 273, 277, 279, 370–371, 376–377, 379–381, 383–385. Printed pp. 248–249, 380, 384–385 visually reread this pass. Earlier EU audit separately read the complete pp. 370–385 sequence and visually checked consequential proposal/May pages. No complete-volume reading claimed.",
+      "evidentiary_use": "March 30 Wu/Barshefsky political-support exchange and separate Zhu meeting; April contested publication; dated November interventions; European constituency and mandate explanations; March non-closure, May compensation alternatives, requested authoritative confirmation and remaining retail exceptions.",
+      "limitations": [
+        "Editorial account reports conversations, not newly recovered transcripts from both sides.",
+        "Extraction corrupts numeral glyphs; new exact dates/numbers relied on rendered pages or previous source audits.",
+        "Source’s descriptions of the April memorandum must yield to the signed body’s verification/rectification language.",
+        "May consultations precede Zhu meeting; exact new European mandate date and causation are not established.",
+        "Unsuccessful Chinese departmental coordination establishes no improved offer, not the reason or leadership disunity.",
+        "Precise May 19 signing hour is unnecessary and not used."
+      ],
+      "preserved_copy": {
+        "path": "/Users/jorsc/.codex/.chatgpt-projects/g-p-6a94dd290a988191911d85ae8fe94a6c/tmp/pdfs/wto-foundation/general-1.pdf",
+        "bytes": 64177746,
+        "sha256": "ab8b28e64608ac233ec87fb97b9b3c627e631117abcee97a90b8d4dbad8033eb"
+      },
+      "relationship_to_existing_inventory": "Same original as WTO foundation and EWT-01; expanded reading/development does not change original source inventory.",
+      "rendered_pages_visually_read_this_pass": [
+        "general-1-p248.png",
+        "general-1-p249.png",
+        "general-1-p380.png",
+        "general-1-p384.png",
+        "general-1-p385.png"
+      ]
+    },
+    {
+      "id": "DEV-AC05",
+      "title": "McCahill letters to Shi Guangsheng, November 12 and 14, 1999, reproduced in 双边卷③",
+      "url": "https://www.mofcom.gov.cn/dl/sms/sbj_3_17.pdf",
+      "read_date": "2026-09-15",
+      "source_type": "contemporary American-authored signed letters reproduced in later Chinese official collection",
+      "reading_status": "selected complete sections; not whole work",
+      "read_scope": "Complete English originals printed pp. 1067–1068 and 1094/PDF pp. 1074–1075 and 1101 visually reread. Original closing-package audit was reread as supporting inventory; its nineteen document pages are not all claimed visually reread in this pass.",
+      "evidentiary_use": "Opening seven/eight-o’clock deadlines and conditional extension; offered equity discussion within acceptable trade-remedy package; November 14 impasse allegation and repeated request for Zhu.",
+      "limitations": [
+        "Conditional willingness to discuss equity is not a demonstrated final quid pro quo or proof of an already authorized equity concession.",
+        "American descriptions of impasse, Chinese reopening and leader intent remain attributed.",
+        "Letters do not establish whether the scheduling limit was logistical, tactical or both, or how the departure threat changed Chinese instructions.",
+        "Final offers and annex distinctions remain governed by the existing exact document audit and follow-up register."
+      ],
+      "preserved_copy": {
+        "path": "/Users/jorsc/.codex/.chatgpt-projects/g-p-6a94dd290a988191911d85ae8fe94a6c/tmp/pdfs/wto-foundation/bilateral-3.pdf",
+        "bytes": 59307195,
+        "sha256": "00fa7bf61635b3b7cabb42c305d506769b2c463c70fc917511a6be56842c7914"
+      },
+      "relationship_to_existing_inventory": "Same source as sources/wto-us-proposals-in-chinese-archive.md; this pass directly rereads the decisive English letters.",
+      "rendered_pages_visually_read_this_pass": [
+        "bilateral-3-p1067.png",
+        "bilateral-3-p1068.png",
+        "bilateral-3-p1094.png"
+      ]
+    },
+    {
+      "id": "DEV-AC06",
+      "title": "Sperling–Barshefsky White House briefing, November 24, 1999",
+      "url": "https://clintonwhitehouse3.archives.gov/WH/New/WTO-Conf-1999/briefings/19991124-1245.html",
+      "read_date": "2026-09-15",
+      "source_type": "contemporary official American public transcript",
+      "reading_status": "selected complete sections; not whole work",
+      "read_scope": "China accession passages read in full: Barshefsky opening description of remaining work and complete answer to whether China is a WTO member, web lines 39 and 51–53. Adjacent Seattle leader/trade-minister discussion, lines 54–62, read for context. Remaining large Seattle transcript screened, not treated as a complete substantive audit.",
+      "evidentiary_use": "Additional primary confirmation that bilateral completion left other bilateral and multilateral negotiations; notes only.",
+      "limitations": [
+        "Public description is not final annex wording or internal instructions.",
+        "Seattle predictions and general GATT/WTO historical claims elsewhere in briefing are not adopted."
+      ],
+      "preserved_copy": {
+        "path": "/Users/jorsc/.codex/.chatgpt-projects/g-p-6a94dd290a988191911d85ae8fe94a6c/tmp/pdfs/research-2026-09-15/chapter-02-development/november-24-briefing.html",
+        "bytes": 41488,
+        "sha256": "4d610d736a9ccd4fa412be63a45338888ced2695d9f3fb94df350edd0b76ab78"
+      },
+      "relationship_to_existing_inventory": "Additional preserved text for this developmental pass, supplementing WTO-M02 and WTO-M04 rather than changing those records."
+    },
+    {
+      "id": "DEV-AC07",
+      "title": "Clinton–Zhu press conference, April 8, 1999",
+      "url": "https://clintonwhitehouse6.archives.gov/1999/04/1999-04-08-joint-press-conference-with-premier-zhu-rongji-of-china.html",
+      "read_date": "2026-09-15",
+      "source_type": "contemporary official American transcript of public remarks",
+      "reading_status": "selected complete sections; not whole work",
+      "read_scope": "Relevant complete WTO passages reread: opening accession statements, Zhu’s political-atmosphere explanation, Clinton’s engagement/market-access argument, and full Zhu response on concessions, domestic competition and gift/campaign-finance joke. Not a new complete substantive audit of the full press conference.",
+      "evidentiary_use": "Stakes of the April disagreement and Zhu’s public reform rationale.",
+      "limitations": [
+        "Interpreted Chinese remarks as recorded by US host; no independent Chinese-language transcript acquired.",
+        "Stated rationale does not establish consensus among all Chinese officials or realized reform outcomes."
+      ],
+      "preserved_copy": {
+        "path": "/Users/jorsc/.codex/.chatgpt-projects/g-p-6a94dd290a988191911d85ae8fe94a6c/tmp/pdfs/research-2026-09-15/wto-chapter/april8-presidential.html",
+        "bytes": 46488,
+        "sha256": "19222d0441b28da725b505ef48471738a6d1bf6719f6994fde4315358f58efc9"
+      },
+      "relationship_to_existing_inventory": "Existing preserved WTO-M01; this pass reuses rather than duplicates the original capture."
+    }
+  ],
+  "derived_render_directory": "/Users/jorsc/.codex/.chatgpt-projects/g-p-6a94dd290a988191911d85ae8fe94a6c/tmp/pdfs/research-2026-09-15/chapter-02-development",
+  "failed_acquisition_attempts": [
+    {
+      "title": "Hans-Friedrich Beseler, The EU–China Negotiations: Breaking the Deadlock, publisher preview of Holbig/Ash volume",
+      "url": "https://s3-euw1-ap-pe-df-pch-content-store-p.s3.eu-west-1.amazonaws.com/9780203037553/51e0400d-a7d4-4bfe-b0f6-3efdbf4397ad/relatedobjects/preview.pdf",
+      "date": "2026-09-15",
+      "result": "Search indexed a chapter opening and contents, but opening the signed indexed preview failed and direct public preview URL returned HTTP 403. Full chapter not acquired, not read and not used as evidence.",
+      "status": "acquisition lead only"
+    }
+  ],
+  "other_previously_read_sources_reused": [
+    "sources/wto-us-proposals-in-chinese-archive.md: complete dated American offers and retention clauses",
+    "sources/wto-manuscript-followup-register.json: November 15 signed bodies, Berger, WTO release and November 16 outcome summary",
+    "sources/eu-wto-2000-register.json: final services schedule, full Commission explanatory memorandum and October memorandum",
+    "sources/wto-financial-participant-note.md: earlier whole chapter reading and discrepancies",
+    "sources/us-source-register.json: April 8 briefing and October Treasury speech"
+  ],
+  "copyright_practice": "No full source texts or images are stored in the repository. Narrative uses attributed factual paraphrase; there is no reproduced dialogue from the participant interviews or memoir. Exact source locators and short document-language snippets remain in notes. Captures are outside Git."
+}

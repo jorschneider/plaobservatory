@@ -1,0 +1,46 @@
+# Introduction redevelopment: from an audit to an argument
+
+15 September 2026. This memo records an authored revision and its limits, not an independent approval or a judgment that the book is ready for a press.
+
+**File:** `chapters/00-introduction.md`. Previous SHA256: `6712f0eb444ba87f62e45a68e19dced20148ce58e143ffaca8bb5d49897bf83f`. Revised SHA256: `a8248bb1f6c7ab3135c51169a5e356b5eebc108294cd71318b9cc8f8cb295c27`. The new body is 2,732 words, with 17 notes. Parent review remains pending; subsequent changes will require a new revision identifier.
+
+## Diagnosis
+
+The previous introduction had the right opening documents and abandoned them too quickly. Three paragraphs established the November 1999 letters, then actors and disputed terms gave way to distinctions among instruments, observations and causal claims. The reader learned what the researcher would not infer before learning why a participant should care. Similar distinctions recurred in the introduction, chapter conclusions and final conclusion. Each was defensible; together they made evidentiary control feel like the book's subject.
+
+Solomon's explanatory strength is different. He lets a reader encounter a purposeful official, a request or refusal, and the pressure this creates for a counterpart. Generalization follows an interaction. Practical advice concerns a choice the reader can imagine having to make. His prose sometimes generalizes more confidently than our evidence permits; its narrative method can be learned without adopting its every comparative claim or borrowing its language.
+
+The positive argument also needed to become more particular. All governments need authority and implementation. The new introduction instead identifies observed Chinese negotiating objects: defended ownership limits alongside control and operating permissions; political direction alongside specific domestic reforms; national choice alongside external scrutiny; dependent companies asked to complain about the authorities whose decisions they need. These are concrete difficulties in these Chinese encounters. The introduction does not claim that no other government presents them.
+
+## What the rewrite does
+
+The November weekend now supplies a sustained opening. McCahill sets a departure time and requests Zhu; the reader learns what Chinese accession and American access would obtain; the insurance offers distinguish ownership from control; Deng's retrospective account identifies the clearance problem; the first deadline passes and the second letter reports a new impasse; the signing resolves a bilateral package inside unfinished accession. The reader sees what the Americans did as well as what they faced. No hotel scene, fatigue, packing, dialogue, emotional state or private Chinese instruction has been invented.
+
+The thesis is that defended political choices can coexist with valuable adjustments to the terms through which they operate. It is not a claim that firmness is always tactical or that every political boundary contains a bargain. The practical response is to identify which dimension can move and what the counterpart values enough to exchange for it. Historical development then concerns the instruments and objects of negotiation: WTO challenges to foreign authority, the climate contribution-and-scrutiny architecture, demands reaching domestic administration, and explicit protection of information needed for enforcement.
+
+The Lighthizer passage connects an observed American concern to a final text without claiming to have proved the threatened retaliation against any particular company. His testimony is attributed. The confidentiality clause is an accepted provision. The further point—that withholding a name may not keep a distinctive firm unidentifiable—is practical reasoning, not a claim about an observed Phase One complaint.
+
+The Solomon and Freeman discussion is shorter and connects relationship-building to a user's decision about a present intermediary. Modern honors and access are positive findings; the missing transmission-and-instruction chain remains a limit. Original qualifications are not presented as inventions of this update. The introduction does not turn the appendix's unresolved propositions into refutations.
+
+Detailed provenance, uneven case endpoints, missing annexes, retrospective chronology, limits of comparative inference and the absence of new interviews are mostly in notes. The body retains uncertainty where removing it would change the story: the departure threat's causal contribution, the status of Deng's account, Kissinger's influence and the absence of private deliberations. All 17 footnotes resolve; all relative links were checked to exist.
+
+## Reading scope in this pass
+
+- Entire previous introduction and notes; entire revised introduction during drafting and validation.
+- Entire current conclusion body, with its previously reviewed notes; entire accession chapter body and relevant notes; selected current Chapter 3 passages through the development of climate bargaining. Prior independent chapter reviews are separate records, not a claim that every current page was reread here.
+- Entire current Chapter 5 body and 27 notes after its redevelopment; its new primary-source reading record. Chapter 1's opening and baseline scope were reread for the Solomon description. Other case-specific claims rely on the earlier detailed reviews and the source records cited in the introduction, not new full-source acquisition.
+- Selected original Solomon prose from the supplied-book extraction: summary/practical passages around pp. 7–9; relationship passages around pp. 32–35; and the principles/sequence discussion around pp. 73–76. This was a fresh prose and explanatory-method reading, not a second complete book reading. Some surrounding extracted output was truncated; no complete scope is claimed for those adjacent pages.
+- Fresh visual inspection of McCahill's November 12 English letter, printed pp. 1067–1068/PDF pp. 1074–1075, and November 14 letter, printed p. 1094/PDF p. 1101, from the complete official MOFCOM facsimile already preserved outside Git. Images are under parent workspace `tmp/pdfs/research-2026-09-15/introduction-development/`. The existing American-paper audit and complete Deng participant note were reread; original extraction around Deng's p. 294 was checked for the authorization and separate financial-leasing language.
+- For the new trade paragraph and separate Chapter 5 critique: complete February 22, 2019 public-meeting transcript pp. 15–16; complete February 27 hearing printed pp. 13–16 and 56–58; printed p. 55 was only partially displayed/read in this pass. These are selected pages, not full hearings. Parent's fuller selected scope remains recorded separately.
+
+## What still prevents a publication claim
+
+The introduction makes a stronger promise than the old audit structure, and the rest of the book must fulfill it. Three tasks are particularly consequential.
+
+First, contemporary bargaining power is still underdeveloped. An assertion that China's larger economy changed its negotiating behavior is not established by the present introductory examples. A narrow 2025 rare-earth licensing sequence could supply a concrete change: exactly what supply could be withheld, whose costs it altered, which reciprocal term was offered and what became usable afterward. That research is active elsewhere. This rewrite deliberately does not preempt its findings or treat a generic claim about economic weight as sufficient. The final introduction may need a paragraph, or a sharper main thesis, after that evidence is reviewed.
+
+Second, the chapter bodies still vary in how often they make people and decisions visible. Accession has documentary exchanges strong enough to sustain a story; the legal chapter risks becoming a tour of holdings; implementation needs firms, regulators and users making consequential choices. Each chapter should carry a decision through its consequence before introducing the next distinction. This is a task for bounded redevelopment, not a request for more parallel memos or a longer source list. Newly rewritten Chapter 5 has made significant progress in this direction.
+
+Third, the temporal coverage and claim strength must agree. The baseline ends chiefly in 1984 and the best later reconstruction centers on accession and subsequent episodes. This is a selected historical argument, not an evenly sampled account of every US–China negotiation between the two endpoints. The final framing must neither imply continuous evidence nor let the gap disappear behind a 2026 title. If the book wants a broad claim about the transition out of the normalization relationship, an intervening case such as the 1993–94 linkage dispute or the 1995–96 crisis requires substantive treatment; otherwise the scope must remain explicitly selected. Which route to take should follow the desired argument, not a desire to fill a chronology mechanically.
+
+The new introduction is an authored developmental draft. Its argument needs challenge by a reader who was not responsible for assembling the dossiers. It is not proof that the project has achieved Solomon's evidentiary access, a press's acquisition standard or the user's publication ambition.

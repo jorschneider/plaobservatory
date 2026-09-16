@@ -1,0 +1,171 @@
+{
+  "title": "Chapter 3 trade development: Section 129 implementation and Chinese response",
+  "research_date": "2026-09-15",
+  "memo": "chapter-03-trade-research-2026-09-15.md",
+  "proposed_fragment": "chapter-03-trade-replacement.md",
+  "source_count": 6,
+  "count_note": "Five newly acquired substantive documents/publications, plus one expansion of reading in the previously acquired panel report. No alteration to original DS379 inventory.",
+  "sources": [
+    {
+      "id": "DEV-DS01",
+      "title": "Final Determinations: Section 129 Proceedings Pursuant to the WTO Appellate Body’s Findings in WTO DS 379 Regarding the Antidumping and Countervailing Duty Investigations of Laminated Woven Sacks from the People’s Republic of China",
+      "author_or_institution": "Christian Marsh, Deputy Assistant Secretary, to Paul Piquado, Assistant Secretary for Import Administration; US Department of Commerce",
+      "publication_date": "2012-07-31; filed July 31, 2012, 6:03 p.m.; barcode 3089955-01",
+      "source_type": "Original administrative decision memorandum, archived capture of official Commerce publication",
+      "url": "https://web.archive.org/web/20230911124326id_/https://enforcement.trade.gov/download/section129/prc-lw-sacks-Final-129-Determination-20120830.pdf",
+      "read_date": "2026-09-15",
+      "read_scope": "Complete 46-page memorandum, including footnotes and six-page acronym/document-reference attachment, read in bounded page groups. Printed and PDF page numbers coincide. Truncated display at page 30 was reread in full with pages 30–37. CVD table page 38 visually inspected.",
+      "evidentiary_use": "Land arguments and renewed determination pp. 2–6; public-body inquiry, requests and Chinese objections pp. 7–14; opposed AD adjustment, evidence, methods and arguments pp. 15–37; CVD and AD tables/application pp. 37–40; precise underlying-document titles pp. 42–46.",
+      "limits": "The agency records its own reasoning and summarizes/quotes Chinese and domestic-party submissions; those submissions and exhibits were not separately acquired. It adopts preliminary memoranda and proprietary supplier classifications rather than reproducing the complete calculations. May 18 petrochemical calculation Attachment 3 remains unacquired. No exact decomposition of the 53.80-point CVD increase or inference of adverse facts available for Aifudi is made. Page 38 incorrectly refers to the OTR tyres industry in its sacks pass-through paragraph; page 44 also contains an apparent copied product-title error. Its claims of conformity are not a WTO compliance adjudication.",
+      "preserved_copy": {
+        "path": "/Users/jorsc/.codex/.chatgpt-projects/g-p-6a94dd290a988191911d85ae8fe94a6c/tmp/pdfs/research-2026-09-15/chapter-03-development/sacks-section129-final-2012.pdf",
+        "bytes": 642743,
+        "sha256": "8a57302ff39fd9779a74350e7e13078c982b577fd272f65b4bb8d57d8a94a882"
+      },
+      "original_url": "https://enforcement.trade.gov/download/section129/prc-lw-sacks-Final-129-Determination-20120830.pdf",
+      "archive_capture_timestamp": "2023-09-11 12:43:26 UTC",
+      "visual_verification": {
+        "page": 38,
+        "image": "/Users/jorsc/.codex/.chatgpt-projects/g-p-6a94dd290a988191911d85ae8fe94a6c/tmp/pdfs/research-2026-09-15/chapter-03-development/sacks-section129-final-2012-p38.png"
+      }
+    },
+    {
+      "id": "DEV-DS02",
+      "title": "Minutes of meeting held on 28 September 2012, WT/DSB/M/322, item 7: United States — Definitive anti-dumping and countervailing duties on certain products from China",
+      "author_or_institution": "WTO Dispute Settlement Body; attributed statements by Chinese and US representatives",
+      "publication_date": "Meeting 2012-09-28; circulated 2012-11-23",
+      "source_type": "Official meeting minutes recording primary party statements",
+      "url": "https://docs.wto.org/dol2fe/Pages/SS/directdoc.aspx?filename=Q:/WT/DSB/M322.pdf&Open=True",
+      "read_date": "2026-09-15",
+      "read_scope": "Cover metadata and complete item 7, paragraphs 90–92, printed/PDF page 19. Entire item visually inspected. Other agenda items not counted as read.",
+      "evidentiary_use": "China rejects full compliance, welcomes US offer of discussion, recalls May sequencing agreement and reserves DSU rights; US repeats compliance position and willingness to discuss; DSB takes note.",
+      "limits": "Attributed official minutes are not a verbatim transcript or a compliance ruling. They do not disclose whether subsequent talks occurred, their terms or China’s internal litigation decision.",
+      "preserved_copy": {
+        "path": "/Users/jorsc/.codex/.chatgpt-projects/g-p-6a94dd290a988191911d85ae8fe94a6c/tmp/pdfs/research-2026-09-15/chapter-03-development/dsb-minutes-322.pdf",
+        "bytes": 103978,
+        "sha256": "81a9a7c7056310fb8230b9afcdbd31eb95a4009972a7055e7b452e1bc81bd61d"
+      },
+      "visual_verification": {
+        "page": 19,
+        "image": "/Users/jorsc/.codex/.chatgpt-projects/g-p-6a94dd290a988191911d85ae8fe94a6c/tmp/pdfs/research-2026-09-15/chapter-03-development/dsb-minutes-322-p19.png"
+      }
+    },
+    {
+      "id": "DEV-DS03",
+      "title": "对华贸易救济的争端解决与后续执行——以中国起诉案件为重点",
+      "author_or_institution": "陈卫东 / Chen Weidong, identified by page as associate professor, University of International Business and Economics School of Law",
+      "publication_date": "Web publication 2013-04-11; text discusses 2012 developments",
+      "source_type": "Authored contemporary legal analysis on Chinese Society of International Economic Law website",
+      "url": "https://ielaw.uibe.edu.cn/wtoflzdyj/6978.htm",
+      "read_date": "2026-09-15",
+      "read_scope": "Title, abstract and author identification; complete sections III (DS379 and implementation) and V (implications); corresponding notes 15–30 and 37–41, including mislabeled note 49. Other sections screened in browser but not credited as complete article reading.",
+      "evidentiary_use": "Contemporary Chinese argument distinguishing interpretation gains, concrete trade benefits, procedural opportunity, costs and timing of further litigation.",
+      "limits": "Academic analysis, not participant evidence or a ministry position. Motive/resource explanations for absent compliance proceedings are hypotheses. Do not import broad noncompliance claims as findings. Body misdates final determination July 13 rather than July 31 (note 30 is correct), misidentifies statutory location, and contains compressed/uneven accounts of specificity; originals control. No journal issue/pages established from this reproduction.",
+      "preserved_copy": {
+        "path": "/Users/jorsc/.codex/.chatgpt-projects/g-p-6a94dd290a988191911d85ae8fe94a6c/tmp/pdfs/research-2026-09-15/chapter-03-development/chen-weidong.html",
+        "bytes": 56194,
+        "sha256": "6134b81f7915c61710f9739996a539b8b6dac228975efdc35a1e4050a4bc6445"
+      }
+    },
+    {
+      "id": "DEV-DS04",
+      "title": "Laminated Woven Sacks From the People’s Republic of China: Notice of Court Decision Not in Harmony With Final Determination Under Section 129 of the Uruguay Round Agreements Act, FR Doc. 2016-09286",
+      "author_or_institution": "US Department of Commerce, signed Paul Piquado",
+      "publication_date": "Signed 2016-04-14; published 2016-04-21; effective 2016-04-11",
+      "source_type": "Primary administrative notice following domestic judicial review",
+      "url": "https://www.govinfo.gov/content/pkg/FR-2016-04-21/pdf/2016-09286.pdf",
+      "read_date": "2026-09-15",
+      "read_scope": "Complete target notice, 81 FR 23457–23459/PDF pages 1–3, including tables and notes; adjacent unrelated notices excluded. Read first from complete daily issue PDF pages 44–46, then confirmed canonical notice. Table continuation/application clause 23459 visually inspected.",
+      "evidentiary_use": "Distinguishes March 23 Commerce remand, March 30 CIT judgment, April 11 application and April 21 publication; records withdrawal of the 2012 AD adjustment and 64.28% Aifudi exporter–producer cash-deposit rate, subject to intervening review qualification.",
+      "limits": "Domestic remand and court action, not WTO DS379 compliance adjudication. Underlying remand reasoning unacquired. No actual importer payments, final assessments or universal application inferred. No broader 2016 endpoint study.",
+      "preserved_copy": {
+        "path": "/Users/jorsc/.codex/.chatgpt-projects/g-p-6a94dd290a988191911d85ae8fe94a6c/tmp/pdfs/research-2026-09-15/chapter-03-development/fr-lws-2016.pdf",
+        "bytes": 183818,
+        "sha256": "5eadd645392378290bd089ae2c1c1b265e1136d34b5e120a58dae17ca9d83003"
+      },
+      "visual_verification": {
+        "page": 3,
+        "image": "/Users/jorsc/.codex/.chatgpt-projects/g-p-6a94dd290a988191911d85ae8fe94a6c/tmp/pdfs/research-2026-09-15/chapter-03-development/fr-lws-2016-p3.png"
+      },
+      "additional_capture": {
+        "path": "/Users/jorsc/.codex/.chatgpt-projects/g-p-6a94dd290a988191911d85ae8fe94a6c/tmp/pdfs/research-2026-09-15/chapter-03-development/fr-2016-04-21.pdf",
+        "bytes": 2062702,
+        "sha256": "a419c5ed9414c0dc94ecbda13d03bff9c28071d8225fe20b118a9e758c25ad24"
+      }
+    },
+    {
+      "id": "DEV-DS05",
+      "title": "Laminated Woven Sacks Committee, Coating Excellence International, LLC, and Polytex Fibers Corporation v. United States, Slip Op. 16-30, Court No. 12-00301",
+      "author_or_institution": "US Court of International Trade, Judge Leo M. Gordon",
+      "publication_date": "2016-03-30",
+      "source_type": "Primary domestic court judgment",
+      "url": "https://www.cit.uscourts.gov/sites/cit/files/16-30.pdf",
+      "read_date": "2026-09-15",
+      "read_scope": "Complete one-page judgment, including caption and date.",
+      "evidentiary_use": "Court sustains remand results; all parties agreed they complied with court instructions. Direct check on judgment date.",
+      "limits": "The short order supplies no detailed legal or economic reasoning, no identity of Chinese decision makers, and no WTO compliance finding. Do not confuse March 23 remand date with March 30 judgment.",
+      "preserved_copy": {
+        "path": "/Users/jorsc/.codex/.chatgpt-projects/g-p-6a94dd290a988191911d85ae8fe94a6c/tmp/pdfs/research-2026-09-15/chapter-03-development/cit-16-30.pdf",
+        "bytes": 433969,
+        "sha256": "ac63618f50766041da160fd25193d7b0f203750579cb2e7800c0e6dd0db0a3d7"
+      }
+    },
+    {
+      "id": "DEV-DS06",
+      "title": "WT/DS379/R, additional selected reading on regional specificity of Aifudi land-use rights",
+      "author_or_institution": "WTO dispute panel",
+      "publication_date": "2010-10-22",
+      "source_type": "Previously acquired primary report; newly expanded reading",
+      "url": "https://www.wto.org/english/tratop_e/dispu_e/379r_e.pdf",
+      "read_date": "2026-09-15",
+      "read_scope": "Paragraphs 9.149–9.164, printed pages 103–107/PDF pages 123–127, including relevant footnotes 442–448, newly read completely. Adjacent preceding and following text screened only.",
+      "evidentiary_use": "Original panel reasoning rejected circular regional-specificity analysis on the existing record while expressly allowing that further evidence of a distinct regime could sustain a different finding. Provides direct source behind Commerce’s 2012 land reasoning.",
+      "limits": "Not a finding land can never be regionally specific, nor advance approval of the 2012 redetermination. Different land prices were possible evidence of distinct regime, not automatically evidence of existence or magnitude of benefit. Not a whole-report reading.",
+      "preserved_copy": {
+        "path": "/Users/jorsc/.codex/.chatgpt-projects/g-p-6a94dd290a988191911d85ae8fe94a6c/tmp/pdfs/research-2026-09-15/ds379/panel.pdf",
+        "bytes": 2058596,
+        "sha256": "87a132a707f4e54aa61309e88396c3fed1bf6cb45ff606cc0ec7b5d9cf49bc6a"
+      }
+    }
+  ],
+  "existing_sources_reused": [
+    "DS379-01",
+    "DS379-03",
+    "DS379-04",
+    "DS379-07",
+    "DS379-08"
+  ],
+  "acquisition_cautions": [
+    {
+      "url": "https://enforcement.trade.gov/download/section129/prc-lw-sacks-Final-129-Determination-20120830.pdf",
+      "result": "Live URL and query-string variant redirected to https://trade.gov/sites/default/files/2024-09/ita-338p.pdf, an unrelated scientific-instrument form. EXCLUDED; original recovered through timestamped public web archive."
+    },
+    {
+      "url": "https://access.trade.gov/Resources/download/section129/prc-lw-sacks-Final-129-Determination-20120830.pdf",
+      "result": "404. Not evidence."
+    },
+    {
+      "url": "https://web.archive.org/cdx/search/cdx",
+      "result": "Two targeted CDX queries returned 503. Timestamped archived PDF retrieval succeeded separately. Archived section129 directory and index.html retrievals returned 404."
+    },
+    {
+      "url": "https://access.trade.gov/",
+      "result": "Root returned general trade.gov page; login.aspx returned 404. No authenticated ACCESS access attempted, account created or credential used."
+    },
+    {
+      "lead": "May 18, 2012 sacks preliminary CVD calculation and Attachment 3",
+      "result": "Exact title recovered at final memorandum p.44; targeted indexed searches did not locate a standalone original. No numerical cause inferred from missing attachment."
+    },
+    {
+      "lead": "2016 Chinese legal article indexed with assertion that Aifudi increase resulted from facts available",
+      "result": "Search excerpt only, not acquired or counted as read. Not used to explain the increase. Final memorandum p.2 says the WTO facts-available issue pertained to CWP/LWRPT; that does not by itself establish what information was used in every sacks calculation."
+    }
+  ],
+  "remaining_limits": [
+    "Separate May 18 sacks calculation, supplier-classification attachments, raw sales/cost denominators and complete original Chinese administrative submissions unacquired.",
+    "No decomposition of increased CVD rate or net burden across duties.",
+    "No underlying 2016 remand memorandum or entry-level implementation study.",
+    "No private Chinese litigation mandate, allocation of argument authorship or motive for later procedural choices."
+  ],
+  "source_dependence_note": "Commerce’s summaries of submissions and Chen’s discussion of Commerce are not independent witnesses to the same administrative facts. The WTO minutes directly record the later official positions. US public-domain materials are paraphrased; no full copyrighted source is stored in Git."
+}

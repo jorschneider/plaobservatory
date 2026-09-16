@@ -1,4 +1,6 @@
-# Research manuscript completion record — 15 September 2026
+# First research-draft completion record — 15 September 2026
+
+**Superseded as a statement of the active goal’s completion.** The user’s publication-quality objective requires further work, recorded in the [development brief](development/README.md). The checks below establish a complete first research draft and functioning reading edition; they do not establish that a leading press would publish it or that its practical guidance is sufficient.
 
 The delivered work is **Bargaining with China: authority, commitments and change**: an introduction, seven substantive chapters, a conclusion and three appendices, with a single [HTML reading edition](reading-edition.html). It is an original reassessment of Solomon using the supplied book and accessible primary documents, reporting, participant accounts and scholarship. It is a complete research manuscript; publication readiness and access equivalent to Solomon’s are not claimed.
 

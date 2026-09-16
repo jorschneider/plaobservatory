@@ -1,6 +1,6 @@
 # Full-text reading ledger
 
-**15 September 2026.** The program has completed **eighteen scholarly readings of the versions specified below**, with additional bounded readings and selected primary-source checks. These are eighteen works, not eighteen independent evidentiary samples. Policy reports and industry chapters are listed separately. The 2023 Gao chapter is counted once as a version of the previously screened 2022 article. Shared authorship, reused interviews and repeated documentary sources are recorded in the memos.
+**15 September 2026.** The program has completed **nineteen scholarly readings of the versions specified below**, with additional bounded readings and selected primary-source checks. These are nineteen works, not nineteen independent evidentiary samples. Policy reports and industry chapters are listed separately. The 2023 Gao chapter is counted once as a version of the previously screened 2022 article. Shared authorship, reused interviews and repeated documentary sources are recorded in the memos.
 
 Start with the [working manuscript](../../manuscript/README.md), [EU accession comparison](../../cases/eu-wto-2000-comparison.md), [climate comparison](../../cases/climate-2009-2015.md) and [Russian and scope reassessment](../../cases/russia-and-scope-reassessment.md), following the [implementation comparison](../../cases/implementation-and-major-power-reassessment.md), [first substantive assessment](../first-full-text-synthesis.md) and [2018–2026 trade-case synthesis](../../cases/us-trade-2018-2026-synthesis.md). This ledger documents their reading base and limits; it is not a claim that the entire literature or the history through 2026 has been covered.
 
@@ -26,6 +26,7 @@ Start with the [working manuscript](../../manuscript/README.md), [EU accession c
 | Gries and Peng, “Culture Clash? Apologies East and West” (2002) | Complete author-uploaded article text, *Journal of Contemporary China* 11(30):173–178, all six pages and fifteen notes; PDF not obtained or visually checked | Cultural interpretation of EP-3 public commentary using earlier psychology studies; no new EP-3 decision-maker experiment or private drafting record. |
 | Wu, “A Bargaining Theory of US–China Economic Rivalry” (2024) | Complete publisher HTML, substantive text and all 106 notes; *Chinese Journal of International Politics* 17(4):323–345 | Learning and commitment mechanisms; source-chain audit separates theoretical interpretation from the unpublished spring 2019 draft and corrects the May 2018 joint-statement claim. [Critical reading](phase-one-bargaining-theory.md). |
 | Angela Huyue Zhang, “The U.S.–China Trade Negotiation: A Contract Theory Perspective” (2020) | Complete publisher PDF, 809–866, all 58 pages and 376 notes; five key pages visually inspected | Observable laws, administrative practice and credible enforcement costs; judge interview concerns legal design, not Xi's mandate. Prospective 2019 remedy discussion is distinguished from the signed agreement. [Critical reading](phase-one-contract-theory.md). |
+| Bohman, Wong and Ferguson, “The Old Logic Behind China’s New Economic Weapons” (2025) | Complete published article, 25–45, three figures, Table 1 and all 48 notes; selected original-reference checks | Formalization, discretionary enforcement and conditions for relief; 233 restrictions are not negotiation outcomes. [Critical reading](../../manuscript/development/old-logic-2025-reading.md). |
 
 ## Completed policy and participant readings
 
@@ -44,6 +45,11 @@ These are useful additional readings, not additions to the scholarly-article cou
 - **Daniel Arthur Lapres (2000), “The EU-China WTO Deal Compared”:** complete article in *The China Business Review*, July–August, pp. 8, 10–12, 14; comparison table visually inspected, intervening advertisements excluded. Practitioner analysis with several summary discrepancies; not a scholarly-article or private-meeting source. See [EWT-04](../../sources/eu-wto-2000-register.json).
 
 - **Joseph Prueher (2019), Georgetown US–China Dialogue interview:** complete written transcript read; audio not listened to. The ambassador explicitly says he used Solomon’s book. His remembered letter wording differs from the contemporary release; separate-channel and aircraft-permission claims require independent checking. See [EP313](../../sources/ep3-2001-access-register.json) and the [access audit](../../reporting/ep3-2001-access-audit.md).
+
+- **Zhou Wenzhong (2018):** complete published Wenhui interview text, dated July 5 and republished December 12, credited to the Shanghai American Studies *40 Years, 40 People* project. Chinese participant recollection, not an original instruction or draft series. [Reading and paired-account limits](../../manuscript/development/crisis-development-2026-09-15.md).
+
+
+- **Xie Zhenhua (2014):** complete Chinese *Caixin* interview, conducted November 15 and posted November 21; complete December 2 ChinaFile publication of English excerpts also read. One participant chain with different coverage: the Chinese version includes the exchange on reciprocal acceptability omitted from the excerpts. [Reading record](../../manuscript/development/chapter-03-climate-edit-memo.md).
 
 ## Bounded and related readings
 
@@ -91,3 +97,9 @@ The first pass gives a defensible interpretation of available scholarship and se
 The later passes supply selected successful and delayed implementation sequences and comparisons with India and Russia. It is not a statistically matched causal study. The next step is to recover the application, authorization and verification records identified in those cases. The new Hong Kong study supplies archive leads for a separate major-power baseline check. Missing commercial texts remain useful acquisition leads, but the project proceeds with the online evidence available.
 
 Full source PDFs, OCR, HTML and rendered source pages remain outside Git. The repository contains original analysis, bibliographic metadata, source locators and the audit of what was read. There has been no new outreach, interview or private archive access.
+
+## Additional selected reading in the developmental pass
+
+Farrell and Newman (2019), “Weaponized Interdependence,” complete printed pages 52–58 and 75–79 including notes. Theory, scope conditions and concluding limits were read; the empirical narratives were not fully read. It is excluded from the complete-work count. [Reading record](../../manuscript/development/network-power-selected-reading.md).
+
+Chen Weidong (2013), “对华贸易救济的争端解决与后续执行——以中国起诉案件为重点,” complete sections III and V with corresponding notes, author identification and abstract. Other sections screened only; excluded from the complete-work count. [Reading scope and original-document checks](../../manuscript/development/chapter-03-trade-research-2026-09-15.md).

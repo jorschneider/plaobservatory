@@ -1,0 +1,207 @@
+{
+  "title": "Chapter 3 climate developmental replacement: scoped acquisition and rereading register",
+  "version_date": "2026-09-15",
+  "status": "Proposed replacement for parent review; not integrated chapter or final-book approval.",
+  "fragment": "chapter-03-climate-replacement.md",
+  "edit_memo": "chapter-03-climate-edit-memo.md",
+  "existing_case_register": "../../sources/climate-2009-2015-register.json",
+  "capture_root": "/Users/jorsc/.codex/.chatgpt-projects/g-p-6a94dd290a988191911d85ae8fe94a6c/tmp/pdfs/research-2026-09-15/climate-development",
+  "source_count": 2,
+  "counting_rule": "One new published participant interview in two related language versions, plus one new contemporary report of public remarks. Versions of the interview count as one source. Neither source is a new scholarly article or an acquired private record.",
+  "new_reading_totals": {
+    "complete_published_participant_interviews": 1,
+    "complete_contemporary_reports": 1,
+    "complete_scholarly_works": 0
+  },
+  "sources": [
+    {
+      "id": "CLD01",
+      "title": "解振华：让气候目标倒逼改革",
+      "title_english_for_reference": "Xie Zhenhua: using climate targets to drive reform (our reference translation)",
+      "interviewee": "Xie Zhenhua",
+      "interviewers": [
+        "Hu Shuli / 胡舒立",
+        "Gong Jing / 宫靖",
+        "Kong Lingyu / 孔令钰"
+      ],
+      "publisher": "Caixin / 财新《新世纪》; edited English excerpts published by ChinaFile",
+      "interview_date": "2014-11-15",
+      "chinese_page_date": "2014-11-21 10:27",
+      "english_page_date": "2014-12-02",
+      "url": "https://weekly.caixin.com/m/2014-11-21/100753798_all.html",
+      "source_type": "Contemporaneous published participant interview, edited by the interviewing publication.",
+      "retrieval_date": "2026-09-15",
+      "access_status": "Public HTML acquired without authentication; no bypass or outreach.",
+      "reading_status": "Complete published Chinese interview and attached biography read; complete English excerpt publication read.",
+      "reading_limits": "Neither raw interview recording nor a complete verbatim underlying transcript was acquired. The English version explicitly consists of excerpts and is not coextensive with the Chinese version.",
+      "decisive_locators": [
+        {
+          "heading": "酝酿已久 当天定稿",
+          "content": "September leader communication, domestic target choice, mutual comfort, contacts and finalization; top-level attention."
+        },
+        {
+          "heading": "有雄心、有力度的目标",
+          "content": "Public account of domestic restructuring rationale and leadership requirements."
+        },
+        {
+          "heading": "气候目标不会让GDP增速大降",
+          "content": "Nearly two years of modeling, disagreement among estimates, central leadership and State Council decision."
+        },
+        {
+          "heading": "中美共赢",
+          "content": "First three Q&A exchanges: targets nationally decided, agreement not to negotiate each other’s targets qualified by unavoidable discussion, and teams evaluating both sides’ effort."
+        },
+        {
+          "heading": "达标路线图",
+          "content": "Domestic planning/legal characterization; kept distinct from international target-result obligations."
+        }
+      ],
+      "supports": "A direct Chinese participant account allowing comparison with Stern on reciprocal acceptability, domestic analytical disagreement and political choice. The Chinese original gives the decisive national-choice versus mutual-endorsement distinction omitted from the English excerpts.",
+      "limits": "Public defense of the policy, not independently verified internal instructions or proof of why leaders chose a particular number. Does not quantify a reciprocal trade of increments or prove delivery. Technical and economic claims elsewhere in the interview are not adopted as independently verified findings.",
+      "chronology_control": "Xie foregrounds Zhang Gaoli’s September message and implementation of leaders’ understandings; Stern describes an earlier US January–February initiative. Their emphases do not supply a fully reconciled chronology and do not by themselves demonstrate contradiction.",
+      "independence_and_source_chain": "Distinct interview with the Chinese participant, not a repetition of Stern; Chinese original and ChinaFile excerpts remain one interview chain. Related short Caixin reports from the same interview are not additional witnesses.",
+      "versions": [
+        {
+          "language": "zh",
+          "url": "https://weekly.caixin.com/m/2014-11-21/100753798_all.html",
+          "reading": "complete published body, all Q&A, attached biography",
+          "captures": [
+            {
+              "path": "/Users/jorsc/.codex/.chatgpt-projects/g-p-6a94dd290a988191911d85ae8fe94a6c/tmp/pdfs/research-2026-09-15/climate-development/CLD01-zh.html",
+              "format": "raw HTML",
+              "bytes": 96342,
+              "sha256": "b931d611d192c179e2aa72efe6d7cc9ee2c8217bd607e930657fd0bba90f978e"
+            },
+            {
+              "path": "/Users/jorsc/.codex/.chatgpt-projects/g-p-6a94dd290a988191911d85ae8fe94a6c/tmp/pdfs/research-2026-09-15/climate-development/CLD01-zh.txt",
+              "format": "derived plain text",
+              "bytes": 37308,
+              "sha256": "962a5b2574aa8b33ff540018267a4073fbbc8afc74ce4fd3202d12e88e97cf57"
+            }
+          ]
+        },
+        {
+          "language": "en",
+          "title": "Clearing the Air With a Sino-U.S. Climate Pact: Hu Shuli Leads Interview with China’s Chief Climate Negotiator, Xie Zhenhua",
+          "url": "https://www.chinafile.com/reporting-opinion/caixin-media/clearing-air-sino-us-climate-pact",
+          "reading": "complete published excerpts, not complete original interview",
+          "captures": [
+            {
+              "path": "/Users/jorsc/.codex/.chatgpt-projects/g-p-6a94dd290a988191911d85ae8fe94a6c/tmp/pdfs/research-2026-09-15/climate-development/CLD01-en.html",
+              "format": "raw HTML",
+              "bytes": 57531,
+              "sha256": "34ed8541e0c2cae0980b431618638c73e22d2d8dac799f15d05c9b4e0bfe83da"
+            },
+            {
+              "path": "/Users/jorsc/.codex/.chatgpt-projects/g-p-6a94dd290a988191911d85ae8fe94a6c/tmp/pdfs/research-2026-09-15/climate-development/CLD01-en.txt",
+              "format": "derived plain text",
+              "bytes": 16308,
+              "sha256": "f1fc7223c18b4efc7f66658f508772b84b734925603697e15232f539e7c69c2b"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "CLD02",
+      "title": "US-China chat broke impasse at Lima climate talks",
+      "author": "Ed King",
+      "publisher": "Climate Home News / Climate Change News; contemporary article originally dated December 16, 2014",
+      "publication_date": "2014-12-16",
+      "displayed_update_date": "2025-02-08",
+      "event_scope": "Closing Lima conference, including a Saturday-afternoon meeting between Stern and Xie and remarks at early-Sunday press conferences.",
+      "url": "https://www.climatechangenews.com/2014/12/16/us-china-chat-broke-impasse-at-lima-climate-talks/",
+      "source_type": "Contemporary original reporting of public participant remarks, with reporter interpretation of their significance.",
+      "retrieval_date": "2026-09-15",
+      "reading_status": "Complete current article body read, excluding unrelated site navigation and recommendations.",
+      "decisive_locator": "Article body beginning with the late envoys’ meeting; paragraphs describing the differentiation language and attributed remarks by Stern, Figueres and Javadekar.",
+      "supports": "Attributes a proposal of bilateral differentiation wording to Stern and Xie and records different public readings of the resulting formulation.",
+      "limits": "Original 2014 webpage version, raw reporting notes, press-conference recordings and official transcripts not recovered. The private meeting was not documented here independently. The claim that the meeting saved the conference is the reporter’s causal interpretation and is not adopted as established.",
+      "independence_and_source_chain": "A separate reporter from ENB, but quotations of Stern remain Stern’s public account; final Lima text establishes wording, not independent access to the private drafting exchange.",
+      "captures": [
+        {
+          "path": "/Users/jorsc/.codex/.chatgpt-projects/g-p-6a94dd290a988191911d85ae8fe94a6c/tmp/pdfs/research-2026-09-15/climate-development/CLD02.html",
+          "format": "raw HTML",
+          "bytes": 138505,
+          "sha256": "123688978db621d3795806f5e3d48ebf89a6fd68e7c120a7e09462dde1bd12bd"
+        },
+        {
+          "path": "/Users/jorsc/.codex/.chatgpt-projects/g-p-6a94dd290a988191911d85ae8fe94a6c/tmp/pdfs/research-2026-09-15/climate-development/CLD02.txt",
+          "format": "derived plain text",
+          "bytes": 13457,
+          "sha256": "9f33d563c62957919b8856b157e17ab0f997f083720187505ebedb2b85db4fd0"
+        }
+      ]
+    }
+  ],
+  "existing_sources_revisited": [
+    {
+      "id": "CLI06",
+      "scope_this_pass": "Complete 2019 Georgetown Stern written transcript reread, including all interview questions and answers. Truncated displays reread in bounded spans. Audio not reviewed.",
+      "preserved_scope": "Retrospective participant recollection; no newly obtained drafts or instructions."
+    },
+    {
+      "id": "CLI01",
+      "scope_this_pass": "Selected Chinese Copenhagen passages on targets, transparency, invitations and BASIC/US coordination reread.",
+      "preserved_scope": "Full body read in earlier pass; official narrative, not authenticated instruction sheets."
+    },
+    {
+      "id": "CLI03",
+      "scope_this_pass": "Existing accord/decision interpretation used, especially paragraph 5 and note-only COP disposition.",
+      "preserved_scope": "Selected decision within larger compilation; not a new full compilation reading."
+    },
+    {
+      "id": "CLI04",
+      "scope_this_pass": "Selected sections 3–4 reread on consultation and analysis and remaining guidelines.",
+      "preserved_scope": "Full essay previously read; public expert interpretation."
+    },
+    {
+      "id": "CLI05",
+      "scope_this_pass": "Conrad pp. 443–445 reread; method passage p. 437 revisited.",
+      "preserved_scope": "Full scholarly article previously read; underlying interviews unavailable."
+    },
+    {
+      "id": "CLI07–CLI08",
+      "scope_this_pass": "Prior verified Cancun and Durban provisions used as institutional chronology.",
+      "preserved_scope": "Selected decisions, not full COP compilations."
+    },
+    {
+      "id": "CLI09–CLI10",
+      "scope_this_pass": "Full substantive Chinese April statement and July report, including initiatives, reporting lines and annex, reread.",
+      "preserved_scope": "Joint plans and institutional assignments do not establish completed projects."
+    },
+    {
+      "id": "CLI12",
+      "scope_this_pass": "Full Chinese announcement reread; relevant English paragraphs 1–8 revisited, with target paragraph controlling numerical description.",
+      "preserved_scope": "Both complete language versions previously read; US PDF editorial provenance qualification retained in original register."
+    },
+    {
+      "id": "CLI13–CLI14",
+      "scope_this_pass": "Lima decision paragraphs 1–8 and ENB Enabling Construction analysis reread.",
+      "preserved_scope": "Selected decision/report reading remains selected."
+    },
+    {
+      "id": "CLI15",
+      "scope_this_pass": "Full Chinese statement reread; relevant English Paris-outcome, transparency and finance passages revisited.",
+      "preserved_scope": "Both full language versions previously read; plans distinguished from delivery."
+    },
+    {
+      "id": "CLI16",
+      "scope_this_pass": "Selected Paris passages reread: transparency objection, December 5 China position, differentiation facilitators and December 9 state of positions.",
+      "preserved_scope": "No claim to full report or private consultation minutes."
+    },
+    {
+      "id": "CLI17",
+      "scope_this_pass": "Prior checked treaty clauses used for final interpretation: Articles 4, 9, 13 and 15.",
+      "preserved_scope": "Selected authentic language clauses, not full multilingual treaty record."
+    }
+  ],
+  "unacquired_or_unperformed": [
+    "Private 2014–2015 negotiating drafts and approval traffic.",
+    "Underlying Chinese technical model submissions and leader decision papers.",
+    "Raw Caixin recording or editorially unabridged interview transcript.",
+    "Original closing-Lima press-conference recording or official transcript, after bounded online search.",
+    "Original 2014 version of CLD02.",
+    "No outreach, new interviews or reconstruction of post-2015 performance."
+  ]
+}

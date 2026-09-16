@@ -1,0 +1,286 @@
+{
+  "title": "The Old Logic Behind China’s New Economic Weapons: complete reading and selected citation audit",
+  "version_date": "2026-09-15",
+  "status": "Developmental research for parent review; not final chapter approval.",
+  "memo": "old-logic-2025-reading.md",
+  "research_protocol": "../../RESEARCH_PROTOCOL.md",
+  "capture_root": "/Users/jorsc/.codex/.chatgpt-projects/g-p-6a94dd290a988191911d85ae8fe94a6c/tmp/pdfs/research-2026-09-15/economic-coercion-literature",
+  "source_count": 5,
+  "reading_totals": {
+    "new_complete_scholarly_journal_articles": 1,
+    "new_complete_articles_with_independently_verified_peer_review_status": 0,
+    "bounded_reference_check_documents": 4
+  },
+  "counting_rule": "One new complete scholarly journal reading, plus four original documents used for selected reference checks. Related June policy brief and overlapping official/Reuters sources remain dependent evidence. A complete article reading does not mean its cited works were read.",
+  "source_format_rule": "The published PDF and original HTML bytes are preserved separately from derived text and rendered page images. Hashes refer to exact local bytes.",
+  "unperformed_work": [
+    "No row-level replication of China Sanctions Monitor.",
+    "No complete audit of all 48 references.",
+    "No new interviews, outreach or internal records.",
+    "ANU thesis fallback and Lim–Ferguson 2022 article were not acquired or read because the requested published article was recovered."
+  ],
+  "cross_references": {
+    "case_memo": "trade-2025-export-controls-evidence.md",
+    "case_register": "trade-2025-export-controls-register.json",
+    "assessment": "../appendices/01-proposition-assessment.md"
+  },
+  "sources": [
+    {
+      "id": "OL25-01",
+      "authors": [
+        "Viking Bohman",
+        "Audrye Wong",
+        "Victor A. Ferguson"
+      ],
+      "title": "The Old Logic Behind China’s New Economic Weapons",
+      "publication": "The Washington Quarterly",
+      "volume": 48,
+      "issue": 3,
+      "issue_date": "Fall 2025",
+      "publication_date": "2025-09-29",
+      "pages": "25–45",
+      "doi": "10.1080/0163660X.2025.2554476",
+      "url": "https://doi.org/10.1080/0163660X.2025.2554476",
+      "download_url": "https://bpb-us-e1.wpmucdn.com/blogs.gwu.edu/dist/1/2181/files/2025/09/TWQ_48_3_BohmanWongFerguson.pdf",
+      "source_type": "Published scholarly journal article; publisher section identified as Provocations. No separate verification of the article’s peer-review process.",
+      "access_status": "Complete published PDF acquired from a George Washington University journal host; PDF explicitly licenses the article under CC BY 4.0.",
+      "retrieval_date": "2026-09-15",
+      "reading_status": "complete",
+      "reading_scope": "All printed pages 25–45, including all substantive prose, Figures 1–3, Table 1, and notes 1–48. Cover metadata also read. Visual checks: physical pages 2, 6, 7, 8, 12 and 21 (printed pages 25, 29–31, 35 and 44).",
+      "pagination": "22 physical pages: publisher cover is physical page 1; printed pages 25–45 are physical pages 2–22.",
+      "empirical_cutoff": "Dataset: 2010 through 2025-08-10; later publication date does not extend the data window.",
+      "method": "Descriptive dataset of 233 individual economic restrictions. Formal measures identified from official Chinese websites; informal measures inferred from credible reporting, timing and interpretation of likely political or security motivation. Chinese-language legal scholarship and selected episodes develop mechanism hypotheses.",
+      "reported_results": {
+        "individual_restrictions": 233,
+        "formal_measures": 75,
+        "formal_countersanctions": 46,
+        "formal_countersanctions_share_reported": "61 percent",
+        "formal_measures_targeting_united_states_share_reported": "69 percent",
+        "status": "Authors’ reported counts, printed pp. 28–30; underlying row-level dataset not downloaded or independently recoded."
+      },
+      "decisive_locators": [
+        {
+          "pages": "26–28",
+          "content": "Hybrid formal/informal framing; definition and ascertainment of measures; dataset cutoff and non-exhaustiveness."
+        },
+        {
+          "pages": "29–32",
+          "content": "Formalization, countersanction classification, reported counts, Taiwan concentration and alternative explanations."
+        },
+        {
+          "pages": "32–33; notes 25–29",
+          "content": "Domestic principal–agent coordination and foreign threat legibility hypotheses."
+        },
+        {
+          "pages": "34–36; Table 1 on p. 35",
+          "content": "2018/2025 comparison; formal and informal restrictions; April 4 dating; Geneva statement interpretation."
+        },
+        {
+          "pages": "36–39",
+          "content": "Discretion over enforcement; licensing rather than total prohibition; ambiguous relief conditions; compellence/deterrence alternatives."
+        },
+        {
+          "pages": "39–40",
+          "content": "Conditional future evolution and continuing hybrid model."
+        },
+        {
+          "pages": "40–45, all notes",
+          "content": "Complete citation apparatus, source dependencies and selected reference errors."
+        }
+      ],
+      "supports": "Formalization can coexist with enforcement discretion and ambiguity about conditions for relief. Offers a descriptive challenge to treating all growth in formal restrictions as increasing proactive initiation. Supplies coordination, credibility and flexibility mechanisms for testing.",
+      "limits": [
+        "Individual restrictions are not independent negotiations, economic cost estimates or observations of bargaining success.",
+        "Official and inferred measures differ in observability; authors acknowledge incomplete earlier coverage; 2025 is a partial year.",
+        "No independent dataset replication undertaken here.",
+        "Mechanisms are argued with illustrative material; no private instructions establish why a particular licensing application was delayed or approved.",
+        "Comparison with Western or democratic sanctions systems is not a matched cross-country test of enforcement or legal predictability.",
+        "The 2010 starting date cannot establish a transition from Solomon’s 1967–1984 baseline.",
+        "Complete reading of this article is not complete reading of the literature cited in its notes."
+      ],
+      "independence_and_source_chain": [
+        "Related to the same authors’ June 18, 2025 policy brief (EC25-12), explicitly cited in note 30; not independent confirmation of overlapping events.",
+        "Note 32 cites the Geneva joint statement already acquired as EC25-02.",
+        "Note 35 cites the April 4 export-control instrument already acquired as EC25-01.",
+        "Note 42 cites the Reuters licensing-process report already acquired as EC25-25.",
+        "Chinese legal articles in notes 18–24 are evidence of published scholarly framing, not released negotiating mandates, and were not independently read in this task.",
+        "THAAD principal–agent illustration relies on Miura (note 26); Lim and Ferguson 2022 is cited in note 10. Neither work was newly acquired or read here."
+      ],
+      "critical_reference_checks": [
+        "Note 43 prints December 5, 2025 for the MFA decision whose original operative date is December 5, 2024: OL25-02.",
+        "Note 43 prints April 7, 2025 for the Hudson/Reagan decision whose original operative date is April 7, 2023: OL25-03.",
+        "Note 43 prints July 31, 2025 for the McGovern decision whose original operative date is July 31, 2024: OL25-04.",
+        "The prose on p. 38 discusses Michael McCaul, but note 43’s congressional citation is about Jim McGovern; it is not a direct source for the prose example.",
+        "Note 47 prints January 5, 2025 for the linked BNS/LRT report, dated January 5, 2022 in the original: OL25-05.",
+        "These are selected citation checks, not evidence that the dataset uses those erroneous years and not an audit of all references.",
+        "Table 1 correctly dates the rare-earth restrictions to April 4; the June policy brief’s erroneous March 14 label is not reproduced in this table."
+      ],
+      "captures": [
+        {
+          "path": "/Users/jorsc/.codex/.chatgpt-projects/g-p-6a94dd290a988191911d85ae8fe94a6c/tmp/pdfs/research-2026-09-15/economic-coercion-literature/Bohman-Wong-Ferguson-2025-Old-Logic.pdf",
+          "format": "published PDF",
+          "bytes": 864608,
+          "sha256": "15f62755347f16f4ee200dabec5d5ae39f906daa86a341ebc1ff5baa85dac8fe"
+        },
+        {
+          "path": "/Users/jorsc/.codex/.chatgpt-projects/g-p-6a94dd290a988191911d85ae8fe94a6c/tmp/pdfs/research-2026-09-15/economic-coercion-literature/Bohman-Wong-Ferguson-2025-Old-Logic.txt",
+          "format": "derived full text",
+          "bytes": 62339,
+          "sha256": "f59df1fd2bdb7edd7c11b23a13cb770841c5ddd8962f76165ff2b47f78ab6228"
+        },
+        {
+          "path": "/Users/jorsc/.codex/.chatgpt-projects/g-p-6a94dd290a988191911d85ae8fe94a6c/tmp/pdfs/research-2026-09-15/economic-coercion-literature/visual-physical-02.png",
+          "format": "selected page render",
+          "bytes": 340415,
+          "sha256": "928854cfa0f91ef7afdbe3ed14cfcbc1082c1d0ac7b418d0c547720e7b003fa9"
+        },
+        {
+          "path": "/Users/jorsc/.codex/.chatgpt-projects/g-p-6a94dd290a988191911d85ae8fe94a6c/tmp/pdfs/research-2026-09-15/economic-coercion-literature/visual-physical-06.png",
+          "format": "selected page render",
+          "bytes": 335060,
+          "sha256": "91523b297f91c083be20b67dddb94197da3b97eb94d69e8ec59f9c4ef058e123"
+        },
+        {
+          "path": "/Users/jorsc/.codex/.chatgpt-projects/g-p-6a94dd290a988191911d85ae8fe94a6c/tmp/pdfs/research-2026-09-15/economic-coercion-literature/visual-physical-07.png",
+          "format": "selected page render",
+          "bytes": 330415,
+          "sha256": "8a0058f5d6dcfd098204545b26ba7b9ff1eb7f91da2c1b96fe8acd9f8a8f4326"
+        },
+        {
+          "path": "/Users/jorsc/.codex/.chatgpt-projects/g-p-6a94dd290a988191911d85ae8fe94a6c/tmp/pdfs/research-2026-09-15/economic-coercion-literature/visual-physical-08.png",
+          "format": "selected page render",
+          "bytes": 296523,
+          "sha256": "21f14d6a4bebfa53d4a30ca16bd15d8369f9a2ab1067b23d8cd45637150fc77e"
+        },
+        {
+          "path": "/Users/jorsc/.codex/.chatgpt-projects/g-p-6a94dd290a988191911d85ae8fe94a6c/tmp/pdfs/research-2026-09-15/economic-coercion-literature/visual-physical-12.png",
+          "format": "selected page render",
+          "bytes": 360675,
+          "sha256": "c0f4dc7a5cde78c9eddd1f6a07d242412aa56e1b14425e474d19a8c1d713e17c"
+        },
+        {
+          "path": "/Users/jorsc/.codex/.chatgpt-projects/g-p-6a94dd290a988191911d85ae8fe94a6c/tmp/pdfs/research-2026-09-15/economic-coercion-literature/visual-physical-21.png",
+          "format": "selected page render",
+          "bytes": 520715,
+          "sha256": "e38e351872a0bb305493e09c3a52a74ad16cc86c723c1d3ceddc5f2eed0edf7a"
+        }
+      ]
+    },
+    {
+      "id": "OL25-02",
+      "title": "关于对美国军工企业及高级管理人员采取反制措施的决定",
+      "author_or_issuing_body": "Ministry of Foreign Affairs, PRC",
+      "publication_date": "2024-12-05",
+      "url": "https://www.mfa.gov.cn/wjb_673085/zfxxgk_674865/gknrlb/fzcqdcs/202412/t20241205_11538936.shtml",
+      "source_type": "primary published sanctions decision",
+      "retrieval_date": "2026-09-15",
+      "reading_status": "complete substantive document",
+      "reading_scope": "Complete substantive Chinese decision and attached names read in browser, including header, authority, restrictions and effective date; raw HTML and text preserved.",
+      "decisive_locator": "Header; parenthetical promulgation line; final effective-date paragraph and signature.",
+      "supports": "Confirms December 5, 2024, correcting the 2025 date in OL25-01 note 43.",
+      "limits": "Not evidence of implementation, domestic compliance or the private purpose of a 2025 negotiating move.",
+      "independence_and_source_chain": "Acquired only as a direct check of a citation in OL25-01; not counted as an additional independent witness to the Geneva–London negotiations.",
+      "captures": [
+        {
+          "path": "/Users/jorsc/.codex/.chatgpt-projects/g-p-6a94dd290a988191911d85ae8fe94a6c/tmp/pdfs/research-2026-09-15/economic-coercion-literature/OL25-02.html",
+          "format": "raw HTML",
+          "bytes": 63574,
+          "sha256": "e0a5babed118ac91d60cbd5eae6ddc88a65fe211de708dd4083244bc07b11c3a"
+        },
+        {
+          "path": "/Users/jorsc/.codex/.chatgpt-projects/g-p-6a94dd290a988191911d85ae8fe94a6c/tmp/pdfs/research-2026-09-15/economic-coercion-literature/OL25-02.txt",
+          "format": "derived plain text",
+          "bytes": 9391,
+          "sha256": "c97df62577856f46a83f6f25673c7a63cf3782b332a75aa5af7edab20d97ccc7"
+        }
+      ]
+    },
+    {
+      "id": "OL25-03",
+      "title": "关于对美国哈德逊研究所、里根图书馆及其负责人采取反制措施的决定",
+      "author_or_issuing_body": "Ministry of Foreign Affairs, PRC",
+      "publication_date": "2023-04-07",
+      "url": "https://www.mfa.gov.cn/wjb_673085/zfxxgk_674865/gknrlb/fzcqdcs/202304/t20230407_11055802.shtml",
+      "source_type": "primary published sanctions decision",
+      "retrieval_date": "2026-09-15",
+      "reading_status": "complete substantive document",
+      "reading_scope": "Complete substantive Chinese decision and appended list read in browser, including header, Qin Gang promulgation, grounds, restrictions and effective date; raw HTML and text preserved.",
+      "decisive_locator": "Header and promulgation; final effective-date paragraph; attached list.",
+      "supports": "Confirms April 7, 2023, correcting the 2025 date in OL25-01 note 43.",
+      "limits": "Public grounds and measures are not proof of actual enforcement or privately communicated relief conditions.",
+      "independence_and_source_chain": "Acquired only as a direct check of a citation in OL25-01; not counted as an additional independent witness to the Geneva–London negotiations.",
+      "captures": [
+        {
+          "path": "/Users/jorsc/.codex/.chatgpt-projects/g-p-6a94dd290a988191911d85ae8fe94a6c/tmp/pdfs/research-2026-09-15/economic-coercion-literature/OL25-03.html",
+          "format": "raw HTML",
+          "bytes": 60750,
+          "sha256": "31aa5d844b781af06ecb75623d860b787013a389db569f3ecad9a1b19eb587b8"
+        },
+        {
+          "path": "/Users/jorsc/.codex/.chatgpt-projects/g-p-6a94dd290a988191911d85ae8fe94a6c/tmp/pdfs/research-2026-09-15/economic-coercion-literature/OL25-03.txt",
+          "format": "derived plain text",
+          "bytes": 8154,
+          "sha256": "12c9173917e11a0f6e05f472e94710848a97d59df7452e68a8854c159a67ccbe"
+        }
+      ]
+    },
+    {
+      "id": "OL25-04",
+      "title": "关于对美国国会议员麦戈文采取反制措施的决定",
+      "author_or_issuing_body": "Ministry of Foreign Affairs, PRC",
+      "publication_date": "2024-07-31",
+      "url": "https://www.mfa.gov.cn/wjb_673085/zfxxgk_674865/gknrlb/fzcqdcs/202407/t20240731_11463924.shtml",
+      "source_type": "primary published sanctions decision",
+      "retrieval_date": "2026-09-15",
+      "reading_status": "complete substantive document",
+      "reading_scope": "Complete substantive Chinese decision and single-name attachment read in browser; raw HTML and text preserved.",
+      "decisive_locator": "Header; parenthetical promulgation and final effective-date lines; attachment naming Jim McGovern.",
+      "supports": "Confirms July 31, 2024 and identity Jim McGovern. The cited instrument is not the Michael McCaul example discussed in OL25-01 prose.",
+      "limits": "This citation mismatch does not establish that no separate McCaul instrument exists; that separate instrument was not acquired for this bounded check.",
+      "independence_and_source_chain": "Acquired only as a direct check of a citation in OL25-01; not counted as an additional independent witness to the Geneva–London negotiations.",
+      "captures": [
+        {
+          "path": "/Users/jorsc/.codex/.chatgpt-projects/g-p-6a94dd290a988191911d85ae8fe94a6c/tmp/pdfs/research-2026-09-15/economic-coercion-literature/OL25-04.html",
+          "format": "raw HTML",
+          "bytes": 59447,
+          "sha256": "03e65f542b631c97cdc8de56862d422fb64ad4431a76b81c67a936f7a725e5b1"
+        },
+        {
+          "path": "/Users/jorsc/.codex/.chatgpt-projects/g-p-6a94dd290a988191911d85ae8fe94a6c/tmp/pdfs/research-2026-09-15/economic-coercion-literature/OL25-04.txt",
+          "format": "derived plain text",
+          "bytes": 6875,
+          "sha256": "f803e0f906cfa3f8fa67bd284b06b36e36410898022b7bc14badebf776dfa714"
+        }
+      ]
+    },
+    {
+      "id": "OL25-05",
+      "title": "Lithuanian FM rejects president’s criticism over Taiwan office",
+      "author_or_issuing_body": "BNS; published by LRT",
+      "publication_date": "2022-01-05",
+      "url": "https://www.lrt.lt/en/news-in-english/19/1581550/lithuanian-fm-rejects-president-s-criticism-over-taiwan-office",
+      "source_type": "contemporaneous wire report reproduced by public broadcaster",
+      "retrieval_date": "2026-09-15",
+      "reading_status": "complete substantive document",
+      "reading_scope": "Full short report and date/byline read; unrelated site navigation and current recommendations excluded. Raw HTML and text preserved.",
+      "decisive_locator": "Header/byline, both timestamped 2022.01.05 14:04; eight substantive paragraphs.",
+      "supports": "Corrects January 5, 2025 in OL25-01 note 47 to January 5, 2022. Reports competing public Lithuanian accounts of coordination and office naming.",
+      "limits": "Used here to audit date and source identity, not as a reconstruction of the Lithuania dispute or proof of Beijing’s internal conditions.",
+      "independence_and_source_chain": "Acquired only as a direct check of a citation in OL25-01; not counted as an additional independent witness to the Geneva–London negotiations.",
+      "captures": [
+        {
+          "path": "/Users/jorsc/.codex/.chatgpt-projects/g-p-6a94dd290a988191911d85ae8fe94a6c/tmp/pdfs/research-2026-09-15/economic-coercion-literature/OL25-05.html",
+          "format": "raw HTML",
+          "bytes": 109302,
+          "sha256": "b53b4f3109a5245bcb1c6a622014f3fde3d610a0dd61da88ae481fb0ef084c5c"
+        },
+        {
+          "path": "/Users/jorsc/.codex/.chatgpt-projects/g-p-6a94dd290a988191911d85ae8fe94a6c/tmp/pdfs/research-2026-09-15/economic-coercion-literature/OL25-05.txt",
+          "format": "derived plain text",
+          "bytes": 5708,
+          "sha256": "be2bd75f0e9caf631287003960475a8c371e54a234c27a44e1d992bf9f9a8b6f"
+        }
+      ]
+    }
+  ]
+}

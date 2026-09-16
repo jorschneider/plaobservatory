@@ -46,7 +46,7 @@ def prepare(path):
 
 
 intro = """::: {.edition-note}
-**Complete research manuscript · revised 15 September 2026**
+**Working manuscript · developmental revision · 15 September 2026**
 
 An original reassessment of Richard H. Solomon’s *Chinese Negotiating Behavior*,
 with seven chapters, a conclusion and three research appendices. Individual cases
@@ -78,7 +78,7 @@ OUT.write_text(rendered)
 
 manifest = {
     "title": "Bargaining with China: authority, commitments and change",
-    "edition": "Complete research manuscript, revised 2026-09-15",
+    "edition": "Working manuscript, developmental revision, 2026-09-15",
     "format": "Self-contained HTML; local supporting links require the research repository",
     "build_script": "build-reading-edition.py",
     "sources": [{"path": str(p.relative_to(ROOT)), "sha256": hashlib.sha256(p.read_bytes()).hexdigest()} for p in PARTS],

@@ -1,36 +1,36 @@
 {
   "title": "Bargaining with China: authority, commitments and change",
-  "edition": "Complete research manuscript, revised 2026-09-15",
+  "edition": "Working manuscript, developmental revision, 2026-09-15",
   "format": "Self-contained HTML; local supporting links require the research repository",
   "build_script": "build-reading-edition.py",
   "sources": [
     {
       "path": "chapters/00-introduction.md",
-      "sha256": "6712f0eb444ba87f62e45a68e19dced20148ce58e143ffaca8bb5d49897bf83f"
+      "sha256": "93508cbe7ae0fd4934d72eb4c2f531ade9e48fdab96c7e1871ccf068f900d239"
     },
     {
       "path": "chapters/01-solomons-baseline.md",
-      "sha256": "ad194bbf2124c4c3f6a1aaa83c8caf0067b608634677beda0e8978bd19dc64aa"
+      "sha256": "15c97af77c05cacb434f3aba0318015035fa0c7b4495b241cd7316f870ef3d83"
     },
     {
       "path": "chapters/02-accession.md",
-      "sha256": "101d33947f27d6dd0299cda41e7197e2aefb2bf2720472f6d232168002c400e1"
+      "sha256": "bc63d8a6de2d368d09ff523792729c00854b501d53f958e009ba56e49be3ec66"
     },
     {
       "path": "chapters/03-usable-expertise.md",
-      "sha256": "b74ae7deb33e63f239ff060e3a57ff1c08ce9c98c4c20f234622ec320c6bfe2d"
+      "sha256": "d8e11e177bd9627019e0eabcb2ca7929ec05d293c468dd1330b4e55379d93910"
     },
     {
       "path": "chapters/04-negotiating-in-crisis.md",
-      "sha256": "8c3a7f81da3626e2548a61aa9af258ea65a04135a2a86ec05885dbea77daa738"
+      "sha256": "8b3681fddf60e1971fb6e89c6eaae3f5f97690676d1706faf8e8f1c7737a586d"
     },
     {
       "path": "chapters/05-partial-trade-settlement.md",
-      "sha256": "8b015c8dce3a54d08ab70284585f2995987b7ce07c9e16696b467cee76389b94"
+      "sha256": "8672e86c5246b8ad56e4060b3c1403b134dcab8fbf0a05f3201b0b1b602c4015"
     },
     {
       "path": "chapters/06-after-the-signature.md",
-      "sha256": "29322a6e45c581a24f0c771cf53fb5402af678e0f2210bec35e98aa1cec0fae4"
+      "sha256": "0cdd5014d8f1bf5999dfe0438c19ee7cb1472a798a64a924f2b4c340159b28a9"
     },
     {
       "path": "chapters/07-rival-partner-supplier.md",
@@ -38,7 +38,7 @@
     },
     {
       "path": "chapters/08-what-survives-solomon.md",
-      "sha256": "1f7b1d7ab67b2defb3eb6fe093cd50e96bc2aba81b47a3f5999391f82957d502"
+      "sha256": "96957263689e2d058813e1ee9faee36c1fb35adfdec114ea6e8e0c6c7e506642"
     },
     {
       "path": "appendices/01-proposition-assessment.md",
@@ -46,16 +46,16 @@
     },
     {
       "path": "appendices/02-chronology.md",
-      "sha256": "0335ab7b8e2440cd21623d127305f7fe005fd3e793ab0b0aaa01da02ff37df01"
+      "sha256": "26cfc4bee3b3a057eefa0494dfb46cca525a60d8020a1f1c95613a0a3bd816a0"
     },
     {
       "path": "appendices/03-bibliography-and-sources.md",
-      "sha256": "d7ae6c80be086c0484b3a2226c69a6427f92f6c56041bc3b690958087db8fbaf"
+      "sha256": "e0f67fbb02d14445462938535bccbba67e43cfcd675b6f53ff766eb60c3e2d32"
     }
   ],
   "output": {
     "path": "reading-edition.html",
-    "sha256": "9676bbc7afa414e298cce369f191aa0dd38e74e8bf49502f358969d7fca51c0e"
+    "sha256": "408257e9a033fed14b5f5a786e715f8817e89afe18c2c8b4d6dd91f3a6c99492"
   },
   "note": "Integrity and rendering record; not a claim that historical assertions are mechanically verified."
 }

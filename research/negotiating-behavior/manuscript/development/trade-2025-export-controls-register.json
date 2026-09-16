@@ -1,0 +1,730 @@
+{
+  "audit_title": "2025 Geneva–London rare-earth and export-control bargaining: scoped source register",
+  "version_date": "2026-09-15",
+  "status": "Developmental research for parent review; not a final chapter or current legal guidance.",
+  "temporal_scope": {
+    "core": "2025-04-04 to 2025-07-10",
+    "implementation_check": "July 2025 magnet exports reported in August",
+    "later_analysis": "IEA October 2025 selected concentration analysis, kept separate from later controls",
+    "historical_comparator": "Selected literature and WTO synopsis; no new full reconstruction of the 2010 Japan episode"
+  },
+  "research_protocol": "../../RESEARCH_PROTOCOL.md",
+  "memo": "trade-2025-export-controls-evidence.md",
+  "capture_root": "/Users/jorsc/.codex/.chatgpt-projects/g-p-6a94dd290a988191911d85ae8fe94a6c/tmp/pdfs/research-2026-09-15/export-controls-2025",
+  "source_count": 23,
+  "counting_rule": "One record per substantive source, grouping reproductions of the same instrument. Twenty-three substantive records; IDs 20–22 intentionally unused in this evidence set because they were background-only or failed retrievals. Source repetition does not count as independent corroboration.",
+  "capture_formats": "Raw HTML/PDF downloads are identified separately from derived plain text and rendered browser captures. SHA-256 is over the exact local bytes. Browser captures are source views, not original HTML or underlying datasets.",
+  "reading_rule": "Complete means all substantive prose and stated supporting apparatus were read, not every navigation element. Selected reading is explicit. Downloaded is not synonymous with read.",
+  "key_unavailable_records": [
+    "Jointly released detailed London framework or an authenticated annex",
+    "Chinese internal approval and negotiating instructions",
+    "Underlying BIS letters described by Synopsys and Siemens",
+    "Matched Chinese application, completeness, license and customs-release records",
+    "Underlying GACC July customs extraction used by Reuters"
+  ],
+  "secondary_reading_totals": {
+    "complete_research_briefs": 1,
+    "selected_working_papers": 1,
+    "selected_institutional_commentaries": 1,
+    "new_complete_peer_reviewed_articles": 0
+  },
+  "sources": [
+    {
+      "id": "EC25-01",
+      "title": "商务部 海关总署公告2025年第18号 公布对部分中重稀土相关物项实施出口管制的决定",
+      "author_or_issuing_body": "MOFCOM and General Administration of Customs",
+      "publication_date": "2025-04-04",
+      "event_or_data_period": "2025-04-04",
+      "source_type": "primary regulatory instrument",
+      "url": "https://www.mofcom.gov.cn/zwgk/zcfb/art/2025/art_9c2108ccaf754f22a34abab2fedaa944.html",
+      "retrieval_date": "2026-09-15",
+      "reading_scope": "Full substantive Chinese original, including all seven categories, explanatory notes and final operational paragraphs. Full four-page Hong Kong government reproduction extracted; page 4 visually checked. Full substantive official English reference translation read in browser; raw English download failed, so Chinese original controls.",
+      "decisive_locator": "Opening State Council approval; items 1C902.a.4, 1C904.a.4 and 1C905.a.4; explanatory note 3; final three substantive paragraphs. PDF pp. 1–4.",
+      "supports": "Globally framed licensing requirement for specified items, immediate effect, and non-release during customs classification questions.",
+      "limits": "Not an all-rare-earth ban or a US-only rule. Does not disclose individual decisions, a retaliatory instruction, processing deadlines or a London concession.",
+      "independence_and_source_chain": "Original Chinese notice and Hong Kong reproduction are one instrument, not corroborating witnesses. English is labeled a reference translation.",
+      "captures": [
+        {
+          "path": "/Users/jorsc/.codex/.chatgpt-projects/g-p-6a94dd290a988191911d85ae8fe94a6c/tmp/pdfs/research-2026-09-15/export-controls-2025/EC25-01-original.html",
+          "format": "html",
+          "sha256": "e91e35b8345c97484d31ab72460ad15b688073bf86f0e95f1fd12e36e79d0672",
+          "bytes": 24552
+        },
+        {
+          "path": "/Users/jorsc/.codex/.chatgpt-projects/g-p-6a94dd290a988191911d85ae8fe94a6c/tmp/pdfs/research-2026-09-15/export-controls-2025/EC25-01-original.txt",
+          "format": "txt",
+          "sha256": "8e34476f90e6fd0481772c849aea043b91d3747a99d0112d8d5a2badaf994808",
+          "bytes": 7209
+        },
+        {
+          "path": "/Users/jorsc/.codex/.chatgpt-projects/g-p-6a94dd290a988191911d85ae8fe94a6c/tmp/pdfs/research-2026-09-15/export-controls-2025/EC25-01-cn.pdf",
+          "format": "pdf",
+          "sha256": "16b12fb5da169738cd929d6b1ba1d46a8b20caa32c4f41d9a609659c522c5ee5",
+          "bytes": 206290
+        },
+        {
+          "path": "/Users/jorsc/.codex/.chatgpt-projects/g-p-6a94dd290a988191911d85ae8fe94a6c/tmp/pdfs/research-2026-09-15/export-controls-2025/EC25-01-cn.txt",
+          "format": "txt",
+          "sha256": "9db68df5cfc4411a26f0ec9b548289c4c9d55bd92fd72308b6273061eba73599",
+          "bytes": 7042
+        }
+      ],
+      "other_versions": [
+        {
+          "url": "https://www.tid.gov.hk/en/tradecircular/files/2025/ci2025318a.pdf",
+          "status": "Hong Kong Trade and Industry Department reproduction; downloaded and read"
+        },
+        {
+          "url": "https://english.mofcom.gov.cn/Policies/AnnouncementsOrders/art/2025/art_0dd87cbee7b045bf93fabe6ab2faceee.html",
+          "status": "Official reference translation; browser text read, original download failed with SSL EOF"
+        }
+      ]
+    },
+    {
+      "id": "EC25-02",
+      "title": "Joint Statement on U.S.-China Economic and Trade Meeting in Geneva",
+      "author_or_issuing_body": "Governments of the United States and China; White House publication",
+      "publication_date": "2025-05-12",
+      "event_or_data_period": "Meetings 2025-05-10–11; statement 2025-05-12; specified actions by 2025-05-14.",
+      "source_type": "primary bilateral joint statement",
+      "url": "https://www.whitehouse.gov/briefings-statements/2025/05/joint-statement-on-u-s-china-economic-and-trade-meeting-in-geneva/",
+      "retrieval_date": "2026-09-15",
+      "reading_scope": "Full substantive statement, from opening identification of parties through consultation mechanism.",
+      "decisive_locator": "Actions by May 14; China subsection (ii); final paragraph naming He Lifeng, Scott Bessent and Jamieson Greer.",
+      "supports": "Tariff-stage distinction, non-tariff countermeasure undertaking, and continuation mechanism.",
+      "limits": "Does not name rare earths, repeal Announcement 18, disclose negotiating drafts or set individual license deadlines.",
+      "independence_and_source_chain": "Joint text is primary evidence of the released bargain. Chinese explanatory release EC25-03 is not an independent agreement.",
+      "captures": [
+        {
+          "path": "/Users/jorsc/.codex/.chatgpt-projects/g-p-6a94dd290a988191911d85ae8fe94a6c/tmp/pdfs/research-2026-09-15/export-controls-2025/EC25-02.html",
+          "format": "html",
+          "sha256": "3d7d3fea7884d3c6def92654d4ee65157363489748448a7c07ddbca832c0518d",
+          "bytes": 295781
+        },
+        {
+          "path": "/Users/jorsc/.codex/.chatgpt-projects/g-p-6a94dd290a988191911d85ae8fe94a6c/tmp/pdfs/research-2026-09-15/export-controls-2025/EC25-02.txt",
+          "format": "txt",
+          "sha256": "ab78717cfddad11affe2a0397adbafd895f11ad23594d19e5ab985460951e05d",
+          "bytes": 7436
+        }
+      ]
+    },
+    {
+      "id": "EC25-03",
+      "title": "商务部新闻发言人就中美日内瓦经贸会谈联合声明发表谈话",
+      "author_or_issuing_body": "MOFCOM News Office",
+      "publication_date": "2025-05-12",
+      "event_or_data_period": "2025-05-12",
+      "source_type": "primary official explanation",
+      "url": "https://www.mofcom.gov.cn/syxwfb/art/2025/art_9748270381e54001bc291213ec6ee778.html",
+      "retrieval_date": "2026-09-15",
+      "reading_scope": "Full substantive release, six paragraphs.",
+      "decisive_locator": "Paragraphs introducing May 10–11 meetings, reciprocal tariff changes, non-tariff suspension/cancellation and further mechanism.",
+      "supports": "Chinese public account of the Geneva outcome and dates.",
+      "limits": "An explanatory statement; does not supply an unpublished annex or a complete Chinese internal mandate.",
+      "independence_and_source_chain": "Overlaps the joint statement; counted as a Chinese explanation, not corroboration of closed-room behavior.",
+      "captures": [
+        {
+          "path": "/Users/jorsc/.codex/.chatgpt-projects/g-p-6a94dd290a988191911d85ae8fe94a6c/tmp/pdfs/research-2026-09-15/export-controls-2025/EC25-03.html",
+          "format": "html",
+          "sha256": "66c7d9cb3f40c6ef2e2ba674b637bdc054447555bbdb47cedbc3dfaddce62c9f",
+          "bytes": 15785
+        },
+        {
+          "path": "/Users/jorsc/.codex/.chatgpt-projects/g-p-6a94dd290a988191911d85ae8fe94a6c/tmp/pdfs/research-2026-09-15/export-controls-2025/EC25-03.txt",
+          "format": "txt",
+          "sha256": "a4b3f602228f74cb9b8329d660b695ad5ec47904fac6efdc38cb61ca9d5fc122",
+          "bytes": 3912
+        }
+      ]
+    },
+    {
+      "id": "EC25-04",
+      "title": "商务部新闻发言人就中重稀土出口管制措施答记者问",
+      "author_or_issuing_body": "MOFCOM News Office",
+      "publication_date": "2025-06-07",
+      "event_or_data_period": "2025-06-07",
+      "source_type": "primary official Q&A",
+      "url": "https://www.mofcom.gov.cn/xwfb/xwfyrth/art/2025/art_520e9ea4ee854d568ba70b7550e76f37.html",
+      "retrieval_date": "2026-09-15",
+      "reading_scope": "Complete question and both answer paragraphs.",
+      "decisive_locator": "Final answer paragraph: some compliant applications already approved; civilian demands in different countries considered.",
+      "supports": "Approvals were publicly acknowledged before London; the ministry described a global civilian-use concern.",
+      "limits": "No numbers, recipient identities, license texts or shipment proofs.",
+      "independence_and_source_chain": "Same official institution as later Q&As; this provides a distinct dated position, not an independent witness.",
+      "captures": [
+        {
+          "path": "/Users/jorsc/.codex/.chatgpt-projects/g-p-6a94dd290a988191911d85ae8fe94a6c/tmp/pdfs/research-2026-09-15/export-controls-2025/EC25-04.html",
+          "format": "html",
+          "sha256": "ba201c0d74751f77a37a3235d952fd62e729767ec5829691e99a9aff2e42eb5c",
+          "bytes": 16783
+        },
+        {
+          "path": "/Users/jorsc/.codex/.chatgpt-projects/g-p-6a94dd290a988191911d85ae8fe94a6c/tmp/pdfs/research-2026-09-15/export-controls-2025/EC25-04.txt",
+          "format": "txt",
+          "sha256": "03e7a48b305bf3b4367ac0572a7445386b776dc7d1f028a850ef2bc7b2c63226",
+          "bytes": 1873
+        }
+      ]
+    },
+    {
+      "id": "EC25-05",
+      "title": "中美经贸磋商机制首次会议在英国伦敦举行",
+      "author_or_issuing_body": "Xinhua; republished by MOFCOM",
+      "publication_date": "2025-06-11",
+      "event_or_data_period": "2025-06-09–10",
+      "source_type": "primary official meeting account",
+      "url": "https://www.mofcom.gov.cn/syxwfb/art/2025/art_6c02d5c205fd4d7aa7170686a5c93f5f.html",
+      "retrieval_date": "2026-09-15",
+      "reading_scope": "Full three-paragraph substantive account.",
+      "decisive_locator": "Opening: June 9–10 and delegation names; agreement in principle on framework. Remaining paragraphs on implementation and continuing talks.",
+      "supports": "London stage and addition of Lutnick to the listed US delegation.",
+      "limits": "Does not explain the internal reason for delegation composition or reproduce detailed framework terms.",
+      "independence_and_source_chain": "One Xinhua official reporting chain. The account of the US position inside it is not a separately acquired US record.",
+      "captures": [
+        {
+          "path": "/Users/jorsc/.codex/.chatgpt-projects/g-p-6a94dd290a988191911d85ae8fe94a6c/tmp/pdfs/research-2026-09-15/export-controls-2025/EC25-05.html",
+          "format": "html",
+          "sha256": "ff6dbb90ae4ccb9f247137e2e965973f1160ff9f7e2b433dbf2eeecb1cb2f509",
+          "bytes": 13414
+        },
+        {
+          "path": "/Users/jorsc/.codex/.chatgpt-projects/g-p-6a94dd290a988191911d85ae8fe94a6c/tmp/pdfs/research-2026-09-15/export-controls-2025/EC25-05.txt",
+          "format": "txt",
+          "sha256": "aa6ce1919cfb35edb4f094511759e9188b273bf7bf2f17968ce1fac21bed06c1",
+          "bytes": 2521
+        }
+      ]
+    },
+    {
+      "id": "EC25-06",
+      "title": "商务部新闻发言人就中美伦敦框架有关情况答记者问",
+      "author_or_issuing_body": "MOFCOM News Office",
+      "publication_date": "2025-06-27",
+      "event_or_data_period": "2025-06-27",
+      "source_type": "primary official Q&A",
+      "url": "https://www.mofcom.gov.cn/xwfb/xwfyrth/art/2025/art_86bfd1f5c4a34e4c91bff252c50a0cbc.html",
+      "retrieval_date": "2026-09-15",
+      "reading_scope": "Complete question and answer.",
+      "decisive_locator": "Answer sentences: agreement in principle; continued contact; 经批准; paired export applications and corresponding US restriction removal.",
+      "supports": "Publicly described sequence of principle, further communication, approval and confirmed details; explicit reciprocal administrative accommodation.",
+      "limits": "Approval authority, date, instructions and framework text are not disclosed. Eligible applications are not automatic authorization for all exports.",
+      "independence_and_source_chain": "Official account of its own acts and agreed exchange; not independent proof that either side had already performed.",
+      "captures": [
+        {
+          "path": "/Users/jorsc/.codex/.chatgpt-projects/g-p-6a94dd290a988191911d85ae8fe94a6c/tmp/pdfs/research-2026-09-15/export-controls-2025/EC25-06.html",
+          "format": "html",
+          "sha256": "e8c8c50261a40aa56c96ba974fe297623c723dca88bc466ea8bd681e2d504ffa",
+          "bytes": 14656
+        },
+        {
+          "path": "/Users/jorsc/.codex/.chatgpt-projects/g-p-6a94dd290a988191911d85ae8fe94a6c/tmp/pdfs/research-2026-09-15/export-controls-2025/EC25-06.txt",
+          "format": "txt",
+          "sha256": "6b5844687f647ae29ae0ac86d89789c9018a6206353cb283803e669d395df3d5",
+          "bytes": 1925
+        }
+      ]
+    },
+    {
+      "id": "EC25-07",
+      "title": "商务部新闻发言人就美取消相关对华经贸限制措施情况答记者问",
+      "author_or_issuing_body": "MOFCOM News Office",
+      "publication_date": "2025-07-04",
+      "event_or_data_period": "2025-07-04",
+      "source_type": "primary official Q&A",
+      "url": "https://www.mofcom.gov.cn/xwfb/xwfyrth/art/2025/art_952576363b434658bb2da38c2f47a93a.html",
+      "retrieval_date": "2026-09-15",
+      "reading_scope": "Complete question and two answer paragraphs.",
+      "decisive_locator": "Question names EDA, ethane and aircraft engines; answer says applications being reviewed and US actions notified to China.",
+      "supports": "Implementation-stage Chinese account and continued licensing language after the framework.",
+      "limits": "Product names in the question are not item-by-item ministerial certification; not proof of cargo arrival.",
+      "independence_and_source_chain": "Pairs with company originals EC25-08/18 for specific US effects; it cannot independently validate every reported transaction.",
+      "captures": [
+        {
+          "path": "/Users/jorsc/.codex/.chatgpt-projects/g-p-6a94dd290a988191911d85ae8fe94a6c/tmp/pdfs/research-2026-09-15/export-controls-2025/EC25-07.html",
+          "format": "html",
+          "sha256": "a10d1af91732116e6aff923022cb7b6bb4af5c9920310fa4d55de57a087cbac4",
+          "bytes": 14335
+        },
+        {
+          "path": "/Users/jorsc/.codex/.chatgpt-projects/g-p-6a94dd290a988191911d85ae8fe94a6c/tmp/pdfs/research-2026-09-15/export-controls-2025/EC25-07.txt",
+          "format": "txt",
+          "sha256": "53e0b644be3d6c5ac54e1e6c8e01fac95ff9ce6e8a5e0a6ca6a375bc7e55411b",
+          "bytes": 2127
+        }
+      ]
+    },
+    {
+      "id": "EC25-08",
+      "title": "Synopsys Issues Statement in Connection to the Lifting of Recent U.S. Export Restrictions Related to China",
+      "author_or_issuing_body": "Synopsys, Inc.",
+      "publication_date": "2025-07-02",
+      "event_or_data_period": "2025-07-02",
+      "source_type": "primary company announcement",
+      "url": "https://news.synopsys.com/2025-07-02-Synopsys-Issues-Statement-in-Connection-to-the-Lifting-of-Recent-U-S-Export-Restrictions-Related-to-China",
+      "retrieval_date": "2026-09-15",
+      "reading_scope": "Full substantive statement and forward-looking qualification read; navigation and contact boilerplate not analyzed.",
+      "decisive_locator": "Paragraph beginning On July 2; final cautionary paragraph.",
+      "supports": "Company reports BIS rescission of May 29 letter, effective immediately, and work to restore product access.",
+      "limits": "The BIS letters were not acquired. Working to restore is not the same as completed restoration for all customers.",
+      "independence_and_source_chain": "First-party recipient account, distinct from Chinese public characterization; repeated PRNewswire versions would be the same source.",
+      "captures": [
+        {
+          "path": "/Users/jorsc/.codex/.chatgpt-projects/g-p-6a94dd290a988191911d85ae8fe94a6c/tmp/pdfs/research-2026-09-15/export-controls-2025/EC25-08.html",
+          "format": "html",
+          "sha256": "61b938b821e78d879c888ff60833696d2e7ce36268f7309fcf9e2a0aebf8a904",
+          "bytes": 242988
+        },
+        {
+          "path": "/Users/jorsc/.codex/.chatgpt-projects/g-p-6a94dd290a988191911d85ae8fe94a6c/tmp/pdfs/research-2026-09-15/export-controls-2025/EC25-08.txt",
+          "format": "txt",
+          "sha256": "070def5304cebc2b656bfc7ea18e5f09325572deafe63fef0baa2f829d8c120b",
+          "bytes": 6078
+        }
+      ]
+    },
+    {
+      "id": "EC25-09",
+      "title": "China’s rare earths are flowing again, but not freely",
+      "author_or_issuing_body": "Christina Amann and Laurie Chen, Reuters",
+      "publication_date": "2025-06-27",
+      "event_or_data_period": "2025-06-27",
+      "source_type": "contemporary original reporting",
+      "url": "https://www.investing.com/news/stock-market-news/chinas-rare-earths-are-flowing-again-but-not-freely-4114932",
+      "retrieval_date": "2026-09-15",
+      "reading_scope": "Entire article body read in the updated syndicated rendering, lines 434–463; saved rendered browser capture, not raw HTML.",
+      "decisive_locator": "CLEPA Nils Poel; Ford, Volkswagen and Stellantis passages; Dexter CEO Kash Mishra approval account.",
+      "supports": "Uneven improvement across end users and routes, contemporaneous company relief and continued shortfalls.",
+      "limits": "Named and anonymous industry observations are not a representative queue audit. Cannot assign every difference to intentional state pressure.",
+      "independence_and_source_chain": "Reuters original reporting syndicated by Investing.com. CLEPA comments overlap its institutional perspective in EC25-19; repeated official framework facts overlap EC25-06/10.",
+      "captures": [
+        {
+          "path": "/Users/jorsc/.codex/.chatgpt-projects/g-p-6a94dd290a988191911d85ae8fe94a6c/tmp/pdfs/research-2026-09-15/export-controls-2025/EC25-09.browser.txt",
+          "format": "rendered browser text",
+          "sha256": "e2adb6cffb4c80628c18b10fa992ce153f5b1c846637f25897a4c3c8e1898bfa",
+          "bytes": 25370
+        }
+      ]
+    },
+    {
+      "id": "EC25-10",
+      "title": "US says deal with Beijing will expedite rare earth exports from China",
+      "author_or_issuing_body": "Nandita Bose and David Lawder, Reuters",
+      "publication_date": "2025-06-27",
+      "event_or_data_period": "2025-06-25–27 reported confirmation and explanation",
+      "source_type": "contemporary reporting of public official account",
+      "url": "https://www.investing.com/news/world-news/trump-says-a-deal-related-to-trade-was-signed-with-china-on-wednesday-4113674",
+      "retrieval_date": "2026-09-15",
+      "reading_scope": "Complete substantive article body, lines 46–65, in updated June 27 rendering. Initial platform timestamp June 26.",
+      "decisive_locator": "Bessent Fox Business explanation at lines 47–51 and administration official at lines 54–57.",
+      "supports": "US public explanation linking slow flows, countermeasures and additional understanding on shipment acceleration.",
+      "limits": "Underlying full interview, additional understanding and signed instrument not recovered. Chinese dual-use explanation partly comes from an unnamed industry source.",
+      "independence_and_source_chain": "One Reuters article, not independent confirmation of every fact repeated from earlier Reuters reports or MOFCOM.",
+      "captures": [
+        {
+          "path": "/Users/jorsc/.codex/.chatgpt-projects/g-p-6a94dd290a988191911d85ae8fe94a6c/tmp/pdfs/research-2026-09-15/export-controls-2025/EC25-10.browser.txt",
+          "format": "rendered browser text",
+          "sha256": "5a34f095b27a9b4fe6b2a787043833a985d9ff543981f798e3454b5d125eb2c3",
+          "bytes": 20068
+        }
+      ]
+    },
+    {
+      "id": "EC25-11",
+      "title": "China’s rare earth magnet exports hit six-month high in July",
+      "author_or_issuing_body": "Amy Lv and Lewis Jackson, Reuters",
+      "publication_date": "2025-08-20",
+      "event_or_data_period": "July 2025 exports; data reported August 2025",
+      "source_type": "contemporary reporting of official trade data",
+      "url": "https://www.investing.com/news/commodities-news/chinas-rare-earth-magnet-exports-hit-sixmonth-high-in-july-4201112",
+      "retrieval_date": "2026-09-15",
+      "reading_scope": "Complete substantive article body, lines 47–59. Platform initial timestamp August 19, updated August 20.",
+      "decisive_locator": "July global, US and German tonnage; comparison with July 2024.",
+      "supports": "Physical magnet export recovery in July, including US and German destinations.",
+      "limits": "Underlying GACC extract not independently downloaded; aggregate magnets do not identify each controlled element, license cohort, end use, inventories or unmet demand.",
+      "independence_and_source_chain": "Reuters interpretation of GACC data; not an additional source for the private London negotiations.",
+      "captures": [
+        {
+          "path": "/Users/jorsc/.codex/.chatgpt-projects/g-p-6a94dd290a988191911d85ae8fe94a6c/tmp/pdfs/research-2026-09-15/export-controls-2025/EC25-11.browser.txt",
+          "format": "rendered browser text",
+          "sha256": "3fd3ffb072a6a359464a29a3a95d61b53e60d7cb696f409eb84270c12888858b",
+          "bytes": 17968
+        }
+      ]
+    },
+    {
+      "id": "EC25-12",
+      "title": "China’s sanctions gambit: Formal and informal economic coercion in the second trade war",
+      "author_or_issuing_body": "Viking Bohman, Audrye Wong and Victor Ferguson; Swedish National China Centre",
+      "publication_date": "2025-06-18",
+      "event_or_data_period": "2025-06-18",
+      "source_type": "accessible research brief",
+      "url": "https://kinacentrum.se/publikationer/chinas-sanctions-gambit-formal-and-informal-economic-coercion-in-the-second-trade-war/",
+      "retrieval_date": "2026-09-15",
+      "reading_scope": "COMPLETE: all 14 PDF pages, including narrative, author information and references 1–41. Timeline pages 3–4 visually checked. Institutional landing page read for metadata.",
+      "decisive_locator": "pp. 5–9 on formal/informal tools, implementation discretion and Europe; note 17 defines individual restrictions as counting unit; notes 25–41 reveal news/primary chains.",
+      "supports": "Interpretation of increasingly formal sanctions combined with discretion; longer comparative framing and alternative explanations for European delays.",
+      "limits": "Not a peer-reviewed journal article or interview transcript. London claims follow contemporary reporting. Timeline wrongly labels April rare-earth round 14 March and Geneva deal 6 May (pp. 2–4); use primary dates. Speculation about officials’ relief or deliberate European warning is not private evidence.",
+      "independence_and_source_chain": "Institutional PDF acquired from AEI mirror, with exact matching title/authors and original institution landing page. Dataset not independently reconstructed. Repeated Reuters/WSJ facts are not corroboration.",
+      "captures": [
+        {
+          "path": "/Users/jorsc/.codex/.chatgpt-projects/g-p-6a94dd290a988191911d85ae8fe94a6c/tmp/pdfs/research-2026-09-15/export-controls-2025/EC25-12.html",
+          "format": "html",
+          "sha256": "9a32a1d208c5927bcd828524d9d22387e71d3b9420fb1fd3b8a5deaaa91800a1",
+          "bytes": 134747
+        },
+        {
+          "path": "/Users/jorsc/.codex/.chatgpt-projects/g-p-6a94dd290a988191911d85ae8fe94a6c/tmp/pdfs/research-2026-09-15/export-controls-2025/EC25-12.txt",
+          "format": "txt",
+          "sha256": "2da404ff25167bcfac1f06640aa21da5b6ad297cdbbf691dfa64d898fa906b40",
+          "bytes": 5701
+        },
+        {
+          "path": "/Users/jorsc/.codex/.chatgpt-projects/g-p-6a94dd290a988191911d85ae8fe94a6c/tmp/pdfs/research-2026-09-15/export-controls-2025/EC25-12-pdf.pdf",
+          "format": "pdf",
+          "sha256": "062a3e7d97c6f2f91154f44bde049faa98029199da3108ee22fe124de3f78561",
+          "bytes": 440359
+        },
+        {
+          "path": "/Users/jorsc/.codex/.chatgpt-projects/g-p-6a94dd290a988191911d85ae8fe94a6c/tmp/pdfs/research-2026-09-15/export-controls-2025/EC25-12-pdf.txt",
+          "format": "txt",
+          "sha256": "5bce8c17237bb974136fda6ee0654ee0c0ef916a3e7e28c7123f18a609601ebe",
+          "bytes": 41078
+        }
+      ],
+      "pdf_url": "https://aei.org/wp-content/uploads/2025/06/sanctions_nkk_brief_2025.pdf?x85095="
+    },
+    {
+      "id": "EC25-13",
+      "title": "How Export Restrictions Threaten Economic Security",
+      "author_or_issuing_body": "Chad P. Bown; Peterson Institute for International Economics, Working Paper 25-11",
+      "publication_date": "2025-05",
+      "event_or_data_period": "2025-05",
+      "source_type": "accessible research working paper",
+      "url": "https://www.piie.com/sites/default/files/2025-05/wp25-11.pdf",
+      "retrieval_date": "2026-09-15",
+      "reading_scope": "SELECTED: title/abstract and introduction on pp. 1–2; pp. 10–14, including complete section 3.2 and associated footnotes. Remainder not claimed read.",
+      "decisive_locator": "Section 3.2, pp. 10–14; notes 34–39 on earlier restrictions, litigation and Japanese diversification.",
+      "supports": "Historical counterweight to novelty claims; distinguishes material-supply exposure from trade-value totals and highlights diversification problems.",
+      "limits": "Predates London; cannot corroborate its negotiations. Brief summary links 2010 episode and WTO litigation; EC25-26 is used to keep the adjudicated measures distinct. Earlier source references are leads, not books or articles acquired in this audit.",
+      "independence_and_source_chain": "Secondary synthesis with explicit sources. Working paper says a revised journal version was planned; no claim here to have read that later version.",
+      "captures": [
+        {
+          "path": "/Users/jorsc/.codex/.chatgpt-projects/g-p-6a94dd290a988191911d85ae8fe94a6c/tmp/pdfs/research-2026-09-15/export-controls-2025/EC25-13.pdf",
+          "format": "pdf",
+          "sha256": "93280f9b1dcd846c9b02f59b904d6e78a016c45537e2f788ea4bf059264769f2",
+          "bytes": 309652
+        },
+        {
+          "path": "/Users/jorsc/.codex/.chatgpt-projects/g-p-6a94dd290a988191911d85ae8fe94a6c/tmp/pdfs/research-2026-09-15/export-controls-2025/EC25-13.txt",
+          "format": "txt",
+          "sha256": "a74a3ad2bcd30e9160dfdb066097a47f4385f8467a6f5c86b8c4aa06c0337141",
+          "bytes": 68467
+        }
+      ]
+    },
+    {
+      "id": "EC25-14",
+      "title": "With new export controls on critical minerals, supply concentration risks become reality",
+      "author_or_issuing_body": "Tae-Yoon Kim, Shobhan Dhir, Amrita Dasgupta and Alessio Scanziani; International Energy Agency",
+      "publication_date": "2025-10-23",
+      "event_or_data_period": "2024 production data and discussion of 2025 developments",
+      "source_type": "institutional analytical commentary",
+      "url": "https://www.iea.org/commentaries/with-new-export-controls-on-critical-minerals-supply-concentration-risks-become-reality",
+      "retrieval_date": "2026-09-15",
+      "reading_scope": "SELECTED: opening and first rare-earth concentration section, its 2024 chart note, and April disruption paragraph. Later October-control/battery sections were retrieved but are outside this reconstruction and are not treated as fully reviewed.",
+      "decisive_locator": "Rare-earth supply-chain section; Regional composition chart note specifying four magnet rare earths and NdFeB magnet scope.",
+      "supports": "2024 mining/refining concentration and longer-run increase in magnet-manufacturing concentration; the industrial basis of dependence.",
+      "limits": "Later publication. Its legal summary is broader than the April instrument; EC25-01 controls exact coverage. Market share alone does not prove a negotiating instruction or causal effect.",
+      "independence_and_source_chain": "Institutional analysis with stated denominators; underlying complete data series not reproduced or independently audited.",
+      "captures": [
+        {
+          "path": "/Users/jorsc/.codex/.chatgpt-projects/g-p-6a94dd290a988191911d85ae8fe94a6c/tmp/pdfs/research-2026-09-15/export-controls-2025/EC25-14.html",
+          "format": "html",
+          "sha256": "d91dbd4b9822c5e8ee545c188709da16598817583eb81a72e33ec02ee9d697f1",
+          "bytes": 288076
+        },
+        {
+          "path": "/Users/jorsc/.codex/.chatgpt-projects/g-p-6a94dd290a988191911d85ae8fe94a6c/tmp/pdfs/research-2026-09-15/export-controls-2025/EC25-14.txt",
+          "format": "txt",
+          "sha256": "405f0aeba2b26d083cc619e4426147d0c5e489e44306ab0e658a8dd01dfc9cec",
+          "bytes": 22444
+        }
+      ]
+    },
+    {
+      "id": "EC25-15",
+      "title": "商务部新闻发言人就美方有关言论答记者问",
+      "author_or_issuing_body": "MOFCOM News Office",
+      "publication_date": "2025-06-02",
+      "event_or_data_period": "2025-06-02",
+      "source_type": "primary official Q&A",
+      "url": "https://www.mofcom.gov.cn/syxwfb/art/2025/art_57f3e899628743c58dd6877ad9dfdc70.html",
+      "retrieval_date": "2026-09-15",
+      "reading_scope": "Complete question and answer.",
+      "decisive_locator": "Answer names AI-chip guidance, EDA sales restrictions and visas; denies violation and demands US correction.",
+      "supports": "Chinese public compliance claim and stated grounds for blaming the US after Geneva.",
+      "limits": "Party position rather than adjudicated breach; no complete internal account of the measures’ origins.",
+      "independence_and_source_chain": "Distinct dated official position; shares the Chinese governmental source family.",
+      "captures": [
+        {
+          "path": "/Users/jorsc/.codex/.chatgpt-projects/g-p-6a94dd290a988191911d85ae8fe94a6c/tmp/pdfs/research-2026-09-15/export-controls-2025/EC25-15.html",
+          "format": "html",
+          "sha256": "3999e3ddd0e5ba16e6462034f3a6d052c8be644085e61fdd8eb787f355291ab9",
+          "bytes": 13436
+        },
+        {
+          "path": "/Users/jorsc/.codex/.chatgpt-projects/g-p-6a94dd290a988191911d85ae8fe94a6c/tmp/pdfs/research-2026-09-15/export-controls-2025/EC25-15.txt",
+          "format": "txt",
+          "sha256": "0209eafd3d16019922e68b8ac200394b3166359bd3c93d0e3dc3b8c3af5928c4",
+          "bytes": 2488
+        }
+      ]
+    },
+    {
+      "id": "EC25-16",
+      "title": "习近平同美国总统特朗普通电话",
+      "author_or_issuing_body": "PRC Ministry of Foreign Affairs",
+      "publication_date": "2025-06-05",
+      "event_or_data_period": "2025-06-05",
+      "source_type": "primary official call readout",
+      "url": "https://www.fmprc.gov.cn/web/zyxw/202506/t20250605_11641950.shtml",
+      "retrieval_date": "2026-09-15",
+      "reading_scope": "Full substantive readout, browser lines 98–105 and corresponding downloaded text.",
+      "decisive_locator": "Xi’s request to reverse negative measures; final sentence agreeing teams should continue and meet promptly.",
+      "supports": "Public leader-level intervention and announced next negotiation step.",
+      "limits": "Not a transcript; Trump’s position is presented in the Chinese readout. No rare-earth schedule or internal delegation instructions.",
+      "independence_and_source_chain": "Chinese readout is one-sided evidence of the public account; not paired verbatim private call records.",
+      "captures": [
+        {
+          "path": "/Users/jorsc/.codex/.chatgpt-projects/g-p-6a94dd290a988191911d85ae8fe94a6c/tmp/pdfs/research-2026-09-15/export-controls-2025/EC25-16.html",
+          "format": "html",
+          "sha256": "7aa8c47cb8b2dab978882d609d40311f05709b7f3247e143f4a695b77239ca43",
+          "bytes": 60978
+        },
+        {
+          "path": "/Users/jorsc/.codex/.chatgpt-projects/g-p-6a94dd290a988191911d85ae8fe94a6c/tmp/pdfs/research-2026-09-15/export-controls-2025/EC25-16.txt",
+          "format": "txt",
+          "sha256": "1ea9e514b830fc48255f4c8a71b7254071bb2826925ed1fb63397f1dadea3bc6",
+          "bytes": 7514
+        }
+      ]
+    },
+    {
+      "id": "EC25-17",
+      "title": "US-China trade truce leaves military-use rare earth issue unresolved, sources say",
+      "author_or_issuing_body": "Laurie Chen and Fanny Potkin, Reuters",
+      "publication_date": "2025-06-15",
+      "event_or_data_period": "2025-06-15",
+      "source_type": "contemporary original process reporting",
+      "url": "https://www.investing.com/news/economic-indicators/exclusiveuschina-trade-truce-leaves-militaryuse-rare-earth-issue-unresolved-sources-say-4096203",
+      "retrieval_date": "2026-09-15",
+      "reading_scope": "Entire substantive article body, lines 47–77, in updated June 15 syndicated rendering.",
+      "decisive_locator": "Two briefed sources and non-response disclosure, lines 48–52; reported linkage, Bessent position, non-military fast track and six-month terms, lines 55–66.",
+      "supports": "Attributed account of attempted linkage and limits of the reported London accommodation.",
+      "limits": "Two anonymous briefed sources, with some details attributed to only one. No disclosed license text or private mandate. Attempted advanced-chip linkage is not a completed bargain; public US rejection appears in the same article.",
+      "independence_and_source_chain": "Reuters original reporting; syndicated/repeated versions are one chain. Different Reuters articles may share sources, so source independence is not assumed.",
+      "captures": [
+        {
+          "path": "/Users/jorsc/.codex/.chatgpt-projects/g-p-6a94dd290a988191911d85ae8fe94a6c/tmp/pdfs/research-2026-09-15/export-controls-2025/EC25-17.browser.txt",
+          "format": "rendered browser text",
+          "sha256": "09aae6b8429637ab4ce419a5ef3cd0314d824b0e44d007fdf855baa6549d53ce",
+          "bytes": 23780
+        }
+      ]
+    },
+    {
+      "id": "EC25-18",
+      "title": "A statement from Tony Hemmelgarn",
+      "author_or_issuing_body": "Siemens",
+      "publication_date": "2025-07-03",
+      "event_or_data_period": "2025-07-03",
+      "source_type": "primary company announcement",
+      "url": "https://news.siemens.com/it-it/siemens-eda-china-update/",
+      "retrieval_date": "2026-09-15",
+      "reading_scope": "Complete three-paragraph English body on Siemens’ Italian-locale site, dated 3 luglio 2025.",
+      "decisive_locator": "First paragraph identifies May 23 letter; second reports restoration for ECCNs 3D991 and 3E991 and resumed sales/support.",
+      "supports": "Specific corporate operational implementation beyond receipt of regulatory relief.",
+      "limits": "First-party report; no underlying BIS letter or customer-level audit. Still expressly subject to applicable export-control rules.",
+      "independence_and_source_chain": "Independent corporate recipient from Synopsys; separate experience under related US action, not independent evidence of Chinese private motives.",
+      "captures": [
+        {
+          "path": "/Users/jorsc/.codex/.chatgpt-projects/g-p-6a94dd290a988191911d85ae8fe94a6c/tmp/pdfs/research-2026-09-15/export-controls-2025/EC25-18.html",
+          "format": "html",
+          "sha256": "2a7ede65dc9d9691d79cc60d27b3edf2dfdd7b412ec9e96b14d88cbad2402bb6",
+          "bytes": 24916
+        },
+        {
+          "path": "/Users/jorsc/.codex/.chatgpt-projects/g-p-6a94dd290a988191911d85ae8fe94a6c/tmp/pdfs/research-2026-09-15/export-controls-2025/EC25-18.txt",
+          "format": "txt",
+          "sha256": "fbad3c749d86c23df3e97a26efc688bc0156ec8b8b92e97be6c12be63ab58e7f",
+          "bytes": 969
+        }
+      ]
+    },
+    {
+      "id": "EC25-19",
+      "title": "Urgent action needed as China’s export restrictions on rare earths disrupt European automotive supply chains",
+      "author_or_issuing_body": "CLEPA, European Association of Automotive Suppliers",
+      "publication_date": "2025-06-04",
+      "event_or_data_period": "2025-06-04",
+      "source_type": "primary affected-industry statement",
+      "url": "https://www.clepa.eu/wp-content/uploads/2025/06/Statement_export-restrictions-by-China-rare-earths_PR_June-2025-CLEPA.pdf",
+      "retrieval_date": "2026-09-15",
+      "reading_scope": "Complete two-page PDF including body, organizational description and contact page.",
+      "decisive_locator": "Page 1: production shutdowns, hundreds of applications, roughly one-quarter approval, procedural/IP concerns.",
+      "supports": "Contemporary European industry account before London; requests transparent procedures and warns of no short-term substitute.",
+      "limits": "Interested advocacy body; reported approval share lacks an application-level dataset or sampling appendix. Not government verification of motive.",
+      "independence_and_source_chain": "Original association release; later CLEPA remarks in Reuters partly repeat the same institutional vantage point.",
+      "captures": [
+        {
+          "path": "/Users/jorsc/.codex/.chatgpt-projects/g-p-6a94dd290a988191911d85ae8fe94a6c/tmp/pdfs/research-2026-09-15/export-controls-2025/EC25-19.pdf",
+          "format": "pdf",
+          "sha256": "75dbb8a2d02aa1e48e9768ace239a2e07bb9be39b800c12419fdc2c13b2ed90f",
+          "bytes": 127405
+        },
+        {
+          "path": "/Users/jorsc/.codex/.chatgpt-projects/g-p-6a94dd290a988191911d85ae8fe94a6c/tmp/pdfs/research-2026-09-15/export-controls-2025/EC25-19.txt",
+          "format": "txt",
+          "sha256": "707ace557d97a30bdc561d09bde1f411a5942cd6d0f52224cb7c89e035a8a031",
+          "bytes": 3143
+        }
+      ]
+    },
+    {
+      "id": "EC25-23",
+      "title": "商务部召开例行新闻发布会（2025年5月29日）",
+      "author_or_issuing_body": "MOFCOM; spokesperson He Yongqian",
+      "publication_date": "2025-05-29",
+      "event_or_data_period": "2025-05-29",
+      "source_type": "primary briefing transcript",
+      "url": "https://www.mofcom.gov.cn/xwfbzt/2025/swbzklxxwfbh2025n5y29r/index.html",
+      "retrieval_date": "2026-09-15",
+      "reading_scope": "SELECTED: complete Phoenix TV and CNBC questions and answers concerning post-Geneva semiconductor restrictions and April rare-earth controls; other briefing topics not fully reviewed.",
+      "decisive_locator": "Phoenix TV question on further consultations; CNBC question asking under what conditions April 4 controls would be canceled or suspended.",
+      "supports": "Public description of continuing multilevel contacts, repeated representations about US controls, and no stated repeal condition in response.",
+      "limits": "An unanswered repeal-condition question is not proof that repeal was privately impossible or never discussed.",
+      "independence_and_source_chain": "Official record; reporter premises are not ministerial confirmations.",
+      "captures": [
+        {
+          "path": "/Users/jorsc/.codex/.chatgpt-projects/g-p-6a94dd290a988191911d85ae8fe94a6c/tmp/pdfs/research-2026-09-15/export-controls-2025/EC25-23.html",
+          "format": "html",
+          "sha256": "82948eca4bbc8b56947abc3e9f7ab341f35673491b1ea5eb4f55ba3199f6b02c",
+          "bytes": 24993
+        },
+        {
+          "path": "/Users/jorsc/.codex/.chatgpt-projects/g-p-6a94dd290a988191911d85ae8fe94a6c/tmp/pdfs/research-2026-09-15/export-controls-2025/EC25-23.txt",
+          "format": "txt",
+          "sha256": "ff8d473574589bd029341170af3423073ea6478aaf827710c96ee5413df497d3",
+          "bytes": 8724
+        }
+      ]
+    },
+    {
+      "id": "EC25-24",
+      "title": "商务部召开例行新闻发布会（2025年7月10日）",
+      "author_or_issuing_body": "MOFCOM; spokesperson He Yongqian",
+      "publication_date": "2025-07-10",
+      "event_or_data_period": "2025-07-10",
+      "source_type": "primary briefing transcript",
+      "url": "https://www.mofcom.gov.cn/xwfbzt/2025/swbzklxxwfbh2025n7y10r/index.html",
+      "retrieval_date": "2026-09-15",
+      "reading_scope": "SELECTED: passages on continued US contacts and complete Global Times question/answer on EU complaints, with the export-control paragraph read closely; other topics not fully reviewed.",
+      "decisive_locator": "Global Times response, paragraph beginning 关于出口管制.",
+      "supports": "Ministry says it established a green channel to accelerate approval for European enterprises.",
+      "limits": "Official claim does not enumerate licenses or show the speed improvement for each applicant; not evidence that London caused European relief.",
+      "independence_and_source_chain": "Independent dated policy account within same ministry series; pairs with affected-industry observations without converting them into one dataset.",
+      "captures": [
+        {
+          "path": "/Users/jorsc/.codex/.chatgpt-projects/g-p-6a94dd290a988191911d85ae8fe94a6c/tmp/pdfs/research-2026-09-15/export-controls-2025/EC25-24.html",
+          "format": "html",
+          "sha256": "a1e867c8c0059923371d76631ebe49f73cb2f37511b0c3dcc3b8694fb44e057f",
+          "bytes": 25678
+        },
+        {
+          "path": "/Users/jorsc/.codex/.chatgpt-projects/g-p-6a94dd290a988191911d85ae8fe94a6c/tmp/pdfs/research-2026-09-15/export-controls-2025/EC25-24.txt",
+          "format": "txt",
+          "sha256": "3f7655367d3280028c2d19a08b1078bc822c838e5bdbcd0ed697b3170bd96930",
+          "bytes": 10430
+        }
+      ]
+    },
+    {
+      "id": "EC25-25",
+      "title": "Analysis—The world’s auto supply chain is in the hands of a few Chinese bureaucrats",
+      "author_or_issuing_body": "Laurie Chen and Lewis Jackson, Reuters",
+      "publication_date": "2025-06-05",
+      "event_or_data_period": "2025-06-05",
+      "source_type": "contemporary original reporting and analysis",
+      "url": "https://www.investing.com/news/commodities-news/analysisthe-worlds-auto-supply-chain-is-in-the-hands-of-a-few-chinese-bureaucrats-4083379",
+      "retrieval_date": "2026-09-15",
+      "reading_scope": "Entire article body, lines 52–108, including alternative explanations and source-status qualifications.",
+      "decisive_locator": "Lines 61–74 on reported staffing and verification limits; 79–88 on procedure; 92–105 on competing explanations and single-source Geneva account.",
+      "supports": "Application-processing burden, evidence consistent with capacity constraints, and one source’s report that China accepted rare earths as countermeasures at Geneva.",
+      "limits": "The private Geneva claim rests on one person briefed on talks. Staffing is partly anonymous, with current authority unverified. Claims of strategic excuses are attributed opinions, not demonstrated instructions.",
+      "independence_and_source_chain": "Reuters reports underlying interviews and public documents; the later NKK brief cites this article. Do not count that repetition as corroboration.",
+      "captures": [
+        {
+          "path": "/Users/jorsc/.codex/.chatgpt-projects/g-p-6a94dd290a988191911d85ae8fe94a6c/tmp/pdfs/research-2026-09-15/export-controls-2025/EC25-25.browser.txt",
+          "format": "rendered browser text",
+          "sha256": "d4ddde1c6ff836cad47231f373fa1705a669d7c358c8e2689c83d277fb3b4de8",
+          "bytes": 23985
+        }
+      ]
+    },
+    {
+      "id": "EC25-26",
+      "title": "DS431: China—Measures Related to the Exportation of Rare Earths, Tungsten and Molybdenum",
+      "author_or_issuing_body": "World Trade Organization",
+      "publication_date": "undated case-summary page; events 2012–2015",
+      "event_or_data_period": "undated case-summary page; events 2012–2015",
+      "source_type": "primary institutional case summary",
+      "url": "https://www.wto.org/english/tratop_e/dispu_e/cases_e/ds431_e.htm",
+      "retrieval_date": "2026-09-15",
+      "reading_scope": "SELECTED: consultation description, overview of challenged duties/quotas/trading restrictions, and adoption/implementation chronology; browser lines 39–45, 60–82 and 106–113. Full judgments not read in this audit.",
+      "decisive_locator": "Measures overview; May 20, 2015 statement of implementation.",
+      "supports": "Establishes earlier formal export restrictions and distinct WTO dispute scope.",
+      "limits": "Not a finding on all allegations about Japan-specific shipments in 2010; China’s reported implementation is identified as its statement. Does not determine WTO status of the 2025 instrument.",
+      "independence_and_source_chain": "Official WTO synopsis, not a substitute for full adjudication records. Used only to prevent conflating the earlier episodes.",
+      "captures": [
+        {
+          "path": "/Users/jorsc/.codex/.chatgpt-projects/g-p-6a94dd290a988191911d85ae8fe94a6c/tmp/pdfs/research-2026-09-15/export-controls-2025/EC25-26.browser.txt",
+          "format": "rendered browser text",
+          "sha256": "8bfc2801560497f68f6de42b3a9a1e124bc6f8c45c2444a8316861b9373628a9",
+          "bytes": 19645
+        }
+      ]
+    }
+  ],
+  "excluded_or_failed_access": [
+    {
+      "id": "EC25-20",
+      "title": "Ambassador Jamieson Greer’s Remarks at the 2025 National Conservatism Conference",
+      "url": "https://www.ustr.gov/about/policy-offices/press-office/speeches-and-remarks/2025/september/ambassador-jamieson-greers-remarks-2025-national-conservatism-conference",
+      "status": "Original HTML acquired; selected magnet-supply paragraphs read as later public US framing, not used as negotiation evidence. No claim of reading the full speech. Capture EC25-20.html/.txt outside Git."
+    },
+    {
+      "id": "EC25-21",
+      "title": "Enterprise Products: BIS Issues Notice of Intent to Deny Applications for Licenses to Export Three Ethane Cargoes to China",
+      "url": "https://ir.enterpriseproducts.com/node/44601",
+      "status": "Download timed out. Search lead only; not used to verify cargo outcomes."
+    },
+    {
+      "id": "EC25-22",
+      "title": "AP account of London framework, June 10–11, 2025",
+      "url": "https://apnews.com/article/bf991a07e374050ae85c7187f1366ab7",
+      "status": "Original download 403; browser open failed. Search metadata not counted as full reading or relied-on process evidence."
+    }
+  ],
+  "quality_checks": [
+    "Chinese authentic notice obtained in addition to English reference translation.",
+    "June 7 approvals precede London.",
+    "Geneva dates and London stages kept separate.",
+    "NKK timeline labels checked visually against primary dates.",
+    "Siemens completed restoration distinguished from Synopsys work in progress.",
+    "Reuters single-/two-source process claims explicitly attributed.",
+    "No repeal inferred from licensing relief.",
+    "No general advanced-chip concession inferred from EDA relief.",
+    "No S-P25 asymmetry verdict inferred from continuation alone."
+  ]
+}

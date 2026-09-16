@@ -1,0 +1,29 @@
+{
+  "title": "Network power: selected scholarly reading for contemporary leverage",
+  "source_count": 1,
+  "sources": [
+    {
+      "id": "DEV-LIT01",
+      "title": "Weaponized Interdependence: How Global Economic Networks Shape State Coercion",
+      "authors": [
+        "Henry Farrell",
+        "Abraham L. Newman"
+      ],
+      "citation": "International Security 44(1), Summer2019,42–79",
+      "url": "https://doi.org/10.1162/isec_a_00351",
+      "public_copy_url": "https://bpb-us-e1.wpmucdn.com/sites.tufts.edu/dist/2/7314/files/2019/08/Farrell-and-Newman-2019-Weaponized-Interdependence.pdf",
+      "source_type": "peer-reviewed research article; published version",
+      "access_date": "2026-09-15",
+      "full_read": false,
+      "read_scope": "Complete printedpp52–58 and75–79, physicalPDF11–17 and34–38, including notes; remaining case narratives not fully read. Publication title/author metadata checked.",
+      "local_path_external_to_git": "/Users/jorsc/.codex/.chatgpt-projects/g-p-6a94dd290a988191911d85ae8fe94a6c/tmp/pdfs/research-2026-09-15/development-literature/farrell-newman2019.pdf",
+      "sha256": "ef7696bda69c4d3f7d5541d76aaeade1a32e62f7ecd344c43934e822c72bc0db",
+      "limitations": [
+        "Selected reading does not establish a new full-text entry in the complete-reading count.",
+        "Main empirical cases concern financial and information networks, not Chinese rare-earth licenses.",
+        "Authors distinguish network control from market size and bilateral dependence; not every bottleneck is automatically an instance of their specific mechanism.",
+        "No independent replication of underlying empirical cases or datasets."
+      ]
+    }
+  ]
+}
