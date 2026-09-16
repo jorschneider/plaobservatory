@@ -8,6 +8,8 @@ The [conclusion](manuscript/chapters/08-what-survives-solomon.md) separates reta
 
 The current revision also reconstructs the 2025 Geneva–London exchange of export-control relief, pairs American recollections with newly read Chinese interviews, and follows DS379 into a recovered administrative redetermination and a bounded domestic-litigation coda. These records strengthen the explanation of what a concession actually permits. The [development records](manuscript/development/README.md) distinguish new acquisitions, renewed readings and remaining gaps.
 
+The latest pass adds [Copenhagen participants and parliamentary scrutiny](manuscript/development/copenhagen-participant-comparison.md), tests the [pre-2013 climate machinery](manuscript/development/climate-2009-2013-machinery.md), and corrects a [Brazil energy citation chain](literature/readings/brazil-energy-authority.md). A complete continuous manuscript read prompted cuts and reordered decisions; the [integration record](manuscript/development/participant-and-literary-integration-2026-09-15.md) identifies what changed and what remains unresolved.
+
 ## Start here
 
 - **[Working manuscript](manuscript/README.md):** the book’s argument, all seven chapters and conclusion, supporting apparatus and evidence limits. Start with the [introduction](manuscript/chapters/00-introduction.md), [historical baseline](manuscript/chapters/01-solomons-baseline.md), [accession chapter](manuscript/chapters/02-accession.md) and [expertise chapter](manuscript/chapters/03-usable-expertise.md).

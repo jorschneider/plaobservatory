@@ -54,17 +54,15 @@ That change mattered because a condition controlled by future domestic policy wa
 
 The November 13 meeting did not finish the bargain. On Sunday, the morning beyond which McCahill had said the delegation could not stay, he wrote again. The Americans alleged that China had reopened settled matters and introduced new ones. They invoked Zhu’s willingness to meet again if the talks reached another impasse and asked for his intervention. The letter treated the leaders’ intention to conclude as a reason for a further decision, not as evidence that the negotiators had already made it.[^15]
 
-Here the later accounts separate sharply. Barshefsky recalled using a threatened departure to accelerate Chinese internal decisions, with Clinton’s backing. Deng dismissed the Americans’ departure tactics as ineffectual. The letters establish the pressure and the request for higher authority; they cannot decide which participant correctly judged its effect.[^16]
-
-The distinction should survive the story’s happy ending. China might have made some of the same decisions without a threatened departure. The threat might also have helped force a choice among options already prepared. What the Americans demonstrably did was attach more time to a specified opportunity: a meeting with Zhu about an unresolved package. Their willingness to extend kept that opportunity alive. Their assertion that they could not remain beyond early Sunday proved negotiable.
-
-For a negotiator considering a deadline, the tradeoff is exacting. A firm departure can end a fruitless round, but may cut off a decision that is close to authorization. An extension can buy that decision, but tells the counterpart that the announced clock can move. The November 12 letter made an extension conditional on a particular senior meeting. It did not guarantee agreement at that meeting, and the delegation ultimately stayed longer still. The test for an extension is therefore what additional decision it can obtain, and who is in a position to make it. More hours alone cannot supply missing authority.
-
-Deng recalled Shi mistaking a summons from Zhu for a telephone call, then discovering that the premier was already at the ministry. The person who could give an instruction had arrived.[^17]
+In a recollection he did not date, Deng described Shi mistaking a summons from Zhu for a telephone call, then discovering that the premier was already at the ministry. The person who could give an instruction had arrived.[^17]
 
 Zhu’s November 15 intervention was followed by the bilateral agreement. Its signed Chinese and English bodies sent industrial goods, agriculture and services commitments to three annexes, with provisions applying rules to access to each other’s markets in a fourth. The governments were to notify the WTO and transmit the full agreement for incorporation into the multilateral accession work. They had concluded an important bargain. They had not granted China membership.[^18]
 
 Washington had not completed its domestic task either. Sandy Berger told reporters that day that the administration would seek permanent normal trade relations from Congress, an independent branch whose decision could not be supplied by the executive. The WTO welcomed the bilateral settlement while identifying negotiations with other governments and technical protocol work still ahead.[^19]
+
+The later accounts disagree about the departure threat’s effect. Barshefsky recalled using it to accelerate Chinese internal decisions, with Clinton’s backing. Deng dismissed the Americans’ departure tactics as ineffectual. The letters establish the pressure and the request for higher authority; they cannot decide which participant correctly judged its effect.[^16]
+
+The Americans had attached an extension to a specified opportunity: a meeting with Zhu about the unresolved package. Staying kept that opportunity open, though they ultimately stayed beyond their announced limit. For a negotiator, leaving can cut off a decision close to authorization; extending reveals that the clock can move. The question is what another interval could obtain and who can decide it. More hours alone cannot supply missing authority.
 
 ## What Europe still wanted
 

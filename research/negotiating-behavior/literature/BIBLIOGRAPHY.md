@@ -114,6 +114,8 @@ The current candidate registers contain **37 works**, adding Wei and Summers’ 
 
 - Prusa, Thomas J., and Edwin Vermulst. 2013. “United States – Definitive Anti-Dumping and Countervailing Duties on Certain Products from China: Passing the Buck on Pass-Through.” *World Trade Review* 12(2):197–234. [DOI](https://doi.org/10.1017/S1474745612000560). Selected substantial sections read, not the complete article. [Exact scope and preserved publisher version](../sources/wto-ds379-register.json); [case analysis](../cases/wto-ds379-legal-process.md).
 
+- Zhang, Shu G., and Ni Chen. 2021 [first online 24 January 2022]. “Beijing’s Institutionalised Economic Statecraft Towards Brazil: A Case Study.” *Journal of Current Chinese Affairs* 50(3):339–365. [Publisher article](https://doi.org/10.1177/18681026211041630). **All 27 pages of text, Table 1 and references read, September 15; two figures uninspected. Not added to the complete scholarly-reading count.** Publisher PDF text preserved through web captures; original PDF bytes not acquired. [Critical reading and citation-chain correction](readings/brazil-energy-authority.md); [version, scope and primary checks](readings/brazil-energy-authority-register.json). Type: descriptive institutional study with six anonymous informants; does not reconstruct an oil-company bargaining mandate.
+
 ## Additional case-specific policy and participant texts
 
 These supporting texts sit outside the 37-work candidate register; complete and selected readings are not added indiscriminately to the scholarly count.
@@ -143,3 +145,11 @@ These case-specific additions sit outside the original 37-work screening populat
 - Zhang, Angela Huyue. 2020. “The U.S.–China Trade Negotiation: A Contract Theory Perspective.” *Georgetown Journal of International Law* 51:809–866. [Publisher PDF](https://www.law.georgetown.edu/international-law-journal/wp-content/uploads/sites/21/2020/11/THE-U.S.-CHINA-TRADE-NEGOTIATION.-A-CONTRACT-THEORY-PERSPECTIVE.pdf). Complete 58-page article and all 376 notes read; selected visual checks. [Critical reading](readings/phase-one-contract-theory.md) distinguishes prospective design, the final agreement, original interview material and reused reporting.
 
 - Chivvis, Christopher S., and Senkai Hsia. 2026. *Implementing the Biden Administration’s China Strategy*. Carnegie Endowment for International Peace, March. [Report PDF](https://assets.carnegieendowment.org/files/Chivvis_US-China-202603.pdf). Selected methodology, 2023 narrative and associated notes read, not the complete report. Exact title and reading locators are recorded in [C23-21](../sources/us-china-crisis-2023-register.json); the [crisis case](../cases/us-china-crisis-2023.md) and [Kissinger audit](../reporting/kissinger-2023-intermediary-audit.md) distinguish American retrospective interviews from Chinese internal records.
+
+## Copenhagen participant supplement
+
+These additions are outside the complete scholarly-reading count.
+
+- Froman, Michael. Miller Center oral history, Interview 1. [Published transcript](https://millercenter.org/the-presidency/presidential-oral-histories/michael-froman-oral-history-interview-1). Complete selected 4,826-word Copenhagen discussion, not the whole interview; conflicting webpage dating is preserved in the [reading record](../manuscript/development/copenhagen-participant-comparison.md).
+- Saran, Shyam. 2019. “One Long Day in Copenhagen.” In Navroz K. Dubash, ed., *India in a Warming World*, 157–168. [Public chapter](https://academic.oup.com/book/35227/chapter/299751357), DOI 10.1093/oso/9780199498734.003.0009. Complete public rendering, references and reprint notice read; the identified 2017 source book was not acquired.
+- Ramesh, Jairam. 2009. Statement and reply on Copenhagen, *Rajya Sabha Official Debates*, December 22, printed 218–223 and 242–248. [Official PDF](https://cms.rajyasabha.nic.in/UploadedFiles/Debates/OfficialDebatesDatewise/Floor/218/F22.12.2009.pdf). Both interventions read completely, intervening debate selectively; public defense rather than private instruction. [Register](../manuscript/development/copenhagen-participant-register.json).

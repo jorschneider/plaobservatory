@@ -6,7 +6,7 @@
   "sources": [
     {
       "path": "chapters/00-introduction.md",
-      "sha256": "9c5c8daa9f479192aff55c1403423515af3fe1ba51dc2201eca635a9c4cf3eab"
+      "sha256": "048259725a1f82ebea3f47db0a10d2527fd7144b1a41ffeb1eb9f67921b6c885"
     },
     {
       "path": "chapters/01-solomons-baseline.md",
@@ -14,11 +14,11 @@
     },
     {
       "path": "chapters/02-accession.md",
-      "sha256": "142283d06b90e4db34be77e8573de2da2568386016a7186c3055994505d1c3f9"
+      "sha256": "655f4c9080cdfe8b0a1e34c15308969c45c77e6abbfa7376fc780568248f5ec8"
     },
     {
       "path": "chapters/03-usable-expertise.md",
-      "sha256": "c9692666e052374a1ec8f11ed6c2e97c757ce3c239a1fd9f4d14e03a4ecd7782"
+      "sha256": "f6e63b714f21c31cea19695d92c3a536fcb45a8e46906f5c1611a75aab6d2ea1"
     },
     {
       "path": "chapters/04-negotiating-in-crisis.md",
@@ -26,7 +26,7 @@
     },
     {
       "path": "chapters/05-partial-trade-settlement.md",
-      "sha256": "3018423870830d1958977852397e2badfa4a88b6f1237baa97ac71124f866f84"
+      "sha256": "c031e5a7e204ce5dd32927688ada97d37504a35ef96da87bb6a9cf15e58f81d3"
     },
     {
       "path": "chapters/06-after-the-signature.md",
@@ -38,7 +38,7 @@
     },
     {
       "path": "chapters/08-what-survives-solomon.md",
-      "sha256": "51c3b474055583512535eca5ade3bb199b3efd11ef276848d3dd119710ba50d6"
+      "sha256": "7e71085040ed31894b085ad1ca35aa5471840964603c9f384df2ed34c764fef1"
     },
     {
       "path": "appendices/01-proposition-assessment.md",
@@ -46,16 +46,16 @@
     },
     {
       "path": "appendices/02-chronology.md",
-      "sha256": "43bb93a52d3f5fe324e84a30d8bcd6d34bd646d8a1512494ebd9b31680a183d9"
+      "sha256": "973fa38c0dff45d63441e282950d99497ffd3fb66366bb2cb39995f857241b97"
     },
     {
       "path": "appendices/03-bibliography-and-sources.md",
-      "sha256": "7cef19e1a8e03ab6898f13d7846cf73d264d70e50d4c60c9f48d2759b0f98c80"
+      "sha256": "ea3f036cc8df78b4113754d198cdb2419f60dd6f58009918b489fe4e8b0ac393"
     }
   ],
   "output": {
     "path": "reading-edition.html",
-    "sha256": "a8ae50149230d1834d7c05b0554a0fde153a9fcaa9a439701e5de66210fc98e7"
+    "sha256": "82c8385d4dc55a05a13d9e496ffb2062efdf1b9c93fcf1f96942ca8d65b6e55d"
   },
   "note": "Integrity and rendering record; not a claim that historical assertions are mechanically verified."
 }

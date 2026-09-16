@@ -1,0 +1,114 @@
+{
+  "title": "Copenhagen participant comparison",
+  "research_date": "2026-09-15",
+  "memo": "copenhagen-participant-comparison.md",
+  "source_count": 3,
+  "sources": [
+    {
+      "id": "CP01",
+      "title": "Michael Froman Oral History, Interview 1",
+      "url": "https://millercenter.org/the-presidency/presidential-oral-histories/michael-froman-oral-history-interview-1",
+      "source_type": "Retrospective participant oral history, published HTML transcript",
+      "date_status": "Webpage says September 13, 2009, contradicted by retrospective content; unavailable linked PDF filename contains 20190913. Exact interview year not assigned as verified.",
+      "reading_scope": "Complete selected 4826-word Copenhagen section, from OK. Copenhagen! through immediately before Are there high points on the climate agenda, in three contiguous chunks; not the whole interview.",
+      "limitations": [
+        "Contains redactions.",
+        "Remembered immediate wording differs from Saran; no translated Chinese exchange available to the American witness in his account.",
+        "No private instruction record recovered."
+      ],
+      "capture": {
+        "path": "/Users/jorsc/.codex/.chatgpt-projects/g-p-6a94dd290a988191911d85ae8fe94a6c/tmp/pdfs/research-2026-09-15/climate-participant/froman-landing.html",
+        "bytes": 408062,
+        "sha256": "dc2e10d07653c6a086486fde8e46e0a53f9ffd77bccbd44dcdc4fb62e5b0a6bb",
+        "retrieval_or_creation_date": "2026-09-15",
+        "status": "Original public HTML"
+      },
+      "derived_text": {
+        "path": "/Users/jorsc/.codex/.chatgpt-projects/g-p-6a94dd290a988191911d85ae8fe94a6c/tmp/pdfs/research-2026-09-15/climate-participant/froman-landing.txt",
+        "bytes": 304153,
+        "sha256": "fd7fcfa2cdd46cea1d70d99697283db62ae114768a9d56ae53561ec3b8bbbdf6",
+        "retrieval_or_creation_date": "2026-09-15",
+        "status": "Derived complete page text; acquisition does not imply whole-page reading"
+      },
+      "selected_extract": {
+        "path": "/Users/jorsc/.codex/.chatgpt-projects/g-p-6a94dd290a988191911d85ae8fe94a6c/tmp/pdfs/research-2026-09-15/climate-participant/froman-copenhagen-extract.txt",
+        "bytes": 28062,
+        "sha256": "c80259046ec7d1f46191c1f8efe4b9c32de2a571763809b3bcaddec9adb58825",
+        "retrieval_or_creation_date": "2026-09-15",
+        "status": "Derived selected discussion, completely read"
+      },
+      "unacquired_pdf_url": "https://d1b57bn6yaf7zy.cloudfront.net/BHO-Froman1-20190913-rx.interview.pdf"
+    },
+    {
+      "id": "CP02",
+      "title": "One Long Day in Copenhagen",
+      "author": "Shyam Saran",
+      "publication": "India in a Warming World: Integrating Climate Change and Development, edited by Navroz K. Dubash",
+      "publication_date": "2019-11-21",
+      "printed_pages": "157–168",
+      "doi": "10.1093/oso/9780199498734.003.0009",
+      "url": "https://academic.oup.com/book/35227/chapter/299751357",
+      "source_type": "Retrospective participant chapter; identified reprint from How India Sees the World (2017)",
+      "reading_scope": "Complete public chapter rendering, including existing ellipses, references and reprint/license notices; no paginated PDF acquired, and 2017 book not acquired/read.",
+      "license_notice": "Public rendering states CC BY-NC-ND 4.0. Raw capture outside Git.",
+      "limitations": [
+        "One participant chain across 2017/2019 versions.",
+        "Different remembered immediate issue and arrival sequence from Froman.",
+        "Claimed language comprehension does not supply Chinese written instructions."
+      ],
+      "capture": {
+        "path": "/Users/jorsc/.codex/.chatgpt-projects/g-p-6a94dd290a988191911d85ae8fe94a6c/tmp/pdfs/research-2026-09-15/climate-participant/saran-oup-web-capture.txt",
+        "bytes": 28849,
+        "sha256": "8532cc2cd9136522c859a291ebbf4bd5e6c3ad8b34b1d9a92a5af2ec7b53f2cd",
+        "retrieval_or_creation_date": "2026-09-15",
+        "status": "Preserved full web-tool rendering, not original HTML or PDF"
+      }
+    },
+    {
+      "id": "CP03",
+      "title": "Rajya Sabha Official Debates, December 22, 2009: Ramesh statement and reply on Copenhagen",
+      "publication_date": "2009-12-22",
+      "url": "https://cms.rajyasabha.nic.in/UploadedFiles/Debates/OfficialDebatesDatewise/Floor/218/F22.12.2009.pdf",
+      "source_type": "Official parliamentary record of contemporary participant interventions",
+      "reading_scope": "Complete statement printed218–223 (PDF221–226); complete reply printed242–248 (PDF245–251). Opening Jaitley challenge on printed224 read. Intervening debate otherwise not systematically read; not whole251-pagevolume.",
+      "visual_check": "Printed243 and245 (PDF246 and248) rendered and read visually.",
+      "limitations": [
+        "Public defense before Parliament.",
+        "His characterization of all parties is not their authenticated private instructions.",
+        "No claim to have read the full debate or checked every factual assertion in these interventions."
+      ],
+      "capture": {
+        "path": "/Users/jorsc/.codex/.chatgpt-projects/g-p-6a94dd290a988191911d85ae8fe94a6c/tmp/pdfs/research-2026-09-15/climate-participant/rajya-sabha-2009-12-22.pdf",
+        "bytes": 1260813,
+        "sha256": "17d70f220515e473dba55d5708261ef80a4629621d4368b230b3f1df2938286e",
+        "retrieval_or_creation_date": "2026-09-15",
+        "status": "Original 251-page official PDF"
+      },
+      "derived_text": {
+        "path": "/Users/jorsc/.codex/.chatgpt-projects/g-p-6a94dd290a988191911d85ae8fe94a6c/tmp/pdfs/research-2026-09-15/climate-participant/rajya-sabha-2009-12-22.txt",
+        "bytes": 777815,
+        "sha256": "74ed28dc610da2ff6b00443e5339f9dcb461cc637f0945e54ac9f4c9e0db395a",
+        "retrieval_or_creation_date": "2026-09-15",
+        "status": "Poppler extraction"
+      },
+      "visual_checks": [
+        {
+          "path": "/Users/jorsc/.codex/.chatgpt-projects/g-p-6a94dd290a988191911d85ae8fe94a6c/tmp/pdfs/research-2026-09-15/climate-participant/rajya-printed243.png",
+          "bytes": 232654,
+          "sha256": "0fc5dcf9f23fe8186c23e96b2f42711f57a12780f88c45b3debaa9de17df01d8",
+          "retrieval_or_creation_date": "2026-09-15",
+          "status": "Rendered PDF246"
+        },
+        {
+          "path": "/Users/jorsc/.codex/.chatgpt-projects/g-p-6a94dd290a988191911d85ae8fe94a6c/tmp/pdfs/research-2026-09-15/climate-participant/rajya-printed245.png",
+          "bytes": 203037,
+          "sha256": "9aff8e53f5ba8d53bec1b461ba803c79f9b6506416b3881eb95c74c595b957fd",
+          "retrieval_or_creation_date": "2026-09-15",
+          "status": "Rendered PDF248"
+        }
+      ]
+    }
+  ],
+  "complete_scholarly_reading_increment": 0,
+  "scope": "Selected participant evidence and contemporary parliamentary defense, checked against existing final-text sources; not a reconstructed Chinese mandate."
+}

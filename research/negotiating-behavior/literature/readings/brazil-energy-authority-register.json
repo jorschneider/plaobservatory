@@ -1,0 +1,281 @@
+{
+  "title": "Brazil energy authority: Zhang–Chen critical reading and bounded original-document checks",
+  "research_date": "2026-09-15",
+  "memo": "brazil-energy-authority.md",
+  "scope": "New memo and register only. No shared reading ledger, chapter or existing source register changed.",
+  "reading_count": {
+    "new_unqualified_complete_scholarly_readings": 0,
+    "new_complete_text_readings_with_uninspected_figures": 1,
+    "reason": "All 27 pages of text, the complete table, references and biographies read. Two figure images unavailable; full_read is conservatively false."
+  },
+  "sources": [
+    {
+      "id": "BE-01",
+      "type": "Scholarly article",
+      "authors": [
+        "Shu G. Zhang",
+        "Ni Chen"
+      ],
+      "title": "Beijing’s Institutionalised Economic Statecraft Towards Brazil: A Case Study",
+      "journal": "Journal of Current Chinese Affairs",
+      "volume": 50,
+      "issue": 3,
+      "issue_year": 2021,
+      "printed_pages": "339–365",
+      "physical_pages": 27,
+      "doi": "10.1177/18681026211041630",
+      "url": "https://journals.sagepub.com/doi/10.1177/18681026211041630",
+      "pdf_url": "https://journals.sagepub.com/doi/pdf/10.1177/18681026211041630?download=true",
+      "rights": "Publisher identifies CC BY-NC-ND 4.0. Original text captures retained outside Git; no complete article reproduced in repository.",
+      "publication_chronology": {
+        "issue_date": "December 2021",
+        "first_online": "2022-01-24",
+        "manuscript_received": "2020-12-16",
+        "manuscript_accepted": "2021-07-23",
+        "locator": "Publisher Information section; first physical PDF page"
+      },
+      "acquisition_status": "Full publisher PDF text accessible through web parser; original PDF bytes not acquired. Publisher HTML text also accessible through web tool. Direct publisher retrieval 403; SSOAR access denied. No authentication or access bypass attempted.",
+      "full_read": false,
+      "full_text_read": true,
+      "reading_status": "Complete textual reading including Table 1, declarations, references and biographies; Figures 1 and 2 not visually inspected.",
+      "read_scope": {
+        "printed_pages": "339–365",
+        "physical_pages": "1–27",
+        "pagination_formula": "physical page = printed page minus 338",
+        "text_line_coverage": "Every numbered web PDF text line 0–1012 is present across saved captures; coverage checked programmatically.",
+        "read_chunks": "Opening and theory; methods and historical framework; institutional machinery and complete Table 1; participation and conclusions; complete references and biographies. Preserved overlapping requests centered on lines 120, 395, 640, 750 and 990, with supplementary opening and key passages.",
+        "references": "Printed pp.359–365 / physical pp.21–27",
+        "uninspected_objects": [
+          {
+            "figure": 1,
+            "printed_page": 352,
+            "physical_page": 14,
+            "caption": "High-level Committee and subcommittees"
+          },
+          {
+            "figure": 2,
+            "printed_page": 355,
+            "physical_page": 17,
+            "caption": "SCs and Task Groups"
+          }
+        ],
+        "image_failures": "PDF screenshots (both publisher URL forms) and figure image links returned cache miss. Browser stopped at publisher security verification and was closed; no CAPTCHA solved."
+      },
+      "captures": [
+        {
+          "path": "/Users/jorsc/.codex/.chatgpt-projects/g-p-6a94dd290a988191911d85ae8fe94a6c/tmp/pdfs/research-2026-09-15/brazil-energy/zhang-chen-web-pdf-captures.json",
+          "format": "Exact web-tool PDF text output in overlapping chunks; not original PDF",
+          "bytes": 155385,
+          "sha256": "f63faceb1eeaef967e7c8f836a217f52107a5914a85a6805815f9903eca153b6"
+        },
+        {
+          "path": "/Users/jorsc/.codex/.chatgpt-projects/g-p-6a94dd290a988191911d85ae8fe94a6c/tmp/pdfs/research-2026-09-15/brazil-energy/web-supplement-captures.json",
+          "format": "Supplementary web text, including opening PDF lines, decisive interview passage and publisher chronology; also contains separate primary-source captures",
+          "bytes": 104301,
+          "sha256": "42c406e0b195fb633f3ed7dc09faa2632427f834dd4de47f1ccd21b1eacbefe9"
+        }
+      ],
+      "methods": {
+        "locator": "Printed pp.345–346; interview bibliography p.360",
+        "design": "Descriptive preliminary institutional case study, public documents and six convenience-selected anonymous informants in Macau.",
+        "chinese_interviews": "Three senior international-cooperation officials, approximately one hour each; ministries listed in methods as Commerce, Science and Technology, and Education.",
+        "brazilian_interviews": "Two officials associated with external affairs and foreign trade/economy plus a tourism-company CEO; informal conversations in late 2019.",
+        "bibliography_dates": {
+          "Anonymous 1": "30 August 2019; Ministry of Commerce",
+          "Anonymous 2": "3 September 2019; Ministry of Education",
+          "Anonymous 3": "3 September 2019; Ministry of Science and Technology",
+          "Anonymous 4": "17 November 2019; Brazilian external affairs",
+          "Anonymous 5": "19 November 2019; Brazilian foreign trade/economy",
+          "Anonymous 6": "21 November 2019; Brazilian tourism CEO"
+        },
+        "limits": "No oil-company negotiator identified; no original interview transcripts, oil-company mandate or bargaining chronology supplied. No matched pre/post-Xi design."
+      },
+      "decisive_locators": [
+        {
+          "printed_pages": "345–346, 360",
+          "physical_pages": "7–8, 22",
+          "claim": "Methods and interview list contradict a characterization as interviews with several MFA oil-deal officials."
+        },
+        {
+          "printed_pages": "349, 356",
+          "physical_pages": "11, 18",
+          "claim": "Anonymous 1 called MFA in body but Commerce in methods and bibliography; affiliation unresolved."
+        },
+        {
+          "printed_page": 356,
+          "physical_page": 18,
+          "web_pdf_lines": "637–656",
+          "claim": "Short Anonymous 1 quotation ends before 'It is the top leaders'; subsequent passage is the authors' unquoted synthesis."
+        },
+        {
+          "printed_pages": "356–357",
+          "physical_pages": "18–19",
+          "claim": "Examples of limited strategic participation concern laboratories/scientists, working-level officials and a tourism-business routing problem; no company concession ceiling."
+        },
+        {
+          "printed_pages": "349–355",
+          "physical_pages": "11–17",
+          "claim": "Historical institutional architecture, including complete Table 1; much predates Xi and is not a verified 2026 contact map."
+        },
+        {
+          "printed_page": 348,
+          "physical_page": 10,
+          "claim": "Oil-auction paragraph provides contextual outcome, not a reconstruction of instructions, offers and concessions."
+        }
+      ],
+      "interpretation": "Evidence of formal coordination and reported exclusion from strategic decisions, qualified by internal attribution problems. Does not establish central determination of an oil-company bid or changed concession flexibility under Xi.",
+      "bibliographic_leads_not_read": [
+        "Ana C. Alves (2011), China’s Oil Diplomacy: Comparing Chinese Economic Statecraft in Angola and Brazil, LSE thesis, cited p.359.",
+        "Pedro Henrique Batista Barbosa (2021), Chinese Economic Statecraft and China’s Oil Development Finance in Brazil, JCCA 50(3), 366–390, DOI 10.1177/18681026211057134; separate article located, not read in this task."
+      ]
+    },
+    {
+      "id": "BE-02",
+      "type": "Previously acquired scholarly article, bounded citation-chain reread",
+      "title": "‘Flexible’ versus ‘fragmented’ authoritarianism: evidence from Chinese foreign policy during the Xi Jinping era",
+      "authors": [
+        "Monique Taylor",
+        "Jeremy Garlick"
+      ],
+      "issue_year": 2025,
+      "journal": "Australian Journal of International Affairs",
+      "volume": 79,
+      "issue": 2,
+      "printed_pages": "189–208",
+      "doi": "10.1080/10357718.2024.2437035",
+      "first_online": "2024-12-18",
+      "capture_bytes": 74816,
+      "capture_sha256": "d6684cd070ba3959ccb42aa66e6a25e09480042dfeb5b45143ba68840bdd0882",
+      "capture_path": "/Users/jorsc/.codex/.chatgpt-projects/g-p-6a94dd290a988191911d85ae8fe94a6c/tmp/pdfs/research-2026-09-15/institutional-literature-development/taylor-garlick-2025.txt",
+      "read_scope_this_task": "Energy discussion printed pp.201–202 and Zhang–Chen bibliography entry. Existing parent full reading is not a new reading by this task.",
+      "decisive_locator": "Printed p.202; local text lines 749–763",
+      "finding": "Describes the Zhang–Chen informants as MFA officials involved in Brazilian oil deals; presents the original authors' unquoted synthesis as what the officials said. Both are more specific than the cited original supports.",
+      "limits": "This audit does not claim those errors refute the article's overall flexible-authoritarianism thesis."
+    },
+    {
+      "id": "BE-03",
+      "type": "Official published bilateral agreement text",
+      "title": "Joint Action Plan between the Government of the People’s Republic of China and the Government of the Federative Republic of Brazil, 2010–2014",
+      "url": "https://lk.china-embassy.gov.cn/eng/zgxw/201004/t20100422_1403174.htm",
+      "event_date": "2010-04-15",
+      "event_type": "Text states signed/done in Brasilia and effective on signing",
+      "publication_date": "2010-04-22",
+      "publisher": "PRC Embassy in Sri Lanka",
+      "capture": {
+        "path": "/Users/jorsc/.codex/.chatgpt-projects/g-p-6a94dd290a988191911d85ae8fe94a6c/tmp/pdfs/research-2026-09-15/brazil-energy/joint-action-plan-2010.html",
+        "bytes": 90152,
+        "sha256": "624cea89193712baded27fcda129f60d6bf4918e5df8b49f9f04264ee3075052"
+      },
+      "reading_scope": "Selected complete provisions: preamble and Articles 1–3; Article 5 investment working group; Article 6 energy/mining in full; Article 15; all Annex I coordinating institutions; Annex II energy/mining agreement list. Not claimed whole-document reading.",
+      "locators": "Article 3(1)–(4), Article 5(14), Article 6(1)–(12), Article 15; Annex I Energy and Mining; Annex II Energy and Mining.",
+      "supports": "COSBAN main decision body within its competence; subcommittees expressly propose new ideas; focal-point review/reporting; NDRC overseas-investment department as energy/mining focal point; implementation and company-cooperation remit.",
+      "limits": "Formal historical arrangement, not a disclosed internal Chinese approval instrument for any particular company transaction. Annex II lists agreements but does not supply their full operative terms."
+    },
+    {
+      "id": "BE-04",
+      "type": "Official Chinese administrative meeting report",
+      "title": "中巴高委会能矿分委会召开视频工作会议",
+      "publisher": "NDRC, Department of Foreign Capital and Overseas Investment",
+      "url": "https://www.ndrc.gov.cn/fzggw/jgsj/wzs/sjjdt/201905/t20190520_1036844.html",
+      "event_date": "2019-05-17",
+      "publication_date": "2019-05-20",
+      "capture": {
+        "path": "/Users/jorsc/.codex/.chatgpt-projects/g-p-6a94dd290a988191911d85ae8fe94a6c/tmp/pdfs/research-2026-09-15/brazil-energy/ndrc-energy-2019.html",
+        "bytes": 6562,
+        "sha256": "1512dde8a6e993cd3864ad7983e533b80160b6a613b2754d9f3361d3a18f6e97"
+      },
+      "read_scope": "Entire one-paragraph substantive body, heading and publication metadata.",
+      "supports": "Chinese/Brazilian agencies, embassies, companies, financial institutions and industry alliances attended and spoke on mining, oil/gas, electricity and renewables.",
+      "limits": "No offer, price, instruction, adopted proposal or concession disclosed. Participation is not approval authority."
+    },
+    {
+      "id": "BE-05",
+      "type": "Brazilian government auction results and ministerial statement",
+      "title": "Arrecadação de R$ 70 bilhões - Governo comemora resultado do leilão dos Excedentes da Cessão Onerosa",
+      "publisher": "Ministério de Minas e Energia",
+      "url": "https://www.gov.br/mme/pt-br/assuntos/noticias/arrecadacao-de-r-70-bilhoes-governo-comemora-resultado-do-leilao-dos-excedentes-da-cessao-onero-2",
+      "event_date": "2019-11-06",
+      "publication_date": "2019-11-06",
+      "updated_date": "2022-10-31",
+      "capture": {
+        "path": "/Users/jorsc/.codex/.chatgpt-projects/g-p-6a94dd290a988191911d85ae8fe94a6c/tmp/pdfs/research-2026-09-15/brazil-energy/mme-auction-2019.html",
+        "bytes": 174870,
+        "sha256": "75ea82f76fb6b7c285ebcd16cc03bb5b5d4b1871b53440fa4189b8b3578b4a39"
+      },
+      "read_scope": "Main announcement, ministerial speech, profit-oil explanation and results table; web lines 313–350. Following transfer-of-rights background section not claimed read.",
+      "decisive_locator": "Maior percentual de lucro; Búzios row in results table",
+      "reported_terms": {
+        "fixed_signature_bonus_brl": 68194000000,
+        "offered_surplus_oil_percent": 23.24,
+        "consortium_interests": {
+          "Petrobras": 90,
+          "CNODC Brasil": 5,
+          "CNOOC Petroleum": 5
+        },
+        "operator": "Petrobras"
+      },
+      "denominator": "Offered percentage is government share of profit oil after specified costs/investments and royalties, not gross production.",
+      "source_error": "Opening paragraph names Atapu as the second awarded area; table says Itapu. Memo relies only on Búzios row and disclosed bidding structure.",
+      "limits": "Does not establish Chinese internal mandate, origin of proposal or size of negotiated concession. Does not alone establish subsequent agreement effectiveness."
+    },
+    {
+      "id": "BE-06",
+      "type": "Original company announcement filed with securities regulator",
+      "title": "Petrobras signs Búzios Coparticipation Agreement",
+      "publisher": "Petrobras; SEC Form 6-K",
+      "url": "https://www.sec.gov/Archives/edgar/data/1119639/000129281421002641/pbra20210611_6k3.htm",
+      "event_date": "2021-06-11",
+      "filing_signature_date": "2021-06-11",
+      "acquisition": "Web-tool full text accessible; direct SEC download returned 403. Preserved as web text, not original downloaded HTML.",
+      "capture": {
+        "path": "/Users/jorsc/.codex/.chatgpt-projects/g-p-6a94dd290a988191911d85ae8fe94a6c/tmp/pdfs/research-2026-09-15/brazil-energy/web-supplement-captures.json",
+        "section": "batches.primary_details, complete SEC text, including lines 0–136",
+        "bytes": 104301,
+        "sha256": "42c406e0b195fb633f3ed7dc09faa2632427f834dd4de47f1ccd21b1eacbefe9"
+      },
+      "read_scope": "Entire announcement, table, effectiveness and estimate caveats, forward-looking disclaimer and signature block.",
+      "decisive_locator": "Announcement body paragraphs 1–6 and allocation table, web lines 78–89.",
+      "reported_sequence": "Negotiations began after 6 November 2019 auction; Petrobras, CNODC, CNOOC and PPSA defined development assumptions and signed 11 June 2021 coparticipation agreement. Effectiveness conditional on ANP approval followed by partner compensation payment.",
+      "reported_terms": {
+        "allocation_by_contract": {
+          "Transfer of Rights": {
+            "percent": 26.2,
+            "recoverable_billion_boe": 3.15
+          },
+          "Production Sharing": {
+            "percent": 73.8,
+            "recoverable_billion_boe": 8.148
+          }
+        },
+        "total_compensation_usd_billion": 29.4,
+        "combined_chinese_partner_cash_compensation_usd_billion": 2.94,
+        "announced_reservoir_participation_percent": {
+          "Petrobras": 92.666,
+          "CNODC": 3.667,
+          "CNOOC": 3.667
+        }
+      },
+      "denominators_and_status": "26.2/73.8 contract allocations based on estimated volumes from effectiveness. The 5%/5% new consortium interests differ from the announced reservoir participation. Compensation recoverable as Cost Oil. Estimates assume 1 September 2021 effectiveness, subject to adjustment for actual date, production and investments. This task does not independently verify approval/payment/effectiveness or current shares.",
+      "limits": "Company account of accepted conditional terms, not complete signed contract, bargaining drafts or Chinese internal approvals. No attribution of proposal origin or concession magnitude."
+    }
+  ],
+  "acquisition_logs": [
+    {
+      "path": "/Users/jorsc/.codex/.chatgpt-projects/g-p-6a94dd290a988191911d85ae8fe94a6c/tmp/pdfs/research-2026-09-15/brazil-energy/acquisition-log.json",
+      "bytes": 642,
+      "sha256": "a2a3a5238a788db35ef3151a6f7ad42b525f0239a7c3a636e802c5e7fd33f6a0"
+    },
+    {
+      "path": "/Users/jorsc/.codex/.chatgpt-projects/g-p-6a94dd290a988191911d85ae8fe94a6c/tmp/pdfs/research-2026-09-15/brazil-energy/primary-acquisition-log.json",
+      "bytes": 1438,
+      "sha256": "8fa33cda7e2c3b679eb64754ab3fe6b09ab8bbe709c1f97f23c418ac2e08ea20"
+    }
+  ],
+  "not_established": [
+    "Whether the internally inconsistent Anonymous 1 affiliation should be Commerce or Foreign Affairs.",
+    "Any Chinese oil-company concession mandate, escalation decision or rejected alternative in Búzios.",
+    "A causal connection between the May 2019 coordination meeting and the Búzios offer or later agreement.",
+    "A measured change in Chinese bargaining flexibility under Xi.",
+    "Actual effectiveness or current ownership of Búzios from the bounded June 2021 source."
+  ]
+}

@@ -1,0 +1,356 @@
+{
+  "title": "US–China climate machinery, 2009–2013/14: bounded primary comparison",
+  "research_date": "2026-09-15",
+  "memo": "climate-2009-2013-machinery.md",
+  "scope": "Institutional assignments and reported activity; not a new causal reconstruction of Copenhagen or Paris.",
+  "source_count": 9,
+  "sources": [
+    {
+      "id": "CM01",
+      "title": "Memorandum of Understanding to Enhance Cooperation on Climate Change, Energy and the Environment / 关于加强气候变化、能源和环境合作的谅解备忘录",
+      "source_type": "Bilateral instrument: official Chinese treaty-database PDF; July English indexed official publication; government-hosted third-party Chinese transcription",
+      "dates": {
+        "english_release": "2009-07-28",
+        "formal_signatures": [
+          "2009-11-05, Beijing",
+          "2009-11-16, Washington"
+        ],
+        "catalogue_effective_date": "2009-11-16"
+      },
+      "urls": {
+        "mfa_pdf": "https://treaty.mfa.gov.cn/tykfiles/20180718/1531876944265.pdf",
+        "mfa_catalogue": "https://treaty.mfa.gov.cn/web/detail1.jsp?objid=1531876944252",
+        "state_release": "https://2009-2017.state.gov/r/pa/prs/ps/2009/july/126592.htm",
+        "mofcom_transcription": "https://policy.mofcom.gov.cn/pact/pactContent.shtml?id=1843"
+      },
+      "reading_scope": "Complete four-page Chinese PDF visually read. Physical p1 preamble and start of purpose; p2 purpose and ministry leadership; p3 Ten-Year Framework and climate dialogue; p4 continuation, no-international-law-obligations clause and signature dates. No printed page numbers. Complete English instrument read in search-index rendering, from preamble to final clause; original HTML retrieval failed. Complete MOFCOM-hosted Chinese transcription read and compared on relevant clauses. Catalogue metadata checked.",
+      "establishes": "The 2009 baseline already provides recurring ministerial and leader-representative consultations, ministry participation and both existing and additional cooperation mechanisms.",
+      "limits": "MFA PDF is a typeset database text with signature labels, not handwritten autographs. MOFCOM credits PKULaw and is not an independent witness. English indexed version lacks the November signature block. Catalogue classification does not override the instrument's express disclaimer of international-law rights and obligations. No complete operational meeting calendar or prior sectoral action plans obtained.",
+      "captures": [
+        {
+          "path": "/Users/jorsc/.codex/.chatgpt-projects/g-p-6a94dd290a988191911d85ae8fe94a6c/tmp/pdfs/research-2026-09-15/climate-machinery/05-2009-mou-mfa.pdf",
+          "bytes": 863232,
+          "sha256": "1fa9fa382f55d17885704509e5d0336dd7b7ef96e1a53f667d7fe259b258faea",
+          "status": "Original MFA-hosted database PDF"
+        },
+        {
+          "path": "/Users/jorsc/.codex/.chatgpt-projects/g-p-6a94dd290a988191911d85ae8fe94a6c/tmp/pdfs/research-2026-09-15/climate-machinery/04-treaty-detail.html",
+          "bytes": 5789,
+          "sha256": "eecf56951e0d18c888b9e5517ba8a9e462f0a77c7a0eae58cd15cd05ebe9246d",
+          "status": "Official catalogue metadata"
+        },
+        {
+          "path": "/Users/jorsc/.codex/.chatgpt-projects/g-p-6a94dd290a988191911d85ae8fe94a6c/tmp/pdfs/research-2026-09-15/climate-machinery/01-2009-mou-state-index-complete.json",
+          "bytes": 39629,
+          "sha256": "a9214af1e40ed3daa2113e68270882487149d14b42b8203def5d8372a7df944e",
+          "status": "Preserved search-tool rendering containing complete target official text and unrelated results; not a downloaded State webpage"
+        },
+        {
+          "path": "/Users/jorsc/.codex/.chatgpt-projects/g-p-6a94dd290a988191911d85ae8fe94a6c/tmp/pdfs/research-2026-09-15/climate-machinery/02-2009-mou-zh-mofcom.html",
+          "bytes": 14709,
+          "sha256": "a884ff554958b7f6bc9097bc5c2977f69e140498cc39937259623b554c447c58",
+          "status": "Government-hosted PKULaw transcription"
+        }
+      ],
+      "visual_renders": [
+        {
+          "path": "/Users/jorsc/.codex/.chatgpt-projects/g-p-6a94dd290a988191911d85ae8fe94a6c/tmp/pdfs/research-2026-09-15/climate-machinery/05-mou-page-1.png",
+          "bytes": 468297,
+          "sha256": "567507081d5ddea944d9bb8f99fabbce9f4852818de4e92d6b6adce64479d431",
+          "status": "Local rendering visually inspected; not independent source"
+        },
+        {
+          "path": "/Users/jorsc/.codex/.chatgpt-projects/g-p-6a94dd290a988191911d85ae8fe94a6c/tmp/pdfs/research-2026-09-15/climate-machinery/05-mou-page-2.png",
+          "bytes": 556179,
+          "sha256": "4e0836ec9e5b07f9ebc76ccf1329b08ac2dee3d9c606f186a794070861c4dfd5",
+          "status": "Local rendering visually inspected; not independent source"
+        },
+        {
+          "path": "/Users/jorsc/.codex/.chatgpt-projects/g-p-6a94dd290a988191911d85ae8fe94a6c/tmp/pdfs/research-2026-09-15/climate-machinery/05-mou-page-3.png",
+          "bytes": 741663,
+          "sha256": "767b7d78d46ce6c46fe315efd8bacb5f034db8e4322593d5d499363637530681",
+          "status": "Local rendering visually inspected; not independent source"
+        },
+        {
+          "path": "/Users/jorsc/.codex/.chatgpt-projects/g-p-6a94dd290a988191911d85ae8fe94a6c/tmp/pdfs/research-2026-09-15/climate-machinery/05-mou-page-4.png",
+          "bytes": 235790,
+          "sha256": "89dd4bda205dcc645658e0c7d4c90da2ecfae71e02f931a52eb3f6dca4d40f31",
+          "status": "Local rendering visually inspected; not independent source"
+        }
+      ],
+      "new_unique_document": true,
+      "reading_depth": "Complete instrument, two language renderings",
+      "reading_date": "2026-09-15",
+      "retrieval_date": "2026-09-15"
+    },
+    {
+      "id": "CM02",
+      "title": "Signing Ceremony for the U.S.-China Memorandum of Understanding to Enhance Cooperation in Climate Change, Energy, and the Environment",
+      "source_type": "Official public ceremony transcript, complete indexed rendering",
+      "publication_date": "2009-07-28",
+      "url": "https://2009-2017.state.gov/secretary/20092013clinton/rm/2009a/july/126575.htm",
+      "reading_scope": "Complete substantive ceremony transcript read, including moderator, Clinton, Dai interpreted remarks, Chu and final PRN 2009/786. Only the target result in the preserved multi-result search response is a completed reading.",
+      "establishes": "Stern and Xie already participated in the 2009 ceremony. Dai described it as initialing, clarifying how July publication relates to November formal-signature dates.",
+      "limits": "Transcript uses both signing and initialing language. No audio or autograph was acquired. Does not establish that the 2013 group already existed or define the envoys' concession authority.",
+      "captures": [
+        {
+          "path": "/Users/jorsc/.codex/.chatgpt-projects/g-p-6a94dd290a988191911d85ae8fe94a6c/tmp/pdfs/research-2026-09-15/climate-machinery/09-2009-ceremony-state-complete.json",
+          "bytes": 37926,
+          "sha256": "1dc26c93c46a0d246bcf5beec8dd964c6e052cfd3e76847d8a1d15e8e9368097",
+          "status": "Complete official transcript in preserved search rendering; not original HTML"
+        }
+      ],
+      "new_unique_document": true,
+      "reading_depth": "Complete published ceremony transcript",
+      "reading_date": "2026-09-15",
+      "retrieval_date": "2026-09-15"
+    },
+    {
+      "id": "CM03",
+      "title": "2011年中美战略与经济对话框架下战略对话成果清单",
+      "source_type": "Official Chinese S&ED outcomes",
+      "publication_date": "2011-05-11",
+      "url": "https://www.fmprc.gov.cn/web/ziliao_674904/zt_674979/ywzt_675099/2011nzt_675363/disanlunzhongmeiduihua_675369/201105/t20110511_7956335.shtml",
+      "reading_scope": "Complete items 10–13 and 31–35 read; title/date checked. Other outcomes not systematically read.",
+      "establishes": "Item10 reports a climate policy dialogue held before 2013; item11 separately records the seventh Ten-Year Framework group meeting on April19–20; items31–32 show continuing inventory-capacity cooperation and MOU reporting.",
+      "limits": "Issuer account, not independent verification of meeting quality or implementation. Climate dialogue and Ten-Year Framework group are distinct. Does not provide complete dates or attendance for all earlier climate dialogue meetings.",
+      "captures": [
+        {
+          "path": "/Users/jorsc/.codex/.chatgpt-projects/g-p-6a94dd290a988191911d85ae8fe94a6c/tmp/pdfs/research-2026-09-15/climate-machinery/06-2011-sed-outcomes-mfa.html",
+          "bytes": 75148,
+          "sha256": "1827d3402377250abe262c74f2c7095fb613602d2dc1ab9a1667125e97c740e8",
+          "status": "Complete source HTML"
+        },
+        {
+          "path": "/Users/jorsc/.codex/.chatgpt-projects/g-p-6a94dd290a988191911d85ae8fe94a6c/tmp/pdfs/research-2026-09-15/climate-machinery/06-2011-sed-outcomes-mfa.txt",
+          "bytes": 19057,
+          "sha256": "2e5aa3c601a268ef2f0dfb8e4ffff8dc2d12a7e3bbefdcc30313e6c756d55fcd",
+          "status": "Derived text"
+        }
+      ],
+      "new_unique_document": true,
+      "reading_depth": "Selected outcomes",
+      "reading_date": "2026-09-15",
+      "retrieval_date": "2026-09-15"
+    },
+    {
+      "id": "CM04",
+      "title": "中美气候变化联合声明",
+      "source_type": "Joint institutional statement",
+      "publication_date": "2013-04-13",
+      "url": "https://www.fmprc.gov.cn/web/zyxw/201304/t20130413_322455.shtml",
+      "prior_id": "CLI09",
+      "prior_register": "../../sources/climate-2009-2015-register.json",
+      "reading_scope": "Complete five substantive paragraphs reread; paragraph3 chairs, departmental involvement, preparatory assignment and S&ED reporting.",
+      "establishes": "Named chairs and immediate task assignment to review and propose cooperation before the next S&ED.",
+      "limits": "The annex in CM05 repeats this text. Does not prove final target authority or achieved project outcomes.",
+      "captures": [
+        {
+          "path": "/Users/jorsc/.codex/.chatgpt-projects/g-p-6a94dd290a988191911d85ae8fe94a6c/tmp/pdfs/research-2026-09-15/climate/2013-working-group-zh.html",
+          "bytes": 61631,
+          "sha256": "53d149081d2ae75c087bbe5bb96096bc4e6875d135e8542a4bc086201ab47f90",
+          "status": "Previously preserved official HTML, reused"
+        },
+        {
+          "path": "/Users/jorsc/.codex/.chatgpt-projects/g-p-6a94dd290a988191911d85ae8fe94a6c/tmp/pdfs/research-2026-09-15/climate/2013-working-group-zh.txt",
+          "bytes": 9720,
+          "sha256": "875dff27056aad23731507230deb5e3c845a78d29674a81269f91798ac93950a",
+          "status": "Existing derived text, reused"
+        }
+      ],
+      "new_unique_document": false,
+      "reading_depth": "Complete rereading",
+      "reading_date": "2026-09-15",
+      "retrieval_date": "2026-09-15"
+    },
+    {
+      "id": "CM05",
+      "title": "中美气候变化工作组提交中美战略与经济对话的报告",
+      "source_type": "Joint report and work program",
+      "publication_date": "2013-07-13",
+      "report_date": "2013-07-10",
+      "url": "https://www.mfa.gov.cn/ziliao_674904/1179_674909/201307/t20130713_9868283.shtml",
+      "prior_id": "CLI10",
+      "prior_register": "../../sources/climate-2009-2015-register.json",
+      "reading_scope": "Complete substantive report, all five initiatives, policy section, final group-role section and repeated April statement annex reread.",
+      "establishes": "Reports preparatory interagency meetings; defines five initiatives and October implementation-plan objective; expressly recognizes 2009 policy dialogue; sets at least twice-yearly meetings and annual S&ED reporting.",
+      "limits": "Official plans and self-assessment are not independently verified outcomes. No minimum cadence is supplied for the 2009 policy dialogue, so relative actual frequency is not measured. October completion objective is distinct from later agreement on plans.",
+      "captures": [
+        {
+          "path": "/Users/jorsc/.codex/.chatgpt-projects/g-p-6a94dd290a988191911d85ae8fe94a6c/tmp/pdfs/research-2026-09-15/climate/2013-working-report-zh.html",
+          "bytes": 75473,
+          "sha256": "10495283de2a9aaaead8e5a1b20ccbef18285016f8196cff9c33e91e97524012",
+          "status": "Previously preserved official HTML, reused"
+        },
+        {
+          "path": "/Users/jorsc/.codex/.chatgpt-projects/g-p-6a94dd290a988191911d85ae8fe94a6c/tmp/pdfs/research-2026-09-15/climate/2013-working-report-zh.txt",
+          "bytes": 22058,
+          "sha256": "5a71095c75e9247184750d30fda743d41540e19a01453055a6f51be28ca388f7",
+          "status": "Existing derived text, reused"
+        }
+      ],
+      "new_unique_document": false,
+      "reading_depth": "Complete rereading",
+      "reading_date": "2026-09-15",
+      "retrieval_date": "2026-09-15"
+    },
+    {
+      "id": "CM06",
+      "title": "Climate Change Meeting Held under the 5th Round of China-US Strategic and Economic Dialogues",
+      "source_type": "Chinese official meeting account in official English",
+      "event_date": "2013-07-10",
+      "displayed_publication_date": "2013-07-11 01:47",
+      "url_date_note": "URL path contains 20130727; event and displayed publication dates retained separately.",
+      "url": "https://auckland.china-consulate.gov.cn/eng/chinanews/201307/t20130727_171274.htm",
+      "reading_scope": "Complete five-paragraph substantive meeting account read; unrelated navigation and related-news list excluded.",
+      "establishes": "Names senior S&ED representatives and department heads attending; records report approval and continuing Chinese requests concerning technology access.",
+      "limits": "Official English account, not complete minutes or draft history. Does not independently establish what each project delivered or reveal Chinese negotiating instructions. Its general action-plan language should not erase CM05's separate later implementation-plan requirement.",
+      "captures": [
+        {
+          "path": "/Users/jorsc/.codex/.chatgpt-projects/g-p-6a94dd290a988191911d85ae8fe94a6c/tmp/pdfs/research-2026-09-15/climate-machinery/08-2013-sed-climate-meeting.html",
+          "bytes": 12199,
+          "sha256": "dca17a69ef7dbdb9789ac9174a276f64a3f3e8d85fa5173dec27dd60af22e7c5",
+          "status": "Complete official HTML"
+        },
+        {
+          "path": "/Users/jorsc/.codex/.chatgpt-projects/g-p-6a94dd290a988191911d85ae8fe94a6c/tmp/pdfs/research-2026-09-15/climate-machinery/08-2013-sed-climate-meeting.txt",
+          "bytes": 4743,
+          "sha256": "fa9b80448beea0bb577697148b23949e87a73f5a1993467cc28086b8bf127229",
+          "status": "Derived text"
+        }
+      ],
+      "new_unique_document": true,
+      "reading_depth": "Complete published meeting account",
+      "reading_date": "2026-09-15",
+      "retrieval_date": "2026-09-15"
+    },
+    {
+      "id": "CM07",
+      "title": "Report of the U.S.-China Climate Change Working Group to the 6th Round of the Strategic and Economic Dialogue",
+      "source_type": "Official joint report reproduced on US Pacific Command website",
+      "publication_date": "2014-07-16, government reprint display",
+      "url": "https://www.pacom.mil/Media/NEWS/Article/564368/report-of-the-us-china-climate-change-working-group-to-the-6th-round-of-the-str/",
+      "original_state_url": "https://2009-2017.state.gov/r/pa/prs/ps/2014/07/229308.htm",
+      "reading_scope": "Complete introduction and Enhanced Policy Dialogue section read: browser lines263–268 and337–341. Vehicle-section excerpts also inspected but not used for claims of independently verified performance. Remainder not systematically read.",
+      "establishes": "Reports February2014 agreement on five implementation plans, four bilateral policy meetings since preceding S&ED and a July8 domestic-policy exchange.",
+      "limits": "Government reprint attributes report to Office of the Spokesperson; not independent corroboration of the joint report. Direct HTML download returned403; browser body is preserved. Plans, meeting minutes and their drafting dates not acquired, so no conclusion that October2013 deadline was met or missed.",
+      "captures": [
+        {
+          "path": "/Users/jorsc/.codex/.chatgpt-projects/g-p-6a94dd290a988191911d85ae8fe94a6c/tmp/pdfs/research-2026-09-15/climate-machinery/07-2014-report-pacom-browser.json",
+          "bytes": 34473,
+          "sha256": "d1209981700bf8ec26ae90b284b331278a14453a96cf925f088f9a9ebbebefd8",
+          "status": "Preserved browser-tool report rendering; selected reading"
+        }
+      ],
+      "new_unique_document": true,
+      "reading_depth": "Selected report sections",
+      "reading_date": "2026-09-15",
+      "retrieval_date": "2026-09-15"
+    },
+    {
+      "id": "CM08",
+      "title": "U.S.–China Dialogue Podcast: Todd Stern",
+      "source_type": "Retrospective participant interview with James Green",
+      "publication_date": "2019-08-26",
+      "url": "https://uschinadialogue.georgetown.edu/podcasts/todd-stern",
+      "prior_id": "CLI06",
+      "prior_register": "../../sources/climate-2009-2015-register.json",
+      "reading_scope": "Selected return: entire 2013/2014 preparation exchange, existing derived lines360–402, from Green's APEC question through technical/political target preparation. Previously completed whole transcript; not newly counted as full rereading. No audio listened to.",
+      "establishes": "Participant interpretation of annual S&ED deadlines and subsequent leadership engagement over joint announcement.",
+      "limits": "Retrospective US-side account, not private Chinese mandate. Recalled Chinese target details are imprecise and are not adopted; no organizational causal estimate.",
+      "captures": [
+        {
+          "path": "/Users/jorsc/.codex/.chatgpt-projects/g-p-6a94dd290a988191911d85ae8fe94a6c/tmp/pdfs/research-2026-09-15/climate/2019-stern-interview.html",
+          "bytes": 109905,
+          "sha256": "75f0d3c8a8f546cffb7118c87c009b17329bbad586ffd9743041c1bb9b86cf84",
+          "status": "Existing transcript HTML reused"
+        },
+        {
+          "path": "/Users/jorsc/.codex/.chatgpt-projects/g-p-6a94dd290a988191911d85ae8fe94a6c/tmp/pdfs/research-2026-09-15/climate/2019-stern-interview.txt",
+          "bytes": 55900,
+          "sha256": "690d9b3a01e244c8f2fa09d19b35eac48947c7bf106b7c0e29978981b311fe65",
+          "status": "Existing derived transcript reused"
+        }
+      ],
+      "new_unique_document": false,
+      "reading_depth": "Selected rereading",
+      "reading_date": "2026-09-15",
+      "retrieval_date": "2026-09-15"
+    },
+    {
+      "id": "CM09",
+      "title": "解振华：让气候目标倒逼改革",
+      "creator": "胡舒立、宫靖、孔令钰，财新周刊",
+      "source_type": "Contemporary edited participant interview",
+      "interview_date": "2014-11-15",
+      "publication_date": "2014-11-21",
+      "url": "https://weekly.caixin.com/m/2014-11-21/100753798_all.html",
+      "prior_id": "CLD01",
+      "prior_register": "chapter-03-climate-development-register.json",
+      "reading_scope": "Selected Chinese return: preparation and leadership questions (derived lines65–78), target/rationale/modeling sequence (111–151), reciprocal targets and entire working-group exchange (271–291). Previously completed interview, not a new full reading.",
+      "establishes": "Contemporary account of subgroup organization and annual reporting, distinct from domestic target choice.",
+      "limits": "Edited public account and self-assessment, not meeting minutes. No independent project-performance check or comparison of delegated discretion across leaders. Its September-centered chronology is not silently combined with Stern's earlier starting point.",
+      "captures": [
+        {
+          "path": "/Users/jorsc/.codex/.chatgpt-projects/g-p-6a94dd290a988191911d85ae8fe94a6c/tmp/pdfs/research-2026-09-15/climate-development/CLD01-zh.html",
+          "bytes": 96342,
+          "sha256": "b931d611d192c179e2aa72efe6d7cc9ee2c8217bd607e930657fd0bba90f978e",
+          "status": "Existing complete Chinese interview HTML reused"
+        },
+        {
+          "path": "/Users/jorsc/.codex/.chatgpt-projects/g-p-6a94dd290a988191911d85ae8fe94a6c/tmp/pdfs/research-2026-09-15/climate-development/CLD01-zh.txt",
+          "bytes": 37308,
+          "sha256": "962a5b2574aa8b33ff540018267a4073fbbc8afc74ce4fd3202d12e88e97cf57",
+          "status": "Existing derived Chinese text reused"
+        }
+      ],
+      "new_unique_document": false,
+      "reading_depth": "Selected rereading",
+      "reading_date": "2026-09-15",
+      "retrieval_date": "2026-09-15"
+    }
+  ],
+  "failures": [
+    {
+      "url": "https://2009-2017.state.gov/r/pa/prs/ps/2009/july/126592.htm",
+      "result": "Browser and downloaded HTML display technical difficulties/forbidden. Not counted as original body access.",
+      "capture": {
+        "path": "/Users/jorsc/.codex/.chatgpt-projects/g-p-6a94dd290a988191911d85ae8fe94a6c/tmp/pdfs/research-2026-09-15/climate-machinery/01-2009-mou-state.html",
+        "bytes": 188865,
+        "sha256": "359e3b8b6b844d69fa29bd39c40f970af1586af0500dcda1f98a302721eafe1d",
+        "status": "Failed body retrieval despite HTTP success"
+      }
+    },
+    {
+      "url": "https://2009-2017.state.gov/e/oes/rls/pr/2013/211842.htm",
+      "result": "Browser technical-difficulties page; existing complete Chinese official text controls the report comparison."
+    },
+    {
+      "url": "https://www.pacom.mil/Media/NEWS/Article/564368/report-of-the-us-china-climate-change-working-group-to-the-6th-round-of-the-str/",
+      "result": "Direct curl403; complete browser rendering recovered, selected sections read."
+    },
+    {
+      "files": [
+        "01-2009-mou-state-index.json",
+        "09-2009-ceremony-state-index.json"
+      ],
+      "result": "Empty search responses retained as failed intermediate captures; substantive sources use separate complete-rendering files."
+    }
+  ],
+  "source_independence": "Different language versions, repeated April annex and government-hosted reproductions are not independent corroboration. CM06 is an issuer meeting account; CM07 reports the working group's own activity. The two participants supply differently situated perspectives, not private files or independent verification of every project.",
+  "unresolved": [
+    "Complete 2009–2013 meeting calendar and comparative attendance/intensity",
+    "Prior sectoral action plans and precise increment in their specificity",
+    "Original five implementation plans and date each was completed versus approved",
+    "Internal Chinese delegations of negotiating authority",
+    "Causal contribution of the working-group design to target ambition or international agreement"
+  ],
+  "source_counts": {
+    "substantive_records": 9,
+    "new_unique_documents": 5,
+    "reused_documents": 4,
+    "new_complete_reading_objects": 3,
+    "new_selected_readings": 2,
+    "new_scholarly_full_readings": 0
+  }
+}

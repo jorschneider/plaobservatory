@@ -53,7 +53,13 @@ These are useful additional readings, not additions to the scholarly-article cou
 
 - **Xie Zhenhua (2014):** complete Chinese *Caixin* interview, conducted November 15 and posted November 21; complete December 2 ChinaFile publication of English excerpts also read. One participant chain with different coverage: the Chinese version includes the exchange on reciprocal acceptability omitted from the excerpts. [Reading record](../../manuscript/development/chapter-03-climate-edit-memo.md).
 
+- **Shyam Saran (2019), “One Long Day in Copenhagen”:** complete public chapter rendering, including references and reprint notice; no paginated PDF acquired. The chapter identifies a reprint from the 2017 book, which was not acquired. One retrospective participant chain. [Comparison and scope](../../manuscript/development/copenhagen-participant-comparison.md).
+
 ## Bounded and related readings
+
+- **Michael Froman, Miller Center Interview 1:** complete selected 4,826-word Copenhagen discussion, not the whole interview. The webpage date conflicts with retrospective content; exact interview year remains unverified. **Jairam Ramesh, December 22, 2009:** complete ministerial statement and reply in the official Rajya Sabha record, printed pp. 218–223 and 242–248; only selected intervening debate. [Participant register](../../manuscript/development/copenhagen-participant-register.json).
+- **Shu G. Zhang and Ni Chen, “Beijing’s Institutionalised Economic Statecraft Towards Brazil” (issue 2021; online 2022):** all 27 pages' text, table and references read; two figures uninspected. Excluded from the complete count. The [critical reading](brazil-energy-authority.md) checks a later citation against the actual methods and follows coordination claims into original action-plan and transaction documents.
+
 
 - **Thomas J. Prusa and Edwin Vermulst (2013), “United States – Definitive Anti-Dumping and Countervailing Duties on Certain Products from China: Passing the Buck on Pass-Through”:** authentic published article, *World Trade Review* 12(2):197–234. Read pp. 197–199, complete §§4.2–4.3 at pp. 214–228 with tables and caveats, and conclusion at pp. 232–234 with the preceding benchmark paragraph. Other sections not fully read. Legal/economic analysis, not a participant account; prospective post-2016 claims are not treated as realized facts. See [DS379 case](../../cases/wto-ds379-legal-process.md) and [DS379-10](../../sources/wto-ds379-register.json).
 
@@ -101,6 +107,9 @@ The later passes supply selected successful and delayed implementation sequences
 Full source PDFs, OCR, HTML and rendered source pages remain outside Git. The repository contains original analysis, bibliographic metadata, source locators and the audit of what was read. There has been no new outreach, interview or private archive access.
 
 ## Additional selected reading in the developmental pass
+
+The [2009–2013 climate machinery comparison](../../manuscript/development/climate-2009-2013-machinery.md) reads the earlier memorandum and ceremony, selected 2011 outcomes, the July 2013 approval account and selected 2014 reporting. It rereads the 2013 texts and selected Stern/Xie passages. Recurring consultations predate the named 2013 group. These are primary and participant readings, with no scholarly-count increment.
+
 
 Farrell and Newman (2019), “Weaponized Interdependence,” complete printed pages 52–58 and 75–79 including notes. Theory, scope conditions and concluding limits were read; the empirical narratives were not fully read. It is excluded from the complete-work count. [Reading record](../../manuscript/development/network-power-selected-reading.md).
 
