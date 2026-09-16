@@ -1,0 +1,225 @@
+{
+  "title": "Xi-era foreign-policy authority and implementation routing: bounded primary supplement",
+  "research_date": "2026-09-15",
+  "memo": "authority-routing-research-2026-09-15.md",
+  "scope": "2018 reform and first commission meeting; 2023 Foreign Relations Law and central conference; April 2024 local-affairs conference; selected 2023 crisis process example. No current personnel-roster claim.",
+  "sources": [
+    {
+      "id": "AR-01",
+      "title": "深化党和国家机构改革方案",
+      "url": "https://www.cac.gov.cn/2018-03/21/c_1122571024.htm",
+      "source_type": "Primary official document or published official account",
+      "reading_date": "2026-09-15",
+      "read_scope": "Items IV, XVII and XXXVIII reread completely; other parts not reread.",
+      "decisive_locator": "Items (四), (十七), (三十八).",
+      "establishes": "Commission conversion; specific maritime-rights transfer; aid policy and execution responsibilities.",
+      "limits": "Assigned duties do not establish actual implementation, operational command for each event, or bargaining mandates.",
+      "preserved_copy": {
+        "path": "/Users/jorsc/.codex/.chatgpt-projects/g-p-6a94dd290a988191911d85ae8fe94a6c/tmp/pdfs/research-2026-09-10/india/cab-reform-2018.html",
+        "bytes": 70957,
+        "sha256": "1032cdf51fd8581cf26d72416d1c952b661b24cdfe203360d7d8517c80be62fa"
+      },
+      "publication_date": "2018-03-21",
+      "acquisition_status": "Reused existing capture; no duplicate acquisition.",
+      "prior_register": "literature/readings/cabestan-institutions-evidence.json: cab-reform-2018",
+      "new_unique_full_read": false
+    },
+    {
+      "id": "AR-02",
+      "title": "习近平主持召开中央外事工作委员会第一次会议",
+      "url": "http://www.xinhuanet.com/politics/leaders/2018-05/15/c_1122836914.htm",
+      "source_type": "Primary official document or published official account",
+      "reading_date": "2026-09-15",
+      "read_scope": "Entire substantive published article reread.",
+      "decisive_locator": "Opening two body paragraphs; local-affairs and commission-role paragraphs; adoption of working rules.",
+      "establishes": "Named director and deputy; assigned coordination and supervision; working rules adopted.",
+      "limits": "Published account does not reproduce working rules or establish detailed delegation or complete membership.",
+      "preserved_copy": {
+        "path": "/Users/jorsc/.codex/.chatgpt-projects/g-p-6a94dd290a988191911d85ae8fe94a6c/tmp/pdfs/research-2026-09-10/india/cab-fac-2018.html",
+        "bytes": 16054,
+        "sha256": "8383f7331d3bb46a9750e0c22fdd9d46479d88ba1e82a095ff7ef2b2c8556328"
+      },
+      "event_date": "2018-05-15",
+      "publication_date": "2018-05-15 18:00:18",
+      "acquisition_status": "Reused existing capture.",
+      "prior_register": "literature/readings/cabestan-institutions-evidence.json: cab-fac-2018",
+      "new_unique_full_read": false
+    },
+    {
+      "id": "AR-03",
+      "title": "中华人民共和国对外关系法",
+      "url": "https://www.mfa.gov.cn/web/wjb_673085/zfxxgk_674865/zcfg/fl/202306/t20230628_11105189.shtml",
+      "source_type": "Primary official document or published official account",
+      "reading_date": "2026-09-15",
+      "read_scope": "All 45 Chinese articles reread. Selected official English wording cross-checked, including articles 5, 9–16 and 30–33; not a second full-language reading.",
+      "decisive_locator": "Articles 5, 9–16, 30–35 and 45.",
+      "establishes": "Statutory authority distribution, treaty provisions, countermeasure framework and effective date.",
+      "limits": "Does not prove each function was new in 2023, actual agency discretion, or mandate behind a demand. Article 9 uses a descriptive institutional label, not the commission proper name.",
+      "preserved_copy": {
+        "path": "/Users/jorsc/.codex/.chatgpt-projects/g-p-6a94dd290a988191911d85ae8fe94a6c/tmp/pdfs/research-2026-09-15/authority-development/foreign-relations-law-2023.html",
+        "bytes": 102832,
+        "sha256": "3b1aa41d47bbf1d311a9ddc2c365dbecb28a6189de106b8e24bc4c0e9d812ca1"
+      },
+      "adoption_date": "2023-06-28",
+      "effective_date": "2023-07-01",
+      "acquisition_status": "New local preservation of source already read in earlier institutional research.",
+      "prior_register": "literature/readings/institutions-and-audiences-evidence.json: primary_checks, Foreign Relations Law",
+      "new_unique_full_read": false,
+      "derived_text": "/Users/jorsc/.codex/.chatgpt-projects/g-p-6a94dd290a988191911d85ae8fe94a6c/tmp/pdfs/research-2026-09-15/authority-development/foreign-relations-law-2023.txt"
+    },
+    {
+      "id": "AR-04",
+      "title": "中央外事工作会议在北京举行 习近平发表重要讲话",
+      "url": "https://www.mfa.gov.cn/wjdt_674879/gjldrhd_674881/202312/t20231228_11214409.shtml",
+      "source_type": "Primary official document or published official account",
+      "reading_date": "2026-09-15",
+      "read_scope": "Entire substantive published conference account read.",
+      "decisive_locator": "Final four substantive paragraphs; derived text lines 94–97.",
+      "establishes": "Central authority and coordination instructions; specific presenting institutions and attendance categories.",
+      "limits": "Not full speeches, minutes or independently validated performance. Participants are not all commission members or veto holders.",
+      "preserved_copy": {
+        "path": "/Users/jorsc/.codex/.chatgpt-projects/g-p-6a94dd290a988191911d85ae8fe94a6c/tmp/pdfs/research-2026-09-15/authority-development/foreign-affairs-conference-2023.html",
+        "bytes": 69232,
+        "sha256": "f0117444bd4e697fc3bed5bff440309923a454fe4e9b1f88f134255a54be8ba2"
+      },
+      "event_dates": [
+        "2023-12-27",
+        "2023-12-28"
+      ],
+      "publication_date": "2023-12-28 19:59",
+      "acquisition_status": "New capture and complete published-report reading.",
+      "new_unique_full_read": true,
+      "full_read_object": "Published official conference account only; not speech or scholarly article.",
+      "derived_text": "/Users/jorsc/.codex/.chatgpt-projects/g-p-6a94dd290a988191911d85ae8fe94a6c/tmp/pdfs/research-2026-09-15/authority-development/foreign-affairs-conference-2023.txt"
+    },
+    {
+      "id": "AR-05",
+      "title": "全国地方外事工作会议在京召开 王毅出席并讲话",
+      "url": "https://www.mfa.gov.cn/web/zyxw/202404/t20240412_11281020.shtml",
+      "source_type": "Primary official document or published official account",
+      "reading_date": "2026-09-15",
+      "read_scope": "Entire substantive published report: one paragraph.",
+      "decisive_locator": "Sole body paragraph; derived text line 80.",
+      "establishes": "Wang as commission office director; instructions combine coordination, local initiative and discipline.",
+      "limits": "Not full speech; supplies no concrete authorized concession or measured local autonomy.",
+      "preserved_copy": {
+        "path": "/Users/jorsc/.codex/.chatgpt-projects/g-p-6a94dd290a988191911d85ae8fe94a6c/tmp/pdfs/research-2026-09-15/authority-development/local-foreign-affairs-conference-2024.html",
+        "bytes": 60032,
+        "sha256": "c4c6c5559ffe2786db5b8471f20dc0a3957b7d4b634ffb31c39e3927c6671f72"
+      },
+      "event_dates": [
+        "2024-04-10",
+        "2024-04-11"
+      ],
+      "displayed_publication_date": "2024-04-11 11:45",
+      "date_note": "URL path contains 20240412; use displayed date and preserve discrepancy.",
+      "acquisition_status": "New capture and complete short-report reading.",
+      "new_unique_full_read": true,
+      "full_read_object": "One-paragraph official conference report only.",
+      "derived_text": "/Users/jorsc/.codex/.chatgpt-projects/g-p-6a94dd290a988191911d85ae8fe94a6c/tmp/pdfs/research-2026-09-15/authority-development/local-foreign-affairs-conference-2024.txt"
+    },
+    {
+      "id": "AR-06",
+      "title": "王毅同美国总统国家安全事务助理沙利文举行会晤",
+      "url": "https://www.fmprc.gov.cn/zyxw/202305/t20230512_11075777.shtml",
+      "source_type": "Primary official document or published official account",
+      "reading_date": "2026-09-15",
+      "read_scope": "Entire substantive readout paragraph reread.",
+      "decisive_locator": "Single body paragraph.",
+      "establishes": "Wang held Vienna strategic talks as Politburo member and commission office director; continued channel reported.",
+      "limits": "Does not establish private instructions; predates July 2023 law.",
+      "preserved_copy": {
+        "path": "/Users/jorsc/.codex/.chatgpt-projects/g-p-6a94dd290a988191911d85ae8fe94a6c/tmp/pdfs/research-2026-09-15/crisis-2023/10-mfa-may12-vienna.html",
+        "bytes": 60061,
+        "sha256": "59d675f8157ede3a738495eb7b983a4ee846de91f1a0b3745fbbb59b3089811c"
+      },
+      "publication_date": "2023-05-12 06:56",
+      "event_date": "2023-05-10 to 2023-05-11, Vienna",
+      "acquisition_status": "Reused existing crisis-case capture; no duplicate acquisition.",
+      "prior_register": "sources/us-china-crisis-2023-register.json: C23-10",
+      "new_unique_full_read": false
+    },
+    {
+      "id": "AR-07",
+      "title": "国防部新闻发言人谭克非就美炒作中方“拒绝”两国防长会晤提议事答记者问",
+      "url": "http://www.mod.gov.cn/gfbw/qwfb/16227655.html",
+      "source_type": "Primary official document or published official account",
+      "reading_date": "2026-09-15",
+      "read_scope": "Complete question and answer reread.",
+      "decisive_locator": "Entire question and answer.",
+      "establishes": "Published response regarding proposed defense-minister meeting; military contacts not said to have entirely ceased.",
+      "limits": "Does not specify an automatic sanction-removal condition, reveal internal disagreement or prove an MFA/CMC conflict.",
+      "preserved_copy": {
+        "path": "/Users/jorsc/.codex/.chatgpt-projects/g-p-6a94dd290a988191911d85ae8fe94a6c/tmp/pdfs/research-2026-09-15/crisis-2023/11-mod-may31-refusal.html",
+        "bytes": 14407,
+        "sha256": "5a295e1d413b5f2a12cb466d3caaa171f1b2fb7a1cff863653c23963ee0c99f0"
+      },
+      "publication_date": "2023-05-31 12:28:36",
+      "event_date": null,
+      "acquisition_status": "Reused existing crisis-case capture; no duplicate acquisition.",
+      "prior_register": "sources/us-china-crisis-2023-register.json: C23-11",
+      "new_unique_full_read": false
+    },
+    {
+      "id": "AR-08",
+      "title": "习近平同美国总统拜登举行中美元首会晤",
+      "url": "https://www.mfa.gov.cn/ziliao_674904/zt_674979/ywzt_675099/2023nzt/xjpfmgjxzmyshwtscxytjhzzdsscldrfzshy/zxxx_136234/202311/t20231116_11181125.shtml",
+      "source_type": "Primary official document or published official account",
+      "reading_date": "2026-09-15",
+      "read_scope": "Current pass reread cooperation-mechanism paragraph; prior case register records complete body reading.",
+      "decisive_locator": "Paragraph beginning 两国元首同意推动和加强; existing derived text line 119.",
+      "establishes": "Named leader agreement on military contacts, with stated equality and respect condition.",
+      "limits": "Chinese readout is not a joint text or proof every mechanism was operational.",
+      "preserved_copy": {
+        "path": "/Users/jorsc/.codex/.chatgpt-projects/g-p-6a94dd290a988191911d85ae8fe94a6c/tmp/pdfs/research-2026-09-15/crisis-2023/18-mfa-nov16-readout.html",
+        "bytes": 68766,
+        "sha256": "a203b47f57860259bb581f57edff9dd8a639f62f334dffa6811c5563f7f6cb4c"
+      },
+      "publication_date": "2023-11-16 10:23, Beijing publication time",
+      "event_date": "2023-11-15, Woodside, California",
+      "acquisition_status": "Reused existing crisis-case capture; no duplicate acquisition.",
+      "prior_register": "sources/us-china-crisis-2023-register.json: C23-18",
+      "new_unique_full_read": false
+    },
+    {
+      "id": "AR-09",
+      "title": "国防部：中美两国防务部门沟通落实两国元首共识",
+      "url": "http://www.mod.gov.cn/gfbw/xwfyr/lxjzhzt/2023njzh/2023n11y/16270152.html",
+      "source_type": "Primary official document or published official account",
+      "reading_date": "2026-09-15",
+      "read_scope": "Entire Chinese question/answer and official English answer reread.",
+      "decisive_locator": "Complete answer; implementation-coordination sentence in final paragraph.",
+      "establishes": "Defense establishments communicating and coordinating to implement leader agreement.",
+      "limits": "Does not establish completion of all mechanisms or unconditional future crisis availability.",
+      "preserved_copy": {
+        "path": "/Users/jorsc/.codex/.chatgpt-projects/g-p-6a94dd290a988191911d85ae8fe94a6c/tmp/pdfs/research-2026-09-15/crisis-2023/19-mod-nov30-followup.html",
+        "bytes": 16957,
+        "sha256": "2a2172514764f680d9a39f10803886a1c780e6d86df83d20e979c3eb65af6527"
+      },
+      "publication_date": "2023-11-30 15:09:10",
+      "event_date": null,
+      "acquisition_status": "Reused existing crisis-case capture; no duplicate acquisition.",
+      "prior_register": "sources/us-china-crisis-2023-register.json: C23-19",
+      "new_unique_full_read": false
+    }
+  ],
+  "prior_scholarship_review": {
+    "memos_inspected": [
+      "literature/readings/cabestan-institutions.md",
+      "literature/readings/institutions-and-audiences.md"
+    ],
+    "registers_inspected": [
+      "literature/readings/cabestan-institutions-evidence.json",
+      "literature/readings/institutions-and-audiences-evidence.json"
+    ],
+    "scope": "Existing memos and evidence registers read. Cabestan article not reread in full in this pass. No new scholarly article full-reading count."
+  },
+  "reading_count_note": "Two newly completed published official reports, one of them a single paragraph. The law and other reused texts are rereadings, not new unique works. Three new original HTML captures, including preservation of the previously read law.",
+  "source_dependence": "Legal and institutional assignments come from issuing authorities. Conference descriptions and stated achievements are institutional representations. Crisis publications reveal publicly reported channels and implementation stages, not undisclosed interagency deliberations.",
+  "limits": [
+    "No internal commission working rules or negotiating mandate acquired.",
+    "No causal estimate of effects on bargaining flexibility, speed or concessions.",
+    "No claim that pre-July 2023 events resulted from the Foreign Relations Law.",
+    "No chapter, case or existing register edited."
+  ]
+}

@@ -1,0 +1,231 @@
+{
+  "title": "Loh: complete scholarly reading, diplomatic-control evidence and two bounded primary checks",
+  "research_date": "2026-09-15",
+  "memo": "loh-diplomatic-control.md",
+  "work": {
+    "id": "LIT-INST-LOH-2018",
+    "author": "Dylan M. H. Loh",
+    "title": "Diplomatic Control, Foreign Policy, and Change under Xi Jinping: A Field-Theoretic Account",
+    "journal": "Journal of Current Chinese Affairs",
+    "volume": 47,
+    "issue": 3,
+    "issue_year": 2018,
+    "printed_pages": "111–145",
+    "urn": "urn:nbn:de:gbv:18-4-11836",
+    "pdf_url": "https://journals.sub.uni-hamburg.de/giga/jcca/article/viewFile/1183/1183-1221-1-PB.pdf",
+    "landing_url": "https://journals.sub.uni-hamburg.de/giga/jcca/article/view/1183.html",
+    "preserved_copy": {
+      "path": "/Users/jorsc/.codex/.chatgpt-projects/g-p-6a94dd290a988191911d85ae8fe94a6c/tmp/pdfs/research-2026-09-15/institutional-literature-development/loh-2018.pdf",
+      "bytes": 426406,
+      "sha256": "ac778c0a9342d0ccbb3b227754339417239f4c3e31d2b916aa0e0095b867d934"
+    },
+    "reading_status": "Complete article, footnotes, table, figure and bibliography read",
+    "full_read": true,
+    "physical_pages": 38,
+    "article_physical_pages": "2–36",
+    "cover_physical_page": 1,
+    "issue_contents_physical_pages": "37–38",
+    "pagination_formula": "Article physical page = printed page minus 109.",
+    "read_chunks_physical_pages": [
+      "1–6",
+      "7–12",
+      "13–18",
+      "19–24",
+      "25–30",
+      "31–38"
+    ],
+    "references_printed_pages": "139–145",
+    "visual_checks": [
+      {
+        "printed_page": 111,
+        "physical_page": 2,
+        "object": "Article identity, receipt and acceptance dates",
+        "path": "/Users/jorsc/.codex/.chatgpt-projects/g-p-6a94dd290a988191911d85ae8fe94a6c/tmp/pdfs/research-2026-09-15/institutional-literature-development/loh-visual-02.png"
+      },
+      {
+        "printed_page": 122,
+        "physical_page": 13,
+        "object": "Table 1 complete labels",
+        "path": "/Users/jorsc/.codex/.chatgpt-projects/g-p-6a94dd290a988191911d85ae8fe94a6c/tmp/pdfs/research-2026-09-15/institutional-literature-development/loh-visual-13.png"
+      },
+      {
+        "printed_page": 123,
+        "physical_page": 14,
+        "object": "Figure 1 complete concentric hierarchy and express ideal-type qualification",
+        "path": "/Users/jorsc/.codex/.chatgpt-projects/g-p-6a94dd290a988191911d85ae8fe94a6c/tmp/pdfs/research-2026-09-15/institutional-literature-development/loh-visual-14.png"
+      },
+      {
+        "printed_page": 136,
+        "physical_page": 27,
+        "object": "Exact disputed ASEAN wording and surrounding resistance account",
+        "path": "/Users/jorsc/.codex/.chatgpt-projects/g-p-6a94dd290a988191911d85ae8fe94a6c/tmp/pdfs/research-2026-09-15/institutional-literature-development/loh-visual-27.png"
+      }
+    ],
+    "publication_chronology": {
+      "issue_designation": "2018, confirmed by PDF cover/article and publisher landing page",
+      "manuscript_received": "2018-08-15",
+      "manuscript_accepted": "2019-04-02",
+      "pdf_created": "2019-08-12",
+      "pdf_modified": "2019-08-12",
+      "metadata_note": "File metadata dates are not a verified online release date. Article includes 2019 references/access dates and a November 2018 interview. Do not treat issue year as exact evidence cutoff."
+    },
+    "rights": "Cover states Creative Commons Attribution-No Derivative Works 3.0. Original PDF and renders retained outside Git; original critical memo and metadata only in repository."
+  },
+  "method": {
+    "methods_locator": "Printed pp.112–113; interview entries pp.139–140; Geng entry p.142.",
+    "reported_in_depth_interviews": 18,
+    "reported_roles": {
+      "non_chinese_diplomats": 9,
+      "current_or_former_mfa_officials": 5,
+      "mfa_affiliated_academics": 3,
+      "cfau_student": 1
+    },
+    "interview_locations_dates": {
+      "Beijing": "2016, 2017, 2018",
+      "Shanghai": "2017",
+      "London": "2018"
+    },
+    "observation": "Singapore think-tank employment 2013–2015, including Track II/1.5 meetings; CFAU conferences and MFA visits in Beijing 2016–2017.",
+    "count_boundary": "Eighteen anonymous codes; Anonymous 1 lists two dates. Do not equate coded persons with a independently verified count of interview sessions. Named Geng communication is separately cited.",
+    "replication_limits": [
+      "No full interview transcripts or questionnaire supplied.",
+      "No systematic pre-Xi comparison sample, recruitment/refusal accounting or reported coding protocol.",
+      "Foreign counterparts triangulate contact experience but are not independent witnesses to all Chinese instructions.",
+      "Two informants labeled North American; national identity cannot be narrowed to United States."
+    ]
+  },
+  "claim_audit": [
+    {
+      "claim": "Selection and loyalty",
+      "printed_pages": "125–126",
+      "physical_pages": "16–17",
+      "evidence": "Anonymous 3, an unsuccessful applicant, reports increasing weight of loyalty under Xi; Anonymous 4 corroborates its importance. Anonymous 2 describes disagreement before a settled decision and discipline afterward.",
+      "limits": "Interview-grounded mechanism and perceived change. Corroborating the criterion does not independently measure the historical increase. No promotion or applicant dataset."
+    },
+    {
+      "claim": "Restricted contact",
+      "printed_pages": "126–127",
+      "physical_pages": "17–18",
+      "evidence": "Anonymous 10 describes a more restrictive atmosphere; Anonymous 9 and 6 support accompanied meetings; author observation and Anonymous 8 dinner anecdote add concrete experiences.",
+      "limits": "No personnel regulation or enactment date supplied. Accompanied meetings are not established as a Xi-era invention; do not generalize personal-travel statement into a universal verified legal rule."
+    },
+    {
+      "claim": "Historical friendship comparison",
+      "printed_pages": "127",
+      "physical_pages": "18",
+      "evidence": "Anonymous 16 recalls personal social access in New York in 1998.",
+      "limits": "Retrospective comparison across location, time, personal relationships and career stage; not a matched before/after design."
+    },
+    {
+      "claim": "Personalized loyalty",
+      "printed_pages": "128–129",
+      "physical_pages": "19–20",
+      "evidence": "Author observes increasing Xi attribution in meetings 2012–2017; senior diplomatic praise and MFA-associated books supply public expressions.",
+      "limits": "No direct link from each expression to a personnel reward, genuine belief or individual operational instruction. Author explicitly avoids saying lack of loyalty caused purges."
+    },
+    {
+      "claim": "Remaining initiative",
+      "printed_pages": "126, 128–129",
+      "physical_pages": "17, 19–20",
+      "evidence": "Author allows internal disagreement and says increased control can coexist with more proactive MFA activity; secondary actors retain relatively more room to speak.",
+      "limits": "Do not convert discipline into absence of initiative or unknown concession flexibility."
+    },
+    {
+      "claim": "Track II procedural disruption",
+      "printed_pages": "133–135",
+      "physical_pages": "24–26",
+      "evidence": "Author reports 2013 Taiwan booklet incident and subsequent rule changes; later Chinese interviewees distinguish manner, substance and host-organization constraints.",
+      "limits": "Organization and original/revised rules not identified. No explicit Xi mandate documented. Political representation is not equivalent to trade concession."
+    },
+    {
+      "claim": "ASEAN pressure and resistance",
+      "printed_pages": "135–137",
+      "physical_pages": "26–28",
+      "evidence": "Mixed original interviews and published reporting on 2012 and 2016 meetings, with resistance by ASEAN participants.",
+      "limits": "July 2012 example predates Xi taking the top Party post. Chinese institutional change not isolated from member preferences, power or dispute substance."
+    },
+    {
+      "claim": "South China Sea wording",
+      "printed_pages": "136",
+      "physical_pages": "27",
+      "evidence": "Article says all South China Sea references were removed from ASEAN chairman/ministerial statements in 2016 and 2017.",
+      "limits": "Literal claim contradicted by primary checks LOH-P01 and LOH-P02. A weaker claim about contested or softened wording requires its own specified text comparison."
+    },
+    {
+      "claim": "Malaysia and project response",
+      "printed_pages": "137–138",
+      "physical_pages": "28–29",
+      "evidence": "Named media reports supply most public-event description; Anonymous 18 disputes interference and frames railway dispute as bargaining.",
+      "limits": "Not all eyewitness evidence; election/project chronology does not prove reaction to ambassador conduct. Underlying reports and subsequent rail renegotiation not independently audited here."
+    },
+    {
+      "claim": "Bad news and apex",
+      "printed_pages": "139",
+      "physical_pages": "30",
+      "evidence": "East Asian diplomat Anonymous 14 supplies interpretation of reluctance to deliver bad news.",
+      "limits": "Not traced evidence of withheld report, Xi knowledge or an actual negotiating decision."
+    },
+    {
+      "claim": "Field diagram",
+      "printed_pages": "120–124",
+      "physical_pages": "11–15",
+      "evidence": "Table 1 and Figure 1 place primary/secondary actors in an idealized influence hierarchy.",
+      "limits": "Author expressly acknowledges approximation, grouping and temporal limits. Not a verified legal organization chart or a 2026 personnel roster."
+    }
+  ],
+  "primary_checks": [
+    {
+      "id": "LOH-P01",
+      "title": "Joint Communiqué of the 49th ASEAN Foreign Ministers’ Meeting",
+      "institution": "ASEAN",
+      "event_date": "2016-07-24",
+      "landing_publication_date": "2016-07-25",
+      "url": "https://asean.org/wp-content/uploads/2016/07/Joint-Communique-of-the-49th-AMM-ADOPTED.pdf",
+      "landing_url": "https://asean.org/joint-communique-of-the-49th-asean-foreign-ministers-meeting/",
+      "preserved_copy": {
+        "path": "/Users/jorsc/.codex/.chatgpt-projects/g-p-6a94dd290a988191911d85ae8fe94a6c/tmp/pdfs/research-2026-09-15/institutional-literature-development/asean-2016-49th-amm.pdf",
+        "bytes": 726907,
+        "sha256": "7e5df9a03ef7e520188a8d4752da03b4ab8b608e82c0cc1bdc2704be43cfba7e"
+      },
+      "full_read": false,
+      "read_scope": "Opening event/date metadata and complete South China Sea section, paragraphs 174–181, printed/physical pp.29–30. Page 29 visually inspected. Other body text not read in full.",
+      "establishes": "Dedicated South China Sea section; land-reclamation concern in paragraph 174 and non-militarization in 177; literal blanket-removal claim in Loh p.136 is false.",
+      "limits": "Does not reconstruct drafting pressure, compare every statement, or establish concessions by named actors.",
+      "visual_check": "/Users/jorsc/.codex/.chatgpt-projects/g-p-6a94dd290a988191911d85ae8fe94a6c/tmp/pdfs/research-2026-09-15/institutional-literature-development/asean2016-visual-29.png"
+    },
+    {
+      "id": "LOH-P02",
+      "title": "Chairman’s Statement, 30th ASEAN Summit",
+      "institution": "ASEAN",
+      "event_date": "2017-04-29",
+      "landing_publication_date": "2017-04-30",
+      "url": "https://asean.org/wp-content/uploads/2017/04/Chairs-Statement-of-30th-ASEAN-Summit_FINAL.pdf",
+      "landing_url": "https://asean.org/chairmans-statement-of-the-30th-asean-summit/",
+      "preserved_copy": {
+        "path": "/Users/jorsc/.codex/.chatgpt-projects/g-p-6a94dd290a988191911d85ae8fe94a6c/tmp/pdfs/research-2026-09-15/institutional-literature-development/asean-2017-30th-chairman.pdf",
+        "bytes": 365289,
+        "sha256": "5e45a7a32f91f8ea2d09f7e3db629c4d0c32a22f96771772cd87c6a5605db02a"
+      },
+      "full_read": false,
+      "read_scope": "Opening event/date metadata and complete South China Sea section, paragraphs 120–121, printed/physical p.24; page 24 visually inspected. Other body text not read in full.",
+      "establishes": "Dedicated South China Sea section, repeated references, and expressed concerns; literal blanket-removal claim in Loh p.136 is false.",
+      "limits": "Not a complete longitudinal language or drafting study. Retained references do not disprove watering down of other specific language.",
+      "visual_check": "/Users/jorsc/.codex/.chatgpt-projects/g-p-6a94dd290a988191911d85ae8fe94a6c/tmp/pdfs/research-2026-09-15/institutional-literature-development/asean2017-visual-24.png"
+    }
+  ],
+  "transfer_assessment": {
+    "supported_uses": [
+      "Attributed evidence of more restricted informal access and increased personal loyalty signaling in early Xi diplomatic work.",
+      "Mechanism under which political discipline and proactive policy defense may coexist.",
+      "Caution against treating tone, hospitality or academic access as measures of concession authority."
+    ],
+    "unsupported_uses": [
+      "A causal estimate that Xi reduced all negotiators’ flexibility.",
+      "Treating a North American interviewee as an identified US official.",
+      "Assuming ASEAN or Malaysian relative-power conditions apply to US–China negotiations.",
+      "Inferring a specific presidential mandate or information blockage from public assertiveness.",
+      "Using the failed South China Sea deletion example as evidence of institutional transformation."
+    ]
+  },
+  "completion_note": "One new complete scholarly work. Two selected primary-document checks. No chapter, ledger, proposition assessment or existing source register edited. Reading bibliography does not imply reading cited works."
+}

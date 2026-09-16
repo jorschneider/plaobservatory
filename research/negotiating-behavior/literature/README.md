@@ -37,6 +37,8 @@ Public publisher, author or institutional routes have been identified for the fo
 
 **8 September access corrections:** the Zhang teaching packet contains the complete chapter body but stops during note 5 on p.171; pp.172–175 are missing. Taylor and Garlick’s advertised scholarly PDF could not be retrieved; their separate authored public brief was read. The ledger, rather than this original route list, gives current coverage. The completed Gao reading uses the 2023 chapter version of the 2022 argument, not a second independent study.
 
+**15 September access update:** the complete Taylor–Garlick published article was acquired from a lawful [Zenodo deposit](https://zenodo.org/records/15016796) and read, including references. The complete Loh article was also acquired and read. Their [critical memos](readings/README.md) distinguish original fieldwork from secondary synthesis, correct selected source claims and retain the limits on inferring bargaining discretion.
+
 | Reading order | Work and public route | Job in this project |
 |---|---|---|
 | 1 | **Zhang Qingmin (2008), “Continuities and Changes in China’s Negotiating Behavior,” 153–175.** [Publisher citation](https://doi.org/10.1007/978-0-230-61692-9_8); [university-hosted PDF](https://www.jura.fu-berlin.de/fachbereich/einrichtungen/oeffentliches-recht/lehrende/bolewskiw/dokumente/7__Culture_Language/Kerr_China_New_Diplomacy_One.pdf). | Direct predecessor to our question, engaging earlier negotiating-style scholarship. Check scanned-copy coverage and legibility; establish what scholars already identified before Xi. |

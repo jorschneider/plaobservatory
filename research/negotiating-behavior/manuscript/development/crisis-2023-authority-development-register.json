@@ -1,0 +1,362 @@
+{
+  "title": "2023 military communications: sanctions, vacancy and authority development supplement",
+  "research_date": "2026-09-15",
+  "memo": "crisis-2023-authority-development.md",
+  "scope": "Bounded March-background / May–November 2023 public-process inquiry. No later ministerial appointment, December call or 2024 dialogue is used to fill the November implementation gap.",
+  "new_sources": [
+    {
+      "id": "CAD01",
+      "title": "Remarks by President Biden in a Press Conference, Hiroshima",
+      "publication_date": "2023-05-21",
+      "url": "https://bidenwhitehouse.archives.gov/briefing-room/speeches-remarks/2023/05/21/remarks-by-president-biden-in-a-press-conference/",
+      "source_type": "Official original",
+      "reading_scope": "Complete NHK military-hotline question and answer; complete Bloomberg spending/sanctions question, answer and sanctions follow-up, including intervening budget discussion. Title, date and location checked. Rest of long press conference not systematically read.",
+      "evidentiary_use": "Biden publicly predicted improved communication and described the sanctions issue as under negotiation/discussion in a follow-up answer.",
+      "limitations": "Does not disclose an offer, interlocutor or authorized concession. His first answer must be read with his explicit correction about what question he thought he had been answering.",
+      "capture": {
+        "path": "/Users/jorsc/.codex/.chatgpt-projects/g-p-6a94dd290a988191911d85ae8fe94a6c/tmp/pdfs/research-2026-09-15/crisis-authority-development/01-biden-may21.html",
+        "bytes": 175303,
+        "sha256": "334761b2d7d9749098697cc38a5dc0b09b61a2cf9c9bd9dc3f95df6bae957e3b",
+        "retrieval_or_creation_date": "2026-09-15",
+        "status": "Downloaded source HTML"
+      },
+      "derived_text": {
+        "path": "/Users/jorsc/.codex/.chatgpt-projects/g-p-6a94dd290a988191911d85ae8fe94a6c/tmp/pdfs/research-2026-09-15/crisis-authority-development/01-biden-may21.txt",
+        "bytes": 39015,
+        "sha256": "e08de455c3be109e8cce7ef2a99311d3c5f2ea8375553f3bb59cf52241993620",
+        "retrieval_or_creation_date": "2026-09-15",
+        "status": "Derived text; not an independent source"
+      }
+    },
+    {
+      "id": "CAD02",
+      "title": "Department Press Briefing — May 22, 2023, Matthew Miller",
+      "publication_date": "2023-05-22",
+      "url": "https://agenparl.eu/2023/05/22/department-press-briefing-may-22-2023/",
+      "source_type": "Official briefing reproduced by a third-party publisher",
+      "reading_scope": "Complete three-question Li Shangfu sanctions exchange, from the initial question through the final question about lifting sanctions for negotiation purposes and Miller’s final No. Subscription wrapper, speaker and date checked; not the whole briefing.",
+      "evidentiary_use": "Miller denied that lifting Li’s sanctions was being considered, including for negotiation purposes.",
+      "limitations": "Acquired as a State press-release subscription reproduction at Agenparl. Direct State retrieval returned a large technical-error page despite HTTP success. This exchange does not itself state the legal permissibility of Austin meeting Li; that position is separately reported by VOA. No private instruction inferred.",
+      "capture": {
+        "path": "/Users/jorsc/.codex/.chatgpt-projects/g-p-6a94dd290a988191911d85ae8fe94a6c/tmp/pdfs/research-2026-09-15/crisis-authority-development/02-state-may22-reprint.html",
+        "bytes": 121869,
+        "sha256": "92438ee112cf9fbb325cb73e52b2a163c7bbcb66dfe68b6283cba642c47d2f2e",
+        "retrieval_or_creation_date": "2026-09-15",
+        "status": "Downloaded source HTML"
+      },
+      "derived_text": {
+        "path": "/Users/jorsc/.codex/.chatgpt-projects/g-p-6a94dd290a988191911d85ae8fe94a6c/tmp/pdfs/research-2026-09-15/crisis-authority-development/02-state-may22-reprint.txt",
+        "bytes": 36389,
+        "sha256": "6cac1077fc6b41db626dc3be981e69de3e5c94eff242234dd1cea23e2d21aaa8",
+        "retrieval_or_creation_date": "2026-09-15",
+        "status": "Derived text; not an independent source"
+      },
+      "original_url": "https://2021-2025.state.gov/briefings/department-press-briefing-may-22-2023/"
+    },
+    {
+      "id": "CAD03",
+      "title": "国防部谈中美两军关系：对话不能没有底线",
+      "publication_date": "2023-08-31 15:22:06",
+      "url": "http://www.mod.gov.cn/gfbw/xwfyr/lxjzhzt/2023njzh/2023n8y/16249196.html",
+      "source_type": "Official original",
+      "reading_scope": "Complete question and complete Wu Qian answer, plus title/date.",
+      "evidentiary_use": "Explicit official linkage of difficulties to US Taiwan policy, military activity and refusal to lift sanctions on CMC leaders; simultaneously says military-diplomatic communication continues.",
+      "limitations": "Neither Li nor an if-and-only-if exchange is named in the answer. Public attribution of blame is not independent evidence of cause or a private mandate. HTTP original used after HTTPS browser timeout.",
+      "capture": {
+        "path": "/Users/jorsc/.codex/.chatgpt-projects/g-p-6a94dd290a988191911d85ae8fe94a6c/tmp/pdfs/research-2026-09-15/crisis-authority-development/03-mod-aug31.html",
+        "bytes": 14560,
+        "sha256": "6b2712f2c7e21b9f3361d79aa628c0f5fc4322d585b7da4f1775e03dc5ce1d4f",
+        "retrieval_or_creation_date": "2026-09-15",
+        "status": "Downloaded source HTML"
+      },
+      "derived_text": {
+        "path": "/Users/jorsc/.codex/.chatgpt-projects/g-p-6a94dd290a988191911d85ae8fe94a6c/tmp/pdfs/research-2026-09-15/crisis-authority-development/03-mod-aug31.txt",
+        "bytes": 2225,
+        "sha256": "9594509b1932528954098ce225fa9244483cc5ea527c07e0af77eb179bc27da3",
+        "retrieval_or_creation_date": "2026-09-15",
+        "status": "Derived text; not an independent source"
+      }
+    },
+    {
+      "id": "CAD04",
+      "title": "中华人民共和国主席令（第十四号）",
+      "publication_date": "2023-10-24",
+      "url": "https://app.www.gov.cn/govdata/gov/202310/24/508654/article.html",
+      "source_type": "Official original",
+      "reading_scope": "Complete decree, all four items and Xi signature/date.",
+      "evidentiary_use": "Item 1 formally removes Li Shangfu as state councilor and minister of national defense. No successor is named in this decree.",
+      "limitations": "Government-hosted Xinhua publication of the decree. It supplies neither removal reasons nor a connection to negotiations. Does not establish all other offices or later disciplinary actions.",
+      "capture": {
+        "path": "/Users/jorsc/.codex/.chatgpt-projects/g-p-6a94dd290a988191911d85ae8fe94a6c/tmp/pdfs/research-2026-09-15/crisis-authority-development/04-decree-oct24.html",
+        "bytes": 7266,
+        "sha256": "f8744120412f9715afe1b9eaaf4de3e9ab2e58cb059209bacab030309ab30747",
+        "retrieval_or_creation_date": "2026-09-15",
+        "status": "Downloaded source HTML"
+      },
+      "derived_text": {
+        "path": "/Users/jorsc/.codex/.chatgpt-projects/g-p-6a94dd290a988191911d85ae8fe94a6c/tmp/pdfs/research-2026-09-15/crisis-authority-development/04-decree-oct24.txt",
+        "bytes": 674,
+        "sha256": "42e7ef385265592899ce45c88164467bb926a9394516c5484a82df9af04b9065",
+        "retrieval_or_creation_date": "2026-09-15",
+        "status": "Derived text; not an independent source"
+      }
+    },
+    {
+      "id": "CAD05",
+      "title": "2023年5月30日外交部发言人毛宁主持例行记者会",
+      "publication_date": "2023-05-30 17:25",
+      "url": "https://www.fmprc.gov.cn/wjdt_674879/fyrbt_674889/202305/t20230530_11085939.shtml",
+      "source_type": "Official original",
+      "reading_scope": "Complete Reuters question about the refused meeting and possible sanctions cause, Mao’s answer, then complete Bloomberg sanctions follow-up and answer. Surrounding substantive briefing also inspected, but only these exchanges used.",
+      "evidentiary_use": "Twice pressed to confirm sanctions as the specific reason, Mao repeats demands for changed conduct and appropriate conditions without confirming the reporter’s exact formula.",
+      "limitations": "Reporter’s proposed explanation must not be attributed to Mao as her own unqualified statement. Does not refute sanctions having mattered.",
+      "capture": {
+        "path": "/Users/jorsc/.codex/.chatgpt-projects/g-p-6a94dd290a988191911d85ae8fe94a6c/tmp/pdfs/research-2026-09-15/crisis-authority-development/05-mfa-may30.html",
+        "bytes": 67688,
+        "sha256": "247e0da62249b8e603d44de62738e575f6c40dfec75453474010921f68f11f2d",
+        "retrieval_or_creation_date": "2026-09-15",
+        "status": "Downloaded source HTML"
+      },
+      "derived_text": {
+        "path": "/Users/jorsc/.codex/.chatgpt-projects/g-p-6a94dd290a988191911d85ae8fe94a6c/tmp/pdfs/research-2026-09-15/crisis-authority-development/05-mfa-may30.txt",
+        "bytes": 11602,
+        "sha256": "25d715f0f36c0221e36b9c5a45d5c1eb491b67a880844da02c1f1c426922c02e",
+        "retrieval_or_creation_date": "2026-09-15",
+        "status": "Derived text; not an independent source"
+      }
+    },
+    {
+      "id": "CAD06",
+      "title": "2023年10月国防部例行记者会文字实录",
+      "publication_date": "2023-10-26 19:00:30; briefing 15:00–16:35",
+      "url": "http://www.mod.gov.cn/gfbw/xwfyr/lhzb/lxjzhzb/2023njzh_244363/2023n10y_244366/16262317.html",
+      "source_type": "Official original",
+      "reading_scope": "Complete US-related Xiangshan invitation/Carras exchange; complete three-part question about Russian attendance, US representation rank and Philippines, with all answers; complete US military-report/communication and nuclear-force question with all answers; complete later question about CMC meeting arrangements and US delegation size. Date/header checked. Other briefing segments screened but not systematically used.",
+      "evidentiary_use": "After dismissal, MOD announced a planned working-level exchange with the US representative; Wu rejected the premise that rank was most important, emphasizing substance. Broad political conditions and the assertion that communication had not ceased remained.",
+      "limitations": "Planned exchange is not itself completed implementation. No causal explanation of Li’s removal. Does not establish reinstatement of DPCT, MMCA or theater calls. The acquired transcript does not contain the Li-removal question quoted in an AP report; do not silently insert it.",
+      "capture": {
+        "path": "/Users/jorsc/.codex/.chatgpt-projects/g-p-6a94dd290a988191911d85ae8fe94a6c/tmp/pdfs/research-2026-09-15/crisis-authority-development/06-mod-oct26.html",
+        "bytes": 64609,
+        "sha256": "96c1fc09da638b5f9ad9534f8b2dda02b87066fb2e2c835262e7464779517d6b",
+        "retrieval_or_creation_date": "2026-09-15",
+        "status": "Downloaded source HTML"
+      },
+      "derived_text": {
+        "path": "/Users/jorsc/.codex/.chatgpt-projects/g-p-6a94dd290a988191911d85ae8fe94a6c/tmp/pdfs/research-2026-09-15/crisis-authority-development/06-mod-oct26.txt",
+        "bytes": 25752,
+        "sha256": "91a846db17b7db4503da8c9dbb8aa9accdba0851aec085ca78d373b2c0582217",
+        "retrieval_or_creation_date": "2026-09-15",
+        "status": "Derived text; not an independent source"
+      }
+    },
+    {
+      "id": "CAD07",
+      "title": "Scoop: Biden and Xi prepare to restart military-to-military channels",
+      "publication_date": "2023-11-08",
+      "url": "https://www.axios.com/2023/11/08/biden-xi-jinping-china-military-communication",
+      "source_type": "Hans Nichols and Bethany Allen-Ebrahimian, Axios; browser-rendered capture",
+      "reading_scope": "Complete substantive article and attribution read in browser; direct HTML returned 403.",
+      "evidentiary_use": "Prospective process reporting; anonymous sourcing.",
+      "limitations": "No disclosed instruction. Used only for the brief attributed anticipation in the memo, not as proof of causation.",
+      "capture": {
+        "path": "/Users/jorsc/.codex/.chatgpt-projects/g-p-6a94dd290a988191911d85ae8fe94a6c/tmp/pdfs/research-2026-09-15/crisis-authority-development/07-axios-nov8-browser.json",
+        "bytes": 7850,
+        "sha256": "e3e8a06a0eec17013e605a76a94778dee6515f84b0970dd18aeb3c4237c332e3",
+        "retrieval_or_creation_date": "2026-09-15",
+        "status": "Preserved browser-tool article rendering; direct publisher HTML failed"
+      }
+    },
+    {
+      "id": "CAD08",
+      "title": "State Department Clarifies: Not Lifting Sanctions on China’s Defense Chief",
+      "publication_date": "2023-05-22 18:13",
+      "url": "https://www.voanews.com/a/state-department-clarifies-not-lifting-sanctions-on-china-s-defense-chief-/7104480.html",
+      "source_type": "Contemporaneous original VOA reporting",
+      "reading_scope": "Entire substantive report, title/date and author attribution, including final diplomatic-visits subsection.",
+      "evidentiary_use": "Contemporaneous reporting distinguishes retained sanctions from US officials’ view that official meetings remained possible; contextualizes the Biden–Miller exchange.",
+      "limitations": "Nike Ching report. Miller’s briefing remarks repeat CAD02; Mao’s statement repeats CAD11. General references to US officials are not independently acquired legal advice or a named person’s private mandate. No source multiplication for those repetitions.",
+      "capture": {
+        "path": "/Users/jorsc/.codex/.chatgpt-projects/g-p-6a94dd290a988191911d85ae8fe94a6c/tmp/pdfs/research-2026-09-15/crisis-authority-development/08-voa-may22.html",
+        "bytes": 74932,
+        "sha256": "7a7e36165f6a4bf60f2eacaa8721974267c3ddfbc973c0c0355035e1c6e4acb1",
+        "retrieval_or_creation_date": "2026-09-15",
+        "status": "Downloaded source HTML"
+      },
+      "derived_text": {
+        "path": "/Users/jorsc/.codex/.chatgpt-projects/g-p-6a94dd290a988191911d85ae8fe94a6c/tmp/pdfs/research-2026-09-15/crisis-authority-development/08-voa-may22.txt",
+        "bytes": 5856,
+        "sha256": "7cbd5a79c2f2722347d618c5459b21e464d1aa41d56b2edd0e058c4a63589408",
+        "retrieval_or_creation_date": "2026-09-15",
+        "status": "Derived text; not an independent source"
+      }
+    },
+    {
+      "id": "CAD09",
+      "title": "Deputy Pentagon Press Secretary Ms. Sabrina Singh Holds a Press Briefing",
+      "publication_date": "2023-11-16",
+      "url": "https://www.globalsecurity.org/military/library/news/2023/11/mil-231116-dod05.htm",
+      "source_type": "Official Pentagon briefing in third-party transcript reproduction",
+      "reading_scope": "Complete opening Indo-Pacific/China paragraphs through the transition to government funding; complete first Lita Baldor question and answer about the last use of the so-called red phone. All China/name/counterpart text matches screened to locate relevant material; unrelated Middle East and budget sections not systematically read.",
+      "evidentiary_use": "Broader communication/theater-call commitments coexist with Austin’s planned meeting only when a counterpart is named, and explicit remaining procedural work.",
+      "limitations": "GlobalSecurity reproduces a Pentagon transcript and identifies original DoD article 3591847. Direct original unavailable in browser. The reprint contains evident transcription errors; no audio/video verification or silent textual correction claimed. The decisive appointment phrase is also the subject of contemporaneous SCMP reporting, located but not adopted as a separate acquired source.",
+      "capture": {
+        "path": "/Users/jorsc/.codex/.chatgpt-projects/g-p-6a94dd290a988191911d85ae8fe94a6c/tmp/pdfs/research-2026-09-15/crisis-authority-development/10-singh-nov16-reprint.html",
+        "bytes": 56341,
+        "sha256": "ffd1a1debcbef2d86870f5f7a2b27c9658ab0d154945c5747db168b1392eb9e7",
+        "retrieval_or_creation_date": "2026-09-15",
+        "status": "Downloaded source HTML"
+      },
+      "derived_text": {
+        "path": "/Users/jorsc/.codex/.chatgpt-projects/g-p-6a94dd290a988191911d85ae8fe94a6c/tmp/pdfs/research-2026-09-15/crisis-authority-development/10-singh-nov16-reprint.txt",
+        "bytes": 37237,
+        "sha256": "0d0cea1bf25b1e6a4a8213aab23988f086825e9787ea1657e548d314951796c2",
+        "retrieval_or_creation_date": "2026-09-15",
+        "status": "Derived text; not an independent source"
+      },
+      "original_url": "https://www.defense.gov/News/Transcripts/Transcript/Article/3591847/"
+    },
+    {
+      "id": "CAD10",
+      "title": "China rejects US proposal for defense chiefs to meet in Singapore this week",
+      "publication_date": "2023-05-30",
+      "url": "https://www.egyptindependent.com/china-rejects-us-proposal-for-defense-chiefs-to-meet-in-singapore-this-week/",
+      "source_type": "Contemporaneous CNN original reporting in syndication",
+      "reading_scope": "Entire substantive CNN report, byline and date.",
+      "evidentiary_use": "Named Chinese embassy spokesman Liu Pengyu’s public sanctions-removal request and the Pentagon’s refusal chronology, with explicit distinction between broad sanctions wording and Li-specific interpretation.",
+      "limitations": "Natasha Bertrand and Jennifer Hansler, CNN, republished by Egypt Independent. Same official statements may overlap other reporting; anonymous US counts of refused contacts are not independently verified. No privately agreed price supplied.",
+      "capture": {
+        "path": "/Users/jorsc/.codex/.chatgpt-projects/g-p-6a94dd290a988191911d85ae8fe94a6c/tmp/pdfs/research-2026-09-15/crisis-authority-development/12-cnn-may30.html",
+        "bytes": 97544,
+        "sha256": "b846a37d3fb3ef0a915b02b263967576b4d62060599e0375fe38d64c4cd854b0",
+        "retrieval_or_creation_date": "2026-09-15",
+        "status": "Downloaded source HTML"
+      },
+      "derived_text": {
+        "path": "/Users/jorsc/.codex/.chatgpt-projects/g-p-6a94dd290a988191911d85ae8fe94a6c/tmp/pdfs/research-2026-09-15/crisis-authority-development/12-cnn-may30.txt",
+        "bytes": 4430,
+        "sha256": "aedf2a9efab69bdebd582ad1f49656231ebbca5a666d4a73093ac1315f762dc6",
+        "retrieval_or_creation_date": "2026-09-15",
+        "status": "Derived text; not an independent source"
+      }
+    },
+    {
+      "id": "CAD11",
+      "title": "2023年5月22日外交部发言人毛宁主持例行记者会",
+      "publication_date": "2023-05-22 19:50",
+      "url": "https://www.fmprc.gov.cn/fyrbt_673021/jzhsl_673025/202305/t20230522_11081384.shtml",
+      "source_type": "Official original",
+      "reading_scope": "Complete Bloomberg question naming Biden’s comments, sanctions on the Chinese defense minister and proposed defense meeting, plus all three paragraphs of Mao’s answer. Adjacent questions inspected; not the whole briefing.",
+      "evidentiary_use": "Direct official request to withdraw sanctions and create conditions for dialogue, in response to a Li-related question.",
+      "limitations": "Mao’s answer broadens to sanctions on Chinese officials, institutions and enterprises and wider relationship principles. It does not offer an explicit one-sanction-for-one-meeting guarantee.",
+      "capture": {
+        "path": "/Users/jorsc/.codex/.chatgpt-projects/g-p-6a94dd290a988191911d85ae8fe94a6c/tmp/pdfs/research-2026-09-15/crisis-authority-development/13-mfa-may22.html",
+        "bytes": 77501,
+        "sha256": "33e68215df93d60ed11530dad9044d7f17fe4b59de03d3f9c626ac5a44ac6064",
+        "retrieval_or_creation_date": "2026-09-15",
+        "status": "Downloaded source HTML"
+      },
+      "derived_text": {
+        "path": "/Users/jorsc/.codex/.chatgpt-projects/g-p-6a94dd290a988191911d85ae8fe94a6c/tmp/pdfs/research-2026-09-15/crisis-authority-development/13-mfa-may22.txt",
+        "bytes": 19833,
+        "sha256": "6dfa4eacf29d29030b1b7f50069b78c8856982c23ada611bf2dae8b4d1de86c0",
+        "retrieval_or_creation_date": "2026-09-15",
+        "status": "Derived text; not an independent source"
+      }
+    }
+  ],
+  "source_count": {
+    "substantive_new_records": 11,
+    "direct_official_originals": 6,
+    "official_transcript_reproductions": 2,
+    "contemporary_reporting": 3
+  },
+  "source_independence": "US and Chinese releases are each interested public accounts. Multiple MFA/MOD statements show evolution of a stated position, not multiple independent witnesses of a private decision. The State reproduction and VOA report repeat Miller. CNN and VOA share Pentagon statements. Carnegie note 687 cites contemporaneous Guardian reporting; it is not a further independent participant interview establishing the sanctions mechanism.",
+  "existing_sources_reused": [
+    {
+      "id": "C23-11",
+      "register": "../../sources/us-china-crisis-2023-register.json",
+      "scope_in_this_pass": "Existing registered May 31 complete Q&A and exact source scope reviewed through the case/chapter; no new download.",
+      "use": "Previously established general conditions and statement that not all contact had ceased."
+    },
+    {
+      "id": "C23-12",
+      "register": "../../sources/us-china-crisis-2023-register.json",
+      "scope_in_this_pass": "Complete substantive preserved VOA May 30 report reread.",
+      "use": "Early-May invitation and its late-May refusal, as quoted from Ryder. Does not itself contain the US permission-to-meet explanation."
+    },
+    {
+      "id": "C23-21",
+      "register": "../../sources/us-china-crisis-2023-register.json",
+      "scope_in_this_pass": "Read complete printed pp. 110–113 (physical PDF 118–121), complete notes 673–718 at printed pp. 178–180 (physical PDF 186–188), with some adjacent notes. Also screened/read military-related passages on printed pp. 101, 106–107. This is not a complete report reading; the existing register records earlier methodology and pp. 100–115 reading.",
+      "use": "The sanctions-to-unwillingness claim at p.111 cites note 687 (Amy Hawkins, Guardian, July 18, 2023); p.113/note705 refers to summit pool reports, not a newly disclosed Chinese military instruction. The detailed delisting trade on pp.111–112 concerns counternarcotics and cannot be transferred to military communications.",
+      "path": "/Users/jorsc/.codex/.chatgpt-projects/g-p-6a94dd290a988191911d85ae8fe94a6c/tmp/pdfs/research-2026-09-15/crisis-2023/21-carnegie-2026.pdf",
+      "sha256": "3328d43e4e1eda039f885e8542e026237660385e0d59a8acd15bdfeecbeda73d"
+    },
+    {
+      "ids": [
+        "C23-01",
+        "C23-15",
+        "C23-17",
+        "C23-18",
+        "C23-19"
+      ],
+      "register": "../../sources/us-china-crisis-2023-register.json",
+      "scope_in_this_pass": "Current chapter, case and registered reading scopes inspected; existing team readings reused, not claimed as fresh complete original readings in this task.",
+      "use": "August 2022 cancelled mechanisms; June 2023 failure to obtain military resumption; November summit commitments and dated November 30 implementation boundary."
+    }
+  ],
+  "access_failures_and_discovery": [
+    {
+      "url": "https://2021-2025.state.gov/briefings/department-press-briefing-may-22-2023/",
+      "result": "Browser returned forbidden technical difficulties. Direct curl reported HTTP success and downloaded 188865 bytes, but parsed body is only a technical-error message. Not the transcript. Reproduction acquired as CAD02.",
+      "error_capture": {
+        "path": "/Users/jorsc/.codex/.chatgpt-projects/g-p-6a94dd290a988191911d85ae8fe94a6c/tmp/pdfs/research-2026-09-15/crisis-authority-development/02-state-may22.html",
+        "bytes": 188865,
+        "sha256": "359e3b8b6b844d69fa29bd39c40f970af1586af0500dcda1f98a302721eafe1d",
+        "retrieval_or_creation_date": "2026-09-15",
+        "status": "Failed-original retrieval: technical-error HTML, excluded from evidence"
+      },
+      "derived_error_text": {
+        "path": "/Users/jorsc/.codex/.chatgpt-projects/g-p-6a94dd290a988191911d85ae8fe94a6c/tmp/pdfs/research-2026-09-15/crisis-authority-development/02-state-may22.txt",
+        "bytes": 153,
+        "sha256": "4d77163cf3ed313b2c1fc4f2429f78d2367ab3f48e99afecf6d690aab7a3cd24",
+        "retrieval_or_creation_date": "2026-09-15",
+        "status": "Derived technical-error text"
+      }
+    },
+    {
+      "url": "https://www.axios.com/2023/11/08/biden-xi-jinping-china-military-communication",
+      "result": "Direct HTML returned 403. Complete browser rendering acquired, read and preserved as CAD07."
+    },
+    {
+      "url": "https://www.defense.gov/News/News-Stories/Article/Article/3591134/austin-encouraged-after-biden-secures-chinas-pledge-to-resume-mil-to-mil-talks/",
+      "result": "Direct download returned 403. Search text consulted as a lead only; no additional substantive source record."
+    },
+    {
+      "url": "https://www.investing.com/news/economy/china-removes-li-shangfu-as-defence-minister--state-media-3206876",
+      "result": "Direct download returned 403. Full short Reuters body read in browser; not adopted as a separate acquired source because the decree and November transcript establish the relevant chronology."
+    },
+    {
+      "url": "http://www.mod.gov.cn/gfbw/xwfyr/lhzb/lxjzhzb/2023njzh_244363/2023n10y_244366/index.html",
+      "result": "Complete visible entry links inspected to acquire the actual October transcript. Finding aid, not another substantive source.",
+      "capture": {
+        "path": "/Users/jorsc/.codex/.chatgpt-projects/g-p-6a94dd290a988191911d85ae8fe94a6c/tmp/pdfs/research-2026-09-15/crisis-authority-development/oct26-index.html",
+        "bytes": 31320,
+        "sha256": "c1141d556063e57dbea0a92898143b055c165957aaf70606718883b88e5ef9af",
+        "retrieval_or_creation_date": "2026-09-15",
+        "status": "Downloaded source HTML"
+      }
+    },
+    {
+      "url": "https://www.globalsecurity.org/wmd/library/news/china/2023/03/china-230320-voa01.htm",
+      "result": "Complete indexed text read as a lead. It attributes the permission-to-meet explanation to unnamed State/Pentagon spokespeople. Not separately captured or counted; memo relies on acquired CAD08 and attributes the claim to US officials."
+    }
+  ],
+  "unresolved": [
+    "No Chinese order linking Li’s dismissal to communication policy.",
+    "No complete bilateral offer/counteroffer or instructions that changed the military-channel mandate.",
+    "No demonstrated sanction-removal-for-military-access exchange; no full historical delisting audit conducted.",
+    "No evidence that appointment of a successor was necessary for every other mechanism or that the future channels would be unconditional in a new crisis.",
+    "No identified private reason for Li’s October removal within this bounded contemporary record."
+  ]
+}

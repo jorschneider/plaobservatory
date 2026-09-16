@@ -1,0 +1,79 @@
+{
+  "title": "Taylor–Garlick full reading and selected primary-source audit",
+  "research_date": "2026-09-15",
+  "memo": "taylor-garlick-flexible-authoritarianism.md",
+  "source_count": 4,
+  "new_completed_scholarly_works": 1,
+  "sources": [
+    {
+      "id": "TG-01",
+      "title": "Taylor and Garlick, Flexible versus fragmented authoritarianism",
+      "url": "https://zenodo.org/records/15016796/files/taylor_2025_flexible_vs_fragmented_authoritarianism_vor.pdf?download=1",
+      "source_type": "Published scholarly article; CC BY 4.0",
+      "read_scope": "Complete printed pp.189–208 including references; both repository covers read, 22 PDF pages total. Printed p.189 visually checked.",
+      "limits": "Competing delegation explanation; no new original interview sample or dataset; selected causal claims and source identifications audited.",
+      "preserved_copy": {
+        "path": "/Users/jorsc/.codex/.chatgpt-projects/g-p-6a94dd290a988191911d85ae8fe94a6c/tmp/pdfs/research-2026-09-15/institutional-literature-development/taylor-garlick-2025.pdf",
+        "bytes": 1158836,
+        "sha256": "d141577f9b999c8f20b74ad554c231c3ebce99e2f85b441f9535389fb9ddd82d"
+      },
+      "doi": "10.1080/10357718.2024.2437035",
+      "publication_date": "2024-12-18",
+      "issue_year": 2025,
+      "printed_pages": "189–208",
+      "physical_pdf_pages": 22,
+      "license": "CC BY 4.0",
+      "independence_note": "Separate April 2025 Australian Outlook brief is an authored summary of this argument, not an independent study."
+    },
+    {
+      "id": "TG-02",
+      "title": "Constitution of the Communist Party of China, October 24, 2017",
+      "url": "https://www.xinhuanet.com/english/download/Constitution_of_the_Communist_Party_of_China.pdf",
+      "source_type": "Official Party constitutional text in English",
+      "read_scope": "PDF pp.1,7,8 only; not whole 28-page document.",
+      "limits": "Corrects article bibliography title/issuer; not PRC state constitution.",
+      "preserved_copy": {
+        "path": "/Users/jorsc/.codex/.chatgpt-projects/g-p-6a94dd290a988191911d85ae8fe94a6c/tmp/pdfs/research-2026-09-15/institutional-literature-development/cpc-constitution-2017.pdf",
+        "bytes": 291783,
+        "sha256": "4fc8c7498d668921de2ca4b529d92b22761febe0f38ba5fb74e85b6b39082e1c"
+      }
+    },
+    {
+      "id": "TG-03",
+      "title": "China Coast Guard spokesman Gan Yu on June 17 confrontation",
+      "url": "https://vscs.cri.cn/20240617/7a46fa1c-fb7a-191c-7ec2-e0478d4a28a7.html",
+      "source_type": "Official media reprint attributed to China Coast Guard website",
+      "read_scope": "Complete one-paragraph substantive statement read through web; header and provenance checked.",
+      "limits": "Chinese account acknowledges boarding inspection and forced expulsion; not independent adjudication of legality, responsibility, injuries or private instructions.",
+      "preserved_copy": {
+        "path": "/Users/jorsc/.codex/.chatgpt-projects/g-p-6a94dd290a988191911d85ae8fe94a6c/tmp/pdfs/research-2026-09-15/institutional-literature-development/ccg-june17-2024-cri.html",
+        "bytes": 96032,
+        "sha256": "ead4403890569f7e21cb72a71c785b86b31e88d6e9963312033b836d2a7afef0"
+      }
+    },
+    {
+      "id": "TG-04",
+      "title": "Patrick Ho sentencing announcement, March 25, 2019",
+      "url": "https://www.justice.gov/usao-sdny/pr/patrick-ho-former-head-organization-backed-chinese-energy-conglomerate-sentenced-3",
+      "source_type": "DOJ primary announcement; preserved web-tool rendering, not original HTML bytes",
+      "read_scope": "Complete substantive announcement read via web; focal locator Overview first paragraph. Navigation and related-content links excluded.",
+      "limits": "Identifies secretary-general of China Energy Fund Committee NGO funded by CEFC China Energy; does not establish Chinese decision history.",
+      "preserved_copy": {
+        "path": "/Users/jorsc/.codex/.chatgpt-projects/g-p-6a94dd290a988191911d85ae8fe94a6c/tmp/pdfs/research-2026-09-15/institutional-literature-development/doj-ho-2019-web-capture.json",
+        "bytes": 13613,
+        "sha256": "78d4a18e8b6fab7854e2cf7ee460092dc354faa3fba871a75ad84d380977dbf9"
+      }
+    }
+  ],
+  "excluded_acquisitions": [
+    {
+      "path": "/Users/jorsc/.codex/.chatgpt-projects/g-p-6a94dd290a988191911d85ae8fe94a6c/tmp/pdfs/research-2026-09-15/institutional-literature-development/doj-ho-2019.html",
+      "reason": "JavaScript challenge; not accepted as article capture."
+    }
+  ],
+  "unread_leads": [
+    "Zhang and Chen 2021 Brazil study",
+    "Morris 2019 original chapter",
+    "Garlick 2019 original Czech study and takeover reporting"
+  ]
+}

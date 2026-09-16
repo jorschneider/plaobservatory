@@ -6,7 +6,7 @@
   "sources": [
     {
       "path": "chapters/00-introduction.md",
-      "sha256": "a86f199fecc93fa6c0577f39c8febcb666894aeedab39914b151c1ce35c57ecd"
+      "sha256": "9c5c8daa9f479192aff55c1403423515af3fe1ba51dc2201eca635a9c4cf3eab"
     },
     {
       "path": "chapters/01-solomons-baseline.md",
@@ -22,11 +22,11 @@
     },
     {
       "path": "chapters/04-negotiating-in-crisis.md",
-      "sha256": "1e42a7b7188fda2620cc70d34ad5b1f6c82b082ed49ffb9223c583e006096693"
+      "sha256": "c46c38e8968e87e3df0953a60c966f20f0173dd4df235b684db629da6d9dd3d4"
     },
     {
       "path": "chapters/05-partial-trade-settlement.md",
-      "sha256": "9cc8ccc82279803c3f9641c6f881ecc74252112f981a9ebb6555fb102be53f6f"
+      "sha256": "3018423870830d1958977852397e2badfa4a88b6f1237baa97ac71124f866f84"
     },
     {
       "path": "chapters/06-after-the-signature.md",
@@ -38,7 +38,7 @@
     },
     {
       "path": "chapters/08-what-survives-solomon.md",
-      "sha256": "aee92fadeb93ed29d8eab55e3c49756ed300f5a3cb47c050dfae00817cab1387"
+      "sha256": "51c3b474055583512535eca5ade3bb199b3efd11ef276848d3dd119710ba50d6"
     },
     {
       "path": "appendices/01-proposition-assessment.md",
@@ -46,16 +46,16 @@
     },
     {
       "path": "appendices/02-chronology.md",
-      "sha256": "a9361672aa1f5dc54230be132442e47e1b4df4357ccec812cecbff3ef2e71b3a"
+      "sha256": "43bb93a52d3f5fe324e84a30d8bcd6d34bd646d8a1512494ebd9b31680a183d9"
     },
     {
       "path": "appendices/03-bibliography-and-sources.md",
-      "sha256": "16f348c3d1217272732572b053620ea4ea16421c84fb7759fc5467df9950865d"
+      "sha256": "7cef19e1a8e03ab6898f13d7846cf73d264d70e50d4c60c9f48d2759b0f98c80"
     }
   ],
   "output": {
     "path": "reading-edition.html",
-    "sha256": "06ab60ac280009e4eb317a396863475e94501546441167acad6963c9e3ba8603"
+    "sha256": "a8ae50149230d1834d7c05b0554a0fde153a9fcaa9a439701e5de66210fc98e7"
   },
   "note": "Integrity and rendering record; not a claim that historical assertions are mechanically verified."
 }

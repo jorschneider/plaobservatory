@@ -35,6 +35,13 @@ The central research discipline remains unchanged: identify who sought which dec
 - [DS379 submission search](chapter-03-ds379-submissions-research-2026-09-15.md): exact dated Chinese filings identified from Commerce's citations; originals not recovered, and no new Chinese strategy inferred from the acquisition failure.
 - [Third integration checkpoint](literary-and-process-integration-2026-09-15.md): revisions, source limits and review corrections actually applied in this pass.
 
+- [Historical-explanation audit](historical-explanation-audit-2026-09-15.md) and [1995–2020 enforcement comparison](ip-enforcement-pre-xi-comparison.md): original earlier obligations narrow the claim of novelty to the particular later bilateral complaint/remedy arrangement.
+- [Authority records](authority-routing-research-2026-09-15.md): assigned coordination and implementation responsibilities in the 2018 reforms, 2023 law and subsequent official instructions.
+- [2023 sanctions and vacancy](crisis-2023-authority-development.md): public objections, continued contact, Li’s removal and the distinction between an awaited minister and agreed institutional channels.
+- [Taylor–Garlick](../../literature/readings/taylor-garlick-flexible-authoritarianism.md) and [Loh](../../literature/readings/loh-diplomatic-control.md): two new complete scholarly readings, with selected original-source corrections and differentiated evidence on delegation, discipline and informal access.
+
+- [Historical and institutional integration checkpoint](historical-institutional-integration-2026-09-15.md): changes and review corrections actually applied to the introduction, crisis/trade chapters and conclusion.
+
 ## Work still required
 
 The [continuous-reading priorities](next-development-priorities.md) identify why Chapters 1, 3, 4 and 7 needed further development. Those four chapters now have substantive replacements. Chapter 7 follows India’s disputed threshold for wider cooperation, the recovered Russian border permit rules and renewal, and domestic costs in gas bargaining. The [continuous whole-book reading](continuous-reading-2026-09-15.md) identifies the next problems: a sharper historical argument, less repeated exposition and advice framed around feasible decisions under incomplete information. Several have now received revisions; the new whole has not thereby passed a final literary review. Specific missing annexes, drafts and decision records remain research targets rather than invitations to fill a scene by inference.
