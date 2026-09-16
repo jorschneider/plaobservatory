@@ -1,0 +1,23 @@
+# Chapter 7: bounded independent integration review
+
+September 15, 2026. Read the complete integrated chapter body and all notes, including the new comparison close. Reviewed version SHA-256: `59b4b833969921f896e586da7042e8bdf0a5df922e35f9537d5b0eb106fe4959`. Body length: approximately 5,182 words. No chapter edits were made.
+
+## Actionable findings
+
+**One evidentiary correction in the new close.** Under “What could be separated,” the sentence “Temporary permission preserved a livelihood while leaving the user exposed to expiry and individual refusal” changes an authorized accommodation into a demonstrated individual outcome. The border section correctly says the surviving instruments do not establish how many people obtained permits or what happened to applications. Prefer: **“Temporary permission could protect a livelihood while leaving the user exposed to expiry and individual refusal.”** The conditional makes the practical benefit clear without claiming an implementation result the chapter has not established.
+
+**One sentence needs a simple editorial repair.** The gas passage currently begins: “In a public answer that January, before Putin's visit, a public corporate question-and-answer exchange hosted on CNPC's website explained ...” It repeats the description of the source, and “that January” follows a paragraph centered on September 2013. Prefer: **“A January 2014 corporate question-and-answer exchange hosted on CNPC's website explained why the project remained attractive and why profitability could not be read from the border price alone.”** This preserves the narrower corporate attribution established by the earlier independent gas review and removes the date ambiguity.
+
+**Complete the first Iwashita citation.** Note 23 is the reader's first Iwashita note, but starts “Iwashita, Chapter 6, 165–166”; note 22 supplies chapter links without the monograph's title or publication year. Give the full citation at first appearance: **Akihiro Iwashita, *A 4,000 Kilometer Journey Along the Sino-Russian Border* (2004), Chapter 6, 165–166**, with the existing chapter PDF link. The argument is supported; this is a citation usability issue after integration removed the former full bibliographic introduction.
+
+## Integration and scope checks
+
+The substantive sequence works. India's March 2022 exchange introduces disagreement about the political value of partial progress, then PP15 supplies actual reciprocal duties before the later shift in the threshold for wider cooperation. The Russian border section changes the object from disengagement along a disputed frontier to permission under agreed sovereignty. Gas changes it again, to price, financing, domestic cost recovery and the risk attached to particular routes. The short conclusion draws a shared decision problem without treating these as equivalent agreements or estimating a Chinese national effect. No additional bridge is necessary to make the order intelligible.
+
+The consequential boundaries survive integration: Indian implementation reports remain attributed; the 2024 summit follows the announced bargain; Russia's permit documents and authority are distinct; sixty/fifteen-day duties coexist with individual refusal; the 2004 local-use extension is separate from the three drafts in Putin's boundary order; 1991 partial settlement, 2004 agreement and 2008 implementation remain distinct. China's unobserved approval traffic is not supplied by the Russian order. The gas section preserves the distinction between corporate imported-gas losses and the profitability of a later contract, the attributed anonymous account and a private mandate, and a construction memorandum and a completed sales agreement. The close leaves Solomon's comparative signal ranking unvalidated rather than claiming a refutation.
+
+All **44** body note identifiers have exactly one definition; none is unused or duplicated. All four relative document links in the chapter resolve. This pass did not retest every remote URL. The restored note 18 retains the proper selected-works/memoir provenance rather than the developmental placeholder. New border note definitions are present; notes 21 and 25 from the old chapter have been removed without leaving orphan references.
+
+## Reading limits
+
+This is a complete chapter-level read, not a fresh independent reading of every cited source. It builds on this reviewer's new border acquisition and direct reading, the existing India and gas dossiers, and the separate full gas-fragment review. The latter review and the new gas register were read for integration checks; the underlying gas sources were not all reread here. The findings above require no additional research. They do not certify the manuscript's publication readiness.

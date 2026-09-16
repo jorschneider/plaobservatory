@@ -1,0 +1,286 @@
+{
+  "title": "Chapter 7 India developmental replacement: source supplement and exact rereading scope",
+  "research_date": "2026-09-15",
+  "latest_event_used": "2026-05-27",
+  "replacement": "chapter-07-india-replacement.md",
+  "new_substantive_source_count": 1,
+  "new_sources": [
+    {
+      "id": "INDD01",
+      "title": "Wang Yi Holds Talks with Indian External Affairs Minister Subrahmanyam Jaishankar / 王毅同印度外长苏杰生举行会谈",
+      "event_date": "2022-03-25",
+      "publication_date": "2022-03-25 (displayed page headers; English URL is dated March 26)",
+      "source_type": "Official Chinese public account; Chinese original and official English version",
+      "reading_scope": "Complete substantive body in both languages, title/date and final Doval reference. Images, navigation and linked documents not substantive evidence. Read in browser and checked against preserved source bodies.",
+      "capture_ids": [
+        "INDD01-zh",
+        "INDD01-en"
+      ],
+      "use": "Direct Chinese account of Wang’s desired relationship sequencing and acknowledged incomplete disengagement; paired with already-preserved Indian ministerial briefing.",
+      "limitations": "Not a bilateral transcript or Chinese private instruction. Two languages are one source. Already cited in Chadha note 140, so new acquisition does not constitute an independent process discovery beyond that published source chain."
+    }
+  ],
+  "captures": [
+    {
+      "id": "INDD01-zh",
+      "url": "https://www.fmprc.gov.cn/web/ziliao_674904/zt_674979/ywzt_675099/2020/kjgzbdfyyq_699171/202203/t20220325_10655747.shtml",
+      "resolved_url": "https://www.fmprc.gov.cn/web/ziliao_674904/zt_674979/ywzt_675099/2020/kjgzbdfyyq_699171/202203/t20220325_10655747.shtml",
+      "path": "/Users/jorsc/.codex/.chatgpt-projects/g-p-6a94dd290a988191911d85ae8fe94a6c/tmp/pdfs/research-2026-09-15/india-development/INDD01-zh.html",
+      "bytes": 61875,
+      "sha256": "e411842003e1ada35739348685b3bf4a6ded161f42f9e9583a17cdc5ce51ca82",
+      "retrieval_date": "2026-09-15"
+    },
+    {
+      "id": "INDD01-en",
+      "url": "https://www.fmprc.gov.cn/mfa_eng/gjhdq_665435/2675_665437/2711_663426/2713_663430/202203/t20220326_10656097.html",
+      "resolved_url": "https://www.fmprc.gov.cn/mfa_eng/gjhdq_665435/2675_665437/2711_663426/2713_663430/202203/t20220326_10656097.html",
+      "path": "/Users/jorsc/.codex/.chatgpt-projects/g-p-6a94dd290a988191911d85ae8fe94a6c/tmp/pdfs/research-2026-09-15/india-development/INDD01-en.html",
+      "bytes": 24081,
+      "sha256": "60405b3fe99f0369cd60a96b6de53c1e5a0c6ef3285aaa7d4d21f479259a0ff5",
+      "retrieval_date": "2026-09-15"
+    },
+    {
+      "id": "INDD01-zh-text",
+      "path": "/Users/jorsc/.codex/.chatgpt-projects/g-p-6a94dd290a988191911d85ae8fe94a6c/tmp/pdfs/research-2026-09-15/india-development/INDD01-zh.txt",
+      "bytes": 8166,
+      "sha256": "3f8296ea3a1e092c7ab9c37b6989f75820b722c4aefe3cc861b141f8e57d3e31",
+      "derived_from": "INDD01-zh",
+      "creation_date": "2026-09-15",
+      "source_status": "Derived text, not another source"
+    },
+    {
+      "id": "INDD01-en-text",
+      "path": "/Users/jorsc/.codex/.chatgpt-projects/g-p-6a94dd290a988191911d85ae8fe94a6c/tmp/pdfs/research-2026-09-15/india-development/INDD01-en.txt",
+      "bytes": 5575,
+      "sha256": "d50176df2bcf7c1110182d7b542c33df906f931134ad8e4f896373b1a04c73a0",
+      "derived_from": "INDD01-en",
+      "creation_date": "2026-09-15",
+      "source_status": "Derived text, not another source"
+    }
+  ],
+  "existing_sources_reread": [
+    {
+      "id": "IND-MEA-35076",
+      "title": "Complete special briefing: Wang Yi visit",
+      "url": "https://www.mea.gov.in/media-briefings.htm?dtl/35076/",
+      "local_snapshot": "/Users/jorsc/.codex/.chatgpt-projects/g-p-6a94dd290a988191911d85ae8fe94a6c/tmp/pdfs/research-2026-09-10/india/mea-35076.html",
+      "sha256": "bf916ebdc10dc5359754a8548e35d631c7b174e2936e855b5b720b4f27f6dfc6",
+      "original_retrieval_date": "2026-09-10",
+      "rereading_date": "2026-09-15",
+      "this_pass_scope": "Complete substantive March 25, 2022 briefing, opening and all questions/answers; navigation/tags excluded.",
+      "full_source_status": "full_document_read"
+    },
+    {
+      "id": "IND-MEA-6534",
+      "title": "Political Parameters and Guiding Principles agreement",
+      "url": "https://www.mea.gov.in/bilateral-documents.htm?dtl/6534/",
+      "local_snapshot": "/Users/jorsc/.codex/.chatgpt-projects/g-p-6a94dd290a988191911d85ae8fe94a6c/tmp/pdfs/research-2026-09-10/india/mea-6534.html",
+      "sha256": "94ef69854af936fe021f35838d209d5f50cf05919ca5c5960a9a706a99a068d1",
+      "original_retrieval_date": "2026-09-10",
+      "rereading_date": "2026-09-15",
+      "this_pass_scope": "Complete substantive 2005 agreement, all eleven articles and signature/date.",
+      "full_source_status": "full_document_read"
+    },
+    {
+      "id": "IND-MEA-17963",
+      "title": "Agreement establishing WMCC",
+      "url": "https://www.mea.gov.in/bilateral-documents.htm?dtl/17963/",
+      "local_snapshot": "/Users/jorsc/.codex/.chatgpt-projects/g-p-6a94dd290a988191911d85ae8fe94a6c/tmp/pdfs/research-2026-09-10/india/mea-17963.html",
+      "sha256": "180be65c1821028edefba397d18d63cc69630c5e0f128b144b975db60be9c6e0",
+      "original_retrieval_date": "2026-09-10",
+      "rereading_date": "2026-09-15",
+      "this_pass_scope": "Complete substantive 2012 agreement, all eight articles and signature/date.",
+      "full_source_status": "full_document_read"
+    },
+    {
+      "id": "IND-MEA-35496",
+      "title": "Joint release: sixteenth corps commanders meeting",
+      "url": "https://www.mea.gov.in/press-releases.htm?dtl/35496/",
+      "local_snapshot": "/Users/jorsc/.codex/.chatgpt-projects/g-p-6a94dd290a988191911d85ae8fe94a6c/tmp/pdfs/research-2026-09-10/india/mea-35496.html",
+      "sha256": "3b03f274be96ebf83aef714a77e42c26a24dae8f85e7b3c0e995ec40a9460e84",
+      "original_retrieval_date": "2026-09-10",
+      "rereading_date": "2026-09-15",
+      "this_pass_scope": "Complete substantive July 18, 2022 joint release concerning July 17 meeting.",
+      "full_source_status": "full_document_read"
+    },
+    {
+      "id": "IND-PIB-PP15",
+      "title": "Joint statement: PP15 disengagement begins",
+      "url": "https://www.pib.gov.in/PressReleasePage.aspx?PRID=1857830",
+      "local_snapshot": "/Users/jorsc/.codex/.chatgpt-projects/g-p-6a94dd290a988191911d85ae8fe94a6c/tmp/pdfs/research-2026-09-10/india/pib-2022-pp15.html",
+      "sha256": "d631aa5a5cc02cfe485d773d4603d45282b92cdbec744623b3fb0f7f788c90c2",
+      "original_retrieval_date": "2026-09-10",
+      "rereading_date": "2026-09-15",
+      "this_pass_scope": "Complete substantive September 8, 2022 joint statement; duplicate rendering excluded from witness count.",
+      "full_source_status": "full_document_read"
+    },
+    {
+      "id": "IND-CN-2022-PP15",
+      "title": "Bilingual joint release: Jianan Daban disengagement",
+      "url": "http://www.mod.gov.cn/gfbw/qwfb/4920552.html",
+      "local_snapshot": "/Users/jorsc/.codex/.chatgpt-projects/g-p-6a94dd290a988191911d85ae8fe94a6c/tmp/pdfs/research-2026-09-10/india/cn-2022-pp15.html",
+      "sha256": "28ae35648bc83fb0cdb77c9c14d718fbfb82b3ad6c0b2dc7d33fa1f64890701e",
+      "original_retrieval_date": "2026-09-10",
+      "rereading_date": "2026-09-15",
+      "this_pass_scope": "Complete Chinese and English joint text, September 9 publication concerning September 8 commencement.",
+      "full_source_status": "full_document_read"
+    },
+    {
+      "id": "IND-MEA-35691",
+      "title": "Response to queries on PP15 disengagement",
+      "url": "https://www.mea.gov.in/response-to-queries.htm?dtl/35691/",
+      "local_snapshot": "/Users/jorsc/.codex/.chatgpt-projects/g-p-6a94dd290a988191911d85ae8fe94a6c/tmp/pdfs/research-2026-09-10/india/mea-35691.html",
+      "sha256": "e95a5275dddbe4fe8159ef7420e395ff3b0104343b1c9e54b729fe876c112e1c",
+      "original_retrieval_date": "2026-09-10",
+      "rereading_date": "2026-09-15",
+      "this_pass_scope": "Complete September 9 explanation, all operational terms and remaining-issues reservation.",
+      "full_source_status": "full_document_read"
+    },
+    {
+      "id": "IND-MEA-35808",
+      "title": "25th WMCC meeting",
+      "url": "https://www.mea.gov.in/press-releases.htm?dtl/35808/",
+      "local_snapshot": "/Users/jorsc/.codex/.chatgpt-projects/g-p-6a94dd290a988191911d85ae8fe94a6c/tmp/pdfs/research-2026-09-10/india/mea-35808.html",
+      "sha256": "242c0059cdfdcc32f8a69b789f8df5cbe097640db3fe448a6c099507ea7fca96",
+      "original_retrieval_date": "2026-09-10",
+      "rereading_date": "2026-09-15",
+      "this_pass_scope": "Complete October 14, 2022 WMCC account, all four paragraphs.",
+      "full_source_status": "full_document_read"
+    },
+    {
+      "id": "IND-CN-2022-SUN",
+      "title": "Sun Weidong national-day keynote, delivered 27 September",
+      "url": "https://www.fmprc.gov.cn/eng/xw/zwbd/202405/t20240530_11365164.html",
+      "local_snapshot": "/Users/jorsc/.codex/.chatgpt-projects/g-p-6a94dd290a988191911d85ae8fe94a6c/tmp/pdfs/research-2026-09-10/india/cn-2022-sun.html",
+      "sha256": "7043cccbe3e3ae1a0ce205735bd2d325df4b282c09ab2f27235bf96934362244",
+      "original_retrieval_date": "2026-09-10",
+      "rereading_date": "2026-09-15",
+      "this_pass_scope": "Selected complete India portion, beginning China and India are ancient oriental civilizations, including all four proposals and conclusion. Earlier domestic-development/SCO portion not counted as a complete rereading.",
+      "full_source_status": "specified_scope_read"
+    },
+    {
+      "id": "IND-MEA-35739",
+      "title": "Weekly briefing: response to Sun Weidong border remarks",
+      "url": "https://www.mea.gov.in/media-briefings.htm?dtl/35739/",
+      "local_snapshot": "/Users/jorsc/.codex/.chatgpt-projects/g-p-6a94dd290a988191911d85ae8fe94a6c/tmp/pdfs/research-2026-09-10/india/mea-35739.html",
+      "sha256": "a37ac91c75b1370414b94d4e90825a75cc2190cd6c26b0ffa22887f2dfd3150e",
+      "original_retrieval_date": "2026-09-10",
+      "rereading_date": "2026-09-15",
+      "this_pass_scope": "Selected Kavita Joshi question and complete corresponding Bagchi response, Hindi transliteration and official approximate English. Not entire October 7 briefing.",
+      "full_source_status": "specified_scope_read"
+    },
+    {
+      "id": "IND-MEA-38457",
+      "title": "Modi–Xi meeting, Kazan",
+      "url": "https://www.mea.gov.in/press-releases.htm?dtl/38457/",
+      "local_snapshot": "/Users/jorsc/.codex/.chatgpt-projects/g-p-6a94dd290a988191911d85ae8fe94a6c/tmp/pdfs/research-2026-09-10/india/mea-38457.html",
+      "sha256": "4038e6125ff57aefba8707312916a0451177a88f018b5ca0517a3c47975a6331",
+      "original_retrieval_date": "2026-09-10",
+      "rereading_date": "2026-09-15",
+      "this_pass_scope": "Complete substantive October 23, 2024 Modi-Xi meeting readout.",
+      "full_source_status": "full_document_read"
+    },
+    {
+      "id": "IND-CN-2024-KAZAN",
+      "title": "Xi Jinping meets Narendra Modi in Kazan",
+      "url": "https://www.fmprc.gov.cn/eng/gjhdq_665435/2675_665437/2711_663426/2713_663430/202410/t20241023_11514914.html",
+      "local_snapshot": "/Users/jorsc/.codex/.chatgpt-projects/g-p-6a94dd290a988191911d85ae8fe94a6c/tmp/pdfs/research-2026-09-10/india/cn-2024-kazan.html",
+      "sha256": "c3ed95dc534759786afa438a3f1f6dd634faf04098b6939a65f66d2d8bef7637",
+      "original_retrieval_date": "2026-09-10",
+      "rereading_date": "2026-09-15",
+      "this_pass_scope": "Complete substantive English account of October 23 meeting, published October 24.",
+      "full_source_status": "full_document_read"
+    },
+    {
+      "id": "IND-MEA-38665",
+      "title": "Jaishankar statement in Lok Sabha",
+      "url": "https://www.mea.gov.in/Speeches-Statements.htm?dtl/38665/",
+      "local_snapshot": "/Users/jorsc/.codex/.chatgpt-projects/g-p-6a94dd290a988191911d85ae8fe94a6c/tmp/pdfs/research-2026-09-10/india/mea-38665.html",
+      "sha256": "dd59ec3d838eca7af98c605bd727e42c7ef2debd2b5f99283b780e16bb3a07f5",
+      "original_retrieval_date": "2026-09-10",
+      "rereading_date": "2026-09-15",
+      "this_pass_scope": "Complete December 3, 2024 statement, all 33 numbered paragraphs and salutation.",
+      "full_source_status": "full_document_read"
+    },
+    {
+      "id": "IND-MEA-40016",
+      "title": "24th SR talks and Wang Yi visit outcomes",
+      "url": "https://www.mea.gov.in/press-releases.htm?dtl/40016/",
+      "local_snapshot": "/Users/jorsc/.codex/.chatgpt-projects/g-p-6a94dd290a988191911d85ae8fe94a6c/tmp/pdfs/research-2026-09-10/india/mea-40016.html",
+      "sha256": "8c65d138a2584fe6862563f0ac67aa3f0865471b7230da4e5fcf4a7eefa21518",
+      "original_retrieval_date": "2026-09-10",
+      "rereading_date": "2026-09-15",
+      "this_pass_scope": "Complete August 19, 2025 account, all Special Representatives and foreign-minister outcomes.",
+      "full_source_status": "full_document_read"
+    },
+    {
+      "id": "IND-CN-2025-SR24",
+      "title": "Ten points of consensus, 24th SR talks",
+      "url": "https://www.fmprc.gov.cn/eng/gjhdq_665435/2675_665437/2711_663426/2713_663430/202508/t20250820_11692839.html",
+      "local_snapshot": "/Users/jorsc/.codex/.chatgpt-projects/g-p-6a94dd290a988191911d85ae8fe94a6c/tmp/pdfs/research-2026-09-10/india/cn-2025-sr24.html",
+      "sha256": "d6aa2f3ddb88738490783ef85e6cd2d4eb9d7cdd78a7f35df834747f45108aaa",
+      "original_retrieval_date": "2026-09-10",
+      "rereading_date": "2026-09-15",
+      "this_pass_scope": "Complete August 20, 2025 English publication, all ten consensus points and opening, concerning August 19 meeting.",
+      "full_source_status": "full_document_read"
+    },
+    {
+      "id": "IND-MEA-41241",
+      "title": "35th WMCC meeting",
+      "url": "https://www.mea.gov.in/press-releases.htm?dtl/41241/",
+      "local_snapshot": "/Users/jorsc/.codex/.chatgpt-projects/g-p-6a94dd290a988191911d85ae8fe94a6c/tmp/pdfs/research-2026-09-10/india/mea-41241.html",
+      "sha256": "04e577df3471dafd1b894fe025a0f75c4022fc70db7c5740a45049210a5fb7cd",
+      "original_retrieval_date": "2026-09-10",
+      "rereading_date": "2026-09-15",
+      "this_pass_scope": "Complete May 28, 2026 publication of May 27 WMCC meeting account, all five paragraphs.",
+      "full_source_status": "full_document_read"
+    },
+    {
+      "id": "IND-CN-2026-WMCC35",
+      "title": "35th WMCC meeting",
+      "url": "https://www.mfa.gov.cn/eng/xw/wjbxw/202605/t20260528_11919791.html",
+      "local_snapshot": "/Users/jorsc/.codex/.chatgpt-projects/g-p-6a94dd290a988191911d85ae8fe94a6c/tmp/pdfs/research-2026-09-10/india/cn-2026-wmcc35.html",
+      "sha256": "cff14d7f3ed547295d96d551e1348d095ec1d231ab0cef0847ebfe63a69a354d",
+      "original_retrieval_date": "2026-09-10",
+      "rereading_date": "2026-09-15",
+      "this_pass_scope": "Complete substantive English account of May 27 WMCC meeting, published May 28.",
+      "full_source_status": "full_document_read"
+    },
+    {
+      "id": "IND-CHADHA-2024",
+      "title": "Saheb Singh Chadha, Negotiating the India-China Standoff: 2020–2024",
+      "url": "https://assets.carnegieendowment.org/static/files/Negotiating%20the%20India-China%20Standoff%202020_2024.pdf",
+      "local_snapshot": "/Users/jorsc/.codex/.chatgpt-projects/g-p-6a94dd290a988191911d85ae8fe94a6c/tmp/pdfs/literature-2026-09-08/security/chadha-2024.pdf",
+      "sha256": "9007cc325cfd04f50f62c3917442e4c8b86fa81545a173ef1f2461fa7622eb21",
+      "original_retrieval_date": "2026-09-10",
+      "rereading_date": "2026-09-15",
+      "this_pass_scope": "Selected printed pp. 4-7 on hierarchy/method; pp. 21-25 and opening four substantive paragraphs of p. 26 on March-October 2022; source notes 13, 27, 135-155 and 163-169 read or checked selectively. Not a complete new reading. Existing project record separately documents complete main text and all 279 notes.",
+      "full_source_status": "full_main_text_and_notes_read"
+    },
+    {
+      "id": "IND-MEA-38441",
+      "title": "Foreign Secretary briefing: announcement of patrolling agreement",
+      "url": "https://www.mea.gov.in/media-briefings.htm?dtl/38441/",
+      "local_snapshot": "/Users/jorsc/.codex/.chatgpt-projects/g-p-6a94dd290a988191911d85ae8fe94a6c/tmp/pdfs/research-2026-09-10/india/mea-38441.html",
+      "sha256": "4b3e3cd1d4e776f7dc114e752986205360d65dcea459ca065bb17b578127a92f",
+      "original_retrieval_date": "2026-09-10",
+      "rereading_date": "2026-09-15",
+      "this_pass_scope": "Selected first substantive China answer by Foreign Secretary Vikram Misri announcing patrolling agreement and immediate follow-up; not complete Russia briefing.",
+      "full_source_status": "specified_scope_read"
+    }
+  ],
+  "discovery_only_or_excluded": [
+    {
+      "url": "https://www.fmprc.gov.cn/mfa_eng/gjhdq_665435/2675_665437/2711_663426/2713_663430/202203/t20220326_10656095.html",
+      "title": "Wang Yi: China and India Should Stick to Long-term Perspective, Win-win Mentality and Cooperative Posture",
+      "status": "Complete English substantive browser body read for context; not downloaded, counted or cited in replacement. This separate three-point Doval commentary is not the fuller Doval meeting account cited by Chadha note141."
+    }
+  ],
+  "source_independence": "Readouts are public government representations; same joint statement and its translations are not independent witnesses. Chadha combines the same public texts with anonymized Indian interviews; repeated Stakeholder8 citations are not additional independent corroboration. No Chinese officials interviewed; no new interviews by this project.",
+  "private_record_limits": [
+    "No authenticated PP15 operational protocol, maps, successive drafts or verification logs.",
+    "No Indian China Study Group written mandate or Chinese foreign-affairs/military negotiating instruction.",
+    "No complete bilateral patrol logs, force census or demonstrated internal cause of October2024 agreement."
+  ],
+  "acquisition_notes": "Initial sandbox DNS retrieval failed; ordinary public downloads succeeded through approved network execution. No authentication, paywall circumvention or outreach."
+}

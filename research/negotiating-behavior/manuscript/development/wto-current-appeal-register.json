@@ -1,0 +1,185 @@
+{
+  "title": "Present WTO appellate arrangements: China–US versus China–EU",
+  "research_date": "2026-09-15",
+  "memo": "wto-current-appeal-2026-09-15.md",
+  "source_count": 8,
+  "scope_note": "Bounded primary-source check; eight preserved original publications with exact selected reading scopes. No full DS611 merits or practical implementation audit; no general Chinese 2025 no-void undertaking verified or used. Current institutional webpages are retrieval-date snapshots.",
+  "sources": [
+    {
+      "id": "APP-01",
+      "title": "Appellate Body Members",
+      "author_or_institution": "World Trade Organization",
+      "publication_date": null,
+      "event_dates": {
+        "last_member_term_expiry": "2020-11-30",
+        "status_as_observed": "2026-09-15"
+      },
+      "source_type": "Official current institutional webpage",
+      "url": "https://www.wto.org/english/tratop_e/dispu_e/ab_members_descrp_e.htm",
+      "read_date": "2026-09-15",
+      "read_scope": "Introductory institutional description and current-members statement; not a study of former-member biographies.",
+      "exact_locators": "Opening description and section Members of the Appellate Body and their respective terms of office.",
+      "evidentiary_use": "No current members and current inability to review appeals.",
+      "limits": "Undated current page captured on retrieval date; last-member expiry must not be confused with earlier loss of the three-member appellate quorum.",
+      "preserved_copy": {
+        "path": "/Users/jorsc/.codex/.chatgpt-projects/g-p-6a94dd290a988191911d85ae8fe94a6c/tmp/pdfs/research-2026-09-15/wto-current-appeal/01-ab-members.html",
+        "bytes": 37018,
+        "sha256": "86a70b805ebd70447650d26eb7f8172617f2bb9a50bec3728a8294e47d7b1bd5"
+      }
+    },
+    {
+      "id": "APP-02",
+      "title": "Understanding on Rules and Procedures Governing the Settlement of Disputes",
+      "author_or_institution": "World Trade Organization",
+      "publication_date": "1994-04-15",
+      "event_dates": {
+        "entry_into_force": "1995-01-01"
+      },
+      "source_type": "Primary treaty text",
+      "url": "https://www.wto.org/english/tratop_e/dispu_e/dsu_e.htm",
+      "read_date": "2026-09-15",
+      "read_scope": "Complete Article 16 including footnote 7; Article 17.1–17.3; complete Article 25. Other provisions encountered during navigation are not credited as full reading.",
+      "exact_locators": "Articles 16.4, 17.1, 25.2–25.4.",
+      "evidentiary_use": "An appeal prevents consideration of panel adoption until completion; arbitration requires mutual agreement; parties abide by awards; Articles 21 and 22 apply with necessary adaptations.",
+      "limits": "Not a complete DSU reading or review of jurisprudence. Article 25 provides an available consensual route, not unilateral access against any member.",
+      "preserved_copy": {
+        "path": "/Users/jorsc/.codex/.chatgpt-projects/g-p-6a94dd290a988191911d85ae8fe94a6c/tmp/pdfs/research-2026-09-15/wto-current-appeal/02-dsu.html",
+        "bytes": 117179,
+        "sha256": "a4b590d8d38ca12915d1f149cdf8538f71fa591f47b3eb369ba42b91d0be429a"
+      }
+    },
+    {
+      "id": "APP-03",
+      "title": "Alternative Dispute Resolution Procedures",
+      "author_or_institution": "World Trade Organization",
+      "publication_date": null,
+      "event_dates": {
+        "status_as_observed": "2026-09-15"
+      },
+      "source_type": "Official current institutional webpage",
+      "url": "https://www.wto.org/english/tratop_e/dispu_e/altds_e.htm",
+      "read_date": "2026-09-15",
+      "read_scope": "Complete substantive webpage, including Article 5, Article 25, MPIA participant list and listed awards, and mutually agreed solutions; dynamic underlying case lists not separately audited.",
+      "exact_locators": "Sections Article 25 arbitration and Multi-Party Interim Appeal Arbitration Arrangement (MPIA).",
+      "evidentiary_use": "Current list includes China and the EU; United States absent. Arbitration can complement or replace other procedures by agreement.",
+      "limits": "Snapshot of listed participants, not an exhaustive review of each notification. No precise current membership count is used. No inference that a nonparticipant cannot separately consent to arbitration.",
+      "preserved_copy": {
+        "path": "/Users/jorsc/.codex/.chatgpt-projects/g-p-6a94dd290a988191911d85ae8fe94a6c/tmp/pdfs/research-2026-09-15/wto-current-appeal/03-alternative-disputes.html",
+        "bytes": 19708,
+        "sha256": "21afe4fd07babd726f3edd60abd1c3121916a35ae36fba75be05cfd179413c07"
+      }
+    },
+    {
+      "id": "APP-04",
+      "title": "DS611: China — Enforcement of intellectual property rights",
+      "author_or_institution": "World Trade Organization",
+      "publication_date": null,
+      "event_dates": {
+        "procedures_notified": "2023-07-04",
+        "eu_appeal_filed": "2025-04-22",
+        "eu_appeal_notice_circulated": "2025-04-24",
+        "china_other_appeal": "2025-04-28",
+        "award_issued_and_notified": "2025-07-21",
+        "intention_to_implement": "2025-08-20"
+      },
+      "source_type": "Official case summary and procedural chronology",
+      "url": "https://www.wto.org/english/tratop_e/dispu_e/cases_e/ds611_e.htm",
+      "read_date": "2026-09-15",
+      "read_scope": "Complete substantive case summary and chronology, including its summaries of panel and arbitral findings and disclaimer. No full underlying merits report is claimed read.",
+      "exact_locators": "Panel and Appellate Body proceedings; Arbitration under Article 25 of the DSU; Reasonable period of time.",
+      "evidentiary_use": "Records bilateral consent, each appeal and the issued award.",
+      "limits": "Informational summary, not authoritative interpretation. Its implementation chronology ends in August 2025 and does not establish the absence of later action; APP-07 and APP-08 supply subsequent statements.",
+      "preserved_copy": {
+        "path": "/Users/jorsc/.codex/.chatgpt-projects/g-p-6a94dd290a988191911d85ae8fe94a6c/tmp/pdfs/research-2026-09-15/wto-current-appeal/04-ds611.html",
+        "bytes": 34343,
+        "sha256": "353ac508a3c612eeb5cdaf75cce97bcd5a1bf79726c2a29be8ac5f6cb3a969fe"
+      }
+    },
+    {
+      "id": "APP-05",
+      "title": "China — Enforcement of Intellectual Property Rights: Arbitration under Article 25 of the DSU, Award of the Arbitrators, Addendum (WT/DS611/ARB25/Add.1)",
+      "author_or_institution": "World Trade Organization; agreed procedure of China and European Union",
+      "publication_date": "2025-07-21",
+      "event_dates": {
+        "original_procedure_notified": "2023-07-04"
+      },
+      "source_type": "Original bilateral procedural agreement reproduced in official award addendum",
+      "url": "https://www.wto.org/english/tratop_e/dispu_e/611arb25_a_e.pdf",
+      "read_date": "2026-09-15",
+      "read_scope": "Cover and contents; complete Annex A-1, paragraphs 1–19 and all footnotes, printed/PDF pages 4–6. Remaining addendum not fully read.",
+      "exact_locators": "Annex A-1 / WT/DS611/7, pp. 4–6; especially paragraphs 1–2, 6, 15 and 17.",
+      "evidentiary_use": "Case-specific conditional Article 25 appeal; fallback against ordinary appeal; agreement to abide by final award; notification without DSB adoption; implementation provisions.",
+      "limits": "The agreement does not establish Chinese consent to arbitration with every member, a universal no-void commitment, endorsement of subsequent arbitral reasoning or domestic performance.",
+      "preserved_copy": {
+        "path": "/Users/jorsc/.codex/.chatgpt-projects/g-p-6a94dd290a988191911d85ae8fe94a6c/tmp/pdfs/research-2026-09-15/wto-current-appeal/05-ds611-addendum.pdf",
+        "bytes": 761170,
+        "sha256": "c2d4c10121f89692e935861f83c4138aadec68eae26003b7e80e41b560f4d78e"
+      }
+    },
+    {
+      "id": "APP-06",
+      "title": "DS543: United States — Tariff Measures on Certain Goods from China",
+      "author_or_institution": "World Trade Organization",
+      "publication_date": null,
+      "event_dates": {
+        "panel_report_circulated": "2020-09-15",
+        "us_appeal_notified": "2020-10-26"
+      },
+      "source_type": "Official case summary and procedural chronology",
+      "url": "https://www.wto.org/english/tratop_e/dispu_e/cases_e/ds543_e.htm",
+      "read_date": "2026-09-15",
+      "read_scope": "Complete substantive summary and chronology, including panel findings and final displayed appeal entry; no full panel report or appeal notice claimed read.",
+      "exact_locators": "Panel and Appellate Body proceedings, final paragraph dated 26 October 2020.",
+      "evidentiary_use": "Concrete US appeal in a dispute brought by China.",
+      "limits": "Summary is not authoritative legal interpretation or a prediction of future US decisions. No inference of absence of later negotiation solely from the final dated entry.",
+      "preserved_copy": {
+        "path": "/Users/jorsc/.codex/.chatgpt-projects/g-p-6a94dd290a988191911d85ae8fe94a6c/tmp/pdfs/research-2026-09-15/wto-current-appeal/06-ds543.html",
+        "bytes": 31385,
+        "sha256": "430b6894decbe41be5b406335bceb27393410e411bf218ecc5472b353d80728d"
+      }
+    },
+    {
+      "id": "APP-07",
+      "title": "Following WTO ruling favourable to EU, China announces withdrawal of its anti-suit injunction policy",
+      "author_or_institution": "European Commission, Directorate-General for Trade and Economic Security",
+      "publication_date": "2026-04-01",
+      "event_dates": {
+        "spc_notice_reported_date": "2025-09-23"
+      },
+      "source_type": "Official party statement about implementation",
+      "url": "https://policy.trade.ec.europa.eu/news/following-wto-ruling-favourable-eu-china-announces-withdrawal-its-anti-suit-injunction-policy-2026-04-01_en",
+      "read_date": "2026-09-15",
+      "read_scope": "Complete substantive news release and publication metadata, including distinction from a separate standard-essential-patent dispute.",
+      "exact_locators": "Paragraphs beginning Following the issuance of the award and Given the unwritten nature.",
+      "evidentiary_use": "Commission acknowledges reported withdrawal and accessibility of Chinese notice while continuing to monitor compliance.",
+      "limits": "An interested party’s assessment. Underlying court notice and practical effect not separately audited; continued monitoring is not itself a finding of noncompliance.",
+      "preserved_copy": {
+        "path": "/Users/jorsc/.codex/.chatgpt-projects/g-p-6a94dd290a988191911d85ae8fe94a6c/tmp/pdfs/research-2026-09-15/wto-current-appeal/07-eu-implementation.html",
+        "bytes": 77526,
+        "sha256": "5b58b5fe47acd511cc92c8419e5d1100b7cd85598eb8daa10be7300a0bc766e6"
+      }
+    },
+    {
+      "id": "APP-08",
+      "title": "Minutes of meeting held on 26 September 2025 (WT/DSB/M/505), item 2: China — Enforcement of Intellectual Property Rights (DS611)",
+      "author_or_institution": "WTO Dispute Settlement Body; attributed statements of China, EU and other members",
+      "publication_date": "2025-10-14",
+      "event_dates": {
+        "meeting": "2025-09-26",
+        "spc_notice_reported_date": "2025-09-23"
+      },
+      "source_type": "Official minutes of primary party statements",
+      "url": "https://docs.wto.org/dol2fe/Pages/SS/directdoc.aspx?filename=Q:/WT/DSB/M505.pdf&Open=True",
+      "read_date": "2026-09-15",
+      "read_scope": "Cover metadata and complete item 2, paragraphs 2.1–2.10, printed/PDF pages 6–9, including footnote 3. Other agenda items not counted as a complete reading.",
+      "exact_locators": "China: paragraphs 2.2–2.4, pp. 6–8; EU: paragraph 2.5, pp. 8–9.",
+      "evidentiary_use": "Chinese objection to reasoning alongside implementation claim; EU’s contemporaneous refusal to accept full implementation on available information.",
+      "limits": "Attributed meeting minutes are not a verbatim transcript or compliance judgment. Do not generalize China’s case-specific reported conduct into a universal undertaking. Full substantive award, court notice and later court conduct not independently audited.",
+      "preserved_copy": {
+        "path": "/Users/jorsc/.codex/.chatgpt-projects/g-p-6a94dd290a988191911d85ae8fe94a6c/tmp/pdfs/research-2026-09-15/wto-current-appeal/08-dsb-minutes-505.pdf",
+        "bytes": 1767371,
+        "sha256": "8d26470c56cd217bddb4372ae304e45cf494de2b78af6dc5e15c8c1e9a1704db"
+      }
+    }
+  ]
+}

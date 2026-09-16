@@ -1,0 +1,121 @@
+{
+  "case": "Chapter 7 gas developmental supplement",
+  "research_date": "2026-09-15",
+  "source_count": 6,
+  "scope_note": "New acquisitions only; prior Russian and specialist sources remain in the original gas register. No source is a new interview conducted by this project.",
+  "sources": [
+    {
+      "id": "DEV-GAS01",
+      "title": "4000亿大单是如何炼成的",
+      "creator": "Guo Fang, Li Fengtao, Wang Hongru; China Economic Weekly",
+      "document_date": "2014-06-02",
+      "url": "https://paper.people.com.cn/zgjjzk/html/2014-06/02/content_1436999.htm",
+      "source_type": "Contemporary original reporting",
+      "read_date": "2026-09-15",
+      "read_scope": "Complete unique article body, all four sections and foreign-media sidebar; duplicate popup body not counted twice.",
+      "provenance_and_independence": "Anonymous source described as close to negotiators; named analysts and foreign-report summaries are separate source chains.",
+      "limitations": "Attributed distinction between defended affordability limit and preferred result. Neither exact private instructions nor magnitude of concessions verified. Broad claims of unchanged personnel across twenty years are not adopted.",
+      "preserved_copy": {
+        "path": "/Users/jorsc/.codex/.chatgpt-projects/g-p-6a94dd290a988191911d85ae8fe94a6c/tmp/pdfs/research-2026-09-15/chapter-07-development/cew-2014-final-round.html",
+        "sha256": "8ab77000fbd3155cdd004dc06b423df9e05ddc5b093f14f3f179cf847b1243c4",
+        "bytes": 58541
+      }
+    },
+    {
+      "id": "DEV-GAS02",
+      "title": "中俄天然气20年博弈",
+      "creator": "Guo Fang, Li Fengtao, Wang Hongru; China Economic Weekly",
+      "document_date": "2014-06-02",
+      "url": "https://paper.people.com.cn/zgjjzk/html/2014-06/02/content_1437001.htm",
+      "source_type": "Contemporary original reporting and compiled chronology",
+      "read_date": "2026-09-15",
+      "read_scope": "Complete unique main article and both chronologies; duplicate popup excluded.",
+      "provenance_and_independence": "Same issue/authors and apparently same anonymous source as DEV-GAS01; not independent corroboration.",
+      "limitations": "Context reading only. Reported early prices and sweeping causal/personnel claims are not imported into the chapter.",
+      "preserved_copy": {
+        "path": "/Users/jorsc/.codex/.chatgpt-projects/g-p-6a94dd290a988191911d85ae8fe94a6c/tmp/pdfs/research-2026-09-15/chapter-07-development/cew-2014-twenty-years.html",
+        "sha256": "85ac56035a1907ad9fff078d557ab16e2c79d128644cac880e216111d235c854",
+        "bytes": 59379
+      }
+    },
+    {
+      "id": "DEV-GAS03",
+      "title": "中俄天然气合约，十年谈成",
+      "creator": "Huang Ying interviewing Xu Qinhua; Global People",
+      "document_date": "2014-06-06",
+      "url": "https://paper.people.com.cn/hqrw/html/2014-06/06/content_1444503.htm",
+      "source_type": "Published expert interview",
+      "read_date": "2026-09-15",
+      "read_scope": "Complete introduction and five question-and-answer exchanges; duplicate popup excluded.",
+      "provenance_and_independence": "Xu is an identified academic analyst, not presented as a negotiation participant.",
+      "limitations": "Alternative strategic-patience interpretation considered, not proof of a private Chinese strategy. Numerical and predicted benefits not adopted.",
+      "preserved_copy": {
+        "path": "/Users/jorsc/.codex/.chatgpt-projects/g-p-6a94dd290a988191911d85ae8fe94a6c/tmp/pdfs/research-2026-09-15/chapter-07-development/globalpeople-xu-2014.html",
+        "sha256": "73ef1eda5f223d35d4903ba0cd022a919d4dee301cce631d574b3daaff02e387",
+        "bytes": 33379
+      }
+    },
+    {
+      "id": "DEV-GAS04",
+      "title": "2013 Annual Report",
+      "creator": "PetroChina Company Limited",
+      "document_date": "2014-03",
+      "url": "https://www.annualreports.com/HostedData/AnnualReportArchive/p/NYSE_PTR_2013.pdf",
+      "source_type": "Corporate annual report; public third-party PDF copy",
+      "read_date": "2026-09-15",
+      "read_scope": "Selected complete printed pages 14 and 29 (PDF18/33), including surrounding segments; page29 visually inspected. Corresponding SEC Form20-F printed57 and natural-gas pricing section44–45 read on web. Not full report.",
+      "provenance_and_independence": "Issuer text in public mirror; financial amounts checked against issuer SEC filing https://www.sec.gov/Archives/edgar/data/1108329/000119312514160165/d715321d20f.htm.",
+      "limitations": "Separates imported-gas losses from positive broader segment operating profit and identifies CNPC control. Does not establish the later Russian contract profitability or bargaining mandate.",
+      "preserved_copy": {
+        "path": "/Users/jorsc/.codex/.chatgpt-projects/g-p-6a94dd290a988191911d85ae8fe94a6c/tmp/pdfs/research-2026-09-15/chapter-07-development/petrochina-2013-annual.pdf",
+        "sha256": "39a0000402eb50e4e8d4d87132e32f9c2ce2f85161ea53534a9b6dae4d1a89c0",
+        "bytes": 3052098
+      }
+    },
+    {
+      "id": "DEV-GAS05",
+      "title": "国家发展改革委有关负责人就调整非居民用天然气价格答记者问",
+      "creator": "National Development and Reform Commission",
+      "document_date": "2013-06-28",
+      "url": "https://www.ndrc.gov.cn/xwdt/xwfb/201306/t20130628_956156.html",
+      "source_type": "Original official public policy explanation",
+      "read_date": "2026-09-15",
+      "read_scope": "Complete introduction and all six question-and-answer exchanges.",
+      "provenance_and_independence": "Direct regulator publication, independent of newspaper interview source.",
+      "limitations": "Historical domestic price and import-incentive setting; no private CNPC reservation price or measured reform effect on the Russian negotiation inferred.",
+      "preserved_copy": {
+        "path": "/Users/jorsc/.codex/.chatgpt-projects/g-p-6a94dd290a988191911d85ae8fe94a6c/tmp/pdfs/research-2026-09-15/chapter-07-development/ndrc-2013-price-qa.html",
+        "sha256": "b314caf0cba5e7d127df859ce480ad0f12e60d350b8b1e7c92c41365fe3ddb8b",
+        "bytes": 15189
+      }
+    },
+    {
+      "id": "DEV-GAS06",
+      "title": "January–February 2014 company questions and answers, archive page72",
+      "creator": "Public corporate question-and-answer page hosted on CNPC domain; individual respondent and precise corporate entity not identified on preserved page",
+      "document_date": "2014-01-22/2014-02-08",
+      "url": "https://www.cnpc.com.cn/cnpcstockinfo/dmxx/dmxx_list_mores.jsp?language=cn&pageNo=72",
+      "source_type": "Original corporate public Q&A archive",
+      "read_date": "2026-09-15",
+      "read_scope": "Complete four Q&A exchanges. Relevant Russia answer January29 to January28 question; price/tax-policy efforts January22 to January21 question.",
+      "provenance_and_independence": "Hosting domain is CNPC; linked stock-information service concerns company affairs. No individual speaker or private mandate identified.",
+      "limitations": "Pre-agreement public commercial factors. Keep CNPC and controlled listed PetroChina distinct; archive pagination may change, so dated exchanges and preserved copy control.",
+      "preserved_copy": {
+        "path": "/Users/jorsc/.codex/.chatgpt-projects/g-p-6a94dd290a988191911d85ae8fe94a6c/tmp/pdfs/research-2026-09-15/chapter-07-development/cnpc-january2014-qa.html",
+        "sha256": "20b335c1913fb243b9b46e3931597e3e2f261c67167e1520388059b3aeb8e942",
+        "bytes": 11399
+      }
+    }
+  ],
+  "access_failures": [
+    {
+      "url": "https://www.ft.com/content/f7a34e3e-bce9-4db9-ac49-a092f382c526",
+      "result": "Publisher subscription barrier, headline only; no attempt to circumvent."
+    },
+    {
+      "url": "https://safgroup.ca/wp-content/uploads/2024/09/Supplemental-Documents-Package-September-22-2024.pdf",
+      "result": "Search-index lead for public reprint; web and ordinary curl both returned404. No content acquired."
+    }
+  ],
+  "renewed_reading": "Existing Kremlin May21 2014 complete transcript; Reuters May23 three-paragraph article; Panin November10 substantive article (display truncation corrected); Yermakov–Meidan selected printed2–5 including notes. Existing2026 Novak September3/4 complete dispatches, flow report substantive body; these are renewed readings, not new sources."
+}

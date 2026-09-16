@@ -1,0 +1,141 @@
+{
+  "title": "Chapter 7 border developmental supplement: new acquisitions only",
+  "research_date": "2026-09-15",
+  "replacement": "chapter-07-border-replacement.md",
+  "memo": "chapter-07-border-research-2026-09-15.md",
+  "scope": "New captures for recovery of 1999 local-use annexes, permit procedure and implementation/renewal evidence. Existing source rereads documented in memo; original inventory unmodified.",
+  "sources": [
+    {
+      "id": "BDR-01",
+      "title": "中华人民共和国政府和俄罗斯联邦政府关于对界河中个别岛屿及其附近水域进行共同经济利用的协定",
+      "url": "https://treaty.mfa.gov.cn/tykfiles/20180718/1531876803973.pdf",
+      "type": "Official Chinese treaty publication hosted in MFA treaty database",
+      "retrieved": "2026-09-15",
+      "local_snapshot": "/Users/jorsc/.codex/.chatgpt-projects/g-p-6a94dd290a988191911d85ae8fe94a6c/tmp/pdfs/research-2026-09-15/chapter-07-border-development/jointuse1999-cn-official.pdf",
+      "bytes": 2777514,
+      "sha256": "830037ab55971cf8e2539f90a67ca02aae9fd724f7652140899befcf00389a76",
+      "read_scope": "All nine physical pages visually read: complete preamble, Articles I–XII, dated signing block and all six articles of Annex 2. No OCR or searchable text; physical-page PNGs saved alongside PDF.",
+      "supports": "Agreed sovereignty and reciprocal use, specified activities, prior-user caps, five years from beginning of use, designated issuing authorities, sixty-day requests/fifteen-day issuance, individual refusal, overnight and equipment-removal rules. Physical 7–8 is the decisive permit passage.",
+      "limitations": "Annex 1 maps, caps and seasonal periods absent. No completed permit or implementation statistics. Printed names/signing indication rather than autograph reproduction. Catalogue effectiveness field blank; original FAO source supplies January 19, 2000.",
+      "event_date": "1999-12-09",
+      "metadata": {
+        "url": "https://treaty.mfa.gov.cn/Treaty/web/detail1.jsp?objid=1531876803961",
+        "local_snapshot": "/Users/jorsc/.codex/.chatgpt-projects/g-p-6a94dd290a988191911d85ae8fe94a6c/tmp/pdfs/research-2026-09-15/chapter-07-border-development/jointuse1999-metadata.html",
+        "bytes": 5912,
+        "sha256": "bc5847f5e6a058899f76eb913c6505c948a23023e47318ea56eb7078a9954c04"
+      }
+    },
+    {
+      "id": "BDR-02",
+      "title": "Соглашение ... о совместном хозяйственном использовании отдельных островов ... (Пекин, 9 декабря 1999 года), Annex 2 and forms",
+      "url": "http://lawrussia.ru/texts/legal_207/doc207a284x242.htm",
+      "type": "Private Russian legal reproduction of bilateral primary text",
+      "retrieved": "2026-09-15",
+      "local_snapshot": "/Users/jorsc/.codex/.chatgpt-projects/g-p-6a94dd290a988191911d85ae8fe94a6c/tmp/pdfs/research-2026-09-15/chapter-07-border-development/lawrussia.html",
+      "bytes": 57783,
+      "sha256": "5046e1d104fe2f6f0558c7e698d65f124a97aca2c28dbe7ae0ffb0ed34d48675",
+      "read_scope": "Complete Annex 2, Articles 1–6, and the three blank crossing-pass, activity-permit and application forms read. Opening body and selected body provisions compared with FAO and Chinese official versions; no claim of a separate complete reread of this reproduction’s body.",
+      "supports": "Permit procedure and blank form design, corroborated on key provisions by official Chinese text and selected Russian facsimile pages.",
+      "limitations": "Third-party reproduction; header describes text as updated through November 2007 without an independently verified amendment history. Annex 1 absent. Blank forms are not issued permits.",
+      "event_date": "1999-12-09",
+      "retrieval_note": "Direct HTTP URL redirected to HTTPS port 443 and yielded the complete relevant HTML; web tool open initially failed. Discovered in Dmochowski note 20."
+    },
+    {
+      "id": "BDR-03",
+      "title": "一九九九年十二月九日签署的《中华人民共和国政府和俄罗斯联邦政府关于对界河中个别岛屿及其附近水域进行共同经济利用的协定》的议定书",
+      "url": "https://treaty.mfa.gov.cn/tykfiles/20180718/1531876873855.pdf",
+      "type": "Official Chinese treaty publication hosted in MFA treaty database",
+      "retrieved": "2026-09-15",
+      "local_snapshot": "/Users/jorsc/.codex/.chatgpt-projects/g-p-6a94dd290a988191911d85ae8fe94a6c/tmp/pdfs/research-2026-09-15/chapter-07-border-development/use-extension2004-cn.pdf",
+      "bytes": 143465,
+      "sha256": "4a2fb8016bbbecf8dcb7992ca5adbfa84ac0303e7c484670661c82652d340fc4",
+      "read_scope": "Complete two physical pages visually read: preamble, Articles I–III, signature date and named representatives. Metadata page read completely.",
+      "supports": "Preamble identifies March 1, 2005 expiry of existing use; Article I extends use five years from that date; Article III provides effect on signature. Li Zhaoxing and Lavrov named.",
+      "limitations": "Does not measure residents using the arrangement or identify issued permits. No continuation beyond this extension is asserted.",
+      "event_date": "2004-10-14",
+      "entry_into_force": "2004-10-14",
+      "renewal_begins": "2005-03-01",
+      "metadata": {
+        "url": "https://treaty.mfa.gov.cn/Treaty/web/detail1.jsp?objid=1531876873843",
+        "local_snapshot": "/Users/jorsc/.codex/.chatgpt-projects/g-p-6a94dd290a988191911d85ae8fe94a6c/tmp/pdfs/research-2026-09-15/chapter-07-border-development/use-extension2004-metadata.html",
+        "bytes": 5979,
+        "sha256": "369b048cd677cff0238bfa1976ae8a1c963b3e2329c501f9ba82b3672077e37c"
+      }
+    },
+    {
+      "id": "BDR-04",
+      "title": "Постановление Правительства РФ от 21.12.1999 N 1415: treaty draft and Annex 2",
+      "url": "https://rulaws.ru/goverment/Postanovlenie-Pravitelstva-RF-ot-21.12.1999-N-1415/",
+      "type": "Private legal reproduction of Russian government resolution and attached draft",
+      "retrieved": "2026-09-15",
+      "local_snapshot": "/Users/jorsc/.codex/.chatgpt-projects/g-p-6a94dd290a988191911d85ae8fe94a6c/tmp/pdfs/research-2026-09-15/chapter-07-border-development/russian-draft1415.html",
+      "bytes": 89495,
+      "sha256": "33c7028a4c9131279a535cc6a1f343c47baa5905aa55479124d9b95652555717",
+      "read_scope": "Resolution body, draft heading/status, selected draft Articles I–VI, Annex 1 omission notice, and Annex 2 permit and overnight/removal provisions read. Not a claimed complete reading of all draft prose.",
+      "supports": "Document explicitly authorizes negotiation/signature of attached draft; Annex 1 not reproduced. Provides a secondary textual cross-check on administrative design.",
+      "limitations": "Draft, not substituted for signed agreement. December 21 date follows December 9 signature; this pass does not explain the chronology or treat this as the recovered prior signature mandate.",
+      "event_date": "1999-12-21"
+    },
+    {
+      "id": "BDR-05",
+      "title": "Tadeusz Dmochowski, Siódme rosyjsko-chińskie spotkanie na szczycie (drugie „nieformalne spotkanie” na szczycie), 9–10 grudnia 1999 roku",
+      "url": "https://czasopisma.bg.ug.edu.pl/index.php/cywilizacja/article/download/2879/8415/13324",
+      "type": "Scholarly article and acquisition lead",
+      "retrieved": "2026-09-15",
+      "local_snapshot": "/Users/jorsc/.codex/.chatgpt-projects/g-p-6a94dd290a988191911d85ae8fe94a6c/tmp/pdfs/research-2026-09-15/chapter-07-border-development/dmochowski2018.pdf",
+      "bytes": 625083,
+      "sha256": "58dc5404e2442146ba97b7d168edc65c79c6fb5dd6dc5668e12279f1e74646ec",
+      "read_scope": "Bibliographic opening/abstract and relevant treaty discussion printed 64–68, including notes 19–26, read from extracted text. Article printed 56–70; not fully read.",
+      "supports": "Note 20 supplies exact LawRussia URL and identifies fuller online Annex 2/forms despite incomplete official Russian bulletin. Printed 67–68 leads to 2004 renewal research.",
+      "limitations": "Treaty summary and interpretation, not independent permit-impact evidence. Author’s citation of Russian approval/draft for renewal was replaced by recovered signed protocol for operative claims.",
+      "publication": "Cywilizacja i Polityka 16 (2018), 56–70",
+      "doi": "10.15804/cip201804"
+    },
+    {
+      "id": "BDR-06",
+      "title": "李传勋, 近年来中俄毗邻地区政治经济关系走势",
+      "url": "https://src-h.slav.hokudai.ac.jp/publictn/91/li.pdf",
+      "type": "Near-contemporary scholarly regional study, Hokkaido Slavic Research Center-hosted Chinese paper",
+      "retrieved": "2026-09-15",
+      "local_snapshot": "/Users/jorsc/.codex/.chatgpt-projects/g-p-6a94dd290a988191911d85ae8fe94a6c/tmp/pdfs/research-2026-09-15/chapter-07-border-development/li2003.pdf",
+      "bytes": 318670,
+      "sha256": "0640c8fe29659e0967ff6d962e17148f0fa92dd1ab0ed7dee8a712c8bc8207fd",
+      "read_scope": "Printed 16–17 and opening paragraphs of 18 through the local-use/border-stability discussion read; remaining economic sections unread. PDF venue/date not independently resolved beyond university series path 91 and contemporary internal references.",
+      "supports": "Printed 17 asserts that residents had pursued haymaking, fishing and cultivation under the agreement for three years. Records the existence of such a near-contemporary implementation claim.",
+      "limitations": "Specific assertion has no permit register or supporting citation. Misdates agreement to September 9, 1999; treaty proves December 9. Not used to establish a named beneficiary, number of permits, or complete compliance."
+    },
+    {
+      "id": "BDR-07",
+      "title": "Official Russian facsimile of December 9, 1999 joint economic use agreement and Annex 2",
+      "url": "https://treaty.mfa.gov.cn/tykfiles/20180718/1531876804002.pdf",
+      "type": "Signed-instrument facsimile hosted by Chinese MFA treaty database",
+      "retrieved": "2026-09-15",
+      "local_snapshot": "/Users/jorsc/.codex/.chatgpt-projects/g-p-6a94dd290a988191911d85ae8fe94a6c/tmp/pdfs/research-2026-09-15/chapter-07-border-development/jointuse1999-ru-official.pdf",
+      "bytes": 1559766,
+      "sha256": "68c9fc360cf6c662790007ae657c8a7b50c1918f3e7371a479cedfaec8b835c4",
+      "read_scope": "All fourteen pages inventoried visually for document structure and presence of maps. Physical 8, 10 and 11 read closely at enlarged resolution: signing/effectiveness block and Annex 2 Article 2 offices, document fields, deadlines, refusal and beginning of replacement provision. Remaining pages only structurally inspected, not claimed fully read.",
+      "supports": "Physical 8 shows Beijing/December 9, 1999 date and signature block; Annex 2 begins physical 9. Physical 10–11 corroborate Chinese official permit provisions.",
+      "limitations": "No Annex 1 maps/caps or blank forms included. No proof of individual permit issuance. Full Russian text not newly read in this facsimile.",
+      "event_date": "1999-12-09"
+    }
+  ],
+  "unrecovered_targets": [
+    "Annex 1 maps, user caps and seasonal schedules",
+    "Issued permits, applicant lists, inspection reports and twice-yearly consultation minutes",
+    "Contemporary original regional newspaper items underlying Iwashita’s proposal-origin narrative"
+  ],
+  "retrieval_failures": [
+    {
+      "url": "https://base.garant.ru/2562822/",
+      "result": "Web retrieval returned 403; no source reading claimed."
+    },
+    {
+      "url": "https://fsou.com/html/text/eag/1006682/100668213.html",
+      "result": "Web timeout and direct TLS certificate-expiry failure; no source text used. Official Chinese PDF subsequently obtained."
+    },
+    {
+      "url": "https://www.chinaruslaw.com/RU/CnRuTreaty/da2ga3dk/201018223346_201854.htm",
+      "result": "Web timeout; search snippets not used as substantive evidence."
+    }
+  ]
+}

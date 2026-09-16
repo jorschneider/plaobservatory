@@ -25,9 +25,14 @@ The central research discipline remains unchanged: identify who sought which dec
 - [Bohman–Wong–Ferguson](old-logic-2025-reading.md) and [selected Farrell–Newman](network-power-selected-reading.md): formal rules, discretionary relief and the institutional conditions of economic pressure. The complete and selected reading scopes remain separate.
 - [Conclusion rewrite](conclusion-development-2026-09-15.md) and [independent review](conclusion-development-review-2026-09-15.md): compensation, authority, useful benefits, complainants and enforcement costs.
 
+- [Chapter 7 India](chapter-07-india-edit-memo.md), [Russian boundary](chapter-07-border-research-2026-09-15.md) and [gas](chapter-07-gas-development-2026-09-15.md): rewritten episodes, with official permit annex/renewal and Chinese domestic pricing evidence.
+- [Acquiring legal capacity](legal-capacity-bridge-2026-09-15.md): recruitment, joint casework, third-party learning and interagency participation; selected return to previously read scholarship and Jiang’s published speech.
+- [Current WTO appeal routes](wto-current-appeal-2026-09-15.md): counterpart-specific procedural availability and reported implementation.
+- [Chapter 6/conclusion second review](chapter-06-08-revision-review-2026-09-15.md): reordered hearing and export-control arcs, shorter coda, defended limits and decisions under uncertainty.
+
 ## Work still required
 
-The [continuous-reading priorities](next-development-priorities.md) identify why Chapters 1, 3, 4 and 7 needed further development. This pass takes up the first three; Chapter 7 still needs sustained episodes around the Indian relationship condition, Russian local land use and the gas pricing/financing negotiation. Those case files already contain material for stronger narrative. Specific missing annexes, drafts and decision records remain research targets rather than invitations to fill a scene by inference.
+The [continuous-reading priorities](next-development-priorities.md) identify why Chapters 1, 3, 4 and 7 needed further development. Those four chapters now have substantive replacements. Chapter 7 follows India’s disputed threshold for wider cooperation, the recovered Russian border permit rules and renewal, and domestic costs in gas bargaining. The [continuous whole-book reading](continuous-reading-2026-09-15.md) identifies the next problems: a sharper historical argument, less repeated exposition and advice framed around feasible decisions under incomplete information. Several have now received revisions; the new whole has not thereby passed a final literary review. Specific missing annexes, drafts and decision records remain research targets rather than invitations to fill a scene by inference.
 
 The whole manuscript needs another continuous literary review after these changes, with particular attention to recurring explanations of authority, signature and implementation. Each recurrence should add a consequential choice, rather than simply repeat the distinction. Practical advice must identify when an action may help, what it can cost and what observation would tell the negotiator whether it is working.
 
