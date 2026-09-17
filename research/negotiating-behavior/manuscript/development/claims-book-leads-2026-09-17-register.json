@@ -1,0 +1,231 @@
+{
+  "title": "Claims/assets cited book pages and new lawful access leads",
+  "created_at": "2026-09-17",
+  "repository_baseline": "e7a8fe1",
+  "memo": "claims-book-leads-2026-09-17.md",
+  "source_count": 4,
+  "count_note": "Four target-work/access records, not four substantive acquisitions or completed readings.",
+  "source_counts": {
+    "target_works": 4,
+    "target_full_texts_acquired": 0,
+    "target_pages_read": 0,
+    "missing_instruments_recovered": 0
+  },
+  "raw_capture_directory": "/Users/jorsc/.codex/.chatgpt-projects/g-p-6a94dd290a988191911d85ae8fe94a6c/tmp/pdfs/research-2026-09-17/claims-followup",
+  "prior_registers": [
+    "../../sources/claims-scholarship-register.json",
+    "claims-missing-instruments-followup-register.json"
+  ],
+  "sources": [
+    {
+      "id": "CLA-FU01",
+      "title": "Window on the Forbidden City: The Beijing Diaries of David Bruce, 1973–1974",
+      "creator": "David K. E. Bruce; edited by Priscilla M. Roberts",
+      "publication": "Hong Kong: Centre of Asian Studies, University of Hong Kong, 2001",
+      "target_locator": "Printed 391, complete surrounding entry and its source note; not acquired",
+      "identifiers": {
+        "isbn10": "9628269348",
+        "isbn13": "9789628269341",
+        "oclc": "49237255",
+        "lccn": "2005550465",
+        "library_of_congress_classification": "E183.8.C5 B73 2001"
+      },
+      "urls": {
+        "institutional_record": "https://hub.hku.hk/handle/10722/123454",
+        "author_upload_record": "https://www.researchgate.net/publication/301762495_Window_on_the_Forbidden_City_The_Beijing_Diaries_of_David_Bruce_1973-1974",
+        "author_public_pdf": "https://www.researchgate.net/profile/Priscilla-Roberts-2/publication/301762495_Window_on_the_Forbidden_City_The_Beijing_Diaries_of_David_Bruce_1973-1974/links/5a164c380f7e9bc6481c8b5e/Window-on-the-Forbidden-City-The-Beijing-Diaries-of-David-Bruce-1973-1974.pdf",
+        "open_library_edition": "https://openlibrary.org/books/OL3470094M.json",
+        "publisher_catalogue_sheet": "https://www.hkihss.hku.hk/filemanager/content/pdf/cas/145_window_on_the_forbidden_city.pdf"
+      },
+      "reading_scope": {
+        "depth": "Metadata/access only",
+        "read": "ResearchGate book/access-description block, complete HKU institutional metadata and complete Open Library edition JSON. Publisher catalogue-sheet text inspected via web tool.",
+        "not_read": "All book body, notes, target page and adjoining entries; no images or pages of the uploaded PDF verified."
+      },
+      "findings": [
+        {
+          "locator": "ResearchGate lines86–98 of preserved web extract",
+          "finding": "One public full text labeled uploaded by Priscilla Roberts on November 23,2017; preview unavailable. Download failed403, so uploaded object not verified."
+        },
+        {
+          "locator": "HKU lines25–27,39–68 of preserved web extract",
+          "finding": "No files attached; publication 2001. This resolves the conflicting January 2002 date on ResearchGate."
+        },
+        {
+          "locator": "Open Library fields pagination, oclc_numbers, lc_classifications",
+          "finding": "653 numbered pages and edition identifiers; catalogue metadata is not proof of digitized access."
+        }
+      ],
+      "local_captures": [
+        {
+          "path": "/Users/jorsc/.codex/.chatgpt-projects/g-p-6a94dd290a988191911d85ae8fe94a6c/tmp/pdfs/research-2026-09-17/claims-followup/bruce-author-page-web-extract.txt",
+          "kind": "Web-tool extracted landing-page text, not HTML or book PDF",
+          "bytes": 15467,
+          "sha256": "71fd3ead40eb09b30fec5d1440ed893d1eec43bf589227504c17ef0f9c20f163"
+        },
+        {
+          "path": "/Users/jorsc/.codex/.chatgpt-projects/g-p-6a94dd290a988191911d85ae8fe94a6c/tmp/pdfs/research-2026-09-17/claims-followup/bruce-hku-record-web-extract.txt",
+          "kind": "Web-tool extracted institutional metadata",
+          "bytes": 3630,
+          "sha256": "ce4280ddbfeb615a9bf038a17d26952df1856842940bd99871b33ed8f56e64de"
+        },
+        {
+          "path": "/Users/jorsc/.codex/.chatgpt-projects/g-p-6a94dd290a988191911d85ae8fe94a6c/tmp/pdfs/research-2026-09-17/claims-followup/bruce-openlibrary.json",
+          "kind": "Complete catalogue edition JSON",
+          "bytes": 1997,
+          "sha256": "56aface2a3b7ae51dc290e8e97d2817c7ac5380bdca883e8960a5491f183c2bc"
+        }
+      ],
+      "limits": [
+        "The precise content and provenance of printed 391 remain unknown. Do not call it a diary entry or facsimile without seeing the page.",
+        "The author description says the edition contains diary text and Liaison Office documents; that description does not assign provenance to any particular page.",
+        "Google Books API 429; direct HKU record403; catalogue-sheet certificate expired and validation was not disabled. Normal browser connection failed before the page opened."
+      ]
+    },
+    {
+      "id": "CLA-FU02",
+      "title": "将军、外交家、艺术家：黄镇传（上、下）",
+      "creator": "范中汇主笔、刘海风副主笔; contributor statement corroborated by Open Library library-derived edition record, not the empty publisher author field",
+      "publication": "北京：中央文献出版社，2007年4月，第一版",
+      "target_locator": "Printed 631 and surrounding entry/source apparatus; not acquired",
+      "identifiers": {
+        "isbn13": "9787507322552",
+        "isbn10": "7507322556",
+        "oclc": "176620350",
+        "lccn": "2009373603",
+        "library_of_congress_classification": "DS778.H8433 J53 2007"
+      },
+      "urls": {
+        "publisher_record": "https://www.zywxpress.com/c/2021-02-25/1349611.shtml",
+        "open_library_edition": "https://openlibrary.org/books/OL23188821M.json",
+        "bookseller_contents_discovery_only": "https://www.bookschina.com/2227707.htm"
+      },
+      "reading_scope": {
+        "depth": "Metadata/access only",
+        "read": "Publisher product description/metadata and complete Open Library edition JSON. Bookseller contents listing selectively inspected for Washington/economic-relations headings.",
+        "not_read": "All biography body, printed 631 and adjoining pages, preface and references."
+      },
+      "findings": [
+        {
+          "locator": "Publisher product fields 出版日期/书号/书名",
+          "finding": "April 2007, two-volume title and exact ISBN."
+        },
+        {
+          "locator": "Open Library by_statement, pagination, source_records",
+          "finding": "Names Fan Zhonghui and Liu Haifeng; two volumes with 886 numbered pages; library-derived MARC metadata. No digitized full-text identifier in this acquired record."
+        }
+      ],
+      "local_captures": [
+        {
+          "path": "/Users/jorsc/.codex/.chatgpt-projects/g-p-6a94dd290a988191911d85ae8fe94a6c/tmp/pdfs/research-2026-09-17/claims-followup/huang-publisher.html",
+          "kind": "Complete publisher product-page HTML",
+          "bytes": 9667,
+          "sha256": "4e5ec32eac836d4632b03bd7baf3d0e0334348c29d70f808648d5253bb2e1a02"
+        },
+        {
+          "path": "/Users/jorsc/.codex/.chatgpt-projects/g-p-6a94dd290a988191911d85ae8fe94a6c/tmp/pdfs/research-2026-09-17/claims-followup/huang-openlibrary.json",
+          "kind": "Complete catalogue edition JSON",
+          "bytes": 1449,
+          "sha256": "dc0bff55eded86fd9ca261e1202e6c5323ccef45a9f3e82f2c148daa7823ae86"
+        }
+      ],
+      "limits": [
+        "No target-page preview recovered. This edition is distinct from Zhu Hong’s2000 biography.",
+        "No new verification of the June 14, 1974 reply or its contents.",
+        "Google Books API 429; no repeated request."
+      ]
+    },
+    {
+      "id": "CLA-FU03",
+      "title": "“Casting a Shadow” Over Trade: The Problem of Private Claims and Blocked Assets in U.S.-China Relations, 1972–1975",
+      "creator": "William Burr",
+      "publication": "Diplomatic History 33(2), April 2009, 315–349",
+      "doi": "10.1111/j.1467-7709.2008.00764.x",
+      "prior_metadata_record": "CLA-S03",
+      "url": "https://iris.sena.edu.co/EDS/Search?dfApplied=1&filter%5B%5D=EXPAND%3A%22fulltext%22&filter%5B%5D=~ContentProvider%3A%22Humanities+Source%22&lookfor=%22Lin%2C+Ping%22&type=Author",
+      "reading_scope": {
+        "depth": "Unsuccessful new access lead only",
+        "read": "Search-index listing naming the work and a PDF-full-text label; not used for substantive inference.",
+        "not_read": "Catalogue result body, article body and notes."
+      },
+      "access_outcome": "New SENA discovery route returned HTTP 500; web reader cache miss. Existing OUP/JSTOR failures were not repeated. No access entitlement inferred from search listing.",
+      "local_captures": [],
+      "limits": [
+        "Remains unread. Roberts’s previously read H-Diplo review is a separate source."
+      ]
+    },
+    {
+      "id": "CLA-FU04",
+      "title": "Economic Normalization: Sino-American Trade Relations from 1969 to 1980",
+      "creator": "Min Song",
+      "publication": "PhD dissertation, University of Georgia, 2009",
+      "target_locator": "Relevant claims discussion with its complete section/chapter and surrounding context; exact reading boundaries not established because content was not acquired",
+      "urls": {
+        "repository_record": "https://openscholar.uga.edu/record/15486",
+        "repository_file": "https://openscholar.uga.edu/nanna/record/15486/files/song_min_200908_phd.pdf?registerDownload=1&version=1&withMetadata=0&withWatermark=0",
+        "legacy_file": "https://getd.libs.uga.edu/pdfs/song_min_200908_phd.pdf",
+        "persistent_link": "https://purl.galileo.usg.edu/uga_etd/song_min_200908_phd"
+      },
+      "reading_scope": {
+        "depth": "Discovery/access only",
+        "read": "Search-index title/abstract and selected discovery excerpts. Existing project search found no confirmed Song reading.",
+        "not_read": "Dissertation body, chapter, footnotes, tables or figures. No selected or complete scholarly reading claimed."
+      },
+      "access_outcome": "Repository file HTTP 202 with zero bytes; legacy file redirected to repository search, also 202/zero bytes; persistent link redirected to generic GALILEO homepage 200. Browser connection failed before opening page; archive availability API 429.",
+      "local_captures": [],
+      "limits": [
+        "Search excerpts suggesting claims pages and NARA references are not a reading of those pages or verification of cited originals.",
+        "The GALILEO homepage response is an access artifact, not dissertation metadata or content."
+      ]
+    }
+  ],
+  "access_captures": [
+    {
+      "path": "/Users/jorsc/.codex/.chatgpt-projects/g-p-6a94dd290a988191911d85ae8fe94a6c/tmp/pdfs/research-2026-09-17/claims-followup/access-initial.json",
+      "kind": "Access log, failure extract or redirect response; not substantive source text",
+      "bytes": 1111,
+      "sha256": "050e2cc8968404c1e3e9805361e5a3cda684d0cc184c50ae99f422de59d62d41"
+    },
+    {
+      "path": "/Users/jorsc/.codex/.chatgpt-projects/g-p-6a94dd290a988191911d85ae8fe94a6c/tmp/pdfs/research-2026-09-17/claims-followup/access-catalogs.json",
+      "kind": "Access log, failure extract or redirect response; not substantive source text",
+      "bytes": 2042,
+      "sha256": "bcc20df5550037339f49bd78e53fb86cb9d443c7de69bf5a87dc668d964d0a9b"
+    },
+    {
+      "path": "/Users/jorsc/.codex/.chatgpt-projects/g-p-6a94dd290a988191911d85ae8fe94a6c/tmp/pdfs/research-2026-09-17/claims-followup/access-song-original.json",
+      "kind": "Access log, failure extract or redirect response; not substantive source text",
+      "bytes": 275,
+      "sha256": "2f7bf2deb9b8c330d628b00134f810ee006d19812098530f9a388447d37857bc"
+    },
+    {
+      "path": "/Users/jorsc/.codex/.chatgpt-projects/g-p-6a94dd290a988191911d85ae8fe94a6c/tmp/pdfs/research-2026-09-17/claims-followup/access-archive.json",
+      "kind": "Access log, failure extract or redirect response; not substantive source text",
+      "bytes": 668,
+      "sha256": "016cce5d8d450c00c0631bf0c1556737df9c998fdd4f0a254b822409f9e4615c"
+    },
+    {
+      "path": "/Users/jorsc/.codex/.chatgpt-projects/g-p-6a94dd290a988191911d85ae8fe94a6c/tmp/pdfs/research-2026-09-17/claims-followup/access-song-persistent.json",
+      "kind": "Access log, failure extract or redirect response; not substantive source text",
+      "bytes": 243,
+      "sha256": "0cd82b39f51ef4a4d7a1b34457102912ea5536b3a81ce4d3cf1d9b6ec39c49a8"
+    },
+    {
+      "path": "/Users/jorsc/.codex/.chatgpt-projects/g-p-6a94dd290a988191911d85ae8fe94a6c/tmp/pdfs/research-2026-09-17/claims-followup/burr-library-discovery-web-extract.txt",
+      "kind": "Access log, failure extract or redirect response; not substantive source text",
+      "bytes": 508,
+      "sha256": "f0169c9a2f9b988095a8bbb70770765fbef036af8fdad3abebda78eee1e51189"
+    },
+    {
+      "path": "/Users/jorsc/.codex/.chatgpt-projects/g-p-6a94dd290a988191911d85ae8fe94a6c/tmp/pdfs/research-2026-09-17/claims-followup/song-persistent-response.html",
+      "kind": "Access log, failure extract or redirect response; not substantive source text",
+      "bytes": 28186,
+      "sha256": "9312ff8e32c9457e338823937285bd32ffec508e715744cb21e9ac52575f4bd4"
+    }
+  ],
+  "general_limits": [
+    "No purchases, correspondence, login, CAPTCHA handling or bypass of access controls.",
+    "Raw captures outside Git; this register and memo only. No source/reading count or chapter changed.",
+    "No recovery of December 22, 1973 US aide-mémoire, June 14, 1974 PRC reply or Solomon’s unprinted December 31 attachments."
+  ]
+}

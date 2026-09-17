@@ -1,0 +1,421 @@
+{
+  "audit_title": "June–July 2025 rare-earth licensing: transaction scope, administrative process and company choices",
+  "version_date": "2026-09-17",
+  "status": "Bounded developmental research for parent review; no chapter edits",
+  "temporal_scope": "Rules effective before and during April–July 2025. August 6 company call used explicitly for retrospective June–July performance and then-current response options. No October 2025 or 2026 law silently substituted.",
+  "memo": "licensing-2025-operational-evidence.md",
+  "capture_root": "/Users/jorsc/.codex/.chatgpt-projects/g-p-6a94dd290a988191911d85ae8fe94a6c/tmp/pdfs/research-2026-09-17/licensing/",
+  "source_count": 9,
+  "source_counts": {
+    "primary_statute_or_regulation": 2,
+    "primary_procedural_documents": 2,
+    "primary_company_documents": 4,
+    "original_reporting": 1
+  },
+  "counting_rule": "Nine originating documents. Reposts and indexed renderings grouped with their original. Two JL Mag records and two Bajaj records are repeated issuers, not four independent witnesses. Reused EC25 records do not add to this count.",
+  "sources": [
+    {
+      "id": "LIC25-01",
+      "title": "两用物项出口许可申请填报指南",
+      "author_or_issuing_body": "MOFCOM Industrial Security and Import and Export Control Bureau",
+      "publication_date": "2025-03-28 (page date; current wording differs from April reproductions)",
+      "source_type": "primary procedural guidance, version-checked using dated reproductions",
+      "url": "https://aqygzj.mofcom.gov.cn/zsyd/art/2025/art_b4861fe2d8ff4f0c8e215325e9b64a1e.html",
+      "retrieval_date": "2026-09-17",
+      "reading_scope": "Full current substantive HTML text read in browser: 31 application fields, self-check instructions/table, all 66 FAQs. PDF attachment located (35 pages) but download failed; no PDF reading claimed. April 2 Sichuan repost read through application fields, self-check and FAQs 1–39; FAQ 44 and related material read in indexed rendering. Xinping April 15 indexed excerpts read, including complete FAQ 33; direct page timed out.",
+      "decisive_locator": "Current guide application fields 20/22/31; self-check 规范性5/7 and 一致性; FAQs 1,6,19–25,29,31,33–39. April 2 reproduction browser lines 195–200,250–318 verify timing/contract/end-use/duration. FAQ 44 differs across current ministry and April copies.",
+      "supports": "Contract-specific application; consistent end-user/use documentation; clock from acceptance and from complete materials after return; usual six-month single-license validity predates London; phased shipment certificates do not expand total quantity.",
+      "limits": "Guidance rather than individual decision. Original page's March date cannot date every sentence: FAQ 44 now says classification-advice letters have no validity period, whereas April reproductions say six months. This is distinct from FAQ 33 on license duration. Core details used are matched against April 2. Photographs are permissive in the guide, not a universal mandatory requirement. General-license availability in law does not prove June issuance.",
+      "independence_and_source_chain": "All versions reproduce the same originating guidance and are one source chain. Dated copies corroborate historical wording, not independent policy decisions. Sichuan page identifies itself as the provincial trade-promotion council's enterprise-service platform; its exact administrative affiliation is not used to infer MOFCOM authority.",
+      "captures": [
+        {
+          "path": "/Users/jorsc/.codex/.chatgpt-projects/g-p-6a94dd290a988191911d85ae8fe94a6c/tmp/pdfs/research-2026-09-17/licensing/01-guide-web-start.json",
+          "sha256": "b8d8818896973b33026d977719ff0fcf9c3eb6425603716334f1e75949bee989",
+          "bytes": 30252,
+          "format": "browser-tool returned rendering in JSON string"
+        },
+        {
+          "path": "/Users/jorsc/.codex/.chatgpt-projects/g-p-6a94dd290a988191911d85ae8fe94a6c/tmp/pdfs/research-2026-09-17/licensing/01-guide-web-end.json",
+          "sha256": "a6de87157318943581858858b2354c4d120869c266ec556bae3136014c1cf672",
+          "bytes": 29458,
+          "format": "browser-tool returned rendering in JSON string"
+        },
+        {
+          "path": "/Users/jorsc/.codex/.chatgpt-projects/g-p-6a94dd290a988191911d85ae8fe94a6c/tmp/pdfs/research-2026-09-17/licensing/01-guide-web-start.txt",
+          "sha256": "b314d00a6f70a9a58e2d7c576debe77a7000d4f1208f0d5cc1f838ce1883e2c8",
+          "bytes": 29889,
+          "format": "readable text extraction or rendering"
+        },
+        {
+          "path": "/Users/jorsc/.codex/.chatgpt-projects/g-p-6a94dd290a988191911d85ae8fe94a6c/tmp/pdfs/research-2026-09-17/licensing/01-guide-web-end.txt",
+          "sha256": "25911a0547f390452838b91739585b5a412b366e39be15fb69e18f46fc441ede",
+          "bytes": 29124,
+          "format": "readable text extraction or rendering"
+        },
+        {
+          "path": "/Users/jorsc/.codex/.chatgpt-projects/g-p-6a94dd290a988191911d85ae8fe94a6c/tmp/pdfs/research-2026-09-17/licensing/11-sichuan-april2-guide.html",
+          "sha256": "23849fd5d067159cf45ec159405150990619b974f7bc03917fbe3d2ddb1de16b",
+          "bytes": 87035,
+          "format": "downloaded HTML"
+        },
+        {
+          "path": "/Users/jorsc/.codex/.chatgpt-projects/g-p-6a94dd290a988191911d85ae8fe94a6c/tmp/pdfs/research-2026-09-17/licensing/11-sichuan-april2-guide.txt",
+          "sha256": "cdb6b236c9a06ae04f6deef6e592f6c3a444387a023cf04446efce8a019b7c00",
+          "bytes": 41344,
+          "format": "readable text extraction or rendering"
+        },
+        {
+          "path": "/Users/jorsc/.codex/.chatgpt-projects/g-p-6a94dd290a988191911d85ae8fe94a6c/tmp/pdfs/research-2026-09-17/licensing/11-guide-repost-middle-web.json",
+          "sha256": "8cf1e86066505c8fc00b99b476481a20d019e753d91d7fbc56b07a6ac73a2bfb",
+          "bytes": 30535,
+          "format": "browser-tool returned rendering in JSON string"
+        },
+        {
+          "path": "/Users/jorsc/.codex/.chatgpt-projects/g-p-6a94dd290a988191911d85ae8fe94a6c/tmp/pdfs/research-2026-09-17/licensing/11-guide-repost-middle-web.txt",
+          "sha256": "cca2b4d4a5629917fcf13b01ccd0be799aa31e27a0a36a85c94ce6902b14f9ba",
+          "bytes": 30175,
+          "format": "readable text extraction or rendering"
+        },
+        {
+          "path": "/Users/jorsc/.codex/.chatgpt-projects/g-p-6a94dd290a988191911d85ae8fe94a6c/tmp/pdfs/research-2026-09-17/licensing/10-law-and-guide-date-web.json",
+          "sha256": "e5209787dcc0ebfd38acb2cac02b89bf1d0dd0879a11c1fa60a901a490b2cab6",
+          "bytes": 31759,
+          "format": "browser-tool returned rendering in JSON string"
+        },
+        {
+          "path": "/Users/jorsc/.codex/.chatgpt-projects/g-p-6a94dd290a988191911d85ae8fe94a6c/tmp/pdfs/research-2026-09-17/licensing/10-law-and-guide-date-web.txt",
+          "sha256": "e6ca4c6e41a78a30c5efb09454d17ade92bb2962d636b9bbd8c18aa44ef804ee",
+          "bytes": 31548,
+          "format": "readable text extraction or rendering"
+        }
+      ],
+      "other_versions": [
+        {
+          "url": "https://www.tradesichuan.com/jmzx/1408.html",
+          "publication_date": "2025-04-02",
+          "status": "Original HTML downloaded. Selected substantive reading described above; same guide, not independent source."
+        },
+        {
+          "url": "https://www.xinping.gov.cn/xpxzfxxgk/xxgk4959/20250415/1596517.html",
+          "publication_date": "2025-04-15",
+          "status": "Direct open/download timed out; partial indexed body captured in10-law-and-guide-date-web, including date andFAQ 33. Ancillary wording corroboration only."
+        }
+      ]
+    },
+    {
+      "id": "LIC25-02",
+      "title": "国务院令〔2024〕792号《中华人民共和国两用物项出口管制条例》",
+      "author_or_issuing_body": "State Council; MOFCOM licensing bureau republication",
+      "publication_date": "2024-09-30; repost 2024-10-23; effective 2024-12-01",
+      "source_type": "primary regulation",
+      "url": "https://xkzj.mofcom.gov.cn/tzgg/art/2024/art_49503f2524484d8d9488dfd37395a731.html",
+      "retrieval_date": "2026-09-17",
+      "reading_scope": "Read promulgation and Articles 1–41 in browser, including complete licensing and end-user sections. Capture includes further articles; no complete-regulation reading claimed.",
+      "decisive_locator": "Articles 15 (single ≤1 year / general ≤3 years),16 (documentation/general eligibility),17 (45 working days / exclusions / referral),18 (key changes and suspension),21–24 (customs/end-use transfer),26 (watch-list exception),39–41 (liability).",
+      "supports": "Formal transaction scope, end-user conditions, ordinary decision clock and exclusions, reapplication after key changes, statutory architecture existing before April 2025.",
+      "limits": "Does not establish actual license class or duration for any company, confidential guidance, the reasons for a delay, or later amendments. Maximum permitted validity differs from normal term described by the guide.",
+      "independence_and_source_chain": "Official republication of the same State Council instrument, not a new ministry rule or corroborating witness.",
+      "captures": [
+        {
+          "path": "/Users/jorsc/.codex/.chatgpt-projects/g-p-6a94dd290a988191911d85ae8fe94a6c/tmp/pdfs/research-2026-09-17/licensing/02-regulation-web.json",
+          "sha256": "8b1ba42d4964f0f7aff24af920be26daecc7e7fb4ac8938065eb4cdfbcbf4199",
+          "bytes": 30661,
+          "format": "browser-tool returned rendering in JSON string"
+        },
+        {
+          "path": "/Users/jorsc/.codex/.chatgpt-projects/g-p-6a94dd290a988191911d85ae8fe94a6c/tmp/pdfs/research-2026-09-17/licensing/02-regulation-web.txt",
+          "sha256": "63b220a350b1995db2b201c39d37f651c197f8ebd0de0b8c938030dca3c0eef7",
+          "bytes": 30330,
+          "format": "readable text extraction or rendering"
+        }
+      ]
+    },
+    {
+      "id": "LIC25-03",
+      "title": "两用物项常见问题解答之四（稀土）",
+      "author_or_issuing_body": "MOFCOM Industrial Security and Import and Export Control Bureau; licensing bureau repost",
+      "publication_date": "2025-05-06 (acquired repost)",
+      "source_type": "primary classification explanation",
+      "url": "https://xkzj.mofcom.gov.cn/tzgg/art/2025/art_b14287b003df4252832cb1f7a69825b6.html",
+      "retrieval_date": "2026-09-17",
+      "reading_scope": "All three Q&A and final paragraph read completely in browser.",
+      "decisive_locator": "Q3 on permanent-magnet forms/assemblies versus further processed motors, speakers and headphones; Q1 alloy and Q2 mixture examples.",
+      "supports": "Published material/product boundaries before London; some simple processing remains within the listed categories, specified downstream components/products outside that rare-earth scope.",
+      "limits": "Other indexed sources date the original April 21, but that original was not separately captured. Uses May 6 acquired text. Cannot decide classification of an unrecovered actual shipment, or negate other applicable controls. Later FAQ 5 and October extensions are outside this record.",
+      "independence_and_source_chain": "Official repost of bureau explanation; other reporting repeating it is not independent classification evidence.",
+      "captures": [
+        {
+          "path": "/Users/jorsc/.codex/.chatgpt-projects/g-p-6a94dd290a988191911d85ae8fe94a6c/tmp/pdfs/research-2026-09-17/licensing/03-faq-web.json",
+          "sha256": "c64b82c84fe01e93b3e95410b292b5577cde2ff6bab52716464ec68c0d169c1f",
+          "bytes": 3497,
+          "format": "browser-tool returned rendering in JSON string"
+        },
+        {
+          "path": "/Users/jorsc/.codex/.chatgpt-projects/g-p-6a94dd290a988191911d85ae8fe94a6c/tmp/pdfs/research-2026-09-17/licensing/03-faq-web.txt",
+          "sha256": "3942280f7f132d5339d5d30afeb68dd12542c70361c0acd6fb846b7b91790ff3",
+          "bytes": 3452,
+          "format": "readable text extraction or rendering"
+        }
+      ]
+    },
+    {
+      "id": "LIC25-04",
+      "title": "江西金力永磁科技股份有限公司 投资者关系活动记录表，编号2025-010",
+      "author_or_issuing_body": "JL MAG Rare-Earth Co.; board secretary Lai Xunlong",
+      "publication_date": "2025-06-13",
+      "source_type": "primary company-issued investor Q&A via public disclosure mirror",
+      "url": "https://pdf.dfcfw.com/pdf/H2_AN202506131690292387_1.pdf",
+      "retrieval_date": "2026-09-17",
+      "reading_scope": "Complete three-page PDF read from extracted text; physical p. 2 visually checked, including full Q2 and surrounding questions.",
+      "decisive_locator": "Physical p. 1 venue/date/participant identity; physical p. 2 Q2 (export permission) and Q3 (raw-material procurement); p. 3 closing disclosure/date. No printed page numbers.",
+      "supports": "Company says permits successively obtained for US, Europe, Southeast Asia; no military business; controlled products still to be applied for and exported after approval.",
+      "limits": "Neither licenses nor customer-specific decisions published. First-quarter revenue predates April controls. The statement about exports of materials, assemblies and motor rotors does not establish every category required a license or identify which controlled items shipped.",
+      "independence_and_source_chain": "Company-issued original document served by Eastmoney mirror, not downloaded from issuer domain. Its quotation of MOFCOM remains that official source chain; the company's own permit claims are corporate testimony.",
+      "captures": [
+        {
+          "path": "/Users/jorsc/.codex/.chatgpt-projects/g-p-6a94dd290a988191911d85ae8fe94a6c/tmp/pdfs/research-2026-09-17/licensing/05-jlmag-june13.pdf",
+          "sha256": "a32c2ad3871df8f6dc574b37ae9d5496365faf8a9325114a947e97000430e70d",
+          "bytes": 275364,
+          "format": "downloaded PDF"
+        },
+        {
+          "path": "/Users/jorsc/.codex/.chatgpt-projects/g-p-6a94dd290a988191911d85ae8fe94a6c/tmp/pdfs/research-2026-09-17/licensing/05-jlmag-june13.txt",
+          "sha256": "0b457dd0d0cdd7f131e4d290fd823ef5203e6befa2fb25dbd679858c091b986b",
+          "bytes": 5684,
+          "format": "readable text extraction or rendering"
+        },
+        {
+          "path": "/Users/jorsc/.codex/.chatgpt-projects/g-p-6a94dd290a988191911d85ae8fe94a6c/tmp/pdfs/research-2026-09-17/licensing/05-jlmag-june13-p2.png",
+          "sha256": "2c18e51609578973d9e369dc3b5ea6817ffb482c160a57ffbc11d34772b00798",
+          "bytes": 448471,
+          "format": "rendered PDF page for visual check"
+        }
+      ]
+    },
+    {
+      "id": "LIC25-05",
+      "title": "江西金力永磁科技股份有限公司 投资者关系活动记录表，编号2025-011",
+      "author_or_issuing_body": "JL MAG Rare-Earth Co.; vice president Su Quan and board secretary Lai Xunlong",
+      "publication_date": "2025-06-26",
+      "source_type": "primary company-issued investor Q&A via public disclosure mirror",
+      "url": "https://pdf.dfcfw.com/pdf/H2_AN202506261698106583_1.pdf",
+      "retrieval_date": "2026-09-17",
+      "reading_scope": "Complete three-page PDF read from extracted text; physical p. 2 visually checked.",
+      "decisive_locator": "Physical p. 2 Q2, including no military business and continued applications; p. 2 names/date and p. 3 closing/date. No printed page numbers.",
+      "supports": "Confirms that the company publicly maintained the same conditional-export account on June 26.",
+      "limits": "Substantially repeats June 13; not new evidence of additional licenses or shipments. No license terms, applicant correspondence or customer identities.",
+      "independence_and_source_chain": "Same issuer and mostly repeated language as LIC25-04, not independent corroboration.",
+      "captures": [
+        {
+          "path": "/Users/jorsc/.codex/.chatgpt-projects/g-p-6a94dd290a988191911d85ae8fe94a6c/tmp/pdfs/research-2026-09-17/licensing/06-jlmag-june26.pdf",
+          "sha256": "623d6dba9cc10d973026261efba610678fa5ae940507e555d5b0ef27d06d07f5",
+          "bytes": 282242,
+          "format": "downloaded PDF"
+        },
+        {
+          "path": "/Users/jorsc/.codex/.chatgpt-projects/g-p-6a94dd290a988191911d85ae8fe94a6c/tmp/pdfs/research-2026-09-17/licensing/06-jlmag-june26.txt",
+          "sha256": "e39cdbf41e100a7b117075e39ab1e6a03d180e57a2f2349f1f84d8e29f9de187",
+          "bytes": 5656,
+          "format": "readable text extraction or rendering"
+        },
+        {
+          "path": "/Users/jorsc/.codex/.chatgpt-projects/g-p-6a94dd290a988191911d85ae8fe94a6c/tmp/pdfs/research-2026-09-17/licensing/06-jlmag-june26-p2.png",
+          "sha256": "546e7dfa2d8eec930b17777c21c072c8cbe8590cd0c8a3f4a4650ef03eab1eca",
+          "bytes": 345691,
+          "format": "rendered PDF page for visual check"
+        }
+      ]
+    },
+    {
+      "id": "LIC25-06",
+      "title": "Analysis—China’s rare earth export controls are good for Beijing, bad for business",
+      "author_or_issuing_body": "Reuters staff; editors Lewis Jackson and Sonali Paul",
+      "publication_date": "2025-07-07",
+      "source_type": "contemporaneous original reporting and analysis",
+      "url": "https://www.investing.com/news/stock-market-news/analysischinas-rare-earth-export-controls-are-good-for-beijing-bad-for-business-4124087",
+      "retrieval_date": "2026-09-17",
+      "reading_scope": "Entire substantive Reuters article read, browser lines 53–104; includes anonymous producer/industry testimony and named analytical comments. Direct HTML request returned 403; complete rendered article body preserved.",
+      "decisive_locator": "Paragraph beginning 'In addition, the highly customised nature...' (browser line 84); inventory and producer pressure in lines 57–71.",
+      "supports": "Attributed account of customized goods difficult to resell domestically, inventory and domestic producer costs during licensing wait.",
+      "limits": "Four anonymous sources support resale difficulty; no source identities or underlying inventory records acquired. Reuters's causal opening about Trump coming to the table is not adopted as established cause. Forecasts and consolidation speculation are not treated as outcomes.",
+      "independence_and_source_chain": "One Reuters article despite multiple syndications. Anonymous-source overlap with prior Reuters stories unknown.",
+      "captures": [
+        {
+          "path": "/Users/jorsc/.codex/.chatgpt-projects/g-p-6a94dd290a988191911d85ae8fe94a6c/tmp/pdfs/research-2026-09-17/licensing/07-reuters-web.json",
+          "sha256": "12fab7fc591694a1b6aa844f23e79e4b7ae406f82e76e2068207c8e976ea9864",
+          "bytes": 24009,
+          "format": "browser-tool returned rendering in JSON string"
+        },
+        {
+          "path": "/Users/jorsc/.codex/.chatgpt-projects/g-p-6a94dd290a988191911d85ae8fe94a6c/tmp/pdfs/research-2026-09-17/licensing/07-reuters-web.txt",
+          "sha256": "777ffc4b2d3876f2cf0bd7ed13ee1323c51b9965e525d51e2dab3c070ccf06a0",
+          "bytes": 23389,
+          "format": "readable text extraction or rendering"
+        }
+      ]
+    },
+    {
+      "id": "LIC25-07",
+      "title": "Bajaj Auto Limited, Q4 FY25 Results Conference Call",
+      "author_or_issuing_body": "Bajaj Auto; executive director Rakesh Sharma and CFO Dinesh Thapar",
+      "publication_date": "2025-05-29",
+      "source_type": "primary participant/company earnings transcript",
+      "url": "https://www.bajajauto.com/-/media/images/bajajauto/media-kit/press-release/new-quarter-results/fy2024-25/bajaj-auto-earnings-call-q4-fy25.pdf",
+      "retrieval_date": "2026-09-17",
+      "reading_scope": "Full 21-page PDF acquired and searched. Selected complete physical/printed pages 4 and 17 read, including full magnet opening passage and full Chandramouli Muthiah–Rakesh Sharma rare-earth exchange. Page 17 visually checked. No whole-call reading claimed.",
+      "decisive_locator": "p. 4 final Chetak paragraph; p. 17 question on inventories/government negotiation and Sharma's complete answer.",
+      "supports": "Company-side description of declaration/certification chain, about 30 applications forwarded according to Sharma's information, waiting for questions/results; development/testing/integration constraints on immediate substitution.",
+      "limits": "Not thirty identified Bajaj applications; no evidence of formal acceptance by MOFCOM. 'No particular negotiation' is Sharma's May 29 characterization, not proof no government discussions occurred. Broad 90% claim not independently used. No match established between Bajaj and JL Mag.",
+      "independence_and_source_chain": "Firsthand account of management understanding; corporate explanation, not Chinese administrative record. Reporting drawn from this call is not independent.",
+      "captures": [
+        {
+          "path": "/Users/jorsc/.codex/.chatgpt-projects/g-p-6a94dd290a988191911d85ae8fe94a6c/tmp/pdfs/research-2026-09-17/licensing/08-bajaj-may29.pdf",
+          "sha256": "e8a1201fb9a6decab10a60aa9d4e880c19c0204851ef9c19aa0df8b4f8910498",
+          "bytes": 268935,
+          "format": "downloaded PDF"
+        },
+        {
+          "path": "/Users/jorsc/.codex/.chatgpt-projects/g-p-6a94dd290a988191911d85ae8fe94a6c/tmp/pdfs/research-2026-09-17/licensing/08-bajaj-may29.txt",
+          "sha256": "92a7e025f2dd4fa5ed6cc334b8b75cfc7005650c127b078ccbb7c04b75e0ceb3",
+          "bytes": 66759,
+          "format": "readable text extraction or rendering"
+        },
+        {
+          "path": "/Users/jorsc/.codex/.chatgpt-projects/g-p-6a94dd290a988191911d85ae8fe94a6c/tmp/pdfs/research-2026-09-17/licensing/08-bajaj-may29-p17.png",
+          "sha256": "db15598eb680df4191d146ea5e84495c57b2132eb3914b0a6e1e2a1add2dee29",
+          "bytes": 261622,
+          "format": "rendered PDF page for visual check"
+        }
+      ]
+    },
+    {
+      "id": "LIC25-08",
+      "title": "Bajaj Auto Limited, Q1 FY26 Results Conference Call",
+      "author_or_issuing_body": "Bajaj Auto; executive director Rakesh Sharma and CFO Dinesh Thapar",
+      "publication_date": "2025-08-06",
+      "source_type": "primary company retrospective on June–July and contemporary account of response options",
+      "url": "https://www.bajajauto.com/-/media/images/bajajauto/media-kit/press-release/new-quarter-results/fy2025-26/bajaj-auto-earnings-call---q1-fy26.pdf",
+      "retrieval_date": "2026-09-17",
+      "reading_scope": "Full 20-page PDF acquired and searched. Complete printed/physical pages 4,7,16,17 read; p. 5 first continuation paragraph read in browser; earlier browser opening identifies executives. Pages 4,7,17 visually checked. No whole-call reading claimed.",
+      "decisive_locator": "pp. 4–5 Sharma on June production / July shortfall and options; p. 7 Thapar June 60% and 75% of plans; pp. 16–17 context for planned supply and Sharma's HRE/LRE/ferrite alternatives.",
+      "supports": "Near-contemporaneous company account of production constraint in June–July; continued official-relief effort alongside design/sourcing alternatives.",
+      "limits": "August 6 statement must remain retrospectively dated. July 50% shortfall appears in Chetak production context; not 50% fall in total company revenue or year-on-year sales. June 60% / 75% are fulfillment of plans, not decline rates. Does not resolve fate of thirty May applications or show a political decision against India. Recovery and de-risking timings were expectations, not verified outcomes.",
+      "independence_and_source_chain": "Same company as LIC25-07; temporally distinct update, not independent confirmation of each earlier claim.",
+      "captures": [
+        {
+          "path": "/Users/jorsc/.codex/.chatgpt-projects/g-p-6a94dd290a988191911d85ae8fe94a6c/tmp/pdfs/research-2026-09-17/licensing/09-bajaj-august6.pdf",
+          "sha256": "2b559362f4f8df91c1d9ac44e07dafa72c0949c8619afb896b4fcfe9916ecd0d",
+          "bytes": 311597,
+          "format": "downloaded PDF"
+        },
+        {
+          "path": "/Users/jorsc/.codex/.chatgpt-projects/g-p-6a94dd290a988191911d85ae8fe94a6c/tmp/pdfs/research-2026-09-17/licensing/09-bajaj-august6.txt",
+          "sha256": "9bbc077bd5183403518e85d575100a52baae6911096037c05bba7e2a4452ecf8",
+          "bytes": 66985,
+          "format": "readable text extraction or rendering"
+        },
+        {
+          "path": "/Users/jorsc/.codex/.chatgpt-projects/g-p-6a94dd290a988191911d85ae8fe94a6c/tmp/pdfs/research-2026-09-17/licensing/09-bajaj-august6-p4.png",
+          "sha256": "f98a53dd999545c7a77e14fe63f66e010d361680ca6682794df70dadb076ddb8",
+          "bytes": 317487,
+          "format": "rendered PDF page for visual check"
+        },
+        {
+          "path": "/Users/jorsc/.codex/.chatgpt-projects/g-p-6a94dd290a988191911d85ae8fe94a6c/tmp/pdfs/research-2026-09-17/licensing/09-bajaj-august6-p7.png",
+          "sha256": "ace54d8a836bad75476efd56798dd8b87c6e05f753fc21bfc9f5c5630b0e9b8f",
+          "bytes": 300249,
+          "format": "rendered PDF page for visual check"
+        },
+        {
+          "path": "/Users/jorsc/.codex/.chatgpt-projects/g-p-6a94dd290a988191911d85ae8fe94a6c/tmp/pdfs/research-2026-09-17/licensing/09-bajaj-august6-p17.png",
+          "sha256": "e63fd5af33ba83e066d2ceb637f4d586901a3201b2ef8a3c58ebd00514374ad0",
+          "bytes": 305950,
+          "format": "rendered PDF page for visual check"
+        }
+      ]
+    },
+    {
+      "id": "LIC25-09",
+      "title": "中华人民共和国出口管制法",
+      "author_or_issuing_body": "National People's Congress Standing Committee; MOFCOM full-text publication",
+      "publication_date": "2020-10-17; ministry publication 2020-10-19; effective 2020-12-01",
+      "source_type": "primary statute",
+      "url": "https://www.mofcom.gov.cn/zfxxgk/gkml/art/2020/art_76b5fa416a4c42afa8af295eefffdffc.html",
+      "retrieval_date": "2026-09-17",
+      "reading_scope": "Full substantive promulgation and all 49 articles read in browser; analysis focuses Articles 8,12–16,19,22.",
+      "decisive_locator": "Article 13 decision factors; Article 16 end-use/transfer undertaking; Article 19 customs question/nonrelease; Article 49 actual effective date.",
+      "supports": "Explicit statutory factors and continuing end-use responsibility underlying2024regulation.",
+      "limits": "No inference about private instructions or case outcomes. Ministry metadata labels October 19 as 生效日期 but promulgation / Article 49 expressly state December 1; use statutory date. Current legal advice not supplied.",
+      "independence_and_source_chain": "Legislation republished by ministry; distinct hierarchical source from 2024 regulation, not a third witness to June administration.",
+      "captures": [
+        {
+          "path": "/Users/jorsc/.codex/.chatgpt-projects/g-p-6a94dd290a988191911d85ae8fe94a6c/tmp/pdfs/research-2026-09-17/licensing/10-law-11-guide-april-repost-web.json",
+          "sha256": "6246c50d464a8eea52354d0382bd4b4c995d466705ef4e78757fdc5aa7f36794",
+          "bytes": 30652,
+          "format": "browser-tool returned rendering in JSON string"
+        },
+        {
+          "path": "/Users/jorsc/.codex/.chatgpt-projects/g-p-6a94dd290a988191911d85ae8fe94a6c/tmp/pdfs/research-2026-09-17/licensing/10-law-11-guide-april-repost-web.txt",
+          "sha256": "1294c97d124ab5a309b95223f2b955b471d7f80933ed00041c103c27e2773092",
+          "bytes": 30259,
+          "format": "readable text extraction or rendering"
+        }
+      ]
+    }
+  ],
+  "reused_sources": [
+    {
+      "register": "trade-2025-export-controls-register.json",
+      "ids": [
+        "EC25-01",
+        "EC25-02",
+        "EC25-06",
+        "EC25-17",
+        "EC25-25"
+      ],
+      "new_reading": "Complete substantive EC25-02 statement and EC25-06 question/answer reread from preserved originals; chapter footnotes and existing registered scopes consulted for remainder. No fresh full reading of every EC25 source claimed."
+    }
+  ],
+  "key_unavailable_records": [
+    "An individual rare-earth export license or complete application file, including acceptance/return/resubmission/decision timestamps.",
+    "The London framework or license annex; private authorization or priority instructions.",
+    "A verified connection between JL Mag's reported approvals and Bajaj's supply chain."
+  ],
+  "failed_or_limited_access": [
+    {
+      "item": "MOFCOM guide HTML",
+      "result": "curl TLS connection reset; browser full text read/captured."
+    },
+    {
+      "item": "MOFCOM guide PDF",
+      "result": "35-page attachment located by browser; curl 502; no PDF reading claimed."
+    },
+    {
+      "item": "Licensing bureau regulation and rare-earth FAQ HTML",
+      "result": "curl 502; browser texts read/captured."
+    },
+    {
+      "item": "Reuters / Investing HTML",
+      "result": "curl 403; complete browser article read/captured."
+    },
+    {
+      "item": "Xinping April 15 repost",
+      "result": "Direct browser and curl timeout; indexed partial body only. Initial unrelated-results search capture 04 retained outside Git as trace but excluded from cited captures."
+    },
+    {
+      "item": "Northern Rare Earth June 27 investor record",
+      "result": "Search found third-party accounts and DOCX index; original not acquired, no finding based on it."
+    },
+    {
+      "item": "JL MagJune 10/11 interactive reply",
+      "result": "Reporting gave conflicting June 10/11 dates; not used in place of recovered June 13 and 26 company records."
+    }
+  ],
+  "quality_checks": [
+    "Nine source records counted as documents, not independent witnesses.",
+    "Bajaj dates, numerical bases and speaker attributions checked against selected original PDF pages; six corporate pages visually checked.",
+    "Core guide features cross-checked against April 2 repost. FAQ 44 version difference flagged, separate from FAQ 33 license validity.",
+    "All capture hashes computed locally after acquisition; browser renderings distinguished from original downloads.",
+    "At most two narrative proposals; no chapter, index, prior register or counted bibliography edits."
+  ]
+}

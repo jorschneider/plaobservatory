@@ -1,0 +1,11 @@
+# Reading edition: September 17 permission and premise revision
+
+The twelve-part reading edition was rebuilt from the current chapters and appendices. Its [manifest](reading-edition-manifest.json) records each input hash and the output hash. This check concerns integrity, navigation and selected rendering, not publication readiness or automated historical verification.
+
+- The local research check passed for 87 JSON files, 458 tracked source references, 286 proposition references, 960 capture-hash references covering 890 distinct files, 35 source-register counts and 324 manuscript footnote definitions. The case ledgers remain at 198 observations. Three protected baseline files remain unchanged.
+- The rebuilt HTML contains 935 unique IDs, 1,749 links, 360 rendered notes and 73 chronology entries. Its local references and anchors passed. All 59 embedded baseline records still exactly match their originals; verdict totals remain 16 retained within scope, 38 unresolved and 5 untested.
+- Headless Chrome displayed the new historical-premise, application-procedure and later-licensing passages. The direct link to Announcement 70 was present. A 390-pixel viewport had a 390-pixel document width. The root visually inspected those three desktop captures and the mobile supplier passage; text, notes and margins were readable without overlap or horizontal overflow in those views. This is selected visual inspection, not a screenshot audit of every page.
+- The first visual script failed because its literal apostrophe did not match typographic punctuation. The selector was corrected; the later run completed. No manuscript defect was inferred from that tooling failure.
+- Nine legacy hash records without usable local paths and one separately excluded failed-capture hash remain outside byte rechecking, as in the preceding validation. Public links are source locators, not a claim that every external page was freshly fetched.
+
+The [integration checkpoint](development/permissions-and-premise-integration-2026-09-17.md) records source review, prose changes and remaining gaps. Internal reviews and successful rendering do not supply the missing private records or external editorial judgment.

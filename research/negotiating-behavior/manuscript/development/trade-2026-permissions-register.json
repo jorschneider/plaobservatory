@@ -1,0 +1,155 @@
+{
+  "audit_title": "Licensing sequel: selected November 2025–September 2026 evidence",
+  "version_date": "2026-09-17",
+  "memo": "trade-2026-permissions-followup.md",
+  "source_count": 6,
+  "counting_rule": "Six substantive documents. Reused official accounts are not new independent corroboration; no new complete scholarly reading is counted.",
+  "temporal_scope": "Selected sequel to April–July 2025, ending at September 4, 2026 reporting. Not a comprehensive current-law inventory.",
+  "capture_note": "HTML downloaded where successful; derived text separately hashed. Reuters raw request returned HTTP403; web-extracted substantive text is labeled accordingly and is not original HTML.",
+  "sources": [
+    {
+      "id": "PER26-01",
+      "title": "White House economic and trade deal fact sheet",
+      "author_or_issuing_body": "White House",
+      "publication_date": "2025-11-01",
+      "url": "https://www.whitehouse.gov/fact-sheets/2025/11/fact-sheet-president-donald-j-trump-strikes-deal-on-economic-and-trade-relations-with-china/",
+      "retrieval_date": "2026-09-17",
+      "source_type": "primary official account or instrument",
+      "reading_scope": "Complete substantive fact sheet read; relevant opening and first two Chinese-action bullets checked.",
+      "limits": "Unilateral American account; anticipated general licenses are not a census of issued permissions.",
+      "captures": [
+        {
+          "path": "/Users/jorsc/.codex/.chatgpt-projects/g-p-6a94dd290a988191911d85ae8fe94a6c/tmp/pdfs/research-2026-09-17/permissions-followup/wh-2025-11-01.html",
+          "format": "html",
+          "sha256": "1d907343a30b91389ceb3bccf7b57db357b66a5d75205f19ca2b3dc4110168f0",
+          "bytes": 270202
+        },
+        {
+          "path": "/Users/jorsc/.codex/.chatgpt-projects/g-p-6a94dd290a988191911d85ae8fe94a6c/tmp/pdfs/research-2026-09-17/permissions-followup/wh-2025-11-01.txt",
+          "format": "txt",
+          "sha256": "89412863a50c0e401da976bbdaad105a776568c5134c22b24faa89b5509f7b7e",
+          "bytes": 10028
+        }
+      ]
+    },
+    {
+      "id": "PER26-02",
+      "title": "商务部、海关总署公告2025年第70号",
+      "author_or_issuing_body": "MOFCOM and GACC",
+      "publication_date": "2025-11-07",
+      "url": "https://interview.mofcom.gov.cn/mofcom_interview/front/swfgk/article?id=20251103606112",
+      "retrieval_date": "2026-09-17",
+      "source_type": "primary official account or instrument",
+      "reading_scope": "Complete short notice read, including title, operative paragraph and date.",
+      "limits": "Enumerated suspension; does not itself state the scope of general licenses or suspend April Announcement 18.",
+      "captures": [
+        {
+          "path": "/Users/jorsc/.codex/.chatgpt-projects/g-p-6a94dd290a988191911d85ae8fe94a6c/tmp/pdfs/research-2026-09-17/permissions-followup/mofcom-2025-70.txt",
+          "format": "txt",
+          "sha256": "4715e32c3c4c15f86b86a15628b284fa2a0ae17a5a1cbc8aa25f5d5fdb2babfd",
+          "bytes": 1494
+        },
+        {
+          "path": "/Users/jorsc/.codex/.chatgpt-projects/g-p-6a94dd290a988191911d85ae8fe94a6c/tmp/pdfs/research-2026-09-17/permissions-followup/mofcom-2025-70.html",
+          "format": "html",
+          "sha256": "601315bc88def232e0090631f86a06aa261439ffe47c54ed84c2582055c92bd0",
+          "bytes": 21894
+        }
+      ]
+    },
+    {
+      "id": "PER26-03",
+      "title": "White House May summit fact sheet",
+      "author_or_issuing_body": "White House",
+      "publication_date": "2026-05-17",
+      "url": "https://www.whitehouse.gov/fact-sheets/2026/05/fact-sheet-president-donald-j-trump-secures-historic-deals-with-china-delivering-for-american-workers-farmers-and-industry/",
+      "retrieval_date": "2026-09-17",
+      "source_type": "primary official account or instrument",
+      "reading_scope": "Complete substantive body read; critical-minerals bullet controls this use.",
+      "limits": "Official account, not bilateral signed minutes or proof of delivery; overlaps earlier mechanism research.",
+      "captures": [
+        {
+          "path": "/Users/jorsc/.codex/.chatgpt-projects/g-p-6a94dd290a988191911d85ae8fe94a6c/tmp/pdfs/research-2026-09-17/permissions-followup/wh-2026-05-17.txt",
+          "format": "txt",
+          "sha256": "d9540026f504541a10d6df475cb3aa058e3ee4c762237ccf814f6a96b60a38bd",
+          "bytes": 7472
+        },
+        {
+          "path": "/Users/jorsc/.codex/.chatgpt-projects/g-p-6a94dd290a988191911d85ae8fe94a6c/tmp/pdfs/research-2026-09-17/permissions-followup/wh-2026-05-17.html",
+          "format": "html",
+          "sha256": "36728578671dd210d190a8bc93a63789d6383b2c5fc0a972a27462c793d2b433",
+          "bytes": 268194
+        }
+      ]
+    },
+    {
+      "id": "PER26-04",
+      "title": "商务部美大司负责人解读中美经贸磋商初步成果",
+      "author_or_issuing_body": "MOFCOM",
+      "publication_date": "2026-05-20",
+      "url": "https://www.mofcom.gov.cn/syxwfb/art/2026/art_3e89743a8d5d4a95bccdda685830afbd.html",
+      "retrieval_date": "2026-09-17",
+      "source_type": "primary official account or instrument",
+      "reading_scope": "All eight questions and answers read; questions IV and V control this use.",
+      "limits": "Review of compliant civilian applications does not mean automatic approval; extension remains prospective in this statement. Overlaps earlier mechanism research.",
+      "captures": [
+        {
+          "path": "/Users/jorsc/.codex/.chatgpt-projects/g-p-6a94dd290a988191911d85ae8fe94a6c/tmp/pdfs/research-2026-09-17/permissions-followup/mofcom-2026-05-20.txt",
+          "format": "txt",
+          "sha256": "9768b84be15a9bde7141fc59873652967b5018899960f135865240a71bff99c8",
+          "bytes": 9933
+        },
+        {
+          "path": "/Users/jorsc/.codex/.chatgpt-projects/g-p-6a94dd290a988191911d85ae8fe94a6c/tmp/pdfs/research-2026-09-17/permissions-followup/mofcom-2026-05-20.html",
+          "format": "html",
+          "sha256": "1bcd34dbe37cf7538c068a31b0722489f8379a6b0fb1185a39053e00acbfe025",
+          "bytes": 22763
+        }
+      ]
+    },
+    {
+      "id": "PER26-05",
+      "title": "商务部令2026年第2号：对应用DNA科学公司等6家美国实体采取反制措施",
+      "author_or_issuing_body": "MOFCOM",
+      "publication_date": "2026-08-05",
+      "url": "https://exportcontrol.mofcom.gov.cn/article/zcfg/gnzcfg/zcfggzqd/202608/1312.html",
+      "retrieval_date": "2026-09-17",
+      "source_type": "primary official account or instrument",
+      "reading_scope": "Complete order, decision and six-entity attachment read.",
+      "limits": "Stated rationale is an official allegation; the text does not announce a blanket rare-earth shipment ban.",
+      "captures": [
+        {
+          "path": "/Users/jorsc/.codex/.chatgpt-projects/g-p-6a94dd290a988191911d85ae8fe94a6c/tmp/pdfs/research-2026-09-17/permissions-followup/mofcom-2026-order2.html",
+          "format": "html",
+          "sha256": "ed8815d153831030560a05c03f1c276f59bcbdd95018dddba7bf4fef63f326f8",
+          "bytes": 15432
+        },
+        {
+          "path": "/Users/jorsc/.codex/.chatgpt-projects/g-p-6a94dd290a988191911d85ae8fe94a6c/tmp/pdfs/research-2026-09-17/permissions-followup/mofcom-2026-order2.txt",
+          "format": "txt",
+          "sha256": "579907a56b9e8a94dd15006f59fcbf092513f6e6b8a8a85ab2e276b9d2770d07",
+          "bytes": 3668
+        }
+      ]
+    },
+    {
+      "id": "PER26-06",
+      "title": "China rare earth firms halt some US shipments over geopolitical worries, sources say",
+      "author_or_issuing_body": "Laurie Chen, Solomon Cefai, Trevor Hunnicutt and Lewis Jackson / Reuters",
+      "publication_date": "2026-09-04",
+      "url": "https://www.investing.com/news/stock-market-news/china-rare-earth-firms-halt-some-us-shipments-over-geopolitical-worries-sources-say-4888882?ampMode=1",
+      "retrieval_date": "2026-09-17",
+      "source_type": "reporting",
+      "reading_scope": "Complete substantive article read through concluding European Chamber statement and byline; preserved web-extracted lines 51–85.",
+      "limits": "Unnamed sourcing; licenses held by refusing suppliers are not established. No underlying transaction files acquired.",
+      "captures": [
+        {
+          "path": "/Users/jorsc/.codex/.chatgpt-projects/g-p-6a94dd290a988191911d85ae8fe94a6c/tmp/pdfs/research-2026-09-17/permissions-followup/reuters-2026-09-04-web.txt",
+          "format": "txt",
+          "sha256": "6965f08b4a639fb99060e21b7e9e25b452657adcdbaddc38f8f740570f797c7b",
+          "bytes": 6143
+        }
+      ]
+    }
+  ]
+}

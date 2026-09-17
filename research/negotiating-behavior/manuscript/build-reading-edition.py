@@ -46,7 +46,7 @@ def prepare(path):
 
 
 intro = """::: {.edition-note}
-**Working manuscript · developmental revision · 16 September 2026**
+**Working manuscript · developmental revision · 17 September 2026**
 
 An original reassessment of Richard H. Solomon’s *Chinese Negotiating Behavior*,
 with seven chapters, a conclusion and three research appendices. Individual cases
@@ -66,7 +66,7 @@ with tempfile.TemporaryDirectory(prefix="solomon-reading-") as temp:
         "--to=html5", "--standalone", "--embed-resources", "--toc", "--toc-depth=2",
         "--metadata=lang:en", "--metadata=title:Bargaining with China",
         "--metadata=subtitle:Authority, commitments and change",
-        "--metadata=date:Research edition · 16 September 2026",
+        "--metadata=date:Research edition · 17 September 2026",
         "--css", str(ROOT / "reading-edition.css"), "--output", str(OUT)
     ], check=True)
 
@@ -78,7 +78,7 @@ OUT.write_text(rendered)
 
 manifest = {
     "title": "Bargaining with China: authority, commitments and change",
-    "edition": "Working manuscript, developmental revision, 2026-09-16",
+    "edition": "Working manuscript, developmental revision, 2026-09-17",
     "format": "Self-contained HTML; local supporting links require the research repository",
     "build_script": "build-reading-edition.py",
     "sources": [{"path": str(p.relative_to(ROOT)), "sha256": hashlib.sha256(p.read_bytes()).hexdigest()} for p in PARTS],
