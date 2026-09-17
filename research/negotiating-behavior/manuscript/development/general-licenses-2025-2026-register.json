@@ -1,0 +1,379 @@
+{
+  "audit_title": "Issued general licenses: named producer disclosures and remaining terms",
+  "version_date": "2026-09-17",
+  "status": "Bounded research and integration check; no recovered issued permit",
+  "temporal_scope": "November–December 2025 rollout, company reporting through April 2026; not a comprehensive 2026 monitoring record",
+  "memo": "general-licenses-2025-2026-evidence.md",
+  "capture_root": "/Users/jorsc/.codex/.chatgpt-projects/g-p-6a94dd290a988191911d85ae8fe94a6c/tmp/pdfs/research-2026-09-17/general-licenses/",
+  "source_count": 9,
+  "source_counts": {
+    "primary_company_documents": 2,
+    "primary_official_transcripts": 1,
+    "original_reporting_documents": 4,
+    "reported_corporate_platform_responses": 2
+  },
+  "counting_rule": "Documents, not independent witnesses. Reproductions, alternate renderings and related reports from the same company are not independent corroboration.",
+  "sources": [
+    {
+      "id": "GL26-01",
+      "title": "2025 Annual Report / 2025年度報告",
+      "author_or_issuing_body": "JL Mag Rare-Earth Co., Ltd.",
+      "publication_date": "2026-04-01",
+      "source_type": "Primary company report; official HKEX PDF",
+      "url": "https://www.hkexnews.hk/listedco/listconews/sehk/2026/0401/2026040103013_c.pdf",
+      "retrieval_date": "2026-09-17",
+      "reading_scope": "SELECTED: Complete printed pp.47–48 / physical pp.48–49 read in English extraction and visually in both languages. Full 362-page PDF preserved, not read in full. Auxiliary earlier filing reproduction: physical 167/printed 16 read fully and physical 170/printed 19 read as a search hit; full 330-page reproduction not read.",
+      "decisive_locator": "Management Discussion and Analysis, section2.2: printed 47 final paragraph; printed 48 first paragraph.",
+      "supports": "Named confirmation of general-license receipt; management's assessment of increased compliance demands and commercial positioning.",
+      "limits": "No permit, term, customer annex, actual shipment series or measured processing savings. Competitive advantage is management's assessment.",
+      "independence_and_source_chain": "HKEX hosts the company's report, not an exchange certification of permit terms. Auxiliary source is another report rendering from the same firm, not independent corroboration.",
+      "captures": [
+        {
+          "path": "/Users/jorsc/.codex/.chatgpt-projects/g-p-6a94dd290a988191911d85ae8fe94a6c/tmp/pdfs/research-2026-09-17/general-licenses/01-jlmag-hkex-annual2025.pdf",
+          "sha256": "59328a57612975d4758eaa410cf130fd8855f6cf5c5aff752c1f1267bdef2bd9",
+          "bytes": 9806930,
+          "format": "PDF document"
+        },
+        {
+          "path": "/Users/jorsc/.codex/.chatgpt-projects/g-p-6a94dd290a988191911d85ae8fe94a6c/tmp/pdfs/research-2026-09-17/general-licenses/01-jlmag-hkex-annual2025.txt",
+          "sha256": "9b8fb57fcff3b77564832371151b715faaac266181f3acb313e11d9ffc341dc3",
+          "bytes": 671333,
+          "format": "Derived readable text"
+        },
+        {
+          "path": "/Users/jorsc/.codex/.chatgpt-projects/g-p-6a94dd290a988191911d85ae8fe94a6c/tmp/pdfs/research-2026-09-17/general-licenses/jlmag-hkex-048.png",
+          "sha256": "12eeddd272623bba21360a79c97ffae7705a6401f566f55349505ff8954ed8cb",
+          "bytes": 423931,
+          "format": "Visual verification page image"
+        },
+        {
+          "path": "/Users/jorsc/.codex/.chatgpt-projects/g-p-6a94dd290a988191911d85ae8fe94a6c/tmp/pdfs/research-2026-09-17/general-licenses/jlmag-hkex-049.png",
+          "sha256": "56749e0cea5851c02926bdcfa37e187db36c17048d43ff22c37e86e47d3c48d6",
+          "bytes": 451486,
+          "format": "Visual verification page image"
+        },
+        {
+          "path": "/Users/jorsc/.codex/.chatgpt-projects/g-p-6a94dd290a988191911d85ae8fe94a6c/tmp/pdfs/research-2026-09-17/general-licenses/01-jlmag-annual2025-hkex-reprint.pdf",
+          "sha256": "b80e8bb245614dbc2695780625fb2adc58c9bc974a90f0b3348a91717fae4efa",
+          "bytes": 5427689,
+          "format": "PDF document"
+        },
+        {
+          "path": "/Users/jorsc/.codex/.chatgpt-projects/g-p-6a94dd290a988191911d85ae8fe94a6c/tmp/pdfs/research-2026-09-17/general-licenses/01-jlmag-annual2025-hkex-reprint.txt",
+          "sha256": "c51c38a678504f7f6c681789c78f1c8881c6810c633103604c233b859dc101e3",
+          "bytes": 693180,
+          "format": "Derived readable text"
+        }
+      ],
+      "auxiliary_url": "https://stockn.xueqiu.com/06680/20260325860688.pdf"
+    },
+    {
+      "id": "GL26-02",
+      "title": "宁波金田铜业（集团）股份有限公司2025年年度报告",
+      "author_or_issuing_body": "Ningbo Jintian Copper (Group) Co., Ltd.",
+      "publication_date": "2026-04-24",
+      "source_type": "Primary company filing acquired as a public PDF reproduction",
+      "url": "https://static.cninfo.com.cn/finalpage/2026-04-24/1225158123.PDF",
+      "retrieval_date": "2026-09-17",
+      "reading_scope": "SELECTED: Complete physical/printed pp.18–19 read from extracted PDF; p.19 visually checked. Full 240-page report preserved but not read in full. CNINFO title/cover and bibliographic presentation inspected; direct SSE PDF download timed out.",
+      "decisive_locator": "Section3 Management Discussion and Analysis, subsection（四）深耕稀土永磁板块, beginning p.18 and continuing p.19.",
+      "supports": "Company states it became an early general-license recipient during 2025.",
+      "limits": "No term or covered-customer list. Production growth elsewhere in this paragraph is not attributed to the permit.",
+      "independence_and_source_chain": "Same company as GL26-04. PDF reproduction downloaded from Eastmoney, separately identified as company filing.",
+      "captures": [
+        {
+          "path": "/Users/jorsc/.codex/.chatgpt-projects/g-p-6a94dd290a988191911d85ae8fe94a6c/tmp/pdfs/research-2026-09-17/general-licenses/02-jintian-annual2025-reprint.pdf",
+          "sha256": "ade6afb0a16b7b9fa598147f4880558dac08053f32839faf40793a193c04ffba",
+          "bytes": 1623400,
+          "format": "PDF document"
+        },
+        {
+          "path": "/Users/jorsc/.codex/.chatgpt-projects/g-p-6a94dd290a988191911d85ae8fe94a6c/tmp/pdfs/research-2026-09-17/general-licenses/02-jintian-annual2025-reprint.txt",
+          "sha256": "5fa12e7c5c62db80779b93c0550b2449c97c432aacc1cba257362d15fdb3a6ff",
+          "bytes": 542224,
+          "format": "Derived readable text"
+        },
+        {
+          "path": "/Users/jorsc/.codex/.chatgpt-projects/g-p-6a94dd290a988191911d85ae8fe94a6c/tmp/pdfs/research-2026-09-17/general-licenses/jintian-019.png",
+          "sha256": "54484968b4a94f5f4c2263799be8d85713a55575d9e96d6df631789b7a3b80ed",
+          "bytes": 601915,
+          "format": "Visual verification page image"
+        }
+      ],
+      "download_url": "https://pdf.dfcfw.com/pdf/H2_AN202604231821494132_1.pdf",
+      "exchange_url_attempted": "https://static.sse.com.cn/disclosure/listedinfo/announcement/c/new/2026-04-24/601609_20260424_AVPO.pdf"
+    },
+    {
+      "id": "GL26-03",
+      "title": "Exclusive-China issues first batch of streamlined rare earth export licenses, source says",
+      "author_or_issuing_body": "Reuters",
+      "publication_date": "2025-12-02",
+      "source_type": "Original wire reporting, short syndicated version",
+      "url": "https://www.investing.com/news/commodities-news/exclusivechina-issues-first-batch-of-streamlined-rare-earth-export-licenses-source-says-4385068",
+      "retrieval_date": "2026-09-17",
+      "reading_scope": "COMPLETE short wire text read, all four substantive paragraphs; not every update/version of the Reuters dispatch. Page navigation excluded.",
+      "decisive_locator": "Preserved browser lines 54–58, especially56 and58.",
+      "supports": "Unnamed source reports varying client coverage among JL Mag, Ningbo Yunsheng and Zhong Ke San Huan.",
+      "limits": "Company and ministry replies absent. Actual terms/client annex unavailable; cannot upgrade reported proportions into company-confirmed facts.",
+      "independence_and_source_chain": "Reuters original reporting; not independent of later Reuters reports merely because publication date differs.",
+      "captures": [
+        {
+          "path": "/Users/jorsc/.codex/.chatgpt-projects/g-p-6a94dd290a988191911d85ae8fe94a6c/tmp/pdfs/research-2026-09-17/general-licenses/03-reuters-dec2-web.json",
+          "sha256": "fd594bc71294c687d97c96349bf9794d0fa29b481e2f55929fd1b4b65891b757",
+          "bytes": 18262,
+          "format": "Browser-tool returned rendering in JSON string"
+        },
+        {
+          "path": "/Users/jorsc/.codex/.chatgpt-projects/g-p-6a94dd290a988191911d85ae8fe94a6c/tmp/pdfs/research-2026-09-17/general-licenses/03-reuters-dec2-web.txt",
+          "sha256": "11805391818056e45fc8c1292da21b0e7be2ef63d9be2e110fb7f1f6e23a9923",
+          "bytes": 17707,
+          "format": "Derived readable text"
+        }
+      ]
+    },
+    {
+      "id": "GL26-04",
+      "title": "继宁波韵升等后，我国又一家稀土永磁企业获通用出口许可",
+      "author_or_issuing_body": "Caiwen, reproduced by Sina Finance",
+      "publication_date": "2025-12-11",
+      "source_type": "Reporting reproducing a named company's investor-platform answer",
+      "url": "https://finance.sina.com.cn/stock/relnews/cn/2025-12-11/doc-inhamhsi8198549.shtml",
+      "retrieval_date": "2026-09-17",
+      "reading_scope": "COMPLETE substantive four-paragraph report read, excluding navigation and recommendations.",
+      "decisive_locator": "December 10 question and Jintian answer, paragraphs 2–3; browser lines 50–52.",
+      "supports": "Reported contemporary Jintian confirmation of receipt.",
+      "limits": "Original exchange interaction and permit were not acquired. No term or customer annex.",
+      "independence_and_source_chain": "Company answer is the underlying testimony; report is not a second corporate witness. Same company as GL26-02.",
+      "captures": [
+        {
+          "path": "/Users/jorsc/.codex/.chatgpt-projects/g-p-6a94dd290a988191911d85ae8fe94a6c/tmp/pdfs/research-2026-09-17/general-licenses/04-jintian-disclosure-report.html",
+          "sha256": "c4512c11821ac57563b3bf10dc0f545d8e712ff8c23836d107bc9da672c70b2d",
+          "bytes": 102341,
+          "format": "Downloaded HTML"
+        },
+        {
+          "path": "/Users/jorsc/.codex/.chatgpt-projects/g-p-6a94dd290a988191911d85ae8fe94a6c/tmp/pdfs/research-2026-09-17/general-licenses/04-jintian-disclosure-report.txt",
+          "sha256": "ca3caf66f05b48dfb4d95934fe760e76c4e4286ae6b774d9958bb9e17648959a",
+          "bytes": 45367,
+          "format": "Derived readable text"
+        }
+      ]
+    },
+    {
+      "id": "GL26-05",
+      "title": "中国放宽稀土永磁出口，业内人士：多家企业已获通用许可证",
+      "author_or_issuing_body": "Tian Heqi / 田鹤琪, Jiemian News",
+      "publication_date": "2025-12-06",
+      "source_type": "Original reporting with unnamed industry sources",
+      "url": "https://www.jiemian.com/article/13727857.html",
+      "retrieval_date": "2026-09-17",
+      "reading_scope": "COMPLETE substantive original article read, browser lines 177–224, including final unsuccessful company-contact paragraph. Eastmoney reproduction also read; it omits that final paragraph.",
+      "decisive_locator": "Paragraphs beginning 另一业内人士, 该许可证的获取 and 该人士指出; browser203–209. Earlier discussion-origin claim at183.",
+      "supports": "Reported documentation requirements and use of a general license for customs without a new application for each order.",
+      "limits": "Unnamed account, no permit or company transaction log. Not an official customs guarantee. Compressed background history is not relied upon.",
+      "independence_and_source_chain": "Named company awards attributed to Shanghai Securities News; distinct industry interviews are Jiemian's own. Reproduction is not independent.",
+      "captures": [
+        {
+          "path": "/Users/jorsc/.codex/.chatgpt-projects/g-p-6a94dd290a988191911d85ae8fe94a6c/tmp/pdfs/research-2026-09-17/general-licenses/05-jiemian-original-web.json",
+          "sha256": "3e4054edcd62259fa8c3103f07bcc2857ffc3e20ba73c736462e9e526634fbf9",
+          "bytes": 18416,
+          "format": "Browser-tool returned rendering in JSON string"
+        },
+        {
+          "path": "/Users/jorsc/.codex/.chatgpt-projects/g-p-6a94dd290a988191911d85ae8fe94a6c/tmp/pdfs/research-2026-09-17/general-licenses/05-jiemian-original-web.txt",
+          "sha256": "9ed4dc9cc1e06a4bfe9c9965f34eedac27104ba38c00b2e993d85acf0b04d6f8",
+          "bytes": 18213,
+          "format": "Derived readable text"
+        },
+        {
+          "path": "/Users/jorsc/.codex/.chatgpt-projects/g-p-6a94dd290a988191911d85ae8fe94a6c/tmp/pdfs/research-2026-09-17/general-licenses/05-jiemian-report.html",
+          "sha256": "53be5e344cdd95e76bad10aba77ab7296f73b676639bb4b8afce054383063cbc",
+          "bytes": 67641,
+          "format": "Downloaded HTML"
+        },
+        {
+          "path": "/Users/jorsc/.codex/.chatgpt-projects/g-p-6a94dd290a988191911d85ae8fe94a6c/tmp/pdfs/research-2026-09-17/general-licenses/05-jiemian-report.txt",
+          "sha256": "be974d0f965276189f780f454f8136e19e1aeea3465c1e837f69d40b3de59f54",
+          "bytes": 39727,
+          "format": "Derived readable text"
+        }
+      ]
+    },
+    {
+      "id": "GL26-06",
+      "title": "Ford suppliers receive China's new streamlined rare-earth licenses",
+      "author_or_issuing_body": "Lewis Jackson and Nora Eckert, Reuters; additional reporting Christoph Steitz",
+      "publication_date": "2025-12-10",
+      "source_type": "Original reporting carrying named customer statements; MarketScreener reproduction",
+      "url": "https://uk.marketscreener.com/news/ford-suppliers-receive-china-s-new-streamlined-rare-earth-licences-ce7d50dadb8eff23",
+      "retrieval_date": "2026-09-17",
+      "reading_scope": "COMPLETE substantive article read, browser lines 800–817. Navigation/market data excluded.",
+      "decisive_locator": "First paragraph; Wadephul/BMW/VW discussion; final Ford statement.",
+      "supports": "Ford confirms some suppliers' approvals while requesting further government work; contemporaneous limits to first-round coverage.",
+      "limits": "Supplier identities not supplied. Reporting on annual terms is not the license itself. German comparison is date-specific, not permanent exclusion.",
+      "independence_and_source_chain": "Ford and named German speakers are distinct attributed voices. Background overlaps previous Reuters reporting.",
+      "captures": [
+        {
+          "path": "/Users/jorsc/.codex/.chatgpt-projects/g-p-6a94dd290a988191911d85ae8fe94a6c/tmp/pdfs/research-2026-09-17/general-licenses/06-ford-reuters-dec10-web.json",
+          "sha256": "ec18ee7c535fff9d1af7ef0680959bdc53d89ce9c093f77981f85d9411e23ba0",
+          "bytes": 29443,
+          "format": "Browser-tool returned rendering in JSON string"
+        },
+        {
+          "path": "/Users/jorsc/.codex/.chatgpt-projects/g-p-6a94dd290a988191911d85ae8fe94a6c/tmp/pdfs/research-2026-09-17/general-licenses/06-ford-reuters-dec10-web.txt",
+          "sha256": "30b102c042078d78c574828ea4fa4502ea11fa640131a78915e0edd142ae758c",
+          "bytes": 29041,
+          "format": "Derived readable text"
+        }
+      ]
+    },
+    {
+      "id": "GL26-07",
+      "title": "商务部召开例行新闻发布会（2025年12月18日）",
+      "author_or_issuing_body": "Ministry of Commerce; He Yadong",
+      "publication_date": "2025-12-18",
+      "source_type": "Primary official press-conference transcript",
+      "url": "https://www.mofcom.gov.cn/xwfbzt/2025/swbzklxxwfbh2025n12y18r/index.html",
+      "retrieval_date": "2026-09-17",
+      "reading_scope": "COMPLETE substantive transcript read; decisive South China Morning Post Q&A is one exchange among seven question-and-answer sets.",
+      "decisive_locator": "South China Morning Post question and He Yadong reply, browser lines 12–13.",
+      "supports": "Official confirmation that some Chinese exporters' general-license applications had been received and approved.",
+      "limits": "Does not identify companies, destinations, term length or customer annex. Question's characterization is not automatically endorsed.",
+      "independence_and_source_chain": "Regulator's own aggregate statement, independent of company reports but not documentary confirmation of particular permits.",
+      "captures": [
+        {
+          "path": "/Users/jorsc/.codex/.chatgpt-projects/g-p-6a94dd290a988191911d85ae8fe94a6c/tmp/pdfs/research-2026-09-17/general-licenses/07-mofcom-dec18-web.json",
+          "sha256": "fe6ef34b35089b94be87cfe6a8b9a25f5748e961e7c36d9a835792abb68595b3",
+          "bytes": 9558,
+          "format": "Browser-tool returned rendering in JSON string"
+        },
+        {
+          "path": "/Users/jorsc/.codex/.chatgpt-projects/g-p-6a94dd290a988191911d85ae8fe94a6c/tmp/pdfs/research-2026-09-17/general-licenses/07-mofcom-dec18-web.txt",
+          "sha256": "150f6c86fcbc224305f47bbee22afffb7ad401f006e6e7c972daad9ba5ee97b9",
+          "bytes": 9527,
+          "format": "Derived readable text"
+        }
+      ]
+    },
+    {
+      "id": "GL26-08",
+      "title": "Exclusive-China starts work on easing rare earth export rules but short of Trump hopes, sources say",
+      "author_or_issuing_body": "Reuters; editing Sonali Paul; WHTC syndication",
+      "publication_date": "2025-11-07",
+      "source_type": "Original wire reporting with unnamed sources",
+      "url": "https://whtc.com/2025/11/07/exclusive-china-starts-work-on-easing-rare-earth-export-rules-but-short-of-trump-hopes-sources-say/",
+      "retrieval_date": "2026-09-17",
+      "reading_scope": "COMPLETE substantive article read, browser lines 49–77, excluding navigation.",
+      "decisive_locator": "Industry briefings at 50; proposed one-year term and customer information at 64–72.",
+      "supports": "Reported preparation of the procedure and prospective terms.",
+      "limits": "Prospective, anonymous; not proof of the conditions in any issued permit. Does not establish the origin of the legal category.",
+      "independence_and_source_chain": "First two sources concern exporter briefings; three other sources reported private discussions. Their independence from subsequent reports is unknown.",
+      "captures": [
+        {
+          "path": "/Users/jorsc/.codex/.chatgpt-projects/g-p-6a94dd290a988191911d85ae8fe94a6c/tmp/pdfs/research-2026-09-17/general-licenses/08-reuters-nov7-web.json",
+          "sha256": "0e3694c498c82abe348cbad7646062b3aadde62040c2841e8108ba636ccdd6e7",
+          "bytes": 8716,
+          "format": "Browser-tool returned rendering in JSON string"
+        },
+        {
+          "path": "/Users/jorsc/.codex/.chatgpt-projects/g-p-6a94dd290a988191911d85ae8fe94a6c/tmp/pdfs/research-2026-09-17/general-licenses/08-reuters-nov7-web.txt",
+          "sha256": "66930e4dca6941fc44d290c1f99b8b5fbc8efc37854acdbbe3e21b0a3e99e738",
+          "bytes": 8621,
+          "format": "Derived readable text"
+        }
+      ]
+    },
+    {
+      "id": "GL26-09",
+      "title": "金力永磁(300748.SZ)：前三季度具身机器人电机转子及磁材产品均有小批量交付",
+      "author_or_issuing_body": "Gelonghui, Sina Finance reproduction",
+      "publication_date": "2025-12-19",
+      "source_type": "Reporting reproducing a named firm's investor-platform response",
+      "url": "https://finance.sina.com.cn/stock/bxjj/2025-12-19/doc-inhciinp2366990.shtml?froms=ggmp",
+      "retrieval_date": "2026-09-17",
+      "reading_scope": "COMPLETE substantive paragraph read; surrounding site navigation not research content.",
+      "decisive_locator": "Browser line 48, license-media-report portion.",
+      "supports": "Reports that JL Mag declined comment on first-license coverage claims at that time.",
+      "limits": "Original exchange thread not recovered; noncomment is neither denial nor confirmation, and not evidence of hidden scope.",
+      "independence_and_source_chain": "Underlying voice is the same company as GL26-01. Multiple media reproductions add no independent confirmation.",
+      "captures": [
+        {
+          "path": "/Users/jorsc/.codex/.chatgpt-projects/g-p-6a94dd290a988191911d85ae8fe94a6c/tmp/pdfs/research-2026-09-17/general-licenses/09-jlmag-noncomment-sina-web.json",
+          "sha256": "2db2caa939d3659bbd598122694ac0993facc324c9ec5406cc807a7a97370000",
+          "bytes": 13669,
+          "format": "Browser-tool returned rendering in JSON string"
+        },
+        {
+          "path": "/Users/jorsc/.codex/.chatgpt-projects/g-p-6a94dd290a988191911d85ae8fe94a6c/tmp/pdfs/research-2026-09-17/general-licenses/09-jlmag-noncomment-sina-web.txt",
+          "sha256": "578b901e95924da1b78a66dc5f651361d1b5f6079ac4e08ee5df3f4a3f16efe2",
+          "bytes": 13598,
+          "format": "Derived readable text"
+        }
+      ]
+    }
+  ],
+  "reused_sources": [
+    {
+      "id": "LIC25-02",
+      "register": "licensing-2025-operational-register.json",
+      "scope_reread": "Articles 15–18 and20–27; general-license legal scope, eligibility, reporting, amendments and end-use conditions."
+    },
+    {
+      "id": "LIC25-01",
+      "register": "licensing-2025-operational-register.json",
+      "scope_reconsulted": "FAQs 35–38 and corresponding April 2 guide reproduction; no new immutable-date claim."
+    },
+    {
+      "ids": [
+        "PER26-01",
+        "PER26-02"
+      ],
+      "register": "trade-2026-permissions-register.json",
+      "scope": "Existing White House undertaking and operative suspension remain the diplomatic/instrument baseline; no new document count."
+    }
+  ],
+  "key_unavailable_records": [
+    "An issued general license and customer/quantity annex for any named producer.",
+    "A named company's measured reduction in application burden or shipment-level use of the general license.",
+    "Internal mandate or bilateral agreed specification making a particular duration a negotiated term."
+  ],
+  "failed_or_limited_access": [
+    {
+      "url": "https://static.cninfo.com.cn/finalpage/2026-03-26/1225030339.PDF",
+      "result": "Raw download HTTP403; browser parsed a 173-page document but search yielded no exact match. Not used for substantive confirmation; official later HKEX report acquired."
+    },
+    {
+      "url": "https://www.jlmag.com.cn/newsshow.php?cid=31&id=3919",
+      "result": "Browser company page identified report; raw download HTTP502. Linked download also failed."
+    },
+    {
+      "url": "https://static.sse.com.cn/disclosure/listedinfo/announcement/c/new/2026-04-24/601609_20260424_AVPO.pdf",
+      "result": "Raw 25-second timeout; public PDF reproduction acquired instead."
+    },
+    {
+      "url": "https://finance.yahoo.com/news/exclusive-china-issues-first-batch-065830065.html",
+      "result": "HTTP429; short Reuters syndication recovered from Investing."
+    },
+    {
+      "url": "https://stock.stockstar.com/RB2025121900017262.shtml",
+      "result": "Browser cache miss; a different Gelonghui reproduction of the contemporary company response was substantially read and preserved."
+    },
+    {
+      "url": "https://static.cninfo.com.cn/finalpage/2026-04-24/1225158123.PDF",
+      "result": "Cover/title and 240-page bibliographic presentation inspected; exact-text find returned no match. Does not count as independent verification of the key paragraph in the downloaded reproduction."
+    }
+  ],
+  "quality_checks": [
+    "No legal maximum substituted for the term of an issued permit.",
+    "No reported client proportion represented as a company-disclosed annex.",
+    "No corporate production or revenue change attributed causally to the licenses.",
+    "No later annual-report disclosure backdated into a December public confirmation.",
+    "Chinese and English decisive JL Mag pages visually compared; Jintian p.19 visually checked."
+  ],
+  "integration_review": {
+    "chapter": "../chapters/06-after-the-signature.md",
+    "scope": "New JL Mag paragraph beginning JL Mag subsequently reported, immediate Busan/May context and complete permissions-general note only.",
+    "result": "No correction required; conditional legal capacity and attributed company interpretation are preserved.",
+    "sha256": "81704b66e7949ba59906afeb8fc0140179faaf179a44d1111a3aed4f72ecc9d7"
+  }
+}

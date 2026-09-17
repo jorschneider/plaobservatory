@@ -30,7 +30,7 @@
     },
     {
       "path": "chapters/06-after-the-signature.md",
-      "sha256": "0b9b16c0d94d8a8fe7d52f3ad1abb36df051ab9f3262bcccb2fce346c7aa760c"
+      "sha256": "9c325e8ea83061d1f1526c12f82958f2e61ad79a339a546ff560c492e6deaa95"
     },
     {
       "path": "chapters/07-rival-partner-supplier.md",
@@ -38,7 +38,7 @@
     },
     {
       "path": "chapters/08-what-survives-solomon.md",
-      "sha256": "414aa24f275722ca903ffb908bb4032b52443cb725eb7a326edb69a0ca8d9e1b"
+      "sha256": "ca250e66b17d5b5bebce39d145a63ca83d06d3dc3c30bb6c36f6a0d01af61885"
     },
     {
       "path": "appendices/01-proposition-assessment.md",
@@ -46,16 +46,16 @@
     },
     {
       "path": "appendices/02-chronology.md",
-      "sha256": "be5fede93aeec5f05b6d488ae4fd3373be2bfb5284b7ce8ffea3fe86186551d0"
+      "sha256": "91821d898ad5a72a36b454936f569eb42ab199629dad52cff3bf552a0703047b"
     },
     {
       "path": "appendices/03-bibliography-and-sources.md",
-      "sha256": "ea321adc6e6787c692b00524c601b20c97d8761fc3925d0cdffcb8e867dab821"
+      "sha256": "6591e67191600f14bd9c62b2aa9deeb3c7860684a48d1b710b8ad99a7e32834f"
     }
   ],
   "output": {
     "path": "reading-edition.html",
-    "sha256": "56fb9323b11d5135b024e0e7b781f284c2a6f7928de8e4cf5597453c37f51fbe"
+    "sha256": "4905e81e9940dbb9a0614fb96902eb44b6d5ea20502fb102ac75df440d57e21b"
   },
   "note": "Integrity and rendering record; not a claim that historical assertions are mechanically verified."
 }

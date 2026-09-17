@@ -1,0 +1,428 @@
+{
+  "title": "Sunnylands 2023: bounded process-evidence follow-up",
+  "research_date": "2026-09-17",
+  "memo": "sunnylands-2023-process-followup.md",
+  "scope": "November 2023 bargain, with 2021 undertaking and 2022 suspension baselines; participant reporting through January 2024 and one December 2024 expert interview. No 2026 implementation survey.",
+  "source_counts": {
+    "new_unique_documents_with_complete_published_text_read": 11,
+    "existing_documents_reread": 2,
+    "new_peer_reviewed_or_scholarly_full_text_readings": 0
+  },
+  "sources": [
+    {
+      "id": "SNY01",
+      "title": "关于加强合作应对气候危机的阳光之乡声明 / The Sunnylands Statement on Enhancing Cooperation to Address the Climate Crisis",
+      "url": "https://www.mee.gov.cn/ywdt/hjywnews/202311/t20231115_1056452.shtml",
+      "publication_date": "2023-11-15 on MEE; statement released November 14 US time",
+      "source_type": "Primary joint statement, paired Chinese and English versions",
+      "reading_date": "2026-09-17",
+      "reading_depth": "Complete published substantive text",
+      "reading_scope": "All 25 numbered paragraphs, introduction and section headings in both languages. One bilingual publication, not two independent sources.",
+      "decisive_locators": "Paragraphs 4, 6, 10–11, 21 and 24.",
+      "limits": "Agreed public text does not reveal drafting sequence, private instructions or implementation. Current MEE capture places the 2020s phrase at the start of Chinese paragraph 6 and the end of English paragraph 6; do not reproduce an older press claim that the Chinese text lacks it without recovering that earlier version.",
+      "new_unique_document": true,
+      "captures": [
+        {
+          "path": "/Users/jorsc/.codex/.chatgpt-projects/g-p-6a94dd290a988191911d85ae8fe94a6c/tmp/pdfs/research-2026-09-17/climate-2023/sunnylands-joint.html",
+          "bytes": 66390,
+          "sha256": "8e1a616c507e9b0468792dea7ced4a93ca9cb83b4cc49f004693fd0b9cfcc4e9",
+          "status": "Public original publisher capture"
+        },
+        {
+          "path": "/Users/jorsc/.codex/.chatgpt-projects/g-p-6a94dd290a988191911d85ae8fe94a6c/tmp/pdfs/research-2026-09-17/climate-2023/sunnylands-joint.txt",
+          "bytes": 25122,
+          "sha256": "419a8394646e51c98c40d43472d7275d6db0b79c773e056037d6420ed94c7b9a",
+          "status": "Derived text, not an independent source"
+        }
+      ],
+      "event_dates": [
+        "2023-07-16 to 2023-07-19, Beijing talks",
+        "2023-11-04 to 2023-11-07, Sunnylands talks"
+      ]
+    },
+    {
+      "id": "SNY02",
+      "title": "甲烷排放控制行动方案",
+      "url": "https://www.gov.cn/zhengce/zhengceku/202311/P020231108286196652433.pdf",
+      "publication_date": "2023-11-07 issuance; government attachment hosted in November 2023",
+      "source_type": "Primary domestic action plan",
+      "reading_date": "2026-09-17",
+      "reading_depth": "Complete published substantive text",
+      "reading_scope": "All 11 PDF pages, printed pages 4–14, including all four sections and 20 numbered tasks. Visual checks of physical pages 3 and 10 (printed 6 and 13).",
+      "decisive_locators": "Printed 4: capacity gaps; 5–7: principles and overall goals; 8–10: sectoral quantities; 12–13: standards/cooperation; 13–14: organization and evaluation.",
+      "limits": "No economy-wide quantified methane emissions reduction target. Sectoral utilization percentages are not methane reduction percentages. This read checks commitments, not subsequent performance.",
+      "new_unique_document": true,
+      "captures": [
+        {
+          "path": "/Users/jorsc/.codex/.chatgpt-projects/g-p-6a94dd290a988191911d85ae8fe94a6c/tmp/pdfs/research-2026-09-17/climate-2023/methane-plan.pdf",
+          "bytes": 408660,
+          "sha256": "6848b16411784a30ac46f7e6a8409bcffd65f4f9fb738d3ed6447326554450db",
+          "status": "Public original publisher capture"
+        },
+        {
+          "path": "/Users/jorsc/.codex/.chatgpt-projects/g-p-6a94dd290a988191911d85ae8fe94a6c/tmp/pdfs/research-2026-09-17/climate-2023/methane-plan.txt",
+          "bytes": 13439,
+          "sha256": "ec40e25f965a113ec9f3e49be6c42c5423b5af718e428bbe1f5343f057aedc84",
+          "status": "Derived text, not an independent source"
+        }
+      ],
+      "visual_checks": [
+        {
+          "path": "/Users/jorsc/.codex/.chatgpt-projects/g-p-6a94dd290a988191911d85ae8fe94a6c/tmp/pdfs/research-2026-09-17/climate-2023/methane-plan-p3.png",
+          "bytes": 229552,
+          "sha256": "9fc54ab4a32cde33fd1947521296eb0bb9cabce255d047f60296eb5c5f824db0",
+          "status": "Rendered physical page 3; visually inspected"
+        },
+        {
+          "path": "/Users/jorsc/.codex/.chatgpt-projects/g-p-6a94dd290a988191911d85ae8fe94a6c/tmp/pdfs/research-2026-09-17/climate-2023/methane-plan-p10.png",
+          "bytes": 238759,
+          "sha256": "672dee6abc9439957964356892a593da9137898702995deb580203d9acd1e3fe",
+          "status": "Rendered physical page 10; visually inspected"
+        }
+      ]
+    },
+    {
+      "id": "SNY03",
+      "title": "生态环境部等11部门关于印发《甲烷排放控制行动方案》的通知, 环气候〔2023〕67号",
+      "url": "https://www.mee.gov.cn/xxgk2018/xxgk/xxgk03/202311/t20231107_1055437.html",
+      "publication_date": "2023-11-07",
+      "source_type": "Primary issuance notice",
+      "reading_date": "2026-09-17",
+      "reading_depth": "Complete published substantive text",
+      "reading_scope": "Complete notice, metadata, eleven issuing departments and attachment identification.",
+      "decisive_locators": "Opening operative sentence; eleven departmental names and issuance date.",
+      "limits": "State Council approval of this domestic plan does not establish the content or date of Xie’s negotiating instructions.",
+      "new_unique_document": true,
+      "captures": [
+        {
+          "path": "/Users/jorsc/.codex/.chatgpt-projects/g-p-6a94dd290a988191911d85ae8fe94a6c/tmp/pdfs/research-2026-09-17/climate-2023/methane-notice.html",
+          "bytes": 46995,
+          "sha256": "78837ca702a20c8762fc99dad03aafba23cf9c8bd1d1b43bd377c6d41fbf6526",
+          "status": "Public original publisher capture"
+        },
+        {
+          "path": "/Users/jorsc/.codex/.chatgpt-projects/g-p-6a94dd290a988191911d85ae8fe94a6c/tmp/pdfs/research-2026-09-17/climate-2023/methane-notice.txt",
+          "bytes": 6229,
+          "sha256": "27e9d8be8952e38ef6a5b39ddb70c0df2bd621197c3d6cb31cbd5860db519c0d",
+          "status": "Derived text, not an independent source"
+        }
+      ]
+    },
+    {
+      "id": "SNY04",
+      "title": "生态环境部应对气候变化司负责人就《甲烷排放控制行动方案》有关问题答记者问",
+      "url": "https://www.mee.gov.cn/ywdt/zbft/202311/t20231109_1055600.shtml",
+      "publication_date": "2023-11-09",
+      "source_type": "Primary official policy Q&A",
+      "reading_date": "2026-09-17",
+      "reading_depth": "Complete published substantive text",
+      "reading_scope": "Introduction and all four questions and complete answers.",
+      "decisive_locators": "Questions 1–2 on policy lineage and industry capacity; question 4 on implementation roles.",
+      "limits": "Official explanation, not a participant account of Sunnylands bargaining; the official is identified by office, not name.",
+      "new_unique_document": true,
+      "captures": [
+        {
+          "path": "/Users/jorsc/.codex/.chatgpt-projects/g-p-6a94dd290a988191911d85ae8fe94a6c/tmp/pdfs/research-2026-09-17/climate-2023/methane-qa.html",
+          "bytes": 50118,
+          "sha256": "5ef558d20d0bfe3f8885493a65138dd3e8e1e77a7501ae9bd849b223e792df1f",
+          "status": "Public original publisher capture"
+        },
+        {
+          "path": "/Users/jorsc/.codex/.chatgpt-projects/g-p-6a94dd290a988191911d85ae8fe94a6c/tmp/pdfs/research-2026-09-17/climate-2023/methane-qa.txt",
+          "bytes": 9533,
+          "sha256": "03820c73268d6ee011ce86274a3893c2b1ae28af7927006946a1255dd3c108e9",
+          "status": "Derived text, not an independent source"
+        }
+      ]
+    },
+    {
+      "id": "SNY05",
+      "title": "中美关于在21世纪20年代强化气候行动的格拉斯哥联合宣言",
+      "url": "https://www.mee.gov.cn/xxgk/hjyw/202111/t20211111_959900.shtml",
+      "publication_date": "2021-11-11 on MEE; Glasgow announcement November 10 local time",
+      "source_type": "Primary joint declaration, Chinese version",
+      "reading_date": "2026-09-17",
+      "reading_depth": "Complete published substantive text",
+      "reading_scope": "All 16 numbered paragraphs and subparagraphs.",
+      "decisive_locators": "VIII(3)(2): Chinese methane plan; VIII(4): proposed first-half 2022 meeting; XV: 2035 NDC communication; XVI: proposed working group.",
+      "limits": "The text establishes an earlier undertaking, not actual completion on the planned timetable. It is not evidence that China accepted the Global Methane Pledge’s collective percentage.",
+      "new_unique_document": true,
+      "captures": [
+        {
+          "path": "/Users/jorsc/.codex/.chatgpt-projects/g-p-6a94dd290a988191911d85ae8fe94a6c/tmp/pdfs/research-2026-09-17/climate-2023/glasgow-2021.html",
+          "bytes": 71849,
+          "sha256": "1f8035c6bf2e8c51f497260a09b4b0f90d9f2916999240ac9824c3056648ddf6",
+          "status": "Public original publisher capture"
+        },
+        {
+          "path": "/Users/jorsc/.codex/.chatgpt-projects/g-p-6a94dd290a988191911d85ae8fe94a6c/tmp/pdfs/research-2026-09-17/climate-2023/glasgow-2021.txt",
+          "bytes": 11892,
+          "sha256": "2078939184414288b1d522f35baecc2531b27cacd42efa2f11ab723694b19ed3",
+          "status": "Derived text, not an independent source"
+        }
+      ]
+    },
+    {
+      "id": "SNY06",
+      "title": "解振华介绍中美气候磋商近况：与克里几乎每隔两周举行一次视频会",
+      "url": "https://www.thepaper.cn/newsDetail_forward_24698598",
+      "publication_date": "2023-09-21 22:41",
+      "source_type": "Original contemporaneous reporting of participant public remarks",
+      "reading_date": "2026-09-17",
+      "reading_depth": "Complete published substantive text",
+      "reading_scope": "Entire substantive article, derived lines 16–27, plus author/date metadata. Not a full speech transcript.",
+      "decisive_locators": "Opening account of July talks and fortnightly calls; four priorities and final trade-policy appeal.",
+      "limits": "Reports Xie’s stated preferences before Sunnylands, without US responses, draft exchanges or private authorization. A proposal to travel is not proof of a concession mandate.",
+      "new_unique_document": true,
+      "captures": [
+        {
+          "path": "/Users/jorsc/.codex/.chatgpt-projects/g-p-6a94dd290a988191911d85ae8fe94a6c/tmp/pdfs/research-2026-09-17/climate-2023/xie-september-2023.html",
+          "bytes": 27030,
+          "sha256": "0a05e1734bd4c6364c8b3879d90c3ec4910cb3e12647114cffe55c61479a83c3",
+          "status": "Public original publisher capture"
+        },
+        {
+          "path": "/Users/jorsc/.codex/.chatgpt-projects/g-p-6a94dd290a988191911d85ae8fe94a6c/tmp/pdfs/research-2026-09-17/climate-2023/xie-september-2023.txt",
+          "bytes": 4786,
+          "sha256": "6080c370f8c4678f64174e64aabc4a448542841d06250ac60592c73fa5ad7279",
+          "status": "Derived text, not an independent source"
+        }
+      ],
+      "author": "Wang Lu / 王露, The Paper",
+      "event_date": "2023-09-21, ninth China and Globalization Forum, Beijing"
+    },
+    {
+      "id": "SNY07",
+      "title": "US climate envoy John Kerry hails constructive talks with China ahead of COP28",
+      "url": "https://www.channelnewsasia.com/sustainability/usa-climate-envoy-john-kerry-cop28-china-environmental-sustainability-3912601",
+      "publication_date": "2023-11-10; updated 2023-11-13",
+      "source_type": "Original reporting including direct Kerry interview",
+      "reading_date": "2026-09-17",
+      "reading_depth": "Complete published substantive text",
+      "reading_scope": "Complete substantive article, derived lines 916–963, including environmental action, COP presidency, financing and transition sections. Audio/video not examined.",
+      "decisive_locators": "Opening direct CNA interview; environmental action and loss-and-damage passages.",
+      "limits": "Provides Kerry’s positive assessment and priorities, not the specific Sunnylands exchange. Relative timing of the methane plan in the article is less precise than the dated Chinese issuance notice.",
+      "new_unique_document": true,
+      "captures": [
+        {
+          "path": "/Users/jorsc/.codex/.chatgpt-projects/g-p-6a94dd290a988191911d85ae8fe94a6c/tmp/pdfs/research-2026-09-17/climate-2023/kerry-cna-nov10.html",
+          "bytes": 511900,
+          "sha256": "3263a1a10f67a2b4950615e212cab0744baebf2756e834e9b9f0063b1abc5d8c",
+          "status": "Public original publisher capture"
+        },
+        {
+          "path": "/Users/jorsc/.codex/.chatgpt-projects/g-p-6a94dd290a988191911d85ae8fe94a6c/tmp/pdfs/research-2026-09-17/climate-2023/kerry-cna-nov10.txt",
+          "bytes": 14798,
+          "sha256": "961a889d1c510f5825ed268c69b66797128b4fc67a38bbd0e34980b110a58a7a",
+          "status": "Derived text, not an independent source"
+        }
+      ],
+      "author": "Darrelle Ng, CNA"
+    },
+    {
+      "id": "SNY08",
+      "title": "US-China climate relations brace for US election, envoy change",
+      "url": "https://www.bworldonline.com/world/2023/12/22/565276/us-china-climate-relations-brace-for-us-election-envoy-change/",
+      "publication_date": "2023-12-22, BusinessWorld reproduction",
+      "source_type": "Reuters original reporting and Kerry interview, read in credited reproduction",
+      "reading_date": "2026-09-17",
+      "reading_depth": "Complete published substantive text",
+      "reading_scope": "All substantive paragraphs, local lines 104–138; web body lines 84–134. Full published article, not full underlying interview.",
+      "decisive_locators": "Opening Sunnylands wording narrative; PERSONAL DIPLOMACY, especially Kerry’s institutional-process answer.",
+      "limits": "The assertion that substitution language essentially equals phase-out is the reporter’s interpretation, not adopted. Its Pelosi year of 2021 is erroneous; the primary countermeasure notice is August 2022. No underlying drafts or complete interview supplied.",
+      "new_unique_document": true,
+      "captures": [
+        {
+          "path": "/Users/jorsc/.codex/.chatgpt-projects/g-p-6a94dd290a988191911d85ae8fe94a6c/tmp/pdfs/research-2026-09-17/climate-2023/kerry-reuters-dec22.html",
+          "bytes": 163006,
+          "sha256": "8b904db933cd88a98988150f68d840b315cbc5146ef8e7ce54a7d11ecd1353fc",
+          "status": "Public original publisher capture"
+        },
+        {
+          "path": "/Users/jorsc/.codex/.chatgpt-projects/g-p-6a94dd290a988191911d85ae8fe94a6c/tmp/pdfs/research-2026-09-17/climate-2023/kerry-reuters-dec22.txt",
+          "bytes": 9916,
+          "sha256": "a2e823d2457ddf84cd21b5d3c9d0cd73b21183afba368439119021331fa3e298",
+          "status": "Derived text, not an independent source"
+        }
+      ],
+      "source_dependence": "One Reuters reporting chain; BusinessWorld supplies a public reproduction, not independent corroboration."
+    },
+    {
+      "id": "SNY09",
+      "title": "The Climate Envoys Who Could",
+      "url": "https://foreignpolicy.com/2023/12/08/us-china-kerry-xie-climate-cooperation-cop28/",
+      "publication_date": "2023-12-08",
+      "source_type": "Original interview-based reporting",
+      "reading_date": "2026-09-17",
+      "reading_depth": "Complete published substantive text",
+      "reading_scope": "Complete substantive article and captions, derived lines 250–407; duplicate opening and unrelated recommended-article blocks distinguished.",
+      "decisive_locators": "Line 281: extended California negotiations; lines 301–325: named recollections of earlier diplomacy; lines 333–355: institutional and political context; line 384: Pershing interpretation.",
+      "limits": "Nightly hours and hotel continuation are attributed to two unnamed experts familiar with discussions, not a recovered meeting record. Earlier officials’ views are not automatically eyewitness evidence about Sunnylands. Several historical claims reuse memoirs.",
+      "new_unique_document": true,
+      "captures": [
+        {
+          "path": "/Users/jorsc/.codex/.chatgpt-projects/g-p-6a94dd290a988191911d85ae8fe94a6c/tmp/pdfs/research-2026-09-17/climate-2023/kerry-xie-fp.html",
+          "bytes": 509515,
+          "sha256": "f609013724e675e2806d0f9503d159c509ec695cf2ad01bb09ede047f29a6d0d",
+          "status": "Public original publisher capture"
+        },
+        {
+          "path": "/Users/jorsc/.codex/.chatgpt-projects/g-p-6a94dd290a988191911d85ae8fe94a6c/tmp/pdfs/research-2026-09-17/climate-2023/kerry-xie-fp.txt",
+          "bytes": 34259,
+          "sha256": "78ffec0ef22319f47e844c3d2ba36ed08bbbde7101a23164f16bea36c1222c14",
+          "status": "Derived text, not an independent source"
+        }
+      ],
+      "author": "Lili Pike, Foreign Policy"
+    },
+    {
+      "id": "SNY10",
+      "title": "解振华卸任气候特使，COP28成绝唱",
+      "url": "https://www.mycaijing.com/article/detail/510599?source_id=40",
+      "publication_date": "2024-01-13 19:00",
+      "source_type": "Original reported profile, including reporter’s attendance and direct participant remarks",
+      "reading_date": "2026-09-17",
+      "reading_depth": "Complete published substantive text",
+      "reading_scope": "Complete article, all three titled sections, captions and metadata; local substantive lines 11–59; web lines 13–102. Neither full press-conference transcript nor interview recording recovered.",
+      "decisive_locators": "特殊的友谊: 2022 press conference, eight letters and informal consultations; 阐释中国立场: December 4 methane explanation; first section: December 13 evaluation.",
+      "limits": "Xie’s attribution of responsibility for suspension remains his position. Correspondence is reported, not inspected. COP28 compromise remarks are not proof of the preceding Sunnylands quid pro quo. The article’s categorical claims about fulfilment are not adopted.",
+      "new_unique_document": true,
+      "captures": [
+        {
+          "path": "/Users/jorsc/.codex/.chatgpt-projects/g-p-6a94dd290a988191911d85ae8fe94a6c/tmp/pdfs/research-2026-09-17/climate-2023/xie-caijing-2024.html",
+          "bytes": 37967,
+          "sha256": "8a026a9ff39efbc7960b33c374c2a975a9cd2b35c4f7ee37fe7edf90a4b8a045",
+          "status": "Public original publisher capture"
+        },
+        {
+          "path": "/Users/jorsc/.codex/.chatgpt-projects/g-p-6a94dd290a988191911d85ae8fe94a6c/tmp/pdfs/research-2026-09-17/climate-2023/xie-caijing-2024.txt",
+          "bytes": 13391,
+          "sha256": "2afd680d260dccc06f5683ead09b4ffea4fcddfa4363e0bc052928030c3bd5ce",
+          "status": "Derived text, not an independent source"
+        }
+      ],
+      "author": "Han Shulin / 韩舒淋, Caijing; editor Ma Ke / 马克"
+    },
+    {
+      "id": "SNY11",
+      "title": "What Comes Next for U.S.-China Climate Cooperation",
+      "url": "https://uschinadialogue.georgetown.edu/podcasts/what-comes-next-for-u-s-china-climate-cooperation",
+      "publication_date": "2024-12-04",
+      "source_type": "Original scholar interview transcript; expert analysis, not a peer-reviewed process study",
+      "reading_date": "2026-09-17",
+      "reading_depth": "Complete published substantive text",
+      "reading_scope": "All transcript questions and answers, local lines 62–145, plus introduction and outro; audio not listened to.",
+      "decisive_locators": "Kerry–Xie retrospective answer; Podesta–Liu answer; final answer on nongovernmental participation.",
+      "limits": "Lewis leads relevant dialogues but does not claim to provide Sunnylands minutes. Predictions are as of December 2024 and are not treated as 2026 outcomes. Her broad almost-a-year suspension shorthand is not used to erase earlier informal contacts.",
+      "new_unique_document": true,
+      "captures": [
+        {
+          "path": "/Users/jorsc/.codex/.chatgpt-projects/g-p-6a94dd290a988191911d85ae8fe94a6c/tmp/pdfs/research-2026-09-17/climate-2023/lewis-georgetown-2024.html",
+          "bytes": 79982,
+          "sha256": "8bf7be50e1923de8aa7447a1ba5fce8aa9d500690a8f11703d155fe2b26ad304",
+          "status": "Public original publisher capture"
+        },
+        {
+          "path": "/Users/jorsc/.codex/.chatgpt-projects/g-p-6a94dd290a988191911d85ae8fe94a6c/tmp/pdfs/research-2026-09-17/climate-2023/lewis-georgetown-2024.txt",
+          "bytes": 26547,
+          "sha256": "bcc88cdbb8dcb50c181a4cd492f711b9412b55256ee5b4022855d72a3dd83df0",
+          "status": "Derived text, not an independent source"
+        }
+      ],
+      "speaker": "Joanna Lewis",
+      "interviewer": "Eleanor M. Albert"
+    },
+    {
+      "id": "SNY12",
+      "title": "“气候特使”解振华 谈判桌上16年",
+      "url": "https://www.chinanews.com.cn/gn/2024/01-07/10141840.shtml",
+      "publication_date": {
+        "sina_display": "2024-01-06 07:01",
+        "cns_display": "2024-01-07 14:15:53",
+        "magazine_issue": "2024-01-08"
+      },
+      "source_type": "Original reported profile with named participant interviews and reused earlier accounts, read in publisher-group and media reproductions",
+      "reading_date": "2026-09-17",
+      "reading_depth": "Selected rereading of existing complete reading",
+      "reading_scope": "2023 opening (Su Wei’s COP28 wording account), and concluding section from Xie’s 2021 reappointment through the final quote; especially local CNS lines 373–384. Earlier full reading remains CCH04, not a new document count.",
+      "decisive_locators": "Zou Ji’s Los Angeles hotel observation and expectation of substantive working-group discussion; Jia Feng’s institutional account.",
+      "limits": "The article explicitly reuses Foreign Policy in another passage. The named Zou observation is separately attributed, but no complete interview transcript is supplied. Hotel discussion of arrangements does not establish a particular concession.",
+      "new_unique_document": false,
+      "existing_source_id": "CCH04",
+      "existing_register": "chinese-climate-participants-register.json",
+      "captures": [
+        {
+          "path": "/Users/jorsc/.codex/.chatgpt-projects/g-p-6a94dd290a988191911d85ae8fe94a6c/tmp/pdfs/research-2026-09-15/chinese-climate/CCH04-2024-profile-cns.html",
+          "bytes": 105086,
+          "sha256": "dd208667113c3d44baa3d890ea3f8771363c255d6f5f30a15cd0c75f5c2bf6fb",
+          "status": "China News Service HTML crediting China Newsweek and naming reporter and magazine issue",
+          "retrieval_date": "2026-09-15"
+        },
+        {
+          "path": "/Users/jorsc/.codex/.chatgpt-projects/g-p-6a94dd290a988191911d85ae8fe94a6c/tmp/pdfs/research-2026-09-15/chinese-climate/CCH04-2024-profile-cns.txt",
+          "bytes": 34741,
+          "sha256": "ea4517c841833e76a9ea7df7dde363da9826e834d3cdf37eab85b241df1dc43b",
+          "status": "Derived text from the paired HTML, not an independent source",
+          "retrieval_date": "2026-09-15"
+        }
+      ]
+    },
+    {
+      "id": "SNY13",
+      "title": "外交部宣布针对佩洛西窜台反制措施",
+      "url": "https://www.fmprc.gov.cn/zyxw/202208/t20220805_10735604.shtml",
+      "publication_date": "2022-08-05",
+      "source_type": "Primary public countermeasure announcement",
+      "reading_date": "2026-09-17",
+      "reading_depth": "Complete rereading of existing short statement",
+      "reading_scope": "Introductory justification and all eight countermeasures.",
+      "decisive_locators": "Measure VIII suspends climate talks.",
+      "limits": "An official suspension of talks does not itself establish that all informal contacts ceased.",
+      "new_unique_document": false,
+      "existing_source_id": "C23-01",
+      "existing_register": "../../sources/us-china-crisis-2023-register.json",
+      "captures": [
+        {
+          "path": "/Users/jorsc/.codex/.chatgpt-projects/g-p-6a94dd290a988191911d85ae8fe94a6c/tmp/pdfs/research-2026-09-15/crisis-2023/01-mfa-2022-suspensions.html",
+          "bytes": 59537,
+          "sha256": "87cd5ba1163406531cbee9116f8b16ffcff328d9e1cd210e38b4633d2f655e21"
+        }
+      ]
+    }
+  ],
+  "acquisition_limits": [
+    {
+      "url": "https://2021-2025.state.gov/special-presidential-envoy-for-climate-john-kerrys-remarks-at-the-center-for-foreign-relations/",
+      "status": "Direct HTML and browser open returned Technical Difficulties; indexed excerpts were discovery only, not counted as acquired speech.",
+      "capture": {
+        "path": "/Users/jorsc/.codex/.chatgpt-projects/g-p-6a94dd290a988191911d85ae8fe94a6c/tmp/pdfs/research-2026-09-17/climate-2023/kerry-cfr-state.html",
+        "bytes": 188865,
+        "sha256": "359e3b8b6b844d69fa29bd39c40f970af1586af0500dcda1f98a302721eafe1d",
+        "status": "Failed target: technical difficulties page"
+      }
+    },
+    {
+      "url": "https://2021-2025.state.gov/cop28-briefing-with-special-presidential-envoy-for-climate-john-kerry/",
+      "status": "Browser open returned Technical Difficulties. Search excerpt not used as a full transcript."
+    },
+    {
+      "url": "https://www.shorenewsnetwork.com/2023/11/10/us-china-reach-understandings/",
+      "status": "Direct download returned 404; web open cache miss. Expanded search result displayed the short Reuters article, but no preserved full publisher page was acquired; not included in substantive source count."
+    },
+    {
+      "url": "https://www.cfr.org/all-cfr-presents?page=58&regions=All&sort_by=field_display_date_value&sort_order=DESC&topics=All",
+      "status": "Listing captured as discovery only; relevant March 2024 event transcript not recovered."
+    }
+  ],
+  "reading_basis": {
+    "chapter": "../chapters/03-usable-expertise.md",
+    "chapter_sha256": "0d5964e25235c77134c172808a08318f22a46b1d293897e35f1e33bb58b931ca",
+    "chapter_scope": "Entire current climate narrative, from What Copenhagen left unfinished through its closing trade comparison and transition to Prueher. Source notes and existing registers checked selectively; this is not a new full-chapter reading claim.",
+    "prior_registers_consulted": [
+      "../../sources/climate-2009-2015-register.json",
+      "chapter-03-climate-development-register.json",
+      "chinese-climate-participants-register.json",
+      "../../literature/readings/climate-change-mechanisms-register.json"
+    ]
+  }
+}
