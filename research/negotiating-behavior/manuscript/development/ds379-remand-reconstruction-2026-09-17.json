@@ -1,0 +1,135 @@
+{
+  "title": "Reconstructing the 2016 withdrawal of the sacks adjustment",
+  "research_date": "2026-09-17",
+  "memo": "ds379-remand-reconstruction-2026-09-17.md",
+  "source_count": 2,
+  "sources": [
+    {
+      "id": "DSR16-01",
+      "title": "Wheatland Tube Co. v. United States, Slip Op.14-137",
+      "issuing_body": "US Court of International Trade; Judge Leo M. Gordon",
+      "document_date": "2014-11-26",
+      "url": "https://www.cit.uscourts.gov/sites/cit/files/14-137.pdf",
+      "source_type": "Primary judicial opinion and order",
+      "reading_scope": "Complete 30-page opinion, including notes, read from local extraction in consecutive bounded segments. Page29 visually checked.",
+      "decisive_locators": "Pages18–23 reject claims that the statute unambiguously assigns the burden only to China or forbids indirect evidence; pages24–30 require further explanation of contrary pricing evidence.",
+      "limits": "This is the circular-welded-pipe litigation, not the later sacks remand. Court reasoning is not a WTO compliance ruling. Underlying party briefs and exhibits were not acquired. No current statement of US judicial-review doctrine is inferred from the historical Chevron discussion.",
+      "captures": [
+        {
+          "path": "/Users/jorsc/.codex/.chatgpt-projects/g-p-6a94dd290a988191911d85ae8fe94a6c/tmp/pdfs/research-2026-09-17/ds379-remand/wheatland-14-137.pdf",
+          "sha256": "20baf0e5822b3453be9a8ff957bce59460c6f0c49629dda73009c4387095502c",
+          "bytes": 541433,
+          "format": "Official PDF"
+        },
+        {
+          "path": "/Users/jorsc/.codex/.chatgpt-projects/g-p-6a94dd290a988191911d85ae8fe94a6c/tmp/pdfs/research-2026-09-17/ds379-remand/wheatland-14-137.txt",
+          "sha256": "93fce961aa439e01635b38d9dfa50198d585a501a866f8f52995e97d933c99a6",
+          "bytes": 58921,
+          "format": "Derived text"
+        },
+        {
+          "path": "/Users/jorsc/.codex/.chatgpt-projects/g-p-6a94dd290a988191911d85ae8fe94a6c/tmp/pdfs/research-2026-09-17/ds379-remand/wheatland-p29.png",
+          "sha256": "b32c86e86f8eed58e5c175e3f4b0ec786e161c7992d5c25647d4263f61510660",
+          "bytes": 225134,
+          "format": "Visual check"
+        }
+      ]
+    },
+    {
+      "id": "DSR16-02",
+      "title": "Redetermination Pursuant to Court Remand, Laminated Woven Sacks Committee v. United States, Court No.12-00301",
+      "issuing_body": "US Department of Commerce; Paul Piquado",
+      "document_date": "2016-03-23 issuance reported in Federal Register; signed page visibly dated March21",
+      "url": "https://web.archive.org/web/20160928151717id_/http://enforcement.trade.gov/remands/12-00301.pdf",
+      "original_url": "http://enforcement.trade.gov/remands/12-00301.pdf",
+      "source_type": "Primary agency remand decision, preserved official PDF",
+      "reading_scope": "All ten pages read: extracted pages1–7 and9–10; scanned page8 visually read and transcribed. Page6 visually checked as well.",
+      "decisive_locators": "Page1 and note3: December21,2015 questionnaires and reported absence of replies/comments/extension requests. Pages4–6: pipe-litigation sequence, revised method and exact requested example. Pages7–8: comments and denial. Pages9–10: cash-deposit table.",
+      "limits": "No original questionnaire, delivery record or company explanation recovered. Nonresponse is the agency's account; no motive inferred. Page3 repeats the older passage's CWP reference inside the sacks memorandum; that wording is not used as sacks-specific economic proof. Issuance, signature, court judgment and effective-date stages remain distinct.",
+      "captures": [
+        {
+          "path": "/Users/jorsc/.codex/.chatgpt-projects/g-p-6a94dd290a988191911d85ae8fe94a6c/tmp/pdfs/research-2026-09-17/ds379-remand/sacks-2016-remand-archive.pdf",
+          "sha256": "a2b43eebf955db9c7ed18530aa2346422d63a03dc04f4660454d5338d404443c",
+          "bytes": 227130,
+          "format": "Archived official PDF"
+        },
+        {
+          "path": "/Users/jorsc/.codex/.chatgpt-projects/g-p-6a94dd290a988191911d85ae8fe94a6c/tmp/pdfs/research-2026-09-17/ds379-remand/sacks-2016-remand-archive.txt",
+          "sha256": "38e60accc030b37a7a72a2360a62a8938799d6f16812b5da85ab4c58626fb906",
+          "bytes": 18046,
+          "format": "Derived text, missing scanned page8"
+        },
+        {
+          "path": "/Users/jorsc/.codex/.chatgpt-projects/g-p-6a94dd290a988191911d85ae8fe94a6c/tmp/pdfs/research-2026-09-17/ds379-remand/sacks-p8.png",
+          "sha256": "49743079cf18756bf007d841fcd7b5bedf7e0e379ff8d809105d6831e0eb424f",
+          "bytes": 127778,
+          "format": "Complete scanned page visually read"
+        },
+        {
+          "path": "/Users/jorsc/.codex/.chatgpt-projects/g-p-6a94dd290a988191911d85ae8fe94a6c/tmp/pdfs/research-2026-09-17/ds379-remand/sacks-p6.png",
+          "sha256": "224158cba519f9129d666666080cf36831a4b01d264b017c6d7a600ee8334aed",
+          "bytes": 214456,
+          "format": "Visual check"
+        },
+        {
+          "path": "/Users/jorsc/.codex/.chatgpt-projects/g-p-6a94dd290a988191911d85ae8fe94a6c/tmp/pdfs/research-2026-09-17/ds379-remand/sacks-p8-transcription.txt",
+          "sha256": "979e88db58e9a47a05b22455de349e8490fc6ac0d66a6d6944c9eca28ef10950",
+          "bytes": 975,
+          "format": "Manual transcription of scanned page8"
+        }
+      ]
+    }
+  ],
+  "reused_sources": [
+    {
+      "id": "DEV-DS04",
+      "scope": "Complete target Federal Register notice reread through web, printed23457–23459; separate notices on shared pages excluded."
+    },
+    {
+      "id": "DEV-DS05",
+      "scope": "Complete one-page Slip Op.16-30 reread through web."
+    }
+  ],
+  "acquisition_record": {
+    "archive_indexes": [
+      {
+        "path": "/Users/jorsc/.codex/.chatgpt-projects/g-p-6a94dd290a988191911d85ae8fe94a6c/tmp/pdfs/research-2026-09-17/ds379-remand/sacks-archive-index.json",
+        "sha256": "7b1619e10563947d4d882c3dfecac989c7dca001becfa3e6bee36888916281f7",
+        "bytes": 264,
+        "format": "CDX discovery"
+      },
+      {
+        "path": "/Users/jorsc/.codex/.chatgpt-projects/g-p-6a94dd290a988191911d85ae8fe94a6c/tmp/pdfs/research-2026-09-17/ds379-remand/sacks-access-archive-index.json",
+        "sha256": "c78218a38fd8d8e33b8863380de886ee1006eae6e52f940933b2c715c58a1ed8",
+        "bytes": 275,
+        "format": "CDX discovery"
+      }
+    ],
+    "failed_access": [
+      "Both lower-case and capitalized Resources paths on access.trade.gov returned404.",
+      "Current enforcement.trade.gov remand URLs returned an unrelated scientific-instrument duty-free-entry form; successful HTTP status was not accepted as successful document acquisition.",
+      "The archived September28,2016 original was successfully obtained; its title, case, content and signature page identify the sought decision."
+    ],
+    "misdirected_captures": [
+      {
+        "path": "/Users/jorsc/.codex/.chatgpt-projects/g-p-6a94dd290a988191911d85ae8fe94a6c/tmp/pdfs/research-2026-09-17/ds379-remand/misdirected-sacks-2016-remand.pdf",
+        "sha256": "9bbe203f93d86475186b89e577be8c4c9d1a360f821fbe94912da5e9bf8e75ad",
+        "bytes": 479405,
+        "format": "Wrong target, not substantive evidence"
+      },
+      {
+        "path": "/Users/jorsc/.codex/.chatgpt-projects/g-p-6a94dd290a988191911d85ae8fe94a6c/tmp/pdfs/research-2026-09-17/ds379-remand/misdirected-cwp-2015-ad-remand.pdf",
+        "sha256": "9bbe203f93d86475186b89e577be8c4c9d1a360f821fbe94912da5e9bf8e75ad",
+        "bytes": 479405,
+        "format": "Wrong target, not substantive evidence"
+      },
+      {
+        "path": "/Users/jorsc/.codex/.chatgpt-projects/g-p-6a94dd290a988191911d85ae8fe94a6c/tmp/pdfs/research-2026-09-17/ds379-remand/misdirected-cwp-2015-ad-remand.txt",
+        "sha256": "283db4bb3a2dedabb35e5a59dc656fdd1bbbac2e5d75279870cafd6ab0b10b69",
+        "bytes": 15811,
+        "format": "Derived wrong-target text"
+      }
+    ]
+  },
+  "interpretive_limit": "The sequence explains the published administrative basis for withdrawing relief, not why the firms did not respond, the WTO legality of the revised duties, or their realized commercial effect."
+}

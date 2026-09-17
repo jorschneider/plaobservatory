@@ -1,0 +1,192 @@
+{
+  "title": "February–May 2019 trade talks: bounded participant and reporter follow-up",
+  "research_date": "2026-09-17",
+  "starting_commit": "710425b47f3d600e4b69c30c71757b690d084cee",
+  "chapter_read_at_start": {
+    "path": "research/negotiating-behavior/manuscript/chapters/05-partial-trade-settlement.md",
+    "sha256_at_starting_commit": "72e37ee69067a0ee1d6a79085457815c9f14c0e6b474ddaf91ae8d9307264681",
+    "scope": "Entire body and all notes"
+  },
+  "memo": "trade-2019-participant-followup-2026-09-17.md",
+  "scope": "Contemporaneous Chinese public accounts of the May dispute and later original reporter interviews about the April approval sequence; no recovered negotiation draft or internal minutes.",
+  "source_counts": {
+    "complete_new_published_documents_read": 4,
+    "additional_selected_document_read": 1,
+    "additional_screened_document_not_used": 1,
+    "new_complete_books": 0,
+    "new_complete_scholarly_articles": 0,
+    "independence_warning": "The two Liu reports concern one event. Davis and Wei’s two interviews represent one reporter/book source chain."
+  },
+  "sources": [
+    {
+      "id": "T19P01",
+      "title": "独家|刘鹤答凤凰记者问：谈判未破裂 原则问题绝不让步",
+      "url": "https://news.ifeng.com/c/7ma1xgATP3g",
+      "publication_date": "2019-05-11 06:39:43",
+      "event_date": "2019-05-10, after May 9–10 Washington talks",
+      "source_type": "Contemporaneous participant remarks, selected and transcribed by Phoenix TV; Wang Youyou and Chen Jieyuan report from Washington",
+      "reading_date": "2026-09-17",
+      "reading_scope": "Complete published report, introduction, all transcribed Liu passages and both named reporter questions; not an unedited full press conference; embedded video not watched.",
+      "decisive_locators": "Derived text lines 27–64, particularly 39–43 (three disputes, Argentina quantity understanding, flexibility), 53–59 (detailed drafting and differentiated allegations).",
+      "limits": "Liu’s public representation of the dispute, not authenticated prior agreement or draft. Purchase amount unspecified. Phoenix and the CCTV item cover the same event.",
+      "captures": [
+        {
+          "path": "/Users/jorsc/.codex/.chatgpt-projects/g-p-6a94dd290a988191911d85ae8fe94a6c/tmp/pdfs/research-2026-09-17/trade-2019-participants/liu-phoenix-20190510.html",
+          "bytes": 71662,
+          "sha256": "ef7b984c0ad7a947d782bbd264ae1dd459d89a1fc3016a2c6b9f633b221e0d1a",
+          "status": "Public publisher capture"
+        },
+        {
+          "path": "/Users/jorsc/.codex/.chatgpt-projects/g-p-6a94dd290a988191911d85ae8fe94a6c/tmp/pdfs/research-2026-09-17/trade-2019-participants/liu-phoenix-20190510.txt",
+          "bytes": 9461,
+          "sha256": "6f005864b554d14e75a7b5c1a5c5c7b39aebb1ce44019f7b112b5b54b5706023",
+          "status": "Derived text; not an independent source"
+        }
+      ]
+    },
+    {
+      "id": "T19P02",
+      "title": "刘鹤：中美谈判没破裂 双方将在北京再见面(含视频)",
+      "url": "https://finance.sina.cn/china/gncj/2019-05-11/detail-ihvhiqax7962843.d.html",
+      "publication_date": "2019-05-11 08:09",
+      "event_date": "2019-05-10",
+      "source_type": "CCTV report reproduced by Sina; selected participant remarks",
+      "reading_date": "2026-09-17",
+      "reading_scope": "Complete published substantive report and six topical sections, 45 derived text lines; embedded video not watched.",
+      "decisive_locators": "Headings on principles, text, and continuation of negotiations.",
+      "limits": "Shorter parallel selection from the same remarks; not independent corroboration of negotiations or a full press-conference transcript. It does not contain the detailed three-dispute exchange available in T19P01.",
+      "captures": [
+        {
+          "path": "/Users/jorsc/.codex/.chatgpt-projects/g-p-6a94dd290a988191911d85ae8fe94a6c/tmp/pdfs/research-2026-09-17/trade-2019-participants/liu-cctv-20190510.html",
+          "bytes": 30865,
+          "sha256": "db742d2991343540321f1b19002fcbc153d4a48b6faa56058eddb4fe988509ac",
+          "status": "Public publisher capture"
+        },
+        {
+          "path": "/Users/jorsc/.codex/.chatgpt-projects/g-p-6a94dd290a988191911d85ae8fe94a6c/tmp/pdfs/research-2026-09-17/trade-2019-participants/liu-cctv-20190510.txt",
+          "bytes": 4448,
+          "sha256": "34efca45b18abc051044e23a56d17f94b4d24667b45a193c74eba5247fdcdf13",
+          "status": "Derived text; not an independent source"
+        }
+      ]
+    },
+    {
+      "id": "T19P03",
+      "title": "驻美国大使崔天凯接受彭博电视台“美国早间新闻栏目”采访中文实录",
+      "url": "https://www.mfa.gov.cn/gjhdq_676201/gj_676203/bmz_679954/1206_680528/1206x2_680548/201905/t20190525_9364780.shtml",
+      "publication_date": "2019-05-25 03:08",
+      "event_date": "2019-05-24",
+      "source_type": "Official Chinese translation/transcript of Ambassador Cui Tiankai’s Bloomberg TV interview, credited to the Chinese embassy in the United States",
+      "reading_date": "2026-09-17",
+      "reading_scope": "Entire interview, introduction and all questions and answers; derived text lines 103–167. English broadcast not checked.",
+      "decisive_locators": "Lines 116–119 on unfinished negotiations; lines 148–151 on negotiators and submission to leaders; lines 156–159 on an unarranged leader meeting.",
+      "limits": "A public prospective statement of expectations. It does not independently establish an April approval meeting, its membership, or Liu’s instructions. Cui is not speaking as a disclosed witness to that internal meeting.",
+      "captures": [
+        {
+          "path": "/Users/jorsc/.codex/.chatgpt-projects/g-p-6a94dd290a988191911d85ae8fe94a6c/tmp/pdfs/research-2026-09-17/trade-2019-participants/cui-bloomberg-20190524.html",
+          "bytes": 67843,
+          "sha256": "23570297db360b418f864549c04fde96dd0b11eaae8b7f8272dd51efce91369b",
+          "status": "Public publisher capture"
+        },
+        {
+          "path": "/Users/jorsc/.codex/.chatgpt-projects/g-p-6a94dd290a988191911d85ae8fe94a6c/tmp/pdfs/research-2026-09-17/trade-2019-participants/cui-bloomberg-20190524.txt",
+          "bytes": 12305,
+          "sha256": "4938404d99c9ec8bb6e6de90150b238ca755739450b594aeff91ebebc06bf07d",
+          "status": "Derived text; not an independent source"
+        }
+      ]
+    },
+    {
+      "id": "T19P04",
+      "title": "CLM Insights Interview with Bob Davis and Lingling Wei",
+      "url": "https://www.prcleader.org/post/clm-insights-interview-with-bob-davis-and-lingling-wei",
+      "publication_date": "2020-09-01, Issue 65",
+      "event_date": "Interview date not separately specified; retrospection on April 2019 and later events",
+      "source_type": "Original interview with the reporters/authors of Superpower Showdown; not negotiator testimony",
+      "reading_date": "2026-09-17",
+      "reading_scope": "Complete published interview: all seven questions and answers and author biographies. No reading of the book is claimed.",
+      "decisive_locators": "First question and Lingling Wei’s answer; derived text lines 27–28.",
+      "limits": "Wei attributes resistance to an April Standing Committee discussion while saying Liu kept Xi informed. This interview names neither the three objectors nor underlying informants, supplies no internal record or draft, and mixes reporting with inferred motives. Same authors/reporting chain as T19P05; not independent corroboration.",
+      "captures": [
+        {
+          "path": "/Users/jorsc/.codex/.chatgpt-projects/g-p-6a94dd290a988191911d85ae8fe94a6c/tmp/pdfs/research-2026-09-17/trade-2019-participants/davis-wei-clm-2020.html",
+          "bytes": 1491723,
+          "sha256": "8a6056734c68903368868e069732a06903b46a243b0ad85b323fab5533cae657",
+          "status": "Public publisher capture"
+        },
+        {
+          "path": "/Users/jorsc/.codex/.chatgpt-projects/g-p-6a94dd290a988191911d85ae8fe94a6c/tmp/pdfs/research-2026-09-17/trade-2019-participants/davis-wei-clm-2020.txt",
+          "bytes": 19394,
+          "sha256": "213f8aaf9f52028c14a8e9c227825f6f0621767321c5a5b30ac80823992dd40d",
+          "status": "Derived text; not an independent source"
+        }
+      ]
+    },
+    {
+      "id": "T19P05",
+      "title": "Superpower Showdown: Discussion of New Book by Bob Davis and Lingling Wei",
+      "url": "https://bfi.uchicago.edu/wp-content/uploads/Superpower-Showdown_-Discussion-of-New-Book-by-Bob-Davis-and-Lingling-Wei_Transcript.pdf",
+      "publication_date": "2020; PDF creation metadata June 26, 2020, not treated as verified event date",
+      "event_date": "Exact event date not verified in acquired PDF",
+      "source_type": "Institution-hosted transcript of a BFI China/ABFER discussion with Davis, Wei, Zhiguo He, Chong-En Bai and Chang-Tai Hsieh",
+      "reading_date": "2026-09-17",
+      "reading_scope": "Selected complete physical PDF pages 11–13, plus the cover and introductory physical pages 1–2; 26-page PDF is acquired, not fully read. Physical page 12 visually inspected.",
+      "decisive_locators": "Physical 11: Hsieh’s hypothetical question; physical 12, last paragraph: Davis qualifies his draft account; physical 13: counterfactual discussion and further questions.",
+      "limits": "Davis describes a preliminary agreement as reported to the authors, not a document he authenticates here. The hypothetical effects on trust, tariffs and the pandemic are not adopted as findings. Transcript contains obvious transcription errors. The host’s guessed event-page URL was inaccessible; exact date left unresolved.",
+      "captures": [
+        {
+          "path": "/Users/jorsc/.codex/.chatgpt-projects/g-p-6a94dd290a988191911d85ae8fe94a6c/tmp/pdfs/research-2026-09-17/trade-2019-participants/davis-wei-chicago-2020.pdf",
+          "bytes": 197516,
+          "sha256": "a9f159ed7601679142fe30c955dc94e623b4c17cf3dad0ac1de41399fad35428",
+          "status": "Public publisher capture"
+        },
+        {
+          "path": "/Users/jorsc/.codex/.chatgpt-projects/g-p-6a94dd290a988191911d85ae8fe94a6c/tmp/pdfs/research-2026-09-17/trade-2019-participants/davis-wei-chicago-2020.txt",
+          "bytes": 65102,
+          "sha256": "63b87625ec9f557cfab9fb38b41a0c597854cebe1c8f12600fb715662c34b739",
+          "status": "Derived text; not an independent source"
+        }
+      ],
+      "visual_checks": [
+        {
+          "path": "/Users/jorsc/.codex/.chatgpt-projects/g-p-6a94dd290a988191911d85ae8fe94a6c/tmp/pdfs/research-2026-09-17/trade-2019-participants/davis-wei-chicago-p12.png",
+          "bytes": 284460,
+          "sha256": "c049951b852cc45f75157abc77f4d6d0b71c24a0a25a5c129c7a1a64bf4b9c6f",
+          "status": "Rendered physical page 12; visually inspected"
+        }
+      ]
+    },
+    {
+      "id": "T19P06",
+      "title": "Lawfare Daily: Ambassador Robert Lighthizer on Trade Policy",
+      "url": "https://www.lawfaremedia.org/article/lawfare-daily-ambassador-robert-lighthizer-on-trade-policy",
+      "publication_date": "2024-04-23 09:19",
+      "event_date": "Interview date not separately verified",
+      "source_type": "Participant interview with Jack Goldsmith; publisher labels transcript auto-generated and potentially erroneous",
+      "reading_date": "2026-09-17",
+      "reading_scope": "Acquired and keyword-screened; selected general China/trade passages only. Not a complete reading and not used for a substantive 2019 process claim.",
+      "decisive_locators": "Title/date and automatic-transcription warning; selected passages on Section 301 and trade policy.",
+      "limits": "Screening did not yield a sufficiently specific February–May 2019 sequence. Excluded from substantive findings and complete-reading count.",
+      "captures": [
+        {
+          "path": "/Users/jorsc/.codex/.chatgpt-projects/g-p-6a94dd290a988191911d85ae8fe94a6c/tmp/pdfs/research-2026-09-17/trade-2019-participants/lighthizer-lawfare-2024.html",
+          "bytes": 115796,
+          "sha256": "8543d38d289ce8dab825cda9d262bec398677b1cc55abd7e5ccb5ecf49f0347f",
+          "status": "Public publisher capture"
+        },
+        {
+          "path": "/Users/jorsc/.codex/.chatgpt-projects/g-p-6a94dd290a988191911d85ae8fe94a6c/tmp/pdfs/research-2026-09-17/trade-2019-participants/lighthizer-lawfare-2024.txt",
+          "bytes": 53989,
+          "sha256": "589790b149dbc078bd7c50b87f8e9d954dd28854dee150449ed116fa0bfa1dfd",
+          "status": "Derived text; not an independent source"
+        }
+      ]
+    }
+  ],
+  "search_limits": [
+    "Read existing US/Chinese trade registers and developmental process register before acquisition; did not reacquire the May 8 Reuters report, February 2019 hearing/Oval Office transcript, or September/October partial-deal sources.",
+    "Bounded searches pursued Liu/Cui public interviews, Lighthizer participant interviews, and Davis–Wei original interviews. Public NYT original for May 16, 2019 returned a non-retryable access error; no bypass or reliance on derivative quotations.",
+    "Publisher page advertises a CLM PDF, but only its complete HTML was acquired. BFI event date search did not verify a date; PDF metadata is recorded separately.",
+    "No inference about absent sources from unsuccessful search; this is not a comprehensive archive search."
+  ]
+}

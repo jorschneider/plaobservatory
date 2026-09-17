@@ -18,7 +18,7 @@
     },
     {
       "path": "chapters/03-usable-expertise.md",
-      "sha256": "0d5964e25235c77134c172808a08318f22a46b1d293897e35f1e33bb58b931ca"
+      "sha256": "8cc473da02eccf4deb522bf4a810f954946d5cfd4b311205b66a889abde4430f"
     },
     {
       "path": "chapters/04-negotiating-in-crisis.md",
@@ -26,7 +26,7 @@
     },
     {
       "path": "chapters/05-partial-trade-settlement.md",
-      "sha256": "72e37ee69067a0ee1d6a79085457815c9f14c0e6b474ddaf91ae8d9307264681"
+      "sha256": "54ac077c46f2acf0252065c45a24a2d51c0370cd5a8ef79518364c758eeb8890"
     },
     {
       "path": "chapters/06-after-the-signature.md",
@@ -46,16 +46,16 @@
     },
     {
       "path": "appendices/02-chronology.md",
-      "sha256": "91821d898ad5a72a36b454936f569eb42ab199629dad52cff3bf552a0703047b"
+      "sha256": "50e516e7a6d2e5e790c9068715d8f0fc55d0ba3009feb04b4276a666220cb34b"
     },
     {
       "path": "appendices/03-bibliography-and-sources.md",
-      "sha256": "6591e67191600f14bd9c62b2aa9deeb3c7860684a48d1b710b8ad99a7e32834f"
+      "sha256": "b213d35b3b2778e7a8bcfcb01ef0b04a44db2b5df857a5aa6bc53bfb3a167903"
     }
   ],
   "output": {
     "path": "reading-edition.html",
-    "sha256": "4905e81e9940dbb9a0614fb96902eb44b6d5ea20502fb102ac75df440d57e21b"
+    "sha256": "80b24ff3f3922fe6aa71b4747494ad07145c07579cc1afbe112600a12a8e34e8"
   },
   "note": "Integrity and rendering record; not a claim that historical assertions are mechanically verified."
 }

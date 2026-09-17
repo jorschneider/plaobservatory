@@ -1,0 +1,31 @@
+# Participant decisions and the work after a victory
+
+September 17, 2026. This substantive pass began at `710425b`. It revises Chapters 3 and 5 after a [sequential reading of both narrative bodies](middle-chapters-reader-audit-710425b.md), acquires Chinese participant accounts and an American administrative record, and makes the intervening decisions more explicit. It is not another complete book review.
+
+## What changes in the manuscript
+
+Chapter 3 opens with Li Chenggang's recollection of rejecting counsel's proposed presentation of the double-remedies argument. His public account shows an official choosing how to use acquired expertise and explaining the ministry's investment in litigation. Xiao Jin's interview supplies a different professional consideration: China's positions must remain coherent when it is a complainant and when it is a respondent. Neither account independently establishes what persuaded the tribunal.
+
+The implementation narrative now follows the American producers' challenge, a court's demand for further explanation, Commerce's decision to seek direct company pricing evidence, and the reported nonresponse that preceded withdrawal of the sacks adjustment. The recovered remand replaces an unexplained reversal with the agency's stated reasoning. It does not disclose the companies' reasons or settle WTO compliance. The Huantai land episode now follows the ruling whose consequences it illustrates; the earlier loan-benchmark example remains in a note. Repeated explanations of climate targets' mutual acceptability are shortened while the conflicting domestic purposes and multilateral negotiation remain.
+
+Chapter 5 distinguishes a disputed purchase baseline from the status of the provisional draft. Liu's longer published answer describes an earlier preliminary understanding without revealing a quantity. Davis and Wei's later interviews describe senior resistance to the package while expressly qualifying what they reconstructed. Those interviews belong to one reporting chain. Their account does not establish Liu's private instructions or whether Xi had previously authorized the particular terms. The chapter's repeated remedy comparisons and concluding theory paragraph are shortened; the good-faith/bad-faith remedy distinction and the 1995 comparison remain.
+
+These are substantive additions to the explanation of decisions, alongside cuts to repetition. They do not change the 59-proposition assessment or the 198 coded observations. The complete scholarly-work count remains 24.
+
+## Research actually added
+
+- [Chinese DS379 participant follow-up](ds379-participant-followup-2026-09-17.md), [register](ds379-participant-followup-2026-09-17.json): complete university transcript of Li's discussion; complete published Xiao profile and eight exchanges; complete available Chen Weidong web reproduction, expanding an earlier selected reading; treaty check of a faulty gloss in the transcript. Chen's original journal edition remains unverified. The root independently read the relevant complete Li exchanges and all eight Xiao exchanges, not the entire Li transcript.
+- [Remand reconstruction](ds379-remand-reconstruction-2026-09-17.md), [register](ds379-remand-reconstruction-2026-09-17.json): complete 30-page *Wheatland* opinion and ten-page sacks redetermination, including the scanned signed page; renewed checks of the previously acquired final judgment and notice. The pipe opinion and sacks decision remain distinct proceedings. Failed live downloads were identified as unrelated documents and excluded.
+- [2019 participant and reporter follow-up](trade-2019-participant-followup-2026-09-17.md), [register](trade-2019-participant-followup-2026-09-17.json): four complete published texts, plus selected pages of the Chicago Davis–Wei discussion. The root independently read the decisive Liu exchange, the complete first CLM question and answer, and the Chicago page visually. The full *Superpower Showdown* was not read. Cui's contemporary expectation about eventual approval remains in the research memo rather than becoming another narrative episode.
+
+The registers distinguish source versions, reuse, reading scopes, hashes and failed acquisition. More captures do not imply more independent witnesses.
+
+## Applied review and remaining limits
+
+The [Chapter 3 review](chapter-03-integration-review-710425b.md) covers its complete revised body before the final Xiao substitution, all new Li/remand notes and specified original passages; a separate addendum checks Xiao's paragraph and note. The root corrected an unsupported presupposition that counsel had objected to Li's alternative and made the implementation-answer locator precise. The [Chapter 5 edit record](chapter-05-reader-edit-710425b.md) records the initial cuts. A [separate source integration review](chapter-05-participant-integration-review-710425b.md) checks the new Liu and reporter passages and notes. Its small clarity suggestion—“three other Standing Committee members”—was applied.
+
+The root subsequently read the entire revised Chapter 3 body in bounded sections and the revised Chapter 5 opening through the new passages; the complete Chapter 5 body had been read after the initial cuts. This is a scoped reading record, not a fresh sequential reading of all nine bodies.
+
+The bibliography, reading ledger and chronology now identify the new evidence. The [edition verification](../reading-edition-validation-participants-2026-09-17.md) records the rebuilt artifact and checks. The previous [narrative and general-license checkpoint](narrative-and-general-license-integration-2026-09-17.md) remains the record of the preceding edition.
+
+The next consequential research gaps are still original instructions, draft histories and missing administrative submissions—not additional outcome announcements. A Chinese public recollection, an agency's account of absent responses and reporters' reconstruction of a closed meeting each improve the history while answering different questions. The manuscript must preserve those differences without making its narrative a catalogue of caveats. Publication quality remains an active objective; internal reviews and successful rendering do not establish it.

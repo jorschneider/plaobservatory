@@ -1,0 +1,289 @@
+{
+  "title": "DS379 Chinese participant follow-up",
+  "research_date": "2026-09-17",
+  "related_memo": "ds379-participant-followup-2026-09-17.md",
+  "source_count": 4,
+  "source_counts": {
+    "new_substantive_accounts": 2,
+    "expanded_reading_existing_work": 1,
+    "primary_text_validation_capture": 1
+  },
+  "scope": "Chinese participant/counsel choices and contemporary scholarship; no new administrative submissions or later-remand research",
+  "raw_directory": "/Users/jorsc/.codex/.chatgpt-projects/g-p-6a94dd290a988191911d85ae8fe94a6c/tmp/pdfs/research-2026-09-17/ds379-participant",
+  "sources": [
+    {
+      "id": "DSP17-01",
+      "title": "高伟绅论坛第72期：李成钢讲座实录",
+      "speakers": [
+        "李成钢 / Li Chenggang",
+        "郭策 / Guo Ce",
+        "韩立余 / Han Liyu",
+        "王军 / Wang Jun",
+        "盛建明 / Sheng Jianming",
+        "龚老师 (not expanded to a full name here)",
+        "Audience questioners"
+      ],
+      "publisher": "International Economic Law website hosted by UIBE; page identifies the international-economic-law society as sponsor",
+      "url": "https://ielaw.uibe.edu.cn/zykyjs/gwsjmflbslt/7819.htm",
+      "publication_date": "2011-05-23",
+      "date_precision": "Visible page date. Exact event day not independently established; do not silently equate posting and lecture dates.",
+      "retrieved_date": "2026-09-17",
+      "source_type": "Chinese public transcript of a discussion involving the responsible government official, other officials and academics",
+      "acquisition_status": "Complete original-host HTML obtained; browser reader extracted title/date but omitted body. Direct public download contains full transcript.",
+      "reading_status": "Complete substantive transcript",
+      "reading_scope": "Title/date and full body, preserved text lines 51–138 (21,116 characters), read in three nontruncated blocks. Includes entire presentation and all discussion, not merely DS379 search hits. Website navigation is not part of the credited scope. No audio or slide deck acquired.",
+      "decisive_locators": [
+        {
+          "lines": "51–65",
+          "unit": "Introductions and opening discussion; participants and retrospective setting"
+        },
+        {
+          "lines": "80–88",
+          "unit": "Sheng requests DS379 explanation; complete substantive response"
+        },
+        {
+          "lines": "90–93",
+          "unit": "Audience implementation question and complete Li reply"
+        },
+        {
+          "lines": "94–114",
+          "unit": "Other participants and interjections; keep speaker attribution distinct"
+        },
+        {
+          "lines": "116–127",
+          "unit": "Strategy and industry question, bureau-responsibility intervention and complete responses; counsel passage at 123 and 126"
+        },
+        {
+          "lines": "131–135",
+          "unit": "Final audience question and full Li response"
+        }
+      ],
+      "evidentiary_use": "Participant account of selecting and presenting a WTO argument; supports a bounded narrative choice within the team.",
+      "limits": [
+        "Public retrospective account after the appellate result, not internal instructions or counsel drafts.",
+        "No exact date for the counsel exchange; no identification of its original proposal or proof of causal effect on adjudicators.",
+        "No recovered 2011–2012 Chinese administrative filing; does not explain whether or why a later DS379 compliance case was not pursued.",
+        "Statements by Han, Guo, moderators and audience are not statements by Li.",
+        "Do not adopt national-character generalizations or commercial-outcome predictions as independently established findings.",
+        "Text line 125 reverses the Article19.4 ceiling using 不低于; DSP17-04 controls. Line62 labels the 2002 steel safeguards 301; existing case record identifies Section201. Wording slips preclude a claim of verbatim recording."
+      ],
+      "captures": [
+        {
+          "path": "/Users/jorsc/.codex/.chatgpt-projects/g-p-6a94dd290a988191911d85ae8fe94a6c/tmp/pdfs/research-2026-09-17/ds379-participant/01-li-chenggang-uibe.html",
+          "bytes": 80781,
+          "sha256": "8acfce3a1ace4632d59b4b765aa7113defe2ee516511fa4fad54acce7dd6cf7f",
+          "format": "Original downloaded HTML"
+        },
+        {
+          "path": "/Users/jorsc/.codex/.chatgpt-projects/g-p-6a94dd290a988191911d85ae8fe94a6c/tmp/pdfs/research-2026-09-17/ds379-participant/01-li-chenggang-uibe.txt",
+          "bytes": 63422,
+          "sha256": "f25937eee9042d2af61bc7ac99944daf5a6b8a8aac59c99d22f3c4d1060f25a4",
+          "format": "Locally extracted text; line references are to this preserved file"
+        }
+      ]
+    },
+    {
+      "id": "DSP17-02",
+      "title": "一位WTO专职律师的挑战",
+      "author": "陈玉峰 / Chen Yufeng, 法人 trainee reporter",
+      "interviewee": "肖瑾 / Xiao Jin, King & Wood Mallesons",
+      "publisher": "法人 interview/profile reproduced on MOFCOM WTO/FTA consultation website",
+      "url": "https://chinawto.mofcom.gov.cn/article/ap/p/201410/20141000760492.shtml",
+      "publication_date": "2014-10-15",
+      "publication_time": "18:16:05 (HTML PubDate and tm metadata; timezone not specified)",
+      "date_precision": "MOFCOM posting metadata only; interview day and original journal issue/date not established.",
+      "retrieved_date": "2026-09-17",
+      "source_type": "Journal interview and profile; first-person counsel answers mixed with reporter narration",
+      "acquisition_status": "Complete MOFCOM-hosted HTML preserved",
+      "reading_status": "Complete article and eight questions and answers",
+      "reading_scope": "Full substantive browser body lines177–257 and corresponding local extraction lines330–376, including all eight interview questions; title and HTML date metadata also checked.",
+      "decisive_locators": [
+        {
+          "local_lines": "353–355",
+          "browser_lines": "216–219",
+          "unit": "DS379 description is mainly reporter narration"
+        },
+        {
+          "local_lines": "365–366",
+          "browser_lines": "238–239",
+          "unit": "Question and answer about government versus firm representation"
+        },
+        {
+          "local_lines": "367–373",
+          "browser_lines": "241–251",
+          "unit": "Questions and answers about changes in participation, challenges and the professional environment"
+        }
+      ],
+      "evidentiary_use": "Counsel perspective on consistency across cases and explaining domestic law; supplementary professional context.",
+      "limits": [
+        "MOFCOM hosting does not make this an official ministry statement.",
+        "Does not independently corroborate Li’s rejected-strategy account or identify particular submission authors.",
+        "Promotional framing and reporter causal claims remain attributed. In particular, Chinese pressure causing the US injury result is not adopted.",
+        "Do not use its broad success language to erase the partial losses established by the WTO originals."
+      ],
+      "captures": [
+        {
+          "path": "/Users/jorsc/.codex/.chatgpt-projects/g-p-6a94dd290a988191911d85ae8fe94a6c/tmp/pdfs/research-2026-09-17/ds379-participant/02-xiao-jin-interview.html",
+          "bytes": 66264,
+          "sha256": "aabe3e89422294089d7b36a76b31fe57d52fd5727264679970f83e0823aaec7c",
+          "format": "Original downloaded HTML"
+        },
+        {
+          "path": "/Users/jorsc/.codex/.chatgpt-projects/g-p-6a94dd290a988191911d85ae8fe94a6c/tmp/pdfs/research-2026-09-17/ds379-participant/02-xiao-jin-interview.txt",
+          "bytes": 22625,
+          "sha256": "2672aed0ec80646c190c2db89d4014544620a37f781d91b1ac908cc36e8a6d97",
+          "format": "Locally extracted text; line references are to this preserved file"
+        }
+      ]
+    },
+    {
+      "id": "DSP17-03",
+      "existing_source_id": "DEV-DS03",
+      "title": "对华贸易救济的争端解决与后续执行——以中国起诉案件为重点",
+      "author": "陈卫东 / Chen Weidong",
+      "publisher": "International Economic Law website hosted by UIBE",
+      "url": "https://ielaw.uibe.edu.cn/wtoflzdyj/6978.htm",
+      "publication_date": "2013-04-11",
+      "date_precision": "Website date; body discusses 2012 developments. No original journal issue/page range newly established.",
+      "retrieved_date": "2026-09-17",
+      "source_type": "Contemporary Chinese scholarly analysis, not participant testimony",
+      "acquisition_status": "Reacquired HTML byte-identical to prior DEV-DS03; expanded reading, not a newly discovered work",
+      "reading_status": "Complete available article",
+      "reading_scope": "Title, abstract, all five sections, author identification and all displayed notes read in full, local extraction lines47–139. Previous pass credited only sectionsIII/V and associated notes.",
+      "decisive_locators": [
+        {
+          "lines": "68–80",
+          "unit": "Complete sectionIII on DS379"
+        },
+        {
+          "lines": "89–95",
+          "unit": "Complete sectionV; potential resource explanation appears in fourth reflection, line94"
+        }
+      ],
+      "evidentiary_use": "Distinguishes normative recommendations and speculative explanations from evidence of an official choice.",
+      "limits": [
+        "No interview or internal decision source supporting the conjecture about not initiating compliance litigation.",
+        "Relies on public rulings and administrative determinations; not independent corroboration of their descriptions.",
+        "Prior DEV-DS03 cautions preserved: body July13/footnote July31 discrepancy; statutory-location and specificity compressions.",
+        "Full reading does not constitute independent checking of every legal or numerical claim in the article."
+      ],
+      "captures": [
+        {
+          "path": "/Users/jorsc/.codex/.chatgpt-projects/g-p-6a94dd290a988191911d85ae8fe94a6c/tmp/pdfs/research-2026-09-17/ds379-participant/03-chen-weidong-complete.html",
+          "bytes": 56194,
+          "sha256": "6134b81f7915c61710f9739996a539b8b6dac228975efdc35a1e4050a4bc6445",
+          "format": "Original downloaded HTML"
+        },
+        {
+          "path": "/Users/jorsc/.codex/.chatgpt-projects/g-p-6a94dd290a988191911d85ae8fe94a6c/tmp/pdfs/research-2026-09-17/ds379-participant/03-chen-weidong-complete.txt",
+          "bytes": 41680,
+          "sha256": "a1856e16c7eadc5d2b9560752e0d4ef41987ba1549e54fbf936228bd65221349",
+          "format": "Locally extracted text; line references are to this preserved file"
+        }
+      ]
+    },
+    {
+      "id": "DSP17-04",
+      "title": "Agreement on Subsidies and Countervailing Measures, Article19",
+      "institution": "World Trade Organization",
+      "url": "https://www.wto.org/english/docs_e/legal_e/24-scm_02_e.htm",
+      "document_date": "1994-04-15",
+      "retrieved_date": "2026-09-17",
+      "source_type": "Official treaty text",
+      "acquisition_status": "Official HTML captured; local text decoded from Latin-1",
+      "reading_status": "Selected article",
+      "reading_scope": "Article19.1–19.4 read in browser, lines207–214; not a full reading of the surrounding treaty webpage.",
+      "evidentiary_use": "Direct check of the transcript’s reversed Article19.4 gloss. The actual provision caps the duty at the subsidy amount.",
+      "limits": [
+        "No new dispute outcome or legal advice is inferred.",
+        "Treaty text verifies the ceiling, not whether the transcript error came from the speaker or transcription."
+      ],
+      "captures": [
+        {
+          "path": "/Users/jorsc/.codex/.chatgpt-projects/g-p-6a94dd290a988191911d85ae8fe94a6c/tmp/pdfs/research-2026-09-17/ds379-participant/04-scm-article19.html",
+          "bytes": 94482,
+          "sha256": "56ff992a74875a2a6e33e0fd2e1842b53caa9ed12d29aab542c016b5029d18f1",
+          "format": "Original downloaded HTML"
+        },
+        {
+          "path": "/Users/jorsc/.codex/.chatgpt-projects/g-p-6a94dd290a988191911d85ae8fe94a6c/tmp/pdfs/research-2026-09-17/ds379-participant/04-scm-article19.txt",
+          "bytes": 52507,
+          "sha256": "eae3eeedac835e95f578afc68b3745bb81749dda616c3c5637615877986da303",
+          "format": "Locally extracted text; line references are to this preserved file"
+        }
+      ]
+    }
+  ],
+  "search_log": {
+    "query_count": 30,
+    "queries": [
+      "\"DS379\" \"律师\" \"采访\"",
+      "\"DS379\" \"张月姣\" \"中国\"",
+      "\"DS379\" \"陈卫东\"",
+      "\"肖瑾\" \"艰难的首战告捷\"",
+      "\"肖瑾\" \"DS379\"",
+      "\"DS379\" \"interview\" \"China\" lawyer",
+      "\"双反\" \"肖瑾\" \"2014\"",
+      "\"高伟绅论坛第72期\" \"李成钢\"",
+      "\"肖瑾\" \"复杂的扩大战果之路\"",
+      "site:chinalawinsight.com \"DS379\"",
+      "\"李成钢\" \"律师\" \"宏观\" \"双重救济\"",
+      "\"肖瑾\" \"DS437\" \"2014\" 金杜",
+      "\"肖瑾\" \"首战\" 双反",
+      "\"高伟绅\" \"李成钢\" \"2011\" 讲座",
+      "\"一位WTO专职律师的挑战\" \"陈玉峰\"",
+      "\"李成钢\" \"第72期\" 时间",
+      "\"李成钢\" \"DS379\" \"2011年\" \"讲座\"",
+      "\"金杜\" \"中国政府在WTO\" \"2014\" \"双反\"",
+      "\"肖瑾\" \"扩大战果\"",
+      "site:law.uibe.edu.cn 李成钢 2011 高伟绅",
+      "site:news.uibe.edu.cn 李成钢 2011 讲座",
+      "\"高伟绅论坛\" \"72\" 商务部",
+      "\"肖瑾\" \"双反\" \"2014年7月\" 金杜",
+      "site:kwm.com DS379 肖瑾",
+      "site:chinalawinsight.com \"双反\" \"2014\"",
+      "site:chinalawinsight.com \"十年较量\"",
+      "\"中国政府在WTO诉美国反补贴措施再获胜诉\"",
+      "李成钢 2011 5 讲座 对外经贸 双反",
+      "高伟绅 72 李成钢 2011 4",
+      "李成钢 盛建明 郭策 2011 讲座 实录 日期"
+    ],
+    "discovery_aid": {
+      "url": "https://gaodawei.wordpress.com/2025/10/25/2011-prcs-wto-litigator-li-chenggang-on-wto-trade-dispute-resolution-with-the-usa/",
+      "use": "Located original UIBE link; selected introduction/translation passages displayed, not credited as a complete independent source reading. Original Chinese controls; English translation and 2025 framing not used as evidence."
+    },
+    "screened_not_acquired": [
+      {
+        "url": "https://law.uibe.edu.cn/xwzx/xyxw/84105.htm",
+        "scope": "Search-result lead on Xiao/DS437, not full reading."
+      },
+      {
+        "url": "https://m.jiemian.com/article/2032337.html",
+        "scope": "Long search rendering of a later 2018 counsel article; screened, not full-text acquisition or independent DS379 decision evidence."
+      },
+      {
+        "url": "https://www.lexology.com/library/detail.aspx?g=1ee170f2-6101-45ff-8b02-68a1f2696e36",
+        "scope": "Login prompt in search rendering; not accessed through an account."
+      }
+    ],
+    "failed_routes": [
+      {
+        "route": "Browser reader for DSP17-01",
+        "result": "Title/date only; full public raw HTML successfully retrieved instead."
+      },
+      {
+        "route": "Initial local download",
+        "result": "Sandbox DNS failure; authorized public download then succeeded."
+      }
+    ],
+    "unresolved": [
+      "Exact event day and transcription/editorial process for Li discussion",
+      "Original Chinese administrative filings identified in earlier DS-SUB register",
+      "Counsel drafts or independent confirmation of the presentation exchange",
+      "Named firm account explaining submissions or stopping further litigation"
+    ],
+    "limits": "No accounts, outreach, payments or confidential access. Earlier ACCESS search was not repeated. Source acquisition ends after the consequential participant account and bounded checks."
+  },
+  "source_independence": "The translation repeats the transcript. Xiao does not corroborate the exact Li/counsel exchange. Chen is academic commentary, partly dependent on previously acquired legal decisions. No pooled corroboration claim.",
+  "integration_recommendation": "Use the short participant-led passage in the memo; retain existing legal and administrative outcomes as a separate test of delivery, with no claim that Li caused the ruling."
+}
